@@ -125,6 +125,8 @@ soma.html
 video.html
 videos.html
 -dating
+-ipad-
+-iphone-
 -gemorroya
 -kredit
 /acai
