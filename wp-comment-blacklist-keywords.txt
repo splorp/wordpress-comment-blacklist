@@ -37,6 +37,7 @@ ephedrine
 estradiol
 falsedoc
 fenoma
+finasteride
 fioricet
 forex
 freeipad
@@ -65,6 +66,8 @@ modafinil
 mortgagecalc
 norvasc
 oemsoftware
+options-trad
+optionstrad
 ordersoma
 oxycodone
 oxycontin
