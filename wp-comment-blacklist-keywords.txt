@@ -52,6 +52,7 @@ hyzaar
 instantcash
 isotretinoine
 kamagra
+labetalol
 lamisil
 lasix
 levitra
@@ -80,6 +81,7 @@ poker-chip
 pokerchip
 prazosin
 prednisone
+profits-
 propecia
 propranolol
 raloxifene
@@ -109,6 +111,7 @@ vicodin
 wellbutrin
 xanax
 xenical
+xxx-
 zanaflex
 zantac
 zithromax
@@ -125,9 +128,9 @@ soma.html
 video.html
 videos.html
 -dating
+-gemorroya
 -ipad-
 -iphone-
--gemorroya
 -kredit
 /acai
 /casino
