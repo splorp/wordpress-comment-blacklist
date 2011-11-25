@@ -131,6 +131,7 @@ video.html
 videos.html
 -dating
 -gemorroya
+-gifts-
 -ipad-
 -iphone-
 -kredit
