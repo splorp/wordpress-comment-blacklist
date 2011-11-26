@@ -78,6 +78,7 @@ percocet
 pharmacies
 pharmacy
 phentermine
+plavix
 poker-chip
 pokerchip
 prazosin
@@ -135,10 +136,15 @@ videos.html
 -ipad-
 -iphone-
 -kredit
+-kredyt
+-loan-
+-mortgage-
 /acai
 /casino
 /drug
 /hentai
+/kredit
+/kredyt
 /medical
 /mortgage
 /loans
