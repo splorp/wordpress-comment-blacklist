@@ -175,6 +175,8 @@ videos.html
 -linkbuild
 -loan-
 -mortgage-
+-sigareta-
+-sigarety-
 /acai
 /casino
 /drug
@@ -188,7 +190,10 @@ videos.html
 /prozac
 /seo
 /sex
+/sigareta-
+/sigarety-
 /soma
+/xxx
 [/url]
 [...
 -reviews.net
