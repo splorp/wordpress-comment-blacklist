@@ -245,3 +245,4 @@ videos.html
 linkusupng.com
 time-synchronisation.co.uk
 totaldns.in
+weekly.info
