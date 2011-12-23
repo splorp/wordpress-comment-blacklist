@@ -70,6 +70,7 @@ gleevec
 glutamina
 glyburide
 goosecheap
+goosescheap
 griseofulvin
 home-loan
 hoodia
@@ -92,6 +93,7 @@ lipitor
 lisinopril
 lorazepam
 lortab
+louisvuittonbag
 loseweight
 loteprednol
 maxalt
@@ -120,6 +122,7 @@ phentermine
 plavix
 poker-chip
 pokerchip
+pozycjonowanie
 prazosin
 prednisone
 pregnancysymptom
@@ -251,3 +254,4 @@ time-synchronisation.co.uk
 totaldns.in
 weekly.info
 www.casino
+xxx.ru
