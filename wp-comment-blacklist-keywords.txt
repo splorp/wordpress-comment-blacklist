@@ -15,6 +15,7 @@ amoxil
 aricept
 ativan
 backlink
+badcredit
 benzoclin
 biaxin
 bitartrate
@@ -70,9 +71,10 @@ gleevec
 glucophage
 glutamina
 glyburide
+gooseca
 goosecheap
 goosedk
-gooseparkasale
+gooseparka
 goosescheap
 griseofulvin
 home-loan
@@ -106,8 +108,10 @@ methadone
 metronidazole
 mirapex
 modafinil
+moneyfast
 mortgagecalc
 naltrexone
+needmoney
 neurontin
 niaspan
 nizoral
@@ -254,6 +258,7 @@ videos.html
 /sigareta-
 /sigarety-
 /soma
+/uggs-
 /xxx
 [/url]
 [...
