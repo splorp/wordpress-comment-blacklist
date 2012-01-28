@@ -278,6 +278,7 @@ tnf-sale
 tnfsale
 tofranil
 topamax
+topvideocon
 torrentmovie
 torsemide
 tramadol
@@ -338,6 +339,7 @@ zanaflex
 zantac
 zithromax
 zoloft
+zolpidem
 zyprexa
 zyrtec
 zyvox
@@ -358,6 +360,8 @@ zyvox
 -linkbuild
 -loan-
 -loans-
+-magazin-
+-magazini-
 -mortgage-
 -payday
 -prada-
@@ -414,6 +418,7 @@ scam.net
 time-synchronisation.co.uk
 totaldns.in
 travel.pl
+sirenos.in
 weekly.info
 www.casino
 www.cheap
