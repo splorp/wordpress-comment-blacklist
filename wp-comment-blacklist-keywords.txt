@@ -363,7 +363,8 @@ zyvox
 -magazin-
 -magazini-
 -mortgage-
--payday
+-odejda-
+-payday-
 -prada-
 -sigareta-
 -sigarety-
