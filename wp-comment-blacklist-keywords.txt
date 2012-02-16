@@ -32,6 +32,8 @@ bagssale
 bagsstore
 bagstore
 benzoclin
+bydrehead
+bydre-head
 bestsupplement
 bestsuppliment
 biaxin
@@ -52,6 +54,8 @@ buy-soma
 buycheap
 buycig
 buysoma
+bydrehead
+bydre-head
 cagoosejacket
 cagoosesale
 camgirl
@@ -224,6 +228,8 @@ moneyfast
 moneymak
 monsterbeat
 monster-beat
+monsterheadphon
+monster-headphon
 mortgage.html
 mortgagecalc
 naltrexone
@@ -397,6 +403,7 @@ xalatan
 xanax
 xenical
 xopenex
+xrumer
 xxx-
 yourloan
 zanaflex
@@ -404,6 +411,7 @@ zantac
 zithromax
 zoloft
 zolpidem
+zyban
 zyprexa
 zyrtec
 zyvox
