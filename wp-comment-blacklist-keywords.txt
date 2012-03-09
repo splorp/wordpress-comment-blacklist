@@ -13,7 +13,7 @@ adultdating
 advert-market
 alendronate
 alprazolam
-amateurs.html
+amateurs.htm
 ambien
 amitriptyline
 amoxicil
@@ -121,6 +121,8 @@ diazepam
 diclofenac
 dietpill
 differin
+discount-
+discounted-
 djtool
 drugcheap
 drugscheap
@@ -136,7 +138,8 @@ fastcash
 fenoma
 fibromyalgia
 finance-
-financing.html
+finance.htm
+financing.htm
 finasteride
 fioricet
 flagyl
@@ -156,6 +159,8 @@ furosemide
 gabapentin
 game-casino
 games-casino
+generatecash
+generatingcash
 gleevec
 glucophage
 glutamina
@@ -256,7 +261,7 @@ monsterbeat
 monster-beat
 monsterheadphon
 monster-headphon
-mortgage.html
+mortgage.htm
 mortgagecalc
 naltrexone
 needmoney
@@ -267,7 +272,9 @@ northfacejack
 northfaceout
 northfacesale
 norvasc
-nude.html
+nude.htm
+obuwie
+odziez
 oemsoftware
 onlineblog
 onlinecasino
@@ -309,7 +316,7 @@ prazosin
 prednisone
 pregnancysymptom
 premarin
-prescription.html
+prescription.htm
 previcox
 proactol
 profits-
@@ -338,7 +345,7 @@ seohost
 seoplugin
 seotool
 sertraline
-sex.html
+sex.htm
 sexblog
 sexcam
 sexgame
@@ -359,7 +366,7 @@ shopboots
 sildenafil
 sinequan
 skelaxin
-soma.html
+soma.htm
 strattera
 stromectol
 sumatriptan
@@ -372,6 +379,7 @@ tax-debt
 teensex
 teen-sex
 tenormin
+timeshare
 tirediscounted
 tiresdiscounted
 tirewholesale
@@ -430,8 +438,8 @@ valtrex
 venlafaxine
 viagra
 vicodin
-video.html
-videos.html
+video.htm
+videos.htm
 vidios
 vigrx
 vimax
