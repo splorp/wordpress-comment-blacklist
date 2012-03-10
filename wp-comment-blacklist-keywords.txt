@@ -311,6 +311,8 @@ play-online
 poker-chip
 pokerchip
 pornolady
+pornsex
+porn-sex
 pozycjonowanie
 prazosin
 prednisone
@@ -481,6 +483,7 @@ zyvox
 -dieta-
 -discount
 -doktora-
+-gaming-
 -gemorroya
 -gifts-
 -handbag-
@@ -573,5 +576,5 @@ weekly.info
 www.casino
 www.cheap
 www.sale
-xxx.com
-xxx.ru
+xx.com
+xx.ru
