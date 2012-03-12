@@ -542,7 +542,8 @@ zyvox
 .totaldns.in
 .travel.pl
 .webs.com
-1.ru
+.ru/user
+.pl/user
 2itb.com
 casino.com
 casub.com
