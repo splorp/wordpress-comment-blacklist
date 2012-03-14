@@ -1,7 +1,9 @@
+%d8%
 -anal-
 -b2b
 -bluray-x
 -casino-
+-cheap-
 -cheapest-
 -cheats
 -cigarette-
@@ -27,6 +29,7 @@
 -payday-
 -prada-
 -ru.
+-seo-
 -sexy-
 -sigareta-
 -sigarety-
@@ -319,10 +322,12 @@ levaquin
 levitra
 librium
 linguim.com
+link-build
 linkbuild
-linklegends.com
+linklegend
+link-track
 linktrack
-linkusupng.com
+linkusup
 lipitor
 lisinopril
 lorazepam
@@ -340,6 +345,7 @@ lvoutlet
 mail.ru
 makemoney
 marketing-marketing
+matural
 maxalt
 meclizine
 meloxicam
@@ -430,6 +436,7 @@ pregnancysymptom
 premarin
 prescription.htm
 previcox
+przeprowadzki
 proactol
 profits-
 proisxozhdenie
