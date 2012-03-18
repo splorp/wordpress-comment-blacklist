@@ -11,6 +11,7 @@
 -dieta-
 -discount
 -doktora-
+-for-sale
 -gaming-
 -gemorroya
 -gifts-
@@ -39,6 +40,7 @@
 -unlockphone
 -vuitton-
 -wheels-
+?domain=
 .credopa.in
 .filpan.ru
 .filvce.in
@@ -50,9 +52,11 @@
 .online.ws
 .outlet.com
 .pl/content
+.pl/member
 .pl/profile
 .pl/user
 .ru/content
+.ru/member
 .ru/profile
 .ru/user
 .sirenos.in
@@ -225,6 +229,7 @@ dealsuk
 dealsus
 dealuk
 dealus
+desconto
 diamox
 diazepam
 diclofenac
@@ -297,6 +302,7 @@ gucci-outlet
 gucci-replica
 guccioutlet
 guccireplica
+gucciuk
 hair-growth
 hairgrowth
 handbagout
@@ -377,6 +383,7 @@ matural
 maxalt
 meclizine
 meloxicam
+member.php?u=
 meratol
 meridia
 metacam
@@ -459,6 +466,8 @@ play-online
 playonline
 poker-chip
 pokerchip
+polo-ralph
+poloralph
 porn-sex
 pornolady
 pornsex
@@ -534,6 +543,7 @@ sildenafil
 sinequan
 skelaxin
 soma.htm
+sprzedaz
 strattera
 stromectol
 sumatriptan
@@ -602,7 +612,9 @@ uggscheap
 uggsfor
 uggslove
 uggsonline
+uk-handbag
 ukclsale
+ukhandbag
 ukmall
 uksale
 ukugg
