@@ -30,13 +30,14 @@
 -prada-
 -rims-
 -ru.
--tax-relief
--tax-settlement
 -seo-
 -sexy-
 -sigareta-
 -sigarety-
 -supplements-
+-tax-attorney
+-tax-relief
+-tax-settlement
 -uggs-
 -unlockiphone
 -unlockphone
@@ -97,6 +98,7 @@
 %d8%
 <a>
 2itb.com
+3ww3.com
 acai-
 acaiberry
 accutane
@@ -135,6 +137,7 @@ bagsoutlet
 bagssale
 bagsstore
 bagstore
+before-purchasing
 benzoclin
 bestlaptop
 bestsupplement
@@ -146,6 +149,8 @@ bitartrate
 bizstore
 blackjack
 blog-tricks
+blog.php?blog_id
+blog.php?user
 blogs-tricks
 blowjob
 bootsugg
@@ -172,7 +177,9 @@ canadagoosepark
 canadagooses
 canadaoutlet
 cannabis-seed
+card-debt
 carisoprodol
+cars-games
 cashloan
 casino.com
 casub.com
@@ -217,6 +224,7 @@ couponcode
 cristmas-
 cure.co.uk
 cures.co.uk
+custom-nike
 custom-rim
 custom-wheel
 custom+tire
@@ -231,6 +239,7 @@ dealsuk
 dealsus
 dealuk
 dealus
+debt-relief
 desconto
 diamox
 diazepam
@@ -268,9 +277,11 @@ floxacin
 fluoxetine
 forex
 free-bid
+free-classified
 free-ipad
 free-iphone
 free-ipod
+free-online
 free-website
 freebid
 freeipad
@@ -385,7 +396,7 @@ matural
 maxalt
 meclizine
 meloxicam
-member.php?u=
+member.php?u
 meratol
 meridia
 metacam
@@ -425,6 +436,7 @@ odziez
 oemsoftware
 online-blog
 online-casino
+online-classified
 online-invest
 online-marketing
 online-med
@@ -463,6 +475,7 @@ phentermine
 phonescanada
 phpBB2/profile
 phpBB2/user
+pills.com
 plavix
 play-online
 playonline
@@ -559,6 +572,7 @@ tax-debt
 teen-sex
 teensex
 tenormin
+things-consumers
 time-synchronisation.co.uk
 timeshare
 tipblog
@@ -577,6 +591,7 @@ tnfsale
 tofranil
 top-forum
 top-muscle
+top-rank
 top-site
 topamax
 topiramate
