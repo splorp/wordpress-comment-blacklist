@@ -1,3 +1,11 @@
+smallbusinessplan
+biz.pl
+gigantix.co
+seo.info
+-wedding-photo
+articles.com
+kosmetyc
+armagard.co
 furiousguy
 articlepowa
 goldgeek
@@ -49,6 +57,7 @@ hot-girl
 -vuitton-
 -wheels-
 ?domain=
+?title=user
 .credopa.in
 .filpan.ru
 .filvce.in
