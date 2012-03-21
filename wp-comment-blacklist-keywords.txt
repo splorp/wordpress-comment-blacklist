@@ -1,4 +1,3 @@
-
 -anal-
 -b2b
 -bluray-x
@@ -50,6 +49,8 @@
 ?p=blogs
 ?title=user
 ?view=detail
+.cfmx
+.com/user/
 .credopa.in
 .filpan.ru
 .filvce.in
@@ -60,6 +61,8 @@
 .online.pl
 .online.ws
 .outlet.com
+.php?u=
+.php/member
 .pl/content
 .pl/member
 .pl/profile
@@ -75,6 +78,7 @@
 [...
 [/url]
 @hotmail.
+@toke.com
 /acai
 /burberry-
 /casino
@@ -120,6 +124,7 @@ adderoll
 adipex
 adultdating
 advert-market
+agencje-
 alendronate
 alprazolam
 amateurs.htm
@@ -158,6 +163,7 @@ bigcock
 bitartrate
 biuro-solido
 biz.pl
+biznes-
 bizstore
 blackjack
 blog-tricks
@@ -256,8 +262,11 @@ desconto
 diamox
 diazepam
 diclofenac
+diet-pill
+diet-supplement
 diet.co
 dietpill
+dietsupplement
 differin
 discount-
 discount.co.uk
@@ -297,6 +306,7 @@ free-iphone
 free-ipod
 free-online
 free-website
+free.info
 freebid
 freeipad
 freeiphone
@@ -418,7 +428,9 @@ matural
 maxalt
 meclizine
 meloxicam
+member.php?
 member.php?u
+memberlist.php?
 meratol
 meridia
 metacam
@@ -430,6 +442,7 @@ mirapex
 mkhandbag
 mkoutlet
 modafinil
+mode=viewprofile
 moldremov
 moneyfast
 moneymak
@@ -540,6 +553,7 @@ rilopkais.in
 rizatriptan
 roger-vivier
 rosuvastatin
+rusztowania
 sale.co.uk
 salecanada
 saleoutlet
@@ -549,6 +563,7 @@ salesshop
 salestraining
 saletraining
 scam.net
+secret.com
 seks.ru
 sell-now
 sellnow
