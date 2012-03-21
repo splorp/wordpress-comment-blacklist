@@ -1,3 +1,4 @@
+gmaiil
 smallbusinessplan
 biz.pl
 gigantix.co
@@ -56,6 +57,7 @@ hot-girl
 -unlockphone
 -vuitton-
 -wheels-
+?p=blogs
 ?domain=
 ?title=user
 .credopa.in
