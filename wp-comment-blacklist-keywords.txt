@@ -84,6 +84,7 @@
 /casino
 /drug
 /hentai
+/katalog-
 /konsultan-
 /kredit
 /kredyt
@@ -94,6 +95,7 @@
 /medical
 /mortgage
 /orgasm
+/piece-
 /porn
 /profile.php
 /prozac
@@ -378,6 +380,8 @@ hydraulik-
 hydrocodone
 hyzaar
 income.info
+index.php?m=
+index.php?page=
 infos-
 infos/
 insdier
@@ -727,6 +731,9 @@ warszawa-
 watch-replica
 watchreplica
 web-promotion
+webpromotion
+websolution
+web-solution
 websex
 weekly.info
 weeklyincome
