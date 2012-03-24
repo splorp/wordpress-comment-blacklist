@@ -1,6 +1,6 @@
 -anal-
 -b2b
--bluray-x
+-bluray-
 -casino-
 -cheap-
 -cheapest-
@@ -756,8 +756,10 @@ xx.ru
 xxx-
 xxx@
 your_account
+your_ex
 your_loan
 your_profile
+your-account
 your-ex
 youraccount
 yourloan
