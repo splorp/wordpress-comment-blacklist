@@ -95,6 +95,7 @@
 /medical
 /mortgage
 /orgasm
+/piece,
 /piece-
 /porn
 /profile.php
