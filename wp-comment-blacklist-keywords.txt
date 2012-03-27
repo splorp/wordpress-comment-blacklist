@@ -12,6 +12,7 @@
 -discount
 -doktora-
 -for-sale
+-gambling
 -gaming-
 -gemorroya
 -gifts-
@@ -26,7 +27,10 @@
 -magazini-
 -mortgage-
 -odejda-
+-offshore-
+-onlayn-
 -payday-
+-pokies-
 -prada-
 -promotions-
 -promotions.
@@ -279,9 +283,11 @@ diamox
 diazepam
 diclofenac
 diet-pill
+diet-solution
 diet-supplement
 diet.co
 dietpill
+dietsolution
 dietsupplement
 differin
 discount-
@@ -412,7 +418,7 @@ jimmy-choo
 jimmychoo
 jogos
 kamagra
-katalog stron
+katalog-
 katalog.
 kino-online
 kinoonline
@@ -459,6 +465,8 @@ luxuryreplica
 lvbag
 lvoutlet
 mail.ru
+make-money
+makemoney
 makemoney
 malwareremov
 marketing-marketing
@@ -493,6 +501,8 @@ monsterbeat
 monsterheadphon
 mortgage.htm
 mortgagecalc
+mulberry-handbag
+mulberryhandbag
 muscle-supplement
 musclesupplement
 naltrexone
@@ -568,7 +578,10 @@ poker-chip
 pokerchip
 polo-ralph
 poloralph
+porn-live
 porn-sex
+porn.
+pornlive
 pornolady
 pornsex
 pozycjonowanie
@@ -610,6 +623,7 @@ roger-vivier
 rosuvastatin
 rpg-online
 rpgonline
+runescape
 rusztowania
 sale.co.uk
 salecanada
@@ -674,6 +688,7 @@ tax-debt
 teen-sex
 teensex
 tenormin
+the-diet
 things-consumers
 time-synchronisation.co.uk
 timeshare
@@ -793,6 +808,7 @@ your-ex
 youraccount
 yourloan
 yourprofile
+z.info
 zabaw
 zanaflex
 zantac
