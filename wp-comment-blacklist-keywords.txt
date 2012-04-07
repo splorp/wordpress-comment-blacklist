@@ -60,6 +60,7 @@
 ?p=blogs
 ?title=user
 ?view=detail
+.biz
 .cfmx
 .com/user/
 .credopa.in
@@ -94,6 +95,7 @@
 /burberry-
 /casino
 /drug
+/foot-care
 /hentai
 /katalog
 /konsultan
@@ -201,7 +203,9 @@ bootsugg
 bootugg
 burberry-outlet
 burberryoutlet
+burch-outlet
 burch-sale
+burchoutlet
 burchsale
 business-market
 businessmarket
@@ -213,6 +217,7 @@ buy-now
 buy-soma
 buycheap
 buycig
+buying-facebook
 buysoma
 bydre-head
 bydrehead
@@ -269,6 +274,7 @@ cordarone
 coumadin
 coupon-code
 couponcode
+creditcard.org
 cristmas-
 cure.co.uk
 cures.co.uk
@@ -323,6 +329,8 @@ escitalopram
 eshop.com
 estradiol
 exelon
+facebook-fan
+facebookfan
 falsedoc
 fastcash
 fat-loss
@@ -419,8 +427,10 @@ hydraulik-
 hydrocodone
 hyzaar
 income.info
+index.php?a=
 index.php?m=
 index.php?page=
+index.php?showtopic=
 infos-
 infos/
 insdier
@@ -749,6 +759,7 @@ topmuscle
 topvideocon
 torrentmovie
 torsemide
+trafficz
 tramadol
 trazodone
 treatment.in
@@ -792,6 +803,7 @@ ultram
 unknown.ru
 unwanted-hair
 unwantedhair
+userinfo.aspx
 valium
 valtrex
 venlafaxine
