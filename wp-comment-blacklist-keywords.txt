@@ -14,6 +14,7 @@
 -discount
 -doktora-
 -e-guide-
+-filmy
 -for-sale
 -gambling
 -gaming-
@@ -144,6 +145,7 @@ adderoll
 adipex
 adultdating
 advert-market
+adwokacka
 agencje-
 alendronate
 alprazolam
@@ -201,6 +203,7 @@ bonus-code
 bonuscode
 bootsugg
 bootugg
+brrip
 burberry-outlet
 burberryoutlet
 burch-outlet
@@ -321,7 +324,9 @@ download.pl
 drugcheap
 drugscheap
 dubturbo-
+dvdrip
 effexor
+eloans
 emarketing
 ephedrine
 erotyczna
@@ -434,7 +439,9 @@ index.php?showtopic=
 infos-
 infos/
 insdier
+instant-loan
 instantcash
+instantloan
 instantpay
 instantweekly
 insurance-company
@@ -469,10 +476,18 @@ levaquin
 levitra
 librium
 linguim.com
+link_campaign
+link_market
 link-build
+link-campaign
+link-market
 link-service
 link-track
 linkbuild
+linking_campaign
+linking_market
+linking-campaign
+linking-market
 linking-service
 linkiseo
 linklegend
@@ -532,6 +547,7 @@ monster-beat
 monster-headphon
 monsterbeat
 monsterheadphon
+more-deal
 morpg
 mortgage.htm
 mortgagecalc
@@ -717,8 +733,10 @@ smallbusinessplan
 soeasy
 soma.htm
 sprzedaz
+story.php?id=
 strattera
 stromectol
+succeed-online
 sumatriptan
 suprax
 szcz
@@ -727,6 +745,7 @@ tamiflu
 tamoxifen
 tamsulosin
 tapicerowane
+tastegood.com
 tax-debt
 teen-sex
 teensex
@@ -752,10 +771,12 @@ tofranil
 top-forum
 top-muscle
 top-rank
+top-search
 top-site
 topamax
 topiramate
 topmuscle
+topsearch
 topvideocon
 torrentmovie
 torsemide
@@ -803,6 +824,7 @@ ultram
 unknown.ru
 unwanted-hair
 unwantedhair
+user.php?login=
 userinfo.aspx
 valium
 valtrex
@@ -818,6 +840,7 @@ vinhobrasil.
 viramune
 vitaminfor
 vitaminsfor
+warszawa
 warszawa-
 watch-replica
 watchreplica
@@ -837,6 +860,7 @@ www.casino
 www.cheap
 www.sale
 www.ugg
+wyposazenie
 xalatan
 xanax
 xenical
