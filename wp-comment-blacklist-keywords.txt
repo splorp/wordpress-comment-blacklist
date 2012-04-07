@@ -76,6 +76,7 @@
 .outlet.com
 .php?u=
 .php/member
+.php/topics
 .pl/content
 .pl/member
 .pl/profile
@@ -121,7 +122,6 @@
 /soma
 /uggs-
 /xn--
-/xxx
 %20-%20
 %d8%
 %u2019
@@ -163,6 +163,7 @@ armagard.co
 article.com
 articlepowa
 articles.com
+artikel-
 asdfasdf
 ativan
 atomoxetine
@@ -436,6 +437,7 @@ index.php?a=
 index.php?m=
 index.php?page=
 index.php?showtopic=
+index.php/topic
 infos-
 infos/
 insdier
@@ -679,6 +681,8 @@ rusztowania
 sale.co.uk
 salecanada
 saleoutlet
+sales-inspir
+sales-training
 sales.co.uk
 saleshop
 salesshop
@@ -734,6 +738,8 @@ soeasy
 soma.htm
 sprzedaz
 story.php?id=
+strategies-for
+strategy-for
 strattera
 stromectol
 succeed-online
@@ -749,6 +755,7 @@ tastegood.com
 tax-debt
 teen-sex
 teensex
+telepon-
 tenormin
 the-diet
 things-consumers
@@ -868,8 +875,7 @@ xopenex
 xrumer
 xx.com
 xx.ru
-xxx-
-xxx@
+xxx
 your_account
 your_ex
 your_loan
