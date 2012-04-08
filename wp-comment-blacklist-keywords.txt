@@ -14,6 +14,7 @@
 -discount
 -doktora-
 -e-guide-
+-ebay
 -filmy
 -for-sale
 -gambling
@@ -77,6 +78,7 @@
 .php?u=
 .php/member
 .php/topics
+.pl/?
 .pl/content
 .pl/member
 .pl/profile
@@ -359,6 +361,7 @@ free-classified
 free-ipad
 free-iphone
 free-ipod
+free-offer
 free-online
 free-website
 free.info
@@ -366,6 +369,7 @@ freebid
 freeipad
 freeiphone
 freeipod
+freeoffer
 freesale
 freesimcard
 freewebsite
@@ -882,7 +886,9 @@ your_loan
 your_profile
 your-account
 your-ex
+your-free
 youraccount
+yourfree
 yourloan
 yourprofile
 z.info
