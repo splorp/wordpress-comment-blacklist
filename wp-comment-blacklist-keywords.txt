@@ -96,6 +96,7 @@
 @hotmail.
 @toke.
 /acai
+/blogid=
 /burberry-
 /casino
 /drug
@@ -110,6 +111,7 @@
 /love-life
 /love-quote
 /medical
+/medication-
 /mortgage
 /orgasm
 /piece-
@@ -163,6 +165,7 @@ antivirussen
 aricept
 armagard.co
 article.com
+article.php?id=
 articlepowa
 articles.com
 artikel-
@@ -278,8 +281,12 @@ coachoutlet
 coachstore
 cordarone
 coumadin
+coupon_page
 coupon-code
+coupon-page
 couponcode
+coupons_page
+coupons-page
 creditcard.org
 cristmas-
 cure.co.uk
@@ -292,6 +299,7 @@ custom+wheel
 customrim
 customwheel
 cymbalta
+darmowy
 darvocet
 daytrade
 daytrading
@@ -357,6 +365,7 @@ fluoxetine
 for-money
 forex
 free-bid
+free-brows
 free-classified
 free-ipad
 free-iphone
@@ -366,6 +375,7 @@ free-online
 free-website
 free.info
 freebid
+freebrows
 freeipad
 freeiphone
 freeipod
@@ -445,7 +455,9 @@ index.php/topic
 infos-
 infos/
 insdier
+instant-blog
 instant-loan
+instantblog
 instantcash
 instantloan
 instantpay
@@ -482,19 +494,23 @@ levaquin
 levitra
 librium
 linguim.com
+link_build
 link_campaign
 link_market
+link_serv
+link_track
 link-build
 link-campaign
 link-market
-link-service
+link-serv
 link-track
 linkbuild
 linking_campaign
 linking_market
+linking_serv
 linking-campaign
 linking-market
-linking-service
+linking-serv
 linkiseo
 linklegend
 linktrack
@@ -545,6 +561,7 @@ mkoutlet
 mmcenter.in
 modafinil
 mode=viewprofile
+moderowany
 moldremov
 money.html
 moneyfast
@@ -567,6 +584,7 @@ neurontin
 niaspan
 nizoral
 nm.ru
+no-prescription
 northfacejack
 northfaceout
 northfacesale
@@ -577,6 +595,7 @@ oculosfeminino.
 odziez
 oemsoftware
 online-blog
+online-business
 online-casino
 online-classified
 online-invest
@@ -586,6 +605,7 @@ online-money
 online-outlet
 online-store
 onlineblog
+onlinebusiness
 onlinecasino
 onlineinvest
 onlinemed
@@ -688,6 +708,7 @@ saleoutlet
 sales-inspir
 sales-training
 sales.co.uk
+sales+
 saleshop
 salesshop
 salestraining
@@ -736,6 +757,7 @@ sinequan
 site-google
 site-position
 site.in
+sitecode
 skelaxin
 smallbusinessplan
 soeasy
@@ -785,6 +807,7 @@ top-rank
 top-search
 top-site
 topamax
+topic.php?f=
 topiramate
 topmuscle
 topsearch
@@ -799,6 +822,7 @@ tresore
 trimethoprim
 tubee.tv
 tucholskie
+tworzenie
 ugg-boot
 ugg-for
 ugg-on
@@ -845,6 +869,7 @@ vicodin
 video.htm
 videos.htm
 vidios
+viewblog.aspx
 vigrx
 vimax
 vinhobrasil.
