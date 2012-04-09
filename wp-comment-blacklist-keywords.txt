@@ -332,6 +332,7 @@ djtool
 dobrucki.com
 dobrucki.pl
 download.pl
+drdreheadphone
 drugcheap
 drugscheap
 dubturbo-
@@ -693,6 +694,8 @@ replicawatch
 restoril
 reverse-phone
 reversephone
+review.info
+reviews.info
 reviews.net
 rilopkais.in
 rizatriptan
