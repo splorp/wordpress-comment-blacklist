@@ -25,6 +25,7 @@
 -handbags-
 -income-
 -kredyt
+-lacoste-
 -linkbuild
 -loan-
 -loans-
@@ -51,6 +52,7 @@
 -tax-attorney
 -tax-relief
 -tax-settlement
+-tips/
 -uggs-
 -unlockiphone
 -unlockphone
@@ -100,7 +102,10 @@
 /burberry-
 /casino
 /drug
+/filmy.
 /foot-care
+/fotka.
+/foto.
 /hentai
 /katalog
 /konsultan
@@ -310,6 +315,7 @@ dealuk
 dealus
 debt-relief
 desconto
+detail/www
 diamox
 diazepam
 diclofenac
@@ -349,6 +355,8 @@ estradiol
 exelon
 facebook-fan
 facebookfan
+fajna-fotka
+fajnafotka
 falsedoc
 fastcash
 fat-loss
@@ -405,6 +413,7 @@ gold-coin
 goldcoin
 goldgeek
 gomaile.com
+good-for-
 gooseca
 goosecheap
 goosedk
@@ -418,8 +427,10 @@ grow-cannabis
 growth-hormone
 growthhormone
 gucci-outlet
+gucci-purse
 gucci-replica
 guccioutlet
+guccipurse
 guccireplica
 gucciuk
 hair-growth
@@ -489,6 +500,8 @@ korsoutlet
 kosmetyc
 kosmetyki
 labetalol
+lacoste-outlet
+lacosteoutlet
 lamictal
 lamisil
 lasix
@@ -509,12 +522,14 @@ link-market
 link-serv
 link-track
 linkbuild
+linkcampaign
 linking_campaign
 linking_market
 linking_serv
 linking-campaign
 linking-market
 linking-serv
+linkingcampaign
 linkiseo
 linklegend
 linktrack
@@ -622,8 +637,10 @@ optionstrad
 ordersoma
 orgazma
 oriflame
+outlet-online
 outlet-web
 outlet.com
+outletonline
 outletweb
 oxycodone
 oxycontin
@@ -703,6 +720,7 @@ reviews.net
 rilopkais.in
 rizatriptan
 roger-vivier
+rokettube
 rosuvastatin
 rpg-online
 rpgonline
@@ -766,7 +784,10 @@ site.in
 sitecode
 skelaxin
 smallbusinessplan
+social-bookmark
+socialbookmark
 soeasy
+sohbet
 soma.htm
 sprzedaz
 story.php?id=
@@ -794,6 +815,7 @@ things-consumers
 time-synchronisation.co.uk
 timeshare
 tipblog
+tips-for-
 tipsblog
 tire-discount
 tire-wholesale
@@ -907,8 +929,12 @@ wellbutrin
 www.best-
 www.casino
 www.cheap
+www.filmy.
+www.fotka.
+www.foto.
 www.sale
 www.ugg
+wypoczynku
 wyposazenie
 xalatan
 xanax
