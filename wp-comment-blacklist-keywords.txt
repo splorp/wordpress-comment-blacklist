@@ -469,6 +469,7 @@ index.php?a=
 index.php?m=
 index.php?page=
 index.php?showtopic=
+index.php?topic=
 index.php/topic
 infos-
 infos/
@@ -606,6 +607,7 @@ naltrexone
 needmoney
 neurontin
 niaspan
+nike-dunk
 nizoral
 nm.ru
 no-prescription
@@ -643,9 +645,15 @@ ordersoma
 orgazma
 oriflame
 outlet-online
+outlet-sale
 outlet-web
 outlet.com
 outletonline
+outlets-online
+outlets-sale
+outletsale
+outletsonline
+outletssale
 outletweb
 oxycodone
 oxycontin
@@ -823,6 +831,8 @@ telepon-
 tenormin
 the-diet
 things-consumers
+tiffany-outlet
+tiffanyoutlet
 time-synchronisation.co.uk
 timeshare
 tipblog
@@ -913,6 +923,7 @@ video.htm
 videos.htm
 vidios
 viewblog.aspx
+viewtopic.php?pid=
 vigrx
 vimax
 vinhobrasil.
