@@ -1,5 +1,6 @@
 -adsense-
 -anal-
+-artykul-
 -b2b
 -bluray-
 -casino-
@@ -37,12 +38,14 @@
 -onlayn-
 -payday-
 -pokies-
+-pozew-
 -prada-
 -promotions-
 -promotions.
 -real-estate-
 -realestate-
 -rims-
+-rozwod-
 -ru.
 -search-engine-
 -searchengine-
@@ -73,6 +76,7 @@
 ?title=user
 ?view=detail
 .biz
+.bluray.
 .cfmx
 .com/user/
 .credopa.in
@@ -94,6 +98,7 @@
 .pl/member
 .pl/profile
 .pl/user
+.rar.
 .ru/content
 .ru/member
 .ru/profile
@@ -109,6 +114,7 @@
 @toke.
 /?new-
 /acai
+/alimenty/
 /artykul
 /blogid=
 /burberry-
@@ -135,8 +141,10 @@
 /piece-
 /piece,
 /porn
+/pozew
 /profile.php
 /prozac
+/rozwod
 /seo
 /sex
 /sigareta-
@@ -192,6 +200,7 @@ article.php?id=
 articlepowa
 articles.com
 artikel-
+artykul-
 asdfasdf
 ativan
 atomoxetine
@@ -433,8 +442,10 @@ glutamina
 glyburide
 gmaiil
 gold-coin
+gold-ingot
 goldcoin
 goldgeek
+goldingot
 gomaile.com
 good-for-
 gooseca
@@ -489,6 +500,7 @@ index.html?a=
 index.html?m=
 index.html?p=
 index.php?a=
+index.php?action=viewprofile
 index.php?m=
 index.php?p=
 index.php?page=
@@ -631,8 +643,10 @@ mulberry-handbag
 mulberryhandbag
 muscle-supplement
 musclesupplement
+muzyczna
 naltrexone
 needmoney
+netload.in
 neurontin
 niaspan
 nike-dunk
@@ -730,6 +744,7 @@ porn.
 pornlive
 pornolady
 pornsex
+pozew,
 pozycjonowanie
 prazosin
 prednisone
@@ -829,6 +844,8 @@ shopboots
 showthread.php?tid=
 sildenafil
 silver-and-gold
+silver-ingot
+silveringot
 sinequan
 site-google
 site-position
@@ -984,8 +1001,10 @@ warehouse.us
 warszawa
 watch-replica
 watchreplica
+web-hosting
 web-promotion
 web-solution
+webhosting
 webpromotion
 websex
 websolution
@@ -1036,11 +1055,14 @@ zyban
 zyprexa
 zyrtec
 zyvox
+бесплатно
 дешево
 знакомства
 китай
+консультация
 купить
 мебель
+онлайн
 подешевле
 секс
 скачать
