@@ -1,4 +1,3 @@
-successful-blog
 -adsense-
 -anal-
 -artykul-
@@ -70,6 +69,7 @@ successful-blog
 -website-
 -wedding-photo
 -wheels-
+?add=true
 ?browse-
 ?domain=
 ?kat=
@@ -87,6 +87,7 @@ successful-blog
 .freeforums.org
 .games.pl
 .htm?
+.html/
 .info.pl
 .online.pl
 .online.ws
@@ -126,6 +127,7 @@ successful-blog
 /foot-care
 /fotka.
 /foto.
+/glowna.
 /hentai
 /katalog
 /konsultan
@@ -198,10 +200,10 @@ aricept
 armagard.co
 article.com
 article.info
-articles.info
 article.php?id=
 articlepowa
 articles.com
+articles.info
 artikel-
 artykul-
 asdfasdf
@@ -530,6 +532,7 @@ investoff
 iphone-crack
 iphonecrack
 isotretinoine
+jeweline.
 jimmy-choo
 jimmychoo
 jogos
@@ -775,10 +778,12 @@ razadyne
 registry-clean
 replica-brand
 replica-handbag
+replica-world
 replicabrand
 replicachanel
 replicahandbag
 replicawatch
+replicaworld
 restoril
 reverse-phone
 reversephone
@@ -867,7 +872,9 @@ strategies-for
 strategy-for
 strattera
 stromectol
+stylowe
 succeed-online
+successful-blog
 sumatriptan
 suprax
 symptom-med
