@@ -160,6 +160,7 @@
 /sitemap.xml
 /soma
 /uggs-
+/unlock-iphone
 /unlockiphone
 /unlockphone
 /xn--
@@ -361,6 +362,8 @@ debt-relief
 depression-symptom
 depressionsymptom
 desconto
+designer-shoe
+designershoe
 detail/www
 diamox
 diazepam
@@ -668,7 +671,9 @@ niaspan
 nike-dunk
 nizoral
 nm.ru
+no-hassle
 no-prescription
+nohassle
 northface-jack
 northface-out
 northface-sale
