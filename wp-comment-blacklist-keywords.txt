@@ -1,4 +1,3 @@
--top-info
 -adsense-
 -anal-
 -artykul-
@@ -37,6 +36,9 @@
 -odejda-
 -offshore-
 -onlayn-
+-online,
+-online.
+-online/
 -payday-
 -pokies-
 -pozew-
@@ -60,9 +62,8 @@
 -tax-relief
 -tax-settlement
 -tips/
+-top-info
 -uggs-
-/unlockiphone
-/unlockphone
 -unlockiphone
 -unlockphone
 -vuitton-
@@ -72,6 +73,7 @@
 -website-
 -wedding-photo
 -wheels-
+,artykul,
 ?add=true
 ?browse-
 ?domain=
@@ -158,6 +160,8 @@
 /sitemap.xml
 /soma
 /uggs-
+/unlockiphone
+/unlockphone
 /xn--
 %20-%20
 %d8%
@@ -233,7 +237,10 @@ bestsupplement
 bestsuppliment
 biaxin
 bielizna
+big_site
 big-cock
+big-site
+big.site
 bigcock
 bitartrate
 biuro-solido
@@ -707,6 +714,9 @@ outlet.us
 outletonline
 outlets-online
 outlets-sale
+outlets.com
+outlets.net
+outlets.us
 outletsale
 outletsonline
 outletssale
@@ -1028,6 +1038,7 @@ weight-loss
 weightloss
 wellbutrin
 www.best-
+www.cartier
 www.casino
 www.cheap
 www.filmy.
@@ -1059,6 +1070,7 @@ yourprofile
 youtube-views
 z.info
 zabaw
+zakazane
 zanaflex
 zantac
 zithromax
