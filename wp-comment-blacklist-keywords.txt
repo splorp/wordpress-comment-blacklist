@@ -140,6 +140,7 @@
 /konsultan
 /kredit
 /kredyt
+/linknum
 /loans
 /love-fail
 /love-life
@@ -192,6 +193,7 @@ advert-market
 advertising-research
 adwokacka
 adwokat
+adwords
 agencje-
 alendronate
 alprazolam
@@ -239,6 +241,7 @@ bagstore
 beats-dr-dre
 before-purchasing
 benzoclin
+best-direct
 best-discount
 bestdiscount
 bestlaptop
@@ -315,7 +318,9 @@ celexa
 celular
 cgsaleca
 chanel-bag
+chanel-sale
 chanelbag
+chanelsale
 cheap-ugg
 cheapugg
 cheats-
@@ -326,6 +331,7 @@ chooboots
 christian-louboutin
 christianlouboutin
 cialis
+ciallis
 cig-online
 cig-promo
 cigonline
@@ -410,6 +416,7 @@ drugcheap
 drugscheap
 dubturbo-
 dvdrip
+eemail
 effexor
 eloans
 emarketing
@@ -487,6 +494,7 @@ goldgeek
 goldingot
 gomaile.com
 good-for-
+googleing
 gooseca
 goosecheap
 goosedk
@@ -503,9 +511,11 @@ growthhormone
 gucci-outlet
 gucci-purse
 gucci-replica
+gucci-sale
 guccioutlet
 guccipurse
 guccireplica
+guccisale
 gucciuk
 hair-growth
 hair-remov
@@ -852,6 +862,7 @@ rizatriptan
 roger-vivier
 rokettube
 rosuvastatin
+róże
 rpg-online
 rpgonline
 runescape
@@ -878,6 +889,7 @@ sellnow
 seo-host
 seo-plugin
 seo-tool
+seo.co
 seo.info
 seo.net
 seohost
@@ -1089,6 +1101,8 @@ www.cheap
 www.filmy.
 www.fotka.
 www.foto.
+www.link
+www.penis
 www.sale
 www.ugg
 wypoczynku
@@ -1129,6 +1143,7 @@ zyrtec
 zyvox
 бесплатно
 дешево
+драйвера
 знакомства
 китай
 консультация
