@@ -32,6 +32,7 @@
 -loans-
 -magazin-
 -magazini-
+-metods-
 -mortgage-
 -odejda-
 -offshore-
@@ -52,6 +53,7 @@
 -ru.
 -search-engine-
 -searchengine-
+-select-your-
 -seo-
 -seo/
 -sexy-
@@ -63,6 +65,7 @@
 -tax-settlement
 -tips/
 -top-info
+-treatment-
 -uggs-
 -unlockiphone
 -unlockphone
@@ -243,6 +246,7 @@ before-purchasing
 benzoclin
 best-direct
 best-discount
+bestdirect
 bestdiscount
 bestlaptop
 bestsupplement
@@ -398,6 +402,8 @@ dietpill
 dietsolution
 dietsupplement
 differin
+direct-health
+directhealth
 discount-
 discount-wheel
 discount.co.uk
@@ -447,6 +453,7 @@ finasteride
 fioricet
 firefoxik.ru
 flagyl
+floridaflee
 floxacin
 fluoxetine
 for-interactive
@@ -481,6 +488,8 @@ generatecash
 generatemoney
 generatingcash
 get-facebook
+get-massive
+getmassive
 gigantix.co
 gleevec
 glucophage
@@ -527,6 +536,7 @@ handbagsout
 handbagssale
 handbagsu
 handbagu
+haveasite
 help-tax
 hentai
 hermeshut
@@ -859,6 +869,7 @@ reviews.info
 reviews.net
 rilopkais.in
 rizatriptan
+robaxin
 roger-vivier
 rokettube
 rosuvastatin
@@ -957,6 +968,8 @@ tamiflu
 tamoxifen
 tamsulosin
 tapicerowane
+targeted-traffic
+targetedtraffic
 tastegood.com
 tax-debt
 teen-sex
@@ -1044,6 +1057,8 @@ uksale
 ukugg
 ultram
 unknown.ru
+unlock-iphone4
+unlockiphone4
 unwanted-hair
 unwantedhair
 user.php?login=
@@ -1066,6 +1081,7 @@ viewtopic.php?p=
 viewtopic.php?pid=
 viewtopic.php?t=
 viewtopic.php?tid=
+vigara
 vigrx
 vimax
 vinhobrasil.
@@ -1151,5 +1167,7 @@ zyvox
 мебель
 онлайн
 подешевле
+приобрести
+рекламное
 секс
 скачать
