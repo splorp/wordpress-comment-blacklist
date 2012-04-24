@@ -1,26 +1,3 @@
-redirect_to
-hotlove
-/join.php
--cell-phone-
-manage_blog
-phonelookup
-phone-lookup
-&do=blog
-oakley-cheap
-oakleycheap
-oakleysunglass
-oakley-sunglass
-silverjewelry
-silver-jewelry
-goldjewelry
-gold-jewelry
-videogamedesign
-gamedesigndegree
-seoagency
-seo-agency
-my_profile
-blog-view
-read_blog
 -acne-
 -acne/
 -adsense-
@@ -29,6 +6,7 @@ read_blog
 -b2b
 -bluray-
 -casino-
+-cell-phone-
 -cheap-
 -cheapest-
 -cheats
@@ -36,6 +14,7 @@ read_blog
 -cigarettes-
 -cock-
 -coupon-
+-deluxe-
 -dieta-
 -discount
 -doktora-
@@ -77,6 +56,7 @@ read_blog
 -rims-
 -rozwod-
 -ru.
+-scarpe-
 -search-engine-
 -searchengine-
 -select-your-
@@ -85,6 +65,7 @@ read_blog
 -sexy-
 -sigareta-
 -sigarety-
+-speed-up-
 -supplements-
 -tax-attorney
 -tax-relief
@@ -145,6 +126,7 @@ read_blog
 .totaldns.in
 .travel.pl
 .webs.com
+.xn--
 [...
 [/url]
 @hotmail.
@@ -166,6 +148,7 @@ read_blog
 /glowna.
 /hentai
 /index.php/
+/join.php
 /katalog
 /konsultan
 /kredit
@@ -186,12 +169,14 @@ read_blog
 /profile.php
 /prozac
 /rozwod
+/scarpe-
 /seo
 /sex
 /sigareta-
 /sigarety-
 /sitemap.xml
 /soma
+/thebest
 /uggs-
 /unlock-iphone
 /unlockiphone
@@ -199,6 +184,7 @@ read_blog
 /xn--
 /yabb
 /yabb.pl
+&do=blog
 &msgnum
 &statuscode
 %20-%20
@@ -301,6 +287,7 @@ biznes-
 bizstore
 blackjack
 blog-tricks
+blog-view
 blog.php?blog_id
 blog.php?user
 blogs-tricks
@@ -413,6 +400,7 @@ custom+wheel
 customrim
 customwheel
 cymbalta
+dailystrength
 darmowe-programy
 darmoweprogramy
 darmowy
@@ -516,6 +504,7 @@ free-iphone
 free-ipod
 free-offer
 free-online
+free-program
 free-website
 free.info
 freebbs
@@ -534,6 +523,7 @@ gabapentin
 game-casino
 game-copy
 gamecopy
+gamedesigndegree
 games-casino
 generate-money
 generatecash
@@ -550,9 +540,11 @@ glyburide
 gmaiil
 gold-coin
 gold-ingot
+gold-jewelry
 goldcoin
 goldgeek
 goldingot
+goldjewelry
 gomaile.com
 good-for-
 googleing
@@ -604,6 +596,7 @@ home-loan
 hoodia
 hot-girl
 hotgirl
+hotlove
 how-to-buy
 how-to-get
 howtobuy
@@ -736,6 +729,7 @@ makemoney
 male-enhance
 maleenhance
 malwareremov
+manage_blog
 manicshop
 marketing-marketing
 marketing-tip
@@ -743,6 +737,7 @@ marketing.in
 marketingtip
 matural
 maxalt
+meandyou
 meclizine
 meloxicam
 member.php?
@@ -778,6 +773,7 @@ mulberryhandbag
 muscle-supplement
 musclesupplement
 muzyczna
+my_profile
 myqrops
 naltrexone
 natural-way
@@ -800,8 +796,12 @@ northfaceout
 northfacesale
 norvasc
 nude.htm
+oakley-cheap
 oakley-outlet
+oakley-sunglass
+oakleycheap
 oakleyoutlet
+oakleysunglass
 obuwie
 oculosfeminino.
 odziez
@@ -876,6 +876,8 @@ permonth.com
 pharmacies
 pharmacy
 phentermine
+phone-lookup
+phonelookup
 phonescanada
 php?showuser=
 php?title=
@@ -929,7 +931,9 @@ ralph_lauren
 ralph-lauren
 ramipril
 razadyne
+read_blog
 records.net
+redirect_to
 registry-clean
 registry-fix
 registry-tool
@@ -986,12 +990,14 @@ secret.com
 seks.ru
 sell-now
 sellnow
+seo-agency
 seo-host
 seo-plugin
 seo-tool
 seo.co
 seo.info
 seo.net
+seoagency
 seohost
 seoplugin
 seotool
@@ -1022,7 +1028,9 @@ showthread.php?tid=
 sildenafil
 silver-and-gold
 silver-ingot
+silver-jewelry
 silveringot
+silverjewelry
 sinequan
 site-google
 site-position
@@ -1157,11 +1165,13 @@ user.php?login=
 userinfo.aspx
 valium
 valtrex
+vendita
 venlafaxine
 viagera
 viagra
 vicodin
 video.htm
+videogamedesign
 videos.htm
 vidios
 viewblog.aspx
@@ -1182,6 +1192,7 @@ vitamin-for
 vitaminfor
 vitamins-for
 vitaminsfor
+wallinside
 ware-crack
 warecrack
 warehouse.net
@@ -1214,6 +1225,7 @@ www.link
 www.outlet
 www.penis
 www.sale
+www.scarpe
 www.ugg
 wypoczynku
 wyposazenie
