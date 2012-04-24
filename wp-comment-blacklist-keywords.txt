@@ -1,9 +1,3 @@
-outletshop
-outlet-shop
-iphone4scase
-iphone4case
-iphonecase
-now.info
 -acne-
 -acne/
 -adsense-
@@ -384,6 +378,7 @@ coach-store
 coachoutlet
 coachstore
 command=read_message
+commentabout
 copy-wizard
 copywizard
 cordarone
@@ -644,6 +639,9 @@ invest-off
 invest.net
 investoff
 iphone-crack
+iphone4case
+iphone4scase
+iphonecase
 iphonecrack
 isotretinoine
 jeweline.
@@ -676,6 +674,7 @@ lamisil
 laser-therapy
 lasertherapy
 lasix
+learnpianohere
 lenjerie
 lesben-
 letrozole
@@ -801,6 +800,7 @@ northfacejack
 northfaceout
 northfacesale
 norvasc
+now.info
 nude.htm
 oakley-cheap
 oakley-outlet
@@ -840,6 +840,7 @@ outlet-austr
 outlet-canad
 outlet-online
 outlet-sale
+outlet-shop
 outlet-usa
 outlet-web
 outlet.com
@@ -855,6 +856,7 @@ outlets.com
 outlets.net
 outlets.us
 outletsale
+outletshop
 outletsonline
 outletssale
 outletusa
@@ -950,6 +952,7 @@ registryclean
 registryfix
 registrytool
 rekla.
+reklamowe
 replica-brand
 replica-handbag
 replica-world
@@ -1233,6 +1236,7 @@ www.penis
 www.sale
 www.scarpe
 www.ugg
+www.videos
 wypoczynku
 wyposazenie
 xalatan
