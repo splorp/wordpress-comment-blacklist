@@ -1,3 +1,11 @@
+redirect_to
+hotlove
+/join.php
+-cell-phone-
+manage_blog
+phonelookup
+phone-lookup
+&do=blog
 oakley-cheap
 oakleycheap
 oakleysunglass
