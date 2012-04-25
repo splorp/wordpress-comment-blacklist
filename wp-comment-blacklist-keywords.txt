@@ -1,3 +1,11 @@
+diet-plan
+dietplan
+levne
+przepisane
+biznes
+gotowkowe
+pozyczki 
+prywatne
 -acne-
 -acne/
 -adsense-
@@ -233,10 +241,12 @@ anuncios
 apbd_sjs
 aricept
 armagard.co
+article.net
 article.com
 article.info
 article.php?id=
 articlepowa
+articles.net
 articles.com
 articles.info
 artikel-
