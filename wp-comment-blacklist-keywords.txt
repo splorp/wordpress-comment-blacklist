@@ -1,13 +1,3 @@
-blogs.php?action
-show_member_post
-linkvault
-link-vault
-/salvia/
-salvia.
--salvia-
-.thearticle
-hfgfh
-fdggdf
 -acne-
 -acne/
 -adsense-
@@ -66,6 +56,7 @@ fdggdf
 -rims-
 -rozwod-
 -ru.
+-salvia-
 -scarpe-
 -search-engine-
 -searchengine-
@@ -133,6 +124,7 @@ fdggdf
 .ru/profile
 .ru/user
 .sirenos.in
+.thearticle
 .totaldns.in
 .travel.pl
 .webs.com
@@ -179,6 +171,7 @@ fdggdf
 /profile.php
 /prozac
 /rozwod
+/salvia/
 /scarpe-
 /seo
 /sex
@@ -307,6 +300,7 @@ blog-view
 blog.php?blog_id
 blog.php?user
 blogs-tricks
+blogs.php?action
 blowjob
 bonus-code
 bonuscode
@@ -389,6 +383,7 @@ ciproanti
 clboot
 clomid
 clonazepam
+clredheel
 clsale
 clshoe
 coach-outlet
@@ -485,6 +480,7 @@ escitalopram
 escorts.
 eshop.com
 estradiol
+etherdq
 every1bet
 exelon
 f_blog_id=
@@ -496,6 +492,8 @@ falsedoc
 fastcash
 fat-loss
 fatloss
+fbfans
+fdggdf
 fenoma
 fibromyalgia
 finance-
@@ -552,6 +550,7 @@ generatemoney
 generatingcash
 get-facebook
 get-massive
+getaloan
 getmassive
 gigantix.co
 gleevec
@@ -610,6 +609,7 @@ hcgboost
 help-tax
 hentai
 hermeshut
+hfgfh
 hgh-sup
 hghsup
 high-heel
@@ -717,6 +717,7 @@ link-campaign
 link-market
 link-serv
 link-track
+link-vault
 linkbaiting
 linkbuild
 linkcampaign
@@ -731,6 +732,7 @@ linkiseo
 linklegend
 linktrack
 linkusup
+linkvault
 lipitor
 lisinopril
 lorazepam
@@ -754,6 +756,7 @@ lvhandbag
 lvoutlet
 mail.ru
 make-money
+makebaby
 makemoney
 male-enhance
 maleenhance
@@ -861,11 +864,13 @@ optionstrad
 ordersoma
 orgazma
 oriflame
+outlet_store
 outlet-austr
 outlet-canad
 outlet-online
 outlet-sale
 outlet-shop
+outlet-store
 outlet-usa
 outlet-web
 outlet.com
@@ -884,6 +889,7 @@ outletsale
 outletshop
 outletsonline
 outletssale
+outletstore
 outletusa
 outletweb
 oxycodone
@@ -1017,6 +1023,7 @@ saleshop
 salesshop
 salestraining
 saletraining
+salvia.
 scam.net
 scar-repair
 scarrepair
@@ -1061,6 +1068,7 @@ shoessale
 shoesuk
 shoeuk
 shopboots
+show_member_post
 showthread.php?tid=
 sildenafil
 silver-and-gold
@@ -1085,11 +1093,15 @@ softwaresecret
 sohbet
 soma.htm
 sprzedaz
+stodiobeat
+stodiosbeat
 story.php?id=
 strategies-for
 strategy-for
 strattera
 stromectol
+studiobeat
+studiosbeat
 stylowe
 succeed-online
 successful-blog
@@ -1308,18 +1320,24 @@ zyban
 zyprexa
 zyrtec
 zyvox
+алкогольные
+банков
 бесплатно
 дешево
 драйвера
 знакомства
 китай
 консультация
+кредит
 купить
 мебель
 онлайн
+официальных
 подешевле
 приобрести
 рекламное
+сайтов
 секс
 скачать
 услуги
+фото
