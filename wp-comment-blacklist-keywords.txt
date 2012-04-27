@@ -1,12 +1,4 @@
-userinfo.php
-diet-plan
-dietplan
-levne
-przepisane
-biznes
-gotowkowe
-pozyczki 
-prywatne
+
 -acne-
 -acne/
 -adsense-
@@ -242,14 +234,14 @@ anuncios
 apbd_sjs
 aricept
 armagard.co
-article.net
 article.com
 article.info
+article.net
 article.php?id=
 articlepowa
-articles.net
 articles.com
 articles.info
+articles.net
 artikel-
 artykul-
 asdfasdf
@@ -294,9 +286,11 @@ bigcock
 bitartrate
 biuro-solido
 biz.pl
+biznes
 biznes-
 bizstore
 blackjack
+blog_post_view
 blog-tricks
 blog-view
 blog.php?blog_id
@@ -344,6 +338,8 @@ cannabis-seed
 card-debt
 carisoprodol
 cars-games
+cashforgold
+cashforsilver
 cashloan
 casino.com
 casub.com
@@ -435,11 +431,13 @@ diamox
 diazepam
 diclofenac
 diet-pill
+diet-plan
 diet-review
 diet-solution
 diet-supplement
 diet.co
 dietpill
+dietplan
 dietreview
 dietsolution
 dietsupplement
@@ -567,6 +565,7 @@ gooseparka
 goosesale
 goosescheap
 gooseshop
+gotowkowe
 gratuitos
 greatbet
 green-smoker
@@ -595,6 +594,8 @@ handbagssale
 handbagsu
 handbagu
 haveasite
+hcg-boost
+hcgboost
 help-tax
 hentai
 hermeshut
@@ -691,6 +692,7 @@ lesben-
 letrozole
 levaquin
 levitra
+levne
 librium
 linguim.com
 link_build
@@ -797,6 +799,7 @@ naturalway
 needmoney
 netload.in
 neurontin
+nexopia
 niaspan
 nike-dunk
 nizoral
@@ -924,6 +927,7 @@ pozew,
 poznaj-seo
 poznajseo
 pozycjonowanie
+pozyczki
 prawnik
 prazosin
 prednisone
@@ -944,6 +948,8 @@ protein-diet
 proteindiet
 provigil
 prozac-
+prywatne
+przepisane
 przeprowadzki
 raloxifene
 ralph_lauren
@@ -1054,6 +1060,7 @@ silverjewelry
 sinequan
 site-google
 site-position
+site.com
 site.in
 sitecode
 skelaxin
@@ -1183,6 +1190,7 @@ unwanted-hair
 unwantedhair
 user.php?login=
 userinfo.aspx
+userinfo.php
 valium
 valtrex
 vendita
