@@ -25,6 +25,7 @@
 -gambling
 -gaming-
 -gemorroya
+-get-free-
 -gifts-
 -handbag-
 -handbags-
@@ -71,6 +72,8 @@
 -tax-attorney
 -tax-relief
 -tax-settlement
+-the-best-
+-the-easiest-
 -tips/
 -top-info
 -treatment-
@@ -100,6 +103,7 @@
 .credopa.in
 .filpan.ru
 .filvce.in
+.forum.
 .frebvic.in
 .freeforums.org
 .games.pl
@@ -135,6 +139,7 @@
 @live.fr
 @toke.
 /?new-
+/?uid-
 /acai
 /alimenty/
 /artykul
@@ -147,6 +152,7 @@
 /foot-care
 /fotka.
 /foto.
+/get-free
 /glowna.
 /hentai
 /index.php/
@@ -164,6 +170,7 @@
 /medication-
 /mortgage
 /orgasm
+/pg/blog/
 /piece-
 /piece,
 /porn
@@ -187,9 +194,6 @@
 /xn--
 /yabb
 /yabb.pl
-&do=blog
-&msgnum
-&statuscode
 %20-%20
 %d8%
 %u2019
@@ -206,6 +210,7 @@ acetazolamide
 acnetreatment
 acomplia
 action=profile
+action=viewprofile
 actonel
 acyclovir
 adderall
@@ -425,6 +430,7 @@ dealsuk
 dealsus
 dealuk
 dealus
+debt-management
 debt-relief
 definitelly
 depression-symptom
@@ -460,6 +466,7 @@ discountwheel
 discussion_utilisateur
 djstool
 djtool
+do=blog
 dobrucki.com
 dobrucki.pl
 download.pl
@@ -593,8 +600,10 @@ guccipurse
 guccireplica
 guccisale
 gucciuk
+hair-again
 hair-growth
 hair-remov
+hairagain
 hairgrowth
 hairremov
 handbagout
@@ -624,6 +633,8 @@ hotlove
 how-to-buy
 how-to-get
 howtobuy
+http://article
+http://compare
 huperzine
 hydraulik-
 hydrocodone
@@ -634,7 +645,7 @@ index.html?a=
 index.html?m=
 index.html?p=
 index.php?a=
-index.php?action=viewprofile
+index.php?action=
 index.php?do=
 index.php?m=
 index.php?p=
@@ -642,7 +653,6 @@ index.php?page=
 index.php?s=
 index.php?showtopic=
 index.php?topic=
-index.php/topic
 infos-
 infos/
 insanejournal
@@ -661,6 +671,8 @@ internetowej
 invest-off
 invest.net
 investoff
+ipad-2-case
+ipad-download
 iphone-crack
 iphone4case
 iphone4scase
@@ -772,8 +784,8 @@ maxalt
 meandyou
 meclizine
 meloxicam
-member.php?
-memberlist.php?
+member.php
+memberlist.php
 meratol
 meridia
 metacam
@@ -800,6 +812,7 @@ more-deal
 morpg
 mortgage.htm
 mortgagecalc
+msgnum
 mulberry-handbag
 mulberryhandbag
 muscle-supplement
@@ -875,6 +888,7 @@ outlet-usa
 outlet-web
 outlet.com
 outlet.net
+outlet.org
 outlet.uk
 outlet.us
 outletaustr
@@ -884,6 +898,7 @@ outlets-online
 outlets-sale
 outlets.com
 outlets.net
+outlets.org
 outlets.us
 outletsale
 outletshop
@@ -892,6 +907,7 @@ outletssale
 outletstore
 outletusa
 outletweb
+outsourcing-compan
 oxycodone
 oxycontin
 p90x
@@ -956,6 +972,7 @@ private-label
 privatelabel
 proactol
 profile_blogs
+profile_id=
 profits-
 proisxozhdenie
 propecia
@@ -976,6 +993,8 @@ razadyne
 read_blog
 records.net
 redirect_to
+ref_title=
+ref_url=
 registry-clean
 registry-fix
 registry-tool
@@ -1001,6 +1020,7 @@ reversephone
 review.info
 reviews.info
 reviews.net
+reviews.org
 rilopkais.in
 rizatriptan
 robaxin
@@ -1024,7 +1044,9 @@ salesshop
 salestraining
 saletraining
 salvia.
+scam.info
 scam.net
+scam.org
 scar-repair
 scarrepair
 search-engine-opt
@@ -1041,6 +1063,7 @@ seo-tool
 seo.co
 seo.info
 seo.net
+seo.org
 seoagency
 seohost
 seoplugin
@@ -1092,7 +1115,9 @@ software-secret
 softwaresecret
 sohbet
 soma.htm
+space.php?uid=
 sprzedaz
+statuscode=
 stodiobeat
 stodiosbeat
 story.php?id=
@@ -1200,6 +1225,8 @@ uggsfor
 uggslove
 uggsonline
 uk-handbag
+uk-mall
+uk-sale
 ukclsale
 ukhandbag
 ukmall
@@ -1225,7 +1252,10 @@ video.htm
 videogamedesign
 videos.htm
 vidios
+view_blog.aspx
+view_blog.php
 viewblog.aspx
+viewblog.php
 viewthread.php?p=
 viewthread.php?pid=
 viewthread.php?t=
@@ -1247,6 +1277,9 @@ wallinside
 ware-crack
 warecrack
 warehouse.net
+warehouse.org
+warehouse.pl
+warehouse.ru
 warehouse.us
 warszawa
 watch-replica
@@ -1270,8 +1303,10 @@ www.cartier
 www.casino
 www.cheap
 www.filmy.
+www.forum
 www.fotka.
 www.foto.
+www.gift
 www.link
 www.outlet
 www.penis
@@ -1301,6 +1336,8 @@ your-free
 your-loan
 your-profile
 your-site
+your-windows-app
+your-your
 youraccount
 yourex
 yourfree
