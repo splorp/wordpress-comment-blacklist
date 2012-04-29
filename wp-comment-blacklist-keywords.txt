@@ -5,6 +5,7 @@
 -artykul-
 -b2b
 -bluray-
+-broker.
 -casino-
 -cell-phone-
 -cheap-
@@ -143,8 +144,12 @@
 /acai
 /alimenty/
 /artykul
+/banners-
 /blogid=
 /burberry-
+/campaign-
+/campaign/
+/campaigns/
 /casino
 /cheap-
 /drug
@@ -155,6 +160,7 @@
 /get-free
 /glowna.
 /hentai
+/hotdeals/
 /index.php/
 /join.php
 /katalog
@@ -191,6 +197,7 @@
 /unlock-iphone
 /unlockiphone
 /unlockphone
+/view_my/
 /xn--
 /yabb
 /yabb.pl
@@ -238,6 +245,7 @@ anti-aging
 antiaging
 antivirussen
 anuncios
+apartamentow
 apbd_sjs
 aricept
 armagard.co
@@ -320,8 +328,10 @@ burchoutlet
 burchsale
 business-intelligence
 business-market
+business-network
 businessintelligence
 businessmarket
+businessnetwork
 buspirone
 butnow
 buy-cheap
@@ -336,6 +346,7 @@ buyplus
 buysoma
 bydre-head
 bydrehead
+byo.co
 cagoosejacket
 cagoosesale
 camgirl
@@ -536,6 +547,7 @@ free.info
 freebbs
 freebid
 freebrows
+freehub
 freeipad
 freeiphone
 freeipod
@@ -551,12 +563,14 @@ game-copy
 gamecopy
 gamedesigndegree
 games-casino
+gangprofil
 generate-money
 generatecash
 generatemoney
 generatingcash
 get-facebook
 get-massive
+get-the-answer
 getaloan
 getmassive
 gigantix.co
@@ -666,6 +680,7 @@ instantpay
 instantweekly
 insurance-company
 insurance-quotes
+internet-marketing
 internet.in
 internetowej
 invest-off
@@ -673,7 +688,11 @@ invest.net
 investoff
 ipad-2-case
 ipad-download
+ipad2me
+ipad2you
 iphone-crack
+iphone2me
+iphone2you
 iphone4case
 iphone4scase
 iphonecase
@@ -779,6 +798,7 @@ marketing-marketing
 marketing-tip
 marketing.in
 marketingtip
+master.ru
 matural
 maxalt
 meandyou
@@ -1301,15 +1321,20 @@ www.article
 www.best-
 www.cartier
 www.casino
+www.chanel
 www.cheap
 www.filmy.
 www.forum
 www.fotka.
 www.foto.
+www.gamble
+www.gambling
+www.game
 www.gift
 www.link
 www.outlet
 www.penis
+www.replica
 www.sale
 www.scarpe
 www.ugg
@@ -1371,6 +1396,8 @@ zyvox
 онлайн
 официальных
 подешевле
+пожаловать
+преобрести
 приобрести
 рекламное
 сайтов
