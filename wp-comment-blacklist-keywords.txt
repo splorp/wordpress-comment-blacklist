@@ -14,6 +14,7 @@
 -cigarette-
 -cigarettes-
 -cock-
+-comfort-
 -coupon-
 -deluxe-
 -dieta-
@@ -21,6 +22,7 @@
 -doktora-
 -e-guide-
 -ebay
+-fashion-
 -filmy
 -for-sale
 -gambling
@@ -406,6 +408,7 @@ coach-outlet
 coach-store
 coachoutlet
 coachstore
+college-loan
 command=read_message
 commentabout
 copy-wizard
@@ -539,6 +542,7 @@ free-classified
 free-ipad
 free-iphone
 free-ipod
+free-mods
 free-offer
 free-online
 free-program
@@ -1171,6 +1175,7 @@ teensex
 telepon-
 tenormin
 the-diet
+the-most-common
 things-consumers
 thread.php?threadid=
 tiffany-outlet
@@ -1349,6 +1354,7 @@ xrumer
 xx.com
 xx.ru
 xxx
+you-want-it
 your_account
 your_ex
 your_free
