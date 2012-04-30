@@ -40,6 +40,7 @@
 -loans-
 -magazin-
 -magazini-
+-malware-
 -metods-
 -mortgage-
 -odejda-
@@ -100,6 +101,7 @@
 ?title=user
 ?view=detail
 .biz
+.blogspace.
 .bluray.
 .cfmx
 .com/user/
@@ -157,6 +159,7 @@
 /drug
 /filmy.
 /foot-care
+/forum1/
 /fotka.
 /foto.
 /get-free
@@ -177,6 +180,7 @@
 /medical
 /medication-
 /mortgage
+/node/
 /orgasm
 /pg/blog/
 /piece-
@@ -194,11 +198,14 @@
 /sigarety-
 /sitemap.xml
 /soma
+/the-sale
+/the-shock
 /thebest
 /uggs-
 /unlock-iphone
 /unlockiphone
 /unlockphone
+/vb/
 /view_my/
 /xn--
 /yabb
@@ -309,11 +316,15 @@ biznes
 biznes-
 bizstore
 blackjack
+blog_entry_id
+blog_entry.php
 blog_post_view
 blog-tricks
 blog-view
 blog.php?blog_id
 blog.php?user
+blogentry_id
+blogentry.php
 blogs-tricks
 blogs.php?action
 blowjob
@@ -382,6 +393,7 @@ cheap-ugg
 cheapugg
 cheats-
 cheesefruit
+chinska
 chlamydia
 choo-boots
 chooboots
@@ -411,6 +423,8 @@ coachstore
 college-loan
 command=read_message
 commentabout
+community.atom
+computer-gaming
 copy-wizard
 copywizard
 cordarone
@@ -421,6 +435,8 @@ coupon-page
 couponcode
 coupons_page
 coupons-page
+create-product
+credit-card
 creditcard.org
 cristmas-
 cure.co.uk
@@ -438,6 +454,7 @@ darmowe-programy
 darmoweprogramy
 darmowy
 darvocet
+data-tools
 daytrade
 daytrading
 dealsuk
@@ -493,8 +510,11 @@ eemail
 effexor
 eloans
 emarketing
+enhance-your
 enhancement-pill
 enhancementpill
+entry_key
+entrykey
 ephedrine
 erotyczna
 escitalopram
@@ -502,6 +522,7 @@ escorts.
 eshop.com
 estradiol
 etherdq
+event.php?event_id
 every1bet
 exelon
 f_blog_id=
@@ -534,6 +555,7 @@ fluoxetine
 for-interactive
 for-money
 forex
+forum/post
 forums?func=
 free-bbs
 free-bid
@@ -559,6 +581,7 @@ freeoffer
 freesale
 freesimcard
 freewebsite
+func=view
 furiousguy
 furosemide
 gabapentin
@@ -568,6 +591,7 @@ gamecopy
 gamedesigndegree
 games-casino
 gangprofil
+gazowe-poznan
 generate-money
 generatecash
 generatemoney
@@ -606,6 +630,7 @@ greatbet
 green-smoker
 greensmoker
 griseofulvin
+group_home.php
 grow-cannabis
 growth-hormone
 growthhormone
@@ -650,6 +675,7 @@ hotgirl
 hotlove
 how-to-buy
 how-to-get
+how-to-sell
 howtobuy
 http://article
 http://compare
@@ -658,6 +684,7 @@ hydraulik-
 hydrocodone
 hyzaar
 ikonboard.cgi?
+implanty
 income.info
 index.html?a=
 index.html?m=
@@ -666,6 +693,7 @@ index.php?a=
 index.php?action=
 index.php?do=
 index.php?m=
+index.php?option
 index.php?p=
 index.php?page=
 index.php?s=
@@ -707,6 +735,7 @@ jimmy-choo
 jimmychoo
 jogos
 kamagra
+kanalizacyjne
 katalog-
 katalog-seo
 katalog.
@@ -797,6 +826,7 @@ male-enhance
 maleenhance
 malwareremov
 manage_blog
+manage/new
 manicshop
 marketing-marketing
 marketing-tip
@@ -850,6 +880,8 @@ naturalway
 needmoney
 netload.in
 neurontin
+new-article
+newarticle
 nexopia
 niaspan
 nike-dunk
@@ -901,6 +933,8 @@ optionstrad
 ordersoma
 orgazma
 oriflame
+osobistosci
+osobistości
 outlet_store
 outlet-austr
 outlet-canad
@@ -949,9 +983,11 @@ penny-auction
 penny-bid
 pennyauction
 pennybid
+per-week
 percocet
 perday.com
 permonth.com
+perweek
 pharmacies
 pharmacy
 phentermine
@@ -990,13 +1026,17 @@ prazosin
 prednisone
 pregnancysymptom
 premarin
+prepaid-credit
 prescription.htm
+pressrelease.net
 previcox
 private-label
 privatelabel
 proactol
+product-sale
 profile_blogs
 profile_id=
+profile.cgi
 profits-
 proisxozhdenie
 propecia
@@ -1041,6 +1081,7 @@ replicaworld
 restoril
 reverse-phone
 reversephone
+review.html
 review.info
 reviews.info
 reviews.net
@@ -1052,6 +1093,7 @@ roger-vivier
 rokettube
 rosuvastatin
 róże
+rozszerzona
 rpg-online
 rpgonline
 runescape
@@ -1116,6 +1158,7 @@ shoesuk
 shoeuk
 shopboots
 show_member_post
+showthread.php
 showthread.php?tid=
 sildenafil
 silver-and-gold
@@ -1139,6 +1182,7 @@ software-secret
 softwaresecret
 sohbet
 soma.htm
+soup.io/post
 space.php?uid=
 sprzedaz
 statuscode=
@@ -1177,6 +1221,7 @@ tenormin
 the-diet
 the-most-common
 things-consumers
+this-review
 thread.php?threadid=
 tiffany-outlet
 tiffanyoutlet
@@ -1216,12 +1261,14 @@ torrentmovie
 torsemide
 trafficz
 tramadol
+travel.pl
 trazodone
 treatment.in
 tresore
 trimethoprim
 tubee.tv
 tucholskie
+tutorial.html
 tworzenie
 ugg-boot
 ugg-for
@@ -1279,8 +1326,10 @@ videos.htm
 vidios
 view_blog.aspx
 view_blog.php
+view_entry
 viewblog.aspx
 viewblog.php
+viewentry
 viewthread.php?p=
 viewthread.php?pid=
 viewthread.php?t=
@@ -1316,12 +1365,14 @@ webhosting
 webpromotion
 websex
 websolution
+week.info
 weekly.info
 weeklyincome
 weeklyprofit
 weight-loss
 weightloss
 wellbutrin
+whichpage=
 www.article
 www.best-
 www.cartier
