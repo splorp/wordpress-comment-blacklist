@@ -1,21 +1,12 @@
-персональный
-продаже
-fblike
-ease.info
-easy.info
-videochat
-ï¿½
-opinions.info
-opinion.info
-миллион
-доходы
-спама
+_profitable_
+_strategies_
 -acne-
 -acne/
 -adsense-
 -anal-
 -artykul-
 -b2b
+-beneficial-
 -bluray-
 -broker.
 -casino-
@@ -33,6 +24,7 @@ opinion.info
 -discount
 -doktora-
 -e-guide-
+-easily-
 -ebay
 -fashion-
 -filmy
@@ -70,6 +62,8 @@ opinion.info
 -promotions.
 -real-estate-
 -realestate-
+-remote-access-
+-remote-desktop-
 -rims-
 -rozwod-
 -ru.
@@ -84,7 +78,10 @@ opinion.info
 -sigareta-
 -sigarety-
 -speed-up-
+-strona-
+-strona.
 -supplements-
+-symptoms-
 -tax-attorney
 -tax-relief
 -tax-settlement
@@ -92,6 +89,7 @@ opinion.info
 -the-easiest-
 -tips/
 -top-info
+-transpiration-
 -treatment-
 -uggs-
 -unlockiphone
@@ -116,6 +114,7 @@ opinion.info
 .blogspace.
 .bluray.
 .cfmx
+.com/member/
 .com/user/
 .credopa.in
 .filpan.ru
@@ -161,6 +160,7 @@ opinion.info
 /alimenty/
 /artykul
 /banners-
+/better-
 /blogid=
 /burberry-
 /campaign-
@@ -171,6 +171,7 @@ opinion.info
 /drug
 /filmy.
 /foot-care
+/forum/user/
 /forum1/
 /fotka.
 /foto.
@@ -217,6 +218,8 @@ opinion.info
 /unlock-iphone
 /unlockiphone
 /unlockphone
+/user-
+/user/profile/
 /vb/
 /view_my/
 /xn--
@@ -227,9 +230,11 @@ opinion.info
 %u2019
 <a>
 2itb.com
+2u.org
 3ww3.com
 4cheap
 4sale
+911.com
 acai-
 acaiberry
 account.php?id=
@@ -280,6 +285,7 @@ articles.com
 articles.info
 articles.net
 articles.org
+articlesub
 artikel-
 artykul-
 asdfasdf
@@ -447,8 +453,10 @@ coupon-page
 couponcode
 coupons_page
 coupons-page
+crane-hire
 create-product
 credit-card
+credit-score
 creditcard.org
 cristmas-
 cure.co.uk
@@ -499,6 +507,7 @@ dietsupplement
 differin
 direct-health
 directhealth
+dirt-bike
 discount-
 discount-wheel
 discount.co.uk
@@ -518,6 +527,8 @@ drugcheap
 drugscheap
 dubturbo-
 dvdrip
+ease.info
+easy.info
 eemail
 effexor
 eloans
@@ -547,12 +558,14 @@ fastcash
 fat-loss
 fatloss
 fbfans
+fblike
 fdggdf
 fenoma
 fibromyalgia
 finance-
 finance.htm
 financing.htm
+finanse
 finasteride
 fioricet
 firefoxik.ru
@@ -636,6 +649,7 @@ gooseparka
 goosesale
 goosescheap
 gooseshop
+gotowkowa
 gotowkowe
 gratuitos
 greatbet
@@ -689,12 +703,15 @@ how-to-buy
 how-to-get
 how-to-sell
 howtobuy
+howtocure
 http://article
+http://community
 http://compare
 huperzine
 hydraulik-
 hydrocodone
 hyzaar
+ï¿½
 ikonboard.cgi?
 implanty
 income.info
@@ -756,6 +773,7 @@ kino-online
 kinoonline
 kitai
 klonopin
+komputer
 komputery
 konsultan-seo
 kors-outlet
@@ -771,6 +789,7 @@ lacosteoutlet
 lamictal
 lamisil
 laser-therapy
+laserowe
 lasertherapy
 lasix
 learnpianohere
@@ -811,6 +830,8 @@ linkusup
 linkvault
 lipitor
 lisinopril
+lodz
+łódź
 lorazepam
 lortab
 lose-weight
@@ -823,6 +844,8 @@ louis_vuitton
 louis-vuitton
 louisvuitton
 low-cost-
+lublin.
+lublina.
 lumigan
 luxury-replica
 luxuryreplica
@@ -844,6 +867,7 @@ marketing-marketing
 marketing-tip
 marketing.in
 marketingtip
+massarticle
 master.ru
 matural
 maxalt
@@ -884,6 +908,7 @@ mulberryhandbag
 muscle-supplement
 musclesupplement
 muzyczna
+muzyczny
 my_profile
 myqrops
 naltrexone
@@ -940,6 +965,8 @@ onlinemoney
 onlineoutlet
 onlinestore
 onsale-
+opinion.info
+opinions.info
 options-trad
 optionstrad
 ordersoma
@@ -1016,6 +1043,8 @@ play-online
 playonline
 plus-size
 plussize
+plytki
+plytki-ceramiczne
 poker-chip
 pokerchip
 polo_lacoste
@@ -1032,6 +1061,7 @@ pozew,
 poznaj-seo
 poznajseo
 pozycjonowanie
+pozyczka
 pozyczki
 prawnik
 prazosin
@@ -1046,6 +1076,7 @@ private-label
 privatelabel
 proactol
 product-sale
+produkcja
 profile_blogs
 profile_id=
 profile.cgi
@@ -1185,6 +1216,7 @@ site.com
 site.in
 sitecode
 skelaxin
+sklep
 sklepy
 smallbusinessplan
 social-bookmark
@@ -1280,8 +1312,10 @@ tresore
 trimethoprim
 tubee.tv
 tucholskie
+turbosprezarki
 tutorial.html
 tworzenie
+ubezpieczenia
 ugg-boot
 ugg-for
 ugg-on
@@ -1322,6 +1356,7 @@ unlock-iphone4
 unlockiphone4
 unwanted-hair
 unwantedhair
+uroda
 user.php?login=
 userinfo.aspx
 userinfo.php
@@ -1333,6 +1368,7 @@ viagera
 viagra
 vicodin
 video.htm
+videochat
 videogamedesign
 videos.htm
 vidios
@@ -1425,6 +1461,7 @@ your_loan
 your_profile
 your_site
 your-account
+your-credit
 your-ex
 your-free
 your-loan
@@ -1444,6 +1481,7 @@ zabaw
 zakazane
 zanaflex
 zantac
+zdrowie
 zithromax
 zoloft
 zolpidem
@@ -1455,22 +1493,30 @@ zyvox
 банков
 бесплатно
 дешево
+доходы
 драйвера
 знакомства
+инете
 китай
+компьютера
+компьютерная
 консультация
 кредит
 купить
 мебель
+миллион
 онлайн
 официальных
+персональный
 подешевле
 пожаловать
 преобрести
 приобрести
+продаже
 рекламное
 сайтов
 секс
 скачать
+спама
 услуги
 фото
