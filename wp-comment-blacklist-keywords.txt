@@ -1,4 +1,3 @@
-pokera
 _profitable_
 _strategies_
 -acne-
@@ -58,6 +57,7 @@ _strategies_
 -payday-
 -pokies-
 -pozew-
+-poznan
 -prada-
 -promotions-
 -promotions.
@@ -88,6 +88,7 @@ _strategies_
 -tax-settlement
 -the-best-
 -the-easiest-
+-the-greatest-
 -tips/
 -top-info
 -transpiration-
@@ -312,6 +313,7 @@ bagssale
 bagsstore
 bagstore
 beats-dr-dre
+beats+by+dre
 before-purchasing
 benzoclin
 best-direct
@@ -334,6 +336,7 @@ biz.pl
 biznes
 biznes-
 bizstore
+biżuteria
 blackjack
 blog_entry_id
 blog_entry.php
@@ -524,6 +527,7 @@ dobrucki.com
 dobrucki.pl
 download.pl
 drdreheadphone
+dre-beats
 drugcheap
 drugscheap
 dubturbo-
@@ -617,7 +621,6 @@ gamecopy
 gamedesigndegree
 games-casino
 gangprofil
-gazowe-poznan
 generate-money
 generatecash
 generatemoney
@@ -708,6 +711,7 @@ howtocure
 http://article
 http://community
 http://compare
+http://friend
 huperzine
 hydraulik-
 hydrocodone
@@ -716,19 +720,17 @@ hyzaar
 ikonboard.cgi?
 implanty
 income.info
-index.html?a=
-index.html?m=
-index.html?p=
-index.php?a=
-index.php?action=
-index.php?do=
-index.php?m=
-index.php?option
-index.php?p=
-index.php?page=
-index.php?s=
-index.php?showtopic=
-index.php?topic=
+index.html?a
+index.html?m
+index.html?p
+index.php?/
+index.php?a
+index.php?d
+index.php?m
+index.php?o
+index.php?p
+index.php?s
+index.php?t
 infos-
 infos/
 insanejournal
@@ -1011,6 +1013,7 @@ oxycontin
 p90x
 pain-relief.
 painrelief.
+parkiety
 party-poker
 partypoker
 paxil
@@ -1047,6 +1050,7 @@ plussize
 plytki
 plytki-ceramiczne
 poker-chip
+pokera
 pokerchip
 polo_lacoste
 polo-lacoste
@@ -1203,7 +1207,6 @@ shoeuk
 shopboots
 show_member_post
 showthread.php
-showthread.php?tid=
 sildenafil
 silver-and-gold
 silver-ingot
@@ -1294,7 +1297,7 @@ top-search
 top-site
 topamax
 topforum
-topic.php?f=
+topic.php?f
 topiramate
 topmuscle
 toprank
@@ -1313,6 +1316,7 @@ tresore
 trimethoprim
 tubee.tv
 tucholskie
+turbosprezarek
 turbosprezarki
 tutorial.html
 tworzenie
@@ -1358,7 +1362,7 @@ unlockiphone4
 unwanted-hair
 unwantedhair
 uroda
-user.php?login=
+user.php?login
 userinfo.aspx
 userinfo.php
 valium
@@ -1379,14 +1383,10 @@ view_entry
 viewblog.aspx
 viewblog.php
 viewentry
-viewthread.php?p=
-viewthread.php?pid=
-viewthread.php?t=
-viewthread.php?tid=
-viewtopic.php?p=
-viewtopic.php?pid=
-viewtopic.php?t=
-viewtopic.php?tid=
+viewthread.php?p
+viewthread.php?t
+viewtopic.php?p
+viewtopic.php?t
 vigara
 vigrx
 vimax
@@ -1484,6 +1484,7 @@ zanaflex
 zantac
 zdrowie
 zithromax
+złote
 zoloft
 zolpidem
 zyban
