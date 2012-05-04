@@ -5,6 +5,7 @@ _strategies_
 -adsense-
 -anal-
 -artykul-
+-auction-
 -authentic-
 -b2b
 -beneficial-
@@ -30,6 +31,8 @@ _strategies_
 -fashion-
 -filmy
 -for-sale
+-foreclosed-
+-foreclosure-
 -gambling
 -gaming-
 -gemorroya
@@ -73,6 +76,7 @@ _strategies_
 -scarpe-
 -search-engine-
 -searchengine-
+-secrets-
 -select-your-
 -seo-
 -seo/
@@ -144,6 +148,7 @@ _strategies_
 .rekla
 .remote-desktop
 .remotedesktop
+.ru/
 .ru/content
 .ru/member
 .ru/profile
@@ -167,7 +172,11 @@ _strategies_
 /authentic
 /banners-
 /better-
+/blog/post/
+/blog/posts/
+/blog/view/
 /blogid=
+/blogs/post/
 /blogs/posts/
 /burberry-
 /campaign-
@@ -176,6 +185,7 @@ _strategies_
 /casino
 /cheap-
 /drug
+/features-
 /filmy.
 /foot-care
 /forum/user/
@@ -188,7 +198,6 @@ _strategies_
 /hotdeals/
 /index.php/
 /join.php
-/katalog
 /konsultan
 /kredit
 /kredyt
@@ -198,6 +207,7 @@ _strategies_
 /love-life
 /love-quote
 /massage
+/med-
 /medical
 /medication-
 /mortgage
@@ -222,6 +232,7 @@ _strategies_
 /sitemap.xml
 /soma
 /submit/url/
+/the-first
 /the-sale
 /the-shock
 /thebest
@@ -327,9 +338,11 @@ before-purchasing
 benzoclin
 best-direct
 best-discount
+best-phone
 bestdirect
 bestdiscount
 bestlaptop
+bestphone
 bestsupplement
 bestsuppliment
 biaxin
@@ -409,6 +422,7 @@ cashforgold
 cashforsilver
 cashloan
 casino.com
+casinos-
 casub.com
 celebrex
 celebrities-nude
@@ -566,6 +580,7 @@ eshop.com
 estradiol
 etherdq
 event.php?event_id
+events.php?action
 every1bet
 exelon
 f_blog_id=
@@ -788,10 +803,7 @@ jogos
 kamagra
 kanalizacyjne
 karpaczwsieci
-katalog-
-katalog-seo
-katalog.
-katalogseo
+katalog
 kino-online
 kinoonline
 kitai
@@ -910,6 +922,7 @@ mirapex
 mkhandbag
 mkoutlet
 mmcenter.in
+mobile-phone
 modafinil
 mode=viewprofile
 moderowany
@@ -1133,12 +1146,14 @@ ref_title=
 ref_url=
 registry-clean
 registry-fix
+registry-repair
 registry-tool
 registry+clean
 registry+fix
 registry+tool
 registryclean
 registryfix
+registryrepair
 registrytool
 rekla.
 reklamowe
@@ -1229,6 +1244,7 @@ shoessale
 shoesuk
 shoeuk
 shopboots
+show_info
 show_member_post
 showthread.php
 sildenafil
@@ -1256,6 +1272,7 @@ sohbet
 soma.htm
 soup.io/post
 space.php?uid=
+special-offer
 speedy-product
 sprzedaz
 statuscode=
@@ -1291,6 +1308,7 @@ teen-sex
 teensex
 telepon-
 tenormin
+test.in
 the-diet
 the-most-common
 things-consumers
@@ -1505,6 +1523,7 @@ yoursite
 youtube-views
 z.info
 zabaw
+zaindeksowany
 zakazane
 zanaflex
 zantac
