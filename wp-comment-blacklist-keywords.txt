@@ -69,6 +69,7 @@ _strategies_
 -realestate-
 -remote-access-
 -remote-desktop-
+-review/
 -rims-
 -rozwod-
 -ru.
@@ -201,6 +202,7 @@ _strategies_
 /konsultan
 /kredit
 /kredyt
+/link/
 /linknum
 /loans
 /love-fail
@@ -554,6 +556,7 @@ djtool
 do=blog
 dobrucki.com
 dobrucki.pl
+dokumentów
 download.pl
 drdreheadphone
 dre-beats
@@ -603,6 +606,7 @@ finance.htm
 financing.htm
 finanse
 finasteride
+findarticle
 fioricet
 firefoxik.ru
 fix-credit
@@ -737,6 +741,7 @@ hotgirl
 hotlove
 how-to-buy
 how-to-get
+how-to-lose
 how-to-sell
 howtobuy
 howtocure
@@ -811,6 +816,7 @@ klonopin
 komputer
 komputery
 konsultan-seo
+kopia-zapasowa
 kors-outlet
 korsoutlet
 kosmetyc
@@ -983,6 +989,7 @@ obuwie
 oculosfeminino.
 odziez
 oemsoftware
+okpay
 online-blog
 online-business
 online-casino
@@ -992,6 +999,7 @@ online-marketing
 online-med
 online-money
 online-outlet
+online-sale
 online-store
 onlineblog
 onlinebusiness
@@ -1000,6 +1008,7 @@ onlineinvest
 onlinemed
 onlinemoney
 onlineoutlet
+onlinesale
 onlinestore
 onsale-
 opinion.info
@@ -1052,11 +1061,14 @@ parkiety
 party-poker
 partypoker
 paxil
+pay_day_loan
 payday-loan
 paydayloan
 paypal-cash
 paypalcash
 payroll-calc
+pc-access
+pcaccess
 penisenlarg
 penny-auction
 penny-bid
@@ -1140,6 +1152,7 @@ ralph-lauren
 ramipril
 razadyne
 read_blog
+reasons-why
 records.net
 redirect_to
 ref_title=
@@ -1451,6 +1464,7 @@ warehouse.us
 warszawa
 watch-replica
 watchreplica
+water-weight
 web-hosting
 web-promotion
 web-solution
@@ -1465,6 +1479,9 @@ weeklyprofit
 weight-loss
 weightloss
 wellbutrin
+wheels.com
+wheels.net
+wheels.org
 whichpage=
 www.article
 www.best-
@@ -1483,7 +1500,9 @@ www.gift
 www.link
 www.outlet
 www.penis
+www.remote
 www.replica
+www.rims
 www.sale
 www.scarpe
 www.ugg
