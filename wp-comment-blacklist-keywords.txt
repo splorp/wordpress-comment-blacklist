@@ -1,13 +1,3 @@
-security-for
-viewarticle.action
-livearticle
-articlebuzz
-great-things
-personnalisé
-newss.
-http://shop
-mp3-download
-reviot
 _profitable_
 _strategies_
 -acne-
@@ -209,6 +199,7 @@ _strategies_
 /hotdeals/
 /index.php/
 /join.php
+/journal/item/
 /konsultan
 /kredit
 /kredyt
@@ -284,6 +275,8 @@ adderall
 adderoll
 adipex
 adultdating
+advantages_of
+advantages-of
 advert-market
 advertising-research
 adwokacka
@@ -309,11 +302,13 @@ apartamentow
 apbd_sjs
 aricept
 armagard.co
+article-buzz
 article.com
 article.info
 article.net
 article.org
 article.php?id=
+articlebuzz
 articlepowa
 articles.com
 articles.info
@@ -702,6 +697,7 @@ gooseshop
 gotowkowa
 gotowkowe
 gratuitos
+great-things
 greatbet
 green-smoker
 greensmoker
@@ -759,6 +755,7 @@ http://article
 http://community
 http://compare
 http://friend
+http://shop
 huperzine
 hydraulik-
 hydrocodone
@@ -881,6 +878,8 @@ linkusup
 linkvault
 lipitor
 lisinopril
+live-article
+livearticle
 lodz
 łódź
 lorazepam
@@ -954,6 +953,7 @@ more-deal
 morpg
 mortgage.htm
 mortgagecalc
+mp3-download
 msgnum
 mulberry-handbag
 mulberryhandbag
@@ -971,6 +971,7 @@ netload.in
 neurontin
 new-article
 newarticle
+newss.
 nexopia
 niaspan
 nike-dunk
@@ -1088,6 +1089,7 @@ per-week
 percocet
 perday.com
 permonth.com
+personnalisé
 perweek
 pharmacies
 pharmacy
@@ -1156,6 +1158,7 @@ prozac-
 prywatne
 przepisane
 przeprowadzki
+publikacja
 raloxifene
 ralph_lauren
 ralph-lauren
@@ -1196,6 +1199,7 @@ review.info
 reviews.info
 reviews.net
 reviews.org
+reviot
 rilopkais.in
 rizatriptan
 robaxin
@@ -1229,6 +1233,7 @@ search-engine-opt
 searchengine-opt
 searchengine.
 secret.com
+security-for
 seks.ru
 sell-now
 sellnow
@@ -1447,6 +1452,8 @@ vidios
 view_blog.aspx
 view_blog.php
 view_entry
+view-article
+viewarticle
 viewblog.aspx
 viewblog.php
 viewentry
