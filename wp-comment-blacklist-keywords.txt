@@ -1,5 +1,6 @@
 _profitable_
 _strategies_
+_the_best_
 -acne-
 -acne/
 -adsense-
@@ -54,7 +55,6 @@ _strategies_
 -odejda-
 -offshore-
 -onlayn-
--online,
 -online.
 -online/
 -oympia-
@@ -69,6 +69,7 @@ _strategies_
 -realestate-
 -remote-access-
 -remote-desktop-
+-review.co
 -review/
 -rims-
 -rozwod-
@@ -110,7 +111,6 @@ _strategies_
 -website-
 -wedding-photo
 -wheels-
-,artykul,
 ?add=true
 ?browse-
 ?domain=
@@ -118,6 +118,7 @@ _strategies_
 ?p=blogs
 ?title=user
 ?view=detail
+.artykul.
 .biz
 .blogspace.
 .bluray.
@@ -134,6 +135,7 @@ _strategies_
 .htm?
 .html/
 .info.pl
+.mobi/?
 .online.pl
 .online.ws
 .outlet.com
@@ -218,7 +220,7 @@ _strategies_
 /orgasm
 /pg/blog/
 /piece-
-/piece,
+/piece.
 /porn
 /pozew
 /profile.php
@@ -339,6 +341,7 @@ bagsoutlet
 bagssale
 bagsstore
 bagstore
+bankrobber
 beats-dr-dre
 beats+by+dre
 before-purchasing
@@ -416,6 +419,8 @@ byo.co
 cagoosejacket
 cagoosesale
 camgirl
+can_help_you
+can-help-you
 canadagoosejack
 canadagoosemen
 canadagoosepark
@@ -491,6 +496,7 @@ couponcode
 coupons_page
 coupons-page
 crane-hire
+cranehire
 create-product
 credit-card
 credit-score
@@ -591,6 +597,7 @@ event.php?event_id
 events.php?action
 every1bet
 exelon
+extreme-sport
 f_blog_id=
 facebook-fan
 facebookfan
@@ -598,19 +605,27 @@ facts-about
 fajna-fotka
 fajnafotka
 falsedoc
+fast_loan
+fast-loan
 fastcash
+fastloan
 fat-loss
 fatloss
 fbfans
 fblike
 fdggdf
 fenoma
+fghgf
 fibromyalgia
 finance-
 finance.htm
+financial_emergency
+financial-emergency
 financing.htm
 finanse
+finansowanie
 finasteride
+find-the-answer
 findarticle
 fioricet
 firefoxik.ru
@@ -623,11 +638,15 @@ flixya
 floridaflee
 floxacin
 fluoxetine
+for_your_needs
 for-interactive
 for-money
+for-your-needs
 forex
+forum/1/topic
 forum/post
 forums?func=
+forums/1/topic
 free-bbs
 free-bid
 free-brows
@@ -666,11 +685,14 @@ generate-money
 generatecash
 generatemoney
 generatingcash
+get_rid_of
 get-facebook
 get-massive
+get-rid-of
 get-the-answer
 getaloan
 getmassive
+getridof
 gigantix.co
 gleevec
 glucophage
@@ -684,6 +706,7 @@ goldcoin
 goldgeek
 goldingot
 goldjewelry
+golfs
 gomaile.com
 good-for-
 googleing
@@ -731,6 +754,7 @@ haveasite
 hcg-boost
 hcgboost
 help-tax
+helpful-information
 hentai
 hermeshut
 hfgfh
@@ -745,6 +769,8 @@ hoodia
 hot-girl
 hotgirl
 hotlove
+how_do_you
+how-do-you
 how-to-buy
 how-to-get
 how-to-lose
@@ -752,6 +778,7 @@ how-to-sell
 howtobuy
 howtocure
 http://article
+http://artikel
 http://community
 http://compare
 http://friend
@@ -776,6 +803,7 @@ index.php?o
 index.php?p
 index.php?s
 index.php?t
+indicators.co
 infos-
 infos/
 insanejournal
@@ -806,6 +834,7 @@ iphone4case
 iphone4scase
 iphonecase
 iphonecrack
+is-now-available
 isotretinoine
 jeacoma.com
 jeweline.
@@ -921,6 +950,8 @@ massarticle
 master.ru
 matural
 maxalt
+may_help_you
+may-help-you
 meandyou
 meclizine
 meloxicam
@@ -962,7 +993,9 @@ musclesupplement
 muzyczna
 muzyczny
 my_profile
+my-new-ipad
 myqrops
+myreview.co
 naltrexone
 natural-way
 naturalway
@@ -971,6 +1004,7 @@ netload.in
 neurontin
 new-article
 newarticle
+newsarticle
 newss.
 nexopia
 niaspan
@@ -1089,6 +1123,7 @@ per-week
 percocet
 perday.com
 permonth.com
+personnalis
 personnalisé
 perweek
 pharmacies
@@ -1122,7 +1157,7 @@ porn.
 pornlive
 pornolady
 pornsex
-pozew,
+pozew.
 poznaj-seo
 poznajseo
 pozycjonowanie
@@ -1183,6 +1218,7 @@ registryrepair
 registrytool
 rekla.
 reklamowe
+rekreacja
 replica-brand
 replica-handbag
 replica-world
@@ -1224,6 +1260,7 @@ salesshop
 salestraining
 saletraining
 salvia.
+scam.html
 scam.info
 scam.net
 scam.org
@@ -1301,6 +1338,8 @@ soma.htm
 soup.io/post
 space.php?uid=
 special-offer
+specialty-transfer
+specialtytransfer
 speedy-product
 sprzedaz
 statuscode=
@@ -1316,6 +1355,7 @@ studiosbeat
 stylowe
 succeed-online
 successful-blog
+sucette
 sumatriptan
 suprax
 symptom-med
@@ -1323,6 +1363,7 @@ symptommed
 symptoms-med
 symptomsmed
 szcz
+tabaki
 tadalafil
 tamiflu
 tamoxifen
@@ -1337,6 +1378,8 @@ teensex
 telepon-
 tenormin
 test.in
+the_benefits_of
+the-benefits-of
 the-diet
 the-most-common
 things-consumers
@@ -1389,7 +1432,9 @@ tubee.tv
 tucholskie
 turbosprezarek
 turbosprezarki
+turystyka
 tutorial.html
+tvturn
 tworzenie
 ubezpieczenia
 ugg-boot
@@ -1470,6 +1515,7 @@ vitamin-for
 vitaminfor
 vitamins-for
 vitaminsfor
+wakka=
 wallinside
 ware-crack
 warecrack
@@ -1500,6 +1546,7 @@ wheels.com
 wheels.net
 wheels.org
 whichpage=
+wikka.php
 www.article
 www.best-
 www.cartier
