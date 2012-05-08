@@ -1,22 +1,3 @@
-linkz
-trening
-www.seo
-promocja
-nieruchomosci
-cygara
-investing+
-fajki
-piscine
-search.php?search
-profitseek
-profit-seek
-rent-car
-http://escort
-wordpressthemes
-trollapp
-hydroxy
-best-diet
-diet-food
 _profitable_
 _strategies_
 _the_best_
@@ -366,6 +347,7 @@ beats-dr-dre
 beats+by+dre
 before-purchasing
 benzoclin
+best-diet
 best-direct
 best-discount
 best-phone
@@ -532,6 +514,7 @@ custom+tire
 custom+wheel
 customrim
 customwheel
+cygara
 cymbalta
 dailystrength
 damskie
@@ -560,6 +543,7 @@ detail/www
 diamox
 diazepam
 diclofenac
+diet-food
 diet-pill
 diet-plan
 diet-review
@@ -623,6 +607,7 @@ f_blog_id=
 facebook-fan
 facebookfan
 facts-about
+fajki
 fajna-fotka
 fajnafotka
 falsedoc
@@ -805,12 +790,14 @@ http://article
 http://artikel
 http://community
 http://compare
+http://escort
 http://friend
 http://shop
 huperzine
 hydraulik-
 hydrocodone
 hydroxatone
+hydroxy
 hyzaar
 ï¿½
 ia€?ll
@@ -847,6 +834,7 @@ internet.in
 internetowej
 invest-off
 invest.net
+investing+
 investoff
 ipad-2-case
 ipad-download
@@ -930,6 +918,7 @@ linklegend
 linktrack
 linkusup
 linkvault
+linkz
 lipitor
 lisinopril
 live-article
@@ -1023,8 +1012,10 @@ muzyczna
 muzyczny
 my_profile
 my-new-ipad
+my-virus
 myqrops
 myreview.co
+myvirus
 naltrexone
 natural-way
 naturalway
@@ -1037,6 +1028,7 @@ newsarticle
 newss.
 nexopia
 niaspan
+nieruchomosci
 nike-dunk
 nizoral
 nm.ru
@@ -1166,6 +1158,7 @@ php?title=
 phpbb2/profile
 phpbb2/user
 pills.com
+piscine
 plavix
 play-online
 playonline
@@ -1210,8 +1203,11 @@ profile_blogs
 profile_id=
 profile.cgi
 profile/?u
+profit-seek
 profits-
+profitseek
 proisxozhdenie
+promocja
 propecia
 propranolol
 prostitutki
@@ -1251,6 +1247,7 @@ rekla.
 reklamowe
 rekreacja
 rent_in
+rent-car
 replica-brand
 replica-handbag
 replica-world
@@ -1299,6 +1296,7 @@ scam.org
 scar-repair
 scarrepair
 search-engine-opt
+search.php?search
 searchengine-opt
 searchengine.
 secret.com
@@ -1460,8 +1458,10 @@ tramadol
 travel.pl
 trazodone
 treatment.in
+trening
 tresore
 trimethoprim
+trollapp
 tubee.tv
 tucholskie
 turbosprezarek
@@ -1547,6 +1547,8 @@ vigrx
 vimax
 vinhobrasil.
 viramune
+virus-remov
+virusremov
 vitamin-for
 vitaminfor
 vitamins-for
@@ -1583,6 +1585,7 @@ wheels.net
 wheels.org
 whichpage=
 wikka.php
+wordpressthemes
 www.article
 www.best-
 www.cartier
@@ -1605,6 +1608,7 @@ www.replica
 www.rims
 www.sale
 www.scarpe
+www.seo
 www.ugg
 www.videos
 wypoczynku
