@@ -2,6 +2,7 @@ _profitable_
 _strategies_
 _the_best_
 --service
+--shuttle
 -acne-
 -acne/
 -adsense-
@@ -246,6 +247,7 @@ _the_best_
 /profile.php
 /profile/profile/
 /prozac
+/pufy
 /remote-desktop-
 /remotedesktop-
 /rozwod
@@ -299,6 +301,7 @@ action=profile
 action=viewprofile
 actonel
 acyclovir
+addarticle
 adderall
 adderoll
 adipex
@@ -311,6 +314,8 @@ adwokacka
 adwokat
 adwords
 agencje-
+airport--
+airport-transport
 alendronate
 alprazolam
 amateurs.htm
@@ -506,6 +511,7 @@ cigsonline
 cigspromo
 ciproanti
 clboot
+clickbank
 clomid
 clonazepam
 clredheel
@@ -640,6 +646,7 @@ ephedrine
 erotyczna
 escitalopram
 escorts.
+escortss
 eshop.com
 estradiol
 etherdq
@@ -656,6 +663,7 @@ facts-about
 fajki
 fajna-fotka
 fajnafotka
+fajne
 falsedoc
 fast_loan
 fast-loan
@@ -673,6 +681,8 @@ finance-
 finance.htm
 financial_emergency
 financial-emergency
+financial-service
+financialservice
 financing.htm
 finanse
 finansowanie
@@ -696,6 +706,7 @@ for-interactive
 for-money
 for-your-needs
 forex
+forum.php?
 forum/1/topic
 forum/post
 forums?func=
@@ -724,6 +735,7 @@ freeiphone
 freeipod
 freemovie
 freeoffer
+freeonline
 freesale
 freesimcard
 freevideo
@@ -802,6 +814,7 @@ hair-growth
 hair-remov
 hairagain
 hairgrowth
+hairmodel
 hairremov
 handbagout
 handbagsale
@@ -842,6 +855,7 @@ how-to-buy
 how-to-get
 how-to-lose
 how-to-sell
+how-to-teach
 howtobuy
 howtocure
 howtounlock
@@ -886,9 +900,11 @@ insurance-quotes
 internet-marketing
 internet.in
 internetowej
+invest-money
 invest-off
 invest.net
 investing+
+investmoney
 investoff
 ipad-2-case
 ipad-download
@@ -926,6 +942,7 @@ kosmetyc
 kosmetyki
 kreddyt
 kreddyyt
+kredit.
 kredyt
 labetalol
 lacoste-outlet
@@ -1017,9 +1034,11 @@ manage_blog
 manage/new
 management-software
 manicshop
+marketing-book
 marketing-marketing
 marketing-tip
 marketing.in
+marketingbook
 marketingtip
 marketingxchange
 massarticle
@@ -1030,9 +1049,11 @@ may_help_you
 may-help-you
 meandyou
 meclizine
+med-shop
 medeniz
 medicarefraud
 medphrases
+medshop
 meloxicam
 member.php
 memberlist.php
@@ -1048,6 +1069,7 @@ mkhandbag
 mkoutlet
 mmcenter.in
 mobile-phone
+mod=viewthread
 modafinil
 mode=viewprofile
 moderowany
@@ -1097,6 +1119,7 @@ niaspan
 nieruchomosci
 nike-air-max
 nike-dunk
+nikedunk
 nizoral
 nm.ru
 no-hassle
@@ -1127,8 +1150,10 @@ okpay
 online-blog
 online-business
 online-casino
+online-cert
 online-classified
 online-invest
+online-kredit
 online-marketing
 online-med
 online-money
@@ -1138,7 +1163,9 @@ online-store
 onlineblog
 onlinebusiness
 onlinecasino
+onlinecert
 onlineinvest
+onlinekredit
 onlinemed
 onlinemoney
 onlineoutlet
@@ -1221,6 +1248,7 @@ perweek
 pharmacies
 pharmacy
 phentermine
+phlebotomy
 phone-lookup
 phonelookup
 phonescanada
@@ -1231,7 +1259,9 @@ phpbb2/user
 pills.com
 piscine
 plavix
+play-free
 play-online
+playfree
 playonline
 plus-size
 plussize
@@ -1294,11 +1324,16 @@ prywatne
 przepisane
 przeprowadzki
 publikacja
+pufy.
+pure-jobs
+q=blog
+quick_search
 quick-loan
 quickloan
 raloxifene
 ralph_lauren
 ralph-lauren
+ralphlaurenoutlet
 ramipril
 razadyne
 read_blog
@@ -1419,7 +1454,9 @@ shoesale
 shoessale
 shoesuk
 shoeuk
+shop-online
 shopboots
+shoponline
 shopping+
 show_info
 show_member_post
@@ -1542,6 +1579,8 @@ torrentmovie
 torsemide
 tounlockiphone
 trafficz
+training-online
+trainingonline
 tramadol
 travel.pl
 trazodone
@@ -1673,6 +1712,7 @@ wellbutrin
 wheels.com
 wheels.net
 wheels.org
+wherecani
 whichpage=
 why-would-you
 wikka.php
@@ -1685,7 +1725,9 @@ www.cartier
 www.casino
 www.chanel
 www.cheap
+www.escort
 www.filmy.
+www.financ
 www.forum
 www.fotka.
 www.foto.
