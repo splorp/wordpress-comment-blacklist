@@ -1,6 +1,7 @@
 _profitable_
 _strategies_
 _the_best_
+---
 --service
 --shuttle
 -acne-
@@ -217,9 +218,12 @@ _the_best_
 /foto.
 /get-free
 /glowna.
+/guest-book
+/guestbook
 /hentai
 /hire-
 /hotdeals/
+/image/cache/
 /index.php/
 /join.php
 /journal/item/
@@ -274,6 +278,7 @@ _the_best_
 /view_my/
 /web-design/
 /wholesale-
+/x.co
 /xchange
 /xn--
 /yabb
@@ -287,6 +292,7 @@ _the_best_
 2itb.com
 2u.org
 3ww3.com
+4all
 4cheap
 4sale
 911.com
@@ -374,6 +380,7 @@ bagssale
 bagsstore
 bagstore
 bankrobber
+beamten
 beats-dr-dre
 beats+by+dre
 beautiful-women
@@ -385,6 +392,7 @@ best-diet
 best-direct
 best-discount
 best-phone
+best-software-for
 bestdirect
 bestdiscount
 bestlaptop
@@ -443,6 +451,7 @@ butnow
 buy-cheap
 buy-cig
 buy-now
+buy-pill
 buy-plus
 buy-soma
 buycheap
@@ -700,6 +709,7 @@ flixya
 floridaflee
 floxacin
 fluoxetine
+fluticasone
 foodpyramid
 for_your_needs
 for-interactive
@@ -855,9 +865,11 @@ how-to-buy
 how-to-get
 how-to-lose
 how-to-sell
+how-to-speed
 how-to-teach
 howtobuy
 howtocure
+howtospeed
 howtounlock
 huperzine
 hydraulik-
@@ -943,6 +955,7 @@ kosmetyki
 kreddyt
 kreddyyt
 kredit.
+kredite
 kredyt
 labetalol
 lacoste-outlet
@@ -999,6 +1012,7 @@ live-article
 livearticle
 livesex
 loanfast
+loans.co
 lodz
 łódź
 lookingfor
@@ -1104,6 +1118,7 @@ my-virus
 myqrops
 myreview.co
 myvirus
+najlepsze
 naltrexone
 natural-way
 naturalway
@@ -1393,6 +1408,7 @@ rpgonline
 runescape
 rusztowania
 sale.co.uk
+sale4u
 salecanada
 saleoutlet
 sales-inspir
@@ -1530,11 +1546,13 @@ teensex
 telepon-
 tenormin
 test.in
+testosterone-booster
 thailove
 the_benefits_of
 the-benefits-of
 the-diet
 the-most-common
+the-most-detail
 thebestprice
 theme-generat
 themegenerat
@@ -1791,6 +1809,7 @@ zakazane
 zaklady
 zanaflex
 zantac
+zapraszam
 zdrowie
 zithromax
 złote
