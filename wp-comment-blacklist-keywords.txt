@@ -135,6 +135,7 @@ _the_best_
 .bluray.
 .cfmx
 .com/member/
+.com/user
 .com/user/
 .coupon
 .credopa.in
@@ -147,9 +148,12 @@ _the_best_
 .htm?
 .html/
 .info.pl
+.info/user
 .mobi/?
+.net/user
 .online.pl
 .online.ws
+.org/user
 .outlet.com
 .php?u=
 .php/member
@@ -172,6 +176,7 @@ _the_best_
 .thearticle
 .totaldns.in
 .travel.pl
+.us/user
 .webs.com
 .xn--
 [...
@@ -561,6 +566,7 @@ comunity
 copy-wizard
 copywizard
 cordarone
+cost-effective
 coumadin
 coupon_page
 coupon-code
@@ -648,6 +654,7 @@ discountedwheel
 discountt
 discountwheel
 discussion_utilisateur
+diva-com
 divulgaemail
 djstool
 djtool
@@ -667,6 +674,7 @@ easy.info
 easyloan
 eemail
 effexor
+el-gordo.c
 eloans
 emarketing
 enhance-your
@@ -677,6 +685,7 @@ entry_key
 entrykey
 entryview.asp?
 ephedrine
+equipment-manufacture
 erotyczna
 escitalopram
 escorts.
@@ -700,6 +709,7 @@ fajna-fotka
 fajnafotka
 fajne
 falsedoc
+fashion-classic
 fast_loan
 fast-loan
 fastcash
@@ -712,6 +722,7 @@ fdggdf
 fenoma
 fghgf
 fibromyalgia
+filmizle
 finance-
 finance.htm
 financial_emergency
@@ -927,6 +938,8 @@ index.php?d
 index.php?m
 index.php?o
 index.php?p
+index.php?q
+index.php?route
 index.php?s
 index.php?t
 indicators.co
@@ -1174,6 +1187,7 @@ needmoney
 netload.in
 neurontin
 new-article
+new-balance
 newarticle
 newsarticle
 newss.
@@ -1240,6 +1254,7 @@ opinion.info
 opinions.info
 options-trad
 optionstrad
+oral-sex
 ordersoma
 orgazma
 oriflame
@@ -1352,6 +1367,7 @@ poznan
 pozycjonowanie
 pozyczka
 pozyczki
+pp-classified
 prawnik
 prazosin
 prednisone
@@ -1366,6 +1382,7 @@ private-label
 privatelabel
 proactol
 product-sale
+product/product
 produkcja
 profile_blogs
 profile_id=
@@ -1832,6 +1849,7 @@ www.instyler
 www.link
 www.longchampsa
 www.love
+www.newbalance
 www.outlet
 www.penis
 www.personal
@@ -1864,6 +1882,7 @@ your_site
 your-account
 your-credit
 your-ex
+your-family-member
 your-free
 your-loan
 your-profile
