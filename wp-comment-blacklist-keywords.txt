@@ -1,24 +1,3 @@
-zboard.php
-tinytowtimmy.com
-debt-solution
-theeasy
-matchcash
-no1.co
-www.sexy
-/errorx/
-link-pyramid
-link-juice
-money-site
-montrefemme
-berracom.ph
-injectionfacts
--lottery.
-euro-million
-cheat.co
-cheats.co
-triviatrivia
-hanging-with-friends
-hangingwithfriends
 _coupon_
 _marketing_
 _profitable_
@@ -31,7 +10,6 @@ _the_best_
 -acne/
 -adsense-
 -anal-
--artykul-
 -auction-
 -authentic-
 -b2b
@@ -77,6 +55,7 @@ _the_best_
 -linkbuild
 -loan-
 -loans-
+-lottery.
 -magazin-
 -magazini-
 -malware-
@@ -150,7 +129,6 @@ _the_best_
 ?p=blogs
 ?title=user
 ?view=detail
-.artykul.
 .biz
 .blogspace.
 .bluray.
@@ -208,7 +186,6 @@ _the_best_
 /?new-
 /?uid-
 //article
-//artikel
 //best
 //community
 //compare
@@ -222,7 +199,6 @@ _the_best_
 /acai
 /affordable-
 /alimenty/
-/artykul
 /authentic
 /banners-
 /better-
@@ -233,6 +209,7 @@ _the_best_
 /blogs/post/
 /blogs/posts/
 /burberry-
+/bvlgari-
 /campaign-
 /campaign/
 /campaigns/
@@ -240,8 +217,9 @@ _the_best_
 /cheap-
 /default/member/
 /drug
+/errorx/
 /features-
-/filmy.
+/filmy
 /foot-care
 /forum/user/
 /forum1/
@@ -278,6 +256,7 @@ _the_best_
 /note.php?
 /orgasm
 /pg/blog/
+/pg/profile/
 /piece-
 /piece.
 /porn
@@ -336,6 +315,7 @@ _the_best_
 3ww3.com
 4all
 4cheap
+4less.co
 4sale
 911.com
 acai-
@@ -398,13 +378,14 @@ articles.info
 articles.net
 articles.org
 articlesub
-artikel-
-artykul-
+artikel
+artykul
 asdfasdf
 asp?folder=
 ativan
 atomoxetine
 atorvastatin
+autoclinics.co.uk
 automatic-pay
 automaticpay
 avvessories
@@ -422,6 +403,7 @@ bagsoutlet
 bagssale
 bagsstore
 bagstore
+bankowoz
 bankrobber
 beamten
 beats-dr-dre
@@ -431,6 +413,7 @@ beautifulwomen
 before-purchasing
 belly-fat
 benzoclin
+berracom.ph
 best-diet
 best-direct
 best-discount
@@ -442,6 +425,7 @@ bestlaptop
 bestphone
 bestsupplement
 bestsuppliment
+betlist
 biaxin
 bielizna
 big_site
@@ -545,7 +529,9 @@ chanelsale
 cheap-ugg
 cheapcoach
 cheapugg
+cheat.co
 cheats-
+cheats.co
 cheesefruit
 chinska
 chlamydia
@@ -635,6 +621,7 @@ debt_settlement
 debt-help
 debt-management
 debt-relief
+debt-solution
 debthelp
 debtrelief
 definitelly
@@ -642,7 +629,9 @@ delete_post
 depression-symptom
 depressionsymptom
 desconto
+designer-jewel
 designer-shoe
+designerjewel
 designershoe
 desktop-client.
 desktopclient.
@@ -714,6 +703,7 @@ escortss
 eshop.com
 estradiol
 etherdq
+euro-million
 event.php?event_id
 events.php?action
 every1bet
@@ -795,6 +785,7 @@ free-online
 free-program
 free-website
 free.info
+freearticle
 freebbs
 freebid
 freebrows
@@ -898,6 +889,8 @@ handbagsout
 handbagssale
 handbagsu
 handbagu
+hanging-with-friends
+hangingwithfriends
 haveasite
 hcg-boost
 hcgboost
@@ -967,6 +960,7 @@ indicators.co
 infonetcom
 infos-
 infos/
+injectionfacts
 insanejournal
 insdier
 instant-blog
@@ -1056,7 +1050,9 @@ link_track
 link-baiting
 link-build
 link-campaign
+link-juice
 link-market
+link-pyramid
 link-serv
 link-track
 link-vault
@@ -1136,6 +1132,7 @@ marketingxchange
 massarticle
 masszaz
 master.ru
+matchcash
 matural
 maxalt
 may_help_you
@@ -1170,6 +1167,7 @@ mode=viewprofile
 moderowany
 moin.cgi
 moldremov
+money-site
 money.html
 moneyfast
 moneymak
@@ -1177,6 +1175,7 @@ monster-beat
 monster-headphon
 monsterbeat
 monsterheadphon
+montrefemme
 more-deal
 morpg
 mortgage.htm
@@ -1222,6 +1221,7 @@ nizoral
 nm.ru
 no-hassle
 no-prescription
+no1.co
 nohassle
 northface-jack
 northface-out
@@ -1402,6 +1402,7 @@ previcox
 private-label
 privatelabel
 proactol
+procedures-for
 product-sale
 product/product
 produkcja
@@ -1607,7 +1608,9 @@ specialtytransfer
 speed-loan
 speedloan
 speedy-product
+sportsbook
 sprzedaz
+squidoo.com
 statuscode=
 stodiobeat
 stodiosbeat
@@ -1657,6 +1660,7 @@ the-most-common
 the-most-detail
 the-right-way
 thebestprice
+theeasy
 theme-generat
 themegenerat
 things-consumers
@@ -1666,6 +1670,7 @@ tiffany-outlet
 tiffanyoutlet
 time-synchronisation.co.uk
 timeshare
+tinytowtimmy.com
 tipblog
 tips-for-
 tipsblog
@@ -1713,6 +1718,7 @@ treatment.in
 trening
 tresore
 trimethoprim
+triviatrivia
 trollapp
 tubee.tv
 tucholskie
@@ -1839,7 +1845,9 @@ wellbutrin
 wheels.com
 wheels.net
 wheels.org
+where-to-buy
 wherecani
+wheretobuy
 whichpage=
 why-would-you
 wikka.php
@@ -1865,6 +1873,7 @@ www.gamble
 www.gambling
 www.game
 www.gift
+www.herveleger
 www.hot
 www.instyler
 www.link
@@ -1880,6 +1889,7 @@ www.rims
 www.sale
 www.scarpe
 www.seo
+www.sexy
 www.ugg
 www.videos
 wypoczynku
@@ -1927,6 +1937,7 @@ zaklady
 zanaflex
 zantac
 zapraszam
+zboard.php
 zdrowie
 zithromax
 złote
