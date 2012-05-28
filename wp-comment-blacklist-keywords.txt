@@ -96,6 +96,8 @@ _the_best_
 -speed-up-
 -strona-
 -strona.
+-strony-
+-strony.
 -supplements-
 -symptoms-
 -tax-attorney
@@ -202,6 +204,7 @@ _the_best_
 /authentic
 /banners-
 /better-
+/blog/owner/
 /blog/post/
 /blog/posts/
 /blog/view/
@@ -221,8 +224,10 @@ _the_best_
 /features-
 /filmy
 /foot-care
+/forum/membership/
 /forum/user/
 /forum1/
+/forums/membership/
 /fotka.
 /foto.
 /get-free
@@ -278,6 +283,10 @@ _the_best_
 /sigarety-
 /sitemap.xml
 /soma
+/strona-
+/strona/
+/strony-
+/strony/
 /submit/url/
 /the-first
 /the-sale
@@ -394,11 +403,15 @@ backlink
 bad-credit
 badcredit
 bag-cheap
+bag-online
 bagcheap
+bagonline
 bagoutlet
 bags-cheap
+bags-online
 bagsale
 bagscheap
+bagsonline
 bagsoutlet
 bagssale
 bagsstore
@@ -410,6 +423,7 @@ beats-dr-dre
 beats+by+dre
 beautiful-women
 beautifulwomen
+beenpaid
 before-purchasing
 belly-fat
 benzoclin
@@ -560,6 +574,7 @@ clshoe
 coach-outlet
 coach-store
 coachbags
+coachhandbag
 coachoutlet
 coachstore
 code-generat
@@ -655,6 +670,7 @@ differin
 direct-health
 directhealth
 dirt-bike
+disclaim.asp
 discount-
 discount-wheel
 discount.co.uk
@@ -707,6 +723,9 @@ euro-million
 event.php?event_id
 events.php?action
 every1bet
+everyleg
+everypanty
+everytight
 exelon
 extra gry
 extreme-sport
@@ -765,6 +784,7 @@ for-interactive
 for-money
 for-your-needs
 forex
+forsales
 forum.php?
 forum/1/topic
 forum/post
@@ -844,6 +864,7 @@ goldjewelry
 golfs
 gomaile.com
 good-for-
+goodbye.asp
 googlebind
 googleing
 gooseca
@@ -896,6 +917,8 @@ hcg-boost
 hcgboost
 help-tax
 helpful-information
+helplink.asp
+hemorroides
 hentai
 hermeshut
 hfgfh
@@ -922,6 +945,7 @@ how_do_you
 how-do-you
 how-to-buy
 how-to-get
+how-to-have
 how-to-lose
 how-to-reduce
 how-to-sell
@@ -994,6 +1018,7 @@ iphonecase
 iphonecrack
 is-now-available
 isotretinoine
+jcshoe
 jeacoma.com
 jeweline.
 jimmy-choo
@@ -1020,6 +1045,7 @@ kreddyyt
 kredit.
 kredite
 kredyt
+kvartiry
 labetalol
 lacoste-outlet
 lacosteoutlet
@@ -1087,6 +1113,7 @@ locateacellphone
 locatecellphone
 lodz
 łódź
+loiusvuitton
 lookingfor
 lorazepam
 lortab
@@ -1142,9 +1169,11 @@ meclizine
 med-shop
 medeniz
 medicarefraud
+medikal.co
 medphrases
 medshop
 meloxicam
+member.html?u
 member.php
 memberlist.php
 meratol
@@ -1183,6 +1212,7 @@ mortgagecalc
 most-effective
 movie-zone
 movies-zone
+moviesdl
 movieszone
 moviezone
 mp3-download
@@ -1212,6 +1242,8 @@ newarticle
 newsarticle
 newss.
 nexopia
+nfl-jersey
+nfljersey
 niaspan
 nieruchomosci
 nike-air-max
@@ -1234,14 +1266,17 @@ now.info
 nude.htm
 oakley-cheap
 oakley-outlet
+oakley-store
 oakley-sunglass
 oakleycheap
 oakleyoutlet
+oakleystore
 oakleysunglass
 öáøåâïïê
 obuwia
 obuwie
 oculosfeminino.
+odszkodowania
 odziez
 oemsoftware
 okpay
@@ -1350,6 +1385,7 @@ pharmacy
 phentermine
 phlebotomy
 phone-lookup
+phone-number-lookup
 phonelookup
 phonescanada
 php?showuser=
@@ -1374,6 +1410,7 @@ polo_lacoste
 polo-lacoste
 polo-ralph
 poloralph
+popularna
 porn-live
 porn-sex
 porn.
@@ -1431,6 +1468,7 @@ publikacja
 pufy.
 pure-jobs
 q=blog
+qtrade
 quick_search
 quick-loan
 quickloan
@@ -1448,7 +1486,10 @@ realestate.co
 realestate.wordpress
 reasons-why
 records.net
+redbottomshoe
 redirect_to
+redirect.aspx
+redsoleshoe
 reeview
 ref_title=
 ref_url=
@@ -1479,12 +1520,14 @@ replicaworld
 restoril
 reverse-phone
 reversephone
+review-source
 review.aspx?
 review.html
 review.info
 reviews.info
 reviews.net
 reviews.org
+reviewsource
 reviot
 rilopkais.in
 rizatriptan
@@ -1568,8 +1611,10 @@ shoesale
 shoessale
 shoesuk
 shoeuk
+shop-now
 shop-online
 shopboots
+shopnow
 shoponline
 shopping+
 show_info
@@ -1628,6 +1673,7 @@ sucesso.co
 sucette
 suggested-website
 sumatriptan
+sunglasses.us
 super gry
 suprax
 symptom-med
@@ -1668,6 +1714,7 @@ this-review
 thread.php?threadid
 tiffany-outlet
 tiffanyoutlet
+timberlandboot
 time-synchronisation.co.uk
 timeshare
 tinytowtimmy.com
@@ -1711,6 +1758,7 @@ trading-method
 trafficz
 training-online
 trainingonline
+traitement-des
 tramadol
 travel.pl
 trazodone
@@ -1855,6 +1903,7 @@ women-date
 womendate
 wordpressthemes
 wpthemegen
+www.airjordan
 www.article
 www.best-
 www.buy
@@ -1876,9 +1925,12 @@ www.gift
 www.herveleger
 www.hot
 www.instyler
+www.isabelmarant
 www.link
 www.longchampsa
 www.love
+www.lv
+www.mulberry
 www.newbalance
 www.outlet
 www.penis
@@ -1891,6 +1943,7 @@ www.scarpe
 www.seo
 www.sexy
 www.ugg
+www.unlock
 www.videos
 wypoczynku
 wyposazenie
@@ -1943,6 +1996,7 @@ zithromax
 złote
 zoloft
 zolpidem
+zovirax
 zyban
 zyprexa
 zyrtec
@@ -1950,6 +2004,7 @@ zyvox
 алкогольные
 альтернатива
 банков
+без
 бесплатно
 дешево
 доходы
@@ -1970,6 +2025,7 @@ zyvox
 персональный
 подешевле
 пожаловать
+похудению
 преобрести
 приобрести
 продаже
