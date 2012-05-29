@@ -199,6 +199,7 @@ _the_best_
 //shop
 //webstore
 /acai
+/addfeed/
 /affordable-
 /alimenty/
 /authentic
@@ -227,10 +228,12 @@ _the_best_
 /forum/membership/
 /forum/user/
 /forum1/
+/forums/members/
 /forums/membership/
 /fotka.
 /foto.
 /get-free
+/getwidgets/
 /glowna.
 /grow-your
 /guest-book
@@ -327,6 +330,7 @@ _the_best_
 4less.co
 4sale
 911.com
+a-powerful-way
 acai-
 acaiberry
 account.php?id=
@@ -433,6 +437,7 @@ best-direct
 best-discount
 best-phone
 best-software-for
+best-way-to
 bestdirect
 bestdiscount
 bestlaptop
@@ -453,6 +458,7 @@ biz.pl
 biznes
 biznes-
 bizstore
+biztalk
 biżuteria
 blackjack
 blog_entry_id
@@ -695,6 +701,7 @@ drugcheap
 drugscheap
 dubturbo-
 dvdrip
+e-biz
 ease.info
 easy.info
 easyloan
@@ -712,6 +719,7 @@ entrykey
 entryview.asp?
 ephedrine
 equipment-manufacture
+erotik
 erotyczna
 escitalopram
 escorts.
@@ -723,9 +731,6 @@ euro-million
 event.php?event_id
 events.php?action
 every1bet
-everyleg
-everypanty
-everytight
 exelon
 extra gry
 extreme-sport
@@ -947,6 +952,7 @@ how-to-buy
 how-to-get
 how-to-have
 how-to-lose
+how-to-quick
 how-to-reduce
 how-to-sell
 how-to-speed
@@ -1137,6 +1143,7 @@ lv-handbag
 lvbag
 lvhandbag
 lvoutlet
+madeye30
 mail.ru
 make-money
 makebaby
@@ -1388,6 +1395,7 @@ phone-lookup
 phone-number-lookup
 phonelookup
 phonescanada
+php?article
 php?showuser=
 php?title=
 phpbb2/profile
@@ -1468,6 +1476,7 @@ publikacja
 pufy.
 pure-jobs
 q=blog
+q=node
 qtrade
 quick_search
 quick-loan
@@ -1758,6 +1767,7 @@ trading-method
 trafficz
 training-online
 trainingonline
+trainingpro
 traitement-des
 tramadol
 travel.pl
@@ -1820,7 +1830,9 @@ unlockiphone3
 unlockiphone4
 unwanted-hair
 unwantedhair
+urlstatusgo.html
 uroda
+user_blog.php
 user.php?login
 userinfo.aspx
 userinfo.php
@@ -1874,6 +1886,7 @@ warszawa
 watch-replica
 watchreplica
 water-weight
+way-to-enjoy
 web-hosting
 web-promotion
 web-solution
@@ -1913,6 +1926,11 @@ www.chanel
 www.cheap
 www.easy
 www.escort
+www.everyleg
+www.everylight
+www.everypanty
+www.everysock
+www.everytight
 www.filmy.
 www.financ
 www.forum
@@ -1956,6 +1974,7 @@ xwebsite
 xx.com
 xx.ru
 xxx
+yo-dick
 you-want-it
 your_account
 your_ex
