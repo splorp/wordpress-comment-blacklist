@@ -1,5 +1,3 @@
-sexdating
-sexdate
 _coupon_
 _marketing_
 _profitable_
@@ -417,6 +415,7 @@ bag-cheap
 bag-online
 bagcheap
 bagonline
+bagonsale
 bagoutlet
 bags-cheap
 bags-online
@@ -720,6 +719,7 @@ easy.info
 easyloan
 eemail
 effexor
+egoodshop
 el-gordo.c
 eloans
 emarketing
@@ -769,6 +769,7 @@ fbfans
 fblike
 fdggdf
 fenoma
+ferragamoshop
 fghgf
 fibromyalgia
 filmizle
@@ -1453,6 +1454,7 @@ porn-live
 porn-sex
 porn.
 pornlive
+porno.co
 porno.net
 pornolady
 pornsex
@@ -1639,6 +1641,8 @@ sex-web
 sex.htm
 sexblog
 sexcam
+sexdate
+sexdating
 sexgame
 sexshop
 sextape
@@ -1653,6 +1657,7 @@ shoeuk
 shop-now
 shop-online
 shopboots
+shopjp
 shopnow
 shoponline
 shopping+
@@ -2007,6 +2012,7 @@ www.newbalance
 www.outlet
 www.penis
 www.personal
+www.prada
 www.pradabag
 www.remote
 www.replica
