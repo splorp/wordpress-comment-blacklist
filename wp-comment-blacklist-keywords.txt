@@ -1,9 +1,3 @@
-www.hermes
-www.nike-
-glamorousbag
-otonanocoach
-guccinosekai
-oakleytokyo
 _coupon_
 _marketing_
 _profitable_
@@ -205,6 +199,7 @@ _the_best_
 //friend
 //groups
 //gucci
+//onsale
 //shop
 //webstore
 /acai
@@ -629,6 +624,7 @@ credit-score
 creditcard.org
 creditreport
 cristmas-
+crystalmall
 cure.co.uk
 curehelp
 cures.co.uk
@@ -772,6 +768,7 @@ fastcash
 fastloan
 fat-loss
 fatloss
+fb-traffic
 fbfans
 fblike
 fdggdf
@@ -873,6 +870,7 @@ getaloan
 getmassive
 getridof
 gigantix.co
+glamorousbag
 gleevec
 global-agenda
 globalagenda
@@ -922,6 +920,7 @@ gucci-purse
 gucci-replica
 gucci-sale
 guccija.
+guccinosekai
 guccioutlet
 guccipurse
 guccireplica
@@ -994,6 +993,7 @@ hydraulik-
 hydrocodone
 hydroxatone
 hydroxy
+hyper-fb
 hyzaar
 ï¿½
 ia€?ll
@@ -1318,6 +1318,7 @@ oakleycheap
 oakleyoutlet
 oakleystore
 oakleysunglass
+oakleytokyo
 öáøåâïïê
 obuwia
 obuwie
@@ -1362,6 +1363,7 @@ orgazma
 oriflame
 osobistosci
 osobistości
+otonanocoach
 otonanocoach.
 otoplasty
 outlet_store
@@ -1529,6 +1531,7 @@ ralph_lauren
 ralph-lauren
 ralphlaurenoutlet
 ramipril
+raybantokyo
 razadyne
 read_blog
 real_estate
@@ -2013,6 +2016,7 @@ www.gamble
 www.gambling
 www.game
 www.gift
+www.hermes
 www.herveleger
 www.hot
 www.instyler
@@ -2023,6 +2027,7 @@ www.love
 www.lv
 www.mulberry
 www.newbalance
+www.nike-
 www.outlet
 www.penis
 www.personal
