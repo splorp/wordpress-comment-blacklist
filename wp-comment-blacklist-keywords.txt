@@ -415,6 +415,8 @@ badcredit
 bag-cheap
 bag-online
 bagcheap
+bagjap
+bagjp
 bagonline
 bagonsale
 bagoutlet
@@ -422,6 +424,8 @@ bags-cheap
 bags-online
 bagsale
 bagscheap
+bagsjap
+bagsjp
 bagsonline
 bagsoutlet
 bagssale
@@ -469,6 +473,8 @@ bizstore
 biztalk
 biżuteria
 blackjack
+blacklabeljap
+blacklabeljp
 blog_entry_id
 blog_entry.php
 blog_post_view
@@ -514,6 +520,8 @@ buy-soma
 buycheap
 buycig
 buying-facebook
+buyjap
+buyjp
 buymovie
 buyplus
 buysoma
@@ -593,12 +601,14 @@ coach-store
 coach2you
 coachbags
 coachhandbag
+coachjap
 coachjp
 coachmise
 coachninnki
 coachoutlet
 coachstore
 coachtokyo
+coachya
 code-generat
 college-loan
 command=read_message
@@ -924,6 +934,8 @@ gucci-purse
 gucci-replica
 gucci-sale
 guccija.
+guccijap
+guccijp
 guccinosekai
 guccioutlet
 guccipurse
@@ -1298,6 +1310,8 @@ nieruchomosci
 nike-air-max
 nike-dunk
 nikedunk
+nikesportjap
+nikesportjp
 niketokyo
 nizoral
 nm.ru
@@ -1357,6 +1371,8 @@ onlinesale
 onlinestore
 only-deal
 onsale-
+onsale.com
+onsales.com
 opinion.info
 opinions.info
 options-trad
