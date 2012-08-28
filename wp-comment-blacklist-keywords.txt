@@ -1,8 +1,3 @@
-big-replica
-replica-store
-bigreplica
-replicastore
-welcometonginx
 _coupon_
 _marketing_
 _profitable_
@@ -381,6 +376,7 @@ amoxicil
 amoxil
 amzon.com
 anabolic
+anonymous-download
 anti-aging
 antiage
 antiaging
@@ -469,9 +465,11 @@ biaxin
 bielizna
 big_site
 big-cock
+big-replica
 big-site
 big.site
 bigcock
+bigreplica
 bitartrate
 biuro-solido
 biz.pl
@@ -964,15 +962,15 @@ gucci-you
 gucci2me
 gucci2you
 gucciden
-guccija.
-guccijap
+guccija
 guccijp
 guccikan
-guccinosekai
+guccinose
 guccioutlet
 guccipurse
 guccireplica
 guccisale
+gucciten
 gucciuk
 hair-again
 hair-growth
@@ -1146,7 +1144,9 @@ lasertherapy
 lasix
 learningxchange
 learnpianohere
+legal-steroid
 legalbud
+legalsteroid
 lenjerie
 lesben-
 letrozole
@@ -1384,7 +1384,7 @@ oakleytokyo
 öáøåâïïê
 obuwia
 obuwie
-oculosfeminino.
+oculosfeminino
 odszkodowania
 odziez
 oemsoftware
@@ -1429,7 +1429,6 @@ oriflame
 osobistosci
 osobistości
 otonanocoach
-otonanocoach.
 otoplasty
 outlet_store
 outlet-austr
@@ -1471,8 +1470,10 @@ painrelief.
 parkiety
 party-poker
 partypoker
-paulsmithkan
-paulsmithsuto
+paulsmith201
+paulsmithka
+paulsmithsa
+paulsmithsu
 paxil
 pay_day_loan
 payday-loan
@@ -1571,6 +1572,7 @@ profit-margin
 profit-seek
 profits-
 profitseek
+prohormone
 proisxozhdenie
 prokeyshop
 prom-dress
@@ -1635,11 +1637,13 @@ rent-car
 replica-brand
 replica-handbag
 replica-rolex
+replica-store
 replica-world
 replicabrand
 replicachanel
 replicahandbag
 replicarolex
+replicastore
 replicawatch
 replicaworld
 restoril
@@ -2036,6 +2040,7 @@ weeklyincome
 weeklyprofit
 weight-loss
 weightloss
+welcometonginx
 wellbutrin
 wheels.com
 wheels.net
