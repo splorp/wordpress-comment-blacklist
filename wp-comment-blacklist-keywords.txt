@@ -362,6 +362,7 @@ adwokacka
 adwokat
 adwords
 aff.php?
+age.webeden
 agencje-
 airport--
 airport-transport
@@ -516,6 +517,7 @@ businessloan
 businessmarket
 businessnetwork
 buspirone
+busquemail
 butnow
 buy-cheap
 buy-cig
@@ -575,6 +577,8 @@ chanelbag
 chanelsale
 cheap-ugg
 cheapcoach
+cheapoakley
+cheaprayban
 cheapugg
 cheat.co
 cheats-
@@ -833,6 +837,7 @@ fixcredit
 fixing-credit
 fixingcredit
 flagyl
+flats.webeden
 flixya
 floridaflee
 floxacin
@@ -924,6 +929,7 @@ gold-ingot
 gold-jewelry
 gold.ru
 goldcoin
+goldendoll
 goldgeek
 goldingot
 goldjewelry
@@ -1204,6 +1210,7 @@ lodz
 łódź
 login.php
 loiusvuitton
+longchampbag
 longchamplondon
 longchampuk
 lookingfor
@@ -1231,6 +1238,7 @@ luxuryreplica
 lv-bag
 lv-handbag
 lvbag
+lvforsale
 lvhandbag
 lvoutlet
 madeye30
@@ -1379,8 +1387,10 @@ oakley-sunglass
 oakleycheap
 oakleyoutlet
 oakleystore
+oakleysuk
 oakleysunglass
 oakleytokyo
+oakleyuk
 öáøåâïïê
 obuwia
 obuwie
@@ -1493,6 +1503,7 @@ pennystock
 per-week
 percocet
 perday.com
+perfectvpn
 permonth.com
 personal-injury
 personalinjury
@@ -1642,6 +1653,7 @@ replica-world
 replicabrand
 replicachanel
 replicahandbag
+replicaoakley
 replicarolex
 replicastore
 replicawatch
@@ -1680,6 +1692,7 @@ rpg-online
 rpgonline
 runescape
 rusztowania
+s.webeden
 sale.co.uk
 sale4u
 salecanada
@@ -1947,6 +1960,7 @@ uggsonline
 uk-handbag
 uk-mall
 uk-sale
+uk.webeden
 ukclsale
 ukhandbag
 ukmall
