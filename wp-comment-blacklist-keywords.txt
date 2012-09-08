@@ -24,8 +24,12 @@ _the_best_
 -cheap-
 -cheapest-
 -cheats
+-cigar.
 -cigarette-
+-cigarette.
 -cigarettes-
+-cigarettes.
+-cigars.
 -cock-
 -comfort-
 -coupon-
@@ -132,6 +136,7 @@ _the_best_
 ?domain=
 ?kat=
 ?p=blogs
+?sexy-
 ?title=user
 ?view=detail
 .biz
@@ -224,6 +229,8 @@ _the_best_
 /campaigns/
 /casino
 /cheap-
+/cigar-
+/cigars-
 /default/member/
 /drug
 /errorx/
@@ -353,7 +360,9 @@ addarticle
 adderall
 adderoll
 adenosyl
+adidas-corner
 adipex
+adult-story
 adultdating
 advantages_of
 advantages-of
@@ -442,6 +451,8 @@ bankrobber
 beamten
 beats-dr-dre
 beats+by+dre
+beatscustom
+beatsdrdre
 beautiful-women
 beautifulwomen
 beenpaid
@@ -474,6 +485,7 @@ big-site
 big.site
 bigcock
 bigreplica
+birkenstocksandal
 bitartrate
 biuro-solido
 biz.pl
@@ -743,8 +755,10 @@ directhealth
 dirt-bike
 disclaim.asp
 discount-
+discount-cigar
 discount-wheel
 discount.co.uk
+discountcigar
 discounted-
 discounted-wheel
 discountedwheel
@@ -758,6 +772,7 @@ djtool
 do=blog
 dobrucki.com
 dobrucki.pl
+docteurdrebeat
 dokumentów
 download.pl
 drdreheadphone
@@ -771,6 +786,7 @@ early-signs-of
 ease.info
 easy.info
 easyloan
+ed-in-men
 eemail
 effexor
 egoodshop
@@ -933,6 +949,8 @@ getmassive
 getridof
 gigantix.co
 glamorousbag
+glasses-tokyo
+glassestokyo
 gleevec
 global-agenda
 globalagenda
@@ -997,6 +1015,7 @@ guccireplica
 guccisale
 gucciten
 gucciuk
+gucciyu
 hair-again
 hair-growth
 hair-remov
@@ -1232,6 +1251,7 @@ loiusvuitton
 longchamp-shop
 longchampbag
 longchamplondon
+longchampsac
 longchampshop
 longchampuk
 lookingfor
@@ -1589,6 +1609,8 @@ prednisone
 pregnancysymptom
 premarin
 premium-account
+premium-cigar
+premiumcigar
 prepaid-credit
 prescription.htm
 pressrelease.net
@@ -1734,6 +1756,8 @@ salestraining
 saletraining
 salvia.
 samedayloans
+sandaljp
+sandalsjp
 scam.html
 scam.info
 scam.net
@@ -1793,6 +1817,7 @@ shopjp
 shopnow
 shoponline
 shopping+
+shoppingcenter.co
 show_info
 show_member_post
 showthread.php
@@ -1822,6 +1847,7 @@ softwaresecret
 sohbet
 soma.htm
 soup.io/post
+sozedde.co
 space.php?uid
 special-offer
 specialty-transfer
@@ -1999,9 +2025,11 @@ ultram
 unknown.ru
 unlock-iphone3
 unlock-iphone4
+unlock-mobile
 unlockiphone.in
 unlockiphone3
 unlockiphone4
+unlockmobile
 unwanted-hair
 unwantedhair
 urlstatusgo.html
@@ -2047,6 +2075,7 @@ vitamin-for
 vitaminfor
 vitamins-for
 vitaminsfor
+vuittonsac
 wakka=
 wallinside
 ware-crack
@@ -2069,6 +2098,7 @@ webcamsex
 webhosting
 webnode.co
 webnode.cz
+webnode.fr
 webnode.hu
 webnode.it
 webnode.nl
