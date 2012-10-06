@@ -601,9 +601,11 @@ chanel-sale
 chanelbag
 chanelsale
 cheap-adobe
+cheap-jersey
 cheap-ugg
 cheapadobe
 cheapcoach
+cheapjersey
 cheapoakley
 cheaprayban
 cheapugg
@@ -1166,6 +1168,10 @@ is-now-available
 isotretinoine
 jcshoe
 jeacoma.com
+jerseys-4-you
+jerseys-for-you
+jerseys4you
+jerseysforyou
 jeweline.
 jimmy-choo
 jimmychoo
@@ -2146,6 +2152,8 @@ where-to-buy
 wherecani
 wheretobuy
 whichpage=
+wholesale-cheap
+wholesalecheap
 why-would-you
 wikka.php
 win7professional
