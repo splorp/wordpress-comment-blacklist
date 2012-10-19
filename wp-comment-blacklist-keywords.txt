@@ -601,10 +601,12 @@ chanel-sale
 chanelbag
 chanelsale
 cheap-adobe
+cheap-hat
 cheap-jersey
 cheap-ugg
 cheapadobe
 cheapcoach
+cheaphat
 cheapjersey
 cheapoakley
 cheaprayban
@@ -787,6 +789,7 @@ dobrucki.com
 dobrucki.pl
 docteurdrebeat
 dokumentów
+doudoune
 download.pl
 drdreheadphone
 dre-beats
@@ -1430,6 +1433,7 @@ nikedunk
 nikefreerun
 nikefreerunjp
 nikemain
+nikepasch
 nikesportjap
 nikesportjp
 niketokyo
