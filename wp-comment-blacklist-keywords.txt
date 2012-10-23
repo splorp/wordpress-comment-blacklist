@@ -56,6 +56,7 @@ _the_best_
 -handbags-
 -income-
 -iphone-5-
+-jersey.co
 -kredyt
 -lacoste-
 -linkbuild
@@ -741,8 +742,10 @@ delete_post
 depression-symptom
 depressionsymptom
 desconto
+designer-bag
 designer-jewel
 designer-shoe
+designerbag
 designerjewel
 designershoe
 desktop-client.
@@ -807,6 +810,7 @@ eemail
 effexor
 egoodshop
 el-gordo.c
+elite-men
 eloans
 email.htm
 emailsvip
@@ -1171,10 +1175,13 @@ is-now-available
 isotretinoine
 jcshoe
 jeacoma.com
+jersetblack
+jerseyred
 jerseys-4-you
 jerseys-for-you
 jerseys4you
 jerseysforyou
+jerseywhite
 jeweline.
 jimmy-choo
 jimmychoo
@@ -1724,6 +1731,7 @@ rekreacja
 rent_in
 rent-car
 replica-brand
+replica-design
 replica-gucci
 replica-handbag
 replica-rolex
@@ -1731,6 +1739,7 @@ replica-store
 replica-world
 replicabrand
 replicachanel
+replicadesign
 replicagucci
 replicahandbag
 replicaoakley
