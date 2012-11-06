@@ -48,6 +48,7 @@ _the_best_
 -fotograf.
 -fotografia.
 -gambling
+-game-jersey
 -gaming-
 -gemorroya
 -get-free-
@@ -66,6 +67,7 @@ _the_best_
 -magazin-
 -magazini-
 -malware-
+-men-jersey
 -metods-
 -mortgage-
 -odejda-
@@ -90,6 +92,7 @@ _the_best_
 -rims-
 -rozwod-
 -ru.
+-sale.org
 -salvia-
 -scarpe-
 -search-engine-
@@ -132,6 +135,7 @@ _the_best_
 -wedding-photo
 -wheels-
 -wholesale.
+-women-jersey
 -xchange
 ?add=true
 ?browse-
@@ -381,6 +385,8 @@ agencje-
 airport--
 airport-transport
 alendronate
+allbestedmed
+allbestmed
 alprazolam
 amateurs.htm
 amazn.com
@@ -1196,6 +1202,8 @@ kino-online
 kinoonline
 kitai
 klonopin
+knockoff-handbag
+knockoffhandbag
 komputer
 komputery
 konsultan-seo
@@ -1415,6 +1423,8 @@ myreview.co
 myvirus
 najlepsze
 naltrexone
+name-brand-
+namebrandpurse
 natural-way
 naturalway
 needmoney
