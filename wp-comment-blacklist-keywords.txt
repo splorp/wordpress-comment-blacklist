@@ -4,6 +4,8 @@ _profitable_
 _strategies_
 _the_best_
 ---
+--bag
+--jacket
 --service
 --shuttle
 -acne-
@@ -109,6 +111,7 @@ _the_best_
 -sigareta-
 -sigarety-
 -speed-up-
+-store.
 -strona-
 -strona.
 -strony-
@@ -126,6 +129,7 @@ _the_best_
 -transpiration-
 -treatment-
 -uggs-
+-uk.net
 -unlockiphone
 -unlockphone
 -vendita-
@@ -157,6 +161,7 @@ _the_best_
 .com/user/
 .coupon
 .credopa.in
+.fake-
 .filpan.ru
 .filvce.in
 .forum.
@@ -170,6 +175,7 @@ _the_best_
 .info/user
 .longchamp-
 .mobi/?
+.moncler-
 .net/user
 .online.pl
 .online.ws
@@ -385,6 +391,8 @@ adwokacka
 adwokat
 adwords
 aff.php?
+african-canadian-model
+africancanadianmodel
 age.webeden
 agencje-
 airport--
@@ -412,6 +420,7 @@ anuncios
 apartamentow
 apbd_sjs
 aquarius-compat
+areplica
 aricept
 armagard.co
 article-buzz
@@ -448,6 +457,7 @@ bag-online
 bagcheap
 bagjap
 bagjp
+bagmirror
 bagonline
 bagonsale
 bagoutlet
@@ -623,21 +633,32 @@ celexa
 cellskin
 celular
 cgsaleca
+chanel--
 chanel-bag
+chanel-online
 chanel-sale
 chanelbag
+chanelonline
 chanelsale
 cheap-adobe
+cheap-chanel
+cheap-gucci
 cheap-hat
+cheap-hermes
 cheap-jacket
 cheap-jersey
+cheap-prada
 cheap-ugg
 cheapadobe
+cheapchanel
 cheapcoach
+cheapgucci
 cheaphat
+cheaphermes
 cheapjacket
 cheapjersey
 cheapoakley
+cheapprada
 cheaprayban
 cheapugg
 cheat.co
@@ -749,6 +770,7 @@ cygara
 cymbalta
 dailystrength
 damskie
+dapoxetine
 darmowe-programy
 darmoweprogramy
 darmowy
@@ -773,9 +795,11 @@ depression-symptom
 depressionsymptom
 desconto
 designer-bag
+designer-brand
 designer-jewel
 designer-shoe
 designerbag
+designerbrand
 designerjewel
 designershoe
 desktop-client.
@@ -832,6 +856,7 @@ drugcheap
 drugscheap
 dubturbo-
 dvdrip
+e--store
 e-biz
 early-signs-of
 ease.info
@@ -979,6 +1004,7 @@ freevideo
 freewebsite
 func=view
 furiousguy
+furnituresale
 furosemide
 gabapentin
 game-casino
@@ -1424,6 +1450,7 @@ mode=viewprofile
 moderowany
 moin.cgi
 moldremov
+moncler--
 money-site
 money.html
 moneyfast
@@ -1579,6 +1606,7 @@ otoplasty
 outlet_store
 outlet-austr
 outlet-canad
+outlet-hermes
 outlet-online
 outlet-sale
 outlet-shop
@@ -1593,6 +1621,7 @@ outlet.us
 outlet.weebly
 outletaustr
 outletcanad
+outlethermes
 outletonline
 outlets-online
 outlets-sale
@@ -1697,6 +1726,10 @@ pozycjonowanie
 pozyczka
 pozyczki
 pp-classified
+prada-bag
+prada-outlet
+pradabag
+pradaoutlet
 prawnik
 prazosin
 prednisone
@@ -1794,6 +1827,7 @@ replica-brand
 replica-design
 replica-gucci
 replica-handbag
+replica-prada
 replica-rolex
 replica-store
 replica-world
@@ -1803,6 +1837,7 @@ replicadesign
 replicagucci
 replicahandbag
 replicaoakley
+replicaprada
 replicarolex
 replicastore
 replicawatch
@@ -1965,6 +2000,7 @@ speedy-product
 spip.php
 sportsbook
 sprzedaz
+spyderjackets
 squidoo.com
 statuscode=
 steelersfan
@@ -2121,6 +2157,7 @@ uggsfor
 uggslove
 uggsold
 uggsonline
+uggsoutlet
 uk-handbag
 uk-mall
 uk-sale
@@ -2320,6 +2357,7 @@ www.scarpe
 www.seo
 www.sexy
 www.shoes
+www.topdesign
 www.ugg
 www.unlock
 www.videos
