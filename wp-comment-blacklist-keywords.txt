@@ -166,6 +166,7 @@ _the_best_
 .htm?
 .html/
 .info.pl
+.info/product
 .info/user
 .longchamp-
 .mobi/?
@@ -531,6 +532,7 @@ bonus-code
 bonuscode
 boot-get
 boot-queen
+bootcojp
 bootget
 bootqueen
 boots-get
@@ -821,6 +823,7 @@ dobrucki.pl
 docteurdrebeat
 dokumentów
 doudoune
+downjacket
 download.pl
 doxycycline
 drdreheadphone
@@ -1211,6 +1214,7 @@ jacket-jp
 jacket-sale
 jackets-jp
 jacketsale
+japanonline
 jcshoe
 jeacoma.com
 jersetblack
@@ -1543,6 +1547,7 @@ online-money
 online-outlet
 online-sale
 online-store
+online.info
 onlineblog
 onlinebusiness
 onlinecasino
@@ -2192,6 +2197,7 @@ warehouse.org
 warehouse.pl
 warehouse.ru
 warehouse.us
+warmjp
 warszawa
 watch-replica
 watchreplica
@@ -2296,6 +2302,7 @@ www.longchampsa
 www.louboutins
 www.love
 www.lv
+www.moncler
 www.mulberry
 www.newbalance
 www.nike-
