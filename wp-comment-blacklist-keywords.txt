@@ -241,6 +241,10 @@ _the_best_
 /blogs/post/
 /blogs/posts/
 /burberry-
+/burberry1
+/burberry2
+/burberry3
+/burberry4
 /bvlgari-
 /campaign-
 /campaign/
@@ -1243,8 +1247,14 @@ is-now-available
 isotretinoine
 jacket-jp
 jacket-sale
+jackets-for-kids
+jackets-for-men
+jackets-for-women
 jackets-jp
 jacketsale
+jacketsforkids
+jacketsformen
+jacketsforwomen
 japanonline
 jcshoe
 jeacoma.com
@@ -1845,7 +1855,7 @@ replicadesign
 replicagucci
 replicahandbag
 replicaoakley
-replicaprada
+replicaprad
 replicarolex
 replicastore
 replicawatch
@@ -2008,7 +2018,9 @@ speedy-product
 spip.php
 sportsbook
 sprzedaz
+spyder-ski
 spyderjackets
+spyderski
 squidoo.com
 statuscode=
 steelersfan
