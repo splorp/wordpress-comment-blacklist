@@ -59,6 +59,7 @@ _the_best_
 -gifts-
 -handbag-
 -handbags-
+-herbal-
 -income-
 -iphone-5-
 -jersey-
@@ -694,6 +695,7 @@ cigar-online
 cigar-store
 cigarcuba
 cigaronline
+cigarrette
 cigars-cuba
 cigars-online
 cigarscuba
@@ -1141,9 +1143,14 @@ helpful-information
 helplink.asp
 hemorroides
 hentai
+herbalsmoking
 hermes-bag
+hermes-discount
+hermes-outlet
 hermesbag
+hermesdiscount
 hermeshut
+hermesoutlet
 hfgfh
 hgh-sup
 hghsup
@@ -1252,6 +1259,10 @@ iphonecase
 iphonecrack
 is-now-available
 isotretinoine
+italy-shop
+italy-store
+italyshop
+italystore
 jacket-jp
 jacket-sale
 jackets-for-kids
@@ -1407,8 +1418,11 @@ luxreplica
 luxury-replica
 luxuryreplica
 lv-bag
+lv-discount
 lv-handbag
+lv-outlet
 lvbag
+lvdiscount
 lvforsale
 lvhandbag
 lvoutlet
@@ -1531,12 +1545,14 @@ new-oakley
 newarrivals
 newarticle
 newoakley
+news.info
 newsarticle
 newss.
 nexopia
 nfl-jersey
 nfljersey
 niaspan
+nicoban
 nieruchomosci
 nike-air-max
 nike-dunk
@@ -1775,6 +1791,8 @@ procedures-for
 product-sale
 product/product
 produkcja
+professional-ugg
+professionalugg
 profile_blogs
 profile_id=
 profile.cgi
@@ -1810,6 +1828,7 @@ queenjp
 quick_search
 quick-loan
 quickloan
+quit-smoking
 raloxifene
 ralph_lauren
 ralph-lauren
@@ -1910,11 +1929,13 @@ s.webeden
 sacguess
 saclongchamp
 sacsguess
+sale-cheap
 sale-factory
 sale-jp
 sale.co.uk
 sale4u
 salecanada
+salecheap
 salefactory
 saleoutlet
 sales-factory
@@ -2016,6 +2037,7 @@ skelaxin
 sklep
 sklepy
 smallbusinessplan
+smokingnews
 social-bookmark
 socialbookmark
 soeasy
@@ -2044,6 +2066,7 @@ statuscode=
 steelersfan
 stodiobeat
 stodiosbeat
+stop-smoking
 story.php?id
 strategies-for
 strategy-for
