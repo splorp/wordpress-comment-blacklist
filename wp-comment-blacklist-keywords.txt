@@ -36,6 +36,7 @@ _the_best_
 -cigars.
 -cock-
 -comfort-
+-costume.htm
 -coupon-
 -deluxe-
 -dieta-
@@ -549,6 +550,8 @@ blogentry.php
 blogs-tricks
 blogs.php?action
 blowjob
+bluetooth-jammer
+bluetoothjammer
 bonus-code
 bonuscode
 boot-get
@@ -796,6 +799,7 @@ dealsuk
 dealsus
 dealuk
 dealus
+dear-lover
 debt_settlement
 debt-help
 debt-management
@@ -819,6 +823,8 @@ designershoe
 desktop-client.
 desktopclient.
 detail/www
+devil1.htm
+devil2.htm
 dewelop
 diamox
 diazepam
@@ -1048,6 +1054,7 @@ getaloan
 gethermes
 getmassive
 getridof
+getyou.asp
 gigantix.co
 glamorousbag
 glasses-tokyo
@@ -1721,8 +1728,10 @@ pharmacies
 pharmacy
 phentermine
 phlebotomy
+phone-jammer
 phone-lookup
 phone-number-lookup
+phonejammer
 phonelookup
 phonescanada
 php?article
@@ -1746,6 +1755,8 @@ poker-money
 pokera
 pokerchip
 pokermoney
+pokies-online
+pokiesonline
 polo_lacoste
 polo-lacoste
 polo-ralph
@@ -2258,9 +2269,11 @@ venlafaxine
 viagera
 viagra
 vicodin
+video-pokie
 video.htm
 videochat
 videogamedesign
+videopokie
 videos.htm
 vidios
 view_blog.aspx
@@ -2338,6 +2351,8 @@ whichpage=
 wholesale-cheap
 wholesalecheap
 why-would-you
+wifi-jammer
+wifijammer
 wikka.php
 win7professional
 windows7key
@@ -2355,6 +2370,7 @@ www.buy
 www.canadagoose
 www.cartier
 www.casino
+www.cellphone
 www.chanel
 www.cheap
 www.coach-
