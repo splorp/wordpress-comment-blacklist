@@ -109,6 +109,7 @@ _the_best_
 -select-your-
 -seo-
 -seo/
+-service.htm
 -sexy-
 -shoes.
 -sigareta-
@@ -203,6 +204,7 @@ _the_best_
 .ru/profile
 .ru/user
 .sirenos.in
+.supreme-
 .thearticle
 .totaldns.in
 .travel.pl
@@ -563,6 +565,7 @@ boots-get
 boots-queen
 bootsget
 bootsqueen
+bootss
 bootssale
 bootsugg
 boottenngoku
@@ -925,7 +928,7 @@ events.php?action
 every1bet
 exelon
 exit.asp
-extra gry
+extragry
 extreme-sport
 f_blog_id=
 facebook-fan
@@ -972,6 +975,7 @@ findarticle
 findmewoman
 fioricet
 firefoxik.ru
+fivestardoll
 fix-credit
 fixcredit
 fixing-credit
@@ -989,6 +993,7 @@ for_your_needs
 for-interactive
 for-money
 for-your-needs
+forboots
 forex
 forsales
 forum_posts.asp
@@ -1109,8 +1114,8 @@ group_home.php
 grow-cannabis
 growth-hormone
 growthhormone
-gry flesh
-gry online
+gryflesh
+gryonline
 gucci--
 gucci-outlet
 gucci-purse
@@ -1134,6 +1139,7 @@ gucciten
 gucciuk
 gucciyu
 hair-again
+hair-grow
 hair-growth
 hair-remov
 hairagain
@@ -1191,6 +1197,7 @@ how-to-buy
 how-to-get
 how-to-have
 how-to-lose
+how-to-make
 how-to-quick
 how-to-reduce
 how-to-sell
@@ -1239,6 +1246,8 @@ injury-lawyer
 injurylawyer
 insanejournal
 insdier
+inspired-handbag
+inspiredhandbag
 instant-blog
 instant-loan
 instantblog
@@ -1614,7 +1623,9 @@ oculosfeminino
 odszkodowania
 odziez
 oemsoftware
+official-sale
 official-steeler
+officialsale
 officialsteeler
 okpay
 online-blog
@@ -2102,7 +2113,7 @@ sucette
 suggested-website
 sumatriptan
 sunglasses.us
-super gry
+supergry
 suprax
 symptom-med
 symptommed
@@ -2219,6 +2230,7 @@ ugg-on
 ugg-outlet
 ugg-sale
 ugg-uk
+ugg-usa
 uggatcanada
 uggbay
 uggboot
@@ -2236,6 +2248,7 @@ uggs-on
 uggs-outlet
 uggs-sale
 uggs-uk
+uggs-usa
 uggs.com
 uggsale
 uggsboot
@@ -2245,6 +2258,8 @@ uggslove
 uggsold
 uggsonline
 uggsoutlet
+uggsusa
+uggusa
 uk-handbag
 uk-mall
 uk-sale
@@ -2376,6 +2391,8 @@ worldugg
 worldwideugg
 wow-gold
 wpthemegen
+writing-service
+writingservice
 www.airjordan
 www.article
 www.best-
@@ -2453,6 +2470,7 @@ www.scarpe
 www.seo
 www.sexy
 www.shoes
+www.top
 www.topdesign
 www.ugg
 www.unlock
