@@ -715,6 +715,8 @@ cigs-promo
 cigsonline
 cigspromo
 ciproanti
+classic-ugg
+classicugg
 clboot
 clickbank
 clomid
@@ -920,6 +922,10 @@ escorts.
 escortss
 escortzone
 eshop.com
+essay-service
+essays-service
+essayservice
+essaysservice
 estradiol
 etherdq
 euro-million
@@ -944,7 +950,9 @@ fakerayban
 falsedoc
 falsepassport
 fanshome
+fashion-boot
 fashion-classic
+fashionboot
 fast_loan
 fast-loan
 fastcash
@@ -1080,11 +1088,13 @@ glyburide
 gmaiil
 gold-account
 gold-coin
+gold-essay
 gold-ingot
 gold-jewelry
 gold.ru
 goldcoin
 goldendoll
+goldessay
 goldgeek
 goldingot
 goldjewelry
@@ -1146,8 +1156,12 @@ hairagain
 hairgrowth
 hairmodel
 hairremov
+handbag-for
+handbagfor
 handbagout
+handbags-for
 handbagsale
+handbagsfor
 handbagsout
 handbagssale
 handbagsu
@@ -2046,8 +2060,10 @@ shopboots
 shopjp
 shopnow
 shoponline
+shopping-ugg
 shopping+
 shoppingcenter.co
+shoppingugg
 show_info
 show_member_post
 showthread.php
@@ -2222,6 +2238,8 @@ tutorial.html
 tvturn
 tworzenie
 ubezpieczenia
+ugboos.co
+ugbos.co
 ugg-boot
 ugg-comfort
 ugg-for
@@ -2233,7 +2251,9 @@ ugg-uk
 ugg-usa
 uggatcanada
 uggbay
+uggboos.co
 uggboot
+uggbos.co
 uggcheap
 uggclog
 uggcomfort
@@ -2442,6 +2462,7 @@ www.gamble
 www.gambling
 www.game
 www.gift
+www.handbag
 www.hermes
 www.herveleger
 www.hot
@@ -2456,6 +2477,8 @@ www.moncler
 www.mulberry
 www.newbalance
 www.nike-
+www.onlineshop
+www.onlinewith
 www.outlet
 www.penis
 www.personal
