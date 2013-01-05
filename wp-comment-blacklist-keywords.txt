@@ -36,6 +36,7 @@ _the_best_
 -cigars.
 -cock-
 -comfort-
+-cosmetics.
 -costume.htm
 -coupon-
 -deluxe-
@@ -413,6 +414,8 @@ african-canadian-model
 africancanadianmodel
 age.webeden
 agencje-
+airmaxshoe-
+airmaxshoes-
 airport--
 airport-transport
 alendronate
@@ -944,6 +947,7 @@ extra gry
 extreme-sport
 f_blog_id=
 facebook-fan
+facebook-traffic
 facebookfan
 facebooklike
 facts-about
@@ -1468,6 +1472,7 @@ lvdiscount
 lvforsale
 lvhandbag
 lvoutlet
+mac-cosmetic
 madeye30
 mail.ru
 make-money
@@ -1488,6 +1493,7 @@ marketing.in
 marketingbook
 marketingtip
 marketingxchange
+mass-facebook
 massarticle
 masszaz
 master.ru
@@ -2405,7 +2411,11 @@ wherecani
 wheretobuy
 whichpage=
 wholesale-cheap
+wholesale-mac
 wholesalecheap
+wholesalemac
+wholesaler-mac
+wholesalermac
 why-would-you
 wifi-jammer
 wifijammer
@@ -2476,6 +2486,8 @@ www.herveleger
 www.hot
 www.instyler
 www.isabelmarant
+www.kobe
+www.lebron
 www.link
 www.longchampsa
 www.louboutins
