@@ -289,6 +289,8 @@ _the_best_
 /kredit
 /kredyt
 /link/
+/linkdetail/
+/linkdetails/
 /linknum
 /loans
 /longchamp-
@@ -373,6 +375,10 @@ _the_best_
 4cheap
 4less.co
 4sale
+7handbag
+7purse
+8handbag
+8purse
 911.com
 a-powerful-way
 acai-
@@ -1925,6 +1931,8 @@ replica-prada
 replica-rolex
 replica-store
 replica-world
+replica7
+replica8
 replicabrand
 replicachanel
 replicadesign
