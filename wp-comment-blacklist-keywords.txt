@@ -163,6 +163,7 @@ _the_best_
 .bluray.
 .cfmx
 .com/member/
+.com/site-
 .com/user
 .com/user/
 .coupon
@@ -1201,6 +1202,7 @@ high-heel
 high-protein
 highbloodpressure
 highprotein
+hitfit
 home-loan
 home-remedies
 home-remedy
@@ -1210,6 +1212,7 @@ homeremedy
 hoodia
 horoscopes
 horoskop
+horsesimul
 hot-girl
 hot-love
 hotel-deal
@@ -1335,6 +1338,8 @@ jimmy-choo
 jimmychoo
 jogos
 john-varvatos
+jordan-sale
+jordansale
 jpmarcjacob
 kamagra
 kanalizacyjne
@@ -1558,6 +1563,7 @@ movie-zone
 movieonline
 movies-online
 movies-zone
+moviesandfilms
 moviesdl
 moviesonline
 movieszone
@@ -2167,6 +2173,7 @@ telepon-
 tenormin
 test.in
 testosterone-booster
+testuser
 thailove
 the_benefits_of
 the-benefits-of
