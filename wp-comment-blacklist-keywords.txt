@@ -215,7 +215,8 @@ _the_best_
 .xn--
 )-
 [...
-[/url]
+[/url
+[url
 @hotmail.
 @live.fr
 @toke.
@@ -501,10 +502,12 @@ bankowoz
 bankrobber
 beamten
 beats-dr-dre
+beats-dre
 beats+by+dre
 beatsbydre
 beatscustom
 beatsdrdre
+beatsdre
 beatsdre.in
 beautiful-women
 beautifulwomen
@@ -892,6 +895,7 @@ drdreheadphone
 dre-beats
 drugcheap
 drugscheap
+dubai-princess.
 dubturbo-
 dvdrip
 e--store
@@ -1318,6 +1322,8 @@ jackets-for-kids
 jackets-for-men
 jackets-for-women
 jackets-jp
+jackets2012
+jackets2013
 jacketsale
 jacketsforkids
 jacketsformen
@@ -1472,11 +1478,13 @@ lv-bag
 lv-discount
 lv-handbag
 lv-outlet
+lv-uk
 lvbag
 lvdiscount
 lvforsale
 lvhandbag
 lvoutlet
+lvuk
 mac-cosmetic
 madeye30
 mail.ru
@@ -1530,6 +1538,7 @@ michael-kors
 michaelkors
 mieszkania
 mieszkanie
+millen-outlet
 mirapex
 mkhandbag
 mkoutlet
@@ -1719,6 +1728,8 @@ outlet.org
 outlet.uk
 outlet.us
 outlet.weebly
+outlet2012
+outlet2013
 outletaustr
 outletcanad
 outlethermes
@@ -2125,6 +2136,7 @@ speedy-product
 spip.php
 sportsbook
 sprzedaz
+spyder-jacket
 spyder-ski
 spyderjackets
 spyderski
@@ -2539,6 +2551,7 @@ xx.ru
 xxx
 yo-dick
 yoigucci.co
+you-ugg
 you-want-it
 your_account
 your_ex
@@ -2565,6 +2578,7 @@ yourprofile
 yoursite
 youtube-views
 youtubedownload
+youugg
 z.info
 zabaw
 zaindeksowany
