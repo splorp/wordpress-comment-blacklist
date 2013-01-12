@@ -308,6 +308,7 @@ _the_best_
 /node/
 /note.php?
 /orgasm
+/page_
 /pg/blog/
 /pg/profile/
 /piece-
@@ -369,6 +370,7 @@ _the_best_
 %7C
 %d8%
 %u2019
++jersey
 <a>
 2itb.com
 2u.org
@@ -731,6 +733,7 @@ ciproanti
 classic-ugg
 classicugg
 clboot
+clenbuterol
 clickbank
 clomid
 clonazepam
@@ -936,8 +939,12 @@ escorts.
 escortss
 escortzone
 eshop.com
+essay-empire
 essay-service
+essayempire
+essays-empire
 essays-service
+essaysempire
 essayservice
 essaysservice
 estradiol
@@ -1119,13 +1126,19 @@ good-for-
 goodbye.asp
 googlebind
 googleing
+goose-canada
+goose-jakke
+goose-vest
 gooseca
+goosecanada
 goosecheap
 goosedk
+goosejakke
 gooseparka
 goosesale
 goosescheap
 gooseshop
+goosevest
 gotowkowa
 gotowkowe
 gratuitos
@@ -1244,6 +1257,7 @@ huperzine
 hyclate
 hydraulik-
 hydrocodone
+hydrotherapy
 hydroxatone
 hydroxy
 hyper-fb
@@ -1272,6 +1286,7 @@ indicators.co
 infonetcom
 infos-
 infos/
+ingugg
 injectionfacts
 injury-lawyer
 injurylawyer
@@ -1332,6 +1347,7 @@ japanonline
 jcshoe
 jeacoma.com
 jersetblack
+jersey+
 jerseyonline
 jerseyred
 jerseys-4-you
@@ -1614,7 +1630,9 @@ newsarticle
 newss.
 nexopia
 nfl-jersey
+nfl-official
 nfljersey
+nflofficial
 niaspan
 nicoban
 nieruchomosci
@@ -2115,6 +2133,8 @@ skelaxin
 sklep
 sklepy
 smallbusinessplan
+smart-drug
+smartdrug
 smokingnews
 social-bookmark
 socialbookmark
@@ -2163,6 +2183,7 @@ sumatriptan
 sunglasses.us
 super gry
 suprax
+supremeessay
 symptom-med
 symptommed
 symptoms-med
@@ -2222,6 +2243,8 @@ tirewholesale
 tizanidine
 tnf-sale
 tnfsale
+toeshoe.co
+toeshoes.co
 tofranil
 tokyo-lv
 tomsshoes
@@ -2273,6 +2296,7 @@ tworzenie
 ubezpieczenia
 ugboos.co
 ugbos.co
+ugg-best
 ugg-boot
 ugg-comfort
 ugg-for
@@ -2283,7 +2307,7 @@ ugg-sale
 ugg-uk
 ugg-usa
 uggatcanada
-uggbay
+uggbest
 uggboos.co
 uggboot
 uggbos.co
@@ -2304,6 +2328,7 @@ uggs-uk
 uggs-usa
 uggs.com
 uggsale
+uggsbay
 uggsboot
 uggscheap
 uggsfor
@@ -2499,6 +2524,7 @@ www.gamble
 www.gambling
 www.game
 www.gift
+www.goosepa
 www.handbag
 www.hermes
 www.herveleger
