@@ -1684,8 +1684,10 @@ odziez
 oemsoftware
 official-sale
 official-steeler
+official-ugg
 officialsale
 officialsteeler
+officialugg
 okpay
 online-blog
 online-business
@@ -2304,6 +2306,7 @@ ugg-official
 ugg-on
 ugg-outlet
 ugg-sale
+ugg-site
 ugg-uk
 ugg-usa
 uggatcanada
@@ -2324,6 +2327,7 @@ uggs-for
 uggs-on
 uggs-outlet
 uggs-sale
+uggs-site
 uggs-uk
 uggs-usa
 uggs.com
@@ -2332,10 +2336,12 @@ uggsbay
 uggsboot
 uggscheap
 uggsfor
+uggsite
 uggslove
 uggsold
 uggsonline
 uggsoutlet
+uggssite
 uggsusa
 uggusa
 uk-handbag
