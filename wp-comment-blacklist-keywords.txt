@@ -113,6 +113,7 @@ _the_best_
 -service.htm
 -sexy-
 -shoes.
+-shop.co
 -sigareta-
 -sigarety-
 -speed-up-
@@ -688,6 +689,7 @@ cheap-hat
 cheap-hermes
 cheap-jacket
 cheap-jersey
+cheap-pandora
 cheap-prada
 cheap-ugg
 cheapadobe
@@ -699,6 +701,7 @@ cheaphermes
 cheapjacket
 cheapjersey
 cheapoakley
+cheappandora
 cheapprada
 cheaprayban
 cheapugg
@@ -904,6 +907,7 @@ download.pl
 doxycycline
 drdreheadphone
 dre-beats
+dresshop
 drugcheap
 drugscheap
 dubai-princess.
@@ -993,6 +997,8 @@ fb-traffic
 fbfans
 fblike
 fdggdf
+femmes-canada-goose
+femmescanadagoose
 fenoma
 ferragamoshop
 fghgf
@@ -1091,6 +1097,8 @@ generate-money
 generatecash
 generatemoney
 generatingcash
+genuine-pandora
+genuinepandora
 get_rid_of
 get-boot
 get-facebook
@@ -1242,9 +1250,11 @@ horoskop
 horsesimul
 hot-girl
 hot-love
+hot-sale
 hotel-deal
 hotgirl
 hotlove
+hotsale
 how_do_you
 how-do-you
 how-to-buy
@@ -1256,6 +1266,7 @@ how-to-quick
 how-to-reduce
 how-to-sell
 how-to-speed
+how-to-take
 how-to-teach
 how-to-win
 howtobuy
@@ -1472,6 +1483,8 @@ lodz
 łódź
 login.php
 loiusvuitton
+london-genuine
+londongenuine
 longchamp-shop
 longchampbag
 longchamplondon
@@ -1649,9 +1662,11 @@ niaspan
 nicoban
 nieruchomosci
 nike-air-max
+nike-and-shoe
 nike-dunk
 nike-freerun
 nike-main
+nikeandshoe
 nikedunk
 nikefreerun
 nikefreerunjp
@@ -1703,6 +1718,7 @@ officialsale
 officialsteeler
 officialugg
 okpay
+oksunglass
 online-blog
 online-business
 online-casino
@@ -1788,6 +1804,10 @@ p90x
 page.tl
 pain-relief.
 painrelief.
+pandora-jewelry
+pandoraau
+pandorajewelry
+pandorauk
 parkiety
 party-poker
 partypoker
@@ -1841,6 +1861,7 @@ piscine
 plavix
 play-free
 play-online
+playerblock
 playfree
 playonline
 plus-size
@@ -2047,6 +2068,7 @@ sale4u
 salecanada
 salecheap
 salefactory
+salejp
 saleoutlet
 sales-factory
 sales-inspir
@@ -2121,9 +2143,11 @@ shoessale
 shoestore
 shoesuk
 shoeuk
+shop-japan.co
 shop-now
 shop-online
 shopboots
+shopjapan.co
 shopjp
 shopnow
 shoponline
@@ -2200,7 +2224,11 @@ sucesso.co
 sucette
 suggested-website
 sumatriptan
+sunglassau
 sunglasses.us
+sunglassesau
+sunglassesuk
+sunglassuk
 super gry
 suprax
 supremeessay
@@ -2263,6 +2291,8 @@ tirewholesale
 tizanidine
 tnf-sale
 tnfsale
+todsjapan
+todsjp
 toeshoe.co
 toeshoes.co
 tofranil
@@ -2592,6 +2622,7 @@ www.videos
 www.win
 wypoczynku
 wyposazenie
+x.ru
 xalatan
 xanax
 xenical
@@ -2619,6 +2650,7 @@ your-free
 your-loan
 your-profile
 your-site
+your-skin
 your-windows-app
 your-your
 youraccount
