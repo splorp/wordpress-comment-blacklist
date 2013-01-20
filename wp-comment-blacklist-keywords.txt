@@ -705,6 +705,7 @@ cheap-jacket
 cheap-jersey
 cheap-pandora
 cheap-prada
+cheap-tms
 cheap-ugg
 cheapadobe
 cheapbeatsbydre
@@ -719,6 +720,7 @@ cheapoakley
 cheappandora
 cheapprada
 cheaprayban
+cheaptms
 cheapugg
 cheat.co
 cheats-
@@ -2326,6 +2328,8 @@ tiresdiscount
 tireswholesale
 tirewholesale
 tizanidine
+tms-shoe
+tmsshoe
 tnf-sale
 tnfsale
 todsjapan
