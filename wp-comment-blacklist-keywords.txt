@@ -218,6 +218,7 @@ _the_best_
 [url
 @hotmail.
 @live.fr
+@mail-
 @toke.
 /?new-
 /?uid-
@@ -404,8 +405,10 @@ adderoll
 adenosyl
 adidas-corner
 adipex
+adult-sex
 adult-story
 adultdating
+adultsex
 advantages_of
 advantages-of
 advert-market
@@ -705,6 +708,7 @@ cheap-jacket
 cheap-jersey
 cheap-pandora
 cheap-prada
+cheap-sex
 cheap-tms
 cheap-ugg
 cheapadobe
@@ -720,6 +724,7 @@ cheapoakley
 cheappandora
 cheapprada
 cheaprayban
+cheapsex
 cheaptms
 cheapugg
 cheat.co
@@ -1241,6 +1246,8 @@ hangingwithfriends
 haveasite
 hcg-boost
 hcgboost
+hello-sex
+hellosex
 help-tax
 helpful-information
 helplink.asp
@@ -1749,8 +1756,10 @@ official-ugg
 officialsale
 officialsteeler
 officialugg
+ok-sex
 okcanadagoose
 okpay
+oksex
 oksunglass
 online-blog
 online-business
@@ -1839,8 +1848,10 @@ p90x
 page.tl
 pain-relief.
 painrelief.
+pandora-charm
 pandora-jewelry
 pandoraau
+pandoracharm
 pandorajewelry
 pandorauk
 parkiety
@@ -2159,6 +2170,7 @@ sex-cam
 sex-game
 sex-shop
 sex-tape
+sex-toy
 sex-tube
 sex-web
 sex.htm
@@ -2169,6 +2181,7 @@ sexdating
 sexgame
 sexshop
 sextape
+sextoy
 sextube
 sexweb
 sexy.co
@@ -2436,11 +2449,13 @@ uggsusa
 uggusa
 uk-handbag
 uk-mall
+uk-mart
 uk-sale
 uk.webeden
 ukclsale
 ukhandbag
 ukmall
+ukmart
 ukonline.co
 uksale
 uksonline
