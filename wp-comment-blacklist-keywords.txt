@@ -71,6 +71,7 @@ _the_best_
 -linkbuild
 -loan-
 -loans-
+-longchamp-
 -lottery.
 -magazin-
 -magazini-
@@ -273,6 +274,7 @@ _the_best_
 /forums/member
 /fotka.
 /foto.
+/gekiyasu
 /get-free
 /getwidgets/
 /glowna.
@@ -304,6 +306,8 @@ _the_best_
 /medical
 /medication-
 /mortgage
+/nihon
+/ninnki
 /node/
 /note.php?
 /orgasm
@@ -330,6 +334,7 @@ _the_best_
 /sex
 /sigareta-
 /sigarety-
+/sinsaku
 /sitemap.xml
 /soma
 /strona-
@@ -387,6 +392,7 @@ _the_best_
 8purse
 911.co
 a-powerful-way
+abilify
 acai-
 acaiberry
 account.php?id=
@@ -450,6 +456,7 @@ apbd_sjs
 aquarius-compat
 areplica
 aricept
+aripiprex
 armagard.co
 article-buzz
 article.co
@@ -622,6 +629,7 @@ busythumb
 butnow
 buy-cheap
 buy-cig
+buy-hair
 buy-movie
 buy-now
 buy-pill
@@ -630,6 +638,7 @@ buy-soma
 buycanadagoose
 buycheap
 buycig
+buyhair
 buying-facebook
 buyjap
 buyjp
@@ -1109,6 +1118,7 @@ freesale
 freesimcard
 freevideo
 freewebsite
+frlongchamp
 func=view
 furiousguy
 furnituresale
@@ -1201,6 +1211,7 @@ growth-hormone
 growthhormone
 gry flesh
 gry online
+gucchi
 gucci--
 gucci-outlet
 gucci-purse
@@ -1227,10 +1238,12 @@ hair-again
 hair-grow
 hair-growth
 hair-remov
+hair-straight
 hairagain
 hairgrowth
 hairmodel
 hairremov
+hairstraight
 handbag-for
 handbagfor
 handbagout
@@ -1638,6 +1651,12 @@ monster-beat
 monster-headphon
 monsterbeat
 monsterheadphon
+montblancboutique
+montblancfranc
+montblancmeister
+montblancparis
+montblancsold
+montblancstylo
 montrefemme
 more-deal
 morelvjp
@@ -2275,6 +2294,7 @@ strattera
 stromectol
 studiobeat
 studiosbeat
+stylomontblanc
 stylowe
 succeed-online
 successful-blog
@@ -2543,6 +2563,7 @@ watch-replica
 watchreplica
 water-weight
 way-to-enjoy
+wdmypass
 web-hosting
 web-promotion
 web-solution
@@ -2779,6 +2800,7 @@ zyvox
 селитра
 скачать
 спама
+удивительные
 услуги
 фото
 элитныеноутбуки
