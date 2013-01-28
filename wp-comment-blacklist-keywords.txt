@@ -1,4 +1,3 @@
-/syaneru
 _coupon_
 _marketing_
 _profitable_
@@ -82,10 +81,12 @@ _the_best_
 -metods-
 -mortgage-
 -odejda-
+-off-your-
 -offshore-
 -onlayn-
 -online.
 -online/
+-order-at-
 -oympia-
 -payday-
 -poker.
@@ -156,6 +157,7 @@ _the_best_
 ?add=true
 ?browse-
 ?domain=
+?firma=
 ?kat=
 ?p=blogs
 ?sexy-
@@ -343,6 +345,7 @@ _the_best_
 /strony-
 /strony/
 /submit/url/
+/syaneru
 /the-first
 /the-sale
 /the-shock
@@ -377,6 +380,7 @@ _the_best_
 %u2019
 +jersey
 <a>
+10000mail
 2itb.co
 2u.org
 3j3j3
@@ -826,6 +830,7 @@ coupon-page
 couponcode
 coupons_page
 coupons-page
+couponsense
 coverages
 cozy-ugg
 cozyugg
@@ -911,6 +916,7 @@ dietreview
 dietsolution
 dietsupplement
 differin
+diflucan
 direct-health
 directhealth
 dirt-bike
@@ -1056,6 +1062,7 @@ findarticle
 findmewoman
 fioricet
 firefoxik.ru
+firma.php
 fivestardoll
 fix-credit
 fixcredit
@@ -1066,6 +1073,7 @@ flats.webeden
 flixya
 floridaflee
 floxacin
+fluconazole
 fluoxetine
 fluticasone
 fobur.in
@@ -1107,6 +1115,7 @@ freebbs
 freebid
 freebrows
 freecasino
+freefor.co
 freehub
 freeipad
 freeiphone
@@ -1429,6 +1438,9 @@ john-varvatos
 jordan-sale
 jordansale
 jpmarcjacob
+jsadidas
+kaffee-maschine
+kaffeemaschine
 kamagra
 kanalizacyjne
 karpaczwsieci
@@ -1631,6 +1643,7 @@ michaelkors
 mieszkania
 mieszkanie
 millen-outlet
+minecraftfree
 mirapex
 mkhandbag
 mkoutlet
@@ -1845,6 +1858,7 @@ outlet.us
 outlet.weebly
 outlet2012
 outlet2013
+outlet4u
 outletaustr
 outletcanad
 outletforsale
@@ -2211,12 +2225,15 @@ sextoy
 sextube
 sexweb
 sexy.co
+sgames.co
 shed-fat
 shoes-cheap
 shoes-on-sale
+shoes-outlet
 shoesale
 shoeskan
 shoesonsale
+shoesoutlet
 shoessale
 shoestore
 shoesuk
@@ -2311,6 +2328,7 @@ sunglassuk
 super gry
 suprax
 supremeessay
+syaneru.
 symptom-med
 symptommed
 symptoms-med
@@ -2332,6 +2350,7 @@ teensex
 telepon-
 tenormin
 test.in
+test1.
 testosterone-booster
 testuser
 thailove
@@ -2765,6 +2784,7 @@ zyrtec
 zyvox
 алкогольные
 альтернатива
+Андроид
 банков
 без
 бесплатно
@@ -2782,6 +2802,7 @@ zyvox
 кредит
 купить
 магаз
+маркет
 мебель
 миллион
 онлайн
