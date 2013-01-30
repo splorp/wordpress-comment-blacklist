@@ -46,6 +46,7 @@ _the_best_
 -e-guide-
 -easily-
 -ebay
+-enlargement.
 -fashion-
 -filmy
 -for-sale
@@ -375,12 +376,13 @@ _the_best_
 %20coupon
 %20online
 %20zappo
-%7C
+%7c
 %d8%
 %u2019
 +jersey
 <a>
 10000mail
+1000mail
 2itb.co
 2u.org
 3j3j3
@@ -480,6 +482,7 @@ articlesub
 artikel
 artykul
 asdfasdf
+asicsshoe
 asp?folder=
 ativan
 atomoxetine
@@ -1085,6 +1088,8 @@ for-your-needs
 forboots
 forex
 forjp.co
+forsale-japan
+forsalejapan
 forsales
 forum_posts.asp
 forum.php?
@@ -1181,6 +1186,8 @@ gold-essay
 gold-ingot
 gold-jewelry
 gold.ru
+goldbarren-
+goldbarren.
 goldcoin
 goldendoll
 goldessay
@@ -1438,6 +1445,7 @@ john-varvatos
 jordan-sale
 jordansale
 jpmarcjacob
+jpsasics
 jsadidas
 kaffee-maschine
 kaffeemaschine
@@ -1517,6 +1525,7 @@ linking-serv
 linkingcampaign
 linkiseo
 linklegend
+linkman
 linktrack
 linkusup
 linkvault
@@ -1620,6 +1629,8 @@ matural
 maxalt
 may_help_you
 may-help-you
+mbt-japan
+mbtjapan
 meandyou
 meclizine
 med-shop
@@ -1844,6 +1855,7 @@ outlet_store
 outlet-austr
 outlet-canad
 outlet-hermes
+outlet-japan
 outlet-online
 outlet-sale
 outlet-shop
@@ -1863,6 +1875,7 @@ outletaustr
 outletcanad
 outletforsale
 outlethermes
+outletjapan
 outletonline
 outlets-online
 outlets-sale
@@ -2227,10 +2240,15 @@ sexweb
 sexy.co
 sgames.co
 shed-fat
+shoe-japan
+shoejapan
+shoejp.co
 shoes-cheap
+shoes-japan
 shoes-on-sale
 shoes-outlet
 shoesale
+shoesjapan
 shoeskan
 shoesonsale
 shoesoutlet
@@ -2253,6 +2271,8 @@ shoppingugg
 show_info
 show_member_post
 showthread.php
+silberbarren-
+silberbarren.
 sildenafil
 silver-and-gold
 silver-ingot
@@ -2784,7 +2804,7 @@ zyrtec
 zyvox
 алкогольные
 альтернатива
-Андроид
+андроид
 банков
 без
 бесплатно
