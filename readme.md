@@ -1,6 +1,6 @@
 # Comment Blacklist Keywords for Wordpress
 
-Sometimes a simple solution is often a better solution.
+Sometimes a simple solution is a better solution.
 
 Over the past couple of years, I have identified nearly 3,000 phrases, patterns, and keywords commonly used by spammers and comment bots in usernames, email addresses, link text, and URIs. This blacklist is still a work in progress and there is certainly room for optimization. Suggestions are always appreciated.
 
@@ -10,6 +10,4 @@ However, [Jason Cosper](https://github.com/boogah) reports that he used the blac
 
 Booyah.
 
-Still need convincing? The blacklist was written up by [John Saddington](http://john.do/) over at [WP Daily](http://john.do/).
-
-[Die Spam! Blacklist That Shiz with This Gist!](http://wpdaily.co/comment-blacklist-gist/)
+Still need convincing? The blacklist was recently written up by [John Saddington](http://john.do/) over at [WP Daily](http://john.do/) in the enticing post, [Die Spam! Blacklist That Shiz with This Gist!](http://wpdaily.co/comment-blacklist-gist/)
