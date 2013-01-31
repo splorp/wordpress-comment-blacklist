@@ -206,6 +206,7 @@ _the_best_
 .remote-desktop
 .remotedesktop
 .ru/content
+.ru/forum
 .ru/member
 .ru/profile
 .ru/user
@@ -604,6 +605,8 @@ bootssale
 bootsugg
 boottenngoku
 bootugg
+bracelet-sale
+braceletsale
 brand-corner
 brand-jp
 brandjp
@@ -725,6 +728,7 @@ cheap-jacket
 cheap-jersey
 cheap-pandora
 cheap-prada
+cheap-sale
 cheap-sex
 cheap-tms
 cheap-ugg
@@ -741,6 +745,7 @@ cheapoakley
 cheappandora
 cheapprada
 cheaprayban
+cheapsale
 cheapsex
 cheaptms
 cheapugg
@@ -946,6 +951,7 @@ dobrucki.co
 dobrucki.pl
 docteurdrebeat
 dokumentów
+dos-seios
 doudoune
 downjacket
 download.pl
@@ -1045,6 +1051,7 @@ fdggdf
 femmes-canada-goose
 femmescanadagoose
 fenoma
+ferra-gamo
 ferragamoshop
 fghgf
 fibromyalgia
@@ -1094,6 +1101,7 @@ forsales
 forum_posts.asp
 forum.php?
 forum/1/topic
+forum/ftopic
 forum/post
 forums?func=
 forums/1/topic
@@ -1897,9 +1905,11 @@ p90x
 page.tl
 pain-relief.
 painrelief.
+pandora-bracelet
 pandora-charm
 pandora-jewelry
 pandoraau
+pandorabracelet
 pandoracharm
 pandorajewelry
 pandorauk
@@ -2045,6 +2055,7 @@ prozac-
 prywatne
 przepisane
 przeprowadzki
+publica-foto
 publikacja
 pufy.
 pure-jobs
@@ -2183,6 +2194,7 @@ saleshop
 salesshop
 salestraining
 saletraining
+saleu.co
 salvia.
 samedayloans
 sandaljp
@@ -2418,6 +2430,8 @@ toeshoes.co
 tofranil
 tojp.co
 tokyo-lv
+toms-cheap
+tomscheap
 tomsshoes
 top-forum
 top-muscle
@@ -2835,6 +2849,7 @@ zyvox
 привлекательный
 приобрести
 продаже
+прошивка
 путешествую
 рекламное
 сайтов
@@ -2842,6 +2857,7 @@ zyvox
 селитра
 скачать
 спама
+статей
 удивительные
 услуги
 фото
