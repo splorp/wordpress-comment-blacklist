@@ -1562,6 +1562,7 @@ londongenuine
 longchamp-shop
 longchampbag
 longchamplondon
+longchampp
 longchampsac
 longchampshop
 longchampuk
@@ -1810,8 +1811,10 @@ officialsale
 officialsteeler
 officialstyle
 officialugg
+ok-cheap
 ok-sex
 okcanadagoose
+okcheap
 okpay
 oksex
 oksunglass
@@ -1864,6 +1867,7 @@ outlet-austr
 outlet-canad
 outlet-hermes
 outlet-japan
+outlet-mart
 outlet-online
 outlet-sale
 outlet-shop
@@ -1884,6 +1888,7 @@ outletcanad
 outletforsale
 outlethermes
 outletjapan
+outletmart
 outletonline
 outlets-online
 outlets-sale
@@ -2301,6 +2306,7 @@ sitecode
 skelaxin
 sklep
 sklepy
+slongchamp
 smallbusinessplan
 smart-drug
 smartdrug
@@ -2355,7 +2361,9 @@ sumatriptan
 sunglassau
 sunglasses.us
 sunglassesau
+sunglassesok
 sunglassesuk
+sunglassok
 sunglassuk
 super gry
 suprax
