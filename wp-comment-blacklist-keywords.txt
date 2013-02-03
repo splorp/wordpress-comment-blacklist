@@ -162,6 +162,7 @@ _the_best_
 ?kat=
 ?p=blogs
 ?sexy-
+?storefront=
 ?title=user
 ?view=detail
 .biz
@@ -205,6 +206,7 @@ _the_best_
 .rekla
 .remote-desktop
 .remotedesktop
+.royal-
 .ru/content
 .ru/forum
 .ru/member
@@ -238,6 +240,7 @@ _the_best_
 //groups
 //gucci
 //onsale
+//royal-
 //shop
 //webstore
 /acai
@@ -521,6 +524,7 @@ bagstore
 bagsuk
 bankowoz
 bankrobber
+bazargorj
 beamten
 beatbydre
 beats-dr-dre
@@ -610,6 +614,7 @@ braceletsale
 brand-corner
 brand-jp
 brandjp
+brinkjewel
 brrip
 bruiseviolet
 bukmacher
@@ -888,6 +893,7 @@ debt-relief
 debt-solution
 debthelp
 debtrelief
+dedrease
 definitelly
 delete_post
 depression-symptom
@@ -1031,6 +1037,7 @@ fajna-fotka
 fajnafotka
 fajne
 fake-rayban
+fakeok
 fakerayban
 falsedoc
 falsepassport
@@ -1169,6 +1176,7 @@ get-money-for
 get-rid-of
 get-the-answer
 getaloan
+getastyle
 gethermes
 getmassive
 getridof
@@ -1395,6 +1403,7 @@ insurance-company
 insurance-quotes
 insurance.htm
 insurances
+interferende
 internet-marketing
 internet.in
 internetowej
@@ -2030,6 +2039,7 @@ private-label
 privatelabel
 proactol
 procedures-for
+product
 product-sale
 product/product
 produkcja
@@ -2327,6 +2337,7 @@ space.php?uid
 special-offer
 specialty-transfer
 specialtytransfer
+spedified
 speed-loan
 speedloan
 speedy-product
@@ -2699,6 +2710,7 @@ www.everylight
 www.everypanty
 www.everysock
 www.everytight
+www.fake
 www.filmy.
 www.financ
 www.forum
