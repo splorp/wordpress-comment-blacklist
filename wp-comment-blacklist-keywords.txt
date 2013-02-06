@@ -17,6 +17,7 @@ _the_best_
 -authentic-
 -b2b
 -beneficial-
+-bioactives-
 -blog.
 -blogs.
 -bluray-
@@ -165,11 +166,13 @@ _the_best_
 ?storefront=
 ?title=user
 ?view=detail
+.bioactives-
 .biz
 .blogspace.
 .bluray.
 .cfmx
 .com/member/
+.com/official
 .com/site-
 .com/user
 .coupon
@@ -314,6 +317,8 @@ _the_best_
 /medical
 /medication-
 /mortgage
+/netcat_files/
+/netcat/
 /nihon
 /ninnki
 /node/
@@ -355,6 +360,7 @@ _the_best_
 /the-sale
 /the-shock
 /thebest
+/tmp/
 /trac/ticket/
 /ugg-
 /uggs-
@@ -789,6 +795,7 @@ cigs-promo
 cigsonline
 cigspromo
 ciproanti
+clarisonic
 classic-ugg
 classicugg
 clavulanate
@@ -1182,6 +1189,8 @@ getmassive
 getridof
 getyou.asp
 ghduk
+giants-shop
+giantsshop
 gigantix.co
 glamorousbag
 glasses-tokyo
@@ -1446,8 +1455,10 @@ japanonline
 jcshoe
 jeacoma.co
 jersetblack
+jersey-pro
 jersey+
 jerseyonline
+jerseypro
 jerseyred
 jerseys-4-you
 jerseys-for-you
@@ -1475,6 +1486,9 @@ kino-online
 kinoonline
 kitai
 klonopin
+klub.ru
+knigki
+knigko
 knockoff-handbag
 knockoffhandbag
 komputer
@@ -2104,6 +2118,7 @@ realestate.web
 realestate.wordpress
 reasons-why
 records.net
+recoverynow
 redbottomshoe
 redirect_to
 redirect.asp
@@ -2583,6 +2598,7 @@ valium
 valtrex
 vendita
 venlafaxine
+versicherungsmakler
 viagera
 viagra
 vicodin
@@ -2816,6 +2832,8 @@ youtubeview
 youugg
 z.in
 zabaw
+zahnversicherung
+zahnzusatzversicherung
 zaindeksowany
 zakazane
 zaklady
