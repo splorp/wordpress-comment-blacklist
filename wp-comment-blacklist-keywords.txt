@@ -214,6 +214,7 @@ _the_best_
 .ru/forum
 .ru/member
 .ru/profile
+.ru/service
 .ru/user
 .sirenos.in
 .supreme-
@@ -983,6 +984,8 @@ early-signs-of
 ease.in
 easy.in
 easyloan
+ebookreadertest
+ebooktest
 ed-in-men
 eemail
 effexor
@@ -993,6 +996,7 @@ elite-men
 eloans
 elwayjersey
 email.htm
+email.tst
 emailsvip
 emailvip
 emarketing
@@ -2227,6 +2231,7 @@ saletraining
 saleu.co
 salvia.
 samedayloans
+sample@
 sandaljp
 sandalsjp
 scam.html
@@ -2416,6 +2421,7 @@ teensex
 telepon-
 tenormin
 test.in
+test@
 test1.
 testosterone-booster
 testuser
@@ -2599,6 +2605,7 @@ valtrex
 vendita
 venlafaxine
 versicherungsmakler
+veterinarnaya
 viagera
 viagra
 vicodin
