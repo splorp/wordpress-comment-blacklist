@@ -210,6 +210,7 @@ _the_best_
 .remote-desktop
 .remotedesktop
 .royal-
+.ru/#
 .ru/content
 .ru/forum
 .ru/member
@@ -252,6 +253,7 @@ _the_best_
 /affordable-
 /alimenty/
 /authentic
+/bag.sh/
 /banners-
 /better-
 /blog/owner/
@@ -368,6 +370,7 @@ _the_best_
 /unlock-iphone
 /unlockiphone
 /unlockphone
+/user_detail
 /user-
 /user/profile/
 /vb/
@@ -382,24 +385,20 @@ _the_best_
 /zumba-
 #file_links
 #random
+%7c
 %20-%20
 %20code
 %20coupon
 %20online
 %20zappo
-%7c
 %d8%
 %u2019
 +jersey
 <a>
-10000mail
-1000mail
 2itb.co
 2u.org
 3j3j3
 3ww3.co
-49ers-online
-49ersonline
 4all
 4cheap
 4less.co
@@ -408,7 +407,11 @@ _the_best_
 7purse
 8handbag
 8purse
+49ers-online
+49ersonline
 911.co
+1000mail
+10000mail
 a-powerful-way
 abilify
 acai-
@@ -878,6 +881,7 @@ customrim
 customwheel
 cygara
 cymbalta
+dabloggs
 dailystrength
 damskie
 dapoxetin
@@ -887,6 +891,7 @@ darmoweprogramy
 darmowy
 darvocet
 data-tools
+datarecoveryhospital
 daytrade
 daytrading
 dealsuk
@@ -973,6 +978,7 @@ doxycycline
 drdreheadphone
 dre-beats
 dresshop
+drivewayservice
 drugcheap
 drugscheap
 dubai-princess.
@@ -1090,6 +1096,7 @@ findarticle
 findmewoman
 fioricet
 firefoxik.ru
+firm.ru
 firma.php
 fivestardoll
 fix-credit
@@ -1161,6 +1168,7 @@ freevideo
 freewebsite
 frlongchamp
 func=view
+funwithwindows
 furiousguy
 furnituresale
 furosemide
@@ -1361,6 +1369,7 @@ how-to-teach
 how-to-win
 howtobuy
 howtocure
+howtoreg
 howtospeed
 howtounlock
 howtowin
@@ -1635,6 +1644,7 @@ lvuk
 mac-cosmetic
 madeye30
 mail.ru
+make-millions
 make-money
 makebaby
 makemoney
@@ -1907,9 +1917,9 @@ outlet.org
 outlet.uk
 outlet.us
 outlet.weebly
+outlet4u
 outlet2012
 outlet2013
-outlet4u
 outletaustr
 outletcanad
 outletforsale
@@ -2130,6 +2140,7 @@ redsoleshoe
 reeview
 ref_title=
 ref_url=
+registrator
 registry-clean
 registry-fix
 registry-repair
@@ -2350,6 +2361,7 @@ software-secret
 software.in
 softwaresecret
 sohbet
+solutionsinc
 soma.htm
 soup.io/post
 sozedde.co
@@ -2705,6 +2717,7 @@ wifijammer
 wikka.php
 win7professional
 windows7key
+windowsphone.co
 women-date
 womendate
 wordpressthemes
@@ -2870,6 +2883,7 @@ zyvox
 дешево
 доходы
 драйвера
+зарегистрировать
 знакомства
 инете
 качественный
@@ -2896,6 +2910,7 @@ zyvox
 продаже
 прошивка
 путешествую
+регистратор
 рекламное
 сайтов
 секс
@@ -2905,5 +2920,7 @@ zyvox
 статей
 удивительные
 услуги
+фирму
 фото
 элитныеноутбуки
+юридической
