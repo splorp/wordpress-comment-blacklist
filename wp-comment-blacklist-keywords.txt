@@ -190,6 +190,7 @@ _the_best_
 .info/product
 .info/user
 .longchamp-
+.magix.net
 .mobi/?
 .moncler-
 .net/user
@@ -322,6 +323,7 @@ _the_best_
 /mortgage
 /netcat_files/
 /netcat/
+/news/articles/
 /nihon
 /ninnki
 /node/
@@ -506,6 +508,7 @@ authenticugg
 autoclinics.co.uk
 automatic-pay
 automaticpay
+avatar-live
 avvessories
 babycanread
 backlink
@@ -605,6 +608,7 @@ bluetooth-jammer
 bluetoothjammer
 bonus-code
 bonuscode
+book-ot-
 boot-get
 boot-queen
 bootcojp
@@ -710,6 +714,7 @@ cashadvance
 cashforgold
 cashforsilver
 cashloan
+cashout
 casino-game
 casino.co
 casinogame
@@ -923,6 +928,7 @@ designershoe
 desktop-client.
 desktopclient.
 detail/www
+detektiv
 devil1.htm
 devil2.htm
 dewelop
@@ -953,6 +959,7 @@ discount-cigar
 discount-ugg
 discount-wheel
 discount.co.uk
+discount.org
 discountcigar
 discounted-
 discounted-wheel
@@ -970,6 +977,9 @@ dobrucki.co
 dobrucki.pl
 docteurdrebeat
 dokumentów
+dollar_service
+dollar-service
+dollarservice
 dos-seios
 doudoune
 downjacket
@@ -1701,6 +1711,8 @@ mieszkania
 mieszkanie
 millen-outlet
 minecraftfree
+miracle-discount
+miraclediscount
 mirapex
 mkhandbag
 mkoutlet
@@ -2621,10 +2633,12 @@ veterinarnaya
 viagera
 viagra
 vicodin
+video-magnif
 video-pokie
 video.htm
 videochat
 videogamedesign
+videomagnif
 videopokie
 videos.htm
 vidios
