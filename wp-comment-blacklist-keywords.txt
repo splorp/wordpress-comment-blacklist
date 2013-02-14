@@ -248,6 +248,7 @@ _the_best_
 //onsale
 //royal-
 //shop
+//website
 //webstore
 /acai
 /addfeed/
@@ -387,20 +388,27 @@ _the_best_
 /zumba-
 #file_links
 #random
-%7c
 %20-%20
 %20code
 %20coupon
 %20online
 %20zappo
+%7c
 %d8%
 %u2019
 +jersey
 <a>
+10000mail
+1000mail
+1test.
 2itb.co
+2test.
 2u.org
 3j3j3
+3test.
 3ww3.co
+49ers-online
+49ersonline
 4all
 4cheap
 4less.co
@@ -409,11 +417,7 @@ _the_best_
 7purse
 8handbag
 8purse
-49ers-online
-49ersonline
 911.co
-1000mail
-10000mail
 a-powerful-way
 abilify
 acai-
@@ -741,11 +745,13 @@ chaussure-louboutin
 chaussures-louboutin
 cheap-adobe
 cheap-chanel
+cheap-converse
 cheap-gucci
 cheap-hat
 cheap-hermes
 cheap-jacket
 cheap-jersey
+cheap-oakley
 cheap-pandora
 cheap-prada
 cheap-sale
@@ -756,6 +762,7 @@ cheapadobe
 cheapbeatsbydre
 cheapchanel
 cheapcoach
+cheapconverse
 cheapgucci
 cheaphat
 cheaphermes
@@ -777,6 +784,7 @@ chettelongchamp
 chinska
 chlamydia
 chloejp
+chloemoment
 choo-boots
 chooboots
 chrismas.asp
@@ -1063,7 +1071,11 @@ fajki
 fajna-fotka
 fajnafotka
 fajne
+fake-converse
+fake-oakley
 fake-rayban
+fakeconverse
+fakeoakley
 fakeok
 fakerayban
 falsedoc
@@ -1360,6 +1372,7 @@ hot-girl
 hot-love
 hot-sale
 hotel-deal
+hoteli
 hotgirl
 hotlove
 hotsale
@@ -1653,6 +1666,7 @@ lvoutlet
 lvuk
 mac-cosmetic
 madeye30
+magicmoncler
 mail.ru
 make-millions
 make-money
@@ -1704,6 +1718,7 @@ meridia
 metacam
 methadone
 methionine
+metlifecare
 metronidazole
 michael-kors
 michaelkors
@@ -1829,6 +1844,7 @@ northfacejack
 northfaceout
 northfacesale
 northfacetr
+northfaceya
 norvasc
 not-dienst
 notdienst
@@ -1929,9 +1945,9 @@ outlet.org
 outlet.uk
 outlet.us
 outlet.weebly
-outlet4u
 outlet2012
 outlet2013
+outlet4u
 outletaustr
 outletcanad
 outletforsale
@@ -2608,6 +2624,7 @@ ukugg
 ukvip
 ulkotours
 ultram
+unitedidesign
 unknown.ru
 unlock-iphone3
 unlock-iphone4
@@ -2903,6 +2920,7 @@ zyvox
 качественный
 квартиры
 китай
+клубах
 компьютера
 компьютерная
 консультация
@@ -2912,6 +2930,7 @@ zyvox
 маркет
 мебель
 миллион
+обучение
 онлайн
 официальных
 персональный
@@ -2938,3 +2957,5 @@ zyvox
 фото
 элитныеноутбуки
 юридической
+アウトレット
+クロエ
