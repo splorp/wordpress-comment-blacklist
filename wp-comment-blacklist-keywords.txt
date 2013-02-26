@@ -23,6 +23,7 @@ _the_best_
 -bluray-
 -breathalyzer-
 -broker.
+-casas-en-
 -casino-
 -cell-phone-
 -cheap-
@@ -65,6 +66,7 @@ _the_best_
 -handbags-
 -herbal-
 -income-
+-infotainment
 -iphone-5-
 -jersey-
 -jersey.co
@@ -95,6 +97,7 @@ _the_best_
 -pokies-
 -pozew-
 -prada-
+-premium-
 -promotions-
 -promotions.
 -real-estate-
@@ -212,6 +215,9 @@ _the_best_
 .remotedesktop
 .royal-
 .ru/#
+.ru/1.
+.ru/2.
+.ru/3.
 .ru/content
 .ru/forum
 .ru/member
@@ -234,10 +240,13 @@ _the_best_
 @live.fr
 @mail-
 @toke.
+/?cat
+/?document_
 /?new-
 /?uid-
 //article
 //best
+//cheap
 //community
 //compare
 //escort
@@ -248,12 +257,15 @@ _the_best_
 //onsale
 //royal-
 //shop
+//sneaker
 //website
 //webstore
+/5.htm
 /acai
 /addfeed/
 /affordable-
 /alimenty/
+/allimage/
 /authentic
 /bag.sh/
 /banners-
@@ -263,6 +275,7 @@ _the_best_
 /blog/posts/
 /blog/view/
 /blogid=
+/blogs/entry/
 /blogs/post/
 /blogs/posts/
 /burberry-
@@ -301,6 +314,7 @@ _the_best_
 /hentai
 /hire-
 /hotdeals/
+/ii/
 /image/cache/
 /index.php/
 /join.php
@@ -373,6 +387,7 @@ _the_best_
 /unlock-iphone
 /unlockiphone
 /unlockphone
+/url/
 /user_detail
 /user-
 /user/profile/
@@ -386,20 +401,19 @@ _the_best_
 /yabb
 /yabb.pl
 /zumba-
+&article=
 #file_links
 #random
+%7c
 %20-%20
 %20code
 %20coupon
 %20online
 %20zappo
-%7c
 %d8%
 %u2019
 +jersey
 <a>
-10000mail
-1000mail
 1test.
 2itb.co
 2test.
@@ -407,18 +421,23 @@ _the_best_
 3j3j3
 3test.
 3ww3.co
-49ers-online
-49ersonline
 4all
 4cheap
+4ever.de
 4less.co
 4sale
+5health.co
 7handbag
 7purse
 8handbag
 8purse
+49ers-online
+49ersonline
 911.co
+1000mail
+10000mail
 a-powerful-way
+a1.co
 abilify
 acai-
 acaiberry
@@ -438,6 +457,8 @@ adderoll
 adenosyl
 adidas-corner
 adipex
+adsjeremy
+adswings
 adult-sex
 adult-story
 adultdating
@@ -446,6 +467,7 @@ advantages_of
 advantages-of
 advert-market
 advertising-research
+adwings
 adwokacka
 adwokat
 adwords
@@ -472,6 +494,7 @@ amoxicil
 amoxil
 amzon.co
 anabolic
+androidclan
 anonymous-download
 anti-aging
 antiage
@@ -499,11 +522,13 @@ articles.in
 articles.net
 articles.org
 articlesub
+articulatio
 artikel
 artykul
 asdfasdf
 asicsshoe
 asp?folder=
+asp?id
 ativan
 atomoxetine
 atorvastatin
@@ -556,6 +581,7 @@ beautiful-women
 beautifulwomen
 beenpaid
 before-purchasing
+behaviour-driven
 belly-fat
 benzoclin
 berracom.ph
@@ -588,11 +614,13 @@ birkenstocksandal
 bitartrate
 biuro-solido
 biz.pl
+biz.ru
 biznes
 biznes-
 bizstore
 biztalk
 biżuteria
+blackhat
 blackjack
 blacklabeljap
 blacklabeljp
@@ -606,6 +634,7 @@ blog.php?user
 blogentry_id
 blogentry.php
 blogs-tricks
+blogs.blog
 blogs.php?action
 blowjob
 bluetooth-jammer
@@ -632,9 +661,11 @@ braceletsale
 brand-corner
 brand-jp
 brandjp
+bridalshop
 brinkjewel
 brrip
 bruiseviolet
+btshoe
 bukmacher
 bullion-account
 burberry-outlet
@@ -649,6 +680,7 @@ burch-outlet
 burch-sale
 burchoutlet
 burchsale
+business-info
 business-intelligence
 business-loan
 business-market
@@ -731,6 +763,9 @@ celebritiesnude
 celebrity-nude
 celebritynude
 celexa
+celinebag
+celinehandbag
+celineluggage
 cellskin
 celular
 cgsaleca
@@ -761,6 +796,7 @@ cheap-ugg
 cheapadobe
 cheapbeatsbydre
 cheapchanel
+cheapchina
 cheapcoach
 cheapconverse
 cheapgucci
@@ -768,6 +804,7 @@ cheaphat
 cheaphermes
 cheapjacket
 cheapjersey
+cheapjordans
 cheapoakley
 cheappandora
 cheapprada
@@ -781,6 +818,7 @@ cheats-
 cheats.co
 cheesefruit
 chettelongchamp
+chinajordans
 chinska
 chlamydia
 chloejp
@@ -855,10 +893,13 @@ community.atom
 computer-gaming
 computer-performance
 comunity
+conversejapan
+conversejp
 copy-wizard
 copywizard
 cordarone
 cosmetics-outlet
+cosmeticswholesale
 cost-effective
 coumadin
 coupon_page
@@ -877,6 +918,7 @@ create-product
 credit-card
 credit-report
 credit-score
+credit.eu
 creditcard.org
 creditreport
 cristmas-
@@ -905,6 +947,7 @@ darmowy
 darvocet
 data-tools
 datarecoveryhospital
+datingdirect
 daytrade
 daytrading
 dealsuk
@@ -922,6 +965,7 @@ debtrelief
 dedrease
 definitelly
 delete_post
+depositbank
 depression-symptom
 depressionsymptom
 desconto
@@ -966,6 +1010,7 @@ discount-
 discount-cigar
 discount-ugg
 discount-wheel
+discount.co
 discount.co.uk
 discount.org
 discountcigar
@@ -984,6 +1029,7 @@ do=blog
 dobrucki.co
 dobrucki.pl
 docteurdrebeat
+dokumentov
 dokumentów
 dollar_service
 dollar-service
@@ -1001,6 +1047,7 @@ drugcheap
 drugscheap
 dubai-princess.
 dubturbo-
+dummytest
 dvdrip
 e--store
 e-biz
@@ -1057,6 +1104,7 @@ euro-million
 event.php?event_id
 events.php?action
 every1bet
+exclusive.ru
 exelon
 exit.asp
 extra gry
@@ -1152,6 +1200,7 @@ forum/ftopic
 forum/post
 forums?func=
 forums/1/topic
+foryou.co
 fradidas
 fraudcenter
 free-bbs
@@ -1190,6 +1239,8 @@ freevideo
 freewebsite
 frlongchamp
 func=view
+funds.ru
+funsneaker
 funwithwindows
 furiousguy
 furnituresale
@@ -1208,6 +1259,7 @@ generatemoney
 generatingcash
 genuine-pandora
 genuinepandora
+germanylove
 get_rid_of
 get-boot
 get-facebook
@@ -1221,6 +1273,7 @@ getastyle
 gethermes
 getmassive
 getridof
+gettranslate
 getyou.asp
 ghduk
 giants-shop
@@ -1253,6 +1306,7 @@ goldessay
 goldgeek
 goldingot
 goldjewelry
+golfplaza
 golfs
 gomaile.co
 good-for-
@@ -1385,6 +1439,7 @@ how-to-lose
 how-to-make
 how-to-quick
 how-to-reduce
+how-to-restore
 how-to-sell
 how-to-speed
 how-to-take
@@ -1392,10 +1447,12 @@ how-to-teach
 how-to-win
 howtobuy
 howtocure
+howtomake
 howtoreg
 howtospeed
 howtounlock
 howtowin
+html?r=
 huperzine
 hyclate
 hydraulik-
@@ -1426,6 +1483,8 @@ index.php?route
 index.php?s
 index.php?t
 indicators.co
+info/tag
+info/view
 infonetcom
 infos-
 infos/
@@ -1437,6 +1496,8 @@ insanejournal
 insdier
 inspired-handbag
 inspiredhandbag
+install-virtual
+installvirtual
 instant-blog
 instant-loan
 instantblog
@@ -1458,6 +1519,7 @@ invest.net
 investing+
 investmoney
 investoff
+investor.ru
 ipad-2-case
 ipad-download
 ipad2me
@@ -1487,9 +1549,11 @@ jacketsale
 jacketsforkids
 jacketsformen
 jacketsforwomen
+japanconverse
 japanonline
 jcshoe
 jeacoma.co
+jeremyads
 jersetblack
 jersey-pro
 jersey+
@@ -1508,6 +1572,7 @@ jogos
 john-varvatos
 jordan-sale
 jordansale
+jpconverse
 jpmarcjacob
 jpsasics
 jsadidas
@@ -1527,6 +1592,7 @@ knigki
 knigko
 knockoff-handbag
 knockoffhandbag
+knolckoff
 komputer
 komputery
 konsultan-seo
@@ -1537,6 +1603,7 @@ kosmetyc
 kosmetyki
 kreddyt
 kreddyyt
+kredit
 kredit.
 kredite
 kredyt
@@ -1643,10 +1710,13 @@ louboutinuk
 louis_vuitton
 louis-vuitton
 louisvuitton
+lovelv
 low-cost-
 lublin.
 lublina.
+luggagetote
 lumigan
+lupusinfo
 lux-replica
 luxreplica
 luxury-brand
@@ -1662,6 +1732,7 @@ lvbag
 lvdiscount
 lvforsale
 lvhandbag
+lviv
 lvoutlet
 lvuk
 mac-cosmetic
@@ -1691,6 +1762,7 @@ marketingtip
 marketingxchange
 mass-facebook
 massarticle
+massive-web
 masszaz
 master.ru
 matchcash
@@ -1726,6 +1798,7 @@ mieszkania
 mieszkanie
 millen-outlet
 minecraftfree
+mintcoin
 miracle-discount
 miraclediscount
 mirapex
@@ -1786,6 +1859,7 @@ muzyczny
 my_profile
 my-new-ipad
 my-virus
+mylupus
 myqrops
 myreview.co
 myvirus
@@ -1830,6 +1904,7 @@ nikepasch
 nikesportjap
 nikesportjp
 niketokyo
+niselv.co
 nizoral
 nm.ru
 no-hassle
@@ -1888,6 +1963,7 @@ online-business
 online-casino
 online-cert
 online-classified
+online-dating
 online-invest
 online-kredit
 online-marketing
@@ -1896,6 +1972,7 @@ online-money
 online-outlet
 online-sale
 online-store
+online.de
 online.in
 onlineblog
 onlinebusiness
@@ -1945,9 +2022,9 @@ outlet.org
 outlet.uk
 outlet.us
 outlet.weebly
+outlet4u
 outlet2012
 outlet2013
-outlet4u
 outletaustr
 outletcanad
 outletforsale
@@ -2010,12 +2087,15 @@ per-week
 percocet
 perday.co
 perfectvpn
+perfectwritings
 permonth.co
 personal-injury
 personalinjury
 personnalis
 personnalisé
 perweek
+pflegeversicherung
+pflegezusatzversicherung
 pharmacies
 pharmacy
 phentermine
@@ -2028,6 +2108,7 @@ phonelookup
 phonescanada
 phonesforsale.co
 php?article
+php?rowstart
 php?showuser=
 php?title=
 phpbb2/profile
@@ -2040,10 +2121,12 @@ play-online
 playerblock
 playfree
 playonline
+plazajp
 plus-size
 plussize
 plytki
 plytki-ceramiczne
+pojapan
 poker-chip
 poker-money
 pokera
@@ -2064,6 +2147,7 @@ porno.co
 porno.net
 pornolady
 pornsex
+postcarf
 pozew.
 poznaj-seo
 poznajseo
@@ -2105,6 +2189,7 @@ profile_blogs
 profile_id=
 profile.cgi
 profile/?u
+profissionais
 profit-margin
 profit-seek
 profits-
@@ -2138,6 +2223,7 @@ quick_search
 quick-loan
 quickloan
 quit-smoking
+radiocarpea
 raloxifene
 ralph_lauren
 ralph-lauren
@@ -2168,6 +2254,7 @@ redsoleshoe
 reeview
 ref_title=
 ref_url=
+regarfing
 registrator
 registry-clean
 registry-fix
@@ -2285,6 +2372,7 @@ search-engine-opt
 search.php?search
 searchengine-opt
 searchengine.
+seawaypab
 secret.co
 security-for
 seks.ru
@@ -2352,10 +2440,12 @@ shopnow
 shoponline
 shopping-ugg
 shopping+
+shopping24
 shoppingcenter.co
 shoppingugg
 show_info
 show_member_post
+shownews.
 showthread.php
 silberbarren-
 silberbarren.
@@ -2380,6 +2470,7 @@ smallbusinessplan
 smart-drug
 smartdrug
 smokingnews
+sneakers24
 social-bookmark
 socialbookmark
 socialnetworkbuzz
@@ -2389,6 +2480,7 @@ software-secret
 software.in
 softwaresecret
 sohbet
+solução
 solutionsinc
 soma.htm
 soup.io/post
@@ -2414,6 +2506,7 @@ steelersfan
 stodiobeat
 stodiosbeat
 stop-smoking
+storejp
 story.php?id
 strategies-for
 strategy-for
@@ -2437,8 +2530,10 @@ sunglassesuk
 sunglassok
 sunglassuk
 super gry
+superheroz
 suprax
 supremeessay
+surprisezone
 syaneru.
 symptom-med
 symptommed
@@ -2455,17 +2550,22 @@ targeted-traffic
 targetedtraffic
 tastegood.co
 tax-debt
+taxbook
 teamproshop.co
 teen-sex
 teensex
 telepon-
+templerun-
+templerun1
 tenormin
 test.in
 test@
 test1.
 testosterone-booster
+testrun
 testuser
 thailove
+thatprofit
 the_benefits_of
 the-benefits-of
 the-best-treatment
@@ -2481,6 +2581,7 @@ themegenerat
 things-consumers
 this-review
 thread.php?threadid
+thumb.jpeg
 tiffany-outlet
 tiffanyoutlet
 timberlandboot
@@ -2558,6 +2659,7 @@ turystyka
 tutorial.html
 tvturn
 tworzenie
+uauaua
 ubezpieczenia
 ugboos.co
 ugbos.co
@@ -2706,6 +2808,7 @@ wdmypass
 web-hosting
 web-promotion
 web-solution
+web-traffic
 web-view
 webcambabe
 webcamsex
@@ -2736,6 +2839,7 @@ where-to-buy
 wherecani
 wheretobuy
 whichpage=
+whitehat
 wholesale-cheap
 wholesale-mac
 wholesalecheap
@@ -2746,16 +2850,20 @@ why-would-you
 wifi-jammer
 wifijammer
 wikka.php
+win7.co
 win7professional
+win8.co
 windows7key
 windowsphone.co
 women-date
 womendate
+woodgundy.us
 wordpressthemes
 worldugg
 worldwideugg
 wow-gold
 wpthemegen
+wristpain
 writing-service
 writingservice
 www.airjordan
@@ -2769,6 +2877,7 @@ www.cellphone
 www.chanel-
 www.cheap
 www.coach-
+www.drdrebeat
 www.easy
 www.efinancial
 www.escort
@@ -2811,6 +2920,7 @@ www.longchampsa
 www.louboutins
 www.love
 www.lv
+www.mcm
 www.moncler
 www.mulberry
 www.newbalance
@@ -2859,6 +2969,7 @@ your_loan
 your_profile
 your_site
 your-account
+your-budget
 your-credit
 your-ex
 your-family-member
@@ -2871,6 +2982,7 @@ your-windows-app
 your-your
 youraccount
 yourcredit
+yourdui
 yourex
 yourfree
 yourloan
@@ -2917,7 +3029,9 @@ zyvox
 зарегистрировать
 знакомства
 инете
+интересной
 качественный
+квартир
 квартиры
 китай
 клубах
@@ -2930,6 +3044,7 @@ zyvox
 маркет
 мебель
 миллион
+недорого
 обучение
 онлайн
 официальных
@@ -2950,6 +3065,7 @@ zyvox
 селитра
 скачать
 спама
+справкой
 статей
 удивительные
 услуги
