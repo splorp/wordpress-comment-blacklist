@@ -1,6 +1,3 @@
-lovelyto
-ubirkin
-/hermes-
 _coupon_
 _marketing_
 _profitable_
@@ -33,6 +30,7 @@ _the_best_
 -cheap.org
 -cheapest-
 -cheats
+-cia.co
 -cigar.
 -cigarette-
 -cigarette.
@@ -315,6 +313,7 @@ _the_best_
 /guest-book
 /guestbook
 /hentai
+/hermes-
 /hire-
 /hotdeals/
 /ii/
@@ -407,16 +406,18 @@ _the_best_
 &article=
 #file_links
 #random
-%7c
 %20-%20
 %20code
 %20coupon
 %20online
 %20zappo
+%7c
 %d8%
 %u2019
 +jersey
 <a>
+10000mail
+1000mail
 1test.
 2itb.co
 2test.
@@ -424,6 +425,8 @@ _the_best_
 3j3j3
 3test.
 3ww3.co
+49ers-online
+49ersonline
 4all
 4cheap
 4ever.de
@@ -434,11 +437,7 @@ _the_best_
 7purse
 8handbag
 8purse
-49ers-online
-49ersonline
 911.co
-1000mail
-10000mail
 a-powerful-way
 a1.co
 abilify
@@ -1714,6 +1713,7 @@ louis_vuitton
 louis-vuitton
 louisvuitton
 lovelv
+lovelyto
 low-cost-
 lublin.
 lublina.
@@ -1805,6 +1805,7 @@ mintcoin
 miracle-discount
 miraclediscount
 mirapex
+mister-design
 mkhandbag
 mkoutlet
 mmcenter.in
@@ -2025,9 +2026,9 @@ outlet.org
 outlet.uk
 outlet.us
 outlet.weebly
-outlet4u
 outlet2012
 outlet2013
+outlet4u
 outletaustr
 outletcanad
 outletforsale
@@ -2310,6 +2311,7 @@ reviews.in
 reviews.net
 reviews.org
 reviewsource
+reviewx
 reviot
 rilopkais.in
 rin.in
@@ -2465,6 +2467,7 @@ site-position
 site.co
 site.in
 sitecode
+sizegenetic
 skelaxin
 sklep
 sklepy
@@ -2664,6 +2667,7 @@ tvturn
 tworzenie
 uauaua
 ubezpieczenia
+ubirkin
 ugboos.co
 ugbos.co
 ugg-best
@@ -3045,6 +3049,7 @@ zyvox
 купить
 магаз
 маркет
+материал
 мебель
 миллион
 недорого
@@ -3063,6 +3068,7 @@ zyvox
 путешествую
 регистратор
 рекламное
+ресурс
 сайтов
 секс
 селитра
