@@ -406,18 +406,16 @@ _the_best_
 &article=
 #file_links
 #random
+%7c
 %20-%20
 %20code
 %20coupon
 %20online
 %20zappo
-%7c
 %d8%
 %u2019
 +jersey
 <a>
-10000mail
-1000mail
 1test.
 2itb.co
 2test.
@@ -425,8 +423,6 @@ _the_best_
 3j3j3
 3test.
 3ww3.co
-49ers-online
-49ersonline
 4all
 4cheap
 4ever.de
@@ -437,7 +433,11 @@ _the_best_
 7purse
 8handbag
 8purse
+49ers-online
+49ersonline
 911.co
+1000mail
+10000mail
 a-powerful-way
 a1.co
 abilify
@@ -490,6 +490,7 @@ amateurs.htm
 amazn.co
 amazon.cm
 ambien
+ametuer
 aminocare
 amitriptyline
 amoxicil
@@ -948,6 +949,7 @@ darmoweprogramy
 darmowy
 darvocet
 data-tools
+datarecovery.co
 datarecoveryhospital
 datingdirect
 daytrade
@@ -1084,6 +1086,7 @@ ephedrine
 equipment-manufacture
 erjersey.co
 erjersey.net
+erolove
 erotik
 erotyczna
 escitalopram
@@ -1455,6 +1458,7 @@ howtospeed
 howtounlock
 howtowin
 html?r=
+hungurian
 huperzine
 hyclate
 hydraulik-
@@ -1578,6 +1582,7 @@ jpconverse
 jpmarcjacob
 jpsasics
 jsadidas
+juicycouture
 kaffee-maschine
 kaffeemaschine
 kamagra
@@ -2026,9 +2031,9 @@ outlet.org
 outlet.uk
 outlet.us
 outlet.weebly
+outlet4u
 outlet2012
 outlet2013
-outlet4u
 outletaustr
 outletcanad
 outletforsale
@@ -2147,8 +2152,8 @@ porn-live
 porn-sex
 porn.
 pornlive
-porno.co
-porno.net
+porno-
+porno.
 pornolady
 pornsex
 postcarf
@@ -2442,6 +2447,7 @@ shopboots
 shopjapan.co
 shopjp
 shopnow
+shopof
 shoponline
 shopping-ugg
 shopping+
@@ -2476,6 +2482,7 @@ smallbusinessplan
 smart-drug
 smartdrug
 smokingnews
+sneakerchef
 sneakers24
 social-bookmark
 socialbookmark
