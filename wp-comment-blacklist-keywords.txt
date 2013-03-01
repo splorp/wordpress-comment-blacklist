@@ -84,6 +84,7 @@ _the_best_
 -marant-
 -men-jersey
 -metods-
+-models.co
 -mortgage-
 -odejda-
 -off-your-
@@ -272,6 +273,7 @@ _the_best_
 /bag.sh/
 /banners-
 /better-
+/blog.htm
 /blog/owner/
 /blog/post/
 /blog/posts/
@@ -407,16 +409,18 @@ _the_best_
 &article=
 #file_links
 #random
-%7c
 %20-%20
 %20code
 %20coupon
 %20online
 %20zappo
+%7c
 %d8%
 %u2019
 +jersey
 <a>
+10000mail
+1000mail
 1test.
 2itb.co
 2test.
@@ -424,6 +428,8 @@ _the_best_
 3j3j3
 3test.
 3ww3.co
+49ers-online
+49ersonline
 4all
 4cheap
 4ever.de
@@ -434,11 +440,7 @@ _the_best_
 7purse
 8handbag
 8purse
-49ers-online
-49ersonline
 911.co
-1000mail
-10000mail
 a-powerful-way
 a1.co
 abilify
@@ -479,6 +481,7 @@ african-canadian-model
 africancanadianmodel
 age.webeden
 agencje-
+airjordansa
 airmaxshoe-
 airmaxshoes-
 airport--
@@ -902,6 +905,8 @@ conversejp
 copy-wizard
 copywizard
 cordarone
+corporate-gift
+corporategift
 cosmetics-outlet
 cosmeticswholesale
 cost-effective
@@ -1259,6 +1264,7 @@ gamedesigndegree
 gamegame
 games-casino
 gangprofil
+gayusa
 generate-money
 generatecash
 generatemoney
@@ -1284,6 +1290,9 @@ getyou.asp
 ghduk
 giants-shop
 giantsshop
+gifts-singapore
+giftsingapore
+giftssingapore
 gigantix.co
 glamorousbag
 glasses-tokyo
@@ -1425,6 +1434,7 @@ homeloan
 homeremedies
 homeremedy
 hoodia
+hoolgain
 horoscopes
 horoskop
 horsesimul
@@ -1844,6 +1854,7 @@ morelvjp
 morpg
 mortgage.htm
 mortgagecalc
+moscow-model
 most-effective
 movie-online
 movie-zone
@@ -1869,6 +1880,7 @@ muzyczny
 my_profile
 my-new-ipad
 my-virus
+mydead-
 mylupus
 myqrops
 myreview.co
@@ -2032,9 +2044,9 @@ outlet.org
 outlet.uk
 outlet.us
 outlet.weebly
-outlet4u
 outlet2012
 outlet2013
+outlet4u
 outletaustr
 outletcanad
 outletforsale
@@ -2086,6 +2098,7 @@ paypalcash
 payroll-calc
 pc-access
 pcaccess
+penisadv
 penisenlarg
 penny-auction
 penny-bid
@@ -2483,6 +2496,7 @@ slongchamp
 smallbusinessplan
 smart-drug
 smartdrug
+smeoone
 smokingnews
 sneakerchef
 sneakers24
