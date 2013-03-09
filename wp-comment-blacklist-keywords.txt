@@ -90,6 +90,7 @@ _the_best_
 -metods-
 -models.co
 -mortgage-
+-nude-
 -odejda-
 -off-your-
 -offshore-
@@ -253,6 +254,7 @@ _the_best_
 /?document_
 /?new-
 /?uid-
+//act-
 //article
 //best
 //cheap
@@ -372,6 +374,7 @@ _the_best_
 /profile/profile/
 /prozac
 /pufy
+/reg_
 /remote-desktop-
 /remotedesktop-
 /rozwod
@@ -383,7 +386,7 @@ _the_best_
 /sigareta-
 /sigarety-
 /sinsaku
-/sitemap.xml
+/sitemap.
 /soma
 /strona-
 /strona/
@@ -544,6 +547,7 @@ articlesub
 articulatio
 artikel
 artykul
+asdf
 asdfasdf
 asicsshoe
 asp?folder=
@@ -915,6 +919,7 @@ community.atom
 computer-gaming
 computer-performance
 comunity
+consalt-
 conversejapan
 conversejp
 copy-wizard
@@ -1966,6 +1971,7 @@ norvasc
 not-dienst
 notdienst
 now.in
+nude-ass
 nude.htm
 oakley-cheap
 oakley-outlet
@@ -3003,6 +3009,7 @@ www.ugg
 www.unlock
 www.videos
 www.win
+www.wtf
 wypoczynku
 wyposazenie
 x.ru
@@ -3080,6 +3087,7 @@ zyvox
 банков
 без
 бесплатно
+веб
 дешево
 доходы
 драйвера
@@ -3110,6 +3118,7 @@ zyvox
 персональный
 подешевле
 пожаловать
+портале
 похудению
 преобрести
 привлекательный
@@ -3130,6 +3139,7 @@ zyvox
 справкой
 статей
 удивительные
+услуг
 услуги
 фирму
 фото
