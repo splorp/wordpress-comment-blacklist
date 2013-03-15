@@ -314,6 +314,7 @@ _the_best_
 /cigars-
 /default/member/
 /drug
+/empower-
 /errorx/
 /features-
 /filmy
@@ -414,6 +415,7 @@ _the_best_
 /user_detail
 /user-
 /user/profile/
+/user/view
 /vb/
 /view_my/
 /web-design/
@@ -465,6 +467,7 @@ abcwatch
 abilify
 acai-
 acaiberry
+accouchement
 account.php?id=
 accutane
 acertemail.co
@@ -689,6 +692,7 @@ braceletsale
 brand-corner
 brand-jp
 brandjp
+brazzer
 bridalshop
 brinkjewel
 britanniahotel
@@ -800,6 +804,7 @@ celinebag
 celinehandbag
 celineluggage
 cellskin
+cellulitefree
 celular
 cgsaleca
 chanel--
@@ -883,6 +888,7 @@ cigs-promo
 cigsonline
 cigspromo
 ciproanti
+cjq
 clarisonic
 classic-ugg
 classicugg
@@ -1025,6 +1031,7 @@ detektiv
 devil1.htm
 devil2.htm
 dewelop
+dgg
 diamox
 diazepam
 diclofenac
@@ -1103,6 +1110,7 @@ early-signs-of
 ease.in
 easy.in
 easyloan
+easyrent
 ebookreadertest
 ebooktest
 ed-in-men
@@ -1153,6 +1161,7 @@ euro-million
 event.php?event_id
 events.php?action
 every1bet
+evryday
 exclusive.ru
 exelon
 exit.asp
@@ -1196,6 +1205,7 @@ femmescanadagoose
 fenoma
 ferra-gamo
 ferragamoshop
+ffv
 fghgf
 fibromyalgia
 filmizle
@@ -1251,6 +1261,7 @@ forum/post
 forums?func=
 forums/1/topic
 foryou.co
+fpq
 fradidas
 fraudcenter
 free-bbs
@@ -1510,6 +1521,7 @@ howtoreg
 howtospeed
 howtounlock
 howtowin
+hppp
 html?r=
 hungurian
 huperzine
@@ -1637,6 +1649,7 @@ jpmarcjacob
 jpsasics
 jsadidas
 juicycouture
+jzv
 kaffee-maschine
 kaffeemaschine
 kamagra
@@ -1671,6 +1684,8 @@ kredit.
 kredite
 kredyt
 kvartiry
+kxk
+kxx
 labetalol
 lacoste-outlet
 lacosteoutlet
@@ -2120,6 +2135,7 @@ outletstore
 outletusa
 outletweb
 outsourcing-compan
+ownersinsur
 oxycodone
 oxycontin
 p90x
@@ -2353,6 +2369,7 @@ reklamowe
 rekreacja
 rent_in
 rent-car
+rentinsur
 replica-brand
 replica-design
 replica-gucci
@@ -2719,6 +2736,7 @@ topsite
 topvideocon
 torrent-movie
 torrentmovie
+torrents
 torsemide
 toryburchflat
 toryburchten
@@ -2872,11 +2890,13 @@ vintage-erotic
 viramune
 virus-remov
 virusremov
+vitalikor
 vitamin-for
 vitaminfor
 vitamins-for
 vitaminsfor
 vivekkunwar
+vkk
 vps
 vuitton-usa
 vuittonsac
@@ -3049,6 +3069,7 @@ xalatan
 xanax
 xelerated
 xenical
+xfx
 xopenex
 xrumer
 xwebsite
@@ -3090,6 +3111,7 @@ youtube-view
 youtubedown
 youtubeview
 youugg
+yxz
 z.in
 zabaw
 zahnversicherung
@@ -3109,11 +3131,14 @@ zoloft
 zolpidem
 zopiclone
 zovirax
+zqf
+ztn
 zumbah
 zyban
 zyprexa
 zyrtec
 zyvox
+абонентская
 агенств
 алкогольные
 альтернатива
@@ -3150,11 +3175,13 @@ zyvox
 онлайн
 официальных
 персональный
+плата
 подешевле
 пожаловать
 портале
 похудению
 преобрести
+прибыль
 привлекательный
 приобрести
 продаже
