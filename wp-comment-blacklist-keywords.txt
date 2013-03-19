@@ -280,6 +280,7 @@ _the_best_
 /5.htm
 /acai
 /addfeed/
+/adorable-
 /ads/
 /affordable-
 /alimenty/
@@ -441,6 +442,7 @@ _the_best_
 <a>
 0000mail
 000mail
+1.info
 1test.
 2itb
 2test.
@@ -478,9 +480,11 @@ action=profile
 action=view
 actonel
 acyclovir
+ad-wiki
 addarticle
 adderall
 adderoll
+addidas
 adenosyl
 adidas-corner
 adipex
@@ -1497,6 +1501,7 @@ hotelmanchester
 hotgirl
 hotlove
 hotsale
+hourpayday
 how_do_you
 how-do-you
 how-to-buy
@@ -1555,6 +1560,7 @@ indicators.co
 info/tag
 info/view
 infonetcom
+informatik
 infos-
 infos/
 ingugg
@@ -1583,6 +1589,7 @@ interferende
 internet-marketing
 internet.in
 internetowej
+interracial
 invest-money
 invest-off
 invest.net
@@ -1642,6 +1649,7 @@ jogos
 john-varvatos
 jordan-sale
 jordansale
+jpcity.co
 jpconverse
 jpmarcjacob
 jpsasics
@@ -1694,6 +1702,7 @@ laser-therapy
 laserowe
 lasertherapy
 lasix
+laurenralph
 learningxchange
 learnpianohere
 legal-steroid
@@ -1703,6 +1712,7 @@ lend-direct
 lenddirect
 lenjerie
 lesben-
+lesbos.
 letrozole
 levaquin
 levitra
@@ -1784,6 +1794,7 @@ lottotip
 louboutin-chau
 louboutin-outlet
 louboutin8
+louboutinfr
 louboutinoutlet
 louboutinsale
 louboutinshoe
@@ -1886,6 +1897,8 @@ miracle-discount
 miraclediscount
 mirapex
 mister-design
+mixed-race
+mixedrace
 mkhandbag
 mkoutlet
 mmcenter.in
@@ -2164,6 +2177,7 @@ pay_day_loan
 payday-loan
 payday.co
 paydayloan
+paydaynote
 paypal-cash
 paypalcash
 payroll-calc
@@ -2192,6 +2206,7 @@ pflegeversicherung
 pflegezusatzversicherung
 pharmacies
 pharmacy
+pharmaun
 phentermine
 phlebotomy
 phone-jammer
@@ -2535,6 +2550,7 @@ shoeuk
 shop-japan.co
 shop-now
 shop-online
+shop-pin
 shopboots
 shopjapan.co
 shopjp
@@ -3113,6 +3129,7 @@ youtubedown
 youtubeview
 youugg
 yxz
+ÿþ
 z.in
 zabaw
 zahnversicherung
