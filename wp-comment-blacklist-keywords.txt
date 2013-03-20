@@ -1,10 +1,3 @@
-misterboy
-/bazar.
-getjoy
-paris-royal
-royal-club
-widyaw
-tutoringand
 _coupon_
 _marketing_
 _profitable_
@@ -297,6 +290,7 @@ _the_best_
 /baby.
 /bag.sh/
 /banners-
+/bazar.
 /better-
 /blog.htm
 /blog/owner/
@@ -1342,6 +1336,7 @@ get-the-answer
 getaloan
 getastyle
 gethermes
+getjoy
 getmassive
 getridof
 gettranslate
@@ -1874,9 +1869,11 @@ may_help_you
 may-help-you
 mbt-japan
 mbtjapan
+mcm.co
 meandyou
 meclizine
 med-shop
+medbaz
 medeniz
 medicarefraud
 medikal.co
@@ -1904,6 +1901,7 @@ miracle-discount
 miraclediscount
 mirapex
 mister-design
+misterboy
 mixed-race
 mixedrace
 mkhandbag
@@ -2014,6 +2012,7 @@ niketokyo
 niselv.co
 nizoral
 nm.ru
+nngh
 no-hassle
 no-prescription
 no1.co
@@ -2031,6 +2030,7 @@ northfaceya
 norvasc
 not-dienst
 notdienst
+notraty
 now.in
 nude-ass
 nude.htm
@@ -2170,6 +2170,7 @@ pandorabracelet
 pandoracharm
 pandorajewelry
 pandorauk
+paris-royal
 parkiety
 party-poker
 partypoker
@@ -2444,6 +2445,7 @@ rosettastoneeasy
 rosuvastatin
 rotating-hot-iron
 rotatinghotiron
+royal-club
 róże
 rozszerzona
 rpg-online
@@ -2788,6 +2790,7 @@ turbosprezarek
 turbosprezarki
 turystyka
 tutorial.html
+tutoringand
 tvturn
 tworzenie
 uauaua
@@ -2984,6 +2987,7 @@ wholesalemac
 wholesaler-mac
 wholesalermac
 why-would-you
+widyaw
 wifi-jammer
 wifijammer
 wikka.php
@@ -3170,7 +3174,7 @@ zyvox
 андроид
 банков
 без
-бесплатно
+бесплатн
 веб
 дешево
 доходы
@@ -3181,11 +3185,9 @@ zyvox
 интересной
 качественный
 квартир
-квартиры
 китай
 клубах
-компьютера
-компьютерная
+компьютер
 консультация
 кредит
 купить
@@ -3197,6 +3199,7 @@ zyvox
 миллион
 недорого
 обучение
+объявлени
 онлайн
 официальных
 персональный
