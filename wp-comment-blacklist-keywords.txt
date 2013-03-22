@@ -17,6 +17,7 @@ _the_best_
 -auction-
 -authentic-
 -b2b
+-backpain.
 -beneficial-
 -bioactives-
 -blog.
@@ -113,6 +114,7 @@ _the_best_
 -realestate-
 -remote-access-
 -remote-desktop-
+-repair.co
 -review.co
 -review/
 -rims-
@@ -184,6 +186,7 @@ _the_best_
 .biz
 .blogspace.
 .bluray.
+.causes-
 .cfmx
 .com/member/
 .com/official
@@ -198,6 +201,7 @@ _the_best_
 .frebvic.in
 .freeforums.org
 .games.pl
+.hard-
 .htm?
 .html/
 .info.pl
@@ -208,6 +212,7 @@ _the_best_
 .mobi/?
 .moncler-
 .net/user
+.nikeshox
 .online.pl
 .online.ws
 .org/user
@@ -365,6 +370,7 @@ _the_best_
 /netcat/
 /news/articles/
 /nihon
+/nike-
 /ninnki
 /node/
 /note.php?
@@ -444,10 +450,19 @@ _the_best_
 0000mail
 000mail
 1.info
+1@1
+1@2
+1@3
 1test.
+2@1
+2@2
+2@3
 2itb
 2test.
 2u.org
+3@1
+3@2
+3@3
 3j3j3
 3test.
 3ww3
@@ -602,6 +617,7 @@ bagsuk
 bankowoz
 bankrobber
 bazargorj
+bddv
 beamten
 beatbydre
 beats-dr-dre
@@ -1120,6 +1136,7 @@ ed-in-men
 eemail
 effexor
 egoodshop
+einkommen
 ejaculationpharm
 el-gordo.c
 elite-men
@@ -1664,6 +1681,7 @@ kamagra
 kanalizacyjne
 kardashian
 karpaczwsieci
+karuteie
 katalog
 kfcnfl
 kino-online
@@ -1811,6 +1829,7 @@ lublin.
 lublina.
 luggagetote
 lumigan
+lunarglide
 lupusinfo
 lux-replica
 luxreplica
@@ -1869,6 +1888,7 @@ may_help_you
 may-help-you
 mbt-japan
 mbtjapan
+mbtsko
 mcm.co
 meandyou
 meclizine
@@ -2416,6 +2436,7 @@ replicastore
 replicawatch
 replicaworld
 restoril
+retin-a
 reverse-phone
 reversephone
 review-source
@@ -2861,6 +2882,7 @@ ukugg
 ukvip
 ulkotours
 ultram
+umschuldung
 unitedidesign
 unknown.ru
 unlock-iphone3
@@ -3043,6 +3065,7 @@ www.foto.
 www.fotoalbum
 www.fotograf
 www.fotomania
+www.freerun
 www.gamble
 www.gambling
 www.game
@@ -3139,6 +3162,7 @@ youtube-view
 youtubedown
 youtubeview
 youugg
+yuuguu
 yxz
 ÿþ
 z.in
@@ -3163,6 +3187,7 @@ zovirax
 zqf
 ztn
 zumbah
+zxog
 zyban
 zyprexa
 zyrtec
