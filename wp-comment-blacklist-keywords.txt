@@ -1441,12 +1441,10 @@ gucci-replica
 gucci-sale
 gucci-uk
 gucci-you
-gucci2me
-gucci2you
+gucci2
 gucciden
 gucciiuk
-guccija
-guccijp
+guccij
 guccikan
 guccinose
 guccioutlet
@@ -1456,6 +1454,8 @@ guccisale
 gucciten
 gucciuk
 gucciyu
+guru1
+gurus1
 hair-again
 hair-grow
 hair-growth
@@ -2693,13 +2693,12 @@ sunglassesok
 sunglassesuk
 sunglassok
 sunglassuk
-super gry
 superarticle
 superheroz
 suprax
 supremeessay
 surprisezone
-syaneru.
+syaneru
 symptom-med
 symptommed
 symptoms-med
@@ -2787,7 +2786,7 @@ top-search
 top-site
 topamax
 topforum
-topic.php?f
+topic.php?
 topiramate
 topmuscle
 toprank
@@ -2800,7 +2799,6 @@ torrents
 torsemide
 toryburchflat
 toryburchten
-tounlockiphone
 track-phone-location
 tracking-a-phone
 trading-method
@@ -2830,8 +2828,8 @@ tworzenie
 uauaua
 ubezpieczenia
 ubirkin
-ugboos.co
-ugbos.co
+ugboos
+ugbos
 ugg-best
 ugg-boot
 ugg-comfort
@@ -2845,9 +2843,9 @@ ugg-uk
 ugg-usa
 uggatcanada
 uggbest
-uggboos.co
+uggboos
 uggboot
-uggbos.co
+uggbos
 uggcheap
 uggclog
 uggcomfort
@@ -2898,12 +2896,9 @@ ultram
 umschuldung
 unitedidesign
 unknown.ru
-unlock-iphone3
-unlock-iphone4
+unlock-iphone
 unlock-mobile
-unlockiphone.in
-unlockiphone3
-unlockiphone4
+unlockiphone
 unlockmobile
 unwanted-hair
 unwantedhair
@@ -2940,10 +2935,8 @@ viewarticle
 viewblog.asp
 viewblog.php
 viewentry
-viewthread.php?p
-viewthread.php?t
-viewtopic.php?p
-viewtopic.php?t
+viewthread.php?
+viewtopic.php?
 vigara
 vigrx
 vimax
@@ -3029,7 +3022,7 @@ wifi-jammer
 wifijammer
 wikka.php
 win7.co
-win7professional
+win7pro
 win8.co
 windows7key
 windowsphone.co
