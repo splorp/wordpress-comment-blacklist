@@ -264,12 +264,14 @@ _the_best_
 //act-
 //article
 //best
+//buy
 //cheap
 //community
 //compare
 //escort
 //forum
 //friend
+//generic
 //groups
 //gucci
 //longchamp
@@ -1004,6 +1006,7 @@ customrim
 customwheel
 cygara
 cymbalta
+cytotec
 dabloggs
 dailystrength
 damskie
@@ -2322,6 +2325,7 @@ prepaid-credit
 prescription.htm
 pressrelease.net
 previcox
+priligy
 private-label
 privatelabel
 proactol
