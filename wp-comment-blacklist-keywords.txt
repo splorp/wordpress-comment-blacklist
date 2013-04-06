@@ -45,6 +45,7 @@ _the_best_
 -cosmetics.
 -costume.
 -coupon-
+-data-recovery-
 -deluxe-
 -demo1
 -dieta-
@@ -247,6 +248,7 @@ _the_best_
 .thearticle
 .totaldns.in
 .travel.pl
+.univer.
 .us/user
 .webs.co
 .xn--
@@ -344,6 +346,7 @@ _the_best_
 /gucci-
 /guest-book
 /guestbook
+/handle/
 /hentai
 /hermes-
 /hire-
@@ -397,6 +400,7 @@ _the_best_
 /remotedesktop-
 /rozwod
 /rss.xml
+/ru/news/
 /salvia/
 /scarpe-
 /seo
@@ -438,7 +442,9 @@ _the_best_
 /yabb
 /yabb.pl
 /zumba-
+&#969;
 &article=
+&kappa;
 &omicron;
 #file_links
 #random
@@ -487,6 +493,7 @@ _the_best_
 2013.de
 2013.or
 2013x.
+123456789
 a-powerful-way
 a1.co
 abcwatch
@@ -558,6 +565,7 @@ amzon.co
 anabolic
 androidclan
 anonymous-download
+anonymousvpn
 anti-aging
 antiage
 antiaging
@@ -704,6 +712,7 @@ bluetoothjammer
 bonus-code
 bonuscode
 book-ot-
+book.php?id
 boot-get
 boot-queen
 bootcojp
@@ -1027,6 +1036,7 @@ darvocet
 data-tools
 datarecovery.co
 datarecoveryhospital
+dataz
 datingdirect
 daytrade
 daytrading
@@ -1045,6 +1055,7 @@ debtrelief
 dedrease
 definitelly
 delete_post
+deltasone
 demo123
 dental-implant
 dental-quote
@@ -1580,6 +1591,7 @@ ia€?ll
 ikonboard.cgi?
 imalook
 implanty
+in-disguise
 income.in
 index.fcgi/ticket/
 index.html?a
@@ -1735,6 +1747,7 @@ kredyt
 kvartiry
 kxk
 kxx
+kxy
 labetalol
 lacoste-outlet
 lacosteoutlet
@@ -1823,6 +1836,7 @@ londongenuine
 longchamp-shop
 longchampbag
 longchamplondon
+longchampoffici
 longchampp
 longchampsac
 longchampshop
@@ -1840,6 +1854,7 @@ louboutin-outlet
 louboutin8
 louboutinfr
 louboutinoutlet
+louboutinpascher
 louboutinsale
 louboutinshoe
 louboutinuk
@@ -2233,9 +2248,11 @@ paulsmithsu
 paxil
 pay_day_loan
 payday-loan
+payday-on
 payday.co
 paydayloan
 paydaynote
+paydayon
 paypal-cash
 paypalcash
 payroll-calc
@@ -2255,6 +2272,7 @@ perday.co
 perfectvpn
 perfectwritings
 permonth.co
+personal-experience
 personal-injury
 personalinjury
 personnalis
@@ -2313,6 +2331,7 @@ porn.
 pornlive
 porno-
 porno.
+porno@
 pornolady
 pornsex
 postcarf
@@ -2393,6 +2412,7 @@ quick_search
 quick-loan
 quickloan
 quit-smoking
+qxh
 radikal.ru
 radiocarpea
 raloxifene
@@ -2402,6 +2422,8 @@ ralphlaurenoutlet
 ramipril
 rank-build
 rankbuild
+rapid-pay
+rapidpay
 rasalinga
 ravensfan
 rayban-cheap
@@ -3115,6 +3137,7 @@ www.handbag
 www.hermes
 www.herveleger
 www.hot
+www.information
 www.instyler
 www.isabelmarant
 www.kobe
@@ -3171,6 +3194,8 @@ yo-dick
 yoigucci.co
 you-ugg
 you-want-it
+young_porno
+young-porno
 your_account
 your_ex
 your_free
@@ -3305,3 +3330,4 @@ zyvox
 юридической
 アウトレット
 クロエ
+ミ
