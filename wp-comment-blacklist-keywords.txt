@@ -266,6 +266,7 @@ _the_best_
 /?new-
 /?uid-
 //act-
+//app.lk
 //article
 //best
 //buy
@@ -310,6 +311,8 @@ _the_best_
 /blog/view/
 /blogid=
 /blogs/entry/
+/blogs/item/
+/blogs/items/
 /blogs/post/
 /blogs/posts/
 /burberry-
@@ -667,6 +670,7 @@ best-software-for
 best-way-to
 bestdirect
 bestdiscount
+bestdrug
 bestfake
 bestlaptop
 bestphone
@@ -1079,6 +1083,7 @@ devil1.htm
 devil2.htm
 dewelop
 dgg
+diablo3
 diamox
 diazepam
 diclofenac
@@ -1422,6 +1427,7 @@ goldessay
 goldgeek
 goldingot
 goldjewelry
+goldsuppl
 golfplaza
 golfs
 gomaile.co
@@ -2103,6 +2109,8 @@ oakley-store
 oakley-sunglass
 oakleycheap
 oakleyoutlet
+oakleypascher
+oakleys.net
 oakleystore
 oakleysuk
 oakleysunglass
@@ -2239,6 +2247,7 @@ paris-royal
 parkiety
 party-poker
 partypoker
+pascheroakley
 passwort
 passwrot
 paulsmith201
@@ -2867,6 +2876,7 @@ tresore
 trimethoprim
 triviatrivia
 trollapp
+try-these
 tubee.tv
 tucholskie
 turbosprezarek
