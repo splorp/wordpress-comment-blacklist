@@ -144,6 +144,7 @@ _the_best_
 -strona.
 -strony-
 -strony.
+-sunglasses-
 -supplements-
 -symptoms-
 -tax-attorney
@@ -170,6 +171,7 @@ _the_best_
 -webhost.
 -webpage-
 -website-
+-wedding-dress
 -wedding-photo
 -wheels-
 -wholesale.
@@ -244,6 +246,7 @@ _the_best_
 .ru/service
 .ru/user
 .sirenos.in
+.sunglasses-
 .supreme-
 .thearticle
 .totaldns.in
@@ -325,10 +328,14 @@ _the_best_
 /campaign/
 /campaigns/
 /casino
+/chanel_
+/chanel.htm
 /cheap-
 /cigar-
 /cigars-
 /default/member/
+/dior_
+/dior.htm
 /drug
 /empower-
 /errorx/
@@ -346,7 +353,9 @@ _the_best_
 /getwidgets/
 /glowna.
 /grow-your
+/gucci_
 /gucci-
+/gucci.htm
 /guest-book
 /guestbook
 /handle/
@@ -359,6 +368,7 @@ _the_best_
 /index.php/
 /join.php
 /journal/item/
+/js/
 /konsultan
 /kredit
 /kredyt
@@ -371,6 +381,7 @@ _the_best_
 /love-fail
 /love-life
 /love-quote
+/mailer/
 /massage
 /med-
 /medical
@@ -390,8 +401,11 @@ _the_best_
 /pg/profile/
 /piece-
 /piece.
+/popups/
 /porn
 /pozew
+/prada_
+/prada.htm
 /product/0/
 /profil/
 /profile.php
@@ -411,6 +425,7 @@ _the_best_
 /sigareta-
 /sigarety-
 /sinsaku
+/site/ebay
 /sitemap.
 /soma
 /strona-
@@ -418,6 +433,7 @@ _the_best_
 /strony-
 /strony/
 /submit/url/
+/swf/
 /syaneru
 /the-first
 /the-sale
@@ -745,10 +761,12 @@ bruiseviolet
 btshoe
 bukmacher
 bullion-account
+burberry-hand
 burberry-outlet
 burberry-sale
 burberry.blog
 burberrybi
+burberryhand
 burberryoutlet
 burberrysale
 burberrysold
@@ -1041,7 +1059,9 @@ data-tools
 datarecovery.co
 datarecoveryhospital
 dataz
+dating-guide
 datingdirect
+datingguide
 daytrade
 daytrading
 dealsuk
@@ -1149,6 +1169,7 @@ doxycycline
 drdreheadphone
 dre-beats
 dresshop
+dresssale
 drivewayservice
 drugcheap
 drugscheap
@@ -2075,6 +2096,7 @@ nikefreerun
 nikefreerunjp
 nikemain
 nikepasch
+nikeshop
 nikesportjap
 nikesportjp
 niketokyo
@@ -2106,6 +2128,7 @@ nude.htm
 oakley-cheap
 oakley-outlet
 oakley-store
+oakley-straight
 oakley-sunglass
 oakleycheap
 oakleyoutlet
@@ -2590,6 +2613,7 @@ sell-now
 sellnow
 seo-agency
 seo-host
+seo-pick
 seo-plugin
 seo-tool
 seo-with
@@ -2599,6 +2623,7 @@ seo.net
 seo.org
 seoagency
 seohost
+seopick
 seoplugin
 seotool
 seowith
@@ -2737,6 +2762,7 @@ strattera
 stromectol
 studiobeat
 studiosbeat
+stumpmaster
 stylomontblanc
 stylowe
 succeed-online
@@ -2843,6 +2869,7 @@ top-forum
 top-muscle
 top-rank
 top-search
+top-seo
 top-site
 topamax
 topforum
@@ -2851,6 +2878,7 @@ topiramate
 topmuscle
 toprank
 topsearch
+topseo
 topsite
 topvideocon
 torrent-movie
@@ -3054,6 +3082,7 @@ websex
 websiterecord
 websolution
 webviewconsult
+weddingdress
 week.in
 weekly.in
 weeklyincome
