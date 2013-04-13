@@ -264,6 +264,7 @@ _the_best_
 @live.fr
 @mail-
 @toke.
+/_notes/
 /?cat
 /?document_
 /?new-
@@ -285,6 +286,7 @@ _the_best_
 //longchamp
 //onsale
 //paginas
+//podcast.
 //reality
 //royal-
 //shop
@@ -365,6 +367,7 @@ _the_best_
 /hotdeals/
 /ii/
 /image/cache/
+/includes/
 /index.php/
 /join.php
 /journal/item/
@@ -384,6 +387,7 @@ _the_best_
 /mailer/
 /massage
 /med-
+/mediawiki/
 /medical
 /medication-
 /mortgage
@@ -538,6 +542,7 @@ addidas
 adenosyl
 adidas-corner
 adipex
+admin.cfm
 admin5
 adsjeremy
 adswings
@@ -615,6 +620,7 @@ articulatio
 artikel
 artykul
 asd@
+asdasd
 asdf
 asdf@
 asicsshoe
@@ -1274,6 +1280,7 @@ fb-traffic
 fbfans
 fblike
 fdggdf
+features.cfm
 femmes-canada-goose
 femmescanadagoose
 fenoma
@@ -1380,6 +1387,7 @@ funwithwindows
 furiousguy
 furnituresale
 furosemide
+furworld.ru
 gabapentin
 game-casino
 game-copy
@@ -1494,6 +1502,7 @@ gucci-uk
 gucci-you
 gucci2
 gucciden
+guccifr
 gucciiuk
 guccij
 guccikan
@@ -1801,6 +1810,9 @@ letrozole
 levaquin
 levitra
 levne
+libraries.cfm
+library.cfm
+librarys.cfm
 librium
 lifeinsurance
 limo-service
@@ -2438,6 +2450,7 @@ pufy.
 pure-jobs
 q=blog
 q=node
+qkp
 qtrade
 queenjp
 quick_search
@@ -2592,6 +2605,7 @@ samedayloans
 sample@
 sandaljp
 sandalsjp
+satcheldbag
 scam.html
 scam.in
 scam.net
@@ -2715,6 +2729,8 @@ smart-drug
 smartdrug
 smeoone
 smokingnews
+snapbackshat
+snapbacksnew
 sneaker.asp
 sneakerchef
 sneakers.asp
@@ -3021,6 +3037,7 @@ view_blog.php
 view_entry
 view-article
 view.php?aid
+view=captcha
 viewarticle
 viewblog.asp
 viewblog.php
@@ -3216,6 +3233,7 @@ www.win
 www.wtf
 wypoczynku
 wyposazenie
+wzzx
 x.ru
 xalatan
 xanax
@@ -3229,6 +3247,7 @@ xwebsite
 xx.co
 xx.in
 xxx
+xzg
 yo-dick
 yoigucci.co
 you-ugg
@@ -3362,6 +3381,7 @@ zyvox
 удивительные
 услуг
 услуги
+фабрика меха
 фирму
 форум
 фото
