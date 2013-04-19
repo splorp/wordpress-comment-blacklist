@@ -187,6 +187,7 @@ _the_best_
 ?storefront=
 ?title=user
 ?view=detail
+.baidu
 .bioactives-
 .biz
 .blogspace.
@@ -310,6 +311,7 @@ _the_best_
 /bazar.
 /better-
 /blog.htm
+/blog/blog
 /blog/owner/
 /blog/post/
 /blog/posts/
@@ -335,11 +337,15 @@ _the_best_
 /cheap-
 /cigar-
 /cigars-
+/contact/contact
+/contactus/contact
+/customcontrols/
 /default/member/
 /dior_
 /dior.htm
 /drug
 /empower-
+/eng/index
 /errorx/
 /features-
 /filmy
@@ -369,6 +375,7 @@ _the_best_
 /image/cache/
 /includes/
 /index.php/
+/infopages/
 /join.php
 /journal/item/
 /js/
@@ -390,6 +397,7 @@ _the_best_
 /mediawiki/
 /medical
 /medication-
+/menu/menu
 /mortgage
 /netcat_files/
 /netcat/
@@ -414,6 +422,8 @@ _the_best_
 /profil/
 /profile.php
 /profile/profile/
+/prolist
+/property-
 /prozac
 /pufy
 /reg_
@@ -439,6 +449,7 @@ _the_best_
 /submit/url/
 /swf/
 /syaneru
+/sysuser/
 /the-first
 /the-sale
 /the-shock
@@ -466,6 +477,8 @@ _the_best_
 /yabb.pl
 /zumba-
 &#969;
+&#1072;
+&#1075;
 &article=
 &kappa;
 &omicron;
@@ -483,17 +496,20 @@ _the_best_
 <a>
 0000mail
 000mail
+1.cfm
 1.info
 1@1
 1@2
 1@3
 1test.
+2.cfm
 2@1
 2@2
 2@3
 2itb
 2test.
 2u.org
+3.cfm
 3@1
 3@2
 3@3
@@ -624,6 +640,7 @@ asdasd
 asdf
 asdf@
 asicsshoe
+asikkusu
 asp?folder=
 asp?id
 ativan
@@ -717,6 +734,7 @@ biznes
 bizstore
 biztalk
 biżuteria
+black-www
 blackhat
 blackjack
 blacklabelj
@@ -932,6 +950,7 @@ chinska
 chlamydia
 chloejp
 chloemoment
+chloeoutsale
 choo-boots
 chooboots
 chrismas.asp
@@ -1128,6 +1147,7 @@ dietsolution
 dietsupplement
 differin
 diflucan
+diorkan
 direct-health
 direct-lend
 direct-lone
@@ -1428,6 +1448,7 @@ gifts-singapore
 giftsingapore
 giftssingapore
 gigantix.co
+girljp
 glamorousbag
 glasses-tokyo
 glassestokyo
@@ -1508,6 +1529,7 @@ guccij
 guccikan
 guccinose
 guccioutlet
+gucciparis
 guccipurse
 guccireplica
 guccisale
@@ -1643,6 +1665,7 @@ index.php?q
 index.php?route
 index.php?s
 index.php?t
+indexold
 indicators.co
 info/tag
 info/view
@@ -1701,6 +1724,7 @@ italy-shop
 italy-store
 italyshop
 italystore
+itemnotfound
 jacket-jp
 jacket-sale
 jackets-for-kids
@@ -2268,6 +2292,7 @@ oxycodone
 oxycontin
 p90x
 page.tl
+pagss.htm
 pain-relief.
 painrelief.
 pandora-bracelet
@@ -2379,6 +2404,7 @@ porno@
 pornolady
 pornsex
 postcarf
+posttestimonial
 pozew.
 poznaj-seo
 poznajseo
@@ -2391,6 +2417,7 @@ prada-bag
 prada-new
 prada-outlet
 pradabag
+pradagirl
 pradanew
 pradaoutlet
 prawnik
@@ -2923,6 +2950,7 @@ trollapp
 try-these
 tubee.tv
 tucholskie
+turbo-vac
 turbosprezarek
 turbosprezarki
 turystyka
@@ -3042,6 +3070,8 @@ viewarticle
 viewblog.asp
 viewblog.php
 viewentry
+viewlinks
+viewpages
 viewthread.php?
 viewtopic.php?
 vigara
@@ -3088,12 +3118,14 @@ web-view
 webcambabe
 webcamsex
 webhosting
+weblinks
 webnode.co
 webnode.cz
 webnode.fr
 webnode.hu
 webnode.it
 webnode.nl
+webpages
 webpromotion
 websex
 websiterecord
