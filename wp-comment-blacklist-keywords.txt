@@ -187,6 +187,7 @@ _the_best_
 ?storefront=
 ?title=user
 ?view=detail
+.acgi
 .baidu
 .bioactives-
 .biz
@@ -194,6 +195,7 @@ _the_best_
 .bluray.
 .causes-
 .cfmx
+.cgi
 .com/member/
 .com/official
 .com/site-
@@ -201,6 +203,7 @@ _the_best_
 .coupon
 .credopa.in
 .fake-
+.fcgi
 .filpan.ru
 .filvce.in
 .forum.
@@ -883,6 +886,10 @@ casinos-
 casquebeats
 casquette
 casub.co
+catalogs.cfm
+catalogues.cfm
+cavin-klein
+cavinklein
 celebrex
 celebrities-nude
 celebritiesnude
@@ -903,7 +910,11 @@ chanel-sale
 chanelbag
 chanelonline
 chanelsale
+chaussure-asics
+chaussure-femme
+chaussure-homme
 chaussure-louboutin
+chaussure-puma
 chaussures-louboutin
 cheap-adobe
 cheap-chanel
@@ -1363,6 +1374,7 @@ forums?func=
 forums/1/topic
 foryou.co
 fpq
+fr.fr/
 fradidas
 fraudcenter
 free-bbs
@@ -1646,12 +1658,10 @@ hyper-fb
 hyzaar
 ï¿½
 ia€?ll
-ikonboard.cgi?
 imalook
 implanty
 in-disguise
 income.in
-index.fcgi/ticket/
 index.html?a
 index.html?m
 index.html?p
@@ -1955,6 +1965,7 @@ mac-cosmetic
 madeye30
 magicmoncler
 mail.ru
+maillot-maillot
 make-backup
 make-millions
 make-money
@@ -2037,7 +2048,6 @@ modafinil
 mode=viewprofile
 moderowany
 modules.php
-moin.cgi
 moldremov
 moncler--
 money-site
@@ -2118,6 +2128,7 @@ nfl-jersey
 nfl-official
 nfljersey
 nflofficial
+nfr.cfm
 niaspan
 nicoban
 nieruchomosci
@@ -2447,7 +2458,6 @@ professionals.co
 professionalugg
 profile_blogs
 profile_id=
-profile.cgi
 profile/?u
 profissionais
 profit-margin
@@ -3046,6 +3056,8 @@ valtrex
 vendita
 venlafaxine
 versicherungsmakler
+vetement-femme
+vetement-homme
 veterinarnaya
 via-internet
 viagera
@@ -3412,7 +3424,6 @@ zyvox
 трудоустройства
 удивительные
 услуг
-услуги
 фабрика меха
 фирму
 форум
