@@ -51,6 +51,7 @@ _the_best_
 -dieta-
 -discount
 -doktora-
+-drmartens-
 -e-guide-
 -easily-
 -ebay
@@ -109,6 +110,7 @@ _the_best_
 -pozew-
 -prada-
 -premium-
+-programy.
 -promotions-
 -promotions.
 -rdnk-
@@ -169,7 +171,6 @@ _the_best_
 -web-page-
 -web-site-
 -webhost.
--webpage-
 -website-
 -wedding-dress
 -wedding-photo
@@ -216,6 +217,7 @@ _the_best_
 .info.pl
 .info/product
 .info/user
+.jp/my/
 .longchamp-
 .magix.net
 .mobi/?
@@ -340,12 +342,14 @@ _the_best_
 /cheap-
 /cigar-
 /cigars-
+/coachpurses-
 /contact/contact
 /contactus/contact
 /customcontrols/
 /default/member/
 /dior_
 /dior.htm
+/drmartens-
 /drug
 /empower-
 /eng/index
@@ -424,7 +428,11 @@ _the_best_
 /product/0/
 /profil/
 /profile.php
+/profile/blog/
+/profile/blogs/
 /profile/profile/
+/profiles/blog/
+/profiles/blogs/
 /prolist
 /property-
 /prozac
@@ -621,6 +629,7 @@ areplica
 aricept
 aripiprex
 armagard.co
+aroma-paradise
 article-buzz
 article.co
 article.in
@@ -901,6 +910,7 @@ celinehandbag
 celineluggage
 cellskin
 cellulitefree
+cellulitereview
 celular
 cgsaleca
 chanel--
@@ -1189,6 +1199,7 @@ djtool
 do=blog
 dobrucki.co
 dobrucki.pl
+doctermarten
 docteurdrebeat
 dokumentov
 dokumentów
@@ -1208,6 +1219,8 @@ dre-beats
 dresshop
 dresssale
 drivewayservice
+drmartensjapan
+drmartensjp
 drugcheap
 drugscheap
 dubai-princess.
@@ -1230,6 +1243,7 @@ egoodshop
 einkommen
 ejaculationpharm
 el-gordo.c
+elavil
 elite-men
 eloans
 elwayjersey
@@ -1688,6 +1702,7 @@ injectionfacts
 injury-lawyer
 injurylawyer
 insanejournal
+insanityworkout
 insdier
 inspired-handbag
 inspiredhandbag
@@ -1748,7 +1763,17 @@ jacketsforkids
 jacketsformen
 jacketsforwomen
 japanconverse
+japandrmartens
+japaneseconverse
+japanesedrmartens
+japanesemarcjacobs
+japanesemontblanc
+japaneseswarovski
+japanmarcjacobs
+japanmonster
+japanmontblanc
 japanonline
+japanswarovski
 jcshoe
 jeacoma.co
 jeremyads
@@ -1776,6 +1801,7 @@ jordjev
 jpcity.co
 jpconverse
 jpmarcjacob
+jpmonster
 jpsasics
 jsadidas
 juicycouture
@@ -1849,6 +1875,7 @@ library.cfm
 librarys.cfm
 librium
 lifeinsurance
+lifelock
 limo-service
 linguim.co
 link_build
@@ -1910,6 +1937,7 @@ longchamp-shop
 longchampbag
 longchamplondon
 longchampoffici
+longchampoutlet
 longchampp
 longchampsac
 longchampshop
@@ -1982,6 +2010,8 @@ manchesterhotel
 manicshop
 maran-trainers
 marantrainers
+marcjacobsjapan
+marcjacobsjp
 marketing-book
 marketing-marketing
 marketing-tip
@@ -2037,6 +2067,7 @@ miraclediscount
 mirapex
 mister-design
 misterboy
+mittelx
 mixed-race
 mixedrace
 mkhandbag
@@ -2059,8 +2090,12 @@ monster-beat
 monster-headphon
 monsterbeat
 monsterheadphon
+monsterjapan
+monsterjp
 montblancboutique
 montblancfranc
+montblancjapan
+montblancjp
 montblancmeister
 montblancparis
 montblancsold
@@ -2098,9 +2133,11 @@ my_profile
 my-new-ipad
 my-virus
 mydead-
+mydomain
 mylupus
 myqrops
 myreview.co
+mytest
 myvirus
 najlepsze
 naltrexone
@@ -2469,6 +2506,7 @@ proisxozhdenie
 prokeyshop
 prom-dress
 promocja
+promocode
 propecia
 proper-ugg
 properugg
@@ -2485,6 +2523,8 @@ publica-foto
 publikacja
 pufy.
 pure-jobs
+purse-sale
+purses-sale
 q=blog
 q=node
 qkp
@@ -2521,6 +2561,7 @@ realestate.co
 realestate.web
 realestate.wordpress
 reasons-why
+reciclable
 records.net
 recoverynow
 redbottomshoe
@@ -2770,6 +2811,8 @@ snapbackshat
 snapbacksnew
 sneaker.asp
 sneakerchef
+sneakerjapan
+sneakerjp
 sneakers.asp
 sneakers24
 social-bookmark
@@ -2836,6 +2879,8 @@ superheroz
 suprax
 supremeessay
 surprisezone
+swarovskijapan
+swarovskijp
 syaneru
 symptom-med
 symptommed
@@ -2957,6 +3002,7 @@ tresore
 trimethoprim
 triviatrivia
 trollapp
+truthabout
 try-these
 tubee.tv
 tucholskie
@@ -3137,7 +3183,7 @@ webnode.fr
 webnode.hu
 webnode.it
 webnode.nl
-webpages
+webpage
 webpromotion
 websex
 websiterecord
@@ -3153,6 +3199,7 @@ weight-work
 weightloss
 welcometonginx
 wellbutrin
+werbegeschenke
 weusecoins
 wheels.co
 wheels.net
@@ -3330,6 +3377,7 @@ youtube-view
 youtubedown
 youtubeview
 youugg
+yumeeyum
 yuuguu
 yxz
 ÿþ
