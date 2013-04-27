@@ -358,6 +358,7 @@ _the_best_
 /filmy
 /foot-care
 /forum/membership/
+/forum/topic/
 /forum/user/
 /forum1/
 /forums/member
@@ -417,6 +418,7 @@ _the_best_
 /orgasm
 /page_
 /pg/blog/
+/pg/forum/
 /pg/profile/
 /piece-
 /piece.
@@ -920,6 +922,7 @@ chanel-sale
 chanelbag
 chanelonline
 chanelsale
+channel-operator
 chaussure-asics
 chaussure-femme
 chaussure-homme
@@ -1110,6 +1113,7 @@ datingdirect
 datingguide
 daytrade
 daytrading
+dealonline
 dealsuk
 dealsus
 dealuk
@@ -1743,6 +1747,7 @@ iphone4case
 iphone4scase
 iphonecase
 iphonecrack
+irc-chat
 is-now-available
 isotretinoine
 italy-shop
@@ -2995,6 +3000,7 @@ trainingpro
 traitement-des
 tramadol
 travel.pl
+traveltrip
 trazodone
 treatment.in
 trening
@@ -3091,6 +3097,7 @@ unlockiphone
 unlockmobile
 unwanted-hair
 unwantedhair
+upseseglype
 urlstatusgo.html
 uroda
 user_blog.php
