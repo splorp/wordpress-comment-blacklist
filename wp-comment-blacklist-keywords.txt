@@ -103,6 +103,7 @@ _the_best_
 -online.
 -online/
 -order-at-
+-outlet.
 -oympia-
 -payday-
 -poker.
@@ -303,6 +304,8 @@ _the_best_
 /5.htm
 /acai
 /addfeed/
+/admin/
+/administration/
 /adorable-
 /ads/
 /affordable-
@@ -415,6 +418,7 @@ _the_best_
 /ninnki
 /node/
 /note.php?
+/offering/
 /orgasm
 /page_
 /pg/blog/
@@ -695,6 +699,7 @@ bagsuk
 bankowoz
 bankrobber
 bazargorj
+bazookaapp
 bddv
 beamten
 beatbydre
@@ -767,6 +772,7 @@ blogs.php?action
 blowjob
 bluetooth-jammer
 bluetoothjammer
+bodacious
 bonus-code
 bonuscode
 book-ot-
@@ -791,6 +797,7 @@ brand-corner
 brand-jp
 brandjp
 brazzer
+breastactive
 bridalshop
 brinkjewel
 britanniahotel
@@ -1041,6 +1048,8 @@ coachwallet
 coachya
 code-generat
 college-loan
+com.asp
+com2.php
 command=read_message
 commentabout
 community.atom
@@ -1113,6 +1122,7 @@ datingdirect
 datingguide
 daytrade
 daytrading
+ddq
 dealonline
 dealsuk
 dealsus
@@ -1147,6 +1157,7 @@ designerjewel
 designershoe
 desktop-client.
 desktopclient.
+desyrel
 detail/www
 detektiv
 devil1.htm
@@ -1260,6 +1271,7 @@ enhance-your
 enhancement-pill
 enhancementpill
 enjoy-more
+enourmous
 entry_key
 entrykey
 entryview.asp?
@@ -1319,6 +1331,7 @@ fanshome
 fashion-boot
 fashion-classic
 fashionboot
+fashionistblog
 fast_loan
 fast-loan
 fastcash
@@ -1357,11 +1370,13 @@ fioricet
 firefoxik.ru
 firm.ru
 firma.php
+fitflop
 fivestardoll
 fix-credit
 fixcredit
 fixing-credit
 fixingcredit
+fjj
 flagyl
 flats.webeden
 flixya
@@ -1600,6 +1615,7 @@ helpful-information
 helplink.asp
 hemorroides
 hentai
+herbalmedicin
 herbalsmoking
 hermes-bag
 hermes-discount
@@ -1611,8 +1627,10 @@ hermesoutlet
 hfgfh
 hgh-sup
 hghsup
+hierbasmedicin
 high-heel
 high-protein
+high.cc
 highbloodpressure
 highprotein
 hitfit
@@ -1697,6 +1715,7 @@ indexold
 indicators.co
 info/tag
 info/view
+infolist
 infonetcom
 informatik
 infos-
@@ -1779,6 +1798,7 @@ japanmonster
 japanmontblanc
 japanonline
 japanswarovski
+jcj
 jcshoe
 jeacoma.co
 jeremyads
@@ -1796,6 +1816,7 @@ jerseywhite
 jeweline.
 jimmy-choo
 jimmychoo
+jjl
 jogos
 john-varvatos
 jordan-retro
@@ -1819,6 +1840,7 @@ kardashian
 karpaczwsieci
 karuteie
 katalog
+keylessremote
 kfcnfl
 kino-online
 kinoonline
@@ -1959,6 +1981,7 @@ louboutin-chau
 louboutin-outlet
 louboutin8
 louboutinfr
+loubouting
 louboutinoutlet
 louboutinpascher
 louboutinsale
@@ -2064,6 +2087,7 @@ michael-kors
 michaelkors
 mieszkania
 mieszkanie
+milendress
 millen-outlet
 minecraftfree
 mintcoin
@@ -2297,6 +2321,7 @@ osobistosci
 osobistości
 otonanocoach
 otoplasty
+outelt
 outlet_store
 outlet-austr
 outlet-canad
@@ -2546,6 +2571,7 @@ raloxifene
 ralph_lauren
 ralph-lauren
 ralphlaurenoutlet
+ralphlaurenuk
 ramipril
 rank-build
 rankbuild
@@ -2694,6 +2720,7 @@ scam.in
 scam.net
 scam.org
 scar-repair
+scarpehogan
 scarrepair
 schlgsseldienste
 schlüsseldienste
@@ -2753,6 +2780,7 @@ shoe-japan
 shoe.asp
 shoejapan
 shoejp.co
+shoeoutlet
 shoes-cheap
 shoes-japan
 shoes-on-sale
@@ -2796,6 +2824,7 @@ silveringot
 silverjewelry
 sim-only
 sinequan
+singapore.htm
 site-google
 site-position
 site.co
@@ -3036,6 +3065,7 @@ ugg-sale
 ugg-site
 ugg-uk
 ugg-usa
+ugg.htm
 uggatcanada
 uggbest
 uggboos
