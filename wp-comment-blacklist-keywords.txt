@@ -889,6 +889,7 @@ care-cream
 carinsurance
 carisoprodol
 cars-games
+cartuchos
 casaemail.co
 cash-advance
 cash4gold
@@ -1054,6 +1055,7 @@ com2.php
 command=read_message
 commentabout
 community.atom
+comprar
 computer-gaming
 computer-performance
 comunity
@@ -1858,6 +1860,7 @@ komputer
 komputery
 konkurs
 konsultan-seo
+kontakta-oss
 kopia-zapasowa
 kors-outlet
 korsoutlet
@@ -2029,6 +2032,7 @@ make-millions
 make-money
 makebaby
 makemoney
+maklare
 male-enhance
 maleenhance
 malepower
@@ -3179,6 +3183,7 @@ vintage-erotic
 viramune
 virus-remov
 virusremov
+visitant
 vitalikor
 vitamin-for
 vitaminfor
