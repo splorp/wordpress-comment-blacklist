@@ -75,6 +75,7 @@ _the_best_
 -income-
 -infotain
 -iphone-5-
+-jeremy-scott-
 -jerking-
 -jerking.
 -jersey-
@@ -184,6 +185,7 @@ _the_best_
 ?domain=
 ?firma=
 ?kat=
+?lang=
 ?p=blogs
 ?sexy-
 ?storefront=
@@ -636,6 +638,7 @@ areplica
 aricept
 aripiprex
 armagard.co
+armanito
 aroma-paradise
 article-buzz
 article.co
@@ -1022,6 +1025,7 @@ clenbuterol
 clickbank
 clickforu
 clientarea.php
+climacool
 clomid
 clonazepam
 clredheel
@@ -1079,6 +1083,7 @@ coumadin
 coupon_page
 coupon-code
 coupon-page
+coupon.blog
 couponcode
 coupons_page
 coupons-page
@@ -2031,6 +2036,9 @@ lviv
 lvoutlet
 lvuk
 mac-cosmetic
+mac-makeup
+maclipgloss
+macmakeup
 madeye30
 magicmoncler
 mail.ru
@@ -2162,6 +2170,7 @@ moviesonline
 movieszone
 moviezone
 mp3-download
+mp3la.ru
 msgnum
 much-boot
 much-gucci
@@ -2192,6 +2201,7 @@ natural-way
 naturalovarian
 naturalway
 needmoney
+net/members/
 netload.in
 neurontin
 new-article
@@ -2595,6 +2605,7 @@ rasalinga
 ravensfan
 rayban-cheap
 raybansuk
+raybansunglass
 raybantokyo
 raybanuk
 razadyne
@@ -2902,6 +2913,7 @@ storejp
 story.php?id
 strategies-for
 strategy-for
+stratificat.
 strattera
 stromectol
 studiobeat
@@ -2953,6 +2965,7 @@ telepon-
 templerun-
 templerun1
 tenormin
+termopane
 test.in
 test@
 test1.
@@ -3143,12 +3156,14 @@ unlockmobile
 unwanted-hair
 unwantedhair
 upseseglype
+urls2
 urlstatusgo.html
 uroda
 user_blog.php
 user.php?login
 userinfo.asp
 userinfo.php
+ut.ag/
 valium
 valtrex
 vendita
@@ -3505,6 +3520,7 @@ zyvox
 подешевле
 пожаловать
 портале
+посетител
 похудению
 преобрести
 прибыль
@@ -3521,6 +3537,7 @@ zyvox
 сайтов
 секс
 селитра
+симпатичная
 скачать
 спама
 справкой
@@ -3535,5 +3552,7 @@ zyvox
 элитныеноутбуки
 юридической
 アウトレット
+アルマーニ
+クラシック
 クロエ
 ミ
