@@ -26,6 +26,7 @@ _the_best_
 -bluray-
 -breathalyzer-
 -broker.
+-car.co
 -casas-en-
 -casino-
 -cell-phone-
@@ -201,12 +202,14 @@ _the_best_
 .causes-
 .cfmx
 .cgi
+.co.jp/shop/
 .com/member/
 .com/official
 .com/site-
 .com/user
 .coupon
 .credopa.in
+.disposable-
 .fake-
 .fcgi
 .filpan.ru
@@ -578,6 +581,7 @@ adderoll
 addidas
 adenosyl
 adidas-corner
+adidashop
 adipex
 admin.cfm
 admin5
@@ -625,6 +629,7 @@ amoxil
 amzon.co
 anabolic
 androidclan
+androidmp3
 anonymous-download
 anonymousvpn
 anti-aging
@@ -678,6 +683,7 @@ avatar-live
 avvessories
 babycanread
 backlink
+baclofen
 bad-credit
 badcredit
 bag-cheap
@@ -731,6 +737,7 @@ best-home-cinema
 best-phone
 best-software-for
 best-way-to
+bestcontractor
 bestdirect
 bestdiscount
 bestdrug
@@ -896,6 +903,7 @@ carisoprodol
 cars-games
 cartuchos
 casaemail.co
+cash loan
 cash-advance
 cash4gold
 cash4silver
@@ -1095,6 +1103,7 @@ cozyugg
 crane-hire
 cranehire
 create-product
+credit repair
 credit-card
 credit-report
 credit-score
@@ -1120,6 +1129,7 @@ cytotec
 cyy
 dabloggs
 dailystrength
+dakotasuki
 damskie
 dapoxetin
 dapoxetine
@@ -1291,6 +1301,7 @@ entry_key
 entrykey
 entryview.asp?
 ephedrine
+epo doping
 equipment-manufacture
 erjersey.co
 erjersey.net
@@ -1358,6 +1369,7 @@ fb-traffic
 fbfans
 fblike
 fdggdf
+fdkk
 features.cfm
 femmes-canada-goose
 femmescanadagoose
@@ -1461,6 +1473,7 @@ freesale
 freesimcard
 freevideo
 freewebsite
+freshwaterpearl
 frlongchamp
 func=view
 funds.ru
@@ -1749,6 +1762,7 @@ inspiredhandbag
 instafab
 install-virtual
 installvirtual
+instant loan
 instant-blog
 instant-loan
 instantblog
@@ -1980,6 +1994,7 @@ loiusvuitton
 london-genuine
 londongenuine
 longchamp-shop
+longchamp.php
 longchampbag
 longchamplondon
 longchampoffici
@@ -2172,6 +2187,7 @@ movieszone
 moviezone
 mp3-download
 mp3la.ru
+mp3player
 msgnum
 much-boot
 much-gucci
@@ -2228,6 +2244,7 @@ nike-and-shoe
 nike-dunk
 nike-freerun
 nike-main
+nikeairshop
 nikeandshoe
 nikedunk
 nikefreerun
@@ -2410,6 +2427,7 @@ paris-royal
 parkiety
 party-poker
 partypoker
+pascherfr
 pascheroakley
 passwort
 passwrot
@@ -2673,6 +2691,7 @@ replicarolex
 replicastore
 replicawatch
 replicaworld
+reports.php
 restoril
 retin-a
 reverse-phone
@@ -3034,6 +3053,7 @@ top-search
 top-seo
 top-site
 topamax
+topcontractor
 topforum
 topic.php?
 topiramate
@@ -3170,6 +3190,7 @@ valium
 valtrex
 vanessa-bruno-sac
 vanessabrunosac
+vardenafil
 vendita
 venlafaxine
 versicherungsmakler
@@ -3557,6 +3578,14 @@ zyvox
 юридической
 アウトレット
 アルマーニ
+グッチ
 クラシック
 クロエ
+ダコタ
+トリーバーチ 
+ニューバランス 
+バッグ
+マークジェイコブス 
 ミ
+化粧
+通販
