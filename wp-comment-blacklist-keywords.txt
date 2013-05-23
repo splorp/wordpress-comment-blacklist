@@ -527,6 +527,7 @@ _the_best_
 1@3
 1test.
 2.cfm
+2.info
 2@1
 2@2
 2@3
@@ -534,6 +535,7 @@ _the_best_
 2test.
 2u.org
 3.cfm
+3.info
 3@1
 3@2
 3@3
