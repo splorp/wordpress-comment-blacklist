@@ -58,6 +58,7 @@ _the_best_
 -easily-
 -ebay
 -enlargement.
+-essay.htm
 -fashion-
 -filmy
 -for-sale
@@ -233,6 +234,7 @@ _the_best_
 .nikeshox
 .online.pl
 .online.ws
+.or.kr
 .org/user
 .outlet.co
 .php?u=
@@ -352,6 +354,8 @@ _the_best_
 /cigar-
 /cigars-
 /coachpurses-
+/commodity.
+/common/rss
 /contact/contact
 /contactus/contact
 /customcontrols/
@@ -415,6 +419,7 @@ _the_best_
 /medical
 /medication-
 /menu/menu
+/montblanc.
 /mortgage
 /netcat_files/
 /netcat/
@@ -470,9 +475,11 @@ _the_best_
 /strony-
 /strony/
 /submit/url/
+/suggestions-
 /swf/
 /syaneru
 /sysuser/
+/test.htm
 /the-first
 /the-sale
 /the-shock
@@ -872,6 +879,8 @@ bydre-head
 bydrehead
 byo.co
 byt.es
+c.he.a.p
+c.he.ap
 cagoosejacket
 cagoosesale
 callgirl
@@ -939,6 +948,8 @@ cellulitefree
 cellulitereview
 celular
 cgsaleca
+ch.e.ap
+ch.ea.p
 chanel--
 chanel-bag
 chanel-online
@@ -977,6 +988,7 @@ cheapconverse
 cheapgucci
 cheaphat
 cheaphermes
+cheapiphone
 cheapjacket
 cheapjersey
 cheapjorda
@@ -1069,6 +1081,7 @@ code-generat
 college-loan
 com.asp
 com/author/
+com/download.asp
 com/profile/
 com2.php
 command=read_message
@@ -1077,6 +1090,7 @@ community.atom
 comprar
 computer-gaming
 computer-performance
+computerpressrelease
 comunity
 consalt-
 conversejapan
@@ -1243,6 +1257,7 @@ dobrucki.co
 dobrucki.pl
 doctermarten
 docteurdrebeat
+document_srl
 dokumentov
 dokumentów
 dollar_service
@@ -1577,6 +1592,8 @@ gooseshop
 goosevest
 gotowkowa
 gotowkowe
+goyard-bag
+goyardbag
 gratuitos
 great-essay
 great-things
@@ -1637,9 +1654,12 @@ handbagsu
 handbagu
 hanging-with-friends
 hangingwithfriends
+hatsnap
+hatssnap
 haveasite
 hcg-boost
 hcgboost
+heel_pads
 hello-sex
 hellosex
 help-tax
@@ -1854,6 +1874,7 @@ jogos
 john-varvatos
 jordan-retro
 jordan-sale
+jordankicks
 jordanretro
 jordansale
 jordjev
@@ -1917,6 +1938,7 @@ laserowe
 lasertherapy
 lasix
 laurenralph
+lawoffice.net
 leaked1
 learningxchange
 learnpianohere
@@ -2026,6 +2048,7 @@ louboutinuk
 louis_vuitton
 louis-vuitton
 louisvuitton
+louiswuitton
 lovelv
 lovelyto
 low-cost-
@@ -2246,6 +2269,7 @@ nike-and-shoe
 nike-dunk
 nike-freerun
 nike-main
+nikeairmax
 nikeairshop
 nikeandshoe
 nikedunk
@@ -2318,6 +2342,7 @@ okcheap
 okpay
 oksex
 oksunglass
+oneminutesite
 online-blog
 online-business
 online-casino
@@ -2357,6 +2382,7 @@ opinions.in
 options-trad
 optionstrad
 oral-sex
+order_type
 ordersoma
 orgazma
 oriflame
@@ -2392,6 +2418,7 @@ outletcanad
 outletforsale
 outlethermes
 outletjapan
+outletlove
 outletmart
 outletonline
 outlets-online
@@ -2401,6 +2428,7 @@ outlets.net
 outlets.org
 outlets.us
 outletsale
+outletshoe
 outletshop
 outletsonline
 outletssale
@@ -2427,6 +2455,7 @@ pandorajewelry
 pandorauk
 paris-royal
 parkiety
+party_feet
 party-poker
 partypoker
 pascherfr
@@ -2491,6 +2520,7 @@ php?title=
 phpbb2/profile
 phpbb2/user
 phpinfo.php
+pignee
 pills.co
 piscine
 plavix
@@ -2624,6 +2654,7 @@ rankbuild
 rapid-pay
 rapidpay
 rasalinga
+rastreadores
 ravensfan
 rayban-cheap
 raybansuk
@@ -2837,12 +2868,14 @@ shoes.asp
 shoesale
 shoesjapan
 shoeskan
+shoesmart
 shoesonsale
 shoesoutlet
 shoessale
 shoestore
 shoesuk
 shoeuk
+shoot-tequila
 shop-japan.co
 shop-now
 shop-online
@@ -2889,6 +2922,7 @@ smart-drug
 smartdrug
 smeoone
 smokingnews
+snapbacks
 snapbackshat
 snapbacksnew
 sneaker.asp
@@ -2909,6 +2943,7 @@ sohbet
 solução
 solutionsinc
 soma.htm
+sort_index
 soup.io/post
 sozedde.co
 space.php?uid
@@ -2960,6 +2995,7 @@ sunglassuk
 superarticle
 superheroz
 suprax
+supreme-essay
 supremeessay
 surprisezone
 swarovskijapan
@@ -2981,6 +3017,7 @@ targetedtraffic
 tastegood.co
 tax-debt
 taxbook
+teach-you-every
 teamproshop.co
 teen-sex
 teensex
@@ -3047,6 +3084,7 @@ tojp.co
 tokyo-lv
 toms-cheap
 tomscheap
+tomsoutlet
 tomsshoes
 top-forum
 top-muscle
@@ -3159,6 +3197,7 @@ uk-mart
 uk-sale
 uk.co.uk
 uk.webeden
+uk/mulberry
 ukclsale
 ukhandbag
 ukmall
@@ -3269,6 +3308,7 @@ web-promotion
 web-solution
 web-traffic
 web-view
+web/index.htm
 webcambabe
 webcamsex
 webhosting
@@ -3345,6 +3385,7 @@ www.cellphone
 www.chanel-
 www.cheap
 www.coach-
+www.deels
 www.drdrebeat
 www.easy
 www.efinancial
@@ -3589,5 +3630,6 @@ zyvox
 バッグ
 マークジェイコブス 
 ミ
+モンブラン
 化粧
 通販
