@@ -455,6 +455,7 @@ _the_best_
 /property-
 /prozac
 /pufy
+/pumps.htm
 /reg_
 /remote-desktop-
 /remotedesktop-
@@ -611,7 +612,7 @@ adwings
 adwokacka
 adwokat
 adwords
-aff.php?
+aff.php
 african-canadian-model
 africancanadianmodel
 age.webeden
@@ -663,8 +664,7 @@ article.co
 article.in
 article.net
 article.org
-article.php?id=
-article.php3
+article.php
 articlebuzz
 articlepowa
 articles.co
@@ -1319,7 +1319,7 @@ enjoy-more
 enourmous
 entry_key
 entrykey
-entryview.asp?
+entryview.asp
 ephedrine
 epo doping
 equipment-manufacture
@@ -1445,10 +1445,11 @@ forex
 forfree
 forjp.co
 forsale-japan
+forsalego
 forsalejapan
 forsales
 forum_posts.asp
-forum.php?
+forum.php
 forum/1/topic
 forum/ftopic
 forum/post
@@ -1858,6 +1859,7 @@ jcj
 jcshoe
 jeacoma.co
 jeremyads
+jeremyscottwing
 jersetblack
 jersey-pro
 jersey+
@@ -2533,6 +2535,7 @@ playerblock
 playfree
 playonline
 plazajp
+pleease
 plus-size
 plussize
 plytki
@@ -3087,6 +3090,7 @@ tojp.co
 tokyo-lv
 toms-cheap
 tomscheap
+tomsforsale
 tomsoutlet
 tomsshoes
 top-forum
@@ -3267,8 +3271,8 @@ viewblog.php
 viewentry
 viewlinks
 viewpages
-viewthread.php?
-viewtopic.php?
+viewthread.php
+viewtopic.php
 vigara
 vigrx
 vimax
@@ -3365,6 +3369,7 @@ win7pro
 win8.co
 windows7key
 windowsphone.co
+wingsshop
 without-investment
 women-date
 womendate
