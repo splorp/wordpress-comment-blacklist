@@ -1,17 +1,9 @@
-.insanity-
-ukloan
-uk-loan
-loansonline
-loanonline
-workoutsale
-loans-online
-loan-online
-workout-sale
 _coupon_
 _marketing_
 _profitable_
 _strategies_
 _the_best_
+_vti_
 ---
 --bag
 --jacket
@@ -235,6 +227,7 @@ _the_best_
 .info.pl
 .info/product
 .info/user
+.insanity-
 .jp/my/
 .longchamp-
 .magix.net
@@ -413,6 +406,7 @@ _the_best_
 /konsultan
 /kredit
 /kredyt
+/libs/
 /link/
 /linkdetail/
 /linkdetails/
@@ -589,6 +583,7 @@ account.php?id=
 accutane
 acertemail.co
 acetazolamide
+acnecyst
 acnetreatment
 acomplia
 action=profile
@@ -732,6 +727,7 @@ bankowoz
 bankrobber
 bazargorj
 bazookaapp
+bbombr
 bddv
 beamten
 beatbydre
@@ -1332,6 +1328,7 @@ entryview.asp
 ephedrine
 epo doping
 equipment-manufacture
+erettile
 erjersey.co
 erjersey.net
 erolove
@@ -1364,6 +1361,7 @@ exelon
 exit.asp
 extra gry
 extreme-sport
+extremely}
 f_blog_id=
 facebook-fan
 facebook-traffic
@@ -1587,6 +1585,7 @@ golfplaza
 golfs
 gomaile.co
 good-for-
+good}
 goodbye.asp
 googlebind
 googleing
@@ -1610,6 +1609,7 @@ goyardbag
 gratuitos
 great-essay
 great-things
+great}
 greatbet
 green-smoker
 greensmoker
@@ -1715,6 +1715,7 @@ horsesimul
 hot-girl
 hot-love
 hot-sale
+hotburberry
 hotel-deal
 hotelbritannia
 hoteli
@@ -2016,11 +2017,15 @@ live-article
 livearticle
 livesex
 loan-direct
+loan-online
 loan.net
 loanalys
 loandirect
 loanfast
+loanonline
+loans-online
 loans.co
+loansonline
 locate-a-cell-phone
 locate-cell-phone
 locateacellphone
@@ -2482,6 +2487,7 @@ paulsmithsa
 paulsmithsu
 paxil
 pay_day_loan
+payday loan
 payday-loan
 payday-on
 payday.co
@@ -2958,6 +2964,7 @@ sohbet
 solução
 solutionsinc
 soma.htm
+sonicsearch
 sort_index
 soup.io/post
 sozedde.co
@@ -3048,6 +3055,7 @@ testosterone-booster
 testrun
 testuser
 thailove
+thanks.i
 thatprofit
 the_benefits_of
 the-benefits-of
@@ -3208,6 +3216,7 @@ uggssite
 uggsusa
 uggusa
 uk-handbag
+uk-loan
 uk-mall
 uk-mart
 uk-sale
@@ -3216,6 +3225,7 @@ uk.webeden
 uk/mulberry
 ukclsale
 ukhandbag
+ukloan
 ukmall
 ukmart
 ukonline.co
@@ -3245,12 +3255,14 @@ userinfo.php
 ut.ag/
 valium
 valtrex
+valueble
 vanessa-bruno-sac
 vanessabrunosac
 vardenafil
 vendita
 venlafaxine
 versicherungsmakler
+very}
 vestidos
 vetement-femme
 vetement-homme
@@ -3329,6 +3341,7 @@ webcambabe
 webcamsex
 webhosting
 weblinks
+weblog}
 webnode.co
 webnode.cz
 webnode.fr
@@ -3338,6 +3351,7 @@ webnode.nl
 webpage
 webpromotion
 websex
+website}
 websiterecord
 websolution
 webviewconsult
@@ -3384,6 +3398,8 @@ women-date
 womendate
 woodgundy.us
 wordpressthemes
+workout-sale
+workoutsale
 worldugg
 worldwideugg
 wow-gold
