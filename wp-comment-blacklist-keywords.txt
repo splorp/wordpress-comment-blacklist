@@ -259,6 +259,7 @@ _vti_
 .ru/3.
 .ru/content
 .ru/forum
+.ru/images
 .ru/member
 .ru/profile
 .ru/service
@@ -328,6 +329,7 @@ _vti_
 /bag.sh/
 /banners-
 /bazar.
+/bbs/
 /better-
 /blog.htm
 /blog/blog
@@ -433,6 +435,7 @@ _vti_
 /ninnki
 /node/
 /note.php?
+/oakleycan
 /offering/
 /orgasm
 /page_
@@ -723,6 +726,7 @@ bagssale
 bagsstore
 bagstore
 bagsuk
+balenciagasingapore
 bankowoz
 bankrobber
 bazargorj
@@ -745,6 +749,7 @@ before-purchasing
 behaviour-driven
 belly-fat
 benzoclin
+benzogenerator
 berracom.ph
 best-diet
 best-direct
@@ -972,6 +977,7 @@ chaussure-homme
 chaussure-louboutin
 chaussure-puma
 chaussures-louboutin
+chcoin.co
 cheap-adobe
 cheap-chanel
 cheap-converse
@@ -1000,6 +1006,7 @@ cheapiphone
 cheapjacket
 cheapjersey
 cheapjorda
+cheapnike
 cheapoakley
 cheappandora
 cheapprada
@@ -1047,6 +1054,7 @@ cigsonline
 cigspromo
 ciproanti
 cjq
+ckgk
 clarisonic
 classic-ugg
 classicugg
@@ -1552,6 +1560,7 @@ giftsingapore
 giftssingapore
 gigantix.co
 girljp
+gkhk
 glamorousbag
 glasses-tokyo
 glassestokyo
@@ -1605,7 +1614,9 @@ goosevest
 gotowkowa
 gotowkowe
 goyard-bag
+goyard-online
 goyardbag
+goyardonline
 gratuitos
 great-essay
 great-things
@@ -1640,6 +1651,7 @@ gucciparis
 guccipurse
 guccireplica
 guccisale
+guccisingapore
 gucciten
 gucciuk
 gucciyu
@@ -1791,6 +1803,7 @@ injectionfacts
 injury-lawyer
 injurylawyer
 insanejournal
+insanity.php
 insanityworkout
 insdier
 inspired-handbag
@@ -1892,6 +1905,7 @@ jordan-sale
 jordankicks
 jordanretro
 jordansale
+jordansshoe
 jordjev
 jpcity.co
 jpconverse
@@ -2294,6 +2308,7 @@ nikeandshoe
 nikedunk
 nikefreerun
 nikefreerunjp
+nikejordan
 nikemain
 nikepasch
 nikeshop
@@ -2646,6 +2661,7 @@ prozac-
 prywatne
 przepisane
 przeprowadzki
+ptx
 publica-foto
 publikacja
 pufy.
@@ -2782,6 +2798,7 @@ róże
 rozszerzona
 rpg-online
 rpgonline
+rss.htm
 runescape
 rusztowania
 s.webeden
@@ -2912,6 +2929,7 @@ shopping+
 shopping24
 shoppingcenter.co
 shoppingugg
+shorttermloan
 show_info
 show_member_post
 shownews.
@@ -3043,7 +3061,10 @@ teach-you-every
 teamproshop.co
 teen-sex
 teensex
+tegs:
 telepon-
+template.co
+templates.co
 templerun-
 templerun1
 tenormin
@@ -3327,6 +3348,7 @@ warehouse.us
 warmjp
 warszawa
 watch-replica
+watchhoshi
 watchreplica
 water-weight
 way-to-enjoy
@@ -3394,6 +3416,7 @@ windows7key
 windowsphone.co
 wingsshop
 without-investment
+wjc
 women-date
 womendate
 woodgundy.us
@@ -3589,6 +3612,7 @@ zyvox
 андроид
 банков
 без
+бензогенератор
 бесплатн
 веб
 дешево
@@ -3644,6 +3668,7 @@ zyvox
 спама
 справкой
 статей
+статья
 трудоустройства
 удивительные
 услуг
@@ -3666,4 +3691,5 @@ zyvox
 ミ
 モンブラン
 化粧
+腕時計
 通販
