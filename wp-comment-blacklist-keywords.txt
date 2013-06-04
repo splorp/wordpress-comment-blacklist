@@ -153,6 +153,7 @@ _vti_
 -strony-
 -strony.
 -sunglasses-
+-sunglasses/
 -supplements-
 -symptoms-
 -tax-attorney
@@ -286,6 +287,8 @@ _vti_
 /_notes/
 /?cat
 /?document_
+/?l1/
+/?l2/
 /?new-
 /?uid-
 //act-
@@ -302,10 +305,12 @@ _vti_
 //generic
 //groups
 //gucci
+//leverage
 //longchamp
 //onsale
 //paginas
 //podcast.
+//prosport
 //reality
 //royal-
 //shop
@@ -508,6 +513,8 @@ _vti_
 /view_my/
 /web-design/
 /wholesale-
+/wiki/index.
+/wiki/user_talk
 /x.co
 /xchange
 /xn--
@@ -533,6 +540,7 @@ _vti_
 %url%
 +jersey
 <a>
+|porno
 0000mail
 000mail
 1.cfm
@@ -1287,6 +1295,7 @@ doudoune
 downjacket
 download.pl
 doxycycline
+dqd
 drdreheadphone
 dre-beats
 dresshop
@@ -1536,6 +1545,7 @@ generatingcash
 genuine-pandora
 genuinepandora
 germanylove
+gestione
 get_rid_of
 get-boot
 get-facebook
@@ -1573,6 +1583,7 @@ glucophage
 glutamina
 glyburide
 gmaiil
+gnlaser
 gojp.co
 gold-account
 gold-coin
@@ -1629,6 +1640,8 @@ group_home.php
 grow-cannabis
 growth-hormone
 growthhormone
+gruzowe
+gruzu
 gry flesh
 gry online
 gucchi
@@ -1945,6 +1958,7 @@ kors-outlet
 korsoutlet
 kosmetyc
 kosmetyki
+kosze
 kreddyt
 kreddyyt
 kredit
@@ -1962,6 +1976,7 @@ lamictal
 lamisil
 lariam
 laser-therapy
+lasercuttingmachine
 laseriv
 laserowe
 lasertherapy
@@ -2198,6 +2213,7 @@ mixedrace
 mkhandbag
 mkoutlet
 mmcenter.in
+mobi/news
 mobile-phone
 mod=viewthread
 modafinil
@@ -2250,8 +2266,12 @@ msgnum
 much-boot
 much-gucci
 muchgucci
+mulberry-fashion
 mulberry-handbag
+mulberry-purse
+mulberryfashion
 mulberryhandbag
+mulberrypurse
 muscle-supplement
 musclesupplement
 muzyczna
@@ -2340,11 +2360,13 @@ notraty
 now.in
 nude-ass
 nude.htm
+oakley-active
 oakley-cheap
 oakley-outlet
 oakley-store
 oakley-straight
 oakley-sunglass
+oakleyactive
 oakleycheap
 oakleyoutlet
 oakleypascher
@@ -2552,6 +2574,7 @@ php?article
 php?rowstart
 php?showuser=
 php?title=
+php5?title
 phpbb2/profile
 phpbb2/user
 phpinfo.php
@@ -3038,6 +3061,8 @@ suprax
 supreme-essay
 supremeessay
 surprisezone
+suwa³ki
+swarovski
 swarovskijapan
 swarovskijp
 syaneru
@@ -3329,6 +3354,7 @@ vitamin-for
 vitaminfor
 vitamins-for
 vitaminsfor
+vitamix
 vivekkunwar
 vkk
 vps
@@ -3421,6 +3447,7 @@ women-date
 womendate
 woodgundy.us
 wordpressthemes
+worki
 workout-sale
 workoutsale
 worldugg
@@ -3478,6 +3505,7 @@ www.handbag
 www.hermes
 www.herveleger
 www.hot
+www.howmuch
 www.information
 www.instyler
 www.isabelmarant
@@ -3518,6 +3546,7 @@ www.win
 www.wtf
 wypoczynku
 wyposazenie
+wywóz
 wzzx
 x.ru
 xalatan
@@ -3586,6 +3615,7 @@ zaklady
 zanaflex
 zantac
 zapraszam
+zawieszki
 zboard.php
 zdrowie
 zgz
@@ -3687,9 +3717,11 @@ zyvox
 トリーバーチ
 ニューバランス
 バッグ
+ブーツ
 マークジェイコブス
 ミ
 モンブラン
+ルブタン
 化粧
 腕時計
 通販
