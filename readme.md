@@ -20,7 +20,7 @@ Booyah.
 
 ### Still need convincing?
 
-The blacklist was written up by [John Saddington](http://john.do/) over at [WP Daily](http://john.do/) in the enticingly named post [Die Spam! Blacklist That Shiz with This Gist!](http://wpdaily.co/comment-blacklist-gist/)
+The blacklist was written up by [John Saddington](http://john.do/) over at [WP Daily](http://wpdaily.co/) in the enticingly named post [Die Spam! Blacklist That Shiz with This Gist!](http://wpdaily.co/comment-blacklist-gist/)
 
 ### Questions?
 
