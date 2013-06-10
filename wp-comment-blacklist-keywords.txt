@@ -1,4 +1,5 @@
 _coupon_
+_html
 _marketing_
 _profitable_
 _strategies_
@@ -76,6 +77,7 @@ _vti_
 -handbag-
 -handbags-
 -herbal-
+-hermes-
 -income-
 -infotain
 -iphone-5-
@@ -185,6 +187,7 @@ _vti_
 -wholesale.
 -women-jersey
 -xchange
+?/page
 ?add=true
 ?browse-
 ?domain=
@@ -456,6 +459,7 @@ _vti_
 /prada_
 /prada.htm
 /product/0/
+/produkter/
 /profil/
 /profile.php
 /profile/blog/
@@ -498,8 +502,10 @@ _vti_
 /the-sale
 /the-shock
 /thebest
+/thread-
 /tmp/
 /trac/ticket/
+/trackback
 /ugg-
 /uggs-
 /unlock-iphone
@@ -544,6 +550,7 @@ _vti_
 |porno
 0000mail
 000mail
+1-1.htm
 1.cfm
 1.info
 1@1
@@ -579,6 +586,8 @@ _vti_
 8purse
 49ers-online
 49ersonline
+123.com
+404.php
 911.co
 2013.de
 2013.or
@@ -588,11 +597,13 @@ a-powerful-way
 a1.co
 aaabbb
 abcwatch
+abercrombiee
 abilify
 acai-
 acaiberry
 accouchement
 account.php?id=
+accupril
 accutane
 acertemail.co
 acetazolamide
@@ -702,6 +713,7 @@ asicsshoe
 asikkusu
 asp?folder=
 asp?id
+astral-diamond
 ativan
 atomoxetine
 atorvastatin
@@ -750,6 +762,7 @@ beatbydre
 beats-dr-dre
 beats-dre
 beats+by+dre
+beatsbydrdre
 beatsbydre
 beatscustom
 beatsdrdre
@@ -790,6 +803,7 @@ big-site
 big.site
 bigcock
 bigreplica
+billig
 birkenstocksandal
 bitartrate
 biuro-solido
@@ -842,6 +856,7 @@ braceletsale
 brand-corner
 brand-jp
 brandjp
+bravemed
 brazzer
 breastactive
 bridalshop
@@ -1329,6 +1344,7 @@ egoodshop
 einkommen
 ejaculationpharm
 el-gordo.c
+elamale
 elavil
 elite-men
 eloans
@@ -1533,6 +1549,7 @@ furnituresale
 furosemide
 furworld.ru
 gabapentin
+gallergrind
 game-casino
 game-copy
 gamecopy
@@ -1566,6 +1583,8 @@ getmassive
 getridof
 gettranslate
 getyou.asp
+ghd-pascher
+ghdpascher
 ghduk
 giants-shop
 giantsshop
@@ -1702,6 +1721,8 @@ haveasite
 hcg-boost
 hcgboost
 heel_pads
+hellllo
+helllo
 hello-sex
 hellosex
 help-tax
@@ -1728,10 +1749,12 @@ high.cc
 highbloodpressure
 highprotein
 hitfit
+hogansito
 home-based
 home-loan
 home-remedies
 home-remedy
+home.php?
 homebased
 homeloan
 homeremedies
@@ -1776,6 +1799,7 @@ howtospeed
 howtounlock
 howtowin
 hppp
+hqsteroid
 html?r=
 hungurian
 huperzine
@@ -2047,6 +2071,8 @@ lionsfan
 lionsjersey
 lipitor
 lisinopril
+lisseur-pascher
+lisseurpascher
 listasegment
 live-article
 livearticle
@@ -2101,6 +2127,7 @@ louboutinshoe
 louboutinuk
 louis_vuitton
 louis-vuitton
+louisvuit.
 louisvuitton
 louiswuitton
 lovelv
@@ -2186,6 +2213,7 @@ med-shop
 medbaz
 medeniz
 medicarefraud
+medigital
 medikal.co
 medphrases
 medshop
@@ -2222,6 +2250,7 @@ mkoutlet
 mmcenter.in
 mobi/news
 mobile-phone
+mod=space
 mod=viewthread
 modafinil
 mode=viewprofile
@@ -2432,6 +2461,7 @@ onlinekredit
 onlinemed
 onlinemoney
 onlineoutlet
+onlinepoker
 onlines.co
 onlinesale
 onlinesales.co
@@ -2596,6 +2626,7 @@ playfree
 playonline
 plazajp
 pleease
+plumbingservice
 plus-size
 plussize
 plytki
@@ -2819,6 +2850,7 @@ roger-vivier
 rokettube
 rolex-watch
 rolexwatch
+roofingcontractor
 rosettastoneeasy
 rosuvastatin
 rotating-hot-iron
@@ -2983,8 +3015,10 @@ sitecode
 sitemap
 sizegenetic
 skelaxin
+skjønnhetsprodukter
 sklep
 sklepy
+skup,aut
 slongchamp
 smallbusinessplan
 smart-drug
@@ -3037,6 +3071,7 @@ steelersfan
 stodiobeat
 stodiosbeat
 stop-smoking
+store.org
 storejp
 story.php?id
 strategies-for
@@ -3174,6 +3209,7 @@ topcontractor
 topforum
 topic.php?
 topiramate
+topman123
 topmuscle
 toprank
 topsearch
@@ -3219,6 +3255,7 @@ tworzenie
 uauaua
 ubezpieczenia
 ubirkin
+ufficiales
 ugboos
 ugbos
 ugg-best
@@ -3310,6 +3347,7 @@ valium
 valtrex
 valueble
 vanessa-bruno-sac
+vanessabruno
 vanessabrunosac
 vardenafil
 vendita
@@ -3397,6 +3435,7 @@ webcamsex
 webhosting
 weblinks
 weblog}
+webnode.cn
 webnode.co
 webnode.cz
 webnode.fr
@@ -3418,6 +3457,7 @@ weeklyprofit
 weight-loss
 weight-work
 weightloss
+weightnatural
 welcometonginx
 wellbutrin
 werbegeschenke
@@ -3717,6 +3757,7 @@ zyvox
 юридической
 アウトレット
 アルマーニ
+ヴェネタ
 グッチ
 クラシック
 クロエ
@@ -3725,10 +3766,17 @@ zyvox
 ニューバランス
 バッグ
 ブーツ
+ボッテガ
 マークジェイコブス
 ミ
 モンブラン
 ルブタン
 化粧
+博彩
+百家乐
+脿
 腕時計
+茅
+財布
+赌场
 通販
