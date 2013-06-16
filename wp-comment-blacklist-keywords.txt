@@ -436,6 +436,7 @@ _vti_
 /mediawiki/
 /medical
 /medication-
+/member/
 /menu/menu
 /montblanc.
 /mortgage
@@ -553,6 +554,7 @@ _vti_
 %url%
 +jersey
 <a>
+>www<
 |porno
 0000mail
 000mail
@@ -600,6 +602,7 @@ _vti_
 2013.or
 2013x.
 123456789
+â€
 a-powerful-way
 a1.co
 aaabbb
@@ -2758,6 +2761,7 @@ ralphlaurenuk
 ramipril
 rank-build
 rankbuild
+ranking:
 rapid-pay
 rapidpay
 rasalinga
