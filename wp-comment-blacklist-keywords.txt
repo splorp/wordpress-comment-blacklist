@@ -602,9 +602,9 @@ _vti_
 2013.or
 2013x.
 123456789
-â€
 a-powerful-way
 a1.co
+â€
 aaabbb
 abcwatch
 abercrombiee
@@ -1437,6 +1437,7 @@ fastcash
 fastloan
 fat-loss
 fatloss
+favorite website
 fb-traffic
 fbfans
 fblike
@@ -1641,6 +1642,7 @@ good}
 goodbye.asp
 googlebind
 googleing
+googleusashop
 goose-canada
 goose-jakke
 goose-vest
@@ -3031,6 +3033,7 @@ skelaxin
 skjønnhetsprodukter
 sklep
 sklepy
+skup-aut
 skup,aut
 slongchamp
 smallbusinessplan
@@ -3084,6 +3087,7 @@ steelersfan
 stodiobeat
 stodiosbeat
 stop-smoking
+store-service
 store.org
 storejp
 strategies-for
@@ -3133,6 +3137,8 @@ tamsulosin
 tapicerowane
 targeted-traffic
 targetedtraffic
+tarif-malin
+tarifmalin
 tastegood.co
 tax-debt
 taxbook
