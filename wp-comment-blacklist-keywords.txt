@@ -212,6 +212,7 @@ _vti_
 .co.jp/shop/
 .com/member/
 .com/official
+.com/online
 .com/site-
 .com/user
 .coupon
@@ -237,6 +238,7 @@ _vti_
 .magix.net
 .mobi/?
 .moncler-
+.net/online
 .net/user
 .nikeshox
 .online.pl
@@ -621,6 +623,7 @@ acnetreatment
 acomplia
 action=profile
 action=view
+activation code
 actonel
 acyclovir
 ad-wiki
@@ -815,6 +818,7 @@ bigcock
 bigreplica
 billig
 birkenstocksandal
+bisapp
 bitartrate
 biuro-solido
 biz.pl
@@ -884,6 +888,7 @@ burberryhand
 burberryoutlet
 burberrysale
 burberrysold
+burberrystore
 burberrysuto
 burch-outlet
 burch-sale
@@ -953,6 +958,7 @@ canadagooses-outlet
 canadagoosesfactory
 canadagoosesoutlet
 canadaoutlet
+candycrush
 cannabis-seed
 captchasnip
 card-debt
@@ -1053,6 +1059,7 @@ cheapugg
 cheat.co
 cheats-
 cheats.co
+cheatss
 cheesefruit
 chettelongchamp
 chinajorda
@@ -1497,6 +1504,7 @@ forboots
 forex
 forfree
 forjp.co
+formaldresses
 forsale-japan
 forsalego
 forsalejapan
@@ -1593,6 +1601,7 @@ getmassive
 getridof
 gettranslate
 getyou.asp
+gfband
 ghd-pascher
 ghdpascher
 ghduk
@@ -1735,6 +1744,7 @@ heel_pads
 hellllo
 helllo
 hello-sex
+hellodresses
 hellosex
 help-tax
 helpful-information
@@ -1759,6 +1769,7 @@ high-protein
 high.cc
 highbloodpressure
 highprotein
+hingenieur
 hitfit
 hogansito
 home-based
@@ -1785,6 +1796,7 @@ hotelmanchester
 hotgirl
 hotlove
 hotsale
+hotsunglasses
 hourpayday
 how_do_you
 how-do-you
@@ -1971,6 +1983,7 @@ kaffee-maschine
 kaffeemaschine
 kamagra
 kanalizacyjne
+kanyewestsun
 kardashian
 karpaczwsieci
 karuteie
@@ -2014,6 +2027,7 @@ lacoste-outlet
 lacosteoutlet
 lamictal
 lamisil
+lancelad
 lariam
 lasart.es
 laser-therapy
@@ -2418,6 +2432,7 @@ oakley-straight
 oakley-sunglass
 oakleyactive
 oakleycheap
+oakleymedusa
 oakleyoutlet
 oakleypascher
 oakleys.net
@@ -2542,6 +2557,7 @@ outletssale
 outletstore
 outletusa
 outletweb
+outplacements
 outsourcing-compan
 ovariancyst
 ownersinsur
@@ -2769,6 +2785,8 @@ rapidpay
 rasalinga
 rastreadores
 ravensfan
+ray-ban-aviator
+ray-ban-folding
 rayban-cheap
 raybansuk
 raybansunglass
@@ -2882,6 +2900,7 @@ s.webeden
 sacguess
 saclongchamp
 sacsguess
+sacslancel
 sale-cheap
 sale-factory
 sale-jp
@@ -3082,8 +3101,10 @@ spyder-ski
 spyderjackets
 spyderski
 squidoo.co
+starsunglasses
 statuscode=
 steelersfan
+stevewynnloan
 stodiobeat
 stodiosbeat
 stop-smoking
@@ -3098,6 +3119,7 @@ stromectol
 studiobeat
 studiosbeat
 stumpmaster
+stunningq
 stylomontblanc
 stylowe
 succeed-online
@@ -3188,6 +3210,7 @@ tiki-index
 timberlandboot
 time-synchronisation.co.uk
 timeshare
+tingenieur
 tinytowtimmy.co
 tipblog
 tips-for-
@@ -3252,6 +3275,7 @@ trainingonline
 trainingpro
 traitement-des
 tramadol
+transform-vhs
 travel.pl
 traveltrip
 trazodone
@@ -3276,6 +3300,8 @@ tworzenie
 uauaua
 ubezpieczenia
 ubirkin
+ucoz.co
+ucoz.ru
 ufficiales
 ugboos
 ugbos
@@ -3378,6 +3404,7 @@ vestidos
 vetement-femme
 vetement-homme
 veterinarnaya
+vhs-to-digital
 via-internet
 viagera
 viagra
