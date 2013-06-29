@@ -421,7 +421,9 @@ _vti_
 /image/cache/
 /includes/
 /index.php/
+/indexdic
 /infopages/
+/iso_miscs/
 /join.php
 /journal/item/
 /js/
@@ -566,6 +568,7 @@ _vti_
 %url%
 +jersey
 <a>
+=utf8
 >www<
 |porno
 0000mail
@@ -671,11 +674,13 @@ agencje-
 air-jorda
 airjorda
 airmax.htm
+airmaxdeutsch
 airmaxshoe-
 airmaxshoes-
 airport--
 airport-transport
 alendronate
+alkotla
 allbestedmed
 allbestmed
 allworkhome
@@ -898,12 +903,14 @@ burberry-outlet
 burberry-sale
 burberry.blog
 burberrybi
+burberryblack
 burberryhand
 burberryoutlet
 burberrysale
 burberrysold
 burberrystore
 burberrysuto
+burberrytaschen
 burch-outlet
 burch-sale
 burchoutlet
@@ -924,6 +931,7 @@ busythumb
 butnow
 buy-cheap
 buy-cig
+buy-gucci
 buy-hair
 buy-movie
 buy-now
@@ -1035,6 +1043,7 @@ chaussures-louboutin
 chcoin.co
 cheap galaxy
 cheap iphone
+cheap oakley
 cheap-adobe
 cheap-chanel
 cheap-converse
@@ -1335,6 +1344,7 @@ djtool
 do=blog
 dobrucki.co
 dobrucki.pl
+docid=
 doctermarten
 docteurdrebeat
 document_srl
@@ -1715,6 +1725,7 @@ gry flesh
 gry online
 gucchi
 gucci--
+gucci-glass
 gucci-outlet
 gucci-purse
 gucci-replica
@@ -1956,6 +1967,7 @@ jacketsale
 jacketsforkids
 jacketsformen
 jacketsforwomen
+jagowho
 japanconverse
 japandrmartens
 japaneseconverse
@@ -2035,6 +2047,9 @@ konkurs
 konsultan-seo
 kontakta-oss
 kopia-zapasowa
+kors outlet
+kors runway
+kors uk
 kors-outlet
 kors-watch
 korsoutlet
@@ -2362,6 +2377,7 @@ msgnum
 much-boot
 much-gucci
 muchgucci
+mulberry handbag
 mulberry-fashion
 mulberry-handbag
 mulberry-purse
@@ -2456,6 +2472,8 @@ notraty
 now.in
 nude-ass
 nude.htm
+oakley frogskin
+oakley sunglass
 oakley-active
 oakley-cheap
 oakley-outlet
@@ -2547,6 +2565,8 @@ osobistości
 otonanocoach
 otoplasty
 outelt
+outlet handbag
+outlet oakley
 outlet_store
 outlet-austr
 outlet-canad
@@ -2727,6 +2747,10 @@ pozycjonowanie
 pozyczka
 pozyczki
 pp-classified
+prada bag
+prada dress
+prada handbag
+prada outlet
 prada-bag
 prada-new
 prada-outlet
@@ -2932,6 +2956,7 @@ runescape
 rusztowania
 s.webeden
 sabo ring
+sabo sale
 sacguess
 saclongchamp
 sacsguess
@@ -3171,6 +3196,8 @@ suggested-website
 sumatriptan
 sunchannel
 sunglassau
+sunglasses cheap
+sunglasses outlet
 sunglasses.us
 sunglassesau
 sunglassesok
@@ -3243,6 +3270,8 @@ themegenerat
 thetopdog
 things-consumers
 this-review
+thomassabosale
+thomassabouk
 thread_id
 threadid
 thumb.jpeg
@@ -3405,6 +3434,7 @@ uk-sale
 uk.co.uk
 uk.webeden
 uk/mulberry
+uk/prada
 ukclsale
 ukhandbag
 ukloan
@@ -3440,6 +3470,7 @@ valueble
 vanessa-bruno-sac
 vanessabruno
 vanessabrunosac
+vaporizer pen
 vardenafil
 vendita
 venlafaxine
@@ -3516,6 +3547,7 @@ way-to-enjoy
 wdmypass
 web-hosting
 web-promotion
+web-site
 web-solution
 web-traffic
 web-view
