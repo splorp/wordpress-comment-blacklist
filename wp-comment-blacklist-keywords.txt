@@ -573,6 +573,7 @@ _vti_
 1@3
 1minutesite
 1test.
+1to1
 2.cfm
 2.info
 2@1
@@ -592,6 +593,7 @@ _vti_
 4all
 4cheap
 4ever
+4firefall
 4less
 4sale
 4u.com
@@ -1521,6 +1523,7 @@ fluoxetine
 fluticasone
 fobur.in
 foodpyramid
+footdiscount
 for_your_needs
 for-interactive
 for-money
@@ -1579,6 +1582,7 @@ freeonline
 freepoker
 freesale
 freesimcard
+freeslotmachine
 freevideo
 freewebsite
 freshwaterpearl
@@ -1752,13 +1756,19 @@ hairgrowth
 hairmodel
 hairremov
 hairstraight
+handbag outlet
 handbag-for
+handbag-outlet
 handbagfor
 handbagout
+handbagoutlet
+handbags outlet
 handbags-for
+handbags-outlet
 handbagsale
 handbagsfor
 handbagsout
+handbagsoutlet
 handbagssale
 handbagsu
 handbagu
@@ -2040,12 +2050,19 @@ komputery
 konkurs
 konsultan-seo
 kontakta-oss
+kopfhoerer
 kopia-zapasowa
+kors glass
+kors handbag
 kors outlet
 kors runway
 kors uk
+kors-glass
+kors-handbag
 kors-outlet
 kors-watch
+korsglass
+korshandbag
 korsoutlet
 korswatch
 kosmetyc
@@ -2733,6 +2750,7 @@ pornsex
 post.much
 postcarf
 posttestimonial
+powerbank
 pozew.
 poznaj-seo
 poznajseo
@@ -3469,6 +3487,7 @@ vaporizer pen
 vardenafil
 vendita
 venlafaxine
+ventolin inhale
 versicherungsmakler
 very}
 vestidos
@@ -3899,6 +3918,7 @@ zyvox
 脿
 腕時計
 茅
+行動電源
 財布
 赌场
 通販
