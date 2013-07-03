@@ -422,6 +422,7 @@ _vti_
 /infopages/
 /iso_miscs/
 /join.php
+/jordan1
 /journal/item/
 /js/
 /konsultan
@@ -469,6 +470,7 @@ _vti_
 /pozew
 /prada_
 /prada.htm
+/privat-
 /product/0/
 /produkter/
 /profil/
@@ -693,6 +695,7 @@ amzon.co
 anabolic
 androidclan
 androidmp3
+aneswr
 anonymous-download
 anonymousvpn
 answertraffic
@@ -1810,6 +1813,7 @@ highbloodpressure
 highprotein
 hingenieur
 hitfit
+hleepd
 hogansito
 home-based
 home-loan
@@ -2006,6 +2010,7 @@ jimmychoo
 jjl
 jogos
 john-varvatos
+jordan retro
 jordan-retro
 jordan-sale
 jordankicks
@@ -2665,6 +2670,7 @@ paydayon
 paypal-cash
 paypalcash
 payroll-calc
+pbrolme
 pc-access
 pcaccess
 penisadv
@@ -3292,6 +3298,7 @@ thyromine
 tiffany-outlet
 tiffanyoutlet
 tiffiny
+tihnikng
 tiki-index
 timberlandboot
 time-synchronisation.co.uk
