@@ -349,7 +349,7 @@ _vti_
 /blog/owner
 /blog/post
 /blog/view
-/blogid=
+/blogid
 /blogs/entry
 /blogs/item
 /blogs/post
@@ -423,6 +423,10 @@ _vti_
 /iso_miscs/
 /join.php
 /jordan1
+/jordan2
+/jordan3
+/jordan4
+/jordan5
 /journal/item/
 /js/
 /konsultan
@@ -455,6 +459,7 @@ _vti_
 /nike-
 /ninnki
 /node/
+/oakley.
 /oakleycan
 /offering/
 /orderpage/
@@ -547,7 +552,7 @@ _vti_
 &#969;
 &#1072;
 &#1075;
-&article=
+&article
 &kappa;
 &omicron;
 #file
@@ -736,9 +741,10 @@ asdf
 asdf@
 asicsshoe
 asikkusu
-asp?folder=
+asp?folder
 asp?id
 astral-diamond
+aswenr
 ativan
 atomoxetine
 atorvastatin
@@ -1140,6 +1146,7 @@ clsale
 clshoe
 club-boy
 clubboy
+cnoesfs
 coach-bag
 coach-outlet
 coach-store
@@ -1443,7 +1450,7 @@ exit.asp
 extra gry
 extreme-sport
 extremely}
-f_blog_id=
+f_blog_id
 facebook-fan
 facebook-traffic
 facebookfan
@@ -1463,6 +1470,7 @@ fakerayban
 falsedoc
 falsepassport
 fanshome
+farmacias
 fashion-boot
 fashion-classic
 fashionboot
@@ -1545,7 +1553,7 @@ forum.php
 forum/1/topic
 forum/ftopic
 forum/post
-forums?func=
+forums?func
 forums/1/topic
 foryou.co
 fpq
@@ -1590,6 +1598,8 @@ freevideo
 freewebsite
 freshwaterpearl
 frlongchamp
+fruta planta
+frutaplanta
 func=view
 funds.ru
 funsneaker
@@ -1660,6 +1670,7 @@ glucophage
 glutamina
 glyburide
 gmaiil
+gneuienly
 gnlaser
 gojp.co
 gold-account
@@ -1839,7 +1850,7 @@ hotelmanchester
 hotgirl
 hotlove
 hotsale
-hotsunglasses
+hotsunglass
 hourpayday
 how_do_you
 how-do-you
@@ -1866,7 +1877,7 @@ howtowin
 hppp
 hqsteroid
 html-article
-html?r=
+html?r
 hungurian
 huperzine
 hyclate
@@ -2010,6 +2021,7 @@ jimmychoo
 jjl
 jogos
 john-varvatos
+jordan outlet
 jordan retro
 jordan-retro
 jordan-sale
@@ -2489,6 +2501,7 @@ now.in
 nude-ass
 nude.htm
 oakley frogskin
+oakley glass
 oakley sunglass
 oakley-active
 oakley-cheap
@@ -2637,6 +2650,7 @@ page.tl
 pagss.htm
 pain-relief.
 painrelief.
+pandora charm
 pandora-bracelet
 pandora-charm
 pandora-jewelry
@@ -2709,8 +2723,8 @@ phonescanada
 phonesforsale.co
 php?article
 php?rowstart
-php?showuser=
-php?title=
+php?showuser
+php?title
 php5?title
 phpbb2/profile
 phpbb2/user
@@ -2803,7 +2817,7 @@ professional-ugg
 professionals.co
 professionalugg
 profile_blogs
-profile_id=
+profile_id
 profile/?u
 profissionais
 profit-margin
@@ -2885,8 +2899,8 @@ redirect_to
 redirect.asp
 redsoleshoe
 reeview
-ref_title=
-ref_url=
+ref_title
+ref_url
 regarfing
 registrator
 registry-clean
@@ -2907,6 +2921,7 @@ rekla.
 reklamowe
 rekreacja
 reliefsecret
+rellay
 rent_in
 rent-car
 rentinsur
@@ -3072,6 +3087,7 @@ shanghai-escort
 shanghai-massage
 shanghaiescort
 shanghaimassage
+shanrig
 shed-fat
 shoe-japan
 shoe.asp
@@ -3131,6 +3147,7 @@ site.co
 site.in
 sitecode
 sitemap
+siutpd
 sizegenetic
 skelaxin
 skjønnhetsprodukter
@@ -3166,6 +3183,7 @@ solução
 solutionsinc
 soma.htm
 sonicsearch
+sooemne
 sort_index
 soup.io/post
 sozedde.co
@@ -3186,8 +3204,8 @@ spyder-ski
 spyderjackets
 spyderski
 squidoo.co
-starsunglasses
-statuscode=
+starsunglass
+statuscode
 steelersfan
 stevewynnloan
 stodiobeat
@@ -3214,6 +3232,8 @@ sucette
 suggested-website
 sumatriptan
 sunchannel
+sunglass cheap
+sunglass outlet
 sunglassau
 sunglasses cheap
 sunglasses outlet
@@ -3611,7 +3631,7 @@ wheels.org
 where-to-buy
 wherecani
 wheretobuy
-whichpage=
+whichpage
 whitehat
 wholesale-cheap
 wholesale-mac
