@@ -339,6 +339,7 @@ _vti_
 /anonymous-
 /authentic
 /baby.
+/babydoll.
 /bag.sh/
 /banners-
 /bazar.
@@ -358,6 +359,7 @@ _vti_
 /burberry2
 /burberry3
 /burberry4
+/bustier.
 /buy.
 /bvlgari-
 /campaign-
@@ -388,6 +390,7 @@ _vti_
 /errorx/
 /features-
 /filmy
+/flash/
 /foot-care
 /forum/membership
 /forum/topic
@@ -465,6 +468,9 @@ _vti_
 /orderpage/
 /orgasm
 /page_
+/page1.
+/page2.
+/page3.
 /pg/blog/
 /pg/forum/
 /pg/profile/
@@ -901,6 +907,7 @@ bruiseviolet
 btshoe
 bukmacher
 bullion-account
+burberry factory
 burberry-hand
 burberry-outlet
 burberry-sale
@@ -1044,6 +1051,7 @@ chaussure-louboutin
 chaussure-puma
 chaussures-louboutin
 chcoin.co
+cheap air
 cheap galaxy
 cheap iphone
 cheap oakley
@@ -1253,6 +1261,7 @@ dataz
 dating-guide
 datingdirect
 datingguide
+day loan
 daytrade
 daytrading
 ddq
@@ -1263,6 +1272,7 @@ dealsus
 dealuk
 dealus
 dear-lover
+dearlover
 debt_settlement
 debt-help
 debt-management
@@ -1491,6 +1501,7 @@ features.cfm
 femmes-canada-goose
 femmescanadagoose
 fenoma
+fenteetum
 ferra-gamo
 ferragamoshop
 ffv
@@ -1891,6 +1902,7 @@ hyzaar
 ï¿½
 ia€?ll
 imalook
+imitrex
 implanty
 in-disguise
 income.in
@@ -2016,6 +2028,7 @@ jerseys4you
 jerseysforyou
 jerseywhite
 jeweline.
+jewelrybest
 jimmy-choo
 jimmychoo
 jjl
@@ -2069,11 +2082,16 @@ konsultan-seo
 kontakta-oss
 kopfhoerer
 kopia-zapasowa
+kors aust
+kors brasil
+kors france
 kors glass
 kors handbag
 kors outlet
+kors replica
 kors runway
 kors uk
+kors wallet
 kors-glass
 kors-handbag
 kors-outlet
@@ -2117,6 +2135,7 @@ learningxchange
 learnpianohere
 lebronshoe
 lebronxshoe
+leg-wear
 legal-steroid
 legalbud
 legalsteroid
@@ -2247,6 +2266,11 @@ luxury-brand
 luxury-replica
 luxurybrand
 luxuryreplica
+lv aust
+lv bag
+lv brasil
+lv factory
+lv france
 lv-bag
 lv-discount
 lv-handbag
@@ -2730,7 +2754,9 @@ phpbb2/profile
 phpbb2/user
 phpinfo.php
 pignee
+pillonline
 pills.co
+pillsonline
 piscine
 plavix
 play-free
@@ -3155,6 +3181,7 @@ sklep
 sklepy
 skup-aut
 skup,aut
+slimpill
 slongchamp
 smallbusinessplan
 smart-drug
@@ -3564,6 +3591,8 @@ vitamix
 vivekkunwar
 vkk
 vps
+vuitton aust
+vuitton factory
 vuitton-usa
 vuittonsac
 vuittonusa
