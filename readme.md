@@ -2,7 +2,7 @@
 
 Sometimes a simple solution is a better solution.
 
-Over the past couple of years, I have identified more than 3,900 phrases, patterns, and keywords commonly used by spammers and comment bots in usernames, email addresses, link text, and URIs. This blacklist is still a work in progress and there is certainly room for optimization. Suggestions are always appreciated.
+Over the past couple of years, I have identified nearly 4,000 phrases, patterns, and keywords commonly used by spammers and comment bots in usernames, email addresses, link text, and URIs. This blacklist is still a work in progress and there is certainly room for optimization. Suggestions are always appreciated.
 
 ### How Do I Use It?
 
