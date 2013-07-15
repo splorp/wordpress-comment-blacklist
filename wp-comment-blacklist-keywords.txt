@@ -53,6 +53,7 @@ _vti_
 -deluxe-
 -demo1
 -dieta-
+-dieta.
 -discount
 -doktora-
 -drmartens-
@@ -211,6 +212,7 @@ _vti_
 .cfmx
 .cgi
 .co.jp/shop/
+.com/cheap
 .com/member/
 .com/official
 .com/online
@@ -381,6 +383,7 @@ _vti_
 /contactus/contact
 /customcontrols/
 /default/member/
+/dieta.
 /dior_
 /dior.htm
 /drmartens-
@@ -687,6 +690,7 @@ airmaxshoe-
 airmaxshoes-
 airport--
 airport-transport
+akkuschrauber
 alendronate
 alkotla
 allbestedmed
@@ -1918,6 +1922,7 @@ income.in
 index.html?
 indexold
 indicators.co
+inexpensivevacation
 info/tag
 info/view
 infolist
@@ -2131,6 +2136,8 @@ laseriv
 laserowe
 lasertherapy
 lasix
+lauren outlet
+lauren sale
 laurenralph
 lawoffice.net
 le_link
@@ -2209,7 +2216,10 @@ loandirect
 loanfast
 loanonline
 loans-online
+loans.
 loans.co
+loans1.
+loans2.
 loansonline
 locate-a-cell-phone
 locate-cell-phone
@@ -2241,6 +2251,7 @@ lotto-tip
 lottotip
 louboutin canada
 louboutin outlet
+louboutin uk
 louboutin-chau
 louboutin-outlet
 louboutin-pas
@@ -2355,6 +2366,7 @@ meloxicam
 member.html?u
 member.php
 memberlist.php
+mequinol
 meratol
 mercantilism
 meridia
@@ -2384,6 +2396,7 @@ mkoutlet
 mmcenter.in
 mobi/news
 mobile-phone
+moczanowa
 mod=space
 mod=viewthread
 modafinil
@@ -2437,6 +2450,8 @@ much-boot
 much-gucci
 muchgucci
 mulberry handbag
+mulberry purse
+mulberry outlet
 mulberry-fashion
 mulberry-handbag
 mulberry-purse
@@ -2458,6 +2473,7 @@ myreview.co
 mytest
 myvirus
 najlepsze
+nakedteen
 naltrexone
 name-brand-
 namebrandpurse
@@ -2594,6 +2610,7 @@ online.in
 onlinebackup.
 onlineblog
 onlinebusiness
+onlinebuy
 onlinecasino
 onlinecert
 onlineinvest
@@ -2785,8 +2802,10 @@ poker-money
 pokera
 pokerchip
 pokermoney
+pokerstrategy
 pokies-online
 pokiesonline
+polo outlet
 polo_lacoste
 polo-lacoste
 polo-ralph
@@ -2886,6 +2905,7 @@ q=blog
 q=node
 qtrade
 queenjp
+quick loans
 quick_search
 quick-loan
 quickloan
@@ -2933,6 +2953,7 @@ redsoleshoe
 reeview
 ref_title
 ref_url
+refluks
 regarfing
 registrator
 registry-clean
@@ -3311,6 +3332,7 @@ teach-you-every
 teamproshop.co
 teen-sex
 teensex
+teenwebcam
 tegs:
 telepon-
 template.co
@@ -3318,8 +3340,10 @@ templates.co
 templerun-
 templerun1
 tenormin
+term loan
 termopane
 test.in
+test.tumblr
 test@
 test1.
 testosterone-booster
@@ -3431,6 +3455,7 @@ trazodone
 treatment.in
 trening
 tresore
+tretinoin
 trickphoto
 trimethoprim
 triviatrivia
@@ -3440,8 +3465,7 @@ try-these
 tubee.tv
 tucholskie
 turbo-vac
-turbosprezarek
-turbosprezarki
+turbosprezar
 turystyka
 tutorial.html
 tutoringand
@@ -3469,8 +3493,7 @@ ugg-usa
 ugg.htm
 uggatcanada
 uggbest
-uggboos
-uggboot
+uggboo
 uggbos
 uggcheap
 uggclog
@@ -3603,6 +3626,7 @@ vuitton deutsch
 vuitton factory
 vuitton france
 vuitton fx
+vuitton outlet
 vuitton sac
 vuitton taschen
 vuitton-usa
@@ -3610,6 +3634,7 @@ vuittonsac
 vuittonusa
 wakka=
 wallinside
+walmartbuy
 warcraftguide
 ware-crack
 warecrack
@@ -3901,6 +3926,7 @@ zyvox
 знакомства
 инете
 интересной
+казино
 качественный
 квартир
 китай
@@ -3924,6 +3950,7 @@ zyvox
 плата
 подешевле
 пожаловать
+покер
 портале
 посетител
 похудению
