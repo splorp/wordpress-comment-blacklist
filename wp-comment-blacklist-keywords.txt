@@ -168,6 +168,7 @@ _vti_
 -the-greatest-
 -tips/
 -top-info
+-traffic.
 -traffic.net
 -transpiration-
 -treatment-
@@ -336,6 +337,7 @@ _vti_
 /adorable-
 /ads/
 /affordable-
+/airmax_
 /alimenty/
 /allimage/
 /anonymous-
@@ -391,6 +393,7 @@ _vti_
 /empower-
 /eng/index
 /errorx/
+/extreme-
 /features-
 /filmy
 /flash/
@@ -500,6 +503,7 @@ _vti_
 /reg_
 /remote-desktop
 /remotedesktop
+/ri.ms
 /rozwod
 /rss.xml
 /ru/news/
@@ -878,6 +882,7 @@ blogs-tricks
 blogs.blog
 blowjob
 bluetooth-jammer
+bluetoothheadset
 bluetoothjammer
 bodacious
 bonus-code
@@ -1058,6 +1063,7 @@ chanelbag
 chanelonline
 chanelsale
 channel-operator
+chantix
 chaussure-asics
 chaussure-femme
 chaussure-homme
@@ -1814,6 +1820,7 @@ hatssnap
 haveasite
 hcg-boost
 hcgboost
+headset2013
 heel_pads
 hellllo
 helllo
@@ -1915,6 +1922,7 @@ hyzaar
 ï¿½
 ia€?ll
 imalook
+imitation hermes
 imitrex
 implanty
 in-disguise
@@ -2045,6 +2053,7 @@ jewelrybest
 jimmy-choo
 jimmychoo
 jjl
+joggingstroller
 jogos
 john-varvatos
 jordan outlet
@@ -2382,6 +2391,7 @@ mieszkanie
 milendress
 millen-outlet
 minecraftfree
+minicredit
 mintcoin
 miracle-discount
 miraclediscount
@@ -2450,8 +2460,8 @@ much-boot
 much-gucci
 muchgucci
 mulberry handbag
-mulberry purse
 mulberry outlet
+mulberry purse
 mulberry-fashion
 mulberry-handbag
 mulberry-purse
@@ -2462,6 +2472,7 @@ muscle-supplement
 musclesupplement
 muzyczna
 muzyczny
+my blog
 my_profile
 my-new-ipad
 my-virus
@@ -2531,6 +2542,7 @@ no-hassle
 no-prescription
 no1.co
 nocache=1
+nocredit
 nohassle
 nolvadex
 northface-jack
@@ -2978,6 +2990,7 @@ rellay
 rent_in
 rent-car
 rentinsur
+replica birk
 replica-brand
 replica-design
 replica-gucci
@@ -3015,6 +3028,8 @@ reviews.org
 reviewsource
 reviewx
 reviot
+revolutionjog
+revolutionstroller
 rilopkais.in
 rin.in
 rizatriptan
@@ -3614,6 +3629,8 @@ viramune
 virus-remov
 virusremov
 visitant
+visitor/day
+visitors/day
 vitalikor
 vitamin-for
 vitaminfor
@@ -3895,6 +3912,7 @@ zawieszki
 zboard.php
 zcode
 zdrowie
+zikinell
 zimovane
 zithromax
 złote
@@ -3995,6 +4013,7 @@ zyvox
 ダコタ
 トリーバーチ
 ニューバランス
+バーバリー
 バッグ
 ブーツ
 ボッテガ
