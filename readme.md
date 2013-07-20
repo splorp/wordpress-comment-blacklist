@@ -1,4 +1,4 @@
-# Comment Blacklist Keywords for WordPress
+# Comment Blacklist for WordPress
 
 Sometimes a simple solution is a better solution.
 
