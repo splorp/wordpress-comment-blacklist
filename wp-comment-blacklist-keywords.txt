@@ -116,6 +116,7 @@ _vti_
 -outlet.
 -oympia-
 -payday-
+-pictures.
 -poker.
 -pokies-
 -pozew-
@@ -257,6 +258,7 @@ _vti_
 .pl/profile
 .pl/user
 .rar.
+.redirects.
 .rekla
 .remote-desktop
 .remotedesktop
@@ -339,6 +341,7 @@ _vti_
 /alimenty/
 /allimage/
 /anonymous-
+/artist_e/
 /authentic
 /baby.
 /babydoll.
@@ -464,6 +467,7 @@ _vti_
 /news/articles/
 /nihon
 /nike-
+/nikefree.
 /ninnki
 /node/
 /oakley.
@@ -498,6 +502,7 @@ _vti_
 /prozac
 /pufy
 /pumps.htm
+/readnews.
 /reg_
 /remote-desktop
 /remotedesktop
@@ -696,6 +701,7 @@ allbestedmed
 allbestmed
 allworkhome
 alprazolam
+amateur-homemade
 amateurhomemade
 amateurs.htm
 amazn.co
@@ -781,6 +787,7 @@ bagmirror
 bagonline
 bagonsale
 bagoutlet
+bags uk
 bags-cheap
 bags-online
 bagsale
@@ -1053,6 +1060,7 @@ celular
 cgsaleca
 ch.e.ap
 ch.ea.p
+chanel bag
 chanel handbag
 chanel--
 chanel-bag
@@ -1074,6 +1082,7 @@ cheap air
 cheap galaxy
 cheap iphone
 cheap oakley
+cheap travel
 cheap-adobe
 cheap-chanel
 cheap-converse
@@ -1089,6 +1098,7 @@ cheap-prada
 cheap-sale
 cheap-sex
 cheap-tms
+cheap-travel
 cheap-ugg
 cheapadobe
 cheapbeatsbydre
@@ -1112,6 +1122,7 @@ cheaprayban
 cheapsale
 cheapsex
 cheaptms
+cheaptravel
 cheapugg
 cheat.co
 cheats-
@@ -1264,6 +1275,7 @@ customwheel
 cygara
 cymbalta
 cytotec
+cz/love
 dabloggs
 dailystrength
 dakotasuki
@@ -1282,6 +1294,7 @@ dating-guide
 datingdirect
 datingguide
 day loan
+day-diet
 daytrade
 daytrading
 deal.blog
@@ -1433,6 +1446,7 @@ email.tst
 emailsvip
 emailvip
 emarketing
+emiliopucci
 enhance-your
 enhancement-pill
 enhancementpill
@@ -1517,6 +1531,7 @@ fb-traffic
 fbfans
 fblike
 features.cfm
+females|for
 femmes-canada-goose
 femmescanadagoose
 fenoma
@@ -1633,8 +1648,13 @@ funsneaker
 funwithwindows
 furiousguy
 furla bag
+furla candy
 furla handbag
+furla outlet
+furla-bag
+furla-candy
 furla-handbag
+furla-outlet
 furlahandbag
 furnituresale
 furosemide
@@ -1774,12 +1794,14 @@ gucci-sale
 gucci-uk
 gucci-you
 gucci2
+guccibag
 gucciden
 guccifr
 gucciiuk
 guccij
 guccikan
 guccinose
+guccionline
 guccioutlet
 gucciparis
 guccipurse
@@ -1789,6 +1811,8 @@ guccisingapore
 gucciten
 gucciuk
 gucciyu
+guest-post
+guestpost
 guru1
 gurus1
 hair-again
@@ -1949,6 +1973,8 @@ injectionfacts
 injury-lawyer
 injurylawyer
 insanejournal
+insanity workout
+insanity-workout
 insanity.php
 insanityworkout
 insdier
@@ -2093,6 +2119,8 @@ keylessremote
 keyword.txt
 keywords1
 kfcnfl
+kids ugg
+kids-ugg
 kino-online
 kinoonline
 kitai
@@ -2141,6 +2169,7 @@ kvartiry
 labetalol
 lacoste-outlet
 lacosteoutlet
+ladies|for
 lamictal
 lamisil
 lancelad
@@ -2268,10 +2297,14 @@ lotto-tip
 lottotip
 louboutin canada
 louboutin outlet
+louboutin platform
+louboutin shoe
 louboutin uk
 louboutin-chau
 louboutin-outlet
 louboutin-pas
+louboutin-platform
+louboutin-shoe
 louboutin8
 louboutinfr
 loubouting
@@ -2397,6 +2430,9 @@ michaelkors
 mieszkania
 mieszkanie
 milendress
+millen dress
+millen outlet
+millen-dress
 millen-outlet
 minecraftfree
 minicredit
@@ -2470,9 +2506,11 @@ muchgucci
 mulberry handbag
 mulberry outlet
 mulberry purse
+mulberry uk
 mulberry-fashion
 mulberry-handbag
 mulberry-purse
+mulberry-uk
 mulberryfashion
 mulberryhandbag
 mulberrypurse
@@ -2723,9 +2761,13 @@ pagss.htm
 pain-relief.
 painrelief.
 pandora charm
+pandora online
+pandora sale
 pandora-bracelet
 pandora-charm
 pandora-jewelry
+pandora-online
+pandora-sale
 pandoraau
 pandorabracelet
 pandoracharm
@@ -2833,8 +2875,10 @@ polo-lacoste
 polo-ralph
 poloralph
 popularna
+porn video
 porn-live
 porn-sex
+porn-vid
 porn.
 pornlive
 porno-
@@ -2842,6 +2886,7 @@ porno.
 porno@
 pornolady
 pornsex
+post-service
 post.much
 postcarf
 posttestimonial
@@ -2921,10 +2966,17 @@ przepisane
 przeprowadzki
 publica-foto
 publikacja
+pucci-dress
+pucci-outlet
+puccidress
+puccioutlet
 pufy.
 pure-jobs
 purse-sale
 purses-sale
+puzzle maker
+puzzle-maker
+puzzlemaker
 q=blog
 q=node
 qtrade
@@ -2974,6 +3026,7 @@ red christian
 redbottomshoe
 redirect_to
 redirect.asp
+redskinsjersey
 redsoleshoe
 reeview
 ref_title
@@ -3004,6 +3057,7 @@ rent_in
 rent-car
 rentinsur
 replica birk
+replica watch
 replica-brand
 replica-design
 replica-gucci
@@ -3069,9 +3123,11 @@ rss.htm
 runescape
 rusztowania
 s.webeden
+sabo outlet
 sabo ring
 sabo sale
 sabo shop
+sabo-outlet
 sacguess
 saclongchamp
 sacsguess
@@ -3114,6 +3170,7 @@ scarpehogan
 scarrepair
 schlgsseldienste
 schlüsseldienste
+sciatica pain
 scrapebox
 search-engine-opt
 searchengine-opt
@@ -3198,6 +3255,7 @@ shop-now
 shop-online
 shop-pin
 shopboots
+shopg2bags
 shopjapan.co
 shopjp
 shopnow
@@ -3339,6 +3397,7 @@ suwa³ki
 swarovski
 swarovskijapan
 swarovskijp
+swiss-replica
 syaneru
 symptom-med
 symptommed
@@ -3360,6 +3419,8 @@ tax-debt
 taxbook
 teach-you-every
 teamproshop.co
+teen porn
+teen-porn
 teen-sex
 teensex
 teenwebcam
@@ -3644,6 +3705,8 @@ vimax
 vinhobrasil.
 vintage-erotic
 viramune
+virtual sex
+virtual-sex
 virus-remov
 virusremov
 visitant
@@ -3737,6 +3800,7 @@ whitehat
 wholesale-cheap
 wholesale-mac
 wholesalecheap
+wholesalejersey
 wholesalemac
 wholesaler-mac
 wholesalermac
@@ -4041,6 +4105,7 @@ zyvox
 ルブタン
 化粧
 博彩
+用品
 百家乐
 脿
 腕時計
