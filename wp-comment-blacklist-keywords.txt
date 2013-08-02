@@ -355,6 +355,7 @@ _vti_
 /banners-
 /bazar.
 /bbs/
+/best.htm
 /better-
 /blog.htm
 /blog/blog
@@ -404,9 +405,11 @@ _vti_
 /errorx/
 /extreme-
 /features-
+/files/
 /filmy
 /flash/
 /foot-care
+/forum/
 /forum/membership
 /forum/topic
 /forum/user
@@ -431,14 +434,18 @@ _vti_
 /hentai
 /hermes-
 /hire-
+/home.htm
+/hot.htm
 /hotdeals/
 /ii/
 /image/cache/
+/img/
 /includes/
 /index.php/
 /indexdic
 /infopages/
 /iso_miscs/
+/iss.php
 /join.php
 /jordan1
 /jordan2
@@ -472,10 +479,12 @@ _vti_
 /my/groups/
 /netcat_files/
 /netcat/
+/new.htm
 /news/articles/
 /nihon
 /nike-
 /nikefree.
+/niketn.
 /ninnki
 /node/
 /oakley.
@@ -496,6 +505,7 @@ _vti_
 /piece.
 /popups/
 /porn
+/post:
 /pozew
 /prada_
 /prada.htm
@@ -528,6 +538,7 @@ _vti_
 /sigareta-
 /sigarety-
 /sinsaku
+/site/
 /site/ebay
 /sitemap.
 /soma
@@ -555,6 +566,7 @@ _vti_
 /ugg-
 /uggs-
 /url/
+/usa.htm
 /user_detail
 /user-
 /user/profile
@@ -634,6 +646,7 @@ _vti_
 8handbag
 8purse
 49ers-online
+49ersjersey
 49ersonline
 123.com
 404.php
@@ -739,6 +752,7 @@ antivirussen
 anuncios
 apartamentow
 apbd_sjs
+app.php
 aquarius-compat
 areplica
 aricept
@@ -797,6 +811,7 @@ bagmirror
 bagonline
 bagonsale
 bagoutlet
+bags sale
 bags uk
 bags-cheap
 bags-online
@@ -871,6 +886,7 @@ bigcock
 bigreplica
 billig
 birkenstocksandal
+birkin.htm
 bisapp
 bitartrate
 biuro-solido
@@ -931,9 +947,11 @@ brinkjewel
 britanniahotel
 brrip
 bruiseviolet
+btn-phone
 btshoe
 bukmacher
 bullion-account
+bumpantie
 burberry bag
 burberry factory
 burberry outlet
@@ -999,6 +1017,7 @@ byo.co
 byt.es
 c.he.a.p
 c.he.ap
+c|pro
 cagoosejacket
 cagoosesale
 callgirl
@@ -1067,6 +1086,7 @@ cellskin
 cellulitefree
 cellulitereview
 celular
+cent|per
 cgsaleca
 ch.e.ap
 ch.ea.p
@@ -1093,6 +1113,7 @@ cheap galaxy
 cheap iphone
 cheap oakley
 cheap travel
+cheap ugg
 cheap-adobe
 cheap-chanel
 cheap-converse
@@ -1227,6 +1248,7 @@ com.asp
 com/author/
 com/download.asp
 com/profile/
+com/ugg
 com2.php
 command=read_message
 commentabout
@@ -1239,6 +1261,7 @@ comunity
 consalt-
 conversejapan
 conversejp
+conydot
 copy-wizard
 copywizard
 cordarone
@@ -1291,6 +1314,7 @@ dabloggs
 dailystrength
 dakotasuki
 damskie
+dannerjp
 dapoxetin
 dapoxetine
 darmowe-programy
@@ -1371,6 +1395,7 @@ dietsupplement
 differin
 diflucan
 diorkan
+direct-fund
 direct-health
 direct-lend
 direct-lone
@@ -1379,6 +1404,7 @@ directlend
 directlone
 dirt-bike
 disclaim.asp
+discount mulberry
 discount nfl
 discount-
 discount-cigar
@@ -1531,6 +1557,7 @@ farmacias
 fashion-boot
 fashion-classic
 fashionboot
+fashionbracelet
 fashionistblog
 fast_loan
 fast-loan
@@ -1715,6 +1742,7 @@ ghd-pascher
 ghdpascher
 ghduk
 giants-shop
+giantsjersey
 giantsshop
 gifts-singapore
 giftsingapore
@@ -1792,6 +1820,7 @@ greensmoker
 griseofulvin
 group_home.php
 grow-cannabis
+growmens
 growth-hormone
 growthhormone
 gruzowe
@@ -1813,6 +1842,7 @@ gucci2
 guccibag
 gucciden
 guccifr
+gucciglass
 gucciiuk
 guccij
 guccikan
@@ -1864,6 +1894,7 @@ hangingwithfriends
 hatsnap
 hatssnap
 haveasite
+hawksjersey
 hcg-boost
 hcgboost
 headset2013
@@ -1886,10 +1917,12 @@ hermes scarve
 hermes-bag
 hermes-discount
 hermes-outlet
+hermes-replica
 hermesbag
 hermesdiscount
 hermeshut
 hermesoutlet
+hermesreplica
 hfgfh
 hgh-sup
 hghsup
@@ -1957,6 +1990,7 @@ hppp
 hqsteroid
 html-article
 html?r
+hugescock
 hungurian
 huperzine
 hyclate
@@ -1978,6 +2012,7 @@ income.in
 index.html?
 indexold
 indicators.co
+inetry
 inexpensivevacation
 info/tag
 info/view
@@ -2347,6 +2382,7 @@ lublina.
 luggagetote
 lumigan
 lunarglide
+lunderground
 lupusinfo
 lux-replica
 luxreplica
@@ -2471,6 +2507,7 @@ mkoutlet
 mmcenter.in
 mobi/news
 mobile-phone
+mobistealth
 moczanowa
 mod=space
 mod=viewthread
@@ -2646,6 +2683,7 @@ oakleymedusa
 oakleyoutlet
 oakleypascher
 oakleys.net
+oakleysj
 oakleystore
 oakleysuk
 oakleysunglass
@@ -2674,6 +2712,7 @@ okcheap
 okpay
 oksex
 oksunglass
+old_site
 oneminutesite
 online-blog
 online-business
@@ -2781,6 +2820,7 @@ ownersinsur
 oxycodone
 oxycontin
 p90x
+packersjersey
 page.tl
 pagss.htm
 pain-relief.
@@ -2798,6 +2838,7 @@ pandorabracelet
 pandoracharm
 pandorajewelry
 pandorauk
+panty-sex
 paris-royal
 parkiety
 party_feet
@@ -2885,6 +2926,7 @@ plumbingservice
 plus-size
 plussize
 plytki
+point|per
 pojapan
 poker-chip
 poker-money
@@ -3054,6 +3096,7 @@ redirect_to
 redirect.asp
 redskinsjersey
 redsoleshoe
+redwingjp
 reeview
 ref_title
 ref_url
@@ -3106,6 +3149,7 @@ replicastore
 replicawatch
 replicaworld
 reports.php
+restoremen
 restoril
 retin-a
 reverse-phone
@@ -3153,6 +3197,7 @@ sabo outlet
 sabo ring
 sabo sale
 sabo shop
+sabo uk
 sabo-outlet
 sacguess
 saclongchamp
@@ -3199,6 +3244,7 @@ schlgsseldienste
 schlüsseldienste
 sciatica pain
 scrapebox
+seahawksjersey
 search-engine-opt
 searchengine-opt
 searchengine.
@@ -3299,6 +3345,7 @@ show_info
 show_member_post
 shownews.
 showthread.php
+showtopic
 signed-jersey
 silberbarren-
 silberbarren.
@@ -3311,6 +3358,7 @@ silverjewelry
 sim-only
 sinequan
 singapore.htm
+site_backup
 site-google
 site-position
 site.co
@@ -3377,6 +3425,7 @@ spyder-ski
 spyderjackets
 spyderski
 squidoo.co
+ssory
 starsunglass
 statuscode
 steelersfan
@@ -3472,6 +3521,7 @@ testosterone-booster
 testrun
 testuser
 tetracycline
+texansjersey
 thailove
 thanks.i
 thatprofit
@@ -3490,6 +3540,7 @@ themegenerat
 thetopdog
 things-consumers
 this-review
+thomas sabot
 thomassabosale
 thomassabouk
 thread_id
@@ -3519,6 +3570,7 @@ tires-wholesale
 tiresdiscount
 tireswholesale
 tirewholesale
+tit-pad
 tizanidine
 tms-shoe
 tmsshoe
@@ -3863,6 +3915,8 @@ workoutsale
 worldugg
 worldwideugg
 wow-gold
+wp-pad
+wp-phone
 wpthemegen
 wristpain
 writing-service
@@ -4036,11 +4090,14 @@ zikinell
 zimovane
 zithromax
 złote
+zmedicine
 zoloft
 zolpidem
 zopiclone
 zovirax
+zsurgical
 zumbah
+zvideo
 zxog
 zyban
 zyprexa
@@ -4113,6 +4170,7 @@ zyvox
 справкой
 статей
 статья
+стоимость
 трудоустройства
 удивительные
 услуг
@@ -4131,8 +4189,11 @@ zyvox
 クロエ
 セイコー
 ダコタ
+ダナー
 トリーバーチ
+トレッキングシューズ
 ニューバランス
+ネックレス
 バーバリー
 バッグ
 ブーツ
