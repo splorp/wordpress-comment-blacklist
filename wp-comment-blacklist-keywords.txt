@@ -222,6 +222,7 @@ _vti_
 .com/member/
 .com/official
 .com/online
+.com/page1
 .com/site-
 .com/user
 .coupon
@@ -348,6 +349,7 @@ _vti_
 /allimage/
 /anonymous-
 /artist_e/
+/attachments/
 /authentic
 /baby.
 /babydoll.
@@ -424,6 +426,7 @@ _vti_
 /group1
 /group2
 /group3
+/groups/
 /grow-your
 /gucci_
 /gucci-
@@ -788,7 +791,9 @@ aswenr
 ativan
 atomoxetine
 atorvastatin
+authentic hermes
 authentic-ugg
+authentichermes
 authenticugg
 autoclinics.co.uk
 automatic-pay
@@ -933,6 +938,7 @@ bootssale
 bootsugg
 boottenngoku
 bootugg
+botanical slim
 botanical-slim
 bracelet-sale
 braceletsale
@@ -990,6 +996,7 @@ buspirone
 busquemail
 busythumb
 butnow
+buy hermes
 buy-cheap
 buy-cig
 buy-gucci
@@ -1004,6 +1011,7 @@ buycanadagoose
 buycheap
 buycig
 buyhair
+buyhermes
 buying-facebook
 buyjap
 buyjp
@@ -1021,6 +1029,7 @@ c|pro
 cagoosejacket
 cagoosesale
 callgirl
+cambogia
 camgirl
 can_help_you
 can-help-you
@@ -1111,6 +1120,7 @@ chcoin.co
 cheap air
 cheap galaxy
 cheap iphone
+cheap louis
 cheap oakley
 cheap travel
 cheap ugg
@@ -1144,6 +1154,7 @@ cheapiphone
 cheapjacket
 cheapjersey
 cheapjorda
+cheaplouis
 cheapmichael
 cheapnike
 cheapoakley
@@ -1175,6 +1186,7 @@ chooboots
 chrismas.asp
 christian-louboutin
 christianlouboutin
+chrr-llc
 cialis
 ciallis
 cig-online
@@ -1497,6 +1509,7 @@ entryview.asp
 ephedrine
 epo doping
 equipment-manufacture
+erectile
 erettile
 erjersey.co
 erjersey.net
@@ -1532,6 +1545,8 @@ exit.asp
 extra gry
 extreme-sport
 extremely}
+eyeglass sale
+eyeglasssale
 f_blog_id
 facebok
 facebook-fan
@@ -1709,6 +1724,7 @@ gamedesigndegree
 gamegame
 games-casino
 gangprofil
+garcinia
 gayusa
 genemy
 general/genera
@@ -1913,6 +1929,7 @@ herbalmedicin
 herbalsmoking
 hermes austral
 hermes handbag
+hermes outlet
 hermes scarve
 hermes-bag
 hermes-discount
@@ -2506,6 +2523,7 @@ mkhandbag
 mkoutlet
 mmcenter.in
 mobi/news
+mobile sim
 mobile-phone
 mobistealth
 moczanowa
@@ -2670,6 +2688,8 @@ nude-ass
 nude.htm
 oakley frogskin
 oakley glass
+oakley outlet
+oakley sale
 oakley sunglass
 oakley-active
 oakley-cheap
@@ -2683,6 +2703,7 @@ oakleymedusa
 oakleyoutlet
 oakleypascher
 oakleys.net
+oakleysale
 oakleysj
 oakleystore
 oakleysuk
@@ -2714,6 +2735,7 @@ oksex
 oksunglass
 old_site
 oneminutesite
+online outlet
 online-blog
 online-business
 online-casino
@@ -2767,8 +2789,10 @@ osobistości
 otonanocoach
 otoplasty
 outelt
+outlet bag
 outlet handbag
 outlet oakley
+outlet store
 outlet usa
 outlet_store
 outlet-austr
@@ -2792,6 +2816,7 @@ outlet4u
 outlet2012
 outlet2013
 outletaustr
+outletbag
 outletcanad
 outletforsale
 outlethermes
@@ -2995,6 +3020,7 @@ priligy
 primeessay
 private-label
 privatelabel
+pro key
 proactol
 procedures-for
 product
@@ -3014,6 +3040,7 @@ profits-
 profitseek
 prohormone
 proisxozhdenie
+prokey
 prokeyshop
 prom-dress
 promocja
@@ -3073,6 +3100,7 @@ ravensfan
 ray-ban-aviator
 ray-ban-folding
 rayban-cheap
+raybaneye
 raybansuk
 raybansun
 raybansunglass
@@ -3529,6 +3557,7 @@ the_benefits_of
 the-benefits-of
 the-best-treatment
 the-diet
+the-latest-
 the-most-common
 the-most-detail
 the-right-way
@@ -3809,10 +3838,12 @@ vuitton deutsch
 vuitton factory
 vuitton france
 vuitton fx
+vuitton online
 vuitton outlet
 vuitton sac
 vuitton taschen
 vuitton-usa
+vuittononline
 vuittonsac
 vuittonusa
 wakka=
@@ -3865,6 +3896,7 @@ week.in
 weekly.in
 weeklyincome
 weeklyprofit
+weight loss
 weight-loss
 weight-work
 weightloss
