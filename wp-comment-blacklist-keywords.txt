@@ -394,6 +394,7 @@ _vti_
 /contact/contact
 /contactus/contact
 /customcontrols/
+/customer-care.
 /default/member/
 /dieta.
 /dior_
@@ -484,6 +485,7 @@ _vti_
 /netcat/
 /new.htm
 /news/articles/
+/newsletters/
 /nihon
 /nike-
 /nikefree.
@@ -890,6 +892,7 @@ big.site
 bigcock
 bigreplica
 billig
+birkenstockonsale
 birkenstocksandal
 birkin.htm
 bisapp
@@ -955,6 +958,7 @@ brrip
 bruiseviolet
 btn-phone
 btshoe
+buddie
 bukmacher
 bullion-account
 bumpantie
@@ -1019,6 +1023,8 @@ buymovie
 buyonline
 buyplus
 buysoma
+bvlgarishop
+bvlgarisshop
 bydre-head
 bydrehead
 byo.co
@@ -1088,9 +1094,16 @@ celebritiesnude
 celebrity-nude
 celebritynude
 celexa
+celine bag
+celine luggage
+celine tote
+celine-bag
+celine-luggage
+celine-tote
 celinebag
 celinehandbag
 celineluggage
+celinetote
 cellskin
 cellulitefree
 cellulitereview
@@ -1178,9 +1191,15 @@ chettelongchamp
 chinajorda
 chinska
 chlamydia
+chloe boot
+chloe sunglass
+chloe-boot
+chloe-sunglass
+chloeboot
 chloejp
 chloemoment
 chloeoutsale
+chloesunglass
 choo-boots
 chooboots
 chrismas.asp
@@ -1588,6 +1607,9 @@ features.cfm
 females|for
 femmes-canada-goose
 femmescanadagoose
+fendi belt
+fendi-belt
+fendibelt
 fenoma
 fenteetum
 ferra-gamo
@@ -1928,14 +1950,17 @@ hentai
 herbalmedicin
 herbalsmoking
 hermes austral
+hermes belt
 hermes handbag
 hermes outlet
 hermes scarve
 hermes-bag
+hermes-belt
 hermes-discount
 hermes-outlet
 hermes-replica
 hermesbag
+hermesbelt
 hermesdiscount
 hermeshut
 hermesoutlet
@@ -2026,6 +2051,7 @@ imitrex
 implanty
 in-disguise
 income.in
+inderal
 index.html?
 indexold
 indicators.co
@@ -2517,6 +2543,10 @@ mirapex
 mister-design
 misterboy
 mittelx
+miu sunglass
+miu-miu
+miu-sunglass
+miusunglass
 mixed-race
 mixedrace
 mkhandbag
@@ -2792,6 +2822,7 @@ outelt
 outlet bag
 outlet handbag
 outlet oakley
+outlet online
 outlet store
 outlet usa
 outlet_store
@@ -4229,6 +4260,7 @@ zyvox
 バーバリー
 バッグ
 ブーツ
+ブルガリ
 ボッテガ
 マークジェイコブス
 ミ
