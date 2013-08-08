@@ -1,3 +1,4 @@
+_borders
 _coupon_
 _html
 _marketing_
@@ -359,6 +360,7 @@ _vti_
 /bbs/
 /best.htm
 /better-
+/birkenstocks.
 /blog.htm
 /blog/blog
 /blog/owner
@@ -443,6 +445,7 @@ _vti_
 /hotdeals/
 /ii/
 /image/cache/
+/images/images/
 /img/
 /includes/
 /index.php/
@@ -501,6 +504,7 @@ _vti_
 /page1.
 /page2.
 /page3.
+/pandorabead.
 /panties-
 /panty-
 /pg/blog/
@@ -818,6 +822,7 @@ bagmirror
 bagonline
 bagonsale
 bagoutlet
+bags online
 bags sale
 bags uk
 bags-cheap
@@ -860,6 +865,9 @@ beijing-massage
 beijingescort
 beijingmassage
 belly-fat
+belstaff handbag
+belstaff-handbag
+belstaffhandbag
 benzoclin
 benzogenerator
 berracom.ph
@@ -892,6 +900,9 @@ big.site
 bigcock
 bigreplica
 billig
+birkenstock boston
+birkenstock-boston
+birkenstockboston
 birkenstockonsale
 birkenstocksandal
 birkin.htm
@@ -1123,6 +1134,9 @@ chanelonline
 chanelsale
 channel-operator
 chantix
+charms thomas
+charms-thomas
+charmsthomas
 chaussure-asics
 chaussure-femme
 chaussure-homme
@@ -1135,6 +1149,7 @@ cheap galaxy
 cheap iphone
 cheap louis
 cheap oakley
+cheap toms
 cheap travel
 cheap ugg
 cheap-adobe
@@ -1152,6 +1167,7 @@ cheap-prada
 cheap-sale
 cheap-sex
 cheap-tms
+cheap-toms
 cheap-travel
 cheap-ugg
 cheapadobe
@@ -1177,6 +1193,7 @@ cheaprayban
 cheapsale
 cheapsex
 cheaptms
+cheaptoms
 cheaptravel
 cheapugg
 cheat.co
@@ -1473,8 +1490,12 @@ dominateseo
 dos-seios
 dotcomsecret
 doudoune
+down_loads
 downjacket
+download bracelet
+download-bracelet
 download.pl
+downloadbracelet
 doxycycline
 drdreheadphone
 dre-beats
@@ -1707,6 +1728,7 @@ freehub
 freeipad
 freeiphone
 freeipod
+freembtrans
 freemovie
 freeoffer
 freeonline
@@ -1911,22 +1933,28 @@ hairremov
 hairstraight
 handbag outlet
 handbag uk
+handbag women
 handbag-for
 handbag-outlet
+handbag-women
 handbagfor
 handbagout
 handbagoutlet
 handbags outlet
 handbags uk
+handbags women
 handbags-for
 handbags-outlet
+handbags-women
 handbagsale
 handbagsfor
 handbagsout
 handbagsoutlet
 handbagssale
 handbagsu
+handbagswomen
 handbagu
+handbagwomen
 hanging-with-friends
 hangingwithfriends
 hatsnap
@@ -1951,20 +1979,26 @@ herbalmedicin
 herbalsmoking
 hermes austral
 hermes belt
+hermes factory
 hermes handbag
 hermes outlet
 hermes scarve
+hermes wallet
 hermes-bag
 hermes-belt
 hermes-discount
+hermes-factory
 hermes-outlet
 hermes-replica
+hermes-wallet
 hermesbag
 hermesbelt
 hermesdiscount
+hermesfactory
 hermeshut
 hermesoutlet
 hermesreplica
+hermeswallet
 hfgfh
 hgh-sup
 hghsup
@@ -2610,14 +2644,17 @@ msgnum
 much-boot
 much-gucci
 muchgucci
+mulberry bag
 mulberry handbag
 mulberry outlet
 mulberry purse
 mulberry uk
+mulberry-bag
 mulberry-fashion
 mulberry-handbag
 mulberry-purse
 mulberry-uk
+mulberrybag
 mulberryfashion
 mulberryhandbag
 mulberrypurse
@@ -2758,6 +2795,7 @@ officialteamshop
 officialugg
 ok-cheap
 ok-sex
+okanyway
 okcanadagoose
 okcheap
 okpay
@@ -2820,7 +2858,9 @@ otonanocoach
 otoplasty
 outelt
 outlet bag
+outlet france
 outlet handbag
+outlet louis
 outlet oakley
 outlet online
 outlet store
@@ -2828,8 +2868,10 @@ outlet usa
 outlet_store
 outlet-austr
 outlet-canad
+outlet-france
 outlet-hermes
 outlet-japan
+outlet-louis
 outlet-mart
 outlet-online
 outlet-sale
@@ -2850,8 +2892,10 @@ outletaustr
 outletbag
 outletcanad
 outletforsale
+outletfrance
 outlethermes
 outletjapan
+outletlouis
 outletlove
 outletmart
 outletonline
@@ -2895,6 +2939,7 @@ pandoracharm
 pandorajewelry
 pandorauk
 panty-sex
+parajumpers
 paris-royal
 parkiety
 party_feet
@@ -2957,6 +3002,7 @@ phonejammer
 phonelookup
 phonescanada
 phonesforsale.co
+photoeditingdeal
 php?article
 php?rowstart
 php?showuser
@@ -3386,6 +3432,7 @@ shop-japan.co
 shop-now
 shop-online
 shop-pin
+shop.asia
 shopboots
 shopg2bags
 shopjapan.co
@@ -3781,6 +3828,9 @@ uksonline
 ukugg
 ukvip
 ulkotours
+ultimate microsoft
+ultimate-microsoft
+ultimatemicrosoft
 ultram
 umschuldung
 unitedidesign
@@ -3793,6 +3843,9 @@ unlockmobile
 unlockphone
 unwanted-hair
 unwantedhair
+upgrade key
+upgrade-key
+upgradekey
 upseseglype
 urls2
 urlstatusgo.html
@@ -3865,6 +3918,7 @@ vitamix
 vitrine
 vivekkunwar
 vuitton aust
+vuitton bag
 vuitton deutsch
 vuitton factory
 vuitton france
@@ -3873,11 +3927,16 @@ vuitton online
 vuitton outlet
 vuitton sac
 vuitton taschen
+vuitton-bag
 vuitton-usa
+vuittonbag
 vuittononline
 vuittonsac
 vuittonusa
 wakka=
+wallet outlet
+wallet-outlet
+walletoutlet
 wallinside
 walmartbuy
 warcraftguide
@@ -3963,14 +4022,26 @@ win7.co
 win7pro
 win8.co
 win8pro
+windows anytime
+windows-anytime
 windows7key
 windows8key
+windowsanytime
 windowsphone.co
 wingsshop
 without-invest
 women-date
 womendate
 woodgundy.us
+woolrich coupon
+woolrich europe
+woolrich jacket
+woolrich-coupon
+woolrich-europe
+woolrich-jacket
+woolrichcoupon
+woolricheurope
+woolrichjacket
 wordpressthemes
 worki
 workout-sale
