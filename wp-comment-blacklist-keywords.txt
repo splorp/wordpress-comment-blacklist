@@ -217,13 +217,14 @@ _vti_
 .causes-
 .cfmx
 .cgi
-.co.jp/shop/
+.co.jp/shop
 .com//
 .com/cheap
-.com/member/
+.com/member
 .com/official
 .com/online
 .com/page1
+.com/page2
 .com/site-
 .com/user
 .coupon
@@ -397,7 +398,7 @@ _vti_
 /contactus/contact
 /customcontrols/
 /customer-care.
-/default/member/
+default/member
 /dieta.
 /dior_
 /dior.htm
@@ -444,8 +445,9 @@ _vti_
 /hot.htm
 /hotdeals/
 /ii/
-/image/cache/
-/images/images/
+image/cache
+images/cache
+images/image
 /img/
 /includes/
 /index.php/
@@ -454,6 +456,7 @@ _vti_
 /iso_miscs/
 /iss.php
 /join.php
+/jordan.
 /jordan1
 /jordan2
 /jordan3
@@ -608,6 +611,7 @@ _vti_
 %20on
 %20zappo
 %d8%
+%title%
 %u2019
 %url%
 +jersey
@@ -813,8 +817,10 @@ baclofen
 bad credit
 bad-credit
 badcredit
+bag outlet
 bag-cheap
 bag-online
+bag-outlet
 bagcheap
 bagjap
 bagjp
@@ -823,10 +829,12 @@ bagonline
 bagonsale
 bagoutlet
 bags online
+bags outlet
 bags sale
 bags uk
 bags-cheap
 bags-online
+bags-outlet
 bagsale
 bagscheap
 bagsjap
@@ -1148,6 +1156,7 @@ cheap air
 cheap galaxy
 cheap iphone
 cheap louis
+cheap nike
 cheap oakley
 cheap toms
 cheap travel
@@ -1161,6 +1170,7 @@ cheap-hermes
 cheap-jacket
 cheap-jersey
 cheap-michael
+cheap-nike
 cheap-oakley
 cheap-pandora
 cheap-prada
@@ -1978,6 +1988,7 @@ hentai
 herbalmedicin
 herbalsmoking
 hermes austral
+hermes bag
 hermes belt
 hermes factory
 hermes handbag
@@ -2223,11 +2234,14 @@ jogos
 john-varvatos
 jordan outlet
 jordan retro
+jordan shoe
 jordan-retro
 jordan-sale
+jordan-shoe
 jordankicks
 jordanretro
 jordansale
+jordanshoe
 jordansshoe
 jordjev
 jp/blog
@@ -2663,12 +2677,15 @@ musclesupplement
 muzyczna
 muzyczny
 my blog
+my hermes
 my_profile
+my-hermes
 my-new-ipad
 my-virus
 mydead-
 mydomain
 mygiftcard
+myhermes
 mylupus
 myqrops
 myreview.co
@@ -2860,6 +2877,7 @@ outelt
 outlet bag
 outlet france
 outlet handbag
+outlet hermes
 outlet louis
 outlet oakley
 outlet online
@@ -3071,13 +3089,16 @@ pp-classified
 prada bag
 prada dress
 prada handbag
+prada online
 prada outlet
 prada-bag
 prada-new
+prada-online
 prada-outlet
 pradabag
 pradagirl
 pradanew
+pradaonline
 pradaoutlet
 prawnik
 prazosin
@@ -3308,10 +3329,12 @@ sacguess
 saclongchamp
 sacsguess
 sacslancel
+sale oakley
 sale-cheap
 sale-factory
 sale-jp
 sale-longchamp
+sale-oakley
 sale.co.uk
 sale.weebly
 sale4u
@@ -3319,6 +3342,7 @@ salecanada
 salecheap
 salefactory
 salejp
+saleoakley
 saleonline
 saleoutlet
 sales-factory
@@ -3654,7 +3678,10 @@ thread_id
 threadid
 thumb.jpeg
 thyromine
+tiffany jewellery
+tiffany-jewellery
 tiffany-outlet
+tiffanyjewellery
 tiffanyoutlet
 tiffanysale
 tiffiny
@@ -3978,6 +4005,7 @@ webpage
 webpromotion
 websex
 website}
+website1
 websiterecord
 websolution
 webviewconsult
@@ -4030,8 +4058,14 @@ windowsanytime
 windowsphone.co
 wingsshop
 without-invest
+women nike
 women-date
+women-nike
 womendate
+womennike
+womens nike
+womens-nike
+womensnike
 woodgundy.us
 woolrich coupon
 woolrich europe
