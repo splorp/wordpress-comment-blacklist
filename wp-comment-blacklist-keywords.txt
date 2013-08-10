@@ -398,7 +398,7 @@ _vti_
 /contactus/contact
 /customcontrols/
 /customer-care.
-default/member
+/data/
 /dieta.
 /dior_
 /dior.htm
@@ -445,9 +445,6 @@ default/member
 /hot.htm
 /hotdeals/
 /ii/
-image/cache
-images/cache
-images/image
 /img/
 /includes/
 /index.php/
@@ -553,6 +550,7 @@ images/image
 /site/
 /site/ebay
 /sitemap.
+/siteold/
 /soma
 /specials.asp
 /specials.htm
@@ -565,6 +563,7 @@ images/image
 /swf/
 /syaneru
 /sysuser/
+/templates/
 /test.htm
 /the-first
 /the-sale
@@ -581,15 +580,15 @@ images/image
 /usa.htm
 /user_detail
 /user-
+/user:
 /user/profile
 /user/view
+/usuario:
 /vb/
 /view_my/
 /viewstory/
 /web-design/
 /wholesale-
-/wiki/index.
-/wiki/user_talk
 /ww.
 /x.co
 /xchange
@@ -612,6 +611,7 @@ images/image
 %20zappo
 %d8%
 %title%
+%titlet%
 %u2019
 %url%
 +jersey
@@ -946,20 +946,31 @@ bodacious
 bonus-code
 bonuscode
 book-ot-
+boot sale
+boot uk
 boot-get
 boot-queen
+boot-sale
+boot-uk
 bootcojp
 bootget
 bootqueen
+boots sale
+boots uk
 boots-get
 boots-queen
+boots-sale
+boots-uk
+bootsale
 bootsget
 bootsqueen
 bootss
 bootssale
 bootsugg
+bootsuk
 boottenngoku
 bootugg
+bootuk
 botanical slim
 botanical-slim
 bracelet-sale
@@ -1020,6 +1031,7 @@ busquemail
 busythumb
 butnow
 buy hermes
+buy toms
 buy-cheap
 buy-cig
 buy-gucci
@@ -1030,6 +1042,7 @@ buy-online
 buy-pill
 buy-plus
 buy-soma
+buy-toms
 buycanadagoose
 buycheap
 buycig
@@ -1042,6 +1055,7 @@ buymovie
 buyonline
 buyplus
 buysoma
+buytoms
 bvlgarishop
 bvlgarisshop
 bydre-head
@@ -1128,6 +1142,7 @@ cellulitefree
 cellulitereview
 celular
 cent|per
+cgi-bin
 cgsaleca
 ch.e.ap
 ch.ea.p
@@ -1227,6 +1242,7 @@ chloejp
 chloemoment
 chloeoutsale
 chloesunglass
+chloie
 choo-boots
 chooboots
 chrismas.asp
@@ -1261,6 +1277,7 @@ classicugg
 clavulanate
 clboot
 clenbuterol
+click4
 clickbank
 clickforu
 clientarea.php
@@ -1407,6 +1424,7 @@ debt-solution
 debthelp
 debtrelief
 dedrease
+default/member
 definitelly
 delete_post
 deltasone
@@ -1499,6 +1517,7 @@ dominate-seo
 dominateseo
 dos-seios
 dotcomsecret
+douchingteen
 doudoune
 down_loads
 downjacket
@@ -1899,8 +1918,10 @@ gry flesh
 gry online
 guaranteed_uptime
 gucchi
+gucci bag
 gucci sale
 gucci--
+gucci-bag
 gucci-glass
 gucci-outlet
 gucci-purse
@@ -2090,6 +2111,9 @@ hyper-fb
 hyzaar
 ï¿½
 ia€?ll
+image/cache
+images/cache
+images/image
 imalook
 imitation hermes
 imitrex
@@ -2474,6 +2498,7 @@ luggagetote
 lumigan
 lunarglide
 lunderground
+lunettespaschere
 lupusinfo
 lux-replica
 luxreplica
@@ -2705,12 +2730,15 @@ needmoney
 net/members/
 netload.in
 neurontin
+new jordans
 new weblog
 new-article
 new-balance
+new-jordans
 new-oakley
 newarrivals
 newarticle
+newjordans
 newoakley
 news.in
 newsarticle
@@ -2770,6 +2798,7 @@ notraty
 now.in
 nude-ass
 nude.htm
+oakeyspascher
 oakley frogskin
 oakley glass
 oakley outlet
@@ -2956,7 +2985,13 @@ pandorabracelet
 pandoracharm
 pandorajewelry
 pandorauk
+panty pics
+panty play
+panty-pics
+panty-play
 panty-sex
+pantypics
+pantyplay
 parajumpers
 paris-royal
 parkiety
@@ -3164,8 +3199,14 @@ puccidress
 puccioutlet
 pufy.
 pure-jobs
+purse outlet
+purse-outlet
 purse-sale
+purseoutlet
+purses outlet
+purses-outlet
 purses-sale
+pursesoutlet
 puzzle maker
 puzzle-maker
 puzzlemaker
@@ -3199,6 +3240,8 @@ ray-ban-aviator
 ray-ban-folding
 rayban-cheap
 raybaneye
+raybanpascher
+raybanslunette
 raybansuk
 raybansun
 raybansunglass
@@ -3620,6 +3663,7 @@ tamiflu
 tamoxifen
 tamsulosin
 tapicerowane
+targeted visitor
 targeted-traffic
 targetedtraffic
 tarif-malin
@@ -3718,10 +3762,13 @@ toeshoes.co
 tofranil
 tojp.co
 tokyo-lv
+toms shoe
 toms-cheap
+toms-shoe
 tomscheap
 tomsforsale
 tomsoutlet
+tomsshoe
 tomsshoes
 top-forum
 top-list
@@ -3789,6 +3836,7 @@ ucoz.ru
 ufficiales
 ugboos
 ugbos
+ugg boot
 ugg-best
 ugg-boot
 ugg-comfort
@@ -3804,6 +3852,7 @@ ugg.htm
 uggatcanada
 uggbest
 uggboo
+uggboot
 uggbos
 uggcheap
 uggclog
@@ -3944,6 +3993,9 @@ vitaminsfor
 vitamix
 vitrine
 vivekkunwar
+vogue toms
+vogue-toms
+voguetoms
 vuitton aust
 vuitton bag
 vuitton deutsch
@@ -3952,12 +4004,15 @@ vuitton france
 vuitton fx
 vuitton online
 vuitton outlet
+vuitton purse
 vuitton sac
 vuitton taschen
 vuitton-bag
+vuitton-purse
 vuitton-usa
 vuittonbag
 vuittononline
+vuittonpurse
 vuittonsac
 vuittonusa
 wakka=
@@ -4004,6 +4059,7 @@ webnode.nl
 webpage
 webpromotion
 websex
+website traffic
 website}
 website1
 websiterecord
@@ -4044,6 +4100,7 @@ widyaw
 wifi-jammer
 wifijammer
 wiki/%
+wiki/index
 wiki/user
 wikka.php
 win7.co
@@ -4067,15 +4124,27 @@ womens nike
 womens-nike
 womensnike
 woodgundy.us
+woolrich coat
 woolrich coupon
 woolrich europe
+woolrich field
 woolrich jacket
+woolrich parka
+woolrich vest
+woolrich-coat
 woolrich-coupon
 woolrich-europe
+woolrich-field
 woolrich-jacket
+woolrich-parka
+woolrich-vest
+woolrichcoat
 woolrichcoupon
 woolricheurope
+woolrichfield
 woolrichjacket
+woolrichparka
+woolrichvest
 wordpressthemes
 worki
 workout-sale
