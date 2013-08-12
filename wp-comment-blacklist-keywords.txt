@@ -486,6 +486,7 @@ _vti_
 /montblanc.
 /mortgage
 /my/groups/
+/n.php
 /netcat_files/
 /netcat/
 /new.htm
@@ -500,6 +501,7 @@ _vti_
 /oakley.
 /oakleycan
 /offering/
+/ok.php
 /orderpage/
 /orgasm
 /page_
@@ -533,6 +535,8 @@ _vti_
 /prozac
 /pufy
 /pumps.htm
+/ra.php
+/read.php
 /readnews.
 /reg_
 /remote-desktop
@@ -591,6 +595,8 @@ _vti_
 /viewstory/
 /web-design/
 /wholesale-
+/wp-admin/
+/wp-content/
 /ww.
 /x.co
 /xchange
@@ -848,8 +854,14 @@ bagsstore
 bagstore
 bagsuk
 balenciagasingapore
+ban jacket
+ban online
+ban-jacket
+ban-online
+banjacket
 bankowoz
 bankrobber
+banonline
 bazargorj
 bazookaapp
 bbombr
@@ -1112,9 +1124,13 @@ cashforgold
 cashforsilver
 cashloan
 cashout
+casino online
 casino-game
+casino-online
 casino.co
+casinoer
 casinogame
+casinoonline
 casinos-
 casquebeats
 casquette
@@ -2661,17 +2677,20 @@ moldremov
 moncler jacket
 moncler men
 moncler online
+moncler parka
 moncler uk
 moncler vest
 moncler--
 moncler-jacket
 moncler-men
 moncler-online
+moncler-parka
 moncler-uk
 moncler-vest
 monclerjacket
 monclermen
 moncleronline
+monclerparka
 moncleruk
 monclervest
 money-site
@@ -2790,9 +2809,11 @@ nfr.cfm
 niaspan
 nicoban
 nieruchomosci
+nike free
 nike-air-max
 nike-and-shoe
 nike-dunk
+nike-free
 nike-freerun
 nike-main
 nikeairmax
@@ -2800,6 +2821,7 @@ nikeairshop
 nikeandshoe
 nikeause
 nikedunk
+nikefree
 nikefreerun
 nikefreerunjp
 nikejordan
@@ -2835,18 +2857,21 @@ now.in
 nude-ass
 nude.htm
 oakeyspascher
+oakley canada
 oakley frogskin
 oakley glass
 oakley outlet
 oakley sale
 oakley sunglass
 oakley-active
+oakley-canada
 oakley-cheap
 oakley-outlet
 oakley-store
 oakley-straight
 oakley-sunglass
 oakleyactive
+oakleycanada
 oakleycheap
 oakleymedusa
 oakleyoutlet
@@ -3326,6 +3351,9 @@ rekla.
 reklamowe
 rekreacja
 reliefsecret
+religion jeans
+religion-jeans
+religionjeans
 rellay
 rent_in
 rent-car
@@ -3752,6 +3780,7 @@ themegenerat
 thetopdog
 things-consumers
 this-review
+thm.htm
 thomas sabot
 thomassabosale
 thomassabouk
@@ -4073,6 +4102,9 @@ watchhoshi
 watchreplica
 water-weight
 way-to-enjoy
+wayfarer glass
+wayfarer-glass
+wayfarerglass
 wdmypass
 web-hosting
 web-promotion
