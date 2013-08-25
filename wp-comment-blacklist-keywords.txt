@@ -284,6 +284,7 @@ _vti_
 .ru/service
 .ru/user
 .sirenos.in
+.smileys
 .sunglasses-
 .supreme-
 .thearticle
@@ -318,9 +319,11 @@ _vti_
 //cheap
 //community
 //compare
+//contact
 //escort
 //forum
 //friend
+//gay
 //generic
 //groups
 //gucci
@@ -335,10 +338,12 @@ _vti_
 //royal-
 //shop
 //sneaker
+//test
 //vpn-
 //website
 //webstore
 /5.htm
+/about.
 /acai
 /addfeed/
 /admin/
@@ -350,6 +355,7 @@ _vti_
 /alimenty/
 /allimage/
 /anonymous-
+/around.
 /artist_e/
 /attachments/
 /authentic
@@ -371,6 +377,7 @@ _vti_
 /blogs/entry
 /blogs/item
 /blogs/post
+/board/
 /burberry-
 /burberry1
 /burberry2
@@ -386,6 +393,7 @@ _vti_
 /chanel_
 /chanel.htm
 /cheap-
+/china.
 /cigar-
 /cigars-
 /coach.asp
@@ -394,6 +402,7 @@ _vti_
 /commodity.
 /common/
 /common/rss
+/contact.
 /contact/contact
 /contactus/contact
 /customcontrols/
@@ -410,11 +419,14 @@ _vti_
 /eng/index
 /errorx/
 /extreme-
+/fashion-
 /features-
+/ferragamo.
 /files/
 /filmy
 /flash/
 /foot-care
+/form.
 /forum/
 /forum/membership
 /forum/topic
@@ -441,6 +453,7 @@ _vti_
 /hentai
 /hermes-
 /hire-
+/hollister/
 /home.htm
 /hot.htm
 /hotdeals/
@@ -453,6 +466,8 @@ _vti_
 /infopages/
 /iso_miscs/
 /iss.php
+/jerseys.
+/job.
 /join.php
 /jordan.
 /jordan1
@@ -461,7 +476,9 @@ _vti_
 /jordan4
 /jordan5
 /journal/item/
+/js.
 /js/
+/just.
 /konsultan
 /kredit
 /kredyt
@@ -475,12 +492,14 @@ _vti_
 /love-life
 /love-quote
 /mailer/
+/malware/
 /massage
 /med-
 /mediawiki/
 /medical
 /medication-
 /member/
+/membership.
 /menu/menu
 /moncler/
 /montblanc.
@@ -508,6 +527,8 @@ _vti_
 /page1.
 /page2.
 /page3.
+/page4.
+/page5.
 /pandorabead.
 /panties-
 /panty-
@@ -522,6 +543,7 @@ _vti_
 /pozew
 /prada_
 /prada.htm
+/pricing.
 /privat-
 /product/0/
 /produkter/
@@ -535,9 +557,12 @@ _vti_
 /prozac
 /pufy
 /pumps.htm
+/q.
 /ra.php
+/ray-ban/
 /read.php
 /readnews.
+/refreshers.
 /reg_
 /remote-desktop
 /remotedesktop
@@ -569,6 +594,7 @@ _vti_
 /swf/
 /syaneru
 /sysuser/
+/tagged/
 /templates/
 /test.htm
 /the-first
@@ -594,15 +620,19 @@ _vti_
 /view_my/
 /viewstory/
 /web-design/
+/wedding.
 /wholesale-
+/wo.
 /wp-admin/
 /wp-content/
+/wp-includes/
 /ww.
 /x.co
 /xchange
 /xn--
 /yabb
 /yabb.pl
+/z.
 /zumba-
 &#969;
 &#1072;
@@ -711,9 +741,12 @@ admin.cfm
 admin5
 adsjeremy
 adswings
+adult girl
+adult-girl
 adult-sex
 adult-story
 adultdating
+adultgirl
 adultsex
 advantages_of
 advantages-of
@@ -730,14 +763,18 @@ africancanadianmodel
 age.webeden
 agedepot
 agencje-
+air max
 air-jorda
+air-max
 airjorda
+airmax
 airmax.htm
 airmaxdeutsch
 airmaxshoe-
 airmaxshoes-
 airport--
 airport-transport
+aitaiwan
 akkuschrauber
 alendronate
 alkotla
@@ -759,6 +796,7 @@ amoxil
 amzon.co
 anabolic
 and-special
+andcoupons
 androidclan
 androidmp3
 aneswr
@@ -893,12 +931,14 @@ belstaffhandbag
 benzoclin
 benzogenerator
 berracom.ph
+best jersey
 best online
 best-diet
 best-direct
 best-discount
 best-fake
 best-home-cinema
+best-jersey
 best-phone
 best-software-for
 best-way-to
@@ -907,6 +947,7 @@ bestdirect
 bestdiscount
 bestdrug
 bestfake
+bestjersey
 bestlaptop
 bestphone
 bestsupplement
@@ -953,6 +994,7 @@ blogid
 blogs-tricks
 blogs.blog
 blowjob
+bluehostreview
 bluetooth-jammer
 bluetoothheadset
 bluetoothjammer
@@ -1166,12 +1208,21 @@ ch.e.ap
 ch.ea.p
 chanel bag
 chanel handbag
+chanel outlet
+chanel purse
+chanel replica
 chanel--
 chanel-bag
 chanel-online
+chanel-outlet
+chanel-purse
+chanel-replica
 chanel-sale
 chanelbag
 chanelonline
+chaneloutlet
+chanelpurse
+chanelreplica
 chanelsale
 channel-operator
 chantix
@@ -1188,7 +1239,9 @@ chcoin.co
 cheap air
 cheap galaxy
 cheap iphone
+cheap jersey
 cheap louis
+cheap moncler
 cheap nike
 cheap oakley
 cheap toms
@@ -1203,6 +1256,7 @@ cheap-hermes
 cheap-jacket
 cheap-jersey
 cheap-michael
+cheap-moncler
 cheap-nike
 cheap-oakley
 cheap-pandora
@@ -1228,6 +1282,7 @@ cheapjersey
 cheapjorda
 cheaplouis
 cheapmichael
+cheapmoncler
 cheapnike
 cheapoakley
 cheappandora
@@ -1239,6 +1294,7 @@ cheaptms
 cheaptoms
 cheaptravel
 cheapugg
+cheapweb
 cheat.co
 cheats-
 cheats.co
@@ -1309,10 +1365,15 @@ club-boy
 clubboy
 cnoesfs
 coach austral
+coach factory
+coach flight
 coach handbag
 coach outlet
 coach thai
 coach-bag
+coach-factory
+coach-flight
+coach-new
 coach-outlet
 coach-store
 coach2you
@@ -1320,6 +1381,7 @@ coachbag
 coachbags
 coachbay
 coachfactory
+coachflight
 coachhandbag
 coachja
 coachjap
@@ -1339,7 +1401,11 @@ code-generat
 college-loan
 com.asp
 com/author/
+com/css
+com/doc
 com/download.asp
+com/forum
+com/image
 com/profile/
 com/ugg
 com2.php
@@ -1541,11 +1607,16 @@ down_loads
 downjacket
 download bracelet
 download-bracelet
+download.blog
+download.htm
 download.pl
 downloadbracelet
 doxycycline
 drdreheadphone
+dre beat
+dre-beat
 dre-beats
+drebeat
 dresshop
 dresssale
 drivewayservice
@@ -1623,6 +1694,7 @@ estradiol
 etherdq
 euro-million
 europe nfl
+eurovids
 event_id
 eventid
 every1bet
@@ -1641,11 +1713,14 @@ facebook-fan
 facebook-traffic
 facebookfan
 facebooklike
+factory-outlet
 facts-about
 fajki
 fajna-fotka
 fajnafotka
 fajne
+fake oakley
+fake rayban
 fake-converse
 fake-oakley
 fake-rayban
@@ -1682,6 +1757,7 @@ fendibelt
 fenoma
 fenteetum
 ferra-gamo
+ferragamolove
 ferragamoshop
 fibromyalgia
 fightmark
@@ -1748,12 +1824,14 @@ fr/longchamp
 fradidas
 francemaillot
 fraudcenter
+free gay
 free visitor
 free-bbs
 free-bid
 free-brows
 free-casino
 free-classified
+free-gay
 free-ipad
 free-iphone
 free-ipod
@@ -1772,6 +1850,7 @@ freebrows
 freecasino
 freedating
 freefor.co
+freegay
 freehub
 freeipad
 freeiphone
@@ -1817,6 +1896,9 @@ gamegame
 games-casino
 gangprofil
 garcinia
+gay sex
+gay-sex
+gaysex
 gayusa
 genemy
 general/genera
@@ -1856,12 +1938,19 @@ gifts-singapore
 giftsingapore
 giftssingapore
 gigantix.co
+girl jordan
+girl-jordan
+girljordan
 girljp
+giuseppezanotti
 gkhk
 glamorousbag
 glasses-tokyo
 glassestokyo
 gleevec
+glitter ugg
+glitter-ugg
+glitterugg
 global-agenda
 globalagenda
 globalist-agenda
@@ -1899,15 +1988,20 @@ goodbye.asp
 googlebind
 googleing
 googleusashop
+goose jacket
 goose outlet
+goose youth
 goose-canada
+goose-jacket
 goose-jakke
 goose-outlet
 goose-vest
+goose-youth
 gooseca
 goosecanada
 goosecheap
 goosedk
+goosejacket
 goosejakke
 gooseoutlet
 gooseparka
@@ -1915,6 +2009,7 @@ goosesale
 goosescheap
 gooseshop
 goosevest
+gooseyouth
 gotowkowa
 gotowkowe
 goyard-bag
@@ -1941,10 +2036,13 @@ gry online
 guaranteed_uptime
 gucchi
 gucci bag
+gucci handbag
+gucci outlet
 gucci sale
 gucci--
 gucci-bag
 gucci-glass
+gucci-handbag
 gucci-outlet
 gucci-purse
 gucci-replica
@@ -1956,6 +2054,7 @@ guccibag
 gucciden
 guccifr
 gucciglass
+guccihandbag
 gucciiuk
 guccij
 guccikan
@@ -2066,6 +2165,11 @@ hingenieur
 hitfit
 hleepd
 hogansito
+hollister online
+hollister-deutsch
+hollister-online
+hollisterdeutsch
+hollisteronline
 home-based
 home-loan
 home-remedies
@@ -2136,6 +2240,7 @@ ia€?ll
 image/cache
 images/cache
 images/image
+images/index
 imalook
 imitation hermes
 imitrex
@@ -2145,6 +2250,7 @@ in-disguise
 income.in
 inderal
 index.html?
+index/css
 indexold
 indicators.co
 inetry
@@ -2285,14 +2391,17 @@ john-varvatos
 jordan outlet
 jordan retro
 jordan shoe
+jordan store
 jordan-retro
 jordan-sale
 jordan-shoe
+jordan-store
 jordankicks
 jordanretro
 jordansale
 jordanshoe
 jordansshoe
+jordanstore
 jordjev
 jp/blog
 jpcity.co
@@ -2530,6 +2639,12 @@ luggagetote
 lumigan
 lunarglide
 lunderground
+lunette soldes
+lunette-soldes
+lunettes oakley
+lunettes-oakley
+lunettesoakley
+lunettesoldes
 lunettespaschere
 lupusinfo
 lux-replica
@@ -2554,6 +2669,7 @@ lvforsale
 lvhandbag
 lviv
 lvoutlet
+lvsale
 lvuk
 mac-cosmetic
 mac-makeup
@@ -2562,8 +2678,11 @@ macmakeup
 madeye30
 magicmoncler
 mail.ru
+maillot ukraine
 maillot-enfant
 maillot-maillot
+maillot-ukraine
+maillotukraine
 make money
 make-backup
 make-millions
@@ -2590,6 +2709,7 @@ marketing-marketing
 marketing-tip
 marketing.in
 marketingbook
+marketinghero
 marketingtip
 marketingxchange
 mass-facebook
@@ -2600,7 +2720,13 @@ master.ru
 matchcash
 matthewsjersey
 matural
+max griffey
+max sale
+max-griffey
+max-sale
 maxalt
+maxgriffey
+maxsale
 may_help_you
 may-help-you
 mbt-japan
@@ -2674,23 +2800,32 @@ mode=viewprofile
 moderowany
 modules.php
 moldremov
+moncler coat
 moncler jacket
 moncler men
 moncler online
+moncler outlet
 moncler parka
+moncler ski
 moncler uk
 moncler vest
 moncler--
+moncler-coat
 moncler-jacket
 moncler-men
 moncler-online
+moncler-outlet
 moncler-parka
+moncler-ski
 moncler-uk
 moncler-vest
+monclercoat
 monclerjacket
 monclermen
 moncleronline
+moncleroutlet
 monclerparka
+monclerski
 moncleruk
 monclervest
 money-site
@@ -2810,12 +2945,16 @@ niaspan
 nicoban
 nieruchomosci
 nike free
+nike jordan
+nike total
 nike-air-max
 nike-and-shoe
 nike-dunk
 nike-free
 nike-freerun
+nike-jordan
 nike-main
+nike-total
 nikeairmax
 nikeairshop
 nikeandshoe
@@ -2831,6 +2970,7 @@ nikeshop
 nikesportjap
 nikesportjp
 niketokyo
+niketotal
 niselv.co
 nizoral
 nm.ru
@@ -3051,6 +3191,7 @@ panty play
 panty-pics
 panty-play
 panty-sex
+pantymania
 pantypics
 pantyplay
 parajumpers
@@ -3192,6 +3333,7 @@ prada-new
 prada-online
 prada-outlet
 pradabag
+pradadesign
 pradagirl
 pradanew
 pradaonline
@@ -3299,6 +3441,7 @@ rastreadores
 ravensfan
 ray-ban-aviator
 ray-ban-folding
+ray-bans
 rayban-cheap
 raybaneye
 raybanpascher
@@ -3359,12 +3502,14 @@ rent_in
 rent-car
 rentinsur
 replica birk
+replica rayban
 replica watch
 replica-brand
 replica-design
 replica-gucci
 replica-handbag
 replica-prada
+replica-rayban
 replica-rolex
 replica-store
 replica-world
@@ -3377,6 +3522,7 @@ replicagucci
 replicahandbag
 replicaoakley
 replicaprad
+replicarayban
 replicarolex
 replicastore
 replicawatch
@@ -3400,6 +3546,9 @@ reviewx
 reviot
 revolutionjog
 revolutionstroller
+rich woolrich
+rich-woolrich
+richwoolrich
 rilopkais.in
 rin.in
 ripoffreport
@@ -3427,12 +3576,15 @@ rss.htm
 runescape
 rusztowania
 s.webeden
+sabo charm
 sabo outlet
 sabo ring
 sabo sale
 sabo shop
 sabo uk
+sabo-charm
 sabo-outlet
+sabocharm
 sacguess
 saclongchamp
 sacsguess
@@ -3510,6 +3662,7 @@ seoplugin
 seotool
 seowith
 sertraline
+services/services
 serwis
 sex-blog
 sex-cam
@@ -3530,6 +3683,9 @@ sexshop
 sextape
 sextoy
 sextube
+sexual fantas
+sexual-fantas
+sexualfantas
 sexweb
 sexy.co
 sgames.co
@@ -3728,9 +3884,19 @@ tamiflu
 tamoxifen
 tamsulosin
 tapicerowane
+targeted traffic
+targeted visit
 targeted visitor
 targeted-traffic
+targeted-visit
 targetedtraffic
+targetedvisit
+targetted traffic
+targetted visit
+targetted-traffic
+targetted-visit
+targettedtraffic
+targettedvisit
 tarif-malin
 tarifmalin
 tastegood.co
@@ -3741,6 +3907,7 @@ teamproshop.co
 teen porn
 teen-porn
 teen-sex
+teeniepanty
 teensex
 teenwebcam
 tegs:
@@ -3902,6 +4069,7 @@ ucoz.ru
 ufficiales
 ugboos
 ugbos
+ugg australia
 ugg boot
 ugg-best
 ugg-boot
@@ -4147,6 +4315,12 @@ weightnatural
 welcometonginx
 wellbutrin
 werbegeschenke
+wet panties
+wet-panties
+wetpanties
+wetting panties
+wetting-panties
+wettingpanties
 weusecoins
 whatsapp
 wheels.co
@@ -4157,10 +4331,13 @@ wherecani
 wheretobuy
 whichpage
 whitehat
+wholesale jordan
 wholesale-cheap
+wholesale-jordan
 wholesale-mac
 wholesalecheap
 wholesalejersey
+wholesalejordan
 wholesalemac
 wholesaler-mac
 wholesalermac
@@ -4190,9 +4367,11 @@ women-nike
 womendate
 womennike
 womens nike
+womens-bags
 womens-nike
 womensnike
 woodgundy.us
+woolrich clothing
 woolrich coat
 woolrich coupon
 woolrich europe
@@ -4201,6 +4380,7 @@ woolrich jacket
 woolrich john
 woolrich parka
 woolrich vest
+woolrich-clothing
 woolrich-coat
 woolrich-coupon
 woolrich-europe
@@ -4209,6 +4389,7 @@ woolrich-jacket
 woolrich-john
 woolrich-parka
 woolrich-vest
+woolrichclothing
 woolrichcoat
 woolrichcoupon
 woolricheurope
@@ -4217,7 +4398,10 @@ woolrichjacket
 woolrichjohn
 woolrichparka
 woolrichvest
+wordpress web
+wordpress-web
 wordpressthemes
+wordpressweb
 worki
 workout-sale
 workoutsale
@@ -4389,6 +4573,10 @@ zaindeksowany
 zakazane
 zaklady
 zanaflex
+zanottionline
+zanottisale
+zanottishoe
+zanottisneaker
 zantac
 zapraszam
 zawieszki
@@ -4449,6 +4637,7 @@ zyvox
 обучение
 объявлени
 онлайн
+отличные
 официальных
 персональный
 плата
@@ -4492,6 +4681,7 @@ zyvox
 アウトレット
 アルマーニ
 いい
+いホスティング
 ヴェネタ
 グッチ
 クラシック
@@ -4506,7 +4696,9 @@ zyvox
 バーバリー
 バッグ
 ブーツ
+フェラガモ
 ブルガリ
+ブレスレット
 ボッテガ
 マークジェイコブス
 ミ
@@ -4516,6 +4708,7 @@ zyvox
 化粧
 博彩
 危機
+外贸
 用品
 百家乐
 脿
