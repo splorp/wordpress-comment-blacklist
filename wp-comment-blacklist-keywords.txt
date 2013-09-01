@@ -1,11 +1,11 @@
 _borders
-_coupon_
+_coupon
 _html
-_marketing_
-_profitable_
-_strategies_
-_the_best_
-_vti_
+_marketing
+_profit
+_strateg
+_the_best
+_vti
 ---
 --bag
 --jacket
@@ -19,6 +19,8 @@ _vti_
 -anal-
 -anonymous-
 -argente-
+-armani.
+-asics.
 -auction-
 -authentic-
 -b2b
@@ -32,6 +34,7 @@ _vti_
 -broker.
 -car.co
 -casas-en-
+-cash.
 -casino-
 -cell-phone-
 -cheap-
@@ -355,8 +358,10 @@ _vti_
 /alimenty/
 /allimage/
 /anonymous-
+/armani.
 /around.
 /artist_e/
+/asics.
 /attachments/
 /authentic
 /baby.
@@ -405,6 +410,7 @@ _vti_
 /contact.
 /contact/contact
 /contactus/contact
+/css/
 /customcontrols/
 /customer-care.
 /data/
@@ -421,6 +427,8 @@ _vti_
 /extreme-
 /fashion-
 /features-
+/feed/
+/feeds/
 /ferragamo.
 /files/
 /filmy
@@ -647,6 +655,7 @@ _vti_
 %20co
 %20on
 %20zappo
+%anchor%
 %d8%
 %title%
 %titlet%
@@ -734,8 +743,11 @@ adderall
 adderoll
 addidas
 adenosyl
+adidas outlet
 adidas-corner
+adidas-outlet
 adidashop
+adidasoutlet
 adipex
 admin.cfm
 admin5
@@ -819,6 +831,7 @@ aripiprex
 armagard.co
 armanito
 aroma-paradise
+artemfrolov
 article-buzz
 article.co
 article.in
@@ -857,6 +870,7 @@ automaticbackup.
 automaticpay
 avatar-live
 avvessories
+b.u.y
 babycanread
 backlink
 baclofen
@@ -897,6 +911,7 @@ ban online
 ban-jacket
 ban-online
 banjacket
+bankbybank
 bankowoz
 bankrobber
 banonline
@@ -933,12 +948,16 @@ benzogenerator
 berracom.ph
 best jersey
 best online
+best pantie
+best panty
 best-diet
 best-direct
 best-discount
 best-fake
 best-home-cinema
 best-jersey
+best-pantie
+best-panty
 best-phone
 best-software-for
 best-way-to
@@ -949,6 +968,8 @@ bestdrug
 bestfake
 bestjersey
 bestlaptop
+bestpantie
+bestpanty
 bestphone
 bestsupplement
 bestsuppliment
@@ -1087,11 +1108,13 @@ busquemail
 busythumb
 butnow
 buy hermes
+buy louis
 buy toms
 buy-cheap
 buy-cig
 buy-gucci
 buy-hair
+buy-louis
 buy-movie
 buy-now
 buy-online
@@ -1107,6 +1130,7 @@ buyhermes
 buying-facebook
 buyjap
 buyjp
+buylouis
 buymovie
 buyonline
 buyplus
@@ -1156,6 +1180,7 @@ carisoprodol
 cars-games
 cartuchos
 casaemail.co
+casebycase
 casesolution
 cash loan
 cash-advance
@@ -1244,6 +1269,7 @@ cheap louis
 cheap moncler
 cheap nike
 cheap oakley
+cheap timberland
 cheap toms
 cheap travel
 cheap ugg
@@ -1263,6 +1289,7 @@ cheap-pandora
 cheap-prada
 cheap-sale
 cheap-sex
+cheap-timberland
 cheap-tms
 cheap-toms
 cheap-travel
@@ -1290,14 +1317,18 @@ cheapprada
 cheaprayban
 cheapsale
 cheapsex
+cheaptimberland
 cheaptms
 cheaptoms
 cheaptravel
 cheapugg
 cheapweb
 cheat.co
+cheats for
 cheats-
+cheats-for
 cheats.co
+cheatsfor
 cheatss
 check32attack
 cheesefruit
@@ -1405,6 +1436,7 @@ com/css
 com/doc
 com/download.asp
 com/forum
+com/ftp
 com/image
 com/profile/
 com/ugg
@@ -1453,6 +1485,9 @@ credit.eu
 creditcard.org
 creditreport
 cristmas-
+cruise vacation
+cruise-vacation
+cruisevacation
 crystalmall
 cure.co.uk
 curehelp
@@ -1594,6 +1629,9 @@ docteurdrebeat
 document_srl
 dokumentov
 dokumentów
+dolce bag
+dolce-bag
+dolcebag
 dollar_service
 dollar-service
 dollarservice
@@ -1695,6 +1733,9 @@ etherdq
 euro-million
 europe nfl
 eurovids
+evelyne bag
+evelyne-bag
+evelynebag
 event_id
 eventid
 every1bet
@@ -1709,8 +1750,11 @@ eyeglass sale
 eyeglasssale
 f_blog_id
 facebok
+facebook advert
+facebook-advert
 facebook-fan
 facebook-traffic
+facebookadvert
 facebookfan
 facebooklike
 factory-outlet
@@ -1869,6 +1913,7 @@ freshwaterpearl
 frlongchamp
 fruta planta
 frutaplanta
+func.php
 func=view
 funds.ru
 funsneaker
@@ -1888,12 +1933,15 @@ furosemide
 furworld.ru
 gabapentin
 gallergrind
+game wiki
 game-casino
 game-copy
+game-wiki
 gamecopy
 gamedesigndegree
 gamegame
 games-casino
+gamewiki
 gangprofil
 garcinia
 gay sex
@@ -1988,19 +2036,24 @@ goodbye.asp
 googlebind
 googleing
 googleusashop
+goose jacka
 goose jacket
 goose outlet
+goose sale
 goose youth
 goose-canada
+goose-jacka
 goose-jacket
 goose-jakke
 goose-outlet
+goose-sale
 goose-vest
 goose-youth
 gooseca
 goosecanada
 goosecheap
 goosedk
+goosejacka
 goosejacket
 goosejakke
 gooseoutlet
@@ -2036,13 +2089,17 @@ gry online
 guaranteed_uptime
 gucchi
 gucci bag
+gucci factory
 gucci handbag
+gucci online
 gucci outlet
 gucci sale
 gucci--
 gucci-bag
+gucci-factory
 gucci-glass
 gucci-handbag
+gucci-online
 gucci-outlet
 gucci-purse
 gucci-replica
@@ -2052,6 +2109,7 @@ gucci-you
 gucci2
 guccibag
 gucciden
+guccifactory
 guccifr
 gucciglass
 guccihandbag
@@ -2132,25 +2190,31 @@ herbalsmoking
 hermes austral
 hermes bag
 hermes belt
+hermes evelyne
 hermes factory
 hermes handbag
 hermes outlet
 hermes scarve
+hermes uk
 hermes wallet
 hermes-bag
 hermes-belt
 hermes-discount
+hermes-evelyne
 hermes-factory
 hermes-outlet
 hermes-replica
+hermes-uk
 hermes-wallet
 hermesbag
 hermesbelt
 hermesdiscount
+hermesevelyne
 hermesfactory
 hermeshut
 hermesoutlet
 hermesreplica
+hermesuk
 hermeswallet
 hfgfh
 hgh-sup
@@ -2222,6 +2286,7 @@ howtounlock
 howtowin
 hppp
 hqsteroid
+htaccrss
 html-article
 html?r
 hugescock
@@ -2247,6 +2312,9 @@ imitrex
 implanty
 impregnacji
 in-disguise
+inclusive vacation
+inclusive-vacation
+inclusivevacation
 income.in
 inderal
 index.html?
@@ -2254,6 +2322,8 @@ index/css
 indexold
 indicators.co
 inetry
+inexpensive vacation
+inexpensive-vacation
 inexpensivevacation
 info/tag
 info/view
@@ -2327,15 +2397,21 @@ ipod-supply
 ipodrepair
 ipodsupply
 irc-chat
+is seo
 is-now-available
+is-seo
 isotretinoine
+isseo
 italy-shop
 italy-store
 italyshop
 italystore
 itemnotfound
+jacket canada
+jacket-canada
 jacket-jp
 jacket-sale
+jacketcanada
 jackets sale
 jackets-for-kids
 jackets-for-men
@@ -2499,6 +2575,9 @@ laurenralph
 lawoffice.net
 le_link
 leaked1
+learn facebook
+learn-facebook
+learnfacebook
 learningxchange
 learnpianohere
 lebronshoe
@@ -2798,6 +2877,7 @@ mod=viewthread
 modafinil
 mode=viewprofile
 moderowany
+moduleinstance
 modules.php
 moldremov
 moncler coat
@@ -2876,16 +2956,19 @@ mulberry bag
 mulberry handbag
 mulberry outlet
 mulberry purse
+mulberry top
 mulberry uk
 mulberry-bag
 mulberry-fashion
 mulberry-handbag
 mulberry-purse
+mulberry-top
 mulberry-uk
 mulberrybag
 mulberryfashion
 mulberryhandbag
 mulberrypurse
+mulberrytop
 muscle-supplement
 musclesupplement
 muzyczna
@@ -2998,6 +3081,7 @@ nude-ass
 nude.htm
 oakeyspascher
 oakley canada
+oakley caveat
 oakley frogskin
 oakley glass
 oakley outlet
@@ -3005,6 +3089,7 @@ oakley sale
 oakley sunglass
 oakley-active
 oakley-canada
+oakley-caveat
 oakley-cheap
 oakley-outlet
 oakley-store
@@ -3012,6 +3097,7 @@ oakley-straight
 oakley-sunglass
 oakleyactive
 oakleycanada
+oakleycaveat
 oakleycheap
 oakleymedusa
 oakleyoutlet
@@ -3050,9 +3136,13 @@ oksex
 oksunglass
 old_site
 oneminutesite
+online cash
+online casino
 online outlet
+online shop
 online-blog
 online-business
+online-cash
 online-casino
 online-cert
 online-classified
@@ -3064,6 +3154,7 @@ online-med
 online-money
 online-outlet
 online-sale
+online-shop
 online-store
 online.de
 online.in
@@ -3071,6 +3162,7 @@ onlinebackup.
 onlineblog
 onlinebusiness
 onlinebuy
+onlinecash
 onlinecasino
 onlinecert
 onlineinvest
@@ -3084,10 +3176,14 @@ onlinepris
 onlines.co
 onlinesale
 onlinesales.co
+onlineshop
 onlinestore
 only-deal
 onsale-
+onsale.asp
 onsale.co
+onsale.htm
+onsale.php
 onsales.co
 opinion.in
 opinions.in
@@ -3528,6 +3624,7 @@ replicastore
 replicawatch
 replicaworld
 reports.php
+resources/styles
 restoremen
 restoril
 retin-a
@@ -3560,6 +3657,7 @@ robedemariee
 robedumariage
 roger-vivier
 rokettube
+roleplay
 rolex-watch
 rolexwatch
 roofingcontractor
@@ -3771,6 +3869,9 @@ skup-aut
 skup,aut
 slimpill
 slongchamp
+slot machine
+slot-machine
+slotmachine
 smallbusinessplan
 smart-drug
 smartdrug
@@ -3919,6 +4020,7 @@ templerun1
 tenormin
 term loan
 termopane
+test.ca
 test.in
 test.tumblr
 test@
@@ -3964,7 +4066,10 @@ tiffanysale
 tiffiny
 tihnikng
 tiki-index
+timberland outlet
+timberland-outlet
 timberlandboot
+timberlandoutlet
 time-synchronisation.co.uk
 timeshare
 tingenieur
@@ -4143,6 +4248,9 @@ ultimate-microsoft
 ultimatemicrosoft
 ultram
 umschuldung
+under pantie
+under-pantie
+underpantie
 unitedidesign
 unknown.ru
 unlock-iphone
@@ -4241,14 +4349,17 @@ vuitton outlet
 vuitton purse
 vuitton sac
 vuitton taschen
+vuitton wallet
 vuitton-bag
 vuitton-purse
 vuitton-usa
+vuitton-wallet
 vuittonbag
 vuittononline
 vuittonpurse
 vuittonsac
 vuittonusa
+vuittonwallet
 wakka=
 wallet outlet
 wallet-outlet
@@ -4283,6 +4394,7 @@ web-view
 web/index.htm
 webcambabe
 webcamsex
+webfarma
 webhosting
 weblinks
 weblog}
@@ -4294,6 +4406,7 @@ webnode.hu
 webnode.it
 webnode.nl
 webpage
+webpharma
 webpromotion
 websex
 website traffic
