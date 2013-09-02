@@ -1,3 +1,10 @@
+
+
+
+
+
+
+
 _borders
 _coupon
 _html
@@ -90,6 +97,8 @@ _vti
 -infotain
 -iphone-4-
 -iphone-5-
+-jacket-
+-jackets-
 -jeremy-scott-
 -jerking-
 -jerking.
@@ -308,6 +317,7 @@ _vti
 @toke.
 *@
 /_notes/
+/_themes/
 /?cat
 /?document_
 /?l1/
@@ -394,6 +404,8 @@ _vti
 /campaign-
 /campaign/
 /campaigns/
+/cartier-
+/cartier.
 /casino
 /chanel_
 /chanel.htm
@@ -414,6 +426,8 @@ _vti
 /customcontrols/
 /customer-care.
 /data/
+/dg-
+/dg.
 /dieta.
 /dior_
 /dior.htm
@@ -514,7 +528,7 @@ _vti
 /mortgage
 /my/groups/
 /n.php
-/netcat_files/
+/netcat_
 /netcat/
 /new.htm
 /news/articles/
@@ -609,6 +623,7 @@ _vti
 /the-sale
 /the-shock
 /thebest
+/themes/
 /thread-
 /tmp/
 /toms.
@@ -782,8 +797,7 @@ airjorda
 airmax
 airmax.htm
 airmaxdeutsch
-airmaxshoe-
-airmaxshoes-
+airmaxshoe
 airport--
 airport-transport
 aitaiwan
@@ -989,7 +1003,10 @@ birkenstock-boston
 birkenstockboston
 birkenstockonsale
 birkenstocksandal
+birkin bag
+birkin-bag
 birkin.htm
+birkinbag
 bisapp
 bitartrate
 biuro-solido
@@ -1094,12 +1111,13 @@ burch-sale
 burchoutlet
 burchsale
 business-info
-business-intelligence
+business-intel
 business-loan
 business-market
 business-network
 businessboss
-businessintelligence
+businessfinder
+businessintel
 businessloan
 businessmarket
 businessnetwork
@@ -1259,7 +1277,11 @@ chaussure-femme
 chaussure-homme
 chaussure-louboutin
 chaussure-puma
+chaussures-asics
+chaussures-femme
+chaussures-homme
 chaussures-louboutin
+chaussures-puma
 chcoin.co
 cheap air
 cheap galaxy
@@ -1268,6 +1290,7 @@ cheap jersey
 cheap louis
 cheap moncler
 cheap nike
+cheap north
 cheap oakley
 cheap timberland
 cheap toms
@@ -1284,6 +1307,7 @@ cheap-jersey
 cheap-michael
 cheap-moncler
 cheap-nike
+cheap-north
 cheap-oakley
 cheap-pandora
 cheap-prada
@@ -1311,6 +1335,7 @@ cheaplouis
 cheapmichael
 cheapmoncler
 cheapnike
+cheapnorth
 cheapoakley
 cheappandora
 cheapprada
@@ -1441,7 +1466,7 @@ com/image
 com/profile/
 com/ugg
 com2.php
-command=read_message
+command=read
 commentabout
 community.atom
 comprar
@@ -1562,8 +1587,8 @@ designerbag
 designerbrand
 designerjewel
 designershoe
-desktop-client.
-desktopclient.
+desktop-client
+desktopclient
 desyrel
 detail/www
 detektiv
@@ -1749,6 +1774,8 @@ extremely}
 eyeglass sale
 eyeglasssale
 f_blog_id
+face jacket
+face-jacket
 facebok
 facebook advert
 facebook-advert
@@ -1757,6 +1784,7 @@ facebook-traffic
 facebookadvert
 facebookfan
 facebooklike
+facejacket
 factory-outlet
 facts-about
 fajki
@@ -2185,8 +2213,11 @@ helpful-information
 helplink.asp
 hemorroides
 hentai
+herbal tincture
+herbal-tincture
 herbalmedicin
 herbalsmoking
+herbaltincture
 hermes austral
 hermes bag
 hermes belt
@@ -2195,6 +2226,7 @@ hermes factory
 hermes handbag
 hermes outlet
 hermes scarve
+hermes store
 hermes uk
 hermes wallet
 hermes-bag
@@ -2204,6 +2236,7 @@ hermes-evelyne
 hermes-factory
 hermes-outlet
 hermes-replica
+hermes-store
 hermes-uk
 hermes-wallet
 hermesbag
@@ -2214,6 +2247,7 @@ hermesfactory
 hermeshut
 hermesoutlet
 hermesreplica
+hermesstore
 hermesuk
 hermeswallet
 hfgfh
@@ -2502,6 +2536,7 @@ keyword.txt
 keywords1
 kfcnfl
 kids nike
+kids outlet
 kids ugg
 kids-nike
 kids-ugg
@@ -2571,7 +2606,9 @@ lasertherapy
 lasix
 lauren outlet
 lauren sale
+lauren-sale
 laurenralph
+laurensale
 lawoffice.net
 le_link
 leaked1
@@ -2780,7 +2817,10 @@ management-software
 manchesterhotel
 manicshop
 maran-trainers
+marant sneaker
+marant-sneaker
 marantrainers
+marantsneaker
 marcjacobsjapan
 marcjacobsjp
 marketing-book
@@ -3459,6 +3499,7 @@ product
 product-sale
 product/product
 produkcja
+profesjonal
 professional-ugg
 professionals.co
 professionalugg
@@ -3862,6 +3903,9 @@ sites24
 siutpd
 sizegenetic
 skelaxin
+skin pigment
+skin_pigment
+skin-pigment
 skjønnhetsprodukter
 sklep
 sklepy
@@ -4067,6 +4111,7 @@ tiffiny
 tihnikng
 tiki-index
 timberland outlet
+timberland shoe
 timberland-outlet
 timberlandboot
 timberlandoutlet
@@ -4342,6 +4387,7 @@ vuitton aust
 vuitton bag
 vuitton deutsch
 vuitton factory
+vuitton fanny
 vuitton france
 vuitton fx
 vuitton online
@@ -4350,16 +4396,21 @@ vuitton purse
 vuitton sac
 vuitton taschen
 vuitton wallet
+vuitton wholesale
 vuitton-bag
+vuitton-fanny
 vuitton-purse
 vuitton-usa
 vuitton-wallet
+vuitton-wholesale
 vuittonbag
+vuittonfanny
 vuittononline
 vuittonpurse
 vuittonsac
 vuittonusa
 vuittonwallet
+vuittonwholesale
 wakka=
 wallet outlet
 wallet-outlet
@@ -4799,6 +4850,7 @@ zyvox
 グッチ
 クラシック
 クロエ
+ショップ
 セイコー
 ダコタ
 ダナー
@@ -4818,10 +4870,14 @@ zyvox
 ミュウ
 モンブラン
 ルブタン
+レプリカ
+仕入れ
 化粧
 博彩
 危機
+商品を
 外贸
+実店舗
 用品
 百家乐
 脿
@@ -4830,5 +4886,6 @@ zyvox
 行動電源
 財布
 赌场
+通信販売
 通販
 金融
