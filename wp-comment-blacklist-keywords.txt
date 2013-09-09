@@ -108,6 +108,7 @@ _vti
 -magazini-
 -malware-
 -marant-
+-marc-jacobs-
 -men-jersey
 -metods-
 -models.co
@@ -371,6 +372,7 @@ _vti
 /baby.
 /babydoll.
 /bag.sh/
+/bags/
 /banners-
 /bazar.
 /bbs/
@@ -1289,11 +1291,17 @@ chaussure-femme
 chaussure-homme
 chaussure-louboutin
 chaussure-puma
+chaussures christian
+chaussures louboutin
 chaussures-asics
+chaussures-christian
 chaussures-femme
 chaussures-homme
 chaussures-louboutin
 chaussures-puma
+chaussureschristian
+chaussuresfr
+chaussureslouboutin
 chcoin.co
 cheap air
 cheap galaxy
@@ -3073,14 +3081,17 @@ needmoney
 net/members/
 netload.in
 neurontin
+new gucci
 new jordans
 new weblog
 new-article
 new-balance
+new-gucci
 new-jordans
 new-oakley
 newarrivals
 newarticle
+newgucci
 newjordans
 newoakley
 news.in
@@ -4907,6 +4918,7 @@ zyvox
 элитныеноутбуки
 юридической
 アウトレット
+アメリカン·エキスプレス
 アルマーニ
 いい
 いホスティング
@@ -4925,6 +4937,7 @@ zyvox
 ネックレス
 バーバリー
 バッグ
+バンクオブアメリカ
 ブーツ
 フェラガモ
 ブランドコピー
@@ -4947,6 +4960,8 @@ zyvox
 実店舗
 用品
 百家乐
+直営店
+真のメリット
 脿
 腕時計
 茅
