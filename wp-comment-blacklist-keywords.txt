@@ -48,6 +48,7 @@ _vti
 -cigarettes-
 -cigarettes.
 -cigars.
+-co.jp
 -cock-
 -cock.
 -comfort-
@@ -412,6 +413,7 @@ _vti
 /china.
 /cigar-
 /cigars-
+/ck.
 /coach.asp
 /coach.htm
 /coachpurses-
@@ -649,10 +651,12 @@ _vti
 /web-design/
 /wedding.
 /wholesale-
+/wholesale.
 /wo.
 /wp-admin/
 /wp-content/
 /wp-includes/
+/wpimages/
 /ww.
 /x.co
 /xchange
@@ -693,6 +697,7 @@ _vti
 1@1
 1@2
 1@3
+1c.info
 1minutesite
 1test.
 1to1
@@ -701,6 +706,7 @@ _vti
 2@1
 2@2
 2@3
+2c.info
 2itb
 2sale.
 2test.
@@ -1140,12 +1146,14 @@ busquemail
 busythumb
 butnow
 buy hermes
+buy jordan
 buy louis
 buy toms
 buy-cheap
 buy-cig
 buy-gucci
 buy-hair
+buy-jordan
 buy-louis
 buy-movie
 buy-now
@@ -1161,6 +1169,7 @@ buyhair
 buyhermes
 buying-facebook
 buyjap
+buyjordan
 buyjp
 buylouis
 buymovie
@@ -1209,6 +1218,7 @@ card-debt
 care-cream
 carinsurance
 carisoprodol
+carreramoinscher
 cars-games
 cartuchos
 casaemail.co
@@ -1268,18 +1278,21 @@ chanel handbag
 chanel out
 chanel purse
 chanel replica
+chanel sac
 chanel--
 chanel-bag
 chanel-online
 chanel-out
 chanel-purse
 chanel-replica
+chanel-sac
 chanel-sale
 chanelbag
 chanelonline
 chanelout
 chanelpurse
 chanelreplica
+chanelsac
 chanelsale
 channel-operator
 chantix
@@ -1312,6 +1325,7 @@ cheap moncler
 cheap nike
 cheap north
 cheap oakley
+cheap sunglass
 cheap timberland
 cheap toms
 cheap travel
@@ -1333,6 +1347,7 @@ cheap-pandora
 cheap-prada
 cheap-sale
 cheap-sex
+cheap-sunglass
 cheap-timberland
 cheap-tms
 cheap-toms
@@ -1362,6 +1377,7 @@ cheapprada
 cheaprayban
 cheapsale
 cheapsex
+cheapsunglass
 cheaptimberland
 cheaptms
 cheaptoms
@@ -1668,6 +1684,7 @@ djtool
 do=blog
 dobrucki.co
 dobrucki.pl
+doc/soap
 docid=
 doctermarten
 docteurdrebeat
@@ -1697,9 +1714,12 @@ downloadbracelet
 doxycycline
 drdreheadphone
 dre beat
+dre cheap
 dre-beat
 dre-beats
+dre-cheap
 drebeat
+drecheap
 dresshop
 dresssale
 drivewayservice
@@ -1959,6 +1979,7 @@ freevideo
 freewebsite
 freshwaterpearl
 frlongchamp
+frmoncler
 fruta planta
 frutaplanta
 func.php
@@ -2182,6 +2203,12 @@ guest-post
 guestpost
 guru1
 gurus1
+hack facebook
+hack fb
+hack-facebook
+hack-fb
+hackfacebook
+hackfb
 hair-again
 hair-grow
 hair-remov
@@ -2549,6 +2576,15 @@ jpmonster
 jpsasics
 jsadidas
 juicycouture
+kaepernick jersey
+kaepernick women
+kaepernick youth
+kaepernick-jersey
+kaepernick-women
+kaepernick-youth
+kaepernickjersey
+kaepernickwomen
+kaepernickyouth
 kaffee-maschine
 kaffeemaschine
 kamagra
@@ -2953,30 +2989,39 @@ moduleinstance
 modules.php
 moldremov
 moncler coat
+moncler femme
+moncler homme
 moncler jacket
 moncler men
 moncler online
 moncler out
 moncler parka
+moncler pascher
 moncler ski
 moncler uk
 moncler vest
 moncler--
 moncler-coat
+moncler-femme
+moncler-homme
 moncler-jacket
 moncler-men
 moncler-online
 moncler-out
 moncler-parka
+moncler-pascher
 moncler-ski
 moncler-uk
 moncler-vest
 monclercoat
+monclerfemme
+monclerhomme
 monclerjacket
 monclermen
 moncleronline
 monclerout
 monclerparka
+monclerpascher
 monclerski
 moncleruk
 monclervest
@@ -3046,6 +3091,7 @@ mulberrypurse
 mulberrytop
 muscle-supplement
 musclesupplement
+muscularwoman
 muzyczna
 muzyczny
 my blog
@@ -3092,6 +3138,7 @@ new-oakley
 newarrivals
 newarticle
 newgucci
+newhong
 newjordans
 newoakley
 news.in
@@ -3114,6 +3161,7 @@ nicoban
 nieruchomosci
 nike free
 nike jordan
+nike shoe
 nike total
 nike-air-max
 nike-and-shoe
@@ -3122,6 +3170,7 @@ nike-free
 nike-freerun
 nike-jordan
 nike-main
+nike-shoe
 nike-total
 nikeairmax
 nikeairshop
@@ -3134,6 +3183,7 @@ nikefreerunjp
 nikejordan
 nikemain
 nikepasch
+nikeshoe
 nikeshop
 nikesportjap
 nikesportjp
@@ -3733,6 +3783,7 @@ reviewx
 reviot
 revolutionjog
 revolutionstroller
+rheumatoidarthritis
 rich woolrich
 rich-woolrich
 richwoolrich
@@ -4037,6 +4088,7 @@ studiobeat
 studiosbeat
 stumpmaster
 stunningq
+stylevip
 stylomontblanc
 stylowe
 succeed-online
@@ -4128,6 +4180,7 @@ tetracycline
 texansjersey
 thailove
 thanks.i
+thatover
 thatprofit
 the_benefits_of
 the-benefits-of
@@ -4298,12 +4351,18 @@ ugglove
 uggofficial
 uggonline
 uggout
+uggs kopen
+uggs nederland
+uggs ugly
 uggs-boot
 uggs-for
+uggs-kopen
+uggs-nederland
 uggs-on
 uggs-out
 uggs-sale
 uggs-site
+uggs-ugly
 uggs-uk
 uggs-usa
 uggs.co
@@ -4313,11 +4372,14 @@ uggsboot
 uggscheap
 uggsfor
 uggsite
+uggskopen
 uggslove
+uggsnederland
 uggsold
 uggsonline
 uggsout
 uggssite
+uggsugly
 uggsusa
 uggusa
 uk sale
@@ -4369,6 +4431,7 @@ uroda
 user_blog.php
 userinfo.
 ut.ag/
+uustore
 valium
 valtrex
 valueble
@@ -4447,12 +4510,14 @@ vuitton online
 vuitton out
 vuitton purse
 vuitton sac
+vuitton speed
 vuitton taschen
 vuitton wallet
 vuitton wholesale
 vuitton-bag
 vuitton-fanny
 vuitton-purse
+vuitton-speed
 vuitton-uk
 vuitton-usa
 vuitton-wallet
@@ -4462,6 +4527,7 @@ vuittonfanny
 vuittononline
 vuittonpurse
 vuittonsac
+vuittonspeed
 vuittonuk
 vuittonusa
 vuittonwallet
