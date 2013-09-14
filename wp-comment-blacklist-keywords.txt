@@ -1,4 +1,4 @@
-_borders
+_border
 _coupon
 _html
 _marketing
@@ -100,6 +100,7 @@ _vti
 -jersey.co
 -kredyt
 -lacoste-
+-link.jp
 -linkbuild
 -loan-
 -loans-
@@ -438,6 +439,7 @@ _vti
 /empower-
 /en.
 /eng/index
+/engine/
 /errorx/
 /extreme-
 /fashion-
@@ -484,6 +486,7 @@ _vti
 /hotdeals/
 /ii/
 /img/
+/inc/
 /include/
 /includes/
 /index.php/
@@ -948,14 +951,17 @@ bbombr
 bddv
 beamten
 beatbydre
+beats studio
 beats-dr-dre
 beats-dre
+beats-studio
 beats+by+dre
 beatsbydrdre
 beatsbydre
 beatscustom
 beatsdrdre
 beatsdre
+beatsstudio
 beautiful-women
 beautifulwomen
 bee-pollen.
@@ -1089,8 +1095,11 @@ botanical slim
 botanical-slim
 bracelet-sale
 braceletsale
+brand engage
 brand-corner
+brand-engage
 brand-jp
+brandengage
 brandjp
 bravemed
 brazzer
@@ -1712,6 +1721,7 @@ download.htm
 download.pl
 downloadbracelet
 doxycycline
+drayvera
 drdreheadphone
 dre beat
 dre cheap
@@ -1749,7 +1759,10 @@ ejaculationpharm
 el-gordo.c
 elamale
 elavil
+elite jersey
+elite-jersey
 elite-men
+elitejersey
 eloans
 elwayjersey
 email.htm
@@ -1815,16 +1828,22 @@ eyeglass sale
 eyeglasssale
 f_blog_id
 face jacket
+face terra
 face-jacket
+face-terra
 facebok
 facebook advert
+facebook classified
 facebook-advert
+facebook-classified
 facebook-fan
 facebook-traffic
 facebookadvert
+facebookclassified
 facebookfan
 facebooklike
 facejacket
+faceterra
 factory-out
 facts-about
 fajki
@@ -2066,6 +2085,7 @@ giuseppezanotti
 gkhk
 glamorousbag
 glasses-tokyo
+glassess
 glassestokyo
 gleevec
 glitter ugg
@@ -2161,29 +2181,39 @@ gry online
 guaranteed_uptime
 gucchi
 gucci bag
+gucci envy
 gucci factory
+gucci guilt
 gucci handbag
 gucci online
 gucci out
 gucci sale
+gucci time
+gucci vintage
 gucci--
 gucci-bag
+gucci-envy
 gucci-factory
 gucci-glass
+gucci-guilt
 gucci-handbag
 gucci-online
 gucci-out
 gucci-purse
 gucci-replica
 gucci-sale
+gucci-time
 gucci-uk
+gucci-vintage
 gucci-you
 gucci2
 guccibag
 gucciden
+guccienvy
 guccifactory
 guccifr
 gucciglass
+gucciguilt
 guccihandbag
 gucciiuk
 guccij
@@ -2197,7 +2227,9 @@ guccireplica
 guccisale
 guccisingapore
 gucciten
+guccitime
 gucciuk
+guccivintage
 gucciyu
 guest-post
 guestpost
@@ -2533,6 +2565,7 @@ jersetblack
 jersey wholesale
 jersey-pro
 jersey-wholesale
+jersey.us
 jersey+
 jerseyonline
 jerseypro
@@ -2541,6 +2574,7 @@ jerseys wholesale
 jerseys-4-you
 jerseys-for-you
 jerseys-wholesale
+jerseys.us
 jerseys4you
 jerseysforyou
 jerseysusa
@@ -2592,12 +2626,14 @@ kaepernickyouth
 kaffee-maschine
 kaffeemaschine
 kamagra
+kameri
 kanalizacyjne
 kanyewestsun
 kardashian
 karpaczwsieci
 karuteie
 katalog
+katespadese
 keygen
 keylessremote
 keyword.txt
@@ -2822,6 +2858,9 @@ lovingnatural
 low-cost-
 lublin.
 lublina.
+luck jersey
+luck-jersey
+luckjersey
 luggagetote
 lumigan
 lunarglide
@@ -3485,9 +3524,12 @@ pharmacy
 pharmaun
 phentermine
 phlebotomy
+phone advert
+phone-advert
 phone-jammer
 phone-lookup
 phone-number-lookup
+phoneadvert
 phonejammer
 phonelookup
 phonescanada
@@ -3651,6 +3693,7 @@ puzzle-maker
 puzzlemaker
 q=blog
 q=node
+qry_page
 qtrade
 queenjp
 quick loans
@@ -3678,8 +3721,11 @@ ravensfan
 ray-ban-aviator
 ray-ban-folding
 ray-bans
+rayban glass
 rayban-cheap
+rayban-glass
 raybaneye
+raybanglass
 raybanpascher
 raybanslunette
 raybansuk
@@ -3864,6 +3910,9 @@ samedayloans
 sample@
 sandaljp
 sandalsjp
+sanders jersey
+sanders-jersey
+sandersjersey
 satcheldbag
 scam.html
 scam.in
@@ -3876,6 +3925,8 @@ schlgsseldienste
 schlüsseldienste
 sciatica pain
 scrapebox
+seahawks jersey
+seahawks-jersey
 seahawksjersey
 search-engine-opt
 searchengine-opt
@@ -4439,6 +4490,7 @@ user_blog.php
 userinfo.
 ut.ag/
 uustore
+uy/image
 valium
 valtrex
 valueble
@@ -4564,6 +4616,8 @@ wayfarer glass
 wayfarer-glass
 wayfarerglass
 wdmypass
+web anal
+web-anal
 web-hosting
 web-promotion
 web-site
@@ -4571,6 +4625,7 @@ web-solution
 web-traffic
 web-view
 web/index.htm
+webanal
 webcambabe
 webcamsex
 webfarma
@@ -4657,6 +4712,9 @@ wiki/%
 wiki/index
 wiki/user
 wikka.php
+wilson jersey
+wilson-jersey
+wilsonjersey
 win7.co
 win7pro
 win8.co
