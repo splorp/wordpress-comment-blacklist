@@ -106,6 +106,7 @@ _vti
 -loans-
 -longchamp-
 -lottery.
+-lover-
 -magazin-
 -magazini-
 -malware-
@@ -476,6 +477,8 @@ _vti
 /gucci.htm
 /guest-book
 /guestbook
+/haglofs-
+/haglofs.
 /handle/
 /hentai
 /hermes-
@@ -548,6 +551,8 @@ _vti
 /niketn.
 /ninnki
 /node/
+/northface-
+/northface.
 /oakley.
 /oakleycan
 /offering/
@@ -604,8 +609,10 @@ _vti
 /salvia/
 /scarpe-
 /sconfig/
+/secure/
 /seo
 /sex
+/show/
 /sigareta-
 /sigarety-
 /sinsaku
@@ -1235,6 +1242,9 @@ card-debt
 care-cream
 carinsurance
 carisoprodol
+carrera lunette
+carrera-lunette
+carreralunette
 carreramoinscher
 cars-games
 cartuchos
@@ -1323,15 +1333,18 @@ chaussure-louboutin
 chaussure-puma
 chaussures christian
 chaussures louboutin
+chaussures sport
 chaussures-asics
 chaussures-christian
 chaussures-femme
 chaussures-homme
 chaussures-louboutin
 chaussures-puma
+chaussures-sport
 chaussureschristian
 chaussuresfr
 chaussureslouboutin
+chaussuressport
 chcoin.co
 cheap air
 cheap galaxy
@@ -2426,6 +2439,7 @@ hydrotherapy
 hydroxatone
 hydroxy
 hyper-fb
+hypothyroidism
 hyzaar
 ï¿½
 ia€?ll
@@ -3169,7 +3183,10 @@ name-brand-
 namebrandpurse
 nanogold
 naproxen
+natural cure
+natural-cure
 natural-way
+naturalcure
 naturalovarian
 naturalway
 nba jersey
@@ -5112,6 +5129,7 @@ zyvox
 トレッキングシューズ
 ニューバランス
 ネックレス
+ノースフェイス
 バーバリー
 バッグ
 バンクオブアメリカ
@@ -5120,6 +5138,7 @@ zyvox
 ブランドコピー
 ブルガリ
 ブレスレット
+ホグロフス
 ボッテガ
 マークジェイコブス
 ミ
