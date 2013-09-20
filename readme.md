@@ -24,7 +24,7 @@ The blacklist was written up by [John Saddington](http://john.do/) over at [WP D
 
 ### Mad Props
 
-Special thanks to [Claudio Schwarz](https://github.com/purzlbaum) and [Volker J. Schmidt](https://github.com/VolkerJSchmidt) for suggesting a handful of useful additions to the blacklist.
+Special thanks to [Claudio Schwarz](https://github.com/purzlbaum) and [Volker J. Schmidt](https://github.com/VolkerJSchmidt) for suggesting some useful additions.
 
 ### Questions?
 
