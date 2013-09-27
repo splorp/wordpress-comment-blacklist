@@ -60,6 +60,7 @@ _vti
 -demo1
 -dieta-
 -dieta.
+-directory.
 -discount
 -doktora-
 -drmartens-
@@ -588,6 +589,7 @@ _vti
 /ra.php
 /ray-ban/
 /read.php
+/readme.
 /readnews.
 /refreshers.
 /reg_
@@ -2291,6 +2293,7 @@ guccifr
 gucciglass
 gucciguilt
 guccihandbag
+gucciinstock
 gucciiuk
 guccij
 guccikan
@@ -2503,6 +2506,7 @@ hydroxy
 hyper-fb
 hypothyroidism
 hyzaar
+i-will-be
 ï¿½
 ia€?ll
 image/cache
@@ -2521,6 +2525,9 @@ inclusive vacation
 inclusive-vacation
 inclusivevacation
 income.in
+increase traffic
+increase-traffic
+increasetraffic
 inderal
 index.html?
 index/css
@@ -3029,11 +3036,14 @@ manchesterhotel
 manicshop
 maran-trainers
 marant boot
+marant shoe
 marant sneaker
 marant-boot
+marant-shoe
 marant-sneaker
 marantboot
 marantrainers
+marantshoe
 marantsneaker
 marcjacobsjapan
 marcjacobsjp
@@ -3147,6 +3157,7 @@ moncler coat
 moncler femme
 moncler homme
 moncler jacket
+moncler man
 moncler men
 moncler online
 moncler out
@@ -3161,6 +3172,7 @@ moncler-coat
 moncler-femme
 moncler-homme
 moncler-jacket
+moncler-man
 moncler-men
 moncler-online
 moncler-out
@@ -3174,6 +3186,7 @@ monclercoat
 monclerfemme
 monclerhomme
 monclerjacket
+monclerman
 monclermen
 moncleronline
 monclerout
@@ -3922,6 +3935,7 @@ replica louis
 replica nba
 replica rayban
 replica service
+replica top
 replica watch
 replica_nba
 replica-bag
@@ -3939,6 +3953,7 @@ replica-rayban
 replica-rolex
 replica-service
 replica-store
+replica-top
 replica-world
 replica7
 replica8
@@ -3959,6 +3974,7 @@ replicarayban
 replicarolex
 replicaservice
 replicastore
+replicatop
 replicawatch
 replicaworld
 reports.php
@@ -4052,6 +4068,7 @@ sales-inspir
 sales-training
 sales.co.uk
 sales+
+salesclassroom
 salesfactory
 saleshop
 salesshop
@@ -4079,6 +4096,7 @@ scarrepair
 schlgsseldienste
 schlüsseldienste
 sciatica pain
+scoriescod
 scrapebox
 seahawks jersey
 seahawks-jersey
@@ -4546,6 +4564,7 @@ ugboos
 ugbos
 ugg australia
 ugg boot
+ugg outlet
 ugg-best
 ugg-boot
 ugg-comfort
@@ -4553,6 +4572,7 @@ ugg-for
 ugg-official
 ugg-on
 ugg-out
+ugg-outlet
 ugg-sale
 ugg-site
 ugg-uk
@@ -4571,8 +4591,10 @@ ugglove
 uggofficial
 uggonline
 uggout
+uggoutlet
 uggs kopen
 uggs nederland
+uggs outlet
 uggs ugly
 uggs-boot
 uggs-for
@@ -4580,6 +4602,7 @@ uggs-kopen
 uggs-nederland
 uggs-on
 uggs-out
+uggs-outlet
 uggs-sale
 uggs-site
 uggs-ugly
@@ -4598,6 +4621,7 @@ uggsnederland
 uggsold
 uggsonline
 uggsout
+uggsoutlet
 uggssite
 uggsugly
 uggsusa
@@ -4772,6 +4796,7 @@ wallet-out
 walletout
 wallinside
 walmartbuy
+wantsand
 warcraftguide
 ware-crack
 warecrack
@@ -4863,12 +4888,14 @@ whitehat
 wholesale cheap
 wholesale china
 wholesale free
+wholesale jersey
 wholesale jordan
 wholesale nba
 wholesale polo
 wholesale-cheap
 wholesale-china
 wholesale-free
+wholesale-jersey
 wholesale-jordan
 wholesale-mac
 wholesale-nba
