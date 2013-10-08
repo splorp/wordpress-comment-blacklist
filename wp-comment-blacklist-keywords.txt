@@ -73,6 +73,8 @@ _vti
 -filmy
 -for-adults
 -for-sale
+-for-u-
+-for-u.
 -foreclosed-
 -foreclosure-
 -fotograf.
@@ -306,6 +308,7 @@ _vti
 *@
 /_notes/
 /_themes/
+/-_
 /?cat
 /?document_
 /?l1/
@@ -548,6 +551,7 @@ _vti
 /niketn.
 /ninnki
 /node/
+/north-face-
 /northface-
 /northface.
 /oakley.
@@ -575,7 +579,7 @@ _vti
 /post:
 /pozew
 /prada_
-/prada.htm
+/prada.
 /pricing.
 /privat-
 /product/0/
@@ -596,6 +600,7 @@ _vti
 /read.php
 /readme.
 /readnews.
+/recap/
 /refreshers.
 /reg_
 /remote-desktop
@@ -873,6 +878,7 @@ apex bionic
 apex-bionic
 apexbionic
 app.php
+appyourself
 aquarius-compat
 areplica
 aricept
@@ -1008,6 +1014,7 @@ belt-replica
 beltreplica
 benzoclin
 benzogenerator
+berlinmoncler
 berracom.ph
 best jersey
 best online
@@ -1304,14 +1311,21 @@ celebrity-nude
 celebritynude
 celexa
 celine bag
+celine hand
 celine luggage
+celine shop
 celine tote
 celine-bag
+celine-hand
 celine-luggage
+celine-shop
 celine-tote
+celine.gear
 celinebag
+celinehand
 celinehandbag
 celineluggage
+celineshop
 celinetote
 cellskin
 cellulitefree
@@ -2234,6 +2248,7 @@ goodbye.asp
 googlebind
 googleing
 googleusashop
+goose chilliwack
 goose femme
 goose homme
 goose jacka
@@ -2538,6 +2553,7 @@ how-to-take
 how-to-teach
 how-to-win
 howtobuy
+howtocreate
 howtocure
 howtomake
 howtoreg
@@ -2564,6 +2580,7 @@ hyzaar
 i-will-be
 ï¿½
 ia€?ll
+idanmark
 image/cache
 images/cache
 images/image
@@ -2672,6 +2689,9 @@ irc-chat
 is seo
 is-now-available
 is-seo
+isabel marant
+isabel-marant
+isabelmarant
 isotretinoine
 isseo
 istanbul escort
@@ -2682,6 +2702,7 @@ italy-store
 italyshop
 italystore
 itemnotfound
+jackenwest
 jacket canada
 jacket sale
 jacket-canada
@@ -3250,6 +3271,7 @@ moncler ski
 moncler tibet
 moncler uk
 moncler vest
+moncler weste
 moncler westen
 moncler--
 moncler-cap
@@ -3268,6 +3290,7 @@ moncler-ski
 moncler-tibet
 moncler-uk
 moncler-vest
+moncler-weste
 moncler-westen
 monclercap
 monclercoat
@@ -3285,6 +3308,7 @@ monclerski
 monclertibet
 moncleruk
 monclervest
+monclerweste
 monclerwesten
 money-site
 money.html
@@ -3425,18 +3449,22 @@ nflofficial
 nflshop
 nfr.cfm
 niaspan
+nicki-mariah
 nicoban
 nieruchomosci
 nike free
+nike jersey
 nike jordan
 nike run
 nike shoe
 nike total
+nike_jersey
 nike-air-max
 nike-and-shoe
 nike-dunk
 nike-free
 nike-freerun
+nike-jersey
 nike-jordan
 nike-main
 nike-run
@@ -3449,6 +3477,7 @@ nikeause
 nikedunk
 nikefree
 nikefreerun
+nikejersey
 nikejordan
 nikemain
 nikepasch
@@ -3711,6 +3740,7 @@ pantypics
 pantyplay
 parajumpers
 paris model
+paris-for
 paris-model
 paris-royal
 parismodel
@@ -4365,6 +4395,7 @@ shopping+
 shopping24
 shoppingcenter.co
 shoppingugg
+shopuk
 shorttermloan
 show_info
 show_member_post
@@ -4454,6 +4485,9 @@ sportbikepart
 sportbook
 sportsbet
 sportsbook
+sportsfanshop
+sportsfanstore
+sportsgear
 sportsjersey
 sprzedaz
 spyder-jacket
@@ -4604,6 +4638,7 @@ themebasic
 themegenerat
 thetopdog
 things-consumers
+things-we-love
 this weblog
 this-review
 thm.htm
@@ -4835,6 +4870,7 @@ umschuldung
 under pantie
 under-pantie
 underpantie
+underthe
 unitedidesign
 unknown.ru
 unlock-iphone
@@ -4907,6 +4943,7 @@ vigrx
 vimax
 vinhobrasil.
 vintage-erotic
+vinterjakker
 viramune
 virtual sex
 virtual-sex
@@ -5297,6 +5334,7 @@ yo-dick
 yoigucci.co
 you-ugg
 you-want-it
+youll-need
 young porn
 young_porn
 young-porn
@@ -5335,8 +5373,10 @@ yoursite
 yoursuccess
 yourwebsite
 youtube down
+youtube video
 youtube view
 youtube-down
+youtube-video
 youtube-view
 youtubedown
 youtubeview
@@ -5398,6 +5438,7 @@ zyvox
 инете
 интересной
 казино
+качест
 качественный
 квартир
 китай
@@ -5415,6 +5456,7 @@ zyvox
 недорого
 обучение
 объявлени
+одежда
 онлайн
 отличные
 официальных
@@ -5515,4 +5557,5 @@ zyvox
 通信販売
 通販
 金融
+鈥?
 銉
