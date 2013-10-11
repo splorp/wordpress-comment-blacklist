@@ -16,11 +16,12 @@ I don’t blame you if you’re skeptical about how well this blacklist works co
 
 However, [Jason Cosper](https://github.com/boogah) reports that he used the blacklist on a client’s WordPress installation containing 800,000 or so comments. The blacklist flagged 40% of those comments as “spammy”. As a sanity check, he then exported those flagged comments to a local WordPress install and subsequently had Akismet do its thing. According to Jason, there were [“zero false positives.”](https://twitter.com/boogah/status/292031513590128640)
 
-Impressive, wot?
+Still need convincing? The blacklist was featured over at [WP Daily](http://wpdaily.co/) in [John Saddington](http://john.do
+/)’s enticingly titled post, [Die Spam! Blacklist That Shiz with This Gist!](http://wpdaily.co/comment-blacklist-gist/)
 
-### Still need convincing?
+### Technical Considerations
 
-The blacklist was written up by [John Saddington](http://john.do/) over at [WP Daily](http://wpdaily.co/) in the enticingly named post [Die Spam! Blacklist That Shiz with This Gist!](http://wpdaily.co/comment-blacklist-gist/)
+WordPress stores the contents of  [Comment Blacklist](http://codex.wordpress.org/Combating_Comment_Spam#Comment_Blacklist) in MySQL `blacklist_keys` field where the blacklist is stored is defined as a `longtext` data type which can contain up to 4,294,967,295 bytes (approximately 4GB) of text. There is no chance of us running out of room to expand the blacklist any time soon
 
 ### Mad Props
 
