@@ -21,7 +21,7 @@ Still need convincing? The blacklist was featured over at [WP Daily](http://wpda
 
 ### Technical Considerations
 
-WordPress stores the contents of  [Comment Blacklist](http://codex.wordpress.org/Combating_Comment_Spam#Comment_Blacklist) in MySQL `blacklist_keys` field where the blacklist is stored is defined as a `longtext` data type which can contain up to 4,294,967,295 bytes (approximately 4GB) of text. There is no chance of us running out of room to expand the blacklist any time soon
+WordPress stores the contents of the [Comment Blacklist](http://codex.wordpress.org/Combating_Comment_Spam#Comment_Blacklist) setting in a MySQL column. The `blacklist_keys` column is defined as a `longtext` data type, which can contain up to 4,294,967,295 bytes (approximately 4GB) of text. There is no chance of us running out of room to expand the blacklist any time soon.
 
 ### Mad Props
 
