@@ -12,6 +12,7 @@ _vti
 --service
 --shuttle
 -(
+-abercrombiefitch-
 -acne-
 -acne/
 -adsense-
@@ -247,6 +248,7 @@ _vti
 .htn
 .info.pl
 .insanity-
+.internet-
 .jp/my/
 .longchamp-
 .magix.net
@@ -349,6 +351,7 @@ _vti
 /5.htm
 /about.
 /acai
+/add.
 /addfeed/
 /admin/
 /administration/
@@ -381,6 +384,7 @@ _vti
 /blog/post
 /blog/view
 /blogid
+/bloglist/
 /blogs/entry
 /blogs/item
 /blogs/post
@@ -512,6 +516,7 @@ _vti
 /kredyt
 /lang-es/
 /libs/
+/lingerie.
 /link/
 /linkdetail
 /linknum
@@ -647,6 +652,7 @@ _vti
 /thread-
 /tmp/
 /toms.
+/top100.
 /trac/ticket/
 /trackback
 /ugg-
@@ -1627,6 +1633,7 @@ com/ugg
 com/user
 com2.php
 command=read
+comment-page
 commentabout
 community.atom
 comprar
@@ -1962,8 +1969,12 @@ fabulous drug
 fabulous-drug
 fabulousdrug
 face jacket
+face outlet
+face store
 face terra
 face-jacket
+face-outlet
+face-store
 face-terra
 facebok
 facebook advert
@@ -1977,6 +1988,8 @@ facebookclassified
 facebookfan
 facebooklike
 facejacket
+faceoutlet
+facestore
 faceterra
 factory-out
 facts-about
@@ -2095,6 +2108,9 @@ fr/longchamp
 fradidas
 francemaillot
 fraudcenter
+frauen puma
+frauen-puma
+frauenpuma
 free gay
 free visitor
 free-bbs
@@ -2339,6 +2355,7 @@ gucci bag
 gucci discount
 gucci envy
 gucci factory
+gucci gucci
 gucci guilt
 gucci handbag
 gucci online
@@ -2353,6 +2370,7 @@ gucci-discount
 gucci-envy
 gucci-factory
 gucci-glass
+gucci-gucci
 gucci-guilt
 gucci-handbag
 gucci-online
@@ -2373,6 +2391,7 @@ guccienvy
 guccifactory
 guccifr
 gucciglass
+guccigucci
 gucciguilt
 guccihandbag
 gucciinstock
@@ -2623,6 +2642,7 @@ increase traffic
 increase-traffic
 increasetraffic
 inderal
+indeutschland
 index.html?
 index/css
 indexold
@@ -2684,6 +2704,7 @@ investing+
 investmoney
 investoff
 investor.ru
+inzest
 ipad-2-case
 ipad-download
 ipad-repair
@@ -3129,6 +3150,7 @@ mac-makeup
 maclipgloss
 macmakeup
 madeye30
+magazine/page1
 magicmoncler
 mail.ru
 maillot ukraine
@@ -3137,6 +3159,7 @@ maillot-maillot
 maillot-ukraine
 maillotukraine
 main.htm
+main/main
 make money
 make-backup
 make-millions
@@ -3155,6 +3178,12 @@ manage/new
 management-software
 manchesterhotel
 manicshop
+manner puma
+månner puma
+manner-puma
+månner-puma
+mannerpuma
+månnerpuma
 maran-trainers
 marant boot
 marant shoe
@@ -3194,11 +3223,14 @@ maxsale
 may_help_you
 may-help-you
 mbt schuhe
+mbt shoe
 mbt-japan
 mbt-schuhe
+mbt-shoe
 mbtgun
 mbtjapan
 mbtschuhe
+mbtshoe
 mbtsko
 mcm.co
 mcqueen dress
@@ -3755,6 +3787,7 @@ oxycontin
 p90x
 packersjersey
 page.tl
+page/page
 pagss.htm
 pain-relief.
 painrelief.
@@ -3773,9 +3806,9 @@ pandorajewelry
 pandorauk
 panty pics
 panty play
+panty sex
 panty-pics
 panty-play
-panty sex
 panty-sex
 pantymania
 pantypics
@@ -3911,6 +3944,7 @@ pornolady
 pornsex
 post-service
 post.much
+post.pw
 postcarf
 posttestimonial
 powerbank
@@ -4007,6 +4041,9 @@ pucci-out
 puccidress
 pucciout
 pufy.
+puma schuhe
+puma-schuhe
+pumaschuhe
 pure-jobs
 purse online
 purse out
@@ -4113,6 +4150,8 @@ religion jeans
 religion-jeans
 religionjeans
 rellay
+remarkable post
+remarkable-post
 rent_in
 rent-car
 rentinsur
@@ -4289,6 +4328,9 @@ scarpehogan
 scarrepair
 schlgsseldienste
 schlüsseldienste
+schuhe puma
+schuhe-puma
+schuhepuma
 sciatica pain
 scoriescod
 scrapebox
@@ -4550,8 +4592,11 @@ stone-japan
 stonejapan
 stop-smoking
 store austral
+store gucci
+store-gucci
 store-service
 store.org
+storegucci
 storejp
 strategies-for
 strategy-for
@@ -4800,6 +4845,7 @@ trickphoto
 trimethoprim
 triviatrivia
 trollapp
+true search
 truthabout
 try-these
 tubee.tv
@@ -5062,6 +5108,7 @@ wallet-out
 walletout
 wallinside
 walmartbuy
+walmartmail
 wantsand
 warcraftguide
 ware-crack
@@ -5071,6 +5118,7 @@ warehouse.org
 warehouse.pl
 warehouse.ru
 warehouse.us
+warepics
 warmjp
 warszawa
 watch-replica
@@ -5142,6 +5190,7 @@ wetting pant
 wetting-pant
 wettingpant
 weusecoins
+what-we-know
 whatsapp
 wheels.co
 wheels.net
@@ -5565,8 +5614,10 @@ zyvox
 グッチ
 クラシック
 クロエ
+ショッパー
 ショップ
 セイコー
+セリーヌ
 ダコタ
 ダナー
 チャンルー
@@ -5580,6 +5631,7 @@ zyvox
 バンクオブアメリカ
 ブーツ
 フェラガモ
+ブが広がります
 ブランドコピー
 ブルガリ
 ブレスレット
@@ -5589,15 +5641,18 @@ zyvox
 マークジェイコブス
 ミ
 モンブラン
+ラゲージ
 ルイヴィトン
 ルブタン
 レプリカ
 ロレックス
+ワンランク上の
 仕入れ
 化粧
 博彩
 危機
 吉田カバン
+商品
 商品を
 外贸
 実店舗
@@ -5606,6 +5661,7 @@ zyvox
 百家乐
 直営店
 真のメリット
+綺麗め
 脿
 腕時計
 茅
