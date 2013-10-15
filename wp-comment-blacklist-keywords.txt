@@ -308,6 +308,7 @@ _vti
 @mail-
 @toke.
 *@
+/_data/
 /_notes/
 /_themes/
 /-_
@@ -400,6 +401,7 @@ _vti
 /campaign-
 /campaign/
 /campaigns/
+/carinsur.
 /cartier-
 /cartier.
 /casino
@@ -426,6 +428,7 @@ _vti
 /css/
 /customcontrols/
 /customer-care.
+/damen-moncler
 /data/
 /dg-
 /dg.
@@ -511,6 +514,7 @@ _vti
 /js.
 /js/
 /just.
+/kinder-moncler
 /konsultan
 /kredit
 /kredyt
@@ -529,6 +533,7 @@ _vti
 /lv.
 /mailer/
 /malware/
+/manolo-blahnik
 /massage
 /med-
 /mediawiki/
@@ -657,6 +662,7 @@ _vti
 /trackback
 /ugg-
 /uggs-
+/uploads/
 /url/
 /usa.htm
 /user_detail
@@ -668,6 +674,8 @@ _vti
 /vb/
 /view_my/
 /viewstory/
+/visit.
+/visite.
 /web-design/
 /wedding.
 /wholesale-
@@ -1104,16 +1112,19 @@ black-www
 blackhat
 blackjack
 blacklabelj
+blog platform
 blog_entry_
 blog_entry.
 blog_id
 blog_post_
+blog-platform
 blog-tricks
 blog-view
 blog.asp
 blogentry_
 blogentry.
 blogid
+blogplatform
 blogs-tricks
 blogs.blog
 blogtitle
@@ -1220,6 +1231,9 @@ buspirone
 busquemail
 busythumb
 butnow
+button ugg
+button-ugg
+buttonugg
 buy hermes
 buy jordan
 buy louis
@@ -1297,7 +1311,9 @@ carrera lunette
 carrera-lunette
 carreralunette
 carreramoinscher
+cars insurance
 cars-games
+cars-insurance
 cartuchos
 casaemail.co
 casebycase
@@ -1566,6 +1582,7 @@ clientarea.php
 climacool
 clomid
 clonazepam
+clothingabercrombie
 clredheel
 clsale
 clshoe
@@ -1608,6 +1625,7 @@ coachwallet
 coachya
 code-generat
 colin-kaepernick
+collection effort
 college-loan
 com.asp
 com//
@@ -1885,6 +1903,7 @@ ease.in
 easy.in
 easyloan
 easyrent
+ebaypic
 ebookreadertest
 ebooktest
 ed-in-men
@@ -2153,6 +2172,12 @@ freeslotmachine
 freevideo
 freewebsite
 freshwaterpearl
+friday sale
+friday ugg
+friday-sale
+friday-ugg
+fridaysale
+fridayugg
 frlongchamp
 frmoncler
 fruta planta
@@ -2686,15 +2711,22 @@ instantcash
 instantloan
 instantpay
 instantweekly
+instructor car
+instructor-car
+insurance car
+insurance-car
 insurance-company
 insurance-quotes
 insurance.htm
 insurances
 interferende
 internet page
+internet poker
 internet-marketing
+internet-poker
 internet.in
 internetowej
+internetpoker
 interracial
 intersting
 invest-money
@@ -2790,6 +2822,7 @@ jersey wholesale
 jersey-from
 jersey-pro
 jersey-wholesale
+jersey.htm
 jersey.us
 jersey+
 jerseyfrom
@@ -2983,6 +3016,9 @@ librarys.cfm
 librium
 lifeinsurance
 lifelock
+limited jersey
+limited-jersey
+limitedjersey
 limo-service
 linguim.co
 link_build
@@ -3158,8 +3194,11 @@ maillot-enfant
 maillot-maillot
 maillot-ukraine
 maillotukraine
+main longchamp
+main-longchamp
 main.htm
 main/main
+mainlongchamp
 make money
 make-backup
 make-millions
@@ -3337,6 +3376,8 @@ moncler ski
 moncler sweater
 moncler tibet
 moncler uk
+moncler uomo
+moncler vente
 moncler vest
 moncler weste
 moncler westen
@@ -3359,6 +3400,8 @@ moncler-ski
 moncler-sweater
 moncler-tibet
 moncler-uk
+moncler-uomo
+moncler-vente
 moncler-vest
 moncler-weste
 moncler-westen
@@ -3380,9 +3423,17 @@ monclerski
 monclersweater
 monclertibet
 moncleruk
+moncleruomo
+monclervente
 monclervest
 monclerweste
 monclerwesten
+monday sale
+monday ugg
+monday-sale
+monday-ugg
+mondaysale
+mondayugg
 money-site
 money.html
 moneyfast
@@ -3401,6 +3452,7 @@ montblancjapan
 montblancjp
 montblancmeister
 montblancparis
+montblancpen
 montblancsold
 montblancstylo
 montrefemme
@@ -3475,6 +3527,7 @@ name-brand-
 namebrandpurse
 nanogold
 naproxen
+natura.it
 natural cure
 natural-cure
 natural-way
@@ -3633,6 +3686,7 @@ odziez
 oemsoftware
 of internet
 of-internet
+offer.net
 official-sale
 official-steeler
 official-style
@@ -3911,6 +3965,8 @@ plumbingservice
 plus-size
 plussize
 plytki
+plz respond
+plz-respond
 point|per
 pojapan
 poker-chip
@@ -4250,6 +4306,9 @@ rosettastoneeasy
 rosuvastatin
 rotating-hot-iron
 rotatinghotiron
+rouge moncler
+rouge-moncler
+rougemoncler
 royal-club
 róże
 rozszerzona
@@ -4866,41 +4925,69 @@ ufficiales
 ugboos
 ugbos
 ugg australia
+ugg bailey
+ugg black
 ugg boot
+ugg classic
+ugg elsey
+ugg femme
 ugg outlet
 ugg sale
+ugg shoe
+ugg-bailey
 ugg-best
+ugg-black
 ugg-boot
+ugg-classic
 ugg-comfort
+ugg-elsey
+ugg-femme
 ugg-for
 ugg-official
 ugg-on
 ugg-out
 ugg-outlet
 ugg-sale
+ugg-shoe
 ugg-site
 ugg-uk
 ugg-usa
 ugg.htm
 uggatcanada
+uggbailey
 uggbest
+uggblack
 uggboo
 uggbos
 uggcheap
+uggclassic
 uggclog
 uggcomfort
+uggelsey
+uggfemme
 uggfor
 ugglove
 uggofficial
 uggonline
 uggout
 uggoutlet
+uggs bailey
+uggs black
+uggs classic
+uggs elsey
+uggs femme
 uggs kopen
 uggs nederland
 uggs outlet
 uggs sale
+uggs shoe
 uggs ugly
+uggs-bailey
+uggs-black
 uggs-boot
+uggs-classic
+uggs-elsey
+uggs-femme
 uggs-for
 uggs-kopen
 uggs-nederland
@@ -4908,16 +4995,23 @@ uggs-on
 uggs-out
 uggs-outlet
 uggs-sale
+uggs-shoe
 uggs-site
 uggs-ugly
 uggs-uk
 uggs-usa
 uggs.co
 uggsale
+uggsbailey
 uggsbay
+uggsblack
 uggsboot
 uggscheap
+uggsclassic
+uggselsey
+uggsfemme
 uggsfor
+uggshoe
 uggsite
 uggskopen
 uggslove
@@ -4927,10 +5021,13 @@ uggsonline
 uggsout
 uggsoutlet
 uggssale
+uggsshoe
 uggssite
 uggsugly
 uggsusa
+uggsustra
 uggusa
+uggustra
 uhren outlet
 uk sale
 uk-handbag
@@ -5063,6 +5160,7 @@ voguetoms
 vuitton aust
 vuitton bag
 vuitton belt
+vuitton cigar
 vuitton damier
 vuitton deutsch
 vuitton factory
@@ -5081,6 +5179,7 @@ vuitton taschen
 vuitton wallet
 vuitton wholesale
 vuitton-bag
+vuitton-cigar
 vuitton-damier
 vuitton-fanny
 vuitton-purse
@@ -5091,6 +5190,7 @@ vuitton-usa
 vuitton-wallet
 vuitton-wholesale
 vuittonbag
+vuittoncigar
 vuittondamier
 vuittonfanny
 vuittononline
@@ -5272,6 +5372,7 @@ womens-nike
 womenseekingmen
 womensnike
 woodgundy.us
+woolrich bliz
 woolrich clothing
 woolrich coat
 woolrich coupon
@@ -5284,6 +5385,7 @@ woolrich piumini
 woolrich store
 woolrich uomo
 woolrich vest
+woolrich-bliz
 woolrich-clothing
 woolrich-coat
 woolrich-coupon
@@ -5296,6 +5398,7 @@ woolrich-piumini
 woolrich-store
 woolrich-uomo
 woolrich-vest
+woolrichbliz
 woolrichclothing
 woolrichcoat
 woolrichcoupon
