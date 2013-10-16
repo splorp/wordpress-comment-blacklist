@@ -378,6 +378,7 @@ _vti
 /bbs/
 /best.htm
 /better-
+/birkenstock-
 /birkenstocks.
 /blog.htm
 /blog/blog
@@ -662,6 +663,7 @@ _vti
 /trackback
 /ugg-
 /uggs-
+/uggsal/
 /uploads/
 /url/
 /usa.htm
@@ -676,6 +678,7 @@ _vti
 /viewstory/
 /visit.
 /visite.
+/vuittonpascher.
 /web-design/
 /wedding.
 /wholesale-
@@ -713,6 +716,8 @@ _vti
 %titlet%
 %u2019
 %url%
++clearance
++handbag
 +jersey
 <a>
 =utf8
@@ -1095,6 +1100,7 @@ birkenstockboston
 birkenstockonline
 birkenstockonsale
 birkenstocksandal
+birkenstockshop
 birkin bag
 birkin-bag
 birkin.htm
@@ -1108,10 +1114,13 @@ biznes
 bizstore
 biztalk
 biżuteria
+black ugg
+black-ugg
 black-www
 blackhat
 blackjack
 blacklabelj
+blackugg
 blog platform
 blog_entry_
 blog_entry.
@@ -1129,10 +1138,13 @@ blogs-tricks
 blogs.blog
 blogtitle
 blowjob
+blue ugg
+blue-ugg
 bluehostreview
 bluetooth-jammer
 bluetoothheadset
 bluetoothjammer
+blueugg
 bodacious
 bonus-code
 bonuscode
@@ -1167,6 +1179,9 @@ botanical-slim
 boutique chaussures
 boutique-chaussures
 boutiquechaussures
+bow ugg
+bow-ugg
+bowugg
 bracelet-sale
 braceletsale
 brand engage
@@ -1268,6 +1283,7 @@ buysoma
 buytoms
 bvlgarishop
 bvlgarisshop
+by-dr-dre
 bydre-head
 bydrehead
 byo.co
@@ -1304,6 +1320,9 @@ candycrush
 cannabis-seed
 captchasnip
 card-debt
+cardy boot
+cardy-boot
+cardyboot
 care-cream
 carinsurance
 carisoprodol
@@ -1435,6 +1454,7 @@ chaussurespascher
 chaussuressport
 chcoin.co
 cheap air
+cheap authentic
 cheap beat
 cheap china
 cheap galaxy
@@ -1443,16 +1463,19 @@ cheap jersey
 cheap longchamp
 cheap louis
 cheap moncler
+cheap nfl
 cheap nike
 cheap north
 cheap oakley
 cheap ray
+cheap sale
 cheap sunglass
 cheap timberland
 cheap toms
 cheap travel
 cheap ugg
 cheap-adobe
+cheap-authentic
 cheap-beat
 cheap-chanel
 cheap-china
@@ -1464,6 +1487,7 @@ cheap-jacket
 cheap-jersey
 cheap-michael
 cheap-moncler
+cheap-nfl
 cheap-nike
 cheap-north
 cheap-oakley
@@ -1478,6 +1502,7 @@ cheap-toms
 cheap-travel
 cheap-ugg
 cheapadobe
+cheapauthentic
 cheapbeat
 cheapbeatsbydre
 cheapchanel
@@ -1494,6 +1519,7 @@ cheapjorda
 cheaplouis
 cheapmichael
 cheapmoncler
+cheapnfl
 cheapnike
 cheapnorth
 cheapoakley
@@ -1906,6 +1932,9 @@ easyrent
 ebaypic
 ebookreadertest
 ebooktest
+ecco outlet
+ecco-outlet
+eccooutlet
 ed-in-men
 eemail
 effexor
@@ -2256,13 +2285,22 @@ gifts-singapore
 giftsingapore
 giftssingapore
 gigantix.co
+gilet moncler
+gilet-moncler
+giletmoncler
+girl escort
 girl jordan
+girl-escort
 girl-jordan
+girlescort
 girlie spouse
 girlie-spouse
 girliespouse
 girljordan
 girljp
+girls escort
+girls-escort
+girlsescort
 giuseppezanotti
 gkhk
 glamorousbag
@@ -2464,6 +2502,7 @@ handbag-for
 handbag-louis
 handbag-out
 handbag-women
+handbag+
 handbagfor
 handbaglouis
 handbagout
@@ -2809,6 +2848,7 @@ japaneseswarovski
 japanmarcjacobs
 japanmonster
 japanmontblanc
+japannew
 japanonline
 japanswarovski
 jcshoe
@@ -2817,26 +2857,32 @@ jeans good
 jeremyads
 jeremyscottwing
 jersetblack
+jersey cheap
 jersey from
 jersey wholesale
+jersey-cheap
 jersey-from
 jersey-pro
 jersey-wholesale
 jersey.htm
 jersey.us
 jersey+
+jerseycheap
 jerseyfrom
 jerseyonline
 jerseypro
 jerseyred
+jerseys cheap
 jerseys from
 jerseys wholesale
 jerseys-4-you
+jerseys-cheap
 jerseys-for-you
 jerseys-from
 jerseys-wholesale
 jerseys.us
 jerseys4you
+jerseyscheap
 jerseysforyou
 jerseysfrom
 jerseysusa
@@ -3314,6 +3360,9 @@ methodeargent
 methodepour
 metlifecare
 metronidazole
+mezzo louis
+mezzo-louis
+mezzolouis
 michael-kors
 michaelkors
 mieszkania
@@ -3363,6 +3412,7 @@ moncler coat
 moncler femme
 moncler giubbotti
 moncler homme
+moncler jack
 moncler jacke
 moncler klassiker
 moncler man
@@ -3371,8 +3421,10 @@ moncler online
 moncler out
 moncler parka
 moncler pascher
+moncler polo
 moncler pour
 moncler ski
+moncler sold
 moncler sweater
 moncler tibet
 moncler uk
@@ -3387,6 +3439,7 @@ moncler-coat
 moncler-femme
 moncler-giubbotti
 moncler-homme
+moncler-jack
 moncler-jacke
 moncler-klassiker
 moncler-man
@@ -3395,8 +3448,10 @@ moncler-online
 moncler-out
 moncler-parka
 moncler-pascher
+moncler-polo
 moncler-pour
 moncler-ski
+moncler-sold
 moncler-sweater
 moncler-tibet
 moncler-uk
@@ -3410,6 +3465,7 @@ monclercoat
 monclerfemme
 monclergiubbotti
 monclerhomme
+monclerjack
 monclerjacke
 monclerklassiker
 monclerman
@@ -3418,8 +3474,10 @@ moncleronline
 monclerout
 monclerparka
 monclerpascher
+monclerpolo
 monclerpour
 monclerski
+monclersold
 monclersweater
 monclertibet
 moncleruk
@@ -3574,6 +3632,9 @@ nfljersey
 nflofficial
 nflshop
 nfr.cfm
+nhl replica
+nhl-replica
+nhlreplica
 niaspan
 nicki-mariah
 nicoban
@@ -4048,6 +4109,9 @@ priligy
 primeessay
 private-label
 privatelabel
+prix ugg
+prix-ugg
+prixugg
 pro key
 proactol
 procedures-for
@@ -4098,8 +4162,11 @@ puccidress
 pucciout
 pufy.
 puma schuhe
+puma sneaker
 puma-schuhe
+puma-sneaker
 pumaschuhe
+pumasneaker
 pure-jobs
 purse online
 purse out
@@ -4216,11 +4283,13 @@ replica birk
 replica china
 replica hand
 replica ip
+replica jersey
 replica louis
 replica nba
 replica rayban
 replica service
 replica top
+replica ugg
 replica watch
 replica_nba
 replica-bag
@@ -4231,6 +4300,7 @@ replica-gucci
 replica-hand
 replica-handbag
 replica-ip
+replica-jersey
 replica-louis
 replica-nba
 replica-prada
@@ -4239,6 +4309,7 @@ replica-rolex
 replica-service
 replica-store
 replica-top
+replica-ugg
 replica-world
 replica7
 replica8
@@ -4251,6 +4322,7 @@ replicagucci
 replicahand
 replicahandbag
 replicaip
+replicajersey
 replicalouis
 replicanba
 replicaoakley
@@ -4260,6 +4332,7 @@ replicarolex
 replicaservice
 replicastore
 replicatop
+replicaugg
 replicawatch
 replicaworld
 reports.php
@@ -4327,10 +4400,13 @@ sabo uk
 sabo-charm
 sabo-out
 sabocharm
+sac vuitton
+sac-vuitton
 sacguess
 saclongchamp
 sacsguess
 sacslancel
+sacvuitton
 sale louis
 sale lulu
 sale oakley
@@ -4518,6 +4594,7 @@ shoesoutlet
 shoessale
 shoestore
 shoesuk
+shoesus
 shoeuk
 shoot-tequila
 shop-japan.co
@@ -4596,8 +4673,11 @@ sneaker.asp
 sneakerchef
 sneakerjapan
 sneakerjp
+sneakers retail
+sneakers-retail
 sneakers.asp
 sneakers24
+sneakersretail
 social-bookmark
 socialbookmark
 socialite.
@@ -4926,52 +5006,82 @@ ugboos
 ugbos
 ugg australia
 ugg bailey
+ugg bebe
 ugg black
 ugg boot
+ugg botte
+ugg brown
+ugg cheap
 ugg classic
+ugg dakota
 ugg elsey
 ugg femme
+ugg glove
 ugg outlet
+ugg pascher
 ugg sale
 ugg shoe
+ugg sold
+ugg turn
+ugg woman
+ugg women
 ugg-bailey
+ugg-bebe
 ugg-best
 ugg-black
 ugg-boot
+ugg-botte
+ugg-brown
+ugg-cheap
 ugg-classic
 ugg-comfort
 ugg-elsey
 ugg-femme
 ugg-for
+ugg-glove
 ugg-official
 ugg-on
 ugg-out
 ugg-outlet
+ugg-pascher
 ugg-sale
 ugg-shoe
 ugg-site
+ugg-sold
+ugg-turn
 ugg-uk
 ugg-usa
+ugg-woman
+ugg-women
 ugg.htm
+ugg+
+ugg=dakota
 uggatcanada
 uggbailey
+uggbebe
 uggbest
 uggblack
 uggboo
 uggbos
+uggbotte
+uggbrown
 uggcheap
 uggclassic
 uggclog
 uggcomfort
+uggdakota
 uggelsey
 uggfemme
 uggfor
+uggglove
 ugglove
 uggofficial
 uggonline
 uggout
 uggoutlet
+uggpascher
 uggs bailey
+uggs bebe
 uggs black
 uggs classic
 uggs elsey
@@ -4979,10 +5089,15 @@ uggs femme
 uggs kopen
 uggs nederland
 uggs outlet
+uggs pascher
 uggs sale
 uggs shoe
+uggs sold
 uggs ugly
+uggs woman
+uggs women
 uggs-bailey
+uggs-bebe
 uggs-black
 uggs-boot
 uggs-classic
@@ -4994,16 +5109,21 @@ uggs-nederland
 uggs-on
 uggs-out
 uggs-outlet
+uggs-pascher
 uggs-sale
 uggs-shoe
 uggs-site
+uggs-sold
 uggs-ugly
 uggs-uk
 uggs-usa
+uggs-woman
+uggs-women
 uggs.co
 uggsale
 uggsbailey
 uggsbay
+uggsbebe
 uggsblack
 uggsboot
 uggscheap
@@ -5020,14 +5140,21 @@ uggsold
 uggsonline
 uggsout
 uggsoutlet
+uggspascher
 uggssale
 uggsshoe
 uggssite
+uggssold
 uggsugly
 uggsusa
 uggsustra
+uggswoman
+uggswomen
+uggturn
 uggusa
 uggustra
+uggwoman
+uggwomen
 uhren outlet
 uk sale
 uk-handbag
@@ -5059,6 +5186,9 @@ under pant
 under-pant
 underpant
 underthe
+une moncler
+une-moncler
+unemoncler
 unitedidesign
 unknown.ru
 unlock-iphone
@@ -5138,6 +5268,7 @@ vimax
 vinhobrasil.
 vintage-erotic
 vinterjakker
+vipgirl
 viramune
 virtual sex
 virtual-sex
@@ -5167,10 +5298,12 @@ vuitton factory
 vuitton fanny
 vuitton france
 vuitton fx
+vuitton glass
 vuitton hand
 vuitton hard
 vuitton online
 vuitton out
+vuitton pas
 vuitton purse
 vuitton replica
 vuitton sac
@@ -5182,6 +5315,8 @@ vuitton-bag
 vuitton-cigar
 vuitton-damier
 vuitton-fanny
+vuitton-glass
+vuitton-pas
 vuitton-purse
 vuitton-replica
 vuitton-speed
@@ -5193,7 +5328,9 @@ vuittonbag
 vuittoncigar
 vuittondamier
 vuittonfanny
+vuittonglass
 vuittononline
+vuittonpas
 vuittonpurse
 vuittonreplica
 vuittonsac
@@ -5367,10 +5504,13 @@ women-nike
 womendate
 womennike
 womens nike
+womens puma
 womens-bag
 womens-nike
+womens-puma
 womenseekingmen
 womensnike
+womenspuma
 woodgundy.us
 woolrich bliz
 woolrich clothing
