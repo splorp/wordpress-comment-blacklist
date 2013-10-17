@@ -1,6 +1,6 @@
 _border
 _coupon
-_html
+_htm
 _marketing
 _profit
 _strateg
@@ -244,6 +244,8 @@ _vti
 .games.pl
 .hard-
 .htm?
+.htm/
+.html?
 .html/
 .htn
 .info.pl
@@ -379,6 +381,8 @@ _vti
 /best.htm
 /better-
 /birkenstock-
+/birkenstock.
+/birkenstocks-
 /birkenstocks.
 /blog.htm
 /blog/blog
@@ -401,6 +405,7 @@ _vti
 /bvlgari-
 /campaign-
 /campaign/
+/campaigns-
 /campaigns/
 /carinsur.
 /cartier-
@@ -424,8 +429,6 @@ _vti
 /common/
 /common/rss
 /contact.
-/contact/contact
-/contactus/contact
 /css/
 /customcontrols/
 /customer-care.
@@ -486,6 +489,8 @@ _vti
 /hentai
 /hermes-
 /hire-
+/hollister-
+/hollister.
 /hollister/
 /home.htm
 /hot.htm
@@ -578,6 +583,7 @@ _vti
 /page4.
 /page5.
 /pandorabead.
+/pantie-
 /panties-
 /panty-
 /pg/blog/
@@ -694,7 +700,6 @@ _vti
 /xn--
 /ya.
 /yabb
-/yabb.pl
 /z.
 /zumba-
 &#969;
@@ -733,7 +738,7 @@ _vti
 1@3
 1c.info
 1minutesite
-1test.
+1test
 1to1
 2.cfm
 2.info
@@ -742,8 +747,8 @@ _vti
 2@3
 2c.info
 2itb
-2sale.
-2test.
+2sale
+2test
 2u.org
 3.cfm
 3.info
@@ -751,7 +756,7 @@ _vti
 3@2
 3@3
 3j3j3
-3test.
+3test
 3ww3
 4all
 4cheap
@@ -759,8 +764,7 @@ _vti
 4firefall
 4less
 4sale
-4sale.
-4u.com
+4u.co
 5health
 7handbag
 7purse
@@ -771,7 +775,7 @@ _vti
 49ers-online
 49ersjersey
 49ersonline
-123.com
+123.co
 404.php
 911.co
 2013.de
@@ -790,21 +794,18 @@ abercrombie kid
 abercrombie man
 abercrombie men
 abercrombie uomo
-abercrombie woman
-abercrombie women
+abercrombie wom
 abercrombie-kid
 abercrombie-man
 abercrombie-men
 abercrombie-uomo
-abercrombie-woman
-abercrombie-women
+abercrombie-wom
 abercrombiee
 abercrombiekid
 abercrombieman
 abercrombiemen
 abercrombieuomo
-abercrombiewoman
-abercrombiewomen
+abercrombiewom
 abilify
 about_us
 acai-
@@ -1033,8 +1034,8 @@ beatscustom
 beatsdrdre
 beatsdre
 beatsstudio
-beautiful-women
-beautifulwomen
+beautiful-wom
+beautifulwom
 bee-pollen.
 beenpaid
 before-purchasing
@@ -1458,6 +1459,7 @@ cheap authentic
 cheap beat
 cheap china
 cheap galaxy
+cheap hockey
 cheap iphone
 cheap jersey
 cheap longchamp
@@ -1483,6 +1485,7 @@ cheap-converse
 cheap-gucci
 cheap-hat
 cheap-hermes
+cheap-hockey
 cheap-jacket
 cheap-jersey
 cheap-michael
@@ -1509,9 +1512,13 @@ cheapchanel
 cheapchina
 cheapcoach
 cheapconverse
+cheapest hockey
+cheapest-hockey
+cheapesthockey
 cheapgucci
 cheaphat
 cheaphermes
+cheaphockey
 cheapiphone
 cheapjacket
 cheapjersey
@@ -1547,8 +1554,11 @@ check32attack
 cheesefruit
 chemise-ralph
 chemiseralph
+cher moncler
 cher prada
+cher-moncler
 cher-prada
+chermoncler
 cherprada
 chettelongchamp
 china wholesale
@@ -1686,6 +1696,8 @@ computer-performance
 computerpressrelease
 comunity
 consalt-
+contact/contact
+contactus/contact
 conversejapan
 conversejp
 conydot
@@ -1886,6 +1898,9 @@ dolcebag
 dollar_service
 dollar-service
 dollarservice
+dolphins jersey
+dolphins-jersey
+dolphinsjersey
 dominate-seo
 dominateseo
 donna-donna
@@ -2039,6 +2054,7 @@ facejacket
 faceoutlet
 facestore
 faceterra
+facialhair
 factory-out
 facts-about
 fajki
@@ -2101,7 +2117,7 @@ finansowanie
 finasteride
 find-the-answer
 findarticle
-findmewoman
+findmewom
 fioricet
 firefoxik.ru
 firm.ru
@@ -2497,11 +2513,11 @@ hairstraight
 handbag louis
 handbag out
 handbag uk
-handbag women
+handbag wom
 handbag-for
 handbag-louis
 handbag-out
-handbag-women
+handbag-wom
 handbag+
 handbagfor
 handbaglouis
@@ -2509,20 +2525,20 @@ handbagout
 handbags louis
 handbags out
 handbags uk
-handbags women
+handbags wom
 handbags-for
 handbags-louis
 handbags-out
-handbags-women
+handbags-wom
 handbagsale
 handbagsfor
 handbagslouis
 handbagsout
 handbagssale
 handbagsu
-handbagswomen
+handbagswom
 handbagu
-handbagwomen
+handbagwom
 hanging-with-friends
 hangingwithfriends
 hatsnap
@@ -2668,6 +2684,7 @@ howtowin
 hppp
 hqsteroid
 htaccrss
+htm?r
 html-article
 html?r
 hugescock
@@ -2707,7 +2724,6 @@ increase-traffic
 increasetraffic
 inderal
 indeutschland
-index.html?
 index/css
 indexold
 indicators.co
@@ -2826,7 +2842,7 @@ jacketcanada
 jackets sale
 jackets-for-kids
 jackets-for-men
-jackets-for-women
+jackets-for-wom
 jackets-jp
 jackets-sale
 jackets2012
@@ -2834,9 +2850,9 @@ jackets2013
 jacketsale
 jacketsforkids
 jacketsformen
-jacketsforwomen
+jacketsforwom
 jacketssale
-jacketswomen
+jacketswom
 jagowho
 japanconverse
 japandrmartens
@@ -2929,13 +2945,13 @@ jpsasics
 jsadidas
 juicycouture
 kaepernick jersey
-kaepernick women
+kaepernick wom
 kaepernick youth
 kaepernick-jersey
-kaepernick-women
+kaepernick-wom
 kaepernick-youth
 kaepernickjersey
-kaepernickwomen
+kaepernickwom
 kaepernickyouth
 kaffee-maschine
 kaffeemaschine
@@ -3341,10 +3357,9 @@ medizinische
 medphrases
 medshop
 meloxicam
-member.html?u
 member.php
 memberlist.php
-menseekingwomen
+menseekingwom
 mequinol
 meratol
 mercantilism
@@ -3419,6 +3434,7 @@ moncler man
 moncler men
 moncler online
 moncler out
+moncler paris
 moncler parka
 moncler pascher
 moncler polo
@@ -3429,6 +3445,8 @@ moncler sweater
 moncler tibet
 moncler uk
 moncler uomo
+moncler vast
+moncler väst
 moncler vente
 moncler vest
 moncler weste
@@ -3446,6 +3464,7 @@ moncler-man
 moncler-men
 moncler-online
 moncler-out
+moncler-paris
 moncler-parka
 moncler-pascher
 moncler-polo
@@ -3456,6 +3475,8 @@ moncler-sweater
 moncler-tibet
 moncler-uk
 moncler-uomo
+moncler-vast
+moncler-väst
 moncler-vente
 moncler-vest
 moncler-weste
@@ -3472,6 +3493,7 @@ monclerman
 monclermen
 moncleronline
 monclerout
+monclerparis
 monclerparka
 monclerpascher
 monclerpolo
@@ -3482,6 +3504,8 @@ monclersweater
 monclertibet
 moncleruk
 moncleruomo
+monclervast
+monclerväst
 monclervente
 monclervest
 monclerweste
@@ -3560,7 +3584,7 @@ mulberrypurse
 mulberrytop
 muscle-supplement
 musclesupplement
-muscularwoman
+muscularwom
 muzyczna
 muzyczny
 my blog
@@ -4238,11 +4262,14 @@ recommended internet
 records.net
 recoverynow
 red christian
+red ugg
+red-ugg
 redbottomshoe
 redirect_to
 redirect.asp
 redskinsjersey
 redsoleshoe
+redugg
 redwingjp
 reeview
 ref_title
@@ -4400,10 +4427,13 @@ sabo uk
 sabo-charm
 sabo-out
 sabocharm
+sac louis
 sac vuitton
+sac-louis
 sac-vuitton
 sacguess
 saclongchamp
+saclouis
 sacsguess
 sacslancel
 sacvuitton
@@ -4481,28 +4511,22 @@ secret.co
 security-for
 seek man
 seek men
-seek woman
-seek women
+seek wom
 seek-man
 seek-men
-seek-woman
-seek-women
+seek-wom
 seeking man
 seeking men
-seeking woman
-seeking women
+seeking wom
 seeking-man
 seeking-men
-seeking-woman
-seeking-women
+seeking-wom
 seekingman
 seekingmen
-seekingwoman
-seekingwomen
+seekingwom
 seekman
 seekmen
-seekwoman
-seekwomen
+seekwom
 seikomise
 seks.ru
 sell-now
@@ -4747,6 +4771,7 @@ studiosbeat
 stumpmaster
 stunningq
 styledkitchen
+styleshq
 stylevip
 stylomontblanc
 stylowe
@@ -4842,7 +4867,7 @@ test.in
 test.tumblr
 test@
 test1.
-testosterone-booster
+testosterone-boost
 testrun
 testuser
 tetracycline
@@ -4898,7 +4923,7 @@ timberland shoe
 timberland-out
 timberlandboot
 timberlandout
-time-synchronisation.co.uk
+time-synchronisation.co
 timeshare
 tingenieur
 tinytowtimmy.co
@@ -4992,7 +5017,7 @@ tucholskie
 turbo-vac
 turbosprezar
 turystyka
-tutorial.html
+tutorial.htm
 tutoringand
 tvturn
 tworzenie
@@ -5004,6 +5029,7 @@ ucoz.ru
 ufficiales
 ugboos
 ugbos
+ugg ad
 ugg australia
 ugg bailey
 ugg bebe
@@ -5020,11 +5046,13 @@ ugg glove
 ugg outlet
 ugg pascher
 ugg sale
+ugg shear
 ugg shoe
 ugg sold
+ugg style
 ugg turn
-ugg woman
-ugg women
+ugg wom
+ugg-ad
 ugg-bailey
 ugg-bebe
 ugg-best
@@ -5045,17 +5073,19 @@ ugg-out
 ugg-outlet
 ugg-pascher
 ugg-sale
+ugg-shear
 ugg-shoe
 ugg-site
 ugg-sold
+ugg-style
 ugg-turn
 ugg-uk
 ugg-usa
-ugg-woman
-ugg-women
+ugg-wom
 ugg.htm
 ugg+
-ugg=dakota
+ugg=
+uggad
 uggatcanada
 uggbailey
 uggbebe
@@ -5094,8 +5124,7 @@ uggs sale
 uggs shoe
 uggs sold
 uggs ugly
-uggs woman
-uggs women
+uggs wom
 uggs-bailey
 uggs-bebe
 uggs-black
@@ -5117,8 +5146,7 @@ uggs-sold
 uggs-ugly
 uggs-uk
 uggs-usa
-uggs-woman
-uggs-women
+uggs-wom
 uggs.co
 uggsale
 uggsbailey
@@ -5131,6 +5159,7 @@ uggsclassic
 uggselsey
 uggsfemme
 uggsfor
+uggshear
 uggshoe
 uggsite
 uggskopen
@@ -5139,22 +5168,17 @@ uggsnederland
 uggsold
 uggsonline
 uggsout
-uggsoutlet
 uggspascher
-uggssale
-uggsshoe
-uggssite
-uggssold
+uggss
+uggstyle
 uggsugly
 uggsusa
 uggsustra
-uggswoman
-uggswomen
+uggswom
 uggturn
 uggusa
 uggustra
-uggwoman
-uggwomen
+uggwom
 uhren outlet
 uk sale
 uk-handbag
@@ -5307,6 +5331,7 @@ vuitton pas
 vuitton purse
 vuitton replica
 vuitton sac
+vuitton sold
 vuitton speed
 vuitton taschen
 vuitton wallet
@@ -5319,6 +5344,7 @@ vuitton-glass
 vuitton-pas
 vuitton-purse
 vuitton-replica
+vuitton-sold
 vuitton-speed
 vuitton-uk
 vuitton-usa
@@ -5334,6 +5360,7 @@ vuittonpas
 vuittonpurse
 vuittonreplica
 vuittonsac
+vuittonsold
 vuittonspeed
 vuittonuk
 vuittonusa
@@ -5553,9 +5580,9 @@ woolrichuomo
 woolrichvest
 wordpress web
 wordpress-web
-wordpressthemes
+wordpresstheme
 wordpressweb
-work-reviews
+work-review
 worki
 workout-sale
 workoutsale
@@ -5677,7 +5704,7 @@ xxx
 xzg
 yanswer
 yo-dick
-yoigucci.co
+yoigucci
 you-ugg
 you-want-it
 youll-need
@@ -5722,13 +5749,11 @@ youth jersey
 youth-jersey
 youthjersey
 youtube down
-youtube video
-youtube view
+youtube vi
 youtube-down
-youtube-video
-youtube-view
+youtube-vi
 youtubedown
-youtubeview
+youtubevi
 youugg
 yumeeyum
 yuuguu
