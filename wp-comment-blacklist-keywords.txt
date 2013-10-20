@@ -440,6 +440,7 @@ _vti
 /dior_
 /dior.htm
 /div/
+/dmg/
 /drmartens-
 /drug
 /economical-
@@ -551,6 +552,7 @@ _vti
 /members.
 /membership.
 /menu/menu
+/moncler-
 /moncler/
 /montblanc.
 /mortgage
@@ -599,6 +601,7 @@ _vti
 /prada.
 /pricing.
 /privat-
+/private.
 /product/0/
 /produkter/
 /profil/
@@ -765,6 +768,7 @@ _vti
 4less
 4sale
 4u.co
+4you.
 5health
 7handbag
 7purse
@@ -949,6 +953,8 @@ asicsshoe
 asikkusu
 asp?folder
 asp?id
+aspiring blog
+aspiring-blog
 astral-diamond
 aswenr
 ationincome
@@ -1122,15 +1128,18 @@ blackhat
 blackjack
 blacklabelj
 blackugg
+blog beast
 blog platform
 blog_entry_
 blog_entry.
 blog_id
 blog_post_
+blog-beast
 blog-platform
 blog-tricks
 blog-view
 blog.asp
+blogbeast
 blogentry_
 blogentry.
 blogid
@@ -1192,6 +1201,9 @@ brand-jp
 brandengage
 brandjp
 bravemed
+braves jersey
+braves-jersey
+bravesjersey
 brazzer
 breastactive
 bridalshop
@@ -1455,9 +1467,13 @@ chaussurespascher
 chaussuressport
 chcoin.co
 cheap air
+cheap atlanta
 cheap authentic
+cheap basket
 cheap beat
+cheap bike
 cheap china
+cheap ga
 cheap galaxy
 cheap hockey
 cheap iphone
@@ -1470,6 +1486,7 @@ cheap nike
 cheap north
 cheap oakley
 cheap ray
+cheap red
 cheap sale
 cheap sunglass
 cheap timberland
@@ -1477,11 +1494,15 @@ cheap toms
 cheap travel
 cheap ugg
 cheap-adobe
+cheap-atlanta
 cheap-authentic
+cheap-basket
 cheap-beat
+cheap-bike
 cheap-chanel
 cheap-china
 cheap-converse
+cheap-ga
 cheap-gucci
 cheap-hat
 cheap-hermes
@@ -1496,6 +1517,7 @@ cheap-north
 cheap-oakley
 cheap-pandora
 cheap-prada
+cheap-red
 cheap-sale
 cheap-sex
 cheap-sunglass
@@ -1505,9 +1527,12 @@ cheap-toms
 cheap-travel
 cheap-ugg
 cheapadobe
+cheapatlanta
 cheapauthentic
+cheapbasket
 cheapbeat
 cheapbeatsbydre
+cheapbike
 cheapchanel
 cheapchina
 cheapcoach
@@ -1515,6 +1540,7 @@ cheapconverse
 cheapest hockey
 cheapest-hockey
 cheapesthockey
+cheapga
 cheapgucci
 cheaphat
 cheaphermes
@@ -1533,6 +1559,7 @@ cheapoakley
 cheappandora
 cheapprada
 cheaprayban
+cheapred
 cheapsale
 cheapsex
 cheapsunglass
@@ -1610,6 +1637,12 @@ classic-ugg
 classicugg
 clavulanate
 clboot
+clearance outlet
+clearance sale
+clearance-outlet
+clearance-sale
+clearanceoutlet
+clearancesale
 clenbuterol
 click4
 clickbank
@@ -2232,6 +2265,9 @@ func=view
 funds.ru
 funsneaker
 funwithwindows
+fur boot
+fur-boot
+furboot
 furiousguy
 furla bag
 furla candy
@@ -2369,6 +2405,7 @@ goose femme
 goose homme
 goose jacka
 goose jacket
+goose jakke
 goose norge
 goose out
 goose parka
@@ -2741,6 +2778,9 @@ informatik
 informative post
 infos-
 infos/
+ington boot
+ington-boot
+ingtonboot
 ingugg
 injectionfacts
 injury-lawyer
@@ -3323,13 +3363,19 @@ maxgriffey
 maxsale
 may_help_you
 may-help-you
+mbt clearance
+mbt sale
 mbt schuhe
 mbt shoe
+mbt-clearance
 mbt-japan
+mbt-sale
 mbt-schuhe
 mbt-shoe
+mbtclearance
 mbtgun
 mbtjapan
+mbtsale
 mbtschuhe
 mbtshoe
 mbtsko
@@ -3422,6 +3468,7 @@ moderowany
 moduleinstance
 modules.php
 moldremov
+monclear
 moncler cap
 moncler coat
 moncler femme
@@ -3437,8 +3484,10 @@ moncler out
 moncler paris
 moncler parka
 moncler pascher
+moncler piumini
 moncler polo
 moncler pour
+moncler quincy
 moncler ski
 moncler sold
 moncler sweater
@@ -3467,8 +3516,10 @@ moncler-out
 moncler-paris
 moncler-parka
 moncler-pascher
+moncler-piumini
 moncler-polo
 moncler-pour
+moncler-quincy
 moncler-ski
 moncler-sold
 moncler-sweater
@@ -3496,8 +3547,10 @@ monclerout
 monclerparis
 monclerparka
 monclerpascher
+monclerpiumini
 monclerpolo
 monclerpour
+monclerquincy
 monclerski
 monclersold
 monclersweater
@@ -4023,6 +4076,7 @@ phonejammer
 phonelookup
 phonescanada
 phonesforsale
+photo/online
 photoeditingdeal
 php?article
 php?rowstart
@@ -4214,6 +4268,9 @@ quick loans
 quick_search
 quick-loan
 quickloan
+quincy femme
+quincy-femme
+quincyfemme
 quit-smoking
 qvc
 r?f?rence
@@ -4640,7 +4697,10 @@ shopping24
 shoppingcenter.co
 shoppingugg
 shopuk
+short ugg
+short-ugg
 shorttermloan
+shortugg
 show_info
 show_member_post
 shownews.
@@ -4720,6 +4780,7 @@ sooemne
 sort_index
 soup.io/post
 sozedde.co
+spammer spam
 special-offer
 specialty-transfer
 specialtytransfer
@@ -5029,6 +5090,7 @@ ucoz.ru
 ufficiales
 ugboos
 ugbos
+ugg 3
 ugg ad
 ugg australia
 ugg bailey
@@ -5042,7 +5104,10 @@ ugg classic
 ugg dakota
 ugg elsey
 ugg femme
+ugg fox
 ugg glove
+ugg hobo
+ugg ken
 ugg outlet
 ugg pascher
 ugg sale
@@ -5050,8 +5115,10 @@ ugg shear
 ugg shoe
 ugg sold
 ugg style
+ugg three
 ugg turn
 ugg wom
+ugg-3
 ugg-ad
 ugg-bailey
 ugg-bebe
@@ -5066,7 +5133,10 @@ ugg-comfort
 ugg-elsey
 ugg-femme
 ugg-for
+ugg-fox
 ugg-glove
+ugg-hobo
+ugg-ken
 ugg-official
 ugg-on
 ugg-out
@@ -5078,6 +5148,7 @@ ugg-shoe
 ugg-site
 ugg-sold
 ugg-style
+ugg-three
 ugg-turn
 ugg-uk
 ugg-usa
@@ -5085,6 +5156,7 @@ ugg-wom
 ugg.htm
 ugg+
 ugg=
+ugg3
 uggad
 uggatcanada
 uggbailey
@@ -5103,7 +5175,10 @@ uggdakota
 uggelsey
 uggfemme
 uggfor
+uggfox
 uggglove
+ugghobo
+uggken
 ugglove
 uggofficial
 uggonline
@@ -5175,6 +5250,7 @@ uggsugly
 uggsusa
 uggsustra
 uggswom
+uggthree
 uggturn
 uggusa
 uggustra
@@ -5320,6 +5396,7 @@ vuitton damier
 vuitton deutsch
 vuitton factory
 vuitton fanny
+vuitton fashion
 vuitton france
 vuitton fx
 vuitton glass
@@ -5340,6 +5417,7 @@ vuitton-bag
 vuitton-cigar
 vuitton-damier
 vuitton-fanny
+vuitton-fashion
 vuitton-glass
 vuitton-pas
 vuitton-purse
@@ -5354,6 +5432,7 @@ vuittonbag
 vuittoncigar
 vuittondamier
 vuittonfanny
+vuittonfashion
 vuittonglass
 vuittononline
 vuittonpas
