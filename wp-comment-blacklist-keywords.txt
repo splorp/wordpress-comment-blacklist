@@ -231,6 +231,7 @@ _vti
 .cfmx
 .cgi
 .co.jp/shop
+.com/%
 .coupon
 .credopa.in
 .disposable-
@@ -364,6 +365,8 @@ _vti
 /ads/
 /affordable-
 /airmax_
+/airmax-
+/airmax.
 /alimenty/
 /allimage/
 /anonymous-
@@ -424,8 +427,8 @@ _vti
 /cigars-
 /ck.
 /clearance/
-/coach.asp
 /coach.
+/coach.asp
 /coachpurses-
 /commodity.
 /common/
@@ -874,8 +877,6 @@ air max
 air-jorda
 air-max
 airjorda
-/airmax-
-/airmax.
 airmaxdeutsch
 airmaxshoe
 airport--
@@ -2177,8 +2178,10 @@ fobur.in
 foodpyramid
 footdiscount
 for cheap
+for gucci
 for_your_needs
 for-cheap
+for-gucci
 for-interactive
 for-money
 for-your-needs
@@ -2186,6 +2189,7 @@ forboots
 forcheap
 forex
 forfree
+forgucci
 forjp.co
 formaldresses
 forsale-japan
@@ -2249,6 +2253,9 @@ freesimcard
 freeslotmachine
 freevideo
 freewebsite
+fresh review
+fresh-review
+freshreview
 freshwaterpearl
 friday sale
 friday ugg
@@ -2894,6 +2901,7 @@ jacketsforwom
 jacketssale
 jacketswom
 jagowho
+japan-1
 japanconverse
 japandrmartens
 japaneseconverse
@@ -5958,6 +5966,7 @@ zyvox
 いい
 いホスティング
 ヴェネタ
+カナダグース
 グッチ
 クラシック
 クロエ

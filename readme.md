@@ -23,11 +23,11 @@ Still need convincing? The blacklist was featured over at [WP Daily](http://wpda
 
 WordPress stores the contents of the [Comment Blacklist](http://codex.wordpress.org/Combating_Comment_Spam#Comment_Blacklist) setting in a MySQL column named `blacklist_keys`. Defined as a `longtext` [data type](http://dev.mysql.com/doc/en/blob.html), this column can contain up to 4,294,967,295 bytes (approximately 4GB) of text. There is no chance of us running out of room to expand the blacklist any time soon.
 
-However, nothing’s perfect and WordPress is no exception. Apparently the blacklist setting has an issue with the keyword `/5.`. Including this keyword in your blacklist causes every single comment to be flagged as spam, regardless of the content or whether the commenter has been previously approved.
+However, nothing is perfect and WordPress is no exception. Apparently the comment blacklist has an issue with the `/5.` keyword. Including this keyword in your blacklist will cause every single comment to be flagged as spam, regardless of the content or whether the commenter has been previously approved. I don’t even.
 
 ### Mad Props
 
-Special thanks to [Claudio Schwarz](https://github.com/purzlbaum) and [Volker J. Schmidt](https://github.com/VolkerJSchmidt) for suggesting some useful additions.
+Special thanks to [Mika Epstein](https://github.com/ipstenu), [Claudio Schwarz](https://github.com/purzlbaum), and [Volker Schmidt](https://github.com/volkerjschmidt) for their suggestions, testing, and reports from the field.
 
 ### Questions?
 
