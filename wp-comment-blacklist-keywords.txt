@@ -189,7 +189,6 @@ _vti
 -tips/
 -top-info
 -traffic.
--traffic.net
 -transpiration-
 -treatment-
 -tw.in
@@ -219,7 +218,7 @@ _vti
 ?sexy
 ?store
 ?title
-?username=
+?user
 ?view
 .acgi
 .baidu
@@ -569,6 +568,7 @@ _vti
 /netcat_
 /netcat/
 /new.
+/news.
 /news/articles/
 /newsletters/
 /nihon
@@ -1757,6 +1757,7 @@ com/ftp
 com/image
 com/include
 com/member
+com/moncler
 com/official
 com/online
 com/page1
@@ -2123,10 +2124,12 @@ fabulous-drug
 fabulousdrug
 face jacket
 face outlet
+face sale
 face store
 face terra
 face-jacket
 face-outlet
+face-sale
 face-store
 face-terra
 facebok
@@ -2142,6 +2145,7 @@ facebookfan
 facebooklike
 facejacket
 faceoutlet
+facesale
 facestore
 faceterra
 facialhair
@@ -3030,6 +3034,7 @@ jerseywhite
 jerseywholesale
 jewelery
 jeweline.
+jewellery.blog
 jewelry expens
 jewelry-expens
 jewelrybest
@@ -3258,6 +3263,7 @@ loans.
 loans.co
 loans1.
 loans2.
+loans4
 loansonline
 locate-cell-phone
 locateacellphone
@@ -3393,6 +3399,7 @@ make-money
 makebaby
 makemoney
 makersnow
+makeup.blog
 maklare
 male-enhance
 maleenhance
@@ -3435,6 +3442,7 @@ mass-facebook
 massarticle
 massive-web
 masszaz
+mastablasta
 master.ru
 matchcash
 matthewsjersey
@@ -3583,6 +3591,7 @@ moncler vast
 moncler väst
 moncler vente
 moncler vest
+moncler vos
 moncler weste
 moncler westen
 moncler--
@@ -3615,6 +3624,7 @@ moncler-vast
 moncler-väst
 moncler-vente
 moncler-vest
+moncler-vos
 moncler-weste
 moncler-westen
 monclercap
@@ -3646,6 +3656,7 @@ monclervast
 monclerväst
 monclervente
 monclervest
+monclervos
 monclerweste
 monclerwesten
 monday sale
@@ -3737,6 +3748,7 @@ mydomain
 mygiftcard
 myhermes
 mylupus
+mynewsite
 myqrops
 myreview.co
 mytest
@@ -3852,15 +3864,19 @@ nocredit
 nohassle
 nolvadex
 northface pascher
+northface-canada
 northface-jack
 northface-out
 northface-pascher
 northface-sale
+northface-uk
+northfacecanada
 northfacejack
 northfaceout
 northfacepascher
 northfacesale
 northfacetr
+northfaceuk
 northfaceya
 northfce
 norvasc
@@ -3933,6 +3949,7 @@ oneminutesite
 online cash
 online casino
 online dating
+online loan
 online out
 online shop
 online-blog
@@ -3944,6 +3961,7 @@ online-classified
 online-dating
 online-invest
 online-kredit
+online-loan
 online-marketing
 online-med
 online-money
@@ -3965,6 +3983,7 @@ onlinedating
 onlineinvest
 onlinejp
 onlinekredit
+onlineloan
 onlinemed
 onlinemoney
 onlineout
@@ -4360,7 +4379,16 @@ q=blog
 q=node
 qry_page
 qtrade
+queen chiffon
+queen clutch
+queen outlet
+queen-chiffon
+queen-clutch
+queen-outlet
+queenchiffon
+queenclutch
 queenjp
+queenoutlet
 quick loans
 quick_search
 quick-loan
@@ -4918,12 +4946,15 @@ stonejapan
 stop-smoking
 store austral
 store gucci
+store outlet
 store-gucci
+store-outlet
 store-service
 store.htm
 store.org
 storegucci
 storejp
+storeoutlet
 strategies-for
 strategy-for
 stratificat.
@@ -5753,8 +5784,10 @@ windowsanytime
 windowsphone.co
 wingsshop
 without-invest
+women makeup
 women nike
 women-date
+women-makeup
 women-nike
 womendate
 womennike
@@ -6108,6 +6141,7 @@ zyvox
 いホスティング
 ヴェネタ
 カナダグース
+ギフト
 グッチ
 クラシック
 クロエ
