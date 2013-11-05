@@ -29,6 +29,20 @@ However, nothing is perfect and WordPress is no exception. Apparently the commen
 
 I would like to thank [Mika Epstein](https://github.com/ipstenu), [Claudio Schwarz](https://github.com/purzlbaum), and [Volker Schmidt](https://github.com/volkerjschmidt) for their suggestions, testing, and reports from the field.
 
+### History
+
++ 20131105 — Migrated project to [GitHub](https://github.com/splorp/wordpress-comment-blacklist)
++ 20131020 — Blacklist contains 6,000 entries
++ 20130911 — Blacklist contains 5,000 entries
++ 20130715 — Blacklist contains 4,000 entries
++ 20130226 — Blacklist contains 3,000 entries
++ 20130130 — Added documentation
++ 20130130 — Mentioned on [WP Daily](http://torquemag.io/comment-blacklist-gist/)
++ 20120529 — Blacklist contains 2,000 entries
++ 20120217 — Blacklist contains 1,000 entries
++ 20111122 — Released as a [Gist](https://gist.github.com/splorp/1385930) with just over 140 entries
+
+
 ### Questions?
 
 Contact me on Twitter.
