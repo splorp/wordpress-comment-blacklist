@@ -6,7 +6,7 @@ Over the past couple of years, I have identified over 6,200 phrases, patterns, a
 
 ### How Do I Use It?
 
-Copy the list of keywords, paste it into the [Comment Blacklist](http://codex.wordpress.org/Combating_Comment_Spam#Comment_Blacklist) field of your WordPress [Discussion Settings](http://codex.wordpress.org/Settings_Discussion_Screen) panel, and click the “Save Changes” button.
+Copy the list of keywords found in `blacklist.txt`, paste it into the [Comment Blacklist](http://codex.wordpress.org/Combating_Comment_Spam#Comment_Blacklist) field of your WordPress [Discussion Settings](http://codex.wordpress.org/Settings_Discussion_Screen) panel, and click the “Save Changes” button.
 
 That’s it.
 
