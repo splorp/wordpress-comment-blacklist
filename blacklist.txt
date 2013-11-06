@@ -21,6 +21,7 @@ _vti
 -anonymous-
 -argente-
 -armani.
+-armani/
 -asics.
 -auction-
 -authentic-
@@ -30,6 +31,8 @@ _vti
 -bioactives-
 -blog.
 -blogs.
+-blog/
+-blogs/
 -bluray-
 -breathalyzer-
 -broker.
@@ -326,7 +329,6 @@ _vti
 //best
 //buy
 //cheap
-//community
 //compare
 //contact
 //escort
@@ -335,9 +337,7 @@ _vti
 //gay
 //generic
 //groups
-//gucci
 //leverage
-//longchamp
 //official
 //onsale
 //paginas
@@ -346,7 +346,6 @@ _vti
 //reality
 //royal-
 //shop
-//sneaker
 //test
 //vpn-
 //website
@@ -683,7 +682,7 @@ _vti
 /uploads/
 /url/
 /usa.
-/user_detail
+/user_
 /user-
 /user:
 /user/profile
@@ -975,7 +974,7 @@ authentic hermes
 authentic-ugg
 authentichermes
 authenticugg
-autoclinics.co.uk
+autoclinics.co.
 autocom
 automatic-pay
 automaticbackup.
@@ -1041,6 +1040,7 @@ bazookaapp
 bbombr
 bddv
 beamten
+beanies1
 bears urlacher
 bears-urlacher
 bearsurlacher
@@ -1253,9 +1253,15 @@ bowugg
 bracelet-sale
 braceletsale
 brand engage
+brand mlb
+brand nba
+brand nhl
 brand-corner
 brand-engage
 brand-jp
+brand-mlb
+brand-nba
+brand-nhl
 brandengage
 brandjp
 bravemed
@@ -1778,7 +1784,7 @@ com/boards
 com/cheap
 com/css
 com/doc
-com/download.asp
+com/download.
 com/forum
 com/ftp
 com/image
@@ -1853,9 +1859,9 @@ cruise vacation
 cruise-vacation
 cruisevacation
 crystalmall
-cure.co.uk
+cure.co.
 curehelp
-cures.co.uk
+cures.co.
 currency-trading
 custom-nike
 custom-rim
@@ -1983,7 +1989,7 @@ discount-north
 discount-ugg
 discount-wheel
 discount.co
-discount.co.uk
+discount.co.
 discount.org
 discountbag
 discountcigar
@@ -2111,6 +2117,12 @@ envisionforce
 ephedrine
 epo doping
 equipment-manufacture
+era mlb
+era nba
+era nhl
+era-mlb
+era-nba
+era-nhl
 erectile
 erettile
 erjersey.co
@@ -2367,6 +2379,7 @@ frlongchamp
 frmoncler
 fruta planta
 frutaplanta
+fuckdown
 func.php
 func=view
 funds.ru
@@ -3974,6 +3987,8 @@ oakleysunglass
 oakleytokyo
 oakleyuk
 öáøåâïïê
+obey posse
+obey-posse
 obuwia
 obuwie
 oculosfeminino
@@ -4689,7 +4704,7 @@ sale-louis
 sale-lulu
 sale-oakley
 sale-template
-sale.co.uk
+sale.co.
 sale.weebly
 sale4u
 salecanada
@@ -4704,7 +4719,7 @@ saleout
 sales-factory
 sales-inspir
 sales-training
-sales.co.uk
+sales.co.
 sales+
 salesclassroom
 salesfactory
@@ -5492,7 +5507,7 @@ uk-loan
 uk-mall
 uk-mart
 uk-sale
-uk.co.uk
+uk.co.
 uk.webeden
 uk/mulberry
 uk/prada
@@ -6188,6 +6203,10 @@ zyvox
 симпатичная
 скачать
 спама
+спорт на
+спорт открытом
+спорт-на
+спорт-открытом
 справкой
 статей
 статья
@@ -6199,6 +6218,7 @@ zyvox
 фирму
 форум
 фото
+шапка-
 элитныеноутбуки
 юридической
 アウトレット
