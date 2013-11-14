@@ -29,6 +29,7 @@ _vti
 -backpain.
 -beneficial-
 -bioactives-
+-bitcoin-
 -blog.
 -blog/
 -blogs.
@@ -244,6 +245,7 @@ _vti
 .coupon
 .credopa.in
 .disposable-
+.doorblog.jp
 .fake-
 .fcgi
 .filpan.ru
@@ -332,6 +334,7 @@ _vti
 //app.lk
 //article
 //best
+//bitcoin
 //buy
 //cheap
 //compare
@@ -392,6 +395,7 @@ _vti
 /birkenstock.
 /birkenstocks-
 /birkenstocks.
+/bitcoin-
 /blog.
 /blog/blog
 /blog/owner
@@ -709,10 +713,12 @@ _vti
 /wholesale-
 /wholesale.
 /wo.
-/wp-admin/
-/wp-content/
-/wp-includes/
-/wpimages/
+/wp-admin
+/wp-content
+/wp-images
+/wp-include
+/wp-list
+/wpimages
 /ww.
 /x.co
 /xchange
@@ -739,6 +745,7 @@ _vti
 %20zappo
 %anchor%
 %d8%
+%titel%
 %title%
 %titlet%
 %u2019
@@ -799,6 +806,7 @@ _vti
 49ers-online
 49ersjersey
 49ersonline
+100% legit
 123.co
 404.php
 911.co
@@ -1832,6 +1840,7 @@ com/site
 com/tiffany
 com/ugg
 com/user
+com%2c
 com2.php
 command=read
 comment-page
@@ -2213,6 +2222,7 @@ face sale
 face store
 face terra
 face vest
+face women
 face-denali
 face-jacket
 face-out
@@ -2220,6 +2230,7 @@ face-sale
 face-store
 face-terra
 face-vest
+face-women
 facebok
 facebook advert
 facebook classified
@@ -3484,6 +3495,7 @@ lv france
 lv-bag
 lv-discount
 lv-handbag
+lv-jp
 lv-out
 lv-replica
 lv-uk
@@ -5499,6 +5511,7 @@ uggoutlet
 uggparis
 uggpas
 uggpascher
+uggs aust
 uggs bailey
 uggs bebe
 uggs black
@@ -5509,7 +5522,7 @@ uggs elsey
 uggs femme
 uggs hot
 uggs kopen
-uggs nederland
+uggs neder
 uggs noir
 uggs out
 uggs paris
@@ -5520,7 +5533,9 @@ uggs shoe
 uggs silver
 uggs sold
 uggs ugly
+uggs uitverkoop
 uggs wom
+uggs-aust
 uggs-bailey
 uggs-bebe
 uggs-black
@@ -5532,7 +5547,7 @@ uggs-femme
 uggs-for
 uggs-hot
 uggs-kopen
-uggs-nederland
+uggs-neder
 uggs-noir
 uggs-on
 uggs-out
@@ -5545,11 +5560,13 @@ uggs-silver
 uggs-site
 uggs-sold
 uggs-ugly
+uggs-uitverkoop
 uggs-uk
 uggs-usa
 uggs-wom
 uggs.co
 uggsale
+uggsaust
 uggsbailey
 uggsbay
 uggsbebe
@@ -5568,7 +5585,7 @@ uggsilver
 uggsite
 uggskopen
 uggslove
-uggsnederland
+uggsneder
 uggsnoir
 uggsold
 uggsonline
@@ -5581,6 +5598,7 @@ uggss
 uggssilver
 uggstyle
 uggsugly
+uggsuitverkoop
 uggsusa
 uggsustra
 uggswom
@@ -5846,7 +5864,7 @@ webnode.fr
 webnode.hu
 webnode.it
 webnode.nl
-webpage
+webpag
 webpharma
 webpromotion
 websex
@@ -6143,15 +6161,12 @@ xanax
 xelerated
 xenical
 xfire.com/blog
-xfx
-xmw
 xopenex
 xrumer
 xwebsite
 xx.co
 xx.in
 xxx
-xzg
 yanswer
 yo-dick
 yoigucci
@@ -6334,6 +6349,7 @@ zyvox
 アルマーニ
 いい
 いホスティング
+ヴィトン
 ヴェネタ
 おざ
 カナダグース
@@ -6371,6 +6387,7 @@ zyvox
 マークジェイコブス
 ミ
 モンブラン
+ユーチューブ
 ラゲージ
 ルイヴィトン
 ルブタン
@@ -6406,3 +6423,4 @@ zyvox
 金融
 鈥?
 銉
+革の
