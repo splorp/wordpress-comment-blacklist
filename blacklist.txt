@@ -445,6 +445,7 @@ _vti
 /customcontrols/
 /customer-care.
 /damen-moncler
+/dat/
 /data/
 /dg-
 /dg.
@@ -540,10 +541,12 @@ _vti
 /kredyt
 /lang-es/
 /libs/
+/lijst/
 /lingerie.
 /link/
 /linkdetail
 /linknum
+/list.
 /loans
 /locale/
 /longchamp-
@@ -565,7 +568,9 @@ _vti
 /members-
 /members.
 /membership.
+/menu.
 /menu/menu
+/mobile/
 /moncler-
 /moncler/
 /montblanc.
@@ -1481,6 +1486,8 @@ casinos-
 casquebeats
 casquette
 casub.co
+catalog/preview
+catalogo/preview
 catalogs.cfm
 catalogues.cfm
 cavin-klein
@@ -2111,6 +2118,7 @@ drugscheap
 dubai-princess.
 dubturbo-
 dummytest
+dunjakke
 dvdrip
 e--store
 e-biz
@@ -4946,9 +4954,11 @@ shared site
 shed-fat
 shoe online
 shoe out
+shoe promo
 shoe-japan
 shoe-online
 shoe-out
+shoe-promo
 shoe.asp
 shoejapan
 shoejp.co
@@ -5847,6 +5857,7 @@ web-site
 web-solution
 web-traffic
 web-view
+web/icon
 web/index.htm
 webanal
 webcambabe
@@ -6231,6 +6242,14 @@ zaindeksowany
 zakazane
 zaklady
 zanaflex
+zanotti online
+zanotti sale
+zanotti shoe
+zanotti sneaker
+zanotti-online
+zanotti-sale
+zanotti-shoe
+zanotti-sneaker
 zanottionline
 zanottisale
 zanottishoe
@@ -6241,6 +6260,7 @@ zawieszki
 zboard.php
 zcode
 zdrowie
+zfymail
 zikinell
 zimovane
 zithromax
@@ -6351,6 +6371,7 @@ zyvox
 いホスティング
 ヴィトン
 ヴェネタ
+エルメス
 おざ
 カナダグース
 ギフト
