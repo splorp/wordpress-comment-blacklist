@@ -407,6 +407,11 @@ _vti
 /blogs/item
 /blogs/post
 /board/
+/brand1.
+/brand2.
+/brand3.
+/brand4.
+/brand5.
 /burberry-
 /burberry1
 /burberry2
@@ -415,10 +420,12 @@ _vti
 /bustier.
 /buy.
 /bvlgari-
+/cache/
 /campaign-
 /campaign/
 /campaigns-
 /campaigns/
+/canadagoose/
 /carinsur.
 /cartier-
 /cartier.
@@ -518,6 +525,11 @@ _vti
 /include/
 /includes/
 /index.php/
+/index1.
+/index2.
+/index3.
+/index4.
+/index5.
 /indexdic
 /infopages/
 /iso_miscs/
@@ -692,6 +704,7 @@ _vti
 /trac/ticket/
 /trackback
 /ugg-
+/ugg/
 /uggs-
 /uggsal/
 /uploads/
@@ -819,6 +832,8 @@ _vti
 2013.or
 2013x.
 123456789
+¥·¥
+¥°¥
 a-cell-phone
 a-powerful-way
 a1.co
@@ -845,6 +860,7 @@ abercrombieuomo
 abercrombiewom
 abilify
 about_us
+about/date
 acai-
 acaiberry
 accouchement
@@ -1432,6 +1448,7 @@ canadagoose-factory
 canadagoose-online
 canadagoose-out
 canadagooseannka
+canadagoosebanff
 canadagooseca
 canadagoosefactory
 canadagoosejack
@@ -1573,6 +1590,7 @@ chaussures femme
 chaussures louboutin
 chaussures pascher
 chaussures sport
+chaussures ugg
 chaussures-asics
 chaussures-boutique
 chaussures-christian
@@ -1582,6 +1600,7 @@ chaussures-louboutin
 chaussures-pascher
 chaussures-puma
 chaussures-sport
+chaussures-ugg
 chaussuresboutique
 chaussureschristian
 chaussuresfemme
@@ -1985,6 +2004,7 @@ designer-shoe
 designerbag
 designerbrand
 designerjewel
+designerlabel
 designershoe
 desktop-client
 desktopclient
@@ -2302,8 +2322,14 @@ fendibelt
 fenoma
 fenteetum
 ferra-gamo
+ferragamo sale
+ferragamo tie
+ferragamo-sale
+ferragamo-tie
 ferragamolove
+ferragamosale
 ferragamoshop
+ferragamotie
 fibromyalgia
 fightmark
 filmizle
@@ -2847,18 +2873,23 @@ hoganoutlet
 hoganshoe
 hogansito
 hollister brasil
+hollister nantes
 hollister online
+hollister pas
 hollister shirt
 hollister sverige
 hollister swim
 hollister-brasil
 hollister-deutsch
+hollister-nantes
 hollister-online
+hollister-pas
 hollister-shirt
 hollister-sverige
 hollister-swim
 hollisterbrasil
 hollisterdeutsch
+hollisternantes
 hollisteronline
 hollistershirt
 hollistersverige
@@ -4304,6 +4335,8 @@ password generat
 password-generat
 passwort
 passwrot
+patagonia-zone
+patagoniazone
 paulsmith201
 paulsmithka
 paulsmithsa
@@ -5423,6 +5456,7 @@ ugg cheap
 ugg classic
 ugg dakota
 ugg elsey
+ugg enfant
 ugg femme
 ugg fox
 ugg glove
@@ -5457,6 +5491,7 @@ ugg-cheap
 ugg-classic
 ugg-comfort
 ugg-elsey
+ugg-enfant
 ugg-femme
 ugg-for
 ugg-fox
@@ -5505,6 +5540,7 @@ uggclog
 uggcomfort
 uggdakota
 uggelsey
+uggenfant
 uggfemme
 uggfor
 uggfox
@@ -6268,6 +6304,7 @@ złote
 zmedicin
 zoloft
 zolpidem
+zonejp
 zopiclone
 zovirax
 zsurgical
@@ -6306,6 +6343,7 @@ zyvox
 консультация
 кредит
 купить
+легальные
 магаз
 маркет
 массажистка
@@ -6393,6 +6431,7 @@ zyvox
 ネックレス
 ノースフェイス
 バーバリー
+パタゴニア
 バッグ
 バンクオブアメリカ
 ブーツ
