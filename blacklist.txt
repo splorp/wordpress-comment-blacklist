@@ -122,6 +122,8 @@ _vti
 -malware-
 -marant-
 -marc-jacobs-
+-mbt.
+-mbt/
 -men-jersey
 -mens.
 -metods-
@@ -570,6 +572,8 @@ _vti
 /malware/
 /manolo-blahnik
 /massage
+/mbt-
+/mbt.
 /mcm.
 /med-
 /mediawiki/
@@ -1628,6 +1632,7 @@ cheap iphone
 cheap jersey
 cheap longchamp
 cheap louis
+cheap mbt
 cheap moncler
 cheap nfl
 cheap nike
@@ -1657,6 +1662,7 @@ cheap-hermes
 cheap-hockey
 cheap-jacket
 cheap-jersey
+cheap-mbt
 cheap-michael
 cheap-moncler
 cheap-nfl
@@ -1698,6 +1704,7 @@ cheapjacket
 cheapjersey
 cheapjorda
 cheaplouis
+cheapmbt
 cheapmichael
 cheapmoncler
 cheapnfl
@@ -2055,6 +2062,7 @@ directlone
 dirt-bike
 disclaim.asp
 discount bag
+discount mbt
 discount mulberry
 discount nfl
 discount north
@@ -2062,6 +2070,7 @@ discount ugg
 discount-
 discount-bag
 discount-cigar
+discount-mbt
 discount-north
 discount-ugg
 discount-wheel
@@ -2076,6 +2085,7 @@ discounted-north
 discounted-wheel
 discountednorth
 discountedwheel
+discountmbt
 discountnorth
 discountt
 discountugg
@@ -2377,6 +2387,9 @@ fluticasone
 fobur.in
 foodpyramid
 footdiscount
+footwear mbt
+footwear-mbt
+footwearmbt
 for cheap
 for gucci
 for_your_needs
@@ -3643,25 +3656,67 @@ maxgriffey
 maxsale
 may_help_you
 may-help-you
+mbt baridi
+mbt boot
 mbt clearance
+mbt exercise
+mbt fora
+mbt men
+mbt online
+mbt outlet
 mbt sale
+mbt sandal
 mbt schuhe
 mbt shoe
+mbt shop
+mbt special
+mbt tariki
+mbt tembea
 mbt trainer
+mbt vanzari
+mbt women
+mbt-baridi
+mbt-boot
 mbt-clearance
+mbt-exercise
+mbt-fora
 mbt-japan
+mbt-men
+mbt-online
+mbt-outlet
 mbt-sale
+mbt-sandal
 mbt-schuhe
 mbt-shoe
+mbt-shop
+mbt-special
+mbt-tariki
+mbt-tembea
 mbt-trainer
+mbt-vanzari
+mbt-women
+mbtbaridi
+mbtboot
 mbtclearance
+mbtexercise
+mbtfora
 mbtgun
 mbtjapan
+mbtmen
+mbtonline
+mbtoutlet
 mbtsale
+mbtsandal
 mbtschuhe
 mbtshoe
+mbtshop
 mbtsko
+mbtspecial
+mbttariki
+mbttembea
 mbttrainer
+mbtvanzari
+mbtwomen
 mcm.co
 mcqueen club
 mcqueen dress
@@ -3700,6 +3755,9 @@ medshop
 meloxicam
 member.php
 memberlist.php
+men boost
+men-boost
+menboost
 menseekingwom
 mequinol
 meratol
@@ -4153,7 +4211,10 @@ odziez
 oemsoftware
 of internet
 of-internet
+offer outlet
+offer-outlet
 offer.net
+offeroutlet
 official-sale
 official-steeler
 official-style
@@ -4178,6 +4239,7 @@ online casino
 online dating
 online loan
 online out
+online shoe
 online shop
 online-blog
 online-business
@@ -4194,6 +4256,7 @@ online-med
 online-money
 online-out
 online-sale
+online-shoe
 online-shop
 online-store
 online.de
@@ -4218,6 +4281,7 @@ onlinepoker
 onlinepris
 onlines.co
 onlinesale
+onlineshoe
 onlineshop
 onlinestore
 only-deal
@@ -4249,6 +4313,7 @@ outlet hermes
 outlet louis
 outlet oakley
 outlet online
+outlet shoe
 outlet store
 outlet usa
 outlet woolrich
@@ -4262,6 +4327,7 @@ outlet-louis
 outlet-mart
 outlet-online
 outlet-sale
+outlet-shoe
 outlet-shop
 outlet-store
 outlet-usa
@@ -5017,10 +5083,12 @@ shoejp.co
 shoeonline
 shoeout
 shoeoutlet
+shoes mbt
 shoes online
 shoes out
 shoes-cheap
 shoes-japan
+shoes-mbt
 shoes-on-sale
 shoes-online
 shoes-out
@@ -5029,6 +5097,7 @@ shoesale
 shoesjapan
 shoeskan
 shoesmart
+shoesmbt
 shoesonline
 shoesonsale
 shoesout
@@ -5134,6 +5203,7 @@ software-secret
 software.in
 softwaresecret
 sohbet
+sold-out
 solução
 solutionsinc
 soma.htm
@@ -5199,7 +5269,10 @@ studiobeat
 studiosbeat
 stumpmaster
 stunningq
+style mbt
+style-mbt
 styledkitchen
+stylembt
 styleshq
 stylevip
 stylomontblanc
@@ -5268,6 +5341,9 @@ targettedtraffic
 targettedvisit
 tarif-malin
 tarifmalin
+tariki shoe
+tariki-shoe
+tarikishoe
 tastegood.co
 tax-debt
 taxbook
