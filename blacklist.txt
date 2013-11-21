@@ -398,6 +398,7 @@ _vti
 /birkenstocks-
 /birkenstocks.
 /bitcoin-
+/black-friday
 /blog.
 /blog/blog
 /blog/owner
@@ -554,6 +555,7 @@ _vti
 /kredit
 /kredyt
 /lang-es/
+/legal/
 /libs/
 /lijst/
 /lingerie.
@@ -605,6 +607,7 @@ _vti
 /niketn.
 /ninnki
 /node/
+/north-face
 /north-face-
 /northface-
 /northface.
@@ -686,6 +689,7 @@ _vti
 /strona/
 /strony-
 /strony/
+/stuff.
 /submit/url/
 /suggestions-
 /supply_
@@ -1188,6 +1192,9 @@ bestsuppliment
 bestwebsite
 betlist
 biaxin
+bieding laarzen
+bieding-laarzen
+biedinglaarzen
 bielizna
 big_site
 big-cock
@@ -1642,6 +1649,7 @@ cheap ray
 cheap red
 cheap sale
 cheap sunglass
+cheap supra
 cheap timberland
 cheap toms
 cheap travel
@@ -1675,6 +1683,7 @@ cheap-red
 cheap-sale
 cheap-sex
 cheap-sunglass
+cheap-supra
 cheap-timberland
 cheap-tms
 cheap-toms
@@ -1718,6 +1727,7 @@ cheapred
 cheapsale
 cheapsex
 cheapsunglass
+cheapsupra
 cheaptimberland
 cheaptms
 cheaptoms
@@ -1794,10 +1804,13 @@ classic-ugg
 classicugg
 clavulanate
 clboot
+clearance mbt
 clearance out
 clearance sale
+clearance-mbt
 clearance-out
 clearance-sale
+clearancembt
 clearanceoutlet
 clearancesale
 clenbuterol
@@ -2617,6 +2630,7 @@ gold-essay
 gold-ingot
 gold-jewelry
 gold-price
+gold-seiko
 gold.ru
 goldbarren-
 goldbarren.
@@ -2626,6 +2640,7 @@ goldessay
 goldgeek
 goldingot
 goldjewelry
+goldseiko
 goldsuppl
 golf-shop
 golfplaza
@@ -3008,6 +3023,9 @@ imalook
 imitation hermes
 imitaugg
 imitrex
+immediate income
+immediate-income
+immediateincome
 implanty
 impregnacji
 in-disguise
@@ -3171,6 +3189,12 @@ japanmontblanc
 japannew
 japanonline
 japanswarovski
+jassen dames
+jassen outlet
+jassen-dames
+jassen-outlet
+jassendames
+jassenoutlet
 jcshoe
 jeacoma.co
 jeans good
@@ -3338,6 +3362,9 @@ kreddyyt
 kredit
 kredyt
 kvartiry
+laarzen kopen
+laarzen-kopen
+laarzenkopen
 labetalol
 lacoste-out
 lacosteout
@@ -3380,6 +3407,8 @@ learn-helpful
 learnfacebook
 learningxchange
 learnpianohere
+leather-levi
+leatherlevi
 lebronshoe
 lebronxshoe
 leg-wear
@@ -3394,6 +3423,9 @@ lesben-
 lesbos.
 letrozole
 levaquin
+level marketing
+level-marketing
+levelmarketing
 levitra
 levne
 libraries.cfm
@@ -3660,6 +3692,7 @@ mbt baridi
 mbt boot
 mbt clearance
 mbt exercise
+mbt footwear
 mbt fora
 mbt men
 mbt online
@@ -3673,12 +3706,14 @@ mbt special
 mbt tariki
 mbt tembea
 mbt trainer
+mbt tunisha
 mbt vanzari
 mbt women
 mbt-baridi
 mbt-boot
 mbt-clearance
 mbt-exercise
+mbt-footwear
 mbt-fora
 mbt-japan
 mbt-men
@@ -3693,12 +3728,14 @@ mbt-special
 mbt-tariki
 mbt-tembea
 mbt-trainer
+mbt-tunisha
 mbt-vanzari
 mbt-women
 mbtbaridi
 mbtboot
 mbtclearance
 mbtexercise
+mbtfootwear
 mbtfora
 mbtgun
 mbtjapan
@@ -3715,6 +3752,7 @@ mbtspecial
 mbttariki
 mbttembea
 mbttrainer
+mbttunisha
 mbtvanzari
 mbtwomen
 mcm.co
@@ -3830,6 +3868,7 @@ moncler giubbotti
 moncler homme
 moncler jack
 moncler jacke
+moncler jassen
 moncler klassiker
 moncler man
 moncler men
@@ -3865,6 +3904,7 @@ moncler-giubbotti
 moncler-homme
 moncler-jack
 moncler-jacke
+moncler-jassen
 moncler-klassiker
 moncler-man
 moncler-men
@@ -3899,6 +3939,7 @@ monclergiubbotti
 monclerhomme
 monclerjack
 monclerjacke
+monclerjassen
 monclerklassiker
 monclerman
 monclermen
@@ -4678,6 +4719,8 @@ q=blog
 q=node
 qry_page
 qtrade
+quartz-seiko
+quartzseiko
 queen chiffon
 queen clutch
 queen out
@@ -5299,6 +5342,9 @@ sunglassuk
 sunrize
 superarticle
 superheroz
+supra shoe
+supra-shoe
+suprashoe
 suprax
 supreme-essay
 supremeessay
@@ -5971,15 +6017,23 @@ warehouse.us
 warepics
 warmjp
 warszawa
+watch-quartz
 watch-replica
+watch-seiko
+watches-quartz
+watchesquartz
 watchhoshi
+watchquartz
 watchreplica
+watchseiko
 water-weight
 way-to-enjoy
 wayfarer glass
 wayfarer-glass
 wayfarerglass
 wdmypass
+weave-hair
+weavehair
 web anal
 web-anal
 web-hosting
@@ -6120,6 +6174,9 @@ windows8key
 windowsanytime
 windowsphone.co
 wingsshop
+winter jassen
+winter-jassen
+winterjassen
 without-invest
 women makeup
 women mbt
@@ -6507,6 +6564,7 @@ zyvox
 ヴェネタ
 エルメス
 おざ
+お客
 カナダグース
 ギフト
 グッチ
@@ -6551,6 +6609,7 @@ zyvox
 ロレックス
 ワンランク上の
 仕入れ
+保証
 化粧
 博彩
 危機
@@ -6561,6 +6620,7 @@ zyvox
 実店舗
 履
 巨大
+店の
 激安
 用品
 百家乐
@@ -6576,6 +6636,7 @@ zyvox
 返品
 通信販売
 通販
+配送
 金融
 鈥?
 銉
