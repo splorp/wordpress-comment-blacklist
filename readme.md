@@ -14,7 +14,7 @@ That’s it.
 
 I don’t blame you if you’re skeptical about how well this blacklist works compared to a commercial solution like [Akismet](http://akismet.com/). Because I am subjectively including keywords based on comment spam submitted to my own sites, there is a chance that the blacklist will “overclean” your comment queue. Consider that fair warning.
 
-However, [Jason Cosper](https://github.com/boogah) reports that he used the blacklist on a client’s WordPress installation containing 800,000 or so comments. The blacklist flagged 40% of those comments as “spammy”. As a sanity check, he then exported those flagged comments to a local WordPress install and subsequently had Akismet do its thing. According to Jason, there were [“zero false positives.”](https://twitter.com/boogah/status/292031513590128640)
+However, [Jason Cosper](https://github.com/boogah) reports that he used an earlier version of the blacklist on a client’s WordPress installation containing 800,000 or so comments. The blacklist flagged 40% of those comments as “spammy”. As a sanity check, he then exported those flagged comments to a local WordPress install and subsequently had Akismet do its thing. According to Jason, there were [“zero false positives.”](https://twitter.com/boogah/status/292031513590128640)
 
 Still need convincing? The blacklist was featured over at [WP Daily](http://wpdaily.co/) in [John Saddington](http://john.do
 /)’s enticingly titled post, [Die Spam! Blacklist That Shiz with This Gist!](http://wpdaily.co/comment-blacklist-gist/)
@@ -25,7 +25,9 @@ WordPress stores the contents of the [Comment Blacklist](http://codex.wordpress.
 
 ### Known Issues
 
-Nothing is perfect and WordPress is no exception. Apparently the comment blacklist has an issue with using `/5.` as a keyword. Including this keyword in your blacklist will cause all comments to be flagged as spam, regardless of their content or whether the commenter has been previously approved. It’s just weird.
+Nothing is perfect and WordPress is no exception.
+
+Apparently the comment blacklist has an issue with using `/5.` as a keyword. Including this keyword in your blacklist will cause all comments to be flagged as spam, regardless of their content or whether the commenter has been previously approved. It’s just weird. This issue has been confirmed to exist in versions 3.4.2 through 3.7.1 of WordPress.
 
 ### Mad Props
 
