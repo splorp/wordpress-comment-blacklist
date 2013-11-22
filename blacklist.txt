@@ -360,9 +360,6 @@ _vti
 //vpn-
 //website
 //webstore
-/1.
-/2.
-/3.
 /about.
 /acai
 /add.
