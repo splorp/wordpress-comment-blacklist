@@ -6283,7 +6283,6 @@ wordpress-web
 wordpresstheme
 wordpressweb
 work-review
-worki
 workout-sale
 workoutsale
 workreviews
