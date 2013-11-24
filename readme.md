@@ -25,9 +25,11 @@ WordPress stores the contents of the [Comment Blacklist](http://codex.wordpress.
 
 ### Known Issues
 
-Nothing is perfect and WordPress is no exception.
+According to the WordPress [Discussion Settings Screen](http://codex.wordpress.org/Settings_Discussion_Screen) documentation, a comment will be marked spam if any of the [Comment Blacklist](http://codex.wordpress.org/Combating_Comment_Spam#Comment_Blacklist) keywords are found in the comment content, name, URL, email, or IP address fields. Surprisingly, WordPress also applies the blacklist against the [user agent](http://en.wikipedia.org/wiki/User_agent) string.
 
-Apparently the comment blacklist has an issue with using `/5.` as a keyword. Including this keyword in your blacklist will cause all comments to be flagged as spam, regardless of their content or whether the commenter has been previously approved. It’s just weird. This issue has been confirmed to exist in versions 3.4.2 through 3.7.1 of WordPress.
+This can be a problem.
+
+For example, I had been using the keywords `/4.` and `/5.` to flag URLs with obvious numbered pages and various file extensions. Unfortunately, these two benign-looking keywords also flagged comments containing common user agent strings, such as `Mozilla/4.0` and `Chrome/5.0`. In other words, every single comment was flagged as spam, regardless of its content or whether the commenter had been previously approved.
 
 ### Mad Props
 
@@ -36,14 +38,14 @@ I would like to thank [Mika Epstein](https://github.com/ipstenu), [Claudio Schwa
 ### History
 
 + 20131105 — Migrated project to [GitHub](https://github.com/splorp/wordpress-comment-blacklist)
-+ 20131020 — Blacklist contains 6,000 entries
-+ 20130911 — Blacklist contains 5,000 entries
-+ 20130715 — Blacklist contains 4,000 entries
-+ 20130226 — Blacklist contains 3,000 entries
++ 20131020 — Blacklist contains over 6,000 entries
++ 20130911 — Blacklist contains over 5,000 entries
++ 20130715 — Blacklist contains over 4,000 entries
++ 20130226 — Blacklist contains over 3,000 entries
 + 20130130 — Added documentation
 + 20130130 — Mentioned on [WP Daily](http://torquemag.io/comment-blacklist-gist/)
-+ 20120529 — Blacklist contains 2,000 entries
-+ 20120217 — Blacklist contains 1,000 entries
++ 20120529 — Blacklist contains over 2,000 entries
++ 20120217 — Blacklist contains over 1,000 entries
 + 20111122 — Released as a [Gist](https://gist.github.com/splorp/1385930) with just over 140 entries
 
 
