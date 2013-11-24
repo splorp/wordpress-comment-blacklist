@@ -396,7 +396,8 @@ _vti
 /birkenstocks.
 /bitcoin-
 /black-friday
-/blog.
+/blog.htm
+/blog.asp
 /blog/blog
 /blog/owner
 /blog/post
