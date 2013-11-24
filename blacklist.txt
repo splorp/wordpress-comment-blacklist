@@ -396,8 +396,8 @@ _vti
 /birkenstocks.
 /bitcoin-
 /black-friday
-/blog.htm
 /blog.asp
+/blog.htm
 /blog/blog
 /blog/owner
 /blog/post
@@ -881,6 +881,8 @@ action=profile
 action=view
 activation code
 actonel
+actual effort
+actual-effort
 acyclovir
 ad-wiki
 addarticle
@@ -1157,6 +1159,7 @@ belt-replica
 beltreplica
 benzoclin
 benzogenerator
+benzoylmethyl
 berlinmoncler
 berracom.ph
 best cyber
@@ -1731,8 +1734,11 @@ cheappandora
 cheapprada
 cheaprayban
 cheapred
+cheaps ugg
+cheaps-ugg
 cheapsale
 cheapsex
+cheapsugg
 cheapsunglass
 cheapsupra
 cheaptimberland
@@ -2273,6 +2279,8 @@ every advertise
 every1bet
 evryday
 exclusive.ru
+executive-search
+executivesearch
 exelon
 exit.asp
 extra gry
@@ -2714,6 +2722,8 @@ goyard-online
 goyardbag
 goyardonline
 gratuitos
+great article
+great-article
 great-essay
 great-things
 great}
@@ -3425,6 +3435,11 @@ leather-levi
 leatherlevi
 lebronshoe
 lebronxshoe
+led_display
+led_down
+led_flood
+led_indust
+led_street
 leg-wear
 legal-steroid
 legalbud
@@ -3435,6 +3450,7 @@ lendsomemoney
 lenjerie
 lesben-
 lesbos.
+lesson1
 letrozole
 levaquin
 level marketing
@@ -3817,6 +3833,8 @@ menseekingwom
 mequinol
 meratol
 mercantilism
+mercati di
+mercati-di
 meridia
 metacam
 methadone
@@ -3898,6 +3916,7 @@ moncler pascher
 moncler piumini
 moncler polo
 moncler pour
+moncler prezzi
 moncler quincy
 moncler sito
 moncler ski
@@ -3935,6 +3954,7 @@ moncler-pascher
 moncler-piumini
 moncler-polo
 moncler-pour
+moncler-prezzi
 moncler-quincy
 moncler-sito
 moncler-ski
@@ -3971,6 +3991,7 @@ monclerpascher
 monclerpiumini
 monclerpolo
 monclerpour
+monclerprezzi
 monclerquincy
 monclersito
 monclerski
@@ -6296,6 +6317,7 @@ wristpain
 writing-service
 writingservice
 wwellness
+www.1
 www.article
 www.best-
 www.brand
