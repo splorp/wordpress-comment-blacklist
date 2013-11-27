@@ -25,11 +25,15 @@ WordPress stores the contents of the [Comment Blacklist](http://codex.wordpress.
 
 ### Known Issues
 
+**Non-English Comments**
+
+This blacklist has been created for use on English language sites. There are several dozen terms and phrases included in the blacklist that may flag legitimate comments posted in other languages. If you commonly receive comments in other languages (specifically those containing CJK, Hiragana, Katakana, or Cyrillic characters), you may want to remove or modify those sections of the blacklist.
+
+**User Agent Strings**
+
 According to the WordPress [Discussion Settings Screen](http://codex.wordpress.org/Settings_Discussion_Screen) documentation, a comment will be marked spam if any of the [Comment Blacklist](http://codex.wordpress.org/Combating_Comment_Spam#Comment_Blacklist) keywords are found in the comment content, name, URL, email, or IP address fields. Surprisingly, WordPress also applies the blacklist against the [user agent](http://en.wikipedia.org/wiki/User_agent) string.
 
-This can be a problem.
-
-For example, I had been using the keywords `/4.` and `/5.` to flag URLs with obvious numbered pages and various file extensions. Unfortunately, these two benign-looking keywords also flagged comments containing common user agent strings, such as `Mozilla/4.0` and `Chrome/5.0`. In other words, every single comment was flagged as spam, regardless of its content or whether the commenter had been previously approved.
+For example, in an earlier version of the blacklist the keywords `/4.` and `/5.` had been included to flag URLs with sequentially numbered pages with various file extensions. Unfortunately, these two benign-looking keywords also flagged comments containing common user agent strings, such as `Mozilla/4.0` and `Chrome/5.0`. In other words, nearly every single comment was flagged as spam, regardless of its content or whether the commenter had been previously approved.
 
 ### Mad Props
 
