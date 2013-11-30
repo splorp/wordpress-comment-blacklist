@@ -1482,6 +1482,7 @@ can_help_you
 can-help-you
 canadagoose-ca
 canadagoose-factory
+canadagoose-fr
 canadagoose-online
 canadagoose-out
 canadagooseannka
@@ -1676,6 +1677,7 @@ cheap timberland
 cheap toms
 cheap travel
 cheap ugg
+cheap uk
 cheap-adobe
 cheap-atlanta
 cheap-authentic
@@ -1711,6 +1713,7 @@ cheap-tms
 cheap-toms
 cheap-travel
 cheap-ugg
+cheap-uk
 cheapadobe
 cheapatlanta
 cheapauthentic
@@ -1758,6 +1761,7 @@ cheaptms
 cheaptoms
 cheaptravel
 cheapugg
+cheapuk
 cheapweb
 cheat.co
 cheats for
@@ -2477,6 +2481,7 @@ frauen puma
 frauen-puma
 frauenpuma
 free gay
+free prescription
 free visitor
 free web
 free-bbs
@@ -2493,6 +2498,7 @@ free-movie
 free-offer
 free-online
 free-poker
+free-prescription
 free-program
 free-web
 free-website
@@ -2696,25 +2702,31 @@ googlebind
 googleing
 googleusashop
 goose chilliwack
+goose enfant
 goose femme
+goose grise
 goose homme
 goose jacka
 goose jacket
 goose jakke
 goose norge
 goose out
+goose paris
 goose parka
 goose sale
 goose v
 goose youth
 goose-canada
+goose-enfant
 goose-femme
+goose-grise
 goose-homme
 goose-jacka
 goose-jacket
 goose-jakke
 goose-norge
 goose-out
+goose-paris
 goose-parka
 goose-sale
 goose-v
@@ -2724,13 +2736,16 @@ gooseca
 goosecanada
 goosecheap
 goosedk
+gooseenfant
 goosefemme
+goosegrise
 goosehomme
 goosejacka
 goosejacket
 goosejakke
 goosenorge
 gooseoutlet
+gooseparis
 gooseparka
 goosesale
 goosescheap
@@ -2752,7 +2767,10 @@ great}
 greatbet
 green-smoker
 greensmoker
+grise parka
+grise-parka
 griseofulvin
+griseparka
 grossrx
 group_home.php
 grow-cannabis
@@ -4061,6 +4079,7 @@ moneyfast
 moneymak
 monohydrate
 monster beat
+monster_beats
 monster-beat
 monster-headphon
 monster/beats
@@ -4433,6 +4452,7 @@ otonanocoach
 otoplasty
 outelt
 outlet bag
+outlet canada
 outlet france
 outlet handbag
 outlet hermes
@@ -4446,6 +4466,7 @@ outlet woolrich
 outlet_store
 outlet-austr
 outlet-canad
+outlet-canada
 outlet-france
 outlet-hermes
 outlet-japan
@@ -4471,6 +4492,7 @@ outlet2013
 outletaustr
 outletbag
 outletcanad
+outletcanada
 outletforsale
 outletfrance
 outlethermes
@@ -5387,6 +5409,7 @@ ssory
 starsunglass
 statuscode
 steelersfan
+stendra
 stevewynnloan
 stigonline
 stodiobeat
@@ -5993,6 +6016,8 @@ vendita
 vendorlock
 venlafaxine
 ventolin inhale
+versace-japan
+versacejapan
 versicherungsmakler
 very}
 veste moncler
@@ -6678,6 +6703,7 @@ zyvox
 いホスティング
 ヴィトン
 ヴェネタ
+ヴェルサーチ
 エルメス
 おざ
 お客
