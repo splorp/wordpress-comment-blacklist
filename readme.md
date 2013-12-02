@@ -2,7 +2,7 @@
 
 Sometimes a simple solution is a better solution.
 
-Over the past couple of years, I have identified over 6,700 phrases, patterns, and keywords commonly used by spammers and comment bots in usernames, email addresses, link text, and URIs. This blacklist is still a work in progress and there is certainly room for optimization. Suggestions and bug reports are certainly appreciated. Please use the [issue tracker](https://github.com/splorp/wordpress-comment-blacklist/issues) to let me know.
+Over the past couple of years, I have identified over 6,800 phrases, patterns, and keywords commonly used by spammers and comment bots in usernames, email addresses, link text, and URIs. This blacklist is still a work in progress and there is certainly room for optimization. Suggestions and bug reports are certainly appreciated. Please use the [issue tracker](https://github.com/splorp/wordpress-comment-blacklist/issues) to let me know.
 
 ### How Do I Use It?
 
@@ -24,6 +24,12 @@ Still need convincing? The blacklist was featured over at [WP Daily](http://wpda
 WordPress stores the contents of the [Comment Blacklist](http://codex.wordpress.org/Combating_Comment_Spam#Comment_Blacklist) setting in a MySQL column named `blacklist_keys`. Defined as a `longtext` [data type](http://dev.mysql.com/doc/en/blob.html), this column can contain up to 4,294,967,295 bytes (approximately 4GB) of text. There is no chance of us running out of room to expand the blacklist any time soon.
 
 ### Known Issues
+
+**URL Shorteners**
+
+I have included several URL shortener domain in the blacklist.
+
+tinyurl.com
 
 **Non-English Comments**
 
