@@ -124,6 +124,7 @@ _vti
 -marc-jacobs-
 -mbt.
 -mbt/
+-mbts.
 -men-jersey
 -mens.
 -metods-
@@ -466,6 +467,7 @@ _vti
 /dmg/
 /drmartens-
 /drug
+/duvetica.
 /economical-
 /empower-
 /en.
@@ -1231,6 +1233,7 @@ birkin-bag
 birkin.htm
 birkinbag
 bisapp
+bit.ly
 bitartrate
 biuro-solido
 biz.pl
@@ -1603,6 +1606,9 @@ chanelsac
 chanelsale
 channel-operator
 chantix
+chapa shoe
+chapa-shoe
+chapashoe
 chaqueta cuero
 chaqueta oferta
 chaqueta-cuero
@@ -2207,6 +2213,7 @@ dubturbo-
 dummytest
 dunjakke
 dvdrip
+dyubetika
 e--store
 e-biz
 early-signs-of
@@ -3215,6 +3222,7 @@ irc-chat
 is seo
 is-now-available
 is-seo
+is.gd
 isabel marant
 isabel-marant
 isabelmarant
@@ -3784,6 +3792,7 @@ may_help_you
 may-help-you
 mbt baridi
 mbt boot
+mbt chapa
 mbt clearance
 mbt exercise
 mbt footwear
@@ -3791,6 +3800,7 @@ mbt fora
 mbt men
 mbt online
 mbt outlet
+mbt panda
 mbt sale
 mbt sandal
 mbt schuhe
@@ -3805,6 +3815,7 @@ mbt vanzari
 mbt women
 mbt-baridi
 mbt-boot
+mbt-chapa
 mbt-clearance
 mbt-exercise
 mbt-footwear
@@ -3813,6 +3824,7 @@ mbt-japan
 mbt-men
 mbt-online
 mbt-outlet
+mbt-panda
 mbt-sale
 mbt-sandal
 mbt-schuhe
@@ -3827,6 +3839,7 @@ mbt-vanzari
 mbt-women
 mbtbaridi
 mbtboot
+mbtchapa
 mbtclearance
 mbtexercise
 mbtfootwear
@@ -3836,6 +3849,7 @@ mbtjapan
 mbtmen
 mbtonline
 mbtoutlet
+mbtpanda
 mbtsale
 mbtsandal
 mbtschuhe
@@ -5631,7 +5645,7 @@ time-synchronisation.co
 timeshare
 tingenieur
 tinytowtimmy.co
-tinyurl
+tinyurl.com
 tipblog
 tips-for-
 tips-to-start
@@ -5695,6 +5709,7 @@ torsemide
 toryburchflat
 toryburchten
 totalizador
+tr.im
 track-phone-location
 tracking-a-phone
 trading-method
@@ -6715,6 +6730,7 @@ zyvox
 фирму
 форум
 фото
+цена
 шапка-
 элитныеноутбуки
 юридической
@@ -6744,6 +6760,7 @@ zyvox
 ダコタ
 ダナー
 チャンルー
+デュベティカ
 トリーバーチ
 トレッキングシューズ
 ニューバランス
