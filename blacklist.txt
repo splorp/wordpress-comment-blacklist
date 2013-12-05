@@ -2280,6 +2280,7 @@ era nba
 era nhl
 era-mlb
 era-nba
+era-nfl
 era-nhl
 erectile
 erettile
@@ -2737,6 +2738,7 @@ goose norge
 goose out
 goose paris
 goose parka
+goose retail
 goose sale
 goose v
 goose yorkville
@@ -2755,6 +2757,7 @@ goose-norge
 goose-out
 goose-paris
 goose-parka
+goose-retail
 goose-sale
 goose-v
 goose-vest
@@ -2777,6 +2780,7 @@ goosenorge
 gooseoutlet
 gooseparis
 gooseparka
+gooseretail
 goosesale
 goosescheap
 gooseshop
@@ -4272,6 +4276,7 @@ nfl austral
 nfl jers
 nfl jersey
 nfl shop
+nfl-beanie
 nfl-jers
 nfl-jersey
 nfl-official
