@@ -515,6 +515,7 @@ _vti
 /handle/
 /hentai
 /hermes-
+/herveleger
 /hire-
 /hollister-
 /hollister.
@@ -592,6 +593,7 @@ _vti
 /menu/menu
 /mobile/
 /moncler-
+/moncler.
 /moncler/
 /montblanc.
 /mortgage
@@ -2733,6 +2735,8 @@ golf-shop
 golfplaza
 golfs
 gomaile.co
+good blog
+good-blog
 good-for-
 good}
 goodbye.asp
@@ -3552,6 +3556,9 @@ leg-wear
 legal-steroid
 legalbud
 legalsteroid
+leger band
+leger-band
+legerband
 lend-direct
 lenddirect
 lendsomemoney
@@ -4640,6 +4647,12 @@ pandorabracelet
 pandoracharm
 pandorajewelry
 pandorauk
+panerai clock
+panerai watch
+panerai-clock
+panerai-watch
+paneraiclock
+paneraiwatch
 panty pics
 panty play
 panty sex
@@ -5434,6 +5447,7 @@ skin_pigment
 skin-pigment
 skincare-work
 skincarework
+skip-tracing
 skjønnhetsprodukter
 sklep
 sklepy
@@ -6821,10 +6835,12 @@ zyvox
 おざ
 お客
 カナダグース
+カルティエは
 ギフト
 グッチ
 クラシック
 クロエ
+ゴヤール
 ご了承
 ご返金
 ショッパー
@@ -6843,6 +6859,7 @@ zyvox
 バーバリー
 パタゴニア
 バッグ
+パネライ
 バンクオブアメリカ
 ブーツ
 フェラガモ
@@ -6856,6 +6873,7 @@ zyvox
 ボッテガ
 マークジェイコブス
 ミ
+モンクレール
 モンブラン
 ユーチューブ
 ラゲージ
@@ -6875,6 +6893,7 @@ zyvox
 商品
 商品を
 外贸
+安い
 実店舗
 履
 巨大
@@ -6885,6 +6904,7 @@ zyvox
 百家乐
 直営店
 真のメリット
+秋冬
 綺麗め
 脿
 腕時計
