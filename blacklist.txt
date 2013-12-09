@@ -2757,6 +2757,7 @@ goose norge
 goose out
 goose paris
 goose parka
+goose pas
 goose retail
 goose sale
 goose v
@@ -2776,6 +2777,7 @@ goose-norge
 goose-out
 goose-paris
 goose-parka
+goose-pas
 goose-retail
 goose-sale
 goose-v
@@ -2799,6 +2801,7 @@ goosenorge
 gooseoutlet
 gooseparis
 gooseparka
+goosepas
 gooseretail
 goosesale
 goosescheap
@@ -2958,6 +2961,7 @@ hawksjersey
 hcg-boost
 hcgboost
 headset2013
+healthhow
 heel_pads
 heil hitler
 heil-hitler
@@ -3406,6 +3410,7 @@ jpmonster
 jpsale
 jpsasics
 jsadidas
+juanjuan
 juicycouture
 kaepernick jersey
 kaepernick wom
@@ -3452,6 +3457,8 @@ klonopin
 klub.ru
 knigki
 knigko
+knockoff eyewear
+knockoff-eyewear
 knockoff-handbag
 knockoffhandbag
 knolckoff
@@ -4417,6 +4424,7 @@ nude.htm
 oakeyspascher
 oakley canada
 oakley caveat
+oakley cross
 oakley frogskin
 oakley glass
 oakley out
@@ -4426,6 +4434,7 @@ oakley-active
 oakley-canada
 oakley-caveat
 oakley-cheap
+oakley-cross
 oakley-out
 oakley-store
 oakley-straight
@@ -4434,9 +4443,11 @@ oakleyactive
 oakleycanada
 oakleycaveat
 oakleycheap
+oakleycross
 oakleymedusa
 oakleyout
 oakleypascher
+oakleyru
 oakleys.net
 oakleysale
 oakleysj
@@ -5066,6 +5077,7 @@ replica ip
 replica jersey
 replica louis
 replica nba
+replica oakley
 replica rayban
 replica service
 replica top
@@ -5083,6 +5095,7 @@ replica-ip
 replica-jersey
 replica-louis
 replica-nba
+replica-oakley
 replica-prada
 replica-rayban
 replica-rolex
@@ -5484,6 +5497,9 @@ software.in
 softwaresecret
 sohbet
 sold-out
+solde canada
+solde-canada
+soldecanada
 solução
 solutionsinc
 soma.htm
@@ -5790,6 +5806,9 @@ torsemide
 toryburchflat
 toryburchten
 totalizador
+tote handbag
+tote-handbag
+totehandbag
 tr.im
 track-phone-location
 tracking-a-phone
@@ -6832,6 +6851,7 @@ zyvox
 ヴェネタ
 ヴェルサーチ
 エルメス
+オークリー
 おざ
 お客
 カナダグース
@@ -6845,6 +6865,7 @@ zyvox
 ご返金
 ショッパー
 ショップ
+スポード
 セイコー
 セリーヌ
 ダコタ
