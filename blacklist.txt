@@ -2394,13 +2394,16 @@ fajnafotka
 fajne
 fake oakley
 fake rayban
+fake sunglass
 fake-converse
 fake-oakley
 fake-rayban
+fake-sunglass
 fakeconverse
 fakeoakley
 fakeok
 fakerayban
+fakesunglass
 falsedoc
 falsepassport
 fanshome
@@ -4747,6 +4750,7 @@ pharmacy
 pharmaun
 phentermine
 phlebotomy
+phon-store
 phone advert
 phone-advert
 phone-jammer
@@ -4758,6 +4762,7 @@ phonejammer
 phonelookup
 phonescanada
 phonesforsale
+phonstore
 photo/online
 photoeditingdeal
 php?article
@@ -4965,6 +4970,7 @@ puzzle-maker
 puzzlemaker
 q=blog
 q=node
+qampuz
 qry_page
 qtrade
 quartz-seiko
