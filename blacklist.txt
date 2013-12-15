@@ -302,7 +302,7 @@ _vti
 .ru/3.
 .ru/content
 .ru/forum
-.ru/images
+.ru/image
 .ru/member
 .ru/profile
 .ru/service
@@ -318,6 +318,7 @@ _vti
 .us/user
 .webs.co
 .xn--
+.za/image
 )-
 [...
 [/url
@@ -503,6 +504,7 @@ _vti
 /get-free
 /getwidgets/
 /glowna.
+/graphics/
 /group1
 /group2
 /group3
@@ -649,6 +651,7 @@ _vti
 /pricing.
 /privat-
 /private.
+/private/
 /product/0/
 /produkter/
 /profil/
@@ -750,10 +753,10 @@ _vti
 /woolrich.
 /wp-admin
 /wp-content
-/wp-images
+/wp-image
 /wp-include
 /wp-list
-/wpimages
+/wpimage
 /ww.
 /x.co
 /xchange
@@ -762,9 +765,18 @@ _vti
 /yabb
 /z.
 /zumba-
+&#070;&#069;&#078;&#068;&#073;
+&#080;&#097;&#117;&#108;&#032;&#083;&#109;&#105;&#116;&#104;
 &#969;
 &#1072;
 &#1075;
+&#12488;&#12522;&#12540;&#12496;&#12540;&#12481;
+&#12491;&#12517;&#12540;&#12496;&#12521;&#12531;&#12473;
+&#12509;&#12540;&#12523;&#12473;&#12511;&#12473;
+&#12511;&#12517;&#12454;
+&#12524;&#12503;&#12522;&#12459;
+&#20605;&#29289;
+&#36001;&#24067;
 &article
 &eþh;
 &kappa;
@@ -893,6 +905,7 @@ acomplia
 action=profile
 action=view
 activation code
+activity/p/
 actonel
 actual effort
 actual-effort
@@ -2436,6 +2449,8 @@ femmes-canada-goose
 femmescanadagoose
 fendi belt
 fendi-belt
+fendi1
+fendi2
 fendibelt
 fenoma
 fenteetum
@@ -2964,6 +2979,7 @@ handbagu
 handbagwom
 hanging-with-friends
 hangingwithfriends
+haohao
 hardtool
 has cuisine
 has-cuisine
@@ -4041,9 +4057,11 @@ mirapex
 mister-design
 misterboy
 mittelx
+miu miu
 miu sunglass
 miu-miu
 miu-sunglass
+miumiu
 miusunglass
 mixed-race
 mixedrace
@@ -4328,6 +4346,8 @@ new-jordans
 new-oakley
 newarrivals
 newarticle
+newbalance1
+newbalance2
 newgucci
 newhong
 newjordans
@@ -4713,6 +4733,8 @@ passwort
 passwrot
 patagonia-zone
 patagoniazone
+paulsmith1
+paulsmith2
 paulsmith201
 paulsmithka
 paulsmithsa
@@ -5774,6 +5796,7 @@ timberland-out
 timberland-pas
 timberland-saldi
 timberland-uom
+timberland1
 timberlandboot
 timberlandout
 timberlandpas
@@ -5845,6 +5868,8 @@ torrent-movie
 torrentmovie
 torrents
 torsemide
+toryburch1
+toryburch2
 toryburchflat
 toryburchten
 totalizador
@@ -5879,6 +5904,7 @@ truthabout
 try-these
 tubee.tv
 tucholskie
+tumi1
 turbo-vac
 turbosprezar
 turystyka
@@ -6395,6 +6421,7 @@ websiteonline
 websiterecord
 websites online
 websites-online
+websitesdesign
 websitesonline
 websolution
 webviewconsult
@@ -6916,6 +6943,7 @@ zyvox
 ダコタ
 ダナー
 チャンルー
+ティンバ
 デュベティカ
 トリーバーチ
 トレッキングシューズ
@@ -6929,6 +6957,7 @@ zyvox
 バンクオブアメリカ
 ブーツ
 フェラガモ
+フェンディ
 ブが広がります
 ブランドコピー
 ブルガリ
@@ -6938,7 +6967,7 @@ zyvox
 ホグロフス
 ボッテガ
 マークジェイコブス
-ミ
+ミュウ
 モンクレール
 モンブラン
 ユーチューブ
@@ -6973,6 +7002,7 @@ zyvox
 綺麗め
 脿
 腕時計
+芸能人
 茅
 行動電源
 財布
