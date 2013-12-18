@@ -1,7 +1,7 @@
 _border
 _coupon
 _htm
-_marketing
+_market
 _profit
 _strateg
 _the_best
@@ -353,6 +353,7 @@ _vti
 //gay
 //generic
 //groups
+//images/
 //leverage
 //official
 //onsale
@@ -464,8 +465,10 @@ _vti
 /damen-moncler
 /dat/
 /data/
+/dbase/
 /dg-
 /dg.
+/diet.
 /dieta.
 /dior_
 /dior.
@@ -487,6 +490,7 @@ _vti
 /feeds/
 /fendi-
 /fendi.
+/ferragamo-
 /ferragamo.
 /files/
 /filmy
@@ -503,7 +507,7 @@ _vti
 /foto.
 /gekiyasu
 /get-free
-/getwidgets/
+/getwidgets
 /glowna.
 /graphics/
 /group1
@@ -556,11 +560,11 @@ _vti
 /jordan3
 /jordan4
 /jordan5
-/journal/item/
 /js.
 /js/
 /just.
 /kinder-moncler
+/kommentar
 /konsultan
 /kredit
 /kredyt
@@ -583,6 +587,7 @@ _vti
 /mailer/
 /malware/
 /manolo-blahnik
+/manoloblahnik
 /massage
 /mbt-
 /mbt.
@@ -595,9 +600,9 @@ _vti
 /members_
 /members-
 /members.
+/members/
 /membership.
 /menu.
-/menu/menu
 /mobile/
 /moncler-
 /moncler.
@@ -610,7 +615,6 @@ _vti
 /netcat/
 /new.
 /news.
-/news/articles/
 /newsletters/
 /nihon
 /nike-
@@ -638,9 +642,6 @@ _vti
 /pantie-
 /panties-
 /panty-
-/pg/blog/
-/pg/forum/
-/pg/profile/
 /piece-
 /piece.
 /popups/
@@ -657,9 +658,6 @@ _vti
 /produkter/
 /profil/
 /profile.php
-/profile/blog
-/profile/profile
-/profiles/blog
 /prolist
 /property-
 /prozac
@@ -702,7 +700,6 @@ _vti
 /strony-
 /strony/
 /stuff.
-/submit/url/
 /suggestions-
 /supply_
 /swf/
@@ -733,8 +730,6 @@ _vti
 /user_
 /user-
 /user:
-/user/profile
-/user/view
 /usuario:
 /vb/
 /view_my/
@@ -767,6 +762,7 @@ _vti
 /z.
 /zumba-
 &#070;&#069;&#078;&#068;&#073;
+&#072;&#101;&#114;&#109;&#101;&#115;
 &#080;&#097;&#117;&#108;&#032;&#083;&#109;&#105;&#116;&#104;
 &#116;&#105;&#109;&#098;&#101;&#114;&#108;&#097;&#110;&#100;
 &#969;
@@ -938,6 +934,9 @@ adidasuomo
 adipex
 admin.cfm
 admin5
+ados populaire
+ados-populaire
+adospopulaire
 adsjeremy
 adsplus
 adswings
@@ -971,11 +970,12 @@ agentdenim
 air max
 air-jorda
 air-max
+air-yeezy
 airjorda
-airmaxdeutsch
-airmaxshoe
+airmax
 airport--
 airport-transport
+airyeezy
 aitaiwan
 akkuschrauber
 alendronate
@@ -1242,11 +1242,14 @@ bieding laarzen
 bieding-laarzen
 biedinglaarzen
 bielizna
+big bling
 big_site
+big-bling
 big-cock
 big-replica
 big-site
 big.site
+bigbling
 bigcock
 bigreplica
 billig
@@ -1568,6 +1571,8 @@ canadagoosesoutlet
 canadaoutlet
 candycrush
 cannabis-seed
+cappelli new
+cappelli-new
 captchasnip
 card-debt
 cardy boot
@@ -2077,6 +2082,7 @@ cymbalta
 cytotec
 cz/love
 dabloggs
+dafeult
 dailystrength
 dakotasuki
 damen timberland
@@ -2225,6 +2231,11 @@ docid=
 doctermarten
 docteurdrebeat
 document_srl
+documents/celine
+documents/newbalance
+documents/nike
+documents/northface
+documents/rolex
 does green
 does-green
 doesgreen
@@ -2293,6 +2304,7 @@ ecco-out
 eccooutlet
 ed-in-men
 eemail
+effervescent8
 effexor
 egoodshop
 einkommen
@@ -2362,6 +2374,7 @@ essaysservice
 estradiol
 etherdq
 euro-million
+euroditalog
 europe nfl
 eurovids
 evelyne bag
@@ -2531,6 +2544,7 @@ for_your_needs
 for-cheap
 for-gucci
 for-interactive
+for-men
 for-money
 for-your-needs
 forboots
@@ -2554,9 +2568,12 @@ forums?func
 forums/1/topic
 foryou.co
 forzest
+fr canada
+fr-canada
 fr.fr/
 fr/acheter
 fr/botte
+fr/canada
 fr/longchamp
 fr/pascher
 fradidas
@@ -2669,6 +2686,7 @@ gamedesigndegree
 gamegame
 games-casino
 gamewiki
+gammablue1
 gangprofil
 gapscent
 garcinia
@@ -3195,8 +3213,13 @@ image/image
 image/index
 image/ugg
 images/cache
+images/celine
 images/image
 images/index
+images/newbalance
+images/nike
+images/northface
+images/rolex
 images/ugg
 imalook
 imitation hermes
@@ -3433,16 +3456,19 @@ jjl
 joggingstroller
 jogos
 john-varvatos
+jordan gamma
 jordan out
 jordan pas
 jordan retro
 jordan shoe
 jordan store
+jordan-gamma
 jordan-pas
 jordan-retro
 jordan-sale
 jordan-shoe
 jordan-store
+jordangamma
 jordankicks
 jordanretro
 jordans cheap
@@ -3453,6 +3479,7 @@ jordanshoe
 jordansshoe
 jordanstore
 jordjev
+journal/item
 jp-best
 jp-sale
 jp/blog
@@ -3647,7 +3674,6 @@ limo-service
 linguim.co
 link_build
 link_campaign
-link_market
 link_serv
 link_track
 link-baiting
@@ -3663,7 +3689,6 @@ linkbaiting
 linkbuild
 linkcampaign
 linking_campaign
-linking_market
 linking_serv
 linking-campaign
 linking-market
@@ -4021,6 +4046,7 @@ men boost
 men-boost
 menboost
 menseekingwom
+menu/menu
 mequinol
 meratol
 mercantilism
@@ -4373,6 +4399,7 @@ newhong
 newjordans
 newoakley
 news.in
+news/article
 newsarticle
 newss.
 newwebsite
@@ -4405,7 +4432,6 @@ nike run
 nike shoe
 nike total
 nike_jersey
-nike-air-max
 nike-and-shoe
 nike-blazer
 nike-dunk
@@ -4801,6 +4827,9 @@ perweek
 petencies
 pflegeversicherung
 pflegezusatzversicherung
+pg/blog
+pg/forum
+pg/profile
 pharmacies
 pharmacy
 pharmaun
@@ -4960,6 +4989,10 @@ professionalugg
 profile_blogs
 profile_id
 profile/?u
+profile/blog
+profile/profile
+profiles/blog
+profiles/profile
 profissionais
 profit-margin
 profit-seek
@@ -5347,6 +5380,7 @@ schuhe puma
 schuhe-puma
 schuhepuma
 sciatica pain
+scontati
 scoriescod
 scrapebox
 seahawks jersey
@@ -6245,6 +6279,8 @@ urls2
 urlstatusgo.htm
 uroda
 user_blog.php
+user/profile
+user/view
 userinfo.
 ut.ag/
 uustore
@@ -6271,6 +6307,9 @@ veste moncler
 veste-moncler
 vestemoncler
 vestidos
+veston classique
+veston-classique
+vestonclassique
 vetement-femme
 vetement-homme
 veterinarnaya
@@ -7004,6 +7043,7 @@ zyvox
 フェラガモ
 フェンディ
 ブが広がります
+ブランド
 ブランドコピー
 ブルガリ
 ブレスレット
@@ -7019,6 +7059,7 @@ zyvox
 ラゲージ
 ルイヴィトン
 ルブタン
+レシート
 レプリカ
 ロレックス
 ワンランク上の
@@ -7034,9 +7075,11 @@ zyvox
 外贸
 安い
 実店舗
+小銭入れ
 履
 巨大
 店の
+札入れ
 激安
 無料に
 用品
