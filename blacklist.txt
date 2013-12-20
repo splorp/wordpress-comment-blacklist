@@ -177,6 +177,7 @@ _vti
 -seo
 -service.
 -sexy-
+-shiatsu.
 -shoes.
 -shop.co
 -sigareta-
@@ -222,6 +223,7 @@ _vti
 -xchange
 ･・
 ､､
+!@#
 ?/page
 ?add
 ?browse
@@ -549,6 +551,7 @@ _vti
 /index5.
 /indexdic
 /infopages/
+/iphone-case
 /iso_miscs/
 /iss.php
 /jerseys.
@@ -1399,7 +1402,10 @@ breastactive
 bridalshop
 brinkjewel
 britanniahotel
+broncos hat
+broncos-hat
 broncos-official
+broncoshat
 broncosofficial
 brrip
 bruiseviolet
@@ -1573,7 +1579,9 @@ canadaoutlet
 candycrush
 cannabis-seed
 cappelli new
+cappelli nfl
 cappelli-new
+cappelli-nfl
 captchasnip
 card-debt
 cardy boot
@@ -2180,6 +2188,7 @@ dietsolution
 dietsupplement
 differin
 diflucan
+dincob
 diorkan
 direct-fund
 direct-health
@@ -2530,6 +2539,7 @@ flik.us
 flixya
 floridaflee
 floxacin
+fluccun
 fluconazole
 fluoxetine
 fluticasone
@@ -3020,7 +3030,13 @@ haohao
 hardtool
 has cuisine
 has-cuisine
+hats denver
+hats oakland
+hats-denver
+hats-oakland
+hatsdenver
 hatsnap
+hatsoakland
 hatssnap
 haveasite
 hawksjersey
@@ -4003,6 +4019,7 @@ mbttrainer
 mbttunisha
 mbtvanzari
 mbtwomen
+mckinqi
 mcm.co
 mcqueen club
 mcqueen dress
@@ -4410,10 +4427,12 @@ newss.
 newwebsite
 nexopia
 nfl austral
+nfl italia
 nfl jers
 nfl jersey
 nfl shop
 nfl-beanie
+nfl-italia
 nfl-jers
 nfl-jersey
 nfl-official
@@ -4577,6 +4596,7 @@ officialsteeler
 officialstyle
 officialteamshop
 officialugg
+ojectx
 ok-cheap
 ok-sex
 okanyway
@@ -5095,6 +5115,9 @@ qvc
 r?f?rence
 radikal.ru
 radiocarpea
+raiders hat
+raiders-hat
+raidershat
 raloxifene
 ralph_lauren
 ralph-lauren
@@ -5737,6 +5760,8 @@ suprashoe
 suprax
 supreme-essay
 supremeessay
+surf to
+surf-to
 surprisezone
 suwa³ki
 swarovski
@@ -5779,6 +5804,8 @@ tarifmalin
 tariki shoe
 tariki-shoe
 tarikishoe
+tarot divin
+tarot-divin
 tastegood.co
 tax-debt
 taxbook
@@ -5896,6 +5923,9 @@ tiresdiscount
 tireswholesale
 tirewholesale
 tit-pad
+titans merch
+titans-merch
+titansmerch
 tizanidine
 tms-shoe
 tmsshoe
@@ -6896,6 +6926,7 @@ zfymail
 zikinell
 zimovane
 zithromax
+zlinks
 złote
 zmedicin
 zoidstore
