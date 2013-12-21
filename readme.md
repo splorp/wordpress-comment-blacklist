@@ -35,6 +35,23 @@ As mentioned above, the keywords in the blacklist are based on spam submitted to
 + tiny.cc
 + tr.im
 
+**WordPress Links**
+
+Spammers will also utilize links that include URLs that are specific to WordPress installations. These links often point at compromised admin, theme, or plugin files. In most cases, there’s no need to include a URL that deep-links into the bowels of a WordPress site. However, you may want to remove the following keywords from the blacklist if your visitors are commenting on topics related to WordPress site, plugin, or theme development.
+
++ /wp-admin
++ /wp-content
++ /wp-image
++ /wp-include
++ /wp-list
++ /wp-site
++ /wpadmin
++ /wpcontent
++ /wpimage
++ /wpinclude
++ /wplist
++ /wpsite
+
 **Non-English Comments**
 
 This blacklist has been created for use on English language sites. There are several dozen terms and phrases included in the blacklist that may flag legitimate comments posted in other languages. If you commonly receive comments in other languages (specifically those containing CJK, Hiragana, Katakana, or Cyrillic characters), you may want to remove or modify those sections of the blacklist.
