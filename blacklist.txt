@@ -755,7 +755,13 @@ _vti
 /wp-image
 /wp-include
 /wp-list
+/wp-site
+/wpadmin
+/wpcontent
 /wpimage
+/wpinclude
+/wplist
+/wpsite
 /ww.
 /x.co
 /xchange
@@ -1206,6 +1212,12 @@ belstaffoutlet
 belt replica
 belt-replica
 beltreplica
+bengals merch
+bengals store
+bengals-merch
+bengals-store
+bengalsmerch
+bengalsstore
 benzoclin
 benzogenerator
 benzoylmethyl
@@ -2013,6 +2025,7 @@ com2.php
 command=read
 comment-page
 commentabout
+commentsyou
 community.atom
 compare price
 compare-price
@@ -2355,10 +2368,12 @@ equipment-manufacture
 era mlb
 era nba
 era nhl
+era uk
 era-mlb
 era-nba
 era-nfl
 era-nhl
+era-uk
 erectile
 erettile
 erjersey.co
@@ -3032,6 +3047,8 @@ has cuisine
 has-cuisine
 hats denver
 hats oakland
+hats-carolina
+hats-cincin
 hats-denver
 hats-oakland
 hatsdenver
@@ -4779,6 +4796,12 @@ panerai-clock
 panerai-watch
 paneraiclock
 paneraiwatch
+panthers merch
+panthers store
+panthers-merch
+panthers-store
+panthersmerch
+panthersstore
 panty pics
 panty play
 panty sex
