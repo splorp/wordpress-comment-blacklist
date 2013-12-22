@@ -238,6 +238,7 @@ _vti
 ?user
 ?view
 .acgi
+.azmya.
 .baidu
 .bioactives
 .biz
@@ -1062,10 +1063,12 @@ asdasd
 asdf
 asicsshoe
 asikkusu
+aso expei
 asp?folder
 asp?id
 aspiring blog
 aspiring-blog
+assortiment 
 astral-diamond
 aswenr
 ationincome
@@ -1994,6 +1997,8 @@ code-generat
 colin-kaepernick
 collection effort
 college-loan
+colts hat
+colts-hat
 com.asp
 com.com
 com//
@@ -2038,6 +2043,7 @@ comunity
 conficker worm
 conficker-worm
 consalt-
+construtor
 contact/contact
 contactus/contact
 conversejapan
@@ -2183,8 +2189,12 @@ diclofenac
 dienst.in
 diesel denim
 diesel hot
+diesel jean
+diesel uk
 diesel-denim
 diesel-hot
+diesel-jean
+diesel-uk
 dieseldenim
 dieselhot
 diet-food
@@ -2246,6 +2256,7 @@ diva-com
 divulgaemail
 djstool
 djtool
+dlphone
 do=blog
 dobrucki.co
 dobrucki.pl
@@ -2311,9 +2322,11 @@ dubturbo-
 dummytest
 dunjakke
 dvdrip
+dylongfa
 dyubetika
 e--store
 e-biz
+eairfix
 early-signs-of
 ease.in
 easy.in
@@ -2325,6 +2338,7 @@ ebooktest
 ecco out
 ecco-out
 eccooutlet
+ecent yeas
 ed-in-men
 eemail
 effervescent8
@@ -2460,6 +2474,7 @@ facevest
 facialhair
 factory-out
 facts-about
+fagance
 fajki
 fajna-fotka
 fajnafotka
@@ -3046,12 +3061,15 @@ hardtool
 has cuisine
 has-cuisine
 hats denver
+hats indiana
 hats oakland
 hats-carolina
 hats-cincin
 hats-denver
+hats-indiana
 hats-oakland
 hatsdenver
+hatsindiana
 hatsnap
 hatsoakland
 hatssnap
@@ -3075,6 +3093,7 @@ helpful-information
 helpful-method
 helplink.asp
 hemorroide
+hence choose
 hentai
 herbal tincture
 herbal-tincture
@@ -3437,7 +3456,13 @@ jassendames
 jassenoutlet
 jcshoe
 jeacoma.co
+jean taste
+jean-taste
 jeans good
+jeans taste
+jeans-taste
+jeanstaste
+jeantaste
 jeremyads
 jeremyscottwing
 jersetblack
@@ -5510,6 +5535,7 @@ sexblog
 sexcam
 sexdate
 sexdating
+sexelist
 sexero
 sexgame
 sexscandal
@@ -5837,6 +5863,7 @@ teamproshop.co
 teen porn
 teen-porn
 teen-sex
+teenaged female
 teeniepant
 teensex
 teenwebcam
@@ -6347,6 +6374,7 @@ user/profile
 user/view
 userinfo.
 ut.ag/
+utilized use
 uustore
 uy/image
 valise louis
@@ -6773,6 +6801,7 @@ www.deels
 www.drdrebeat
 www.easy
 www.efinancial
+www.erotic
 www.escort
 www.everyleg
 www.everylight
