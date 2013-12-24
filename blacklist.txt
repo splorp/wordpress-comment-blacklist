@@ -341,6 +341,7 @@ _vti
 /?new-
 /?uid-
 /.wd/
+//aaa-
 //act-
 //app.lk
 //article
@@ -868,6 +869,9 @@ _vti
 123.co
 404.php
 911.co
+2007.co
+2008.co
+2009.co
 2013.de
 2013.or
 2013x.
@@ -2023,6 +2027,7 @@ com/official
 com/online
 com/page1
 com/page2
+com/pharma
 com/profile
 com/site
 com/tiffany
@@ -2042,6 +2047,7 @@ comprar
 computer-gaming
 computer-performance
 computerpressrelease
+comreview
 comunity
 conficker worm
 conficker-worm
@@ -2324,6 +2330,9 @@ dubai-princess.
 dubturbo-
 dummytest
 dunjakke
+duvetica outlet
+duvetica-outlet
+duveticaoutlet
 dvdrip
 dylongfa
 dyubetika
@@ -2597,6 +2606,7 @@ for-gucci
 for-interactive
 for-men
 for-money
+for-windows-8
 for-your-needs
 forboots
 forcheap
@@ -2617,6 +2627,7 @@ forum/ftopic
 forum/post
 forums?func
 forums/1/topic
+forwindows8
 foryou.co
 forzest
 fr canada
@@ -2726,6 +2737,7 @@ gabapentin
 gabbana store
 gabbana-store
 gabbanastore
+gaga-japan
 galaxynail
 gallergrind
 game wiki
@@ -3158,6 +3170,7 @@ herrenmoncler
 herrentimberland
 hfgfh
 hgh-sup
+hgher
 hghsup
 hierbasmedicin
 high-heel
@@ -3330,6 +3343,8 @@ informatik
 informative post
 infos-
 infos/
+infеcted crash
+infеcted-crash
 ington boot
 ington-boot
 ingtonboot
@@ -3425,6 +3440,8 @@ isseo
 istanbul escort
 istanbul-escort
 istanbulescort
+it rite
+it-rite
 italy-shop
 italy-store
 italyshop
@@ -3572,6 +3589,7 @@ jpsasics
 jsadidas
 juanjuan
 juicycouture
+justcloud
 kaepernick jersey
 kaepernick wom
 kaepernick youth
@@ -4482,6 +4500,8 @@ newarrivals
 newarticle
 newbalance1
 newbalance2
+newblance-20
+newblance20
 newgucci
 newhong
 newjordans
@@ -5948,7 +5968,9 @@ theme-sale
 themebasic
 themegenerat
 themes sale
+themes-for-windows
 themes-sale
+themesforwindows
 thetopdog
 theyll
 things-consumers
@@ -6477,8 +6499,12 @@ vipgirl
 viramune
 virtual sex
 virtual-sex
+virus infеct
+virus-infеct
 virus-remov
 virusremov
+visit web
+visit-web
 visitant
 visitor/day
 visitors/day
@@ -6723,6 +6749,7 @@ win7pro
 win8.co
 win8pro
 windows anytime
+windows-8-theme
 windows-anytime
 windows-app
 windows7key
@@ -7153,6 +7180,7 @@ zyvox
 スポード
 セイコー
 セリーヌ
+ダウン
 ダコタ
 ダナー
 チャンルー
@@ -7210,6 +7238,7 @@ zyvox
 履
 巨大
 店の
+性愛的
 札入れ
 激安
 無料に
