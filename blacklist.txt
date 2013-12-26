@@ -235,6 +235,7 @@ _vti
 ?sexy
 ?store
 ?title
+?twid
 ?user
 ?view
 .acgi
@@ -392,6 +393,7 @@ _vti
 /around.
 /artist_e/
 /asics.
+/asp/
 /attachments/
 /authentic
 /baby.
@@ -411,15 +413,8 @@ _vti
 /black-friday
 /blog.asp
 /blog.htm
-/blog/blog
-/blog/owner
-/blog/post
-/blog/view
 /blogid
 /bloglist/
-/blogs/entry
-/blogs/item
-/blogs/post
 /board/
 /brand1.
 /brand2.
@@ -478,6 +473,8 @@ _vti
 /dior.
 /div/
 /dmg/
+/doudoun.
+/doudoune.
 /drmartens-
 /drug
 /duvetica.
@@ -509,6 +506,8 @@ _vti
 /forums/member
 /fotka.
 /foto.
+/fpdb/
+/futbol/
 /gekiyasu
 /get-free
 /getwidgets
@@ -542,6 +541,7 @@ _vti
 /img/
 /img1/
 /img2/
+/inc-meta
 /inc/
 /include/
 /includes/
@@ -609,6 +609,7 @@ _vti
 /membership.
 /menu.
 /mobile/
+/modules/
 /moncler-
 /moncler.
 /moncler/
@@ -637,6 +638,7 @@ _vti
 /ok.php
 /orderpage/
 /orgasm
+/outils/
 /page_
 /page1.
 /page2.
@@ -709,6 +711,7 @@ _vti
 /supply_
 /swf/
 /syaneru
+/systemdb.
 /sysuser/
 /tagged/
 /templates/
@@ -767,6 +770,7 @@ _vti
 /ww.
 /x.co
 /xchange
+/xml/
 /xn--
 /ya.
 /yabb
@@ -935,16 +939,19 @@ adenosyl
 adidas out
 adidas porsche
 adidas shop
+adidas slipper
 adidas uomo
 adidas-corner
 adidas-out
 adidas-porsche
 adidas-shop
+adidas-slipper
 adidas-uomo
 adidashop
 adidasoutlet
 adidasporsche
 adidasshop
+adidasslipper
 adidasuomo
 adipex
 admin.cfm
@@ -1088,6 +1095,8 @@ authentic hermes
 authentic-ugg
 authentichermes
 authenticugg
+authored subject
+authored-subject
 autoclinics.co.
 autocom
 automatic-pay
@@ -1176,10 +1185,12 @@ bears-urlacher
 bearsurlacher
 beatbydre
 beats monster
+beats pas
 beats studio
 beats-dr-dre
 beats-dre
 beats-monster
+beats-pas
 beats-studio
 beats+by+dre
 beatsbydrdre
@@ -1326,7 +1337,12 @@ blog-tricks
 blog-video
 blog-view
 blog.asp
+blog/blog
 blog/comment
+blog/index
+blog/owner
+blog/post
+blog/view
 blogbeast
 blogentry_
 blogentry.
@@ -1335,6 +1351,9 @@ blogid
 blogplatform
 blogs-tricks
 blogs.blog
+blogs/entry
+blogs/item
+blogs/post
 blogsoon
 blogtitle
 blowjob
@@ -1367,12 +1386,14 @@ boots uk
 boots-get
 boots-online
 boots-queen
+boots-retail
 boots-sale
 boots-uk
 bootsale
 bootsget
 bootsonline
 bootsqueen
+bootsretail
 bootss
 bootssale
 bootsugg
@@ -1419,6 +1440,9 @@ bravemed
 braves jersey
 braves-jersey
 bravesjersey
+brazil bikini
+brazil-bikini
+brazilbikini
 brazzer
 breastactive
 bridalshop
@@ -1600,8 +1624,10 @@ canadagoosesoutlet
 canadaoutlet
 candycrush
 cannabis-seed
+cappelli boston
 cappelli new
 cappelli nfl
+cappelli-boston
 cappelli-new
 cappelli-nfl
 captchasnip
@@ -1640,6 +1666,8 @@ casinoer
 casinogame
 casinoonline
 casinos-
+casque beats
+casque-beats
 casquebeats
 casquette
 casub.co
@@ -1722,6 +1750,7 @@ chaussres-boutique
 chaussres-pascher
 chaussresboutique
 chaussrespascher
+chaussure louboutin
 chaussure-asics
 chaussure-femme
 chaussure-homme
@@ -2058,6 +2087,7 @@ contactus/contact
 conversejapan
 conversejp
 conydot
+coordintaing
 copie ugg
 copie-ugg
 copieugg
@@ -2092,6 +2122,7 @@ credit-score
 credit.eu
 creditcard.org
 creditreport
+cription.asp
 cristmas-
 cruise vacation
 cruise-vacation
@@ -2173,6 +2204,9 @@ dental-quote
 depositbank
 depression-symptom
 depressionsymptom
+derm exclus
+derm-exclus
+dermexclus
 desconto
 designer-bag
 designer-brand
@@ -2319,6 +2353,7 @@ dre-beats
 dre-cheap
 drebeat
 drecheap
+dresses.wedding
 dresshop
 dresssale
 drivewayservice
@@ -2406,6 +2441,9 @@ erettile
 erjersey.co
 erjersey.net
 erolove
+erotic toy
+erotic-toy
+erotictoy
 erotik
 erotyczna
 es.iodress
@@ -2569,6 +2607,9 @@ finasteride
 find-the-answer
 findarticle
 findmewom
+fine wives
+fine-wives
+finewives
 fioricet
 firefoxik.ru
 firm.ru
@@ -2595,7 +2636,9 @@ fluticasone
 fobur.in
 foodpyramid
 footdiscount
+footwear jordan
 footwear mbt
+footwear-jordan
 footwear-mbt
 footwearmbt
 for cheap
@@ -2733,6 +2776,7 @@ furworld.ru
 futbol barcelona
 futbol-barcelona
 futbolbarcelona
+g-string
 gabapentin
 gabbana store
 gabbana-store
@@ -3177,6 +3221,7 @@ high-heel
 high-protein
 high.cc
 highbloodpressure
+highprofile
 highprotein
 hingenieur
 hitfit
@@ -3865,9 +3910,11 @@ lotto-tip
 lottotip
 louboutin canada
 louboutin out
+louboutin pas
 louboutin platform
 louboutin sale
 louboutin shoe
+louboutin solde
 louboutin uk
 louboutin-chau
 louboutin-out
@@ -3875,13 +3922,16 @@ louboutin-pas
 louboutin-platform
 louboutin-sale
 louboutin-shoe
+louboutin-solde
 louboutin8
 louboutinfr
 loubouting
 louboutinout
+louboutinpas
 louboutinpascher
 louboutinsale
 louboutinshoe
+louboutinsolde
 louboutinuk
 louis vitton
 louis_vuitton
@@ -4257,6 +4307,7 @@ moncler online
 moncler out
 moncler paris
 moncler parka
+moncler pas
 moncler pascher
 moncler piumini
 moncler polo
@@ -4298,6 +4349,7 @@ moncler-online
 moncler-out
 moncler-paris
 moncler-parka
+moncler-pas
 moncler-pascher
 moncler-piumini
 moncler-polo
@@ -4338,6 +4390,7 @@ moncleronline
 monclerout
 monclerparis
 monclerparka
+monclerpas
 monclerpascher
 monclerpiumini
 monclerpolo
@@ -4480,8 +4533,10 @@ natural-way
 naturalcure
 naturalovarian
 naturalway
+nba cappelli
 nba jersey
 nba_jersey
+nba-cappelli
 nba-jersey
 nbajersey
 needmoney
@@ -4669,9 +4724,13 @@ oemsoftware
 of internet
 of-internet
 offer outlet
+offer watch
 offer-outlet
+offer-watch
 offer.net
+offer.weebly
 offeroutlet
+offerwatch
 official-sale
 official-steeler
 official-style
@@ -4692,6 +4751,7 @@ okpay
 oksex
 oksunglass
 old_site
+once-in-a-lifetime
 one nike
 one-nike
 oneminutesite
@@ -4768,6 +4828,7 @@ osobistości
 otonanocoach
 otoplasty
 outelt
+outilclient
 outlet bag
 outlet canada
 outlet france
@@ -5143,6 +5204,8 @@ prozac-
 prywatne
 przepisane
 przeprowadzki
+psych-clinic
+psychclinic
 publica-foto
 publikacja
 pucci dress
@@ -5185,6 +5248,8 @@ q=node
 qampuz
 qry_page
 qtrade
+quality post
+quality-post
 quartz-seiko
 quartzseiko
 queen chiffon
@@ -5433,6 +5498,8 @@ sac-vuitton
 sacguess
 saclongchamp
 saclouis
+sacs longchamps
+sacs-longchamps
 sacsguess
 sacslancel
 sacvanessa
@@ -5563,6 +5630,8 @@ seoplugin
 seotool
 seovps
 seowith
+seriously entice
+seriously-entice
 sertraline
 server 2007
 server 2008
@@ -5674,10 +5743,12 @@ show_member_post
 shownews.
 showthread.php
 showtopic
+si.lv.e.r.w.are
 sieg heil
 sieg-heil
 siegheil
 signed-jersey
+signifiant
 silberbarren
 sildenafil
 silver-and-gold
@@ -6160,6 +6231,7 @@ ugg glove
 ugg hobo
 ugg hot
 ugg ken
+ugg mocha
 ugg noir
 ugg out
 ugg paris
@@ -6199,6 +6271,7 @@ ugg-glove
 ugg-hobo
 ugg-hot
 ugg-ken
+ugg-mocha
 ugg-noir
 ugg-official
 ugg-on
@@ -6252,6 +6325,7 @@ ugghobo
 ugghot
 uggken
 ugglove
+uggmocha
 uggnoir
 uggofficial
 uggonline
@@ -6271,6 +6345,7 @@ uggs elsey
 uggs femme
 uggs hot
 uggs kopen
+uggs mocha
 uggs neder
 uggs noir
 uggs out
@@ -6296,6 +6371,7 @@ uggs-femme
 uggs-for
 uggs-hot
 uggs-kopen
+uggs-mocha
 uggs-neder
 uggs-noir
 uggs-on
@@ -6335,6 +6411,7 @@ uggsilver
 uggsite
 uggskopen
 uggslove
+uggsmocha
 uggsneder
 uggsnoir
 uggsold
@@ -6445,6 +6522,7 @@ valueble
 vanessa-bruno-sac
 vanessabrunosac
 vaporizer pen
+varabella
 vardenafil
 vendita
 vendorlock
@@ -6499,10 +6577,21 @@ vipgirl
 viramune
 virtual sex
 virtual-sex
+virus answer
+virus hoax
 virus infеct
+virus remov
+virus secur
+virus-answer
+virus-hoax
 virus-infеct
 virus-remov
+virus-secur
+virusanswer
+virushoax
+virusinfеct
 virusremov
+virussecur
 visit web
 visit-web
 visitant
@@ -6693,6 +6782,8 @@ wherebuy
 wherecani
 wheretobuy
 whichpage
+white nfl
+white-nfl
 whitehat
 whois tool
 whois-tool
@@ -7165,6 +7256,7 @@ zyvox
 オークリー
 おざ
 お客
+お店を
 カナダグース
 カルティエは
 ギフト
@@ -7193,6 +7285,7 @@ zyvox
 ニューバランス
 ネックレス
 ノースフェイス
+の値段
 バーバリー
 パタゴニア
 バッグ
@@ -7253,6 +7346,7 @@ zyvox
 芸能人
 茅
 行動電源
+評価
 財布
 赌场
 返品
