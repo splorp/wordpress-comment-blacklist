@@ -411,8 +411,7 @@ _vti
 /birkenstocks.
 /bitcoin-
 /black-friday
-/blog.asp
-/blog.htm
+/blog.
 /blogid
 /bloglist/
 /board/
@@ -452,11 +451,12 @@ _vti
 /ck.
 /clearance/
 /coach.
-/coach.asp
 /coachpurses-
 /commodity.
 /common/
-/common/rss
+/config.
+/configura.
+/configuration/
 /contact.
 /css/
 /customcontrols/
@@ -1336,7 +1336,6 @@ blog-soon
 blog-tricks
 blog-video
 blog-view
-blog.asp
 blog/blog
 blog/comment
 blog/index
@@ -3595,6 +3594,7 @@ jjl
 joggingstroller
 jogos
 john-varvatos
+jordan 1
 jordan 11
 jordan gamma
 jordan out
@@ -3602,6 +3602,7 @@ jordan pas
 jordan retro
 jordan shoe
 jordan store
+jordan-1
 jordan-11
 jordan-gamma
 jordan-pas
@@ -3609,6 +3610,7 @@ jordan-retro
 jordan-sale
 jordan-shoe
 jordan-store
+jordan1
 jordangamma
 jordankicks
 jordanretro
@@ -3929,9 +3931,12 @@ loubouting
 louboutinout
 louboutinpas
 louboutinpascher
+louboutins pas
+louboutins-pas
 louboutinsale
 louboutinshoe
 louboutinsolde
+louboutinspas
 louboutinuk
 louis vitton
 louis_vuitton
@@ -4232,20 +4237,28 @@ milanosjapan
 milendress
 millen au
 millen clearance
+millen color
+millen colour
 millen dress
 millen jacket
 millen out
+millen outlet
 millen shop
 millen uk
 millen-au
 millen-clearance
+millen-color
+millen-colour
 millen-dress
 millen-jacket
 millen-out
+millen-outlet
 millen-shop
 millen-uk
 millenclearance
+millencolour
 millenjacket
+millenoutlet
 millenshop
 minecraftfree
 minicredit
@@ -4526,6 +4539,7 @@ name-brand-
 namebrandpurse
 nanogold
 naproxen
+nat&#252;rlich
 natura.it
 natural cure
 natural-cure
@@ -4533,6 +4547,7 @@ natural-way
 naturalcure
 naturalovarian
 naturalway
+natürlich
 nba cappelli
 nba jersey
 nba_jersey
@@ -4714,6 +4729,8 @@ oakleyuk
 öáøåâïïê
 obey posse
 obey-posse
+obtain consol
+obtain-consol
 obuwia
 obuwie
 oculosfeminino
@@ -6996,6 +7013,7 @@ www.information
 www.instyler
 www.isabelmarant
 www.kobe
+www.lastminute
 www.lebron
 www.link
 www.lolita
