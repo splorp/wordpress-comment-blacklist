@@ -64,6 +64,7 @@ _vti
 -data-recovery-
 -deluxe-
 -demo1
+-diagnostic-
 -dieta-
 -dieta.
 -directory.
@@ -374,6 +375,7 @@ _vti
 //website
 //webstore
 /a-
+/abercrombie-
 /about.
 /acai
 /add.
@@ -449,6 +451,7 @@ _vti
 /cigar-
 /cigars-
 /ck.
+/cl/
 /clearance/
 /coach.
 /coachpurses-
@@ -585,10 +588,12 @@ _vti
 /loans
 /locale/
 /longchamp-
+/louboutin-
 /love-fail
 /love-life
 /love-quote
 /lv.
+/lv/
 /mailer/
 /malware/
 /manolo-blahnik
@@ -700,6 +705,7 @@ _vti
 /site/ebay
 /sitemap.
 /siteold/
+/soft/
 /soma
 /specials.
 /strona-
@@ -722,6 +728,7 @@ _vti
 /thebest
 /themes/
 /thread-
+/tiffany-
 /timberland.
 /tmp/
 /toms.
@@ -982,6 +989,7 @@ aff.php
 african-canadian-model
 africancanadianmodel
 age.webeden
+age|year
 agedepot
 ageless female
 ageless male
@@ -1105,6 +1113,7 @@ automaticpay
 avatar-live
 avvessories
 awordpress.
+azur-lv
 b.u.y
 babycanread
 backlink
@@ -2155,6 +2164,7 @@ dakotasuki
 damen timberland
 damen-timberland
 damentimberland
+damier-azur
 damskie
 dannerjp
 dapoxetin
@@ -3095,11 +3105,13 @@ hairremov
 hairstraight
 handbag louis
 handbag out
+handbag sale
 handbag uk
 handbag wom
 handbag-for
 handbag-louis
 handbag-out
+handbag-sale
 handbag-wom
 handbag+
 handbagfor
@@ -4309,6 +4321,7 @@ moncler coat
 moncler donna
 moncler femme
 moncler giubbotti
+moncler handbag
 moncler homme
 moncler jack
 moncler jacke
@@ -4351,6 +4364,7 @@ moncler-coat
 moncler-donna
 moncler-femme
 moncler-giubbotti
+moncler-handbag
 moncler-homme
 moncler-jack
 moncler-jacke
@@ -4392,6 +4406,7 @@ monclercoat
 monclerdonna
 monclerfemme
 monclergiubbotti
+monclerhandbag
 monclerhomme
 monclerjack
 monclerjacke
@@ -4768,6 +4783,8 @@ okpay
 oksex
 oksunglass
 old_site
+old|year
+old|yr
 once-in-a-lifetime
 one nike
 one-nike
@@ -4943,6 +4960,9 @@ panerai-clock
 panerai-watch
 paneraiclock
 paneraiwatch
+panier site
+panier-site
+paniersite
 panthers merch
 panthers store
 panthers-merch
@@ -6073,8 +6093,10 @@ thread_id
 threadid
 thumb.jpeg
 thyromine
+tiffany france
 tiffany jewel
 tiffany ring
+tiffany-france
 tiffany-jewel
 tiffany-out
 tiffany-ring
@@ -6622,6 +6644,7 @@ vitaminsfor
 vitamix
 vitrine
 vivekkunwar
+vivotab
 vogue toms
 vogue-toms
 voguetoms
