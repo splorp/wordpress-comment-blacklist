@@ -76,6 +76,7 @@ _vti
 -ebay
 -enlargement.
 -essay.
+-fantasia-
 -fantasia.
 -fashion-
 -filmy
@@ -391,9 +392,11 @@ _vti
 /alimenty/
 /allimage/
 /anonymous-
+/armani-
 /armani.
 /around.
 /artist_e/
+/asics-
 /asics.
 /asp/
 /attachments/
@@ -470,6 +473,7 @@ _vti
 /dbase/
 /dg-
 /dg.
+/diesel-
 /diet.
 /dieta.
 /dior_
@@ -576,6 +580,7 @@ _vti
 /konsultan
 /kredit
 /kredyt
+/lacoste-
 /lang-es/
 /legal/
 /libs/
@@ -2243,12 +2248,15 @@ diesel denim
 diesel hot
 diesel jean
 diesel uk
+diesel watch
 diesel-denim
 diesel-hot
 diesel-jean
 diesel-uk
+diesel-watch
 dieseldenim
 dieselhot
+dieselwatch
 diet-food
 diet-pill
 diet-plan
@@ -2263,6 +2271,7 @@ dietsolution
 dietsupplement
 differin
 diflucan
+diggs.us
 dincob
 diorkan
 direct-fund
