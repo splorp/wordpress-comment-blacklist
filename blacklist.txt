@@ -1728,6 +1728,7 @@ chanel out
 chanel purse
 chanel replica
 chanel sac
+chanel spring
 chanel--
 chanel-bag
 chanel-online
@@ -1736,6 +1737,7 @@ chanel-purse
 chanel-replica
 chanel-sac
 chanel-sale
+chanel-spring
 chanelbag
 chanelonline
 chaneloutlet
@@ -1743,6 +1745,7 @@ chanelpurse
 chanelreplica
 chanelsac
 chanelsale
+chanelspring
 channel-operator
 chantix
 chapa shoe
@@ -2930,6 +2933,7 @@ good-blog
 good-for-
 good}
 goodbye.asp
+goodsblog
 google_javascript
 googlebind
 googleing
@@ -2944,7 +2948,9 @@ goose homme
 goose jacka
 goose jacket
 goose jakke
+goose jas
 goose norge
+goose online
 goose out
 goose paris
 goose parka
@@ -2964,7 +2970,9 @@ goose-homme
 goose-jacka
 goose-jacket
 goose-jakke
+goose-jas
 goose-norge
+goose-online
 goose-out
 goose-paris
 goose-parka
@@ -2988,7 +2996,9 @@ goosehomme
 goosejacka
 goosejacket
 goosejakke
+goosejas
 goosenorge
+gooseonline
 gooseoutlet
 gooseparis
 gooseparka
@@ -3007,6 +3017,7 @@ goyard-online
 goyardbag
 goyardonline
 gratuitos
+graypanther
 great article
 great-article
 great-essay
@@ -5088,6 +5099,9 @@ pignee
 pillonline
 pills.co
 pillsonline
+pink large
+pink-large
+pinklarge
 piscine
 piumini moncler
 piumini-moncler
@@ -5308,6 +5322,7 @@ queenchiffon
 queenclutch
 queenjp
 queenoutlet
+querireda
 quick loans
 quick_search
 quick-loan
@@ -6291,6 +6306,7 @@ ugg shoe
 ugg short
 ugg silver
 ugg sold
+ugg støvler
 ugg style
 ugg three
 ugg turn
@@ -6334,6 +6350,7 @@ ugg-short
 ugg-silver
 ugg-site
 ugg-sold
+ugg-støvler
 ugg-style
 ugg-three
 ugg-turn
@@ -6471,6 +6488,7 @@ uggspas
 uggspascher
 uggss
 uggssilver
+uggstøvler
 uggstyle
 uggsugly
 uggsuitverkoop
