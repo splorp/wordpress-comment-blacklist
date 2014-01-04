@@ -456,6 +456,8 @@ _vti
 /cheap-
 /cheap.
 /china.
+/chrome/
+/chrome=
 /cigar-
 /cigars-
 /ck.
@@ -599,6 +601,7 @@ _vti
 /list.
 /loans
 /locale/
+/logos/
 /longchamp-
 /louboutin-
 /love-fail
@@ -908,7 +911,9 @@ _vti
 123456789
 ¥·¥
 ¥°¥
+a lots
 a-cell-phone
+a-lots
 a-powerful-way
 a1.co
 â€
@@ -1108,7 +1113,7 @@ asp?folder
 asp?id
 aspiring blog
 aspiring-blog
-assortiment 
+assortiment
 astral-diamond
 aswenr
 ationincome
@@ -2397,6 +2402,7 @@ dre cheap
 dre-beat
 dre-beats
 dre-cheap
+dre</
 drebeat
 drecheap
 dresses.wedding
@@ -6127,6 +6133,7 @@ thanks.i
 thatover
 thatprofit
 the the
+the threading
 the_benefits_of
 the-benefits-of
 the-best-treatment
@@ -6136,6 +6143,7 @@ the-most-common
 the-most-detail
 the-right-way
 the-the
+the-threading
 thebestis
 thebestprice
 theeasy
@@ -6215,6 +6223,7 @@ tit-pad
 titans merch
 titans-merch
 titansmerch
+title="beats
 title="www
 tizanidine
 tms-shoe
@@ -6769,6 +6778,7 @@ vuitton-uk
 vuitton-usa
 vuitton-wallet
 vuitton-wholesale
+vuitton</
 vuittonbag
 vuittoncigar
 vuittondamier
@@ -7181,6 +7191,7 @@ yo-dick
 yoigucci
 you-ugg
 you-want-it
+youll
 youll-need
 young porn
 young_porn
@@ -7394,6 +7405,7 @@ zyvox
 グッチ
 クラシック
 クロエ
+クロムハーツ
 ゴヤール
 ご了承
 ご返金
