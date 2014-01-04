@@ -126,12 +126,16 @@ _vti
 -malware-
 -marant-
 -marc-jacobs-
+-mastery.
+-mastery/
 -mbt.
 -mbt/
 -mbts.
 -men-jersey
 -mens.
 -metods-
+-mlsp.
+-mlsp/
 -models.co
 -mortgage-
 -new-car-
@@ -225,6 +229,7 @@ _vti
 -xchange
 ･・
 ､､
+! .
 !@#
 ?/page
 ?add
@@ -325,7 +330,6 @@ _vti
 .webs.co
 .xn--
 .za/image
->ugg
 )-
 [...
 [/url
@@ -519,6 +523,8 @@ _vti
 /gekiyasu
 /get-free
 /getwidgets
+/gh0/
+/gh1/
 /glowna.
 /graphics/
 /group1
@@ -619,6 +625,9 @@ _vti
 /members/
 /membership.
 /menu.
+/mlsp-
+/mlsp.
+/mlsp/
 /mobile/
 /modules/
 /moncler-
@@ -835,6 +844,7 @@ _vti
 <a>
 =utf8
 >canada goose<
+>ugg
 >www<
 |porno
 0000mail
@@ -1038,7 +1048,7 @@ amoxil
 amzon.co
 anabolic
 and-special
-andcoupons
+andcoupon
 androidclan
 androidmp3
 aneswr
@@ -1121,7 +1131,8 @@ automatic-pay
 automaticbackup.
 automaticpay
 avatar-live
-avvessories
+avvessorie
+avvessory
 awordpress.
 azur-lv
 b.u.y
@@ -1555,14 +1566,17 @@ button-ugg
 buttonugg
 buy ageless
 buy cheap
+buy gig
 buy hermes
 buy jordan
 buy louis
 buy online
 buy toms
+buy traffic
 buy women
 buy-cheap
 buy-cig
+buy-gig
 buy-gucci
 buy-hair
 buy-jordan
@@ -1574,6 +1588,7 @@ buy-pill
 buy-plus
 buy-soma
 buy-toms
+buy-traffic
 buy-women
 buycanadagoose
 buycheap
@@ -2814,6 +2829,9 @@ gabbana store
 gabbana-store
 gabbanastore
 gaga-japan
+gain weight
+gain-weight
+gainweight
 galaxynail
 gallergrind
 game wiki
@@ -3464,8 +3482,8 @@ instructor car
 instructor-car
 insurance car
 insurance-car
-insurance-company
-insurance-quotes
+insurance-compan
+insurance-quote
 insurance.htm
 insurances
 interesting blog
@@ -3816,6 +3834,7 @@ laurensale
 laurenuk
 lawoffice.net
 le_link
+lead-system
 leaked1
 learn facebook
 learn-facebook
@@ -3904,13 +3923,13 @@ listasegment
 live-article
 livearticle
 livesex
-loan company
-loan-company
+loan compan
+loan-compan
 loan-direct
 loan-online
 loan.net
 loanalys
-loancompany
+loancompan
 loandirect
 loanfast
 loanonline
@@ -4334,6 +4353,7 @@ mlm-lead
 mlmlead
 mlsp suit
 mlsp-suit
+mlspweapon
 mmcenter.in
 mobi/news
 mobile sim
@@ -5554,6 +5574,8 @@ rpg-online
 rpgonline
 rss.htm
 runescape
+running sneaker
+running-sneaker
 rusztowania
 s.webeden
 sabo charm
@@ -5687,8 +5709,12 @@ sendflowers
 senuke vps
 senuke-vps
 senukevps
+seo compan
+seo gig
 seo vps
-seo-agency
+seo-agenc
+seo-compan
+seo-gig
 seo-host
 seo-pick
 seo-plugin
@@ -5699,7 +5725,7 @@ seo.co
 seo.in
 seo.net
 seo.org
-seoagency
+seoagenc
 seohost
 seopick
 seoplugin
@@ -5836,10 +5862,12 @@ sim-only
 sinequan
 singapore.htm
 site positioning
+site traffic
 site_backup
 site-google
 site-position
 site-positioning
+site-traffic
 site.co
 site.in
 site24
@@ -6032,6 +6060,7 @@ symptom-med
 symptommed
 symptoms-med
 symptomsmed
+system-pro
 system-review
 tabaki
 tadalafil
@@ -6097,6 +6126,7 @@ thailove
 thanks.i
 thatover
 thatprofit
+the the
 the_benefits_of
 the-benefits-of
 the-best-treatment
@@ -6105,6 +6135,7 @@ the-latest-
 the-most-common
 the-most-detail
 the-right-way
+the-the
 thebestis
 thebestprice
 theeasy
@@ -6184,6 +6215,7 @@ tit-pad
 titans merch
 titans-merch
 titansmerch
+title="www
 tizanidine
 tms-shoe
 tmsshoe
@@ -6595,6 +6627,8 @@ user_blog.php
 user/profile
 user/view
 userinfo.
+usually relative
+usually-relative
 ut.ag/
 utilized use
 uustore
@@ -6823,7 +6857,9 @@ webpromotion
 websex
 website online
 website traffic
+website visitor
 website-online
+website-visitor
 website}
 website1
 websiteonline
@@ -6839,9 +6875,12 @@ week.in
 weekly.in
 weeklyincome
 weeklyprofit
+weight gain
 weight loss
+weight-gain
 weight-loss
 weight-work
+weightgain
 weightloss
 weightnatural
 welcometonginx
