@@ -246,6 +246,7 @@ _vti
 ?user
 ?view
 .acgi
+.asp/
 .azmya.
 .baidu
 .bioactives
@@ -467,6 +468,7 @@ _vti
 /coachpurses-
 /commodity.
 /common/
+/conf/
 /config.
 /configura.
 /configuration/
@@ -561,7 +563,8 @@ _vti
 /inc/
 /include/
 /includes/
-/index.php/
+/index.asp
+/index.php
 /index1.
 /index2.
 /index3.
@@ -1416,12 +1419,14 @@ bootonline
 bootqueen
 boots online
 boots sale
+boots ugg
 boots uk
 boots-get
 boots-online
 boots-queen
 boots-retail
 boots-sale
+boots-ugg
 boots-uk
 bootsale
 bootsget
@@ -2086,6 +2091,7 @@ com.com
 com//
 com/author
 com/autocom
+com/bilder
 com/boards
 com/cheap
 com/css
@@ -2715,7 +2721,7 @@ forsale-japan
 forsalego
 forsalejapan
 forsales
-forum_posts.asp
+forum.asp
 forum.php
 forum/1/topic
 forum/ftopic
@@ -3889,11 +3895,13 @@ limited-jersey
 limitedjersey
 limo-service
 linguim.co
+link http
 link_build
 link_campaign
+link_http
 link_serv
 link_track
-link-baiting
+link-bait
 link-build
 link-campaign
 link-juice
@@ -3902,7 +3910,7 @@ link-pyramid
 link-serv
 link-track
 link-vault
-linkbaiting
+linkbait
 linkbuild
 linkcampaign
 linking_campaign
@@ -3914,6 +3922,7 @@ linkingcampaign
 linkiseo
 linklegend
 linkman
+links http
 linktrack
 linkusup
 linkvault
@@ -3961,8 +3970,10 @@ londongenuine
 longchamp aus
 longchamp bag
 longchamp pas
+longchamp solde
 longchamp-aus
 longchamp-shop
+longchamp-solde
 longchamp.php
 longchampaus
 longchampbag
@@ -3971,8 +3982,8 @@ longchampoffici
 longchampout
 longchampp
 longchampsa
-longchampsac
 longchampshop
+longchampsolde
 longchampuk
 lookingfor
 lorazepam
@@ -4033,12 +4044,12 @@ luminor-watch
 luminorwatch
 lunarglide
 lunderground
-lunette soldes
-lunette-soldes
+lunette solde
+lunette-solde
 lunettes oakley
 lunettes-oakley
 lunettesoakley
-lunettesoldes
+lunettesolde
 lunettespaschere
 lupusinfo
 lux-replica
@@ -4091,7 +4102,7 @@ main/main
 mainlongchamp
 make money
 make-backup
-make-millions
+make-million
 make-money
 makebaby
 makemoney
@@ -4117,7 +4128,7 @@ manner-puma
 månner-puma
 mannerpuma
 månnerpuma
-maran-trainers
+maran-trainer
 marant boot
 marant shoe
 marant sneaker
@@ -4125,7 +4136,7 @@ marant-boot
 marant-shoe
 marant-sneaker
 marantboot
-marantrainers
+marantrainer
 marantshoe
 marantsneaker
 marcjacobsjap
@@ -4263,7 +4274,7 @@ medicarefraud
 medigital
 medikal.co
 medizinische
-medphrases
+medphrase
 medshop
 meloxicam
 member.php
@@ -4518,10 +4529,10 @@ moneyfast
 moneymak
 monohydrate
 monster beat
-monster_beats
+monster_beat
 monster-beat
 monster-headphon
-monster/beats
+monster/beat
 monsterbeat
 monsterheadphon
 monsterjapan
@@ -4551,7 +4562,7 @@ movie-zone
 movieonline
 movies-online
 movies-zone
-moviesandfilms
+moviesandfilm
 moviesdl
 moviesonline
 movieszone
@@ -4603,7 +4614,7 @@ myhermes
 myleadsystem
 mylupus
 mynewsite
-myqrops
+myqrop
 myreview.co
 mytest
 myvirus
@@ -4631,18 +4642,19 @@ nba-cappelli
 nba-jersey
 nbajersey
 needmoney
+net/bilder
 net/members/
 netload.in
 neurontin
 new gucci
-new jordans
+new jordan
 new weblog
 new-article
 new-balance
 new-gucci
-new-jordans
+new-jordan
 new-oakley
-newarrivals
+newarrival
 newarticle
 newbalance1
 newbalance2
@@ -4650,7 +4662,7 @@ newblance-20
 newblance20
 newgucci
 newhong
-newjordans
+newjordan
 newoakley
 news.in
 news/article
@@ -4661,16 +4673,13 @@ nexopia
 nfl austral
 nfl italia
 nfl jers
-nfl jersey
 nfl shop
 nfl-beanie
 nfl-italia
 nfl-jers
-nfl-jersey
 nfl-official
 nfl-shop
 nfljers
-nfljersey
 nflofficial
 nflshop
 nfr.cfm
@@ -4828,7 +4837,7 @@ official-sale
 official-steeler
 official-style
 official-ugg
-officialmailsites
+officialmailsite
 officialsale
 officialsteeler
 officialstyle
@@ -4989,6 +4998,7 @@ outletstore
 outletusa
 outletweb
 outletwoolrich
+outplacement-compan
 outplacements
 outsourcing-compan
 ovariancyst
@@ -5030,14 +5040,14 @@ panthers-merch
 panthers-store
 panthersmerch
 panthersstore
-panty pics
+panty pic
 panty play
 panty sex
-panty-pics
+panty-pic
 panty-play
 panty-sex
 pantymania
-pantypics
+pantypic
 pantyplay
 parajumpers
 paris model
@@ -5095,7 +5105,7 @@ per-week
 percocet
 perday.co
 perfectvpn
-perfectwritings
+perfectwriting
 permonth.co
 personal-experience
 personal-injury
@@ -5203,6 +5213,7 @@ post-service
 post.much
 post.pw
 postcarf
+posts.asp
 posttestimonial
 powerball
 powerbank
@@ -5531,8 +5542,7 @@ retin-a
 reverse-phone
 reversephone
 review-source
-review.asp?
-review.aspx?
+review.asp
 review.htm
 review.in
 reviews.in
@@ -6692,8 +6702,8 @@ view=captcha
 viewarticle
 viewblog
 viewentry
-viewlinks
-viewpages
+viewlink
+viewpage
 viewthread
 viewtopic
 vigara
@@ -6905,7 +6915,7 @@ wetpant
 wetting pant
 wetting-pant
 wettingpant
-weusecoins
+weusecoin
 what-we-know
 whatsapp
 wheels.co
@@ -6923,6 +6933,7 @@ white-nfl
 whitehat
 whois tool
 whois-tool
+wholesale bag
 wholesale cheap
 wholesale china
 wholesale free
@@ -6932,6 +6943,7 @@ wholesale led
 wholesale nba
 wholesale north
 wholesale polo
+wholesale-bag
 wholesale-cheap
 wholesale-china
 wholesale-free
@@ -6942,6 +6954,7 @@ wholesale-mac
 wholesale-nba
 wholesale-north
 wholesale-polo
+wholesalebag
 wholesalecheap
 wholesalechina
 wholesalefree
@@ -6963,11 +6976,11 @@ wiki/index
 wiki/user
 wikka.php
 wille bijoux
-wille soldes
+wille solde
 wille-bijoux
-wille-soldes
+wille-solde
 willebijoux
-willesoldes
+willesolde
 wilson jersey
 wilson-jersey
 wilsonjersey
@@ -7065,7 +7078,7 @@ wordpressweb
 work-review
 workout-sale
 workoutsale
-workreviews
+workreview
 worldugg
 worldwideugg
 wow-gold
@@ -7138,7 +7151,7 @@ www.lastminute
 www.lebron
 www.link
 www.lolita
-www.louboutins
+www.louboutin
 www.love
 www.lv
 www.mcm
