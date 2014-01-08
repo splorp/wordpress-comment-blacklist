@@ -712,6 +712,8 @@ _vti
 /rozwod
 /rss.xml
 /ru/news/
+/sale-
+/sales-
 /salvia/
 /scarpe-
 /sconfig/
@@ -3072,6 +3074,8 @@ great-essay
 great-things
 great}
 greatbet
+greece-holid
+greeceholid
 green-smoker
 greensmoker
 grise parka
@@ -3976,6 +3980,7 @@ login.php
 loiusvuitton
 london-genuine
 londongenuine
+long long
 longchamp aus
 longchamp bag
 longchamp pas
@@ -5022,6 +5027,7 @@ page/page
 pagss.htm
 pain-relief.
 painrelief.
+paintedfor
 pandora charm
 pandora online
 pandora sale
@@ -5594,6 +5600,7 @@ roxy ugg
 roxy-ugg
 roxyugg
 royal-club
+royalclub
 róże
 rozszerzona
 rpg-online
@@ -6607,7 +6614,9 @@ ultimate microsoft
 ultimate sp1
 ultimate-microsoft
 ultimate-sp1
+ultimate-tab
 ultimatemicrosoft
+ultimatetab
 ultram
 umschuldung
 under pant
@@ -7430,9 +7439,11 @@ zyvox
 クロエ
 クロムハーツ
 ケース
+コピ
 ゴヤール
 ご了承
 ご返金
+ショックス
 ショッパー
 ショップ
 ショルダーバッグ
