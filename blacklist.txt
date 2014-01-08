@@ -207,6 +207,7 @@ _vti
 -the-greatest-
 -tips/
 -top-info
+-tours.co
 -traffic.
 -transpiration-
 -treatment-
@@ -851,6 +852,7 @@ _vti
 =utf8
 >canada goose<
 >ugg
+>woolr
 >www<
 |porno
 0000mail
@@ -1377,6 +1379,7 @@ blog-view
 blog/blog
 blog/comment
 blog/index
+blog/online
 blog/owner
 blog/post
 blog/view
@@ -2098,6 +2101,7 @@ com/css
 com/doc
 com/download.
 com/forum
+com/fr/
 com/ftp
 com/html
 com/image
@@ -2980,6 +2984,7 @@ googlebind
 googleing
 googleusashop
 goose chilliwack
+goose coat
 goose enfant
 goose expedition
 goose femme
@@ -3002,6 +3007,7 @@ goose v
 goose yorkville
 goose youth
 goose-canada
+goose-coat
 goose-enfant
 goose-expedition
 goose-femme
@@ -3027,6 +3033,7 @@ goose-youth
 gooseca
 goosecanada
 goosecheap
+goosecoat
 goosedk
 gooseenfant
 gooseexpedition
@@ -4645,6 +4652,7 @@ nba-jersey
 nbajersey
 needmoney
 net/bilder
+net/fr/
 net/members/
 netload.in
 neurontin
@@ -6996,6 +7004,7 @@ windows7key
 windows8key
 windowsanytime
 windowsphone.co
+winesickle
 wingsshop
 winter jassen
 winter-jassen
