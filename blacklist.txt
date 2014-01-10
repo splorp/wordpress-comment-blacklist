@@ -104,6 +104,8 @@ _vti
 -iphone-4-
 -iphone-5-
 -jacket-
+-jacket.
+-jacket/
 -jackets-
 -jeremy-scott-
 -jerking-
@@ -141,6 +143,8 @@ _vti
 -new-car-
 -nude-
 -nudes-
+-oakley.
+-oakley/
 -odejda-
 -off-your-
 -offshore-
@@ -195,6 +199,7 @@ _vti
 -strony-
 -strony.
 -sunglasses-
+-sunglasses.
 -sunglasses/
 -supplements-
 -symptoms-
@@ -576,6 +581,8 @@ _vti
 /iphone-case
 /iso_miscs/
 /iss.php
+/jacket-
+/jacket.
 /jerseys.
 /job.
 /join.php
@@ -659,7 +666,9 @@ _vti
 /north-face-
 /northface-
 /northface.
+/oakley-
 /oakley.
+/oakley/
 /oakleycan
 /offering/
 /ok.php
@@ -740,6 +749,8 @@ _vti
 /strony/
 /stuff.
 /suggestions-
+/sunglasses-
+/sunglasses.
 /supply_
 /swf/
 /syaneru
@@ -1851,6 +1862,7 @@ cheap mbt
 cheap michael
 cheap moncler
 cheap nfl
+cheap nhl
 cheap nike
 cheap north
 cheap oakley
@@ -1885,6 +1897,7 @@ cheap-mbt
 cheap-michael
 cheap-moncler
 cheap-nfl
+cheap-nhl
 cheap-nike
 cheap-north
 cheap-oakley
@@ -2660,7 +2673,9 @@ filmizle
 finance-
 finance-blog
 finance.htm
+financial debt
 financial_emergency
+financial-debt
 financial-emergency
 financial-service
 financialservice
@@ -2993,6 +3008,7 @@ goose femme
 goose grise
 goose herre
 goose homme
+goose ital
 goose jacka
 goose jacke
 goose jakke
@@ -3016,6 +3032,7 @@ goose-femme
 goose-grise
 goose-herre
 goose-homme
+goose-ital
 goose-jacka
 goose-jacke
 goose-jakke
@@ -3043,6 +3060,7 @@ goosefemme
 goosegrise
 gooseherre
 goosehomme
+gooseital
 goosejacka
 goosejacke
 goosejakke
@@ -4537,6 +4555,7 @@ monday-ugg
 mondaydeal
 mondaysale
 mondayugg
+money-making
 money-site
 money.htm
 moneyfast
@@ -4698,7 +4717,9 @@ nfljers
 nflofficial
 nflshop
 nfr.cfm
+nhl jersey
 nhl replica
+nhl-jersey
 nhl-replica
 nhlreplica
 niaspan
