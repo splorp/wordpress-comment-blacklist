@@ -12,6 +12,7 @@ _vti
 --service
 --shuttle
 -(
+-24.
 -abercrombiefitch-
 -acne-
 -acne/
@@ -652,15 +653,19 @@ _vti
 /mortgage
 /my/groups/
 /n.php
-/netcat_
-/netcat/
+/natverk/
+/netcat
+/netwerk/
+/network/
 /new.
 /news.
+/newsletter/
 /newsletters/
 /nihon
 /nike-
-/nikefree.
-/niketn.
+/nike.
+/nikefree
+/niketn
 /ninnki
 /node/
 /north-face
@@ -767,8 +772,11 @@ _vti
 /themes/
 /thread-
 /tiffany-
+/tiffany.
+/timberland-
 /timberland.
 /tmp/
+/toms-
 /toms.
 /top100.
 /trac/ticket/
@@ -776,6 +784,7 @@ _vti
 /ugg-
 /ugg/
 /uggs-
+/uggs.
 /uggsal/
 /uploads/
 /url/
@@ -869,7 +878,6 @@ _vti
 >woolr
 >www<
 |porno
-0000mail
 000mail
 1-1.
 1.cfm
@@ -913,11 +921,13 @@ _vti
 8handbag
 8purse
 49ers jersey
+49ers online
 49ers-jersey
 49ers-online
 49ersjersey
 49ersonline
 100% legit
+111@
 123.co
 404.php
 911.co
@@ -962,8 +972,8 @@ about/date
 acai-
 acaiberry
 accouchement
-accounts receivable
-accounts-receivable
+accounts receiv
+accounts-receiv
 accupril
 accutane
 acertemail.co
@@ -978,6 +988,7 @@ activity/p/
 actonel
 actual effort
 actual-effort
+acutual
 acyclovir
 ad-wiki
 addarticle
@@ -1667,6 +1678,7 @@ cabin lithu
 cabin-lithu
 cabins lithu
 cabins-lithu
+caellis
 cagoosejacket
 cagoosesale
 callgirl
@@ -2072,6 +2084,9 @@ clsale
 clshoe
 club-boy
 clubboy
+clusive vacation
+clusive-vacation
+clusivevacation
 cnoesfs
 coach austral
 coach black
@@ -2570,6 +2585,9 @@ executive-search
 executivesearch
 exelon
 exit.asp
+expensive vacation
+expensive-vacation
+expensivevacation
 extra gry
 extreme-sport
 extremely}
@@ -2902,10 +2920,18 @@ gaysex
 gayusa
 genemy
 general/genera
+generate cash
+generate money
+generate-cash
 generate-money
 generatecash
 generatemoney
+generating cash
+generating money
+generating-cash
+generating-money
 generatingcash
+generatingmoney
 generatorpro
 genuine-pandora
 genuinepandora
@@ -2990,8 +3016,7 @@ gold-jewelry
 gold-price
 gold-seiko
 gold.ru
-goldbarren-
-goldbarren.
+goldbarren
 goldcoin
 goldendoll
 goldessay
@@ -3010,11 +3035,12 @@ good-for-
 good}
 goodbye.asp
 goodsblog
-google_javascript
+google_java
+google-java
 googlebind
 googleing
 googleusashop
-goose chilliwack
+goose chill
 goose coat
 goose enfant
 goose expedition
@@ -3125,7 +3151,10 @@ gruzowe
 gruzu
 gry flesh
 gry online
+guarantee_uptime
+guarantee-uptime
 guaranteed_uptime
+guaranteed-uptime
 gucchi
 gucci bag
 gucci discount
@@ -3333,6 +3362,7 @@ hgher
 hghsup
 hierbasmedicin
 high-heel
+high-profile
 high-protein
 high.cc
 highbloodpressure
@@ -3372,12 +3402,10 @@ hollistersverige
 hollisterswim
 home-based
 home-loan
-home-remedies
-home-remedy
+home-remed
 homebased
 homeloan
-homeremedies
-homeremedy
+homeremed
 hoodia
 hoolgain
 horoscopes
@@ -3479,9 +3507,6 @@ impregnacji
 in-disguise
 include priceless
 includes priceless
-inclusive vacation
-inclusive-vacation
-inclusivevacation
 income.in
 increase traffic
 increase-traffic
@@ -3492,9 +3517,6 @@ index/css
 indexold
 indicators.co
 inetry
-inexpensive vacation
-inexpensive-vacation
-inexpensivevacation
 info/product
 info/tag
 info/user
@@ -3550,7 +3572,7 @@ interferende
 internet page
 internet poker
 internet site
-internet-marketing
+internet-market
 internet-poker
 internet-site
 internet.in
@@ -3934,9 +3956,9 @@ lesbos.
 lesson1
 letrozole
 levaquin
-level marketing
-level-marketing
-levelmarketing
+level market
+level-market
+levelmarket
 levitra
 levne
 libraries.cfm
@@ -4940,7 +4962,7 @@ online-dating
 online-invest
 online-kredit
 online-loan
-online-marketing
+online-market
 online-med
 online-money
 online-out
@@ -5214,6 +5236,7 @@ php5?title
 phpbb2/profile
 phpbb2/user
 phpinfo.php
+phync
 pignee
 pillonline
 pills.co
@@ -6243,6 +6266,7 @@ themes sale
 themes-for-windows
 themes-sale
 themesforwindows
+therealest
 thetopdog
 theyll
 things-consumers
@@ -7172,6 +7196,7 @@ wwellness
 www.1
 www.2012
 www.2013
+www.angel
 www.article
 www.best-
 www.brand
@@ -7552,8 +7577,10 @@ zyvox
 ポーター
 ホグロフス
 ボッテガ
+ホット
 マークジェイコブス
 ミュウ
+ムービー用
 モンクレール
 モンブラン
 ユーチューブ
@@ -7572,6 +7599,7 @@ zyvox
 保証
 割引
 化粧
+医師
 博彩
 危機
 受注
@@ -7596,6 +7624,7 @@ zyvox
 秋冬
 節約
 綺麗め
+脳症
 脿
 腕時計
 芸能人
