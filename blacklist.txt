@@ -1073,6 +1073,7 @@ airport-transport
 airyeezy
 aitaiwan
 akkuschrauber
+albuterol
 alendronate
 alkotla
 allbestedmed
@@ -3408,6 +3409,7 @@ homeloan
 homeremed
 hoodia
 hoolgain
+hoolz
 horoscopes
 horoskop
 horsesimul
@@ -6003,6 +6005,8 @@ skip-tracing
 skjønnhetsprodukter
 sklep
 sklepy
+skor-rea
+skorrea
 skup-aut
 skup,aut
 slimpill
