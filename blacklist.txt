@@ -887,6 +887,7 @@ _vti
 1@3
 1c.in
 1minutesite
+1stop
 1test
 1to1
 2.cfm
@@ -2763,6 +2764,7 @@ for-men
 for-money
 for-windows-8
 for-your-needs
+for+sale
 forboots
 forcheap
 forex
@@ -3026,8 +3028,10 @@ goldingot
 goldjewelry
 goldseiko
 goldsuppl
+golf-promo
 golf-shop
 golfplaza
+golfpromo
 golfs
 gomaile.co
 good blog
@@ -4104,6 +4108,7 @@ louboutinuk
 louis vitton
 louis_vuitton
 louis-vuitton
+louis+vuitton
 louisvuit.
 louisvuitton
 louiswuitton
@@ -4364,6 +4369,7 @@ membership-hack
 membershiphack
 men boost
 men-boost
+men+shoe
 menboost
 menseekingwom
 menu/menu
@@ -4426,6 +4432,7 @@ millenshop
 minecraftfree
 minicredit
 mintcoin
+minumum
 miracle-discount
 miraclediscount
 mirapex
@@ -5392,9 +5399,13 @@ prokeyshop
 prom-dress
 promo artist
 promo-artist
+promo-shop
+promo-store
 promoartist
 promocja
 promocode
+promoshop
+promostore
 promotional bag
 propecia
 proper-ugg
@@ -5912,6 +5923,7 @@ shoes-on-sale
 shoes-online
 shoes-out
 shoes.asp
+shoes+for+men
 shoesale
 shoesjapan
 shoeskan
@@ -5963,8 +5975,11 @@ si.lv.e.r.w.are
 sieg heil
 sieg-heil
 siegheil
+sign-zodiac
 signed-jersey
 signifiant
+signozodiac
+signzodiac
 silagra
 silberbarren
 sildenafil
@@ -6241,6 +6256,7 @@ testrun
 testuser
 tetracycline
 texansjersey
+tgf@
 thailove
 thanks.i
 thatover
@@ -6869,32 +6885,38 @@ vuitton fx
 vuitton glass
 vuitton hand
 vuitton hard
+vuitton men
 vuitton online
 vuitton out
 vuitton pas
 vuitton purse
 vuitton replica
 vuitton sac
+vuitton shoe
 vuitton sold
 vuitton speed
 vuitton taschen
 vuitton wallet
 vuitton wholesale
+vuitton women
 vuitton-bag
 vuitton-cigar
 vuitton-damier
 vuitton-fanny
 vuitton-fashion
 vuitton-glass
+vuitton-men
 vuitton-pas
 vuitton-purse
 vuitton-replica
+vuitton-shoe
 vuitton-sold
 vuitton-speed
 vuitton-uk
 vuitton-usa
 vuitton-wallet
 vuitton-wholesale
+vuitton-women
 vuitton</
 vuittonbag
 vuittoncigar
