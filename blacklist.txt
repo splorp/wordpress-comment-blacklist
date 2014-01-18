@@ -266,6 +266,7 @@ _vti
 .cfmx
 .cgi
 .co.jp/shop
+.com/,
 .com/%
 .coupon
 .credopa.in
@@ -334,6 +335,7 @@ _vti
 .thearticle
 .totaldns.in
 .travel.pl
+.twilight-
 .univer.
 .us/user
 .webs.co
@@ -362,12 +364,15 @@ _vti
 /?new-
 /?uid-
 /.wd/
+//123.
 //aaa-
+//aaa.
 //act-
-//app.lk
+//act.
 //article
 //best
 //bitcoin
+//businessdaily
 //buy
 //cheap
 //compare
@@ -383,6 +388,7 @@ _vti
 //official
 //onsale
 //paginas
+//podcast-
 //podcast.
 //prosport
 //reality
@@ -391,6 +397,7 @@ _vti
 //shop
 //test
 //vpn-
+//vpn.
 //website
 //webstore
 /a-
@@ -1125,6 +1132,7 @@ apbd_sjs
 apex bionic
 apex-bionic
 apexbionic
+app.lk
 app.php
 appyourself
 aquarius-compat
@@ -1451,6 +1459,7 @@ bluetooth-jammer
 bluetoothheadset
 bluetoothjammer
 blueugg
+boaby
 bodacious
 bonus-code
 bonuscode
@@ -2183,6 +2192,8 @@ comment-page
 commentabout
 commentsyou
 community.atom
+como ganhar
+como-ganhar
 compare price
 compare-price
 component/blog
@@ -2265,6 +2276,7 @@ cytotec
 cz/love
 dabloggs
 dafeult
+dailyreview.co
 dailystrength
 dakotasuki
 damen timberland
@@ -2929,6 +2941,8 @@ gamma blue
 gamma-blue
 gammablue
 gangprofil
+ganhar dinheiro
+ganhar-dinheiro
 gapscent
 garcinia
 gay sex
@@ -5185,6 +5199,8 @@ passwort
 passwrot
 patagonia-zone
 patagoniazone
+patrao-online
+patraoonline
 patriots hat
 patriots-hat
 paulsmith1
@@ -6069,6 +6085,7 @@ sneakers-retail
 sneakers.asp
 sneakers24
 sneakersretail
+snism
 social-bookmark
 socialbookmark
 socialite.
