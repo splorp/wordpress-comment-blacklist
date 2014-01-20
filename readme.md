@@ -56,6 +56,10 @@ Spammers will also utilize links that include URLs that are specific to WordPres
 
 This blacklist has been created for use on English language sites. There are several dozen terms and phrases included in the blacklist that may flag legitimate comments posted in other languages. If you commonly receive comments in other languages (specifically those containing CJK, Hiragana, Katakana, or Cyrillic characters), you may want to remove or modify those sections of the blacklist.
 
+**HTML Tag Attributes**
+
+The blacklist is not applied against HTML tag attributes found in comments, only the values assigned to those attributes. This means that you cannot include the attribute name, equal sign, or the quote marks as part a keyword. For example, a keyword containing `title="Cheap Replica Handbag"` will not match anything, even if that exact phrase exists within the content of an HTML formatted comment. Other HTML attributes commonly allowed in WordPress comments such as `href=""`, `cite=""`, and `datetime=""` are also ignored.
+
 **User Agent Strings**
 
 According to the WordPress [Discussion Settings Screen](http://codex.wordpress.org/Settings_Discussion_Screen) documentation, a comment will be marked spam if any of the [Comment Blacklist](http://codex.wordpress.org/Combating_Comment_Spam#Comment_Blacklist) keywords are found in the comment content, name, URL, email, or IP address fields. Surprisingly, WordPress also applies the blacklist against the [user agent](http://en.wikipedia.org/wiki/User_agent) string.
