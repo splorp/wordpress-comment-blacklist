@@ -40,11 +40,14 @@ _vti
 -breathalyzer-
 -broker.
 -buy.
+-buy/
 -car.co
 -casas-en-
 -cash.
+-cash/
 -casino-
 -casino.
+-casino/
 -cell-phone-
 -cheap-
 -cheap.
@@ -92,7 +95,9 @@ _vti
 -foreclosure-
 -fotograf.
 -fotografia.
+-fuck-
 -fucked-
+-fucks-
 -gambling
 -game-jersey
 -gaming-
@@ -120,16 +125,21 @@ _vti
 -jerseys/
 -kredyt
 -lacoste-
--link.jp
+-link.
+-link/
 -linkbuild
 -loan-
 -loans-
 -longchamp-
 -lottery.
+-lottery/
+-lotto.
+-lotto/
 -lover-
 -magazin-
 -magazini-
 -malware-
+-malware/
 -marant-
 -marc-jacobs-
 -mastery.
@@ -140,6 +150,8 @@ _vti
 -men-jersey
 -mens.
 -metods-
+-mlm.
+-mlm/
 -mlsp.
 -mlsp/
 -models.co
@@ -2296,6 +2308,7 @@ dapoxetine
 darmowe-programy
 darmoweprogramy
 darmowy
+darrellwire
 darvocet
 data-tools
 datarecovery.co
@@ -2622,6 +2635,7 @@ event_id
 eventid
 every advertise
 every1bet
+everythink
 evryday
 exclusive.ru
 executive-search
@@ -3194,6 +3208,7 @@ griseofulvin
 griseparka
 grossrx
 group_home.php
+group-review
 grow-cannabis
 growmens
 growth-hormone
@@ -3273,6 +3288,7 @@ guest-post
 guestpost
 guru1
 gurus1
+gyslera
 hack facebook
 hack fb
 hack-facebook
@@ -4020,6 +4036,7 @@ level-market
 levelmarket
 levitra
 levne
+liabaleles
 libraries.cfm
 library.cfm
 librarys.cfm
@@ -6199,6 +6216,7 @@ store.org
 storegucci
 storejp
 storeoutlet
+straightface
 strategies-for
 strategy-for
 stratificat.
@@ -6342,6 +6360,7 @@ the-most-detail
 the-right-way
 the-the
 the-threading
+theaverage
 thebestis
 thebestprice
 theeasy
