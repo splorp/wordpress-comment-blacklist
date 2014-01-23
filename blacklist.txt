@@ -25,10 +25,12 @@ _vti
 -armani.
 -armani/
 -asics.
+-asics/
 -auction-
 -authentic-
 -b2b
 -backpain.
+-backpain/
 -beneficial-
 -bioactives-
 -bitcoin-
@@ -812,6 +814,7 @@ _vti
 /uggs-
 /uggs.
 /uggsal/
+/upload/
 /uploads/
 /url/
 /usa.
@@ -821,6 +824,7 @@ _vti
 /usuario:
 /vb/
 /view_my/
+/view_story/
 /viewstory/
 /visit.
 /visite.
@@ -955,16 +959,23 @@ _vti
 49ersjersey
 49ersonline
 100% legit
+111.
 111@
 123.co
+123@
 404.php
 911.co
 2007.co
 2008.co
 2009.co
+2010.co
+2011.co
+2012.co
+2013.co
 2013.de
 2013.or
 2013x.
+2014.co
 123456789
 ¥·¥
 ¥°¥
@@ -1198,7 +1209,9 @@ australia boot
 australia out
 australia-boot
 australiaboot
+authentic cheap
 authentic hermes
+authentic-cheap
 authentic-ugg
 authentichermes
 authenticugg
@@ -1566,8 +1579,10 @@ brinkjewel
 britanniahotel
 broncos hat
 broncos-hat
+broncos-jersey
 broncos-official
 broncoshat
+broncosjersey
 broncosofficial
 brrip
 bruiseviolet
@@ -1916,6 +1931,7 @@ cheap basket
 cheap beat
 cheap bike
 cheap china
+cheap denver
 cheap ga
 cheap galaxy
 cheap hockey
@@ -1951,6 +1967,7 @@ cheap-bike
 cheap-chanel
 cheap-china
 cheap-converse
+cheap-denver
 cheap-ga
 cheap-gucci
 cheap-hat
@@ -2308,6 +2325,7 @@ dapoxetine
 darmowe-programy
 darmoweprogramy
 darmowy
+darrellbox
 darrellwire
 darvocet
 data-tools
@@ -3769,6 +3787,8 @@ jersetblack
 jersey cheap
 jersey from
 jersey wholesale
+jersey-2013
+jersey-2014
 jersey-cheap
 jersey-from
 jersey-pro
@@ -3776,6 +3796,8 @@ jersey-wholesale
 jersey.htm
 jersey.us
 jersey+
+jersey2013
+jersey2014
 jerseycheap
 jerseyfrom
 jerseyonline
@@ -4283,6 +4305,9 @@ manner-puma
 månner-puma
 mannerpuma
 månnerpuma
+manning jersey
+manning-jersey
+manningjersey
 maran-trainer
 marant boot
 marant shoe
@@ -7437,6 +7462,7 @@ xx.co
 xx.in
 xxx
 yanswer
+ynimb
 yo-dick
 yoigucci
 you-ugg
