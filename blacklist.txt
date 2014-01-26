@@ -357,6 +357,7 @@ _vti
 .webs.co
 .xn--
 .za/image
+''
 )-
 [...
 [/color
@@ -508,6 +509,7 @@ _vti
 /configura.
 /configuration/
 /contact.
+/crimea-
 /css/
 /customcontrols/
 /customer-care.
@@ -1029,6 +1031,10 @@ activity/p/
 actonel
 actual effort
 actual-effort
+actual thank
+actual-thank
+actually thank
+actually-thank
 acutual
 acyclovir
 ad-wiki
@@ -1114,6 +1120,7 @@ airport-transport
 airyeezy
 aitaiwan
 akkuschrauber
+aklotr
 albuterol
 alendronate
 alkotla
@@ -2191,6 +2198,7 @@ collection effort
 college-loan
 colts hat
 colts-hat
+com http
 com.asp
 com.com
 com//
@@ -2467,6 +2475,7 @@ diva-com
 divulgaemail
 djstool
 djtool
+dk http
 dlphone
 do=blog
 dobrucki.co
@@ -3169,6 +3178,7 @@ goose-v
 goose-vest
 goose-yorkville
 goose-youth
+goose</
 gooseca
 goosecanada
 goosecheap
@@ -3981,6 +3991,7 @@ kredit
 kredyt
 ku42.
 kvartiry
+l.uk.e.w.a.rm
 laarzen kopen
 laarzen-kopen
 laarzenkopen
@@ -4002,6 +4013,7 @@ laseriv
 laserowe
 lasertherapy
 lasix
+latonya.
 lauren cheap
 lauren out
 lauren polo
@@ -4321,6 +4333,7 @@ marantshoe
 marantsneaker
 marcjacobsjap
 marcjacobsjp
+margreet.
 marketing-book
 marketing-marketing
 marketing-tip
@@ -4498,6 +4511,8 @@ milano scarpe
 milano-scarpe
 milanoscarpe
 milanosjapan
+mild activ
+mild-activ
 milendress
 millen au
 millen clearance
@@ -5770,6 +5785,7 @@ robe-de-mariee
 robe-du-mariage
 robedemariee
 robedumariage
+robertby
 roger-vivier
 rok.ru
 rokettube
@@ -7266,6 +7282,8 @@ womens-puma
 womenseekingmen
 womensnike
 womenspuma
+wonderful article
+wonderful-article
 woodgundy.us
 woolrich bliz
 woolrich clothing
@@ -7462,6 +7480,7 @@ xx.co
 xx.in
 xxx
 yanswer
+yearold
 ynimb
 yo-dick
 yoigucci
