@@ -79,6 +79,7 @@ _vti
 -directory.
 -discount
 -doktora-
+-download.
 -drmartens-
 -e-guide-
 -easily-
@@ -89,6 +90,8 @@ _vti
 -fantasia.
 -fashion-
 -filmy
+-finance.
+-financing.
 -for-adults
 -for-sale
 -for-u-
@@ -112,6 +115,7 @@ _vti
 -hermes-
 -income-
 -infotain
+-insurance.
 -iphone-4-
 -iphone-5-
 -jacket-
@@ -456,6 +460,7 @@ _vti
 /birkenstock.
 /birkenstocks-
 /birkenstocks.
+/birkin.
 /bitcoin-
 /black-friday
 /blog.
@@ -528,6 +533,7 @@ _vti
 /dmg/
 /doudoun.
 /doudoune.
+/download.
 /drmartens-
 /drug
 /duvetica.
@@ -546,8 +552,11 @@ _vti
 /fendi.
 /ferragamo-
 /ferragamo.
+/file/
 /files/
 /filmy
+/finance.
+/financing.
 /flash/
 /foot-care
 /form.
@@ -560,10 +569,12 @@ _vti
 /fotka.
 /foto.
 /fpdb/
+/futbol-
 /futbol/
 /gekiyasu
 /get-free
-/getwidgets
+/get-widget
+/getwidget
 /gh0/
 /gh1/
 /glowna.
@@ -591,7 +602,7 @@ _vti
 /hollister/
 /home.
 /hot.
-/hotdeals/
+/hotdeal
 /ii/
 /img/
 /img1/
@@ -608,16 +619,21 @@ _vti
 /index4.
 /index5.
 /indexdic
+/infopage/
 /infopages/
 /install/
+/insurance.
 /iphone-case
 /iso_miscs/
 /iss.php
 /jacket-
 /jacket.
+/jersey-
+/jersey.
+/jerseys-
 /jerseys.
 /job.
-/join.php
+/join.
 /jordan.
 /jordan1
 /jordan2
@@ -669,19 +685,20 @@ _vti
 /members-
 /members.
 /members/
+/membership-
 /membership.
 /menu.
 /mlsp-
 /mlsp.
 /mlsp/
 /mobile/
+/module/
 /modules/
 /moncler-
 /moncler.
 /moncler/
 /montblanc.
 /mortgage
-/my/groups/
 /n.php
 /natverk/
 /netcat
@@ -899,9 +916,11 @@ _vti
 %titlet%
 %u2019
 %url%
++cheap
 +clearance
 +handbag
 +jersey
++louboutin
 +outlet/
 <a>
 =utf8
@@ -1030,8 +1049,8 @@ activation code
 activity/p/
 actonel
 actual effort
-actual-effort
 actual thank
+actual-effort
 actual-thank
 actually thank
 actually-thank
@@ -1130,8 +1149,9 @@ allianz/
 allworkhome
 alprazolam
 amateur-homemade
+amateur.
 amateurhomemade
-amateurs.htm
+amateurs.
 amazn.co
 amazon.cm
 ambien
@@ -1432,7 +1452,6 @@ birkenstocksandal
 birkenstockshop
 birkin bag
 birkin-bag
-birkin.htm
 birkinbag
 bisapp
 bit.ly
@@ -1938,6 +1957,7 @@ cheap basket
 cheap beat
 cheap bike
 cheap china
+cheap christian
 cheap denver
 cheap ga
 cheap galaxy
@@ -1973,6 +1993,7 @@ cheap-beat
 cheap-bike
 cheap-chanel
 cheap-china
+cheap-christian
 cheap-converse
 cheap-denver
 cheap-ga
@@ -2005,6 +2026,7 @@ cheap-toms
 cheap-travel
 cheap-ugg
 cheap-uk
+cheap+
 cheapadobe
 cheapatlanta
 cheapauthentic
@@ -2213,7 +2235,7 @@ com/download.
 com/forum
 com/fr/
 com/ftp
-com/html
+com/htm
 com/image
 com/include
 com/member
@@ -2369,6 +2391,7 @@ default1
 default2
 definitelly
 delete_post
+delpha_
 deltasone
 demo123
 dental-implant
@@ -2394,8 +2417,8 @@ desktopclient
 desyrel
 detail/www
 detektiv
-devil1.htm
-devil2.htm
+devil1.
+devil2.
 dewelop
 diablo3
 diamox
@@ -2516,9 +2539,6 @@ down_loads
 downjacket
 download bracelet
 download-bracelet
-download.blog
-download.htm
-download.pl
 downloadbracelet
 doxycycline
 drayvera
@@ -2611,6 +2631,7 @@ entrykey
 entryview.asp
 envisionforce
 eomarketplace
+ephedra
 ephedrine
 epo doping
 eqbandz
@@ -2787,14 +2808,12 @@ fightmark
 filmizle
 finance-
 finance-blog
-finance.htm
 financial debt
 financial_emergency
 financial-debt
 financial-emergency
 financial-service
 financialservice
-financing.htm
 finanse
 finansowanie
 finasteride
@@ -3663,7 +3682,6 @@ insurance car
 insurance-car
 insurance-compan
 insurance-quote
-insurance.htm
 insurances
 intdrnation
 interesting blog
@@ -4182,17 +4200,21 @@ loteprednol
 lotto-tip
 lottotip
 louboutin canada
+louboutin cheap
 louboutin out
 louboutin pas
 louboutin platform
+louboutin pump
 louboutin sale
 louboutin shoe
 louboutin solde
 louboutin uk
 louboutin-chau
+louboutin-cheap
 louboutin-out
 louboutin-pas
 louboutin-platform
+louboutin-pump
 louboutin-sale
 louboutin-shoe
 louboutin-solde
@@ -6424,6 +6446,7 @@ this weblog
 this-review
 thm.htm
 thomas sabot
+thomasfat
 thomassabosale
 thomassabouk
 thread_id
