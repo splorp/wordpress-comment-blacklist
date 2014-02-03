@@ -1961,6 +1961,7 @@ chcoin.co
 cheap air
 cheap atlanta
 cheap authentic
+cheap bag
 cheap basket
 cheap beat
 cheap bike
@@ -1996,6 +1997,7 @@ cheap uk
 cheap-adobe
 cheap-atlanta
 cheap-authentic
+cheap-bag
 cheap-basket
 cheap-beat
 cheap-bike
@@ -2038,6 +2040,7 @@ cheap+
 cheapadobe
 cheapatlanta
 cheapauthentic
+cheapbag
 cheapbasket
 cheapbeat
 cheapbeatsbydre
@@ -2106,9 +2109,15 @@ cherprada
 chettelongchamp
 chf iraq
 chf-iraq
+china cheap
+china low
 china wholesale
+china-cheap
+china-low
 china-wholesale
+chinacheap
 chinajorda
+chinalow
 chinawholesale
 chinska
 chlamydia
@@ -2298,6 +2307,9 @@ coskobo
 cosmetics-out
 cosmeticswholesale
 cost-effective
+couchey fr
+couchey-fr
+coucheyfr
 coumadin
 coupon_page
 coupon-code
@@ -2402,6 +2414,7 @@ delete_post
 delpha_
 deltasone
 demo123
+demontag
 dental-implant
 dental-quote
 depositbank
@@ -2509,6 +2522,9 @@ djtool
 dk http
 dlphone
 do=blog
+doable program
+doable-program
+doableprogram
 dobrucki.co
 dobrucki.pl
 doc/soap
@@ -3359,36 +3375,54 @@ hairgrow
 hairmodel
 hairremov
 hairstraight
+handbag distrib
 handbag louis
 handbag out
 handbag sale
+handbag store
 handbag uk
+handbag wholesale
 handbag wom
+handbag-distrib
 handbag-for
 handbag-louis
 handbag-out
 handbag-sale
+handbag-store
+handbag-wholesale
 handbag-wom
 handbag+
+handbagdistrib
 handbagfor
 handbaglouis
 handbagout
+handbags distrib
 handbags louis
 handbags out
+handbags store
 handbags uk
+handbags wholesale
 handbags wom
+handbags-distrib
 handbags-for
 handbags-louis
 handbags-out
+handbags-store
+handbags-wholesale
 handbags-wom
 handbagsale
+handbagsdistrib
 handbagsfor
 handbagslouis
 handbagsout
 handbagssale
+handbagsstore
+handbagstore
 handbagsu
+handbagswholesale
 handbagswom
 handbagu
+handbagwholesale
 handbagwom
 hanging-with-friends
 hangingwithfriends
@@ -3445,35 +3479,44 @@ herbaltincture
 hermes austral
 hermes bag
 hermes belt
+hermes couch
 hermes evelyne
 hermes factory
 hermes handbag
+hermes official
 hermes out
 hermes scarve
 hermes store
 hermes uk
 hermes wallet
+hermes xl
 hermes-bag
 hermes-belt
+hermes-couch
 hermes-discount
 hermes-evelyne
 hermes-factory
+hermes-official
 hermes-out
 hermes-replica
 hermes-store
 hermes-uk
 hermes-wallet
+hermes-xl
 hermesbag
 hermesbelt
+hermescouch
 hermesdiscount
 hermesevelyne
 hermesfactory
 hermeshut
+hermesofficial
 hermesout
 hermesreplica
 hermesstore
 hermesuk
 hermeswallet
+hermesxl
 herren moncler
 herren timberland
 herren-moncler
@@ -3548,9 +3591,12 @@ hot-tags
 hot.htm
 hotburberry
 hotel deal
+hotel hermes
 hotel-deal
+hotel-hermes
 hotelbritannia
 hoteldeal
+hotelhermes
 hoteli
 hotelmanchester
 hotgirl
@@ -4257,7 +4303,10 @@ lovelv
 lovelyto
 lovemyhair
 lovingnatural
+low priced
 low-cost-
+low-priced
+lowpriced
 lublin.
 lublina.
 luck jersey
@@ -5077,16 +5126,19 @@ offer.net
 offer.weebly
 offeroutlet
 offerwatch
+official website
 official-sale
 official-steeler
 official-style
 official-ugg
+official-website
 officialmailsite
 officialsale
 officialsteeler
 officialstyle
 officialteamshop
 officialugg
+officialwebsite
 ojectx
 ok-cheap
 ok-sex
@@ -5883,6 +5935,7 @@ saldi-online
 saldionline
 sale louis
 sale lulu
+sale miami
 sale oakley
 sale template
 sale-cheap
@@ -5891,6 +5944,7 @@ sale-jp
 sale-longchamp
 sale-louis
 sale-lulu
+sale-miami
 sale-oakley
 sale-template
 sale-tokyo
@@ -5903,6 +5957,7 @@ salefactory
 salejp
 salelouis
 salelulu
+salemiami
 saleoakley
 saleonline
 saleout
@@ -7188,8 +7243,10 @@ webpromotion
 websex
 website online
 website traffic
+website usa
 website visitor
 website-online
+website-usa
 website-visitor
 website}
 website1
@@ -7199,6 +7256,7 @@ websites online
 websites-online
 websitesdesign
 websitesonline
+websiteusa
 websolution
 webviewconsult
 weddingdress
@@ -7248,6 +7306,7 @@ wholesale bag
 wholesale cheap
 wholesale china
 wholesale free
+wholesale handbag
 wholesale jersey
 wholesale jordan
 wholesale led
@@ -7258,6 +7317,7 @@ wholesale-bag
 wholesale-cheap
 wholesale-china
 wholesale-free
+wholesale-handbag
 wholesale-jersey
 wholesale-jordan
 wholesale-led
@@ -7269,6 +7329,7 @@ wholesalebag
 wholesalecheap
 wholesalechina
 wholesalefree
+wholesalehandbag
 wholesalejersey
 wholesalejordan
 wholesaleled
@@ -7523,6 +7584,9 @@ xanax
 xelerated
 xenical
 xfire.com/blog
+xl paket
+xl-paket
+xlpaket
 xopenex
 xrumer
 xwebsite
