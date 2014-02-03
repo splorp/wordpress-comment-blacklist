@@ -2,7 +2,7 @@
 
 Sometimes a simple solution is a better solution.
 
-Over the past couple of years, I have identified over 7,800 phrases, patterns, and keywords commonly used by spammers and comment bots in usernames, email addresses, link text, and URIs. This blacklist is still a work in progress and there is certainly room for optimization. Suggestions and bug reports are certainly appreciated. Please use the [issue tracker](https://github.com/splorp/wordpress-comment-blacklist/issues) to let me know.
+Over the past couple of years, I have identified over 7,900 phrases, patterns, and keywords commonly used by spammers and comment bots in usernames, email addresses, link text, and URIs. This blacklist is still a work in progress and there is certainly room for optimization. Suggestions and bug reports are certainly appreciated. Please use the [issue tracker](https://github.com/splorp/wordpress-comment-blacklist/issues) to let me know.
 
 ### How Do I Use It?
 
@@ -72,16 +72,16 @@ I would like to thank [Mika Epstein](https://github.com/ipstenu), [Claudio Schwa
 
 ### History
 
-+ 20131215 — Blacklist contains over 7,000 entries
++ 20131215 — 7,000 entries
 + 20131105 — Migrated project to [GitHub](https://github.com/splorp/wordpress-comment-blacklist)
-+ 20131020 — Blacklist contains over 6,000 entries
-+ 20130911 — Blacklist contains over 5,000 entries
-+ 20130715 — Blacklist contains over 4,000 entries
-+ 20130226 — Blacklist contains over 3,000 entries
++ 20131020 — 6,000 entries
++ 20130911 — 5,000 entries
++ 20130715 — 4,000 entries
++ 20130226 — 3,000 entries
 + 20130130 — Added documentation
 + 20130130 — Mentioned on [WP Daily](http://torquemag.io/comment-blacklist-gist/)
-+ 20120529 — Blacklist contains over 2,000 entries
-+ 20120217 — Blacklist contains over 1,000 entries
++ 20120529 — 2,000 entries
++ 20120217 — 1,000 entries
 + 20111122 — Released as a [Gist](https://gist.github.com/splorp/1385930) with just over 140 entries
 
 
