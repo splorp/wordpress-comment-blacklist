@@ -18,7 +18,9 @@ _vti
 -acne-
 -acne/
 -adsense-
+-adsense/
 -amateur-
+-amateur/
 -anal-
 -anonymous-
 -argente-
@@ -41,6 +43,7 @@ _vti
 -bluray-
 -breathalyzer-
 -broker.
+-broker/
 -buy.
 -buy/
 -car.co
@@ -66,6 +69,7 @@ _vti
 -co.jp
 -cock-
 -cock.
+-cock/
 -comfort-
 -cosmetics.
 -costume.
@@ -76,10 +80,12 @@ _vti
 -diagnostic-
 -dieta-
 -dieta.
+-dieta/
 -directory.
 -discount
 -doktora-
 -download.
+-download/
 -drmartens-
 -e-guide-
 -easily-
@@ -1140,6 +1146,7 @@ airyeezy
 aitaiwan
 akkuschrauber
 aklotr
+aksudmias
 albuterol
 alendronate
 alkotla
@@ -1264,6 +1271,7 @@ awordpress.
 azur-lv
 b.u.y
 babycanread
+babyliss
 backlink
 baclofen
 bad credit
@@ -1317,13 +1325,13 @@ bankowoz
 bankrobber
 banonline
 bansunglass
-barbour clothing
+barbour cloth
 barbour jacket
 barbour outlet
-barbour-clothing
+barbour-cloth
 barbour-jacket
 barbour-outlet
-barbourclothing
+barbourcloth
 barbourjacket
 barbouroutlet
 basket isabel
@@ -2178,12 +2186,14 @@ clenbuterol
 click4
 clickbank
 clickforu
-clientarea.php
+clientarea
 climacool
 clomid
 clonazepam
 clone-key
 clonekey
+clothing abercrombie
+clothing-abercrombie
 clothingabercrombie
 clredheel
 clsale
@@ -2193,6 +2203,10 @@ clubboy
 clusive vacation
 clusive-vacation
 clusivevacation
+cms_temp
+cms_theme
+cms-temp
+cms-theme
 cnoesfs
 coach austral
 coach black
@@ -2248,7 +2262,6 @@ com/boards
 com/cheap
 com/css
 com/doc
-com/download.
 com/forum
 com/fr/
 com/ftp
@@ -2592,6 +2605,10 @@ drmartensjapan
 drmartensjp
 drugcheap
 drugscheap
+drupal_temp
+drupal_theme
+drupal-temp
+drupal-theme
 dubai-princess.
 dubturbo-
 dummytest
@@ -3524,6 +3541,8 @@ herren-timberland
 herrenmoncler
 herrentimberland
 hfgfh
+hgfj
+hggh
 hgh-sup
 hgher
 hghsup
@@ -4363,6 +4382,7 @@ maclipgloss
 macmakeup
 madeye30
 magazine/page1
+magazine/page2
 magicmoncler
 mail.ru
 maillot ukraine
@@ -5096,9 +5116,12 @@ oakleymedusa
 oakleyout
 oakleypascher
 oakleyru
+oakleys sunglass
+oakleys-sunglass
 oakleys.net
 oakleysale
 oakleysj
+oakleyssunglass
 oakleystore
 oakleysuk
 oakleysunglass
@@ -6605,6 +6628,7 @@ toile-vanessa
 toilevanessa
 tojp.co
 tokyo-lv
+told u?
 toms shoe
 toms-cheap
 toms-shoe
@@ -7023,6 +7047,16 @@ vendita
 vendorlock
 venlafaxine
 ventolin inhale
+ventures impart
+ventures note
+ventures pleasant
+ventures profit
+ventures shape
+ventures-impart
+ventures-note
+ventures-pleasant
+ventures-profit
+ventures-shape
 versace-japan
 versacejapan
 versicherungsmakler
@@ -7396,7 +7430,7 @@ wonderful article
 wonderful-article
 woodgundy.us
 woolrich bliz
-woolrich clothing
+woolrich cloth
 woolrich coat
 woolrich coupon
 woolrich europe
@@ -7413,7 +7447,7 @@ woolrich uomo
 woolrich vest
 woolrich wool
 woolrich-bliz
-woolrich-clothing
+woolrich-cloth
 woolrich-coat
 woolrich-coupon
 woolrich-europe
@@ -7430,7 +7464,7 @@ woolrich-uomo
 woolrich-vest
 woolrich-wool
 woolrichbliz
-woolrichclothing
+woolrichcloth
 woolrichcoat
 woolrichcoupon
 woolricheurope
@@ -7460,7 +7494,9 @@ work-review
 workout-sale
 workoutsale
 workreview
+world-venture
 worldugg
+worldventure
 worldwideugg
 wow-gold
 wowo-house
