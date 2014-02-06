@@ -58,8 +58,11 @@ _vti
 -cheap.
 -cheapest-
 -cheapest.
+-cheat-
+-cheat.
 -cheats
 -cia.co
+-cigar-
 -cigar.
 -cigarette-
 -cigarette.
@@ -280,6 +283,8 @@ _vti
 ?user
 ?view
 .acgi
+.adboard
+.adsboard
 .asp/
 .azmya.
 .baidu
@@ -431,6 +436,8 @@ _vti
 /abercrombie-
 /about.
 /acai
+/acidreflux-
+/acidreflux.
 /add.
 /addfeed/
 /admin/
@@ -451,6 +458,7 @@ _vti
 /asics-
 /asics.
 /asp/
+/asthma.
 /attachments/
 /authentic
 /baby.
@@ -584,6 +592,7 @@ _vti
 /gh0/
 /gh1/
 /glowna.
+/gold.
 /graphics/
 /group1
 /group2
@@ -1046,6 +1055,7 @@ accupril
 accutane
 acertemail.co
 acetazolamide
+acid-reflux
 acnecyst
 acnetreatment
 acomplia
@@ -1105,6 +1115,7 @@ ados-populaire
 adospopulaire
 adsjeremy
 adsplus
+adsuse.
 adswings
 adult girl
 adult-girl
@@ -1428,6 +1439,8 @@ best-phone
 best-software-for
 best-way-to
 best-website
+bestad.
+bestads.
 bestcontractor
 bestdirect
 bestdiscount
@@ -3703,6 +3716,8 @@ immediate-income
 immediateincome
 implanty
 impregnacji
+impressive share
+impressive-share
 in-disguise
 include priceless
 includes priceless
@@ -5584,6 +5599,7 @@ prepaid-credit
 prescription.htm
 pressrelease.net
 previcox
+price-of-gold
 pricetobook
 priligy
 primeessay
@@ -5777,6 +5793,9 @@ reeview
 ref_title
 ref_url
 refluks
+reflux symptom
+reflux-symptom
+refluxsymptom
 regarding blog
 regarfing
 registrator
@@ -6992,6 +7011,7 @@ unemoncler
 unitedidesign
 universal-key
 unknown.ru
+unknown@
 unlock-iphone
 unlock-mobile
 unlock-phone
@@ -7022,6 +7042,8 @@ urlacherjersey
 urls2
 urlstatusgo.htm
 uroda
+usa-best
+usabest
 user_blog.php
 user/profile
 user/view
