@@ -34,8 +34,11 @@ _vti
 -backpain.
 -backpain/
 -beneficial-
+-bioactive-
 -bioactives-
 -bitcoin-
+-bitcoin.
+-bitcoin/
 -blog.
 -blog/
 -blogs.
@@ -162,6 +165,7 @@ _vti
 -mbt.
 -mbt/
 -mbts.
+-mbts/
 -men-jersey
 -mens.
 -metods-
@@ -169,6 +173,7 @@ _vti
 -mlm/
 -mlsp.
 -mlsp/
+-model.co
 -models.co
 -mortgage-
 -new-car-
@@ -184,7 +189,7 @@ _vti
 -online/
 -order-at-
 -outlet.
--oympia-
+-outlet/
 -payday-
 -pictures.
 -poker.
@@ -193,8 +198,12 @@ _vti
 -prada-
 -premium-
 -programy.
+-promo-
+-promo.
+-promo/
 -promotions-
 -promotions.
+-promotions/
 -pussy-
 -rdnk-
 -real-estate-
@@ -227,8 +236,10 @@ _vti
 -store.
 -strona-
 -strona.
+-strona/
 -strony-
 -strony.
+-strony/
 -sunglasses-
 -sunglasses.
 -sunglasses/
@@ -575,11 +586,7 @@ _vti
 /foot-care
 /form.
 /forum/
-/forum/membership
-/forum/topic
-/forum/user
 /forum1
-/forums/member
 /fotka.
 /foto.
 /fpdb/
@@ -2936,9 +2943,15 @@ forum.asp
 forum.php
 forum/1/topic
 forum/ftopic
+forum/member
 forum/post
+forum/topic
+forum/user
 forums?func
 forums/1/topic
+forums/member
+forums/topic
+forums/user
 forwindows8
 foryou.co
 forzest
@@ -5339,6 +5352,7 @@ ovariancyst
 ownersinsur
 oxycodone
 oxycontin
+oympia
 p90x
 packersjersey
 page.tl
