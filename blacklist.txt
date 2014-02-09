@@ -4,7 +4,6 @@ _htm
 _market
 _profit
 _strateg
-_the_best
 _vti
 ---
 --bag
@@ -63,7 +62,7 @@ _vti
 -cheapest.
 -cheat-
 -cheat.
--cheats
+-cheat/
 -cia.co
 -cigar-
 -cigar.
@@ -104,7 +103,7 @@ _vti
 -filmy
 -finance.
 -financing.
--for-adults
+-for-adult
 -for-sale
 -for-u-
 -for-u.
@@ -113,12 +112,18 @@ _vti
 -fotograf.
 -fotografia.
 -fuck-
+-fuck/
 -fucked-
+-fucked/
+-fucker-
+-fucker/
+-fucking-
+-fucking/
 -fucks-
+-fucks/
 -gambling
 -game-jersey
 -gaming-
--gemorroya
 -get-free-
 -gifts-
 -handbag-
@@ -299,7 +304,7 @@ _vti
 .asp/
 .azmya.
 .baidu
-.bioactives
+.bioactive
 .biz
 .blogbox.be
 .blogspace.
@@ -371,7 +376,7 @@ _vti
 .ru/service
 .ru/user
 .sirenos.in
-.smileys
+.smiley
 .sunglasses-
 .supreme-
 .thearticle
@@ -430,7 +435,7 @@ _vti
 //leverage
 //official
 //onsale
-//paginas
+//pagina
 //podcast-
 //podcast.
 //prosport
@@ -590,6 +595,16 @@ _vti
 /fotka.
 /foto.
 /fpdb/
+/fuck-
+/fuck.
+/fucked-
+/fucked.
+/fucker-
+/fucker.
+/fucking-
+/fucking.
+/fucks-
+/fucks.
 /futbol-
 /futbol/
 /gekiyasu
@@ -762,8 +777,9 @@ _vti
 /panty-
 /piece-
 /piece.
-/popups/
+/popup
 /porn
+/porn-
 /post:
 /pozew
 /prada_
@@ -809,7 +825,9 @@ _vti
 /sex
 /show/
 /sigareta-
+/sigareta.
 /sigarety-
+/sigarety.
 /sinsaku
 /site/
 /site/ebay
@@ -817,6 +835,9 @@ _vti
 /siteold/
 /soft/
 /soma
+/special-
+/special.
+/specials-
 /specials.
 /strona-
 /strona/
@@ -1397,19 +1418,19 @@ beijing-massage
 beijingescort
 beijingmassage
 belly-fat
-belstaff botas
+belstaff bota
 belstaff chaqueta
 belstaff cuero
 belstaff españa
 belstaff handbag
 belstaff out
-belstaff-botas
+belstaff-bota
 belstaff-chaqueta
 belstaff-cuero
 belstaff-españa
 belstaff-handbag
 belstaff-out
-belstaffbotas
+belstaffbota
 belstaffchaqueta
 belstaffcuero
 belstaffespaña
@@ -1519,7 +1540,7 @@ blog_post_
 blog-beast
 blog-platform
 blog-soon
-blog-tricks
+blog-trick
 blog-video
 blog-view
 blog/blog
@@ -1535,7 +1556,7 @@ blogentry.
 bloghome
 blogid
 blogplatform
-blogs-tricks
+blogs-trick
 blogs.blog
 blogs/entry
 blogs/item
@@ -1791,7 +1812,9 @@ cabas-vanessa
 cabasvanessa
 cabin lithu
 cabin-lithu
+cabins it
 cabins lithu
+cabins-it
 cabins-lithu
 caellis
 cagoosejacket
@@ -3091,6 +3114,7 @@ gay sex
 gay-sex
 gaysex
 gayusa
+gemorroya
 genemy
 general/genera
 generate cash
@@ -4276,6 +4300,7 @@ locateacellphone
 locatecellphone
 lodz
 łódź
+logcabins
 login.php
 loiusvuitton
 london-genuine
@@ -5553,7 +5578,11 @@ polos ralph
 polos-ralph
 polosralph
 popularna
-porn video
+porn comic
+porn live
+porn sex
+porn vid
+porn-comic
 porn-live
 porn-sex
 porn-vid
@@ -6509,15 +6538,24 @@ tarikishoe
 tarot divin
 tarot-divin
 tastegood.co
+tax-book
 tax-debt
 taxbook
+taxdebt
 teach-you-every
-teamproshop.co
+teamproshop
+teen female
 teen porn
+teen sex
+teen-female
 teen-porn
 teen-sex
+teenage female
+teenage-female
 teenaged female
+teenaged-female
 teeniepant
+teenporn
 teensex
 teenwebcam
 tees hollister
@@ -6541,6 +6579,7 @@ testosterone-boost
 testrun
 testuser
 tetracycline
+texans-jersey
 texansjersey
 tgf@
 thailove
@@ -6550,9 +6589,11 @@ thatprofit
 the the
 the threading
 the_benefits_of
+the_best
 the-benefits-of
 the-best-treatment
 the-diet
+the-hypothyroid
 the-latest-
 the-most-common
 the-most-detail
@@ -6566,6 +6607,7 @@ theeasy
 theguest
 thehypothyroid
 theme sale
+theme-basic
 theme-generat
 theme-sale
 themebasic
@@ -6577,18 +6619,22 @@ themesforwindows
 therealest
 thetopdog
 theyll
-things-consumers
+things-consume
 things-we-love
 this weblog
 this-review
 thm.htm
 thomas sabot
+thomas-sabot
 thomasfat
+thomassabo-sale
+thomassabo-uk
 thomassabosale
 thomassabouk
 thread_id
 threadid
 thumb.jpeg
+thumb.jpg
 thyromine
 tiffany france
 tiffany jewel
@@ -6995,6 +7041,7 @@ uk.webeden
 uk/mulberry
 uk/prada
 ukclsale
+ukgardenhouses
 ukhandbag
 ukloan
 ukmall
