@@ -154,17 +154,23 @@ _vti
 -loan-
 -loans-
 -longchamp-
+-longchamp.
+-longchamp/
+-lottery-
 -lottery.
 -lottery/
+-lotto-
 -lotto.
 -lotto/
 -lover-
+-lover/
 -magazin-
 -magazini-
 -malware-
 -malware/
 -marant-
 -marc-jacobs-
+-marcjacobs-
 -mastery.
 -mastery/
 -mbt.
@@ -201,8 +207,12 @@ _vti
 -pokies-
 -pozew-
 -prada-
+-prada/
 -premium-
+-premium/
+-programy-
 -programy.
+-programy/
 -promo-
 -promo.
 -promo/
@@ -348,6 +358,7 @@ _vti
 .online.pl
 .online.ws
 .or.kr
+.org/,
 .org/user
 .outlet.co
 .php?
@@ -3622,6 +3633,7 @@ highprofile
 highprotein
 hingenieur
 hitfit
+hjblog
 hleepd
 hndeds
 hogan out
