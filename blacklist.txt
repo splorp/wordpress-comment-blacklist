@@ -302,7 +302,6 @@ _vti
 ?firma
 ?kat
 ?lang
-?p=blog
 ?sexy
 ?store
 ?title
@@ -978,9 +977,18 @@ _vti
 +louboutin
 +outlet/
 <a>
+=blog
+=captcha
+=node
+=profile
+=read
+=space
+=thread
 =utf8
+=view
 >.}
 >canada goose<
+>enter
 >ugg
 >woolr
 >www<
@@ -1100,8 +1108,6 @@ acid-reflux
 acnecyst
 acnetreatment
 acomplia
-action=profile
-action=view
 activation code
 activity/p/
 actonel
@@ -1567,6 +1573,7 @@ blog/online
 blog/owner
 blog/post
 blog/view
+blog<
 blogbeast
 blogentry_
 blogentry.
@@ -1663,6 +1670,7 @@ brand-nba
 brand-nhl
 brandengage
 brandjp
+brandpurse
 bravemed
 braves jersey
 braves-jersey
@@ -2213,6 +2221,7 @@ cigar-cuba
 cigar-online
 cigar-store
 cigarcuba
+cigarettes<
 cigaronline
 cigarrette
 cigars-cuba
@@ -2342,7 +2351,6 @@ com/ugg
 com/user
 com%2c
 com2.php
-command=read
 comment-page
 commentabout
 commentsyou
@@ -2594,7 +2602,6 @@ djstool
 djtool
 dk http
 dlphone
-do=blog
 doable program
 doable-program
 doableprogram
@@ -3078,7 +3085,6 @@ fruta planta
 frutaplanta
 fuckdown
 func.php
-func=view
 fund market
 fund-market
 fundmarket
@@ -4533,6 +4539,8 @@ marketingbook
 marketinghero
 marketingtip
 marketingxchange
+marlboro cigar
+marlboro-cigar
 mass-facebook
 massarticle
 massive-web
@@ -4767,10 +4775,7 @@ mobile sim
 mobile-phone
 mobistealth
 moczanowa
-mod=space
-mod=viewthread
 modafinil
-mode=view
 models.in
 moderowany
 moduleinstance
@@ -4995,14 +5000,17 @@ musclesupplement
 muscularwom
 muzyczna
 muzyczny
+my bebo
 my blog
 my hermes
 my homepage
 my website
 my_profile
+my-bebo
+my-blog
 my-hermes
 my-homepage
-my-new-ipad
+my-new-ip
 my-virus
 my-website
 mydead-
@@ -5020,8 +5028,7 @@ nailsjapan
 najlepsze
 nakedteen
 naltrexone
-name-brand-
-namebrandpurse
+name-brand
 nanogold
 naproxen
 nat&#252;rlich
@@ -5090,6 +5097,7 @@ nhlreplica
 niaspan
 nicki-mariah
 nicoban
+nicolasbit
 nieruchomosci
 nike free
 nike jersey
@@ -5138,13 +5146,15 @@ nizoral
 nm.ru
 no collateral
 no guarant
+no-cache
 no-collateral
+no-credit
 no-fuss
 no-guarant
 no-hassle
 no-prescription
 no1.co
-nocache=1
+nocache
 nocredit
 nohassle
 nolvadex
@@ -5787,8 +5797,6 @@ pursesout
 puzzle maker
 puzzle-maker
 puzzlemaker
-q=blog
-q=node
 qampuz
 qry_page
 qtrade
@@ -6669,7 +6677,9 @@ thetopdog
 theyll
 things-consume
 things-we-love
+this blog
 this weblog
+this-blog
 this-review
 thm.htm
 thomas sabot
@@ -7224,7 +7234,6 @@ view_entry
 view-article
 view-blog
 view-entry
-view=captcha
 viewarticle
 viewblog
 viewentry
