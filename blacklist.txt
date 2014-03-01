@@ -68,8 +68,10 @@ _vti
 -cigar.
 -cigarette-
 -cigarette.
+-cigarette/
 -cigarettes-
 -cigarettes.
+-cigarettes/
 -cigars.
 -co.jp
 -cock-
@@ -188,6 +190,7 @@ _vti
 -models.co
 -mortgage-
 -new-car-
+-newports/
 -nude-
 -nudes-
 -oakley.
@@ -220,6 +223,7 @@ _vti
 -promotions.
 -promotions/
 -pussy-
+-rayban.
 -rdnk-
 -real-estate-
 -realestate-
@@ -279,6 +283,7 @@ _vti
 -vaginal-
 -vendita-
 -vuitton-
+-wayfarer.
 -web-page
 -web-site
 -webhost.
@@ -292,6 +297,7 @@ _vti
 -xchange
 ･・
 ､､
+:)!
 ! .
 !?’
 !@#
@@ -397,6 +403,7 @@ _vti
 .univer.
 .us/user
 .webs.co
+.womens-trainers
 .xn--
 .za/image
 ''
@@ -504,6 +511,7 @@ _vti
 /birkin.
 /bitcoin-
 /black-friday
+/blog:
 /blog.
 /blogid
 /bloglist/
@@ -542,6 +550,10 @@ _vti
 /chrome/
 /chrome=
 /cigar-
+/cigarette-
+/cigarette.
+/cigarettes-
+/cigarettes.
 /cigars-
 /ck.
 /cl/
@@ -606,6 +618,7 @@ _vti
 /fotka.
 /foto.
 /fpdb/
+/free/
 /fuck-
 /fuck.
 /fucked-
@@ -691,6 +704,7 @@ _vti
 /js.
 /js/
 /just.
+/kd6
 /kinder-moncler
 /kommentar
 /konsultan
@@ -753,6 +767,8 @@ _vti
 /netwerk/
 /network/
 /new.
+/newports-
+/newports.
 /news.
 /newsletter/
 /newsletters/
@@ -773,6 +789,7 @@ _vti
 /oakleycan
 /offering/
 /ok.php
+/online.
 /orderpage/
 /orgasm
 /outils/
@@ -801,6 +818,7 @@ _vti
 /private/
 /product/0/
 /produkter/
+/proficient-
 /profil/
 /profile.php
 /prolist
@@ -810,7 +828,11 @@ _vti
 /pumps.
 /q.
 /ra.php
+/ray-ban-
+/ray-ban.
 /ray-ban/
+/rayban-
+/rayban.
 /read.php
 /readme.
 /readnews.
@@ -850,6 +872,7 @@ _vti
 /special.
 /specials-
 /specials.
+/start.
 /strona-
 /strona/
 /strony-
@@ -902,6 +925,8 @@ _vti
 /visit.
 /visite.
 /vuittonpascher.
+/wayfarer-
+/wayfarer.
 /web-design/
 /web0/
 /web1/
@@ -927,6 +952,7 @@ _vti
 /ww.
 /x.co
 /xchange
+/xe/
 /xml/
 /xn--
 /ya.
@@ -1005,6 +1031,7 @@ _vti
 1stop
 1test
 1to1
+2-global
 2.cfm
 2.in
 2@1
@@ -1012,6 +1039,7 @@ _vti
 2@3
 2bj.ru
 2c.in
+2global
 2itb
 2sale
 2test
@@ -1077,12 +1105,14 @@ abcwatch
 abercrombie kid
 abercrombie man
 abercrombie men
+abercrombie outlet
 abercrombie uomo
 abercrombie wom
 abercrombie-ital
 abercrombie-kid
 abercrombie-man
 abercrombie-men
+abercrombie-outlet
 abercrombie-uomo
 abercrombie-wom
 abercrombiee
@@ -1090,6 +1120,7 @@ abercrombieital
 abercrombiekid
 abercrombieman
 abercrombiemen
+abercrombieoutlet
 abercrombieuomo
 abercrombiewom
 abilify
@@ -1120,6 +1151,15 @@ actually-thank
 acutual
 acyclovir
 ad-wiki
+adbeat distrib
+adbeat expert
+adbeat trial 
+adbeat-distrib
+adbeat-expert
+adbeat-trial 
+adbeatdistrib
+adbeatexpert
+adbeattrial 
 addarticle
 adderall
 adderoll
@@ -1160,6 +1200,9 @@ admin5
 ados populaire
 ados-populaire
 adospopulaire
+ads crack
+ads-crack
+adscrack
 adsjeremy
 adsplus
 adsuse.
@@ -1210,6 +1253,7 @@ aksudmias
 albuterol
 alendronate
 alkotla
+all-about-the
 allbestedmed
 allbestmed
 allianz/
@@ -1436,28 +1480,39 @@ beeday
 beenpaid
 before-purchasing
 behaviour-driven
+behind-knee
+behindknee
 beijing-escort
 beijing-massage
 beijingescort
 beijingmassage
+belize propert
+belize-propert
+belizepropert
 belly-fat
 belstaff bota
 belstaff chaqueta
 belstaff cuero
+belstaff espa
 belstaff españa
 belstaff handbag
+belstaff leder
 belstaff out
 belstaff-bota
 belstaff-chaqueta
 belstaff-cuero
+belstaff-espa
 belstaff-españa
 belstaff-handbag
+belstaff-leder
 belstaff-out
 belstaffbota
 belstaffchaqueta
 belstaffcuero
+belstaffespa
 belstaffespaña
 belstaffhandbag
+belstaffleder
 belstaffoutlet
 belt replica
 belt-replica
@@ -1542,6 +1597,7 @@ biz.ru
 biznes
 bizstore
 biztalk
+biztout
 biżuteria
 black ugg
 black-ugg
@@ -1700,6 +1756,7 @@ brunocabas
 btn-phone
 btshoe
 buddie
+buddreview
 bukmacher
 bullion-account
 bumpant
@@ -1756,6 +1813,8 @@ burch-out
 burch-sale
 burchout
 burchsale
+business empire
+business-empire
 business-in
 business-loan
 business-market
@@ -1899,13 +1958,16 @@ cartuchos
 casaemail.co
 casebycase
 casesolution
+cash generator
 cash loan
 cash-advance
+cash-generator
 cash4gold
 cash4silver
 cashadvance
 cashforgold
 cashforsilver
+cashgenerator
 cashloan
 cashout
 casino online
@@ -1994,6 +2056,10 @@ chaqueta-cuero
 chaqueta-oferta
 chaquetacuero
 chaquetaoferta
+chaquetas belstaff
+chaquetas-belstaff
+chaquetasbelstaff
+charlescave
 charms thomas
 charms-thomas
 charmsthomas
@@ -2041,6 +2107,9 @@ cheap bag
 cheap basket
 cheap beat
 cheap bike
+cheap carolina
+cheap carton
+cheap cheap
 cheap china
 cheap christian
 cheap denver
@@ -2077,7 +2146,10 @@ cheap-bag
 cheap-basket
 cheap-beat
 cheap-bike
+cheap-carolina
+cheap-carton
 cheap-chanel
+cheap-cheap
 cheap-china
 cheap-christian
 cheap-converse
@@ -2213,6 +2285,8 @@ chrismas.asp
 christian-louboutin
 christianlouboutin
 chrr-llc
+chung hightop
+chung-hightop
 cialis
 ciallis
 cig-online
@@ -2221,7 +2295,9 @@ cigar-cuba
 cigar-online
 cigar-store
 cigarcuba
+cigarettebuy
 cigarettes<
+cigarettesbuy
 cigaronline
 cigarrette
 cigars-cuba
@@ -2229,10 +2305,12 @@ cigars-online
 cigarscuba
 cigarsonline
 cigarstore
+cigbuy
 cigonline
 cigpromo
 cigs-online
 cigs-promo
+cigsbuy
 cigsonline
 cigspromo
 ciproanti
@@ -2351,10 +2429,12 @@ com/ugg
 com/user
 com%2c
 com2.php
+comedyee
 comment-page
 commentabout
 commentsyou
 community.atom
+commutee
 como ganhar
 como-ganhar
 compare price
@@ -2403,6 +2483,8 @@ couponsense
 coverages
 cozy-ugg
 cozyugg
+cracked-pro
+crackedpro
 crane-hire
 cranehire
 create-product
@@ -2634,6 +2716,8 @@ dolphinsjersey
 domainbie
 dominate-seo
 dominateseo
+domination-secret
+dominationsecret
 donna-donn
 donne-donn
 dos-seios
@@ -2727,6 +2811,8 @@ emailsvip
 emailvip
 emarketing
 emiliopucci
+empower-network
+empowernetwork
 eneugh
 eng/faq
 enhance-your
@@ -2781,6 +2867,9 @@ essays-service
 essaysempire
 essayservice
 essaysservice
+estate pro
+estate-pro
+estatepro
 estradiol
 etherdq
 euro-million
@@ -2831,12 +2920,17 @@ face-vest
 face-women
 facebok
 facebook advert
+facebook cash
 facebook classified
+facebook-ads
 facebook-advert
+facebook-cash
 facebook-classified
 facebook-fan
 facebook-traffic
+facebookads
 facebookadvert
+facebookcash
 facebookclassified
 facebookfan
 facebooklike
@@ -2870,6 +2964,8 @@ falsedoc
 falsepassport
 fanshome
 farmacias
+farming-secrets
+farmingsecrets
 fashion-boot
 fashion-classic
 fashionboot
@@ -2882,7 +2978,11 @@ fastloan
 fat-loss
 fatloss
 favorite website
+fb-ads
+fb-cash
 fb-traffic
+fbads
+fbcash
 fbfans
 fblike
 fcukfcuk
@@ -2914,6 +3014,9 @@ ferragamolove
 ferragamosale
 ferragamoshop
 ferragamotie
+fg xpress
+fg-xpress
+fgxpress
 fibromyalgia
 fightmark
 filmizle
@@ -2939,8 +3042,11 @@ firefoxik.ru
 firm.ru
 firma.php
 fitch gilet
+fitch outlet
 fitch-gilet
+fitch-outlet
 fitchgilet
+fitchoutlet
 fitflop
 fivestardoll
 fix-credit
@@ -3014,6 +3120,7 @@ fr/canada
 fr/longchamp
 fr/pascher
 fradidas
+frames/index
 francemaillot
 fraudcenter
 frauen puma
@@ -3111,6 +3218,8 @@ furworld.ru
 futbol barcelona
 futbol-barcelona
 futbolbarcelona
+futuristic-market
+futuristicmarketing
 g-string
 gabapentin
 gabbana store
@@ -3255,6 +3364,7 @@ goldingot
 goldjewelry
 goldseiko
 goldsuppl
+goldtruth
 golf-promo
 golf-shop
 golfplaza
@@ -3351,6 +3461,7 @@ gooseshop
 goosevest
 gooseyorkville
 gooseyouth
+goshop.
 gotowkowa
 gotowkowe
 gown-love
@@ -3642,13 +3753,16 @@ hitfit
 hjblog
 hleepd
 hndeds
+hogan online
 hogan out
 hogan shoe
+hogan-online
 hogan-out
 hogan-shoe
 hoganoutlet
 hoganshoe
 hogansito
+holdinga
 hollister brasil
 hollister nantes
 hollister online
@@ -3656,6 +3770,7 @@ hollister pas
 hollister shirt
 hollister sverige
 hollister swim
+hollister uk
 hollister-brasil
 hollister-deutsch
 hollister-nantes
@@ -3664,6 +3779,7 @@ hollister-pas
 hollister-shirt
 hollister-sverige
 hollister-swim
+hollister-uk
 hollisterbrasil
 hollisterdeutsch
 hollisternantes
@@ -3671,6 +3787,7 @@ hollisteronline
 hollistershirt
 hollistersverige
 hollisterswim
+hollisteruk
 home-based
 home-loan
 home-remed
@@ -3746,6 +3863,7 @@ htm?r
 html-article
 html?r
 htmllink
+http://www.cnpbrands.com.au
 hugescock
 hungurian
 huntingtexas
@@ -3762,6 +3880,7 @@ hypothyroidism
 hyzaar
 i-will-be
 ï¿½
+i2g
 ia€?ll
 icon/set
 icons/set
@@ -3804,6 +3923,8 @@ index/css
 indexold
 indicators.co
 inetry
+infinity-2
+infinity2
 info/product
 info/tag
 info/user
@@ -3814,6 +3935,7 @@ informatik
 informative post
 infos-
 infos/
+infusionsoft
 infеcted crash
 infеcted-crash
 ington boot
@@ -3855,9 +3977,11 @@ intdrnation
 interesting blog
 interesting-blog
 interferende
+internet lifestyle
 internet page
 internet poker
 internet site
+internet-lifestyle
 internet-market
 internet-poker
 internet-site
@@ -3923,6 +4047,8 @@ italyshop
 italystore
 itemnotfound
 iг
+jacken-online
+jackenonline
 jackenwest
 jacket canada
 jacket sale
@@ -4033,6 +4159,8 @@ jjl
 joggingstroller
 jogos
 john-varvatos
+joint-pain
+jointpain
 jordan 1
 jordan 11
 jordan gamma
@@ -4124,6 +4252,10 @@ kinoonline
 kitai
 klonopin
 klub.ru
+knee-joint
+knee-pain
+kneejoint
+kneepain
 knicely
 knigki
 knigko
@@ -4203,20 +4335,26 @@ lasertherapy
 lasix
 latonya.
 lauren cheap
+lauren dame
 lauren out
 lauren polo
 lauren sale
+lauren sverige
 lauren uk
 lauren-cheap
+lauren-dame
 lauren-out
 lauren-polo
 lauren-sale
+lauren-sverige
 lauren-uk
 laurencheap
+laurendame
 laurenout
 laurenpolo
 laurenralph
 laurensale
+laurensverige
 laurenuk
 lawoffice.net
 le_link
@@ -4237,6 +4375,8 @@ led_down
 led_flood
 led_indust
 led_street
+leder-jacken
+lederjacken
 leg-wear
 legal-steroid
 legalbud
@@ -4348,9 +4488,11 @@ longchamp aus
 longchamp bag
 longchamp pas
 longchamp solde
+longchamp uk
 longchamp-aus
 longchamp-shop
 longchamp-solde
+longchamp-uk
 longchamp.php
 longchampaus
 longchampbag
@@ -4403,13 +4545,17 @@ louboutinsolde
 louboutinspas
 louboutinuk
 louis vitton
+louis vuittone
 louis_vuitton
 louis-vuitton
+louis-vuittone
 louis+vuitton
 louisvuit.
 louisvuitton
 louiswuitton
 lovelv
+lovely thong
+lovely-thong
 lovelyto
 lovemyhair
 lovingnatural
@@ -4475,6 +4621,7 @@ madeye30
 magazine/page1
 magazine/page2
 magicmoncler
+mail_list
 mail.ru
 maillot ukraine
 maillot-enfant
@@ -4531,14 +4678,24 @@ marantsneaker
 marcjacobsjap
 marcjacobsjp
 margreet.
+market samurai
+market-samurai
+marketing online
+marketing samurai
+marketing-blog
 marketing-book
 marketing-marketing
+marketing-online
+marketing-samurai
 marketing-tip
 marketing.in
+marketingblog
 marketingbook
 marketinghero
+marketingsamurai
 marketingtip
 marketingxchange
+marketsamurai
 marlboro cigar
 marlboro-cigar
 mass-facebook
@@ -4923,6 +5080,7 @@ money primar
 money-making
 money-primar
 money-site
+money-with
 money.htm
 moneyfast
 moneymak
@@ -4996,7 +5154,11 @@ mulberryhandbag
 mulberrypurse
 mulberrytop
 muscle-supplement
+muscles exercis
+muscles-exercis
 musclesupplement
+muscular abdomen
+muscular-abdomen
 muscularwom
 muzyczna
 muzyczny
@@ -5004,6 +5166,7 @@ my bebo
 my blog
 my hermes
 my homepage
+my online
 my website
 my_profile
 my-bebo
@@ -5011,15 +5174,20 @@ my-blog
 my-hermes
 my-homepage
 my-new-ip
+my-online
 my-virus
 my-website
 mydead-
 mydomain
+myfitness
 mygiftcard
 myhermes
+myknee
 myleadsystem
 mylupus
 mynewsite
+mynfl
+myonline
 myqrop
 myreview.co
 mytest
@@ -5046,11 +5214,18 @@ nba_jersey
 nba-cappelli
 nba-jersey
 nbajersey
+nbshoe
 needmoney
 net/bilder
 net/fr/
 net/members/
 netload.in
+network scam
+network truth
+network-scam
+network-truth
+networkscam
+networktruth
 neurontin
 new gucci
 new jordan
@@ -5070,6 +5245,9 @@ newgucci
 newhong
 newjordan
 newoakley
+newport 100s
+newport-100s
+newport100s
 news.in
 news/article
 newsarticle
@@ -5102,6 +5280,7 @@ nieruchomosci
 nike free
 nike jersey
 nike jordan
+nike kd
 nike run
 nike shoe
 nike total
@@ -5113,6 +5292,7 @@ nike-free
 nike-freerun
 nike-jersey
 nike-jordan
+nike-kd
 nike-main
 nike-run
 nike-shoe
@@ -5248,6 +5428,9 @@ offer.net
 offer.weebly
 offeroutlet
 offerwatch
+office autopilot
+office-autopilot
+officeautopilot
 official website
 official-sale
 official-steeler
@@ -5314,6 +5497,7 @@ onlinecash
 onlinecasino
 onlinecert
 onlinedating
+onlinede.
 onlineinvest
 onlinejp
 onlinekredit
@@ -5342,6 +5526,7 @@ optionstrad
 oral-sex
 order_type
 ordersoma
+organogold
 orgazma
 oriflame
 orlistat
@@ -5356,11 +5541,13 @@ outlet canada
 outlet france
 outlet handbag
 outlet hermes
+outlet hogan
 outlet louis
 outlet oakley
 outlet online
 outlet shoe
 outlet store
+outlet uk
 outlet usa
 outlet woolrich
 outlet_store
@@ -5369,6 +5556,7 @@ outlet-canad
 outlet-canada
 outlet-france
 outlet-hermes
+outlet-hogan
 outlet-japan
 outlet-louis
 outlet-mart
@@ -5377,6 +5565,7 @@ outlet-sale
 outlet-shoe
 outlet-shop
 outlet-store
+outlet-uk
 outlet-usa
 outlet-web
 outlet-woolrich
@@ -5413,6 +5602,7 @@ outletshop
 outletsonline
 outletssale
 outletstore
+outletuk
 outletusa
 outletweb
 outletwoolrich
@@ -5429,7 +5619,9 @@ packersjersey
 page.tl
 page/page
 pagss.htm
+pain-behind
 pain-relief.
+painbehind
 painrelief.
 paintedfor
 panda-shoe
@@ -5456,8 +5648,10 @@ paneraiwatch
 panier site
 panier-site
 paniersite
+panthers jersey
 panthers merch
 panthers store
+panthers-jersey
 panthers-merch
 panthers-store
 panthersmerch
@@ -5472,6 +5666,7 @@ pantymania
 pantypic
 pantyplay
 parajumpers
+paretologic 
 paris model
 paris-for
 paris-model
@@ -5483,6 +5678,7 @@ party-poker
 partypoker
 pascherfr
 pascheroakley
+passprefix
 password generat
 password-generat
 passwort
@@ -5513,10 +5709,13 @@ paypal-cash
 paypalcash
 payroll-calc
 pbrolme
+pc health
 pc windows
 pc-access
+pc-health
 pc-windows
 pcaccess
+pchealthadvis
 pcstuff
 penis.co
 penisadv
@@ -5573,6 +5772,7 @@ phpbb2/profile
 phpbb2/user
 phpinfo.php
 phync
+pidarashechk
 pignee
 pillonline
 pills.co
@@ -5605,6 +5805,7 @@ plz-respond
 poco prezzo
 poco-prezzo
 point|per
+poished
 pojapan
 poker-chip
 poker-money
@@ -5744,9 +5945,13 @@ promocja
 promocode
 promoshop
 promostore
+promosystem
 promotional bag
 propecia
 proper-ugg
+property pro
+property-pro
+propertypro
 properugg
 propranolol
 prostitutki
@@ -5768,17 +5973,24 @@ pucci-out
 puccidress
 pucciout
 pufy.
+puma deutsch
 puma ferrari
 puma outlet
 puma paidat
 puma schuhe
 puma sneaker
+puma-deutsch
+puma-drifter
 puma-ferrari
+puma-lauf
 puma-outlet
 puma-paidat
 puma-schuhe
 puma-sneaker
+pumadeutsch
+pumadrifter
 pumaferrari
+pumalauf
 pumaoutlet
 pumapaidat
 pumaschuhe
@@ -5990,6 +6202,8 @@ review-source
 review.asp
 review.htm
 review.in
+reviews.asp
+reviews.htm
 reviews.in
 reviews.net
 reviews.org
@@ -6020,6 +6234,9 @@ roleplay
 rolex-watch
 rolexwatch
 roofingcontractor
+ropa belstaff
+ropa-belstaff
+ropabelstaff
 rosettastoneeasy
 rosuvastatin
 rotating-hot-iron
@@ -6067,6 +6284,9 @@ sacslancel
 sacvanessa
 sacvuitton
 sadehap
+saints jersey
+saints-jersey
+saintsjersey
 saldi online
 saldi-online
 saldionline
@@ -6416,6 +6636,8 @@ socialnetworkbuzz
 socialnetworksbuzz
 societys
 soeasy
+soft-secrets
+softsecrets
 software-secret
 software.in
 softwaresecret
@@ -6451,6 +6673,9 @@ speedy-product
 spip.php
 splendid department
 splendid-department
+sponsoring secret
+sponsoring-secret
+sponsoringsecret
 sportbikepart
 sportbook
 sportsbet
@@ -6519,6 +6744,8 @@ stylevip
 stylomontblanc
 stylowe
 succeed-online
+success you
+success-you
 successful blog
 successful-blog
 sucesso.co
@@ -6569,6 +6796,7 @@ system-pro
 system-review
 tabaki
 tadalafil
+tadapox
 tamiflu
 tamoxifen
 tamsulosin
@@ -6594,6 +6822,8 @@ tarikishoe
 tarot divin
 tarot-divin
 tastegood.co
+tattoo-tip
+tattootip
 tax-book
 tax-debt
 taxbook
@@ -6694,6 +6924,8 @@ threadid
 thumb.jpeg
 thumb.jpg
 thyromine
+tier business
+tier-business
 tiffany france
 tiffany jewel
 tiffany ring
@@ -6728,6 +6960,7 @@ timberlandpas
 timberlandsaldi
 timberlanduom
 time-synchronisation.co
+timesamsonss
 timeshare
 tingenieur
 tiny.cc
@@ -6736,6 +6969,7 @@ tinyurl.com
 tipblog
 tips-for-
 tips-to-start
+tips.info
 tipsblog
 tire-discount
 tire-wholesale
@@ -6774,6 +7008,7 @@ tomsforsale
 tomsout
 tomsshoe
 tomsshoes
+top tier
 top-forum
 top-list
 top-muscle
@@ -6781,6 +7016,7 @@ top-rank
 top-search
 top-seo
 top-site
+top-tier
 topamax
 topcontractor
 topforum
@@ -6812,6 +7048,9 @@ track-phone-location
 tracking-a-phone
 trading-method
 trafficz
+trailer sale
+trailer-sale
+trailersale
 training-online
 training-pro
 trainingonline
@@ -7565,6 +7804,7 @@ womens puma
 womens-bag
 womens-nike
 womens-puma
+womens-trainers.
 womenseekingmen
 womensnike
 womenspuma
@@ -7641,6 +7881,7 @@ workout-sale
 workoutsale
 workreview
 world-venture
+worlds.blog
 worldugg
 worldventure
 worldwideugg
@@ -7651,8 +7892,11 @@ wowo-site
 wowohouse
 wowosex
 wowosite
+wp robot
 wp-pad
 wp-phone
+wp-robot
+wprobot
 wpthemegen
 wristpain
 writing-service
@@ -7748,6 +7992,7 @@ www.seo
 www.sexy
 www.shoes
 www.streaming
+www.tea-
 www.top
 www.ugg
 www.unlock
@@ -7775,6 +8020,7 @@ xwebsite
 xx.co
 xx.in
 xxx
+xyngular
 yanswer
 yearold
 ynimb
@@ -7831,6 +8077,9 @@ youtube-vi
 youtubedown
 youtubevi
 youugg
+yoyo diet
+yoyo-diet
+yoyodiet
 yumeeyum
 yuuguu
 ÿþ
@@ -8069,6 +8318,7 @@ zyvox
 レプリカ
 ロレックス
 ワンランク上の
+万年筆
 人気
 仕入れ
 他の製品
