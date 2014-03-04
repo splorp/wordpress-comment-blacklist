@@ -30,6 +30,7 @@ _vti
 -auction-
 -authentic-
 -b2b
+-backpain-
 -backpain.
 -backpain/
 -beneficial-
@@ -66,6 +67,7 @@ _vti
 -cia.co
 -cigar-
 -cigar.
+-cigar/
 -cigarette-
 -cigarette.
 -cigarette/
@@ -631,6 +633,10 @@ _vti
 /fucks.
 /futbol-
 /futbol/
+/gagajapan-
+/gagajapan.
+/gagamilano-
+/gagamilano.
 /gekiyasu
 /get-free
 /get-widget
@@ -845,6 +851,8 @@ _vti
 /rozwod
 /rss.xml
 /ru/news/
+/sac-
+/sac.
 /sale-
 /sales-
 /salvia/
@@ -2295,7 +2303,11 @@ cigar-cuba
 cigar-online
 cigar-store
 cigarcuba
+cigarette online
+cigarette-online
 cigarettebuy
+cigarettes online
+cigarettes-online
 cigarettes<
 cigarettesbuy
 cigaronline
@@ -2308,6 +2320,7 @@ cigarstore
 cigbuy
 cigonline
 cigpromo
+cigs online
 cigs-online
 cigs-promo
 cigsbuy
@@ -3226,6 +3239,8 @@ gabbana store
 gabbana-store
 gabbanastore
 gaga-japan
+gaga-jp
+gaga-milano
 gagner
 gain weight
 gain-weight
@@ -3951,6 +3966,8 @@ insanity-workout
 insanity.php
 insanityworkout
 insdier
+insomnia tip
+insomnia-tip
 inspired-handbag
 inspiredhandbag
 instafab
@@ -4322,7 +4339,9 @@ ladies|for
 lamictal
 lamisil
 lancel pas
+lancel sac
 lancel-pas
+lancel-sac
 lancelad
 laplap
 lariam
@@ -4825,6 +4844,7 @@ medikal.co
 medizinische
 medphrase
 medshop
+melatonin
 meloxicam
 member.php
 memberlist.php
@@ -7425,6 +7445,8 @@ vanessabrunosac
 vaporizer pen
 varabella
 vardenafil
+vegas social
+vegas-social
 vendita
 vendorlock
 venlafaxine
@@ -8035,6 +8057,7 @@ young_porn
 young-porn
 your success
 your traffic
+your weblog
 your website
 your_account
 your_ex
@@ -8054,6 +8077,7 @@ your-profile
 your-site
 your-skin
 your-success
+your-weblog
 your-website
 your-windows
 your-your
@@ -8251,6 +8275,7 @@ zyvox
 お客
 お店を
 お金を
+ガガ
 カナダグース
 カルティエは
 ギフト
@@ -8271,6 +8296,7 @@ zyvox
 スポード
 スワロフスキー
 セイコー
+セクシー
 セリーヌ
 ダウン
 ダコタ
