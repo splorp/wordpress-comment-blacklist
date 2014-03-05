@@ -318,6 +318,7 @@ _vti
 ?browse
 ?domain
 ?firma
+?free
 ?kat
 ?lang
 ?sexy
@@ -415,7 +416,6 @@ _vti
 .univer.
 .us/user
 .webs.co
-.womens-trainers
 .xn--
 .za/image
 ''
@@ -923,6 +923,7 @@ _vti
 /top100.
 /trac/ticket/
 /trackback
+/twilight-
 /ugg-
 /ugg/
 /uggs-
@@ -1019,7 +1020,7 @@ _vti
 +handbag
 +jersey
 +louboutin
-+outlet/
++outlet
 <a>
 =blog
 =captcha
@@ -1031,11 +1032,9 @@ _vti
 =utf8
 =view
 >.}
->canada goose<
 >enter
 >ugg
 >woolr
->www<
 |porno
 000mail
 1-1.
@@ -2313,12 +2312,14 @@ cialis
 ciallis
 cig-online
 cig-promo
+cig<
 cigar-cuba
 cigar-online
 cigar-store
 cigarcuba
 cigarette online
 cigarette-online
+cigarette<
 cigarettebuy
 cigarettes online
 cigarettes-online
@@ -2337,6 +2338,7 @@ cigpromo
 cigs online
 cigs-online
 cigs-promo
+cigs<
 cigsbuy
 cigsonline
 cigspromo
@@ -2366,9 +2368,15 @@ clomid
 clonazepam
 clone-key
 clonekey
+clothes online
+clothes-online
+clothesonline
 clothing abercrombie
+clothing online
 clothing-abercrombie
+clothing-online
 clothingabercrombie
+clothingonline
 clredheel
 clsale
 clshoe
@@ -2764,7 +2772,7 @@ dre cheap
 dre-beat
 dre-beats
 dre-cheap
-dre</
+dre<
 drebeat
 drecheap
 dress link
@@ -3463,7 +3471,7 @@ goose-v
 goose-vest
 goose-yorkville
 goose-youth
-goose</
+goose<
 gooseca
 goosecanada
 goosecheap
@@ -4262,6 +4270,7 @@ karenmillen-au
 karenmillenau
 karpaczwsieci
 karuteie
+kasino
 katalog
 katespadese
 kensington parka
@@ -4314,6 +4323,7 @@ kors canada
 kors france
 kors glass
 kors handbag
+kors laptop
 kors out
 kors purse
 kors replica
@@ -4324,6 +4334,7 @@ kors-bags
 kors-canada
 kors-glass
 kors-handbag
+kors-laptop
 kors-out
 kors-purse
 kors-watch
@@ -4331,6 +4342,7 @@ korsbag
 korscanada
 korsglass
 korshandbag
+korslaptop
 korsout
 korspurse
 korswatch
@@ -4897,6 +4909,7 @@ mezzo louis
 mezzo-louis
 mezzolouis
 michael-kors
+michael+kors
 michaelkors
 mieszkania
 mieszkanie
@@ -6551,11 +6564,13 @@ shirt-cease
 shoe online
 shoe out
 shoe promo
+shoe-cloth
 shoe-japan
 shoe-online
 shoe-out
 shoe-promo
 shoe.asp
+shoecloth
 shoejapan
 shoejp.co
 shoeonline
@@ -6565,6 +6580,7 @@ shoes mbt
 shoes online
 shoes out
 shoes-cheap
+shoes-cloth
 shoes-japan
 shoes-mbt
 shoes-on-sale
@@ -6573,6 +6589,7 @@ shoes-out
 shoes.asp
 shoes+for+men
 shoesale
+shoescloth
 shoesjapan
 shoeskan
 shoesmart
@@ -7639,7 +7656,7 @@ vuitton-usa
 vuitton-wallet
 vuitton-wholesale
 vuitton-women
-vuitton</
+vuitton<
 vuittonbag
 vuittoncigar
 vuittondamier
@@ -7874,6 +7891,7 @@ womens puma
 womens-bag
 womens-nike
 womens-puma
+womens-trainer
 womens-trainers.
 womenseekingmen
 womensnike
@@ -8070,6 +8088,7 @@ www.videos
 www.wholesale
 www.win
 www.wtf
+www<
 wwwpctool
 wypoczynku
 wyposazenie
