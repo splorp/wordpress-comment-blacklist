@@ -30,6 +30,7 @@ As mentioned above, the keywords in the blacklist are based on spam submitted to
 
 + bit.ly
 + clck.ru
++ goo.gl
 + is.gd
 + snipurl.com
 + tinyurl.com
