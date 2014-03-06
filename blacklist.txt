@@ -1499,7 +1499,7 @@ beautifulwom
 bee-pollen.
 beeday
 beenpaid
-before-purchasing
+before-purchas
 behaviour-driven
 behind-knee
 behindknee
@@ -2542,7 +2542,8 @@ cuirvanessa
 cure.co.
 curehelp
 cures.co.
-currency-trading
+currency trad
+currency-trad
 custom-nike
 custom-rim
 custom-wheel
@@ -2920,9 +2921,12 @@ every advertise
 every1bet
 everythink
 evryday
+excelent
+excellent site
+excellent-site
 exclusive.ru
+executive search
 executive-search
-executivesearch
 exelon
 exit.asp
 expensive vacation
@@ -2956,17 +2960,17 @@ face-women
 facebok
 facebook advert
 facebook cash
-facebook classified
+facebook classi
 facebook-ads
 facebook-advert
 facebook-cash
-facebook-classified
+facebook-classi
 facebook-fan
 facebook-traffic
 facebookads
 facebookadvert
 facebookcash
-facebookclassified
+facebookclassi
 facebookfan
 facebooklike
 facejacket
@@ -3002,7 +3006,7 @@ farmacias
 farming-secrets
 farmingsecrets
 fashion-boot
-fashion-classic
+fashion-classi
 fashionboot
 fashionbracelet
 fashionistblog
@@ -3164,6 +3168,7 @@ fraudcenter
 frauen puma
 frauen-puma
 frauenpuma
+free classi
 free gay
 free prescription
 free visitor
@@ -3172,7 +3177,7 @@ free-bbs
 free-bid
 free-brows
 free-casino
-free-classified
+free-classi
 free-gay
 free-ipad
 free-iphone
@@ -3192,6 +3197,7 @@ freebbs
 freebid
 freebrows
 freecasino
+freeclassi
 freedating
 freefor.co
 freegay
@@ -3257,7 +3263,7 @@ futbol barcelona
 futbol-barcelona
 futbolbarcelona
 futuristic-market
-futuristicmarketing
+futuristicmarket
 g-string
 gabapentin
 gabbana store
@@ -3724,6 +3730,8 @@ hemorroide
 hence choose
 hentai
 herbal tincture
+herbal-medicin
+herbal-smoking
 herbal-tincture
 herbalmedicin
 herbalsmoking
@@ -4733,7 +4741,7 @@ marketing online
 marketing samurai
 marketing-blog
 marketing-book
-marketing-marketing
+marketing-market
 marketing-online
 marketing-samurai
 marketing-tip
@@ -5140,7 +5148,7 @@ mondaydeal
 mondaysale
 mondayugg
 money primar
-money-making
+money-mak
 money-primar
 money-site
 money-with
@@ -5544,6 +5552,7 @@ oneminutesite
 onenike
 online cash
 online casino
+online classi
 online dating
 online loan
 online out
@@ -5554,7 +5563,7 @@ online-business
 online-cash
 online-casino
 online-cert
-online-classified
+online-classi
 online-dating
 online-invest
 online-kredit
@@ -5938,7 +5947,7 @@ poznan
 pozycjonowanie
 pozyczka
 pozyczki
-pp-classified
+pp-classi
 prada bag
 prada cheap
 prada dress
@@ -6386,6 +6395,7 @@ sale-miami
 sale-oakley
 sale-template
 sale-tokyo
+sale-training
 sale.co.
 sale.weebly
 sale4u
@@ -6399,15 +6409,18 @@ salemiami
 saleoakley
 saleonline
 saleout
+sales-class
 sales-factory
 sales-inspir
+sales-train
 sales-training
 sales.co.
 sales+
-salesclassroom
+salesclass
 salesfactory
 saleshop
 salesshop
+salestrain
 salestraining
 saletemplate
 saletokyo
@@ -6657,12 +6670,11 @@ silverjewelry
 sim-only
 sinequan
 singapore.htm
-site positioning
+site position
 site traffic
 site_backup
 site-google
 site-position
-site-positioning
 site-traffic
 site.co
 site.in
@@ -7192,7 +7204,7 @@ ugg botte
 ugg brown
 ugg brux
 ugg cheap
-ugg classic
+ugg classi
 ugg dakota
 ugg elsey
 ugg enfant
@@ -7233,7 +7245,7 @@ ugg-botte
 ugg-brown
 ugg-brux
 ugg-cheap
-ugg-classic
+ugg-classi
 ugg-comfort
 ugg-elsey
 ugg-enfant
@@ -7286,7 +7298,7 @@ uggbotte
 uggbrown
 uggbrux
 uggcheap
-uggclassic
+uggclassi
 uggclog
 uggcomfort
 uggdakota
@@ -7316,7 +7328,7 @@ uggs bebe
 uggs black
 uggs boot
 uggs brux
-uggs classic
+uggs classi
 uggs elsey
 uggs femme
 uggs hot
@@ -7342,7 +7354,7 @@ uggs-bebe
 uggs-black
 uggs-boot
 uggs-brux
-uggs-classic
+uggs-classi
 uggs-elsey
 uggs-femme
 uggs-for
@@ -7376,7 +7388,7 @@ uggsblack
 uggsboot
 uggsbrux
 uggscheap
-uggsclassic
+uggsclassi
 uggselsey
 uggsfemme
 uggsfor
@@ -7535,9 +7547,9 @@ veste moncler
 veste-moncler
 vestemoncler
 vestidos
-veston classique
-veston-classique
-vestonclassique
+veston classi
+veston-classi
+vestonclassi
 vetement-femme
 vetement-homme
 veterinarnaya
@@ -7715,9 +7727,10 @@ wdmypass
 weave-hair
 weavehair
 web anal
+web promo
 web-anal
 web-hosting
-web-promotion
+web-promo
 web-site
 web-solution
 web-traffic
@@ -7742,6 +7755,7 @@ webnode.it
 webnode.nl
 webpag
 webpharma
+webpromo
 webpromotion
 websex
 website online
@@ -8037,8 +8051,7 @@ www.fotograf
 www.fotomania
 www.freerun
 www.fullsize
-www.gamble
-www.gambling
+www.gambl
 www.game
 www.gift
 www.goosepa
@@ -8083,6 +8096,7 @@ www.shoes
 www.streaming
 www.tea-
 www.top
+www.torrent
 www.ugg
 www.unlock
 www.videos
