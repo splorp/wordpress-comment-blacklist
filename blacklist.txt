@@ -137,6 +137,7 @@ _vti
 -gifts-
 -handbag-
 -handbags-
+-harley-davidson-
 -herbal-
 -hermes-
 -income-
@@ -296,7 +297,7 @@ _vti
 -vendita-
 -vuitton-
 -wayfarer.
--web-page
+-web-pag
 -web-site
 -webhost.
 -website-
@@ -313,7 +314,7 @@ _vti
 ! .
 !?’
 !@#
-?/page
+?/pag
 ?add
 ?browse
 ?domain
@@ -327,6 +328,7 @@ _vti
 ?twid
 ?user
 ?view
+.%
 .acgi
 .adboard
 .adsboard
@@ -440,6 +442,7 @@ _vti
 /?l1/
 /?l2/
 /?new-
+/?pag
 /?uid-
 /.wd/
 //123.
@@ -929,6 +932,7 @@ _vti
 /uggs-
 /uggs.
 /uggsal/
+/update/
 /upload/
 /uploads/
 /url/
@@ -1574,6 +1578,7 @@ bestdirect
 bestdiscount
 bestdrug
 bestfake
+bestfit
 bestjersey
 bestlaptop
 bestpant
@@ -1769,6 +1774,10 @@ bridalgown
 bridalshop
 brinkjewel
 britanniahotel
+brittany-battle
+brittanybattle
+brittny-battle
+brittnybattle
 broncos hat
 broncos-hat
 broncos-jersey
@@ -2475,7 +2484,7 @@ com/user
 com%2c
 com2.php
 comedyee
-comment-page
+comment-pag
 commentabout
 commentsyou
 community.atom
@@ -2517,13 +2526,13 @@ couchey fr
 couchey-fr
 coucheyfr
 coumadin
-coupon_page
+coupon_pag
 coupon-code
-coupon-page
+coupon-pag
 coupon.blog
 couponcode
-coupons_page
-coupons-page
+coupons_pag
+coupons-pag
 couponsense
 coverages
 cozy-ugg
@@ -2948,6 +2957,8 @@ extremely}
 eyeglass sale
 eyeglasssale
 f_blog_id
+faar more
+faar-more
 fabulous drug
 fabulous-drug
 fabulousdrug
@@ -3012,6 +3023,8 @@ fakesunglass
 falsedoc
 falsepassport
 fanshome
+fantastic blog
+fantastic-blog
 farmacias
 farming-secrets
 farmingsecrets
@@ -3242,6 +3255,8 @@ fridaysale
 fridayugg
 frlongchamp
 frmoncler
+fruitful design
+fruitful-design
 fruta planta
 frutaplanta
 fuckdown
@@ -3327,6 +3342,8 @@ generatingcash
 generatingmoney
 generatorpro
 genuine-pandora
+genuinely fruitful
+genuinely-fruitful
 genuinepandora
 germanylove
 gestione
@@ -3532,8 +3549,10 @@ goyardonline
 gratuitos
 graypanther
 great article
+great goods
 great-article
 great-essay
+great-goods
 great-things
 great}
 greatbet
@@ -3886,6 +3905,8 @@ hotpanty
 hotsale
 hotsunglass
 hottag
+hottest update
+hottest-update
 hourpayday
 how_do_
 how-do-you
@@ -4039,7 +4060,7 @@ interesting blog
 interesting-blog
 interferende
 internet lifestyle
-internet page
+internet pag
 internet poker
 internet site
 internet-lifestyle
@@ -4449,6 +4470,8 @@ leg-wear
 legal-steroid
 legalbud
 legalsteroid
+legends hack
+legends-hack
 leger band
 leger-band
 legerband
@@ -4556,10 +4579,12 @@ longchamp aus
 longchamp bag
 longchamp pas
 longchamp solde
+longchamp tasche
 longchamp uk
 longchamp-aus
 longchamp-shop
 longchamp-solde
+longchamp-tasche
 longchamp-uk
 longchamp.php
 longchampaus
@@ -4571,6 +4596,7 @@ longchampp
 longchampsa
 longchampshop
 longchampsolde
+longchamptasche
 longchampuk
 lookingfor
 lorazepam
@@ -4681,6 +4707,7 @@ lvout
 lvreplica
 lvsale
 lvuk
+m88day
 mac-cosmetic
 mac-makeup
 maclipgloss
@@ -4747,6 +4774,8 @@ marcjacobsjap
 marcjacobsjp
 margreet.
 market samurai
+market-research.
+market-researching.
 market-samurai
 marketing online
 marketing samurai
@@ -5265,14 +5294,14 @@ muzyczny
 my bebo
 my blog
 my hermes
-my homepage
+my homepag
 my online
 my website
 my_profile
 my-bebo
 my-blog
 my-hermes
-my-homepage
+my-homepag
 my-new-ip
 my-online
 my-virus
@@ -5721,7 +5750,7 @@ oympia
 p90x
 packersjersey
 page.tl
-page/page
+page/pag
 pagss.htm
 pain-behind
 pain-relief.
@@ -5769,6 +5798,8 @@ panty-sex
 pantymania
 pantypic
 pantyplay
+paragraph writing
+paragraph-writing
 parajumpers
 paretologic 
 paris model
@@ -5950,6 +5981,8 @@ post-service
 post.much
 post.pw
 postcarf
+posting comment
+posting-comment
 posts.asp
 posttestimonial
 powerball
@@ -6087,6 +6120,7 @@ puma-deutsch
 puma-drifter
 puma-ferrari
 puma-lauf
+puma-nice
 puma-outlet
 puma-paidat
 puma-schuhe
@@ -6095,6 +6129,7 @@ pumadeutsch
 pumadrifter
 pumaferrari
 pumalauf
+pumanice
 pumaoutlet
 pumapaidat
 pumaschuhe
@@ -6114,7 +6149,7 @@ puzzle maker
 puzzle-maker
 puzzlemaker
 qampuz
-qry_page
+qry_pag
 qtrade
 quality post
 quality-post
@@ -6190,6 +6225,7 @@ recoverynow
 red christian
 red ugg
 red-ugg
+red+bottom+shoe
 redbottomshoe
 redirect_to
 redirect.asp
@@ -6461,6 +6497,7 @@ scarpehogan
 scarrepair
 schlgsseldienste
 schlüsseldienste
+school.a
 schuhe puma
 schuhe-puma
 schuhepuma
@@ -6619,6 +6656,8 @@ shoes-online
 shoes-out
 shoes.asp
 shoes+for+men
+shoes+men
+shoes+women
 shoesale
 shoescloth
 shoesjapan
@@ -6687,16 +6726,19 @@ silverjewelry
 sim-only
 sinequan
 singapore.htm
+site link
 site position
 site traffic
 site_backup
 site-google
+site-link
 site-position
 site-traffic
 site.co
 site.in
 site24
 sitecode
+sitelink
 sitemap
 sites24
 siutpd
@@ -6912,6 +6954,8 @@ system-review
 tabaki
 tadalafil
 tadapox
+takje care
+takje-care
 tamiflu
 tamoxifen
 tamsulosin
@@ -6936,6 +6980,12 @@ tariki-shoe
 tarikishoe
 tarot divin
 tarot-divin
+tasche longchamp
+tasche-longchamp
+taschelongchamp
+taschen longchamp
+taschen-longchamp
+taschenlongchamp
 tastegood.co
 tattoo-tip
 tattootip
@@ -7594,7 +7644,7 @@ viewarticle
 viewblog
 viewentry
 viewlink
-viewpage
+viewpag
 viewthread
 viewtopic
 vigara
@@ -7830,7 +7880,7 @@ where-to-buy
 wherebuy
 wherecani
 wheretobuy
-whichpage
+whichpag
 white nfl
 white-nfl
 whitehat
@@ -7907,6 +7957,8 @@ wingsshop
 winter jassen
 winter-jassen
 winterjassen
+with pics
+with-pics
 without-invest
 women makeup
 women mbt
@@ -8147,6 +8199,8 @@ yearold
 ynimb
 yo-dick
 yoigucci
+you ssay
+you-ssay
 you-ugg
 you-want-it
 youll
@@ -8205,6 +8259,7 @@ yoyo-diet
 yoyodiet
 yumeeyum
 yuuguu
+yyou
 ÿþ
 z.in
 zabaw
@@ -8238,6 +8293,12 @@ zedbull
 zfymail
 zikinell
 zimovane
+zippo feuerzeuge
+zippo zubehör
+zippo-feuerzeuge
+zippo-zubehör
+zippofeuerzeuge
+zippozubehör
 zithromax
 zlinks
 złote
@@ -8365,6 +8426,7 @@ zyvox
 шапка-
 элитныеноутбуки
 юридической
+루이비통
 アークテリクス
 アウトレット
 アディダス
