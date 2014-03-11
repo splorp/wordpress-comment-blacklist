@@ -481,6 +481,7 @@ _vti
 //vpn.
 //website
 //webstore
+//wp-
 /a-
 /abercrombie-
 /about.
@@ -1603,6 +1604,8 @@ bigbling
 bigcock
 bigreplica
 billig
+bird hack
+bird-hack
 birkenstock boston
 birkenstock online
 birkenstock-boston
@@ -1799,6 +1802,7 @@ bullion-account
 bumpant
 burberry bag
 burberry belt
+burberry borse
 burberry brit
 burberry clearance
 burberry coat
@@ -1815,6 +1819,7 @@ burberry wallet
 burberry watch
 burberry-au
 burberry-belt
+burberry-borse
 burberry-brit
 burberry-clearance
 burberry-coat
@@ -1831,6 +1836,7 @@ burberryau
 burberrybelt
 burberrybi
 burberryblack
+burberryborse
 burberrybrit
 burberryclearance
 burberrycoat
@@ -1944,8 +1950,11 @@ callgirl
 cambogia
 camgirl
 camicie abercrombie
+camicie negozi
 camicie-abercrombie
+camicie-negozi
 camicieabercrombie
+camicienegozi
 can_help_you
 can-help-you
 canadagoose-ca
@@ -2659,6 +2668,8 @@ detektiv
 devil1.
 devil2.
 dewelop
+di droga
+di-droga
 diablo3
 diamox
 diazepam
@@ -3120,6 +3131,8 @@ fixing-credit
 fixingcredit
 fjrm
 flagyl
+flappy-bird
+flappybird
 flats.webeden
 flik.us
 flixya
@@ -3255,6 +3268,8 @@ fridaysale
 fridayugg
 frlongchamp
 frmoncler
+frontline commando
+frontline-commando
 fruitful design
 fruitful-design
 fruta planta
@@ -4572,6 +4587,7 @@ lodz
 logcabins
 login.php
 loiusvuitton
+lol i
 london-genuine
 londongenuine
 long long
@@ -4718,10 +4734,13 @@ magazine/page2
 magicmoncler
 mail_list
 mail.ru
+maillot man
 maillot ukraine
 maillot-enfant
 maillot-maillot
+maillot-man
 maillot-ukraine
+maillotman
 maillotukraine
 main longchamp
 main-longchamp
@@ -5345,6 +5364,9 @@ nba-jersey
 nbajersey
 nbshoe
 needmoney
+negozi burberry
+negozi-burberry
+negoziburberry
 net/bilder
 net/fr/
 net/members/
@@ -5402,6 +5424,8 @@ nhl-jersey
 nhl-replica
 nhlreplica
 niaspan
+nice paragraph
+nice-paragraph
 nicki-mariah
 nicoban
 nicolasbit
@@ -5494,6 +5518,9 @@ norvasc
 not-dienst
 notdienst
 notraty
+nouveau maillot
+nouveau-maillot
+nouveaumaillot
 now.in
 nude-ass
 nude.htm
@@ -5811,6 +5838,9 @@ parkiety
 party_feet
 party-poker
 partypoker
+pas cher
+pas-cher
+pascher
 pascherfr
 pascheroakley
 passprefix
@@ -7552,6 +7582,7 @@ uomo timberland
 uomo-adidas
 uomo-man
 uomo-moncler
+uomo-short
 uomo-timberland
 uomoadidas
 uomoman
@@ -7981,7 +8012,9 @@ womenseekingmen
 womensnike
 womenspuma
 wonderful article
+wonderful publish
 wonderful-article
+wonderful-publish
 woodgundy.us
 woolrich bliz
 woolrich cloth
