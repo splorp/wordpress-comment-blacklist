@@ -2,7 +2,7 @@
 
 Sometimes a simple solution is a better solution.
 
-Over the past couple of years, I have identified over 8,500 phrases, patterns, and keywords commonly used by spammers and comment bots in usernames, email addresses, link text, and URIs. This blacklist is an ongoing work in progress and as such, there is always room for optimization and improvement. Suggestions and bug reports are certainly appreciated. Please use the [issue tracker](https://github.com/splorp/wordpress-comment-blacklist/issues) to let me know.
+Over the past couple of years, I have identified over 8,600 phrases, patterns, and keywords commonly used by spammers and comment bots in usernames, email addresses, link text, and URIs. This blacklist is an ongoing work in progress and as such, there is always room for optimization and improvement. Suggestions and bug reports are certainly appreciated. Please use the [issue tracker](https://github.com/splorp/wordpress-comment-blacklist/issues) to let me know.
 
 ### How Do I Use It?
 
@@ -41,18 +41,21 @@ As mentioned above, the keywords in the blacklist are based on spam submitted to
 
 Spammers will also utilize links that include URLs that are specific to WordPress installations. These links often point at compromised admin, theme, or plugin files. In most cases, there’s no need to include a URL that deep-links into the bowels of a WordPress site. However, you may want to remove the following keywords from the blacklist if your visitors are commenting on topics related to WordPress site, plugin, or theme development.
 
-+ `/wp-admin`
-+ `/wp-content`
-+ `/wp-image`
-+ `/wp-include`
-+ `/wp-list`
-+ `/wp-site`
-+ `/wpadmin`
-+ `/wpcontent`
-+ `/wpimage`
-+ `/wpinclude`
-+ `/wplist`
-+ `/wpsite`
++ /wp-admin
++ /wp-content
++ /wp-image
++ /wp-include
++ /wp-list
++ /wp-site
+
+Also included are these mangled variations of WordPress directory names.
+
++ /wpadmin
++ /wpcontent
++ /wpimage
++ /wpinclude
++ /wplist
++ /wpsite
 
 **Non-English Comments**
 
