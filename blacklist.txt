@@ -17,6 +17,7 @@ _vti
 -acne-
 -acne/
 -adsense-
+-adsense.
 -adsense/
 -amateur-
 -amateur/
@@ -50,6 +51,7 @@ _vti
 -buy.
 -buy/
 -car.co
+-car.in
 -casas-en-
 -cash.
 -cash/
@@ -61,6 +63,7 @@ _vti
 -cheap.
 -cheapest-
 -cheapest.
+-cheapest/
 -cheat-
 -cheat.
 -cheat/
@@ -159,6 +162,7 @@ _vti
 -jersey-
 -jersey.
 -jersey/
+-jerseys.
 -jerseys/
 -kredyt
 -lacoste-
@@ -204,6 +208,8 @@ _vti
 -mortgage-
 -new-car-
 -newports/
+-npn.
+-npn/
 -nude-
 -nudes-
 -oakley.
@@ -460,11 +466,13 @@ _vti
 //contact
 //escort
 //forum
+//free
 //friend
 //gay
 //generic
 //groups
 //images/
+//income
 //leverage
 //official
 //onsale
@@ -803,6 +811,8 @@ _vti
 /north-face-
 /northface-
 /northface.
+/npn-
+/npn.
 /oakley-
 /oakley.
 /oakley/
@@ -892,6 +902,8 @@ _vti
 /soma
 /special-
 /special.
+/specialprojects-
+/specialprojects.
 /specials-
 /specials.
 /start.
@@ -1038,6 +1050,7 @@ _vti
 =view
 >.}
 >enter
+>fuck
 >ugg
 >woolr
 |porno
@@ -1048,6 +1061,7 @@ _vti
 1@1
 1@2
 1@3
+1big
 1c.in
 1minutesite
 1stop
@@ -1113,8 +1127,12 @@ _vti
 2013.co
 2013.de
 2013.or
+2013baby
 2013x.
 2014.co
+2014.de
+2014.or
+2014baby
 123456789
 ¥·¥
 ¥°¥
@@ -2369,18 +2387,23 @@ cigsonline
 cigspromo
 ciproanti
 clarisonic
+clash-of-clans
+clashofclans
 classic-ugg
 classicugg
 clavulanate
 clboot
 clck.ru
 clearance mbt
+clearance michael
 clearance out
 clearance sale
 clearance-mbt
+clearance-michael
 clearance-out
 clearance-sale
 clearancembt
+clearancemichael
 clearanceoutlet
 clearancesale
 clenbuterol
@@ -2567,6 +2590,8 @@ crystalmall
 cuir vanessa
 cuir-vanessa
 cuirvanessa
+cup jersey
+cup-jersey
 cure.co.
 curehelp
 cures.co.
@@ -3280,7 +3305,7 @@ fund market
 fund-market
 fundmarket
 funds.ru
-funsneaker
+funsneak
 funwithwindows
 fur boot
 fur-boot
@@ -3360,6 +3385,8 @@ genuine-pandora
 genuinely fruitful
 genuinely-fruitful
 genuinepandora
+germany jersey
+germany-jersey
 germanylove
 gestione
 get_rid_of
@@ -3427,6 +3454,7 @@ global-agenda
 globalagenda
 globalist-agenda
 globalistagenda
+globalnpn
 glucophage
 glutamina
 glyburide
@@ -3755,7 +3783,9 @@ havegive
 hawksjersey
 hcg-boost
 hcgboost
+headset2012
 headset2013
+headset2014
 healthhow
 heel_pads
 heil hitler
@@ -3954,9 +3984,7 @@ howtowin
 hppp
 hqsteroid
 htaccrss
-htm?r
 html-article
-html?r
 htmllink
 http://www.cnpbrands.com.au
 hugescock
@@ -4162,6 +4190,7 @@ jackets-jp
 jackets-sale
 jackets2012
 jackets2013
+jackets2014
 jacketsale
 jacketsforkids
 jacketsformen
@@ -4499,7 +4528,9 @@ lesbos.
 lesson1
 letrozole
 levaquin
+level 50
 level market
+level-50
 level-market
 levelmarket
 levitra
@@ -4781,14 +4812,14 @@ manningjersey
 maran-trainer
 marant boot
 marant shoe
-marant sneaker
+marant sneak
 marant-boot
 marant-shoe
-marant-sneaker
+marant-sneak
 marantboot
 marantrainer
 marantshoe
-marantsneaker
+marantsneak
 marcjacobsjap
 marcjacobsjp
 margreet.
@@ -4820,6 +4851,8 @@ massive-web
 masszaz
 mastablasta
 master.ru
+mastermind-team
+mastermindteam
 matchcash
 matthewsjersey
 matural
@@ -4953,6 +4986,7 @@ men-boost
 men+shoe
 menboost
 menseekingwom
+mentalprocess
 menu/menu
 mequinol
 meratol
@@ -5277,9 +5311,9 @@ mp3-download
 mp3la.ru
 mp3player
 mpnth
-mrant sneaker
-mrant-sneaker
-mrantsneaker
+mrant sneak
+mrant-sneak
+mrantsneak
 msgnum
 much-boot
 much-gucci
@@ -5737,6 +5771,7 @@ outlet.weebly
 outlet4u
 outlet2012
 outlet2013
+outlet2014
 outletaustr
 outletbag
 outletcanad
@@ -6145,7 +6180,7 @@ puma ferrari
 puma outlet
 puma paidat
 puma schuhe
-puma sneaker
+puma sneak
 puma-deutsch
 puma-drifter
 puma-ferrari
@@ -6154,7 +6189,7 @@ puma-nice
 puma-outlet
 puma-paidat
 puma-schuhe
-puma-sneaker
+puma-sneak
 pumadeutsch
 pumadrifter
 pumaferrari
@@ -6163,7 +6198,7 @@ pumanice
 pumaoutlet
 pumapaidat
 pumaschuhe
-pumasneaker
+pumasneak
 pure-jobs
 purse online
 purse out
@@ -6425,8 +6460,9 @@ rpg-online
 rpgonline
 rss.htm
 runescape
-running sneaker
-running-sneaker
+running sneak
+running-sneak
+runningsneak
 rusztowania
 s.webeden
 sabo charm
@@ -6930,6 +6966,7 @@ styleshq
 stylevip
 stylomontblanc
 stylowe
+subject=
 succeed-online
 success you
 success-you
@@ -7901,6 +7938,8 @@ wetting-pant
 wettingpant
 weusecoin
 what-we-know
+what's up,
+whats up,
 whatsapp
 wheels.co
 wheels.net
@@ -8110,6 +8149,7 @@ wwellness
 www.1
 www.2012
 www.2013
+www.2014
 www.anal
 www.angel
 www.article
@@ -8306,15 +8346,15 @@ zanaflex
 zanotti online
 zanotti sale
 zanotti shoe
-zanotti sneaker
+zanotti sneak
 zanotti-online
 zanotti-sale
 zanotti-shoe
-zanotti-sneaker
+zanotti-sneak
 zanottionline
 zanottisale
 zanottishoe
-zanottisneaker
+zanottisneak
 zantac
 zapraszam
 zawieszki
