@@ -281,7 +281,10 @@ _vti
 -sunglasses-
 -sunglasses.
 -sunglasses/
+-supplement-
 -supplements-
+-suppliment-
+-suppliments-
 -symptoms-
 -tax-attorney
 -tax-relief
@@ -1577,6 +1580,7 @@ best cyber
 best jersey
 best online
 best pant
+best tummy
 best website
 best-cyber
 best-diet
@@ -1588,6 +1592,7 @@ best-jersey
 best-pant
 best-phone
 best-software-for
+best-tummy
 best-way-to
 best-website
 bestad.
@@ -1602,8 +1607,8 @@ bestjersey
 bestlaptop
 bestpant
 bestphone
-bestsupplement
-bestsuppliment
+bestsuppl
+besttummy
 bestwebsite
 betlist
 biaxin
@@ -2495,6 +2500,7 @@ com/boards
 com/cheap
 com/css
 com/doc
+com/dress
 com/forum
 com/fr/
 com/ftp
@@ -2718,13 +2724,13 @@ diet-pill
 diet-plan
 diet-review
 diet-solution
-diet-supplement
+diet-suppl
 diet.co
 dietpill
 dietplan
 dietreview
 dietsolution
-dietsupplement
+dietsuppl
 differin
 diflucan
 diggs.us
@@ -2837,6 +2843,7 @@ dress shop
 dress-link
 dress-online
 dress-shop
+dress.rent
 dresses.wedding
 dresshop
 dresslink
@@ -2860,6 +2867,8 @@ duvetica outlet
 duvetica-outlet
 duveticaoutlet
 dvdrip
+dwi-attorney
+dwiattorney
 dylongfa
 dyubetika
 e--store
@@ -2904,6 +2913,7 @@ emarketing
 emiliopucci
 empower-network
 empowernetwork
+endlaved
 eneugh
 eng/faq
 enhance-your
@@ -4008,10 +4018,12 @@ ia€?ll
 icon/set
 icons/set
 idanmark
+image-old
 image/cache
 image/image
 image/index
 image/ugg
+images-old
 images/cache
 images/celine
 images/image
@@ -4127,14 +4139,14 @@ ip.idealhosting.net.tr
 ipad-2-case
 ipad-download
 ipad-repair
-ipad-supply
+ipad-suppl
 ipad2me
 ipad2you
 ipadrepair
-ipadsupply
+ipadsuppl
 iphone-crack
 iphone-repair
-iphone-supply
+iphone-suppl
 iphone/iphone
 iphone2me
 iphone2you
@@ -4143,11 +4155,11 @@ iphone4scase
 iphonecase
 iphonecrack
 iphonerepair
-iphonesupply
+iphonesuppl
 ipod-repair
-ipod-supply
+ipod-suppl
 ipodrepair
-ipodsupply
+ipodsuppl
 iprofit
 irc-chat
 is seo
@@ -4587,6 +4599,8 @@ lisseur-pascher
 lisseurpascher
 listajp
 listasegment
+litte more
+litte-more
 live-article
 livearticle
 livesex
@@ -5335,10 +5349,10 @@ mulberryfashion
 mulberryhandbag
 mulberrypurse
 mulberrytop
-muscle-supplement
+muscle-suppl
 muscles exercis
 muscles-exercis
-musclesupplement
+musclesuppl
 muscular abdomen
 muscular-abdomen
 muscularwom
@@ -6094,6 +6108,8 @@ premiumcigar
 prepaid-credit
 prescription.htm
 pressrelease.net
+pretty worth
+pretty-worth
 previcox
 price-of-gold
 pricetobook
@@ -6545,6 +6561,8 @@ saleu.co
 salvia.
 samedayloans
 sample@
+samurai siege
+samurai-siege
 sandaljp
 sandalsjp
 sanders jersey
@@ -6775,6 +6793,8 @@ showtopic
 si.lv.e.r.w.are
 sieg heil
 sieg-heil
+siege hack
+siege-hack
 siegheil
 sign-zodiac
 signed-jersey
@@ -6869,6 +6889,9 @@ sold-out
 solde canada
 solde-canada
 soldecanada
+soldes louboutin
+soldes-louboutin
+soldeslouboutin
 solução
 solutionsinc
 soma.htm
@@ -6997,8 +7020,12 @@ suprashoe
 suprax
 supreme-essay
 supremeessay
+surf online
 surf to
+surf-online
 surf-to
+surfing online
+surfing-online
 surprisezone
 suwa³ki
 swarovski
@@ -7310,6 +7337,9 @@ tubee.tv
 tucholskie
 tumi1
 tumi2
+tummy tuck
+tummy-tuck
+tummytuck
 turbo-vac
 turbosprezar
 turystyka
@@ -7862,9 +7892,11 @@ wdmypass
 weave-hair
 weavehair
 web anal
+web owner
 web promo
 web-anal
 web-hosting
+web-owner
 web-promo
 web-site
 web-solution
