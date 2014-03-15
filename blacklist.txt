@@ -225,10 +225,18 @@ _vti
 -outlet/
 -payday-
 -pictures.
+-poker-
 -poker.
+-poker/
+-pokie-
+-pokie.
+-pokie/
 -pokies-
+-pokies.
+-pokies/
 -pozew-
 -prada-
+-prada.
 -prada/
 -premium-
 -premium/
@@ -1055,6 +1063,7 @@ _vti
 >enter
 >fuck
 >gluten
+>pokie
 >ugg
 >woolr
 |porno
@@ -1216,30 +1225,34 @@ additionay
 adenosyl
 adidas jeremy
 adidas js
-adidas original
+adidas origin
 adidas out
 adidas porsche
 adidas shop
-adidas slipper
+adidas slip
+adidas super
 adidas uomo
 adidas wing
 adidas-corner
 adidas-jeremy
 adidas-js
-adidas-original
+adidas-orig
 adidas-out
 adidas-porsche
 adidas-shop
-adidas-slipper
+adidas-slip
+adidas-super
 adidas-uomo
 adidas-wing
 adidashop
 adidasjeremy
 adidasjs
+adidasorig
 adidasoutlet
 adidasporsche
 adidasshop
-adidasslipper
+adidasslip
+adidassuper
 adidasuomo
 adidaswing
 adipex
@@ -1253,7 +1266,7 @@ ads-crack
 adscrack
 adsjeremy
 adsplus
-adsuse.
+adsuse
 adswings
 adult girl
 adult-girl
@@ -1281,6 +1294,12 @@ age|year
 agedepot
 ageless female
 ageless male
+ageless men
+ageless women
+ageless-female
+ageless-male
+ageless-men
+ageless-women
 agencje-
 agent denim
 agent-denim
@@ -1405,6 +1424,8 @@ australia boot
 australia out
 australia-boot
 australiaboot
+australian pokie
+australian-pokie
 authentic cheap
 authentic hermes
 authentic-cheap
@@ -4062,6 +4083,7 @@ impregnacji
 impressive share
 impressive-share
 in-disguise
+inbeing
 include priceless
 includes priceless
 income.in
@@ -4422,6 +4444,8 @@ knockoff-eyewear
 knockoff-handbag
 knockoffhandbag
 knolckoff
+known blog
+known-blog
 kobe-shoe
 kobeshoe
 komputer
@@ -6022,6 +6046,7 @@ piuminimoncler
 piumino moncler
 piumino-moncler
 piuminomoncler
+plansare
 plavix
 play-free
 play-online
@@ -7035,6 +7060,9 @@ sunglassuk
 sunrize
 superarticle
 superheroz
+superstar classic
+superstar-classic
+superstarclassic
 supra shoe
 supra-shoe
 suprashoe
@@ -7152,6 +7180,7 @@ thailove
 thanks.i
 thatover
 thatprofit
+the pokie
 the the
 the threading
 the_benefits_of
@@ -7163,6 +7192,7 @@ the-hypothyroid
 the-latest-
 the-most-common
 the-most-detail
+the-pokie
 the-right-way
 the-the
 the-threading
@@ -7744,14 +7774,17 @@ via-internet
 viagera
 viagra
 vicodin
+video sport
 video-magnif
 video-pokie
+video-sport
 video.htm
 videochat
 videogamedesign
 videomagnif
 videopokie
 videos.htm
+videosport
 vidios
 view_article
 view_blog
@@ -8272,6 +8305,7 @@ www.moncler
 www.mulberry
 www.newbalance
 www.nike-
+www.numberone
 www.official
 www.online
 www.onsale
