@@ -1010,6 +1010,7 @@ _vti
 /xn--
 /ya.
 /yabb
+/yours.
 /z.
 /zumba-
 &#070;&#069;&#078;&#068;&#073;
@@ -1356,6 +1357,7 @@ androidclan
 androidmp3
 aneswr
 angebote
+animalbased
 anonymous-download
 anonymousvpn
 answertraffic
@@ -1390,6 +1392,7 @@ artemfrolov
 article dude
 article-buzz
 article-dude
+article,i
 article.co
 article.in
 article.net
@@ -2475,6 +2478,7 @@ clubboy
 clusive vacation
 clusive-vacation
 clusivevacation
+clyel
 cms_temp
 cms_theme
 cms-temp
@@ -3414,12 +3418,15 @@ gamyba
 gangprofil
 ganhar dinheiro
 ganhar-dinheiro
+gaogb
 gapscent
 garcinia
 gay sex
 gay-sex
 gaysex
 gayusa
+gelatine free
+gelatine-free
 gemorroya
 genemy
 general/genera
@@ -3745,6 +3752,7 @@ guccivintage
 gucciyu
 guest-post
 guestpost
+guiltfree
 guru1
 gurus1
 gyslera
@@ -6074,6 +6082,10 @@ playerblock
 playfree
 playonline
 plazajp
+pleasant designed
+pleasant good
+pleasant-designed
+pleasant-good
 pleassant
 pleease
 plumbingservice
@@ -6659,6 +6671,7 @@ scott wing
 scott-wing
 scottwing
 scrapebox
+seaddons
 seahawks jersey
 seahawks-jersey
 seahawksjersey
@@ -6723,6 +6736,7 @@ seo.co
 seo.in
 seo.net
 seo.org
+seoaddon
 seoagenc
 seohost
 seopick
@@ -6941,6 +6955,7 @@ snipurl.com
 snism
 social-bookmark
 socialbookmark
+socialengine
 socialite.
 socialnetworkbuzz
 socialnetworksbuzz
@@ -7740,6 +7755,7 @@ urlacherjersey
 urls2
 urlstatusgo.htm
 uroda
+us/profile
 usa-best
 usabest
 user_blog.php
@@ -7849,7 +7865,9 @@ virushoax
 virusinfеct
 virusremov
 virussecur
+visit homepage
 visit web
+visit-homepage
 visit-web
 visitant
 visitor/day
@@ -8162,9 +8180,13 @@ womens-trainers.
 womenseekingmen
 womensnike
 womenspuma
+won webpage
+won-webpage
 wonderful article
+wonderful post
 wonderful publish
 wonderful-article
+wonderful-post
 wonderful-publish
 woodgundy.us
 woolrich bliz
