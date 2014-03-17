@@ -98,6 +98,8 @@ _vti
 -doktora-
 -download.
 -download/
+-dre.
+-dre/
 -drmartens-
 -e-guide-
 -easily-
@@ -305,6 +307,8 @@ _vti
 -top-info
 -tours.co
 -traffic.
+-trainings.
+-trainings/
 -transpiration-
 -treatment-
 -tw.in
@@ -348,6 +352,7 @@ _vti
 .%
 .acgi
 .adboard
+.addicted-to
 .adsboard
 .asp/
 .azmya.
@@ -817,6 +822,7 @@ _vti
 /nikefree
 /niketn
 /ninnki
+/no-excuse
 /node/
 /north-face
 /north-face-
@@ -1373,6 +1379,7 @@ arcteryx-jp
 arcteryx-sale
 arcteryxjp
 arcteryxsale
+are added-
 areplica
 aricept
 aripiprex
@@ -1416,6 +1423,7 @@ astounding4
 astounding5
 astral-diamond
 aswenr
+at web,
 ationincome
 ativan
 atomoxetine
@@ -1529,15 +1537,17 @@ bears-hat
 bears-urlacher
 bearsurlacher
 beatbydre
+beats by
 beats monster
 beats pas
 beats studio
+beats-by
 beats-dr-dre
 beats-dre
 beats-monster
 beats-pas
 beats-studio
-beats+by+dre
+beats+by
 beatsbydrdre
 beatsbydre
 beatscustom
@@ -1733,6 +1743,7 @@ bodacious
 bonus-code
 bonuscode
 book-ot-
+bookmarked!
 boot online
 boot sale
 boot uk
@@ -2352,9 +2363,11 @@ chf iraq
 chf-iraq
 china cheap
 china low
+china shop
 china wholesale
 china-cheap
 china-low
+china-shop
 china-wholesale
 chinacheap
 chinajorda
@@ -3896,6 +3909,10 @@ hermesstore
 hermesuk
 hermeswallet
 hermesxl
+hernia support
+hernia surgery
+hernia-support
+hernia-surgery
 herren moncler
 herren timberland
 herren-moncler
@@ -4512,6 +4529,7 @@ lancel-pas
 lancel-sac
 lancelad
 laplap
+laptop_online
 lariam
 lasart.es
 laser-therapy
@@ -5864,6 +5882,8 @@ outplacement-compan
 outplacements
 outsourcing-compan
 ovariancyst
+own blogroll
+own-blogroll
 ownersinsur
 oxycodone
 oxycontin
@@ -6616,6 +6636,7 @@ sanders-jersey
 sandersjersey
 sandypasch
 satcheldbag
+sbobet
 scam.htm
 scam.in
 scam.net
@@ -7180,6 +7201,7 @@ thailove
 thanks.i
 thatover
 thatprofit
+the -notify
 the pokie
 the the
 the threading
@@ -7213,6 +7235,7 @@ themes-for-windows
 themes-sale
 themesforwindows
 therealest
+thes good
 thetopdog
 theyll
 things-consume
@@ -7356,6 +7379,7 @@ trace-service
 tracing-service
 track-phone-location
 tracking-a-phone
+trade_your
 trading-method
 trafficz
 trailer sale
@@ -7964,6 +7988,8 @@ webcamsex
 webfarma
 webhosting
 weblinks
+weblog site
+weblog-site
 weblog}
 weblogto
 webmaster
@@ -8368,6 +8394,7 @@ youll-need
 young porn
 young_porn
 young-porn
+your blog!
 your success
 your traffic
 your weblog
