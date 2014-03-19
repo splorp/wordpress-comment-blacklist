@@ -1078,7 +1078,11 @@ _vti
 >pokie
 >ugg
 >woolr
-|porno
+|for
+|per
+|porn
+|year
+|yr
 000mail
 1-1.
 1.cfm
@@ -1302,7 +1306,7 @@ aff.php
 african-canadian-model
 africancanadianmodel
 age.webeden
-age|year
+age|
 agedepot
 ageless female
 ageless male
@@ -1343,6 +1347,8 @@ amateur-homemade
 amateur.
 amateurhomemade
 amateurs.
+amazing post
+amazing-post
 amazn.co
 amazon.cm
 ambien
@@ -1819,6 +1825,9 @@ bow-ugg
 bowugg
 bracelet-sale
 braceletsale
+brain abundance
+brain-abundance
+brainabundance
 brand engage
 brand mlb
 brand nba
@@ -2131,7 +2140,7 @@ cellskin
 cellulitefree
 cellulitereview
 celular
-cent|per
+cent|
 cgi-bin
 cgsaleca
 ch.e.ap
@@ -2965,6 +2974,8 @@ emailsvip
 emailvip
 emarketing
 emiliopucci
+empire hack
+empire-hack
 empower-network
 empowernetwork
 endlaved
@@ -3166,7 +3177,6 @@ female-handbag
 femalehandbag
 females handbag
 females-handbag
-females|for
 femaleshandbag
 femmes-canada-goose
 femmescanadagoose
@@ -3258,6 +3268,7 @@ for-money
 for-windows-8
 for-your-needs
 for+sale
+for|
 forboots
 forcheap
 forex
@@ -3573,8 +3584,10 @@ goo.gl
 good blog
 good-blog
 good-for-
+good-game
 good}
 goodbye.asp
+goodgame
 goodsblog
 google_java
 google-java
@@ -4096,6 +4109,7 @@ i-will-be
 ï¿½
 i2g
 ia€?ll
+iamimports
 icon/set
 icons/set
 idanmark
@@ -4547,7 +4561,6 @@ laarzenkopen
 labetalol
 lacoste-out
 lacosteout
-ladies|for
 lamictal
 lamisil
 lancel pas
@@ -5569,7 +5582,9 @@ nhl-replica
 nhlreplica
 niaspan
 nice paragraph
+nice practice
 nice-paragraph
+nice-practice
 nicki-mariah
 nicoban
 nicolasbit
@@ -5660,6 +5675,7 @@ northfaceya
 northfce
 norvasc
 not-dienst
+not|
 notdienst
 notraty
 nouveau maillot
@@ -5754,8 +5770,7 @@ okpay
 oksex
 oksunglass
 old_site
-old|year
-old|yr
+old|
 once-in-a-lifetime
 one nike
 one-nike
@@ -6123,7 +6138,7 @@ plz respond
 plz-respond
 poco prezzo
 poco-prezzo
-point|per
+point|
 points-generator
 pointsgenerator
 poished
@@ -6531,9 +6546,11 @@ reverse-phone
 reversephone
 review-source
 review.asp
+review.blog
 review.htm
 review.in
 reviews.asp
+reviews.blog
 reviews.htm
 reviews.in
 reviews.net
@@ -8026,10 +8043,12 @@ weave-hair
 weavehair
 web anal
 web owner
+web people
 web promo
 web-anal
 web-hosting
 web-owner
+web-people
 web-promo
 web-site
 web-solution
@@ -8685,6 +8704,7 @@ zyvox
 ヴィトン
 ヴェネタ
 ヴェルサーチ
+エアジョーダン
 エルメス
 オークリー
 おざ
