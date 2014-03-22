@@ -103,6 +103,9 @@ _vti
 -directory.
 -discount
 -doktora-
+-domination-
+-domination.
+-domination/
 -download.
 -download/
 -dre.
@@ -337,6 +340,8 @@ _vti
 -womens.
 -xchange
 ･・
+,kat,
+,title,
 ､､
 :)!
 ! .
@@ -576,6 +581,7 @@ _vti
 /burberry3
 /burberry4
 /bustier.
+/buy-
 /buy.
 /bvlgari-
 /cache/
@@ -647,6 +653,8 @@ _vti
 /eng/index
 /engine/
 /errorx/
+/escorts-
+/escorts.
 /extreme-
 /fashion-
 /features-
@@ -759,6 +767,7 @@ _vti
 /js.
 /js/
 /just.
+/kat,
 /kd6
 /kinder-moncler
 /kommentar
@@ -963,6 +972,7 @@ _vti
 /tiffany.
 /timberland-
 /timberland.
+/title,
 /tmp/
 /toms-
 /toms.
@@ -1769,6 +1779,8 @@ bodacious
 bonus-code
 bonuscode
 book-ot-
+bookmark webpage
+bookmark-webpage
 bookmarked!
 boot online
 boot sale
@@ -3166,10 +3178,12 @@ fat loss
 fat men
 fat quite
 fat women
+fat-burn
 fat-loss
 fat-men
 fat-quite
 fat-women
+fatburn
 fatloss
 favorite website
 fb-ads
@@ -3432,6 +3446,7 @@ futbolbarcelona
 futuristic-market
 futuristicmarket
 g-string
+gaaab.co
 gabapentin
 gabbana store
 gabbana-store
@@ -3694,6 +3709,7 @@ gooseyouth
 gorgeous escort
 gorgeous-escort
 gorgeousescort
+gosgov
 goshop.
 gotowkowa
 gotowkowe
@@ -3719,6 +3735,7 @@ greece-holid
 greeceholid
 green-smoker
 greensmoker
+greеce
 grise parka
 grise-parka
 griseofulvin
@@ -5106,6 +5123,7 @@ meble gabinetowe
 meble ogrodowe
 meble-gabinetowe
 meble-ogrodowe
+meblowy
 mechpromo.
 meclizine
 med-shop
@@ -5396,6 +5414,7 @@ moneyfast
 moneymak
 moneyprimar
 monohydrate
+monroussillon
 monster beat
 monster_beat
 monster-beat
@@ -5962,6 +5981,7 @@ ownersinsur
 oxycodone
 oxycontin
 oympia
+oьtɑin
 p90x
 packersjersey
 page.tl
@@ -6378,7 +6398,9 @@ pursesout
 puzzle maker
 puzzle-maker
 puzzlemaker
+pytanie
 qampuz
+qquality
 qry_pag
 qtrade
 quality post
@@ -8050,9 +8072,11 @@ warehouse.us
 warepics
 warmjp
 warszawa
+watch video
 watch-quartz
 watch-replica
 watch-seiko
+watch-video
 watches-quartz
 watchesquartz
 watchhoshi
@@ -8420,6 +8444,7 @@ www.herveleger
 www.hot
 www.howmuch
 www.information
+www.insta
 www.instyler
 www.isabelmarant
 www.kobe
@@ -8467,6 +8492,7 @@ wwwpctool
 wypoczynku
 wyposazenie
 wywóz
+wһen
 x.ru
 xadidas
 xalatan
@@ -8581,6 +8607,9 @@ zcode
 zdrowie
 zed-bull
 zedbull
+zero calorie
+zero-calorie
+zerocalorie
 zfymail
 zikinell
 zimovane
@@ -8609,6 +8638,7 @@ zyprexa
 zyrtec
 zyvox
 οn
+ύou
 ωhil
 ωіlly
 аl
@@ -8709,6 +8739,7 @@ zyvox
 съемка
 такси
 трудоустройства
+уou
 удивительные
 услуг
 фабрика меха
@@ -8721,6 +8752,8 @@ zyvox
 шапка-
 элитныеноутбуки
 юридической
+ԝill
+ոeutral
 루이비통
 アークテリクス
 アウトレット
