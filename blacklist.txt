@@ -193,10 +193,12 @@ _vti
 -lotto.
 -lotto/
 -lover-
+-lover.
 -lover/
 -magazin-
 -magazini-
 -malware-
+-malware.
 -malware/
 -marant-
 -marc-jacobs-
@@ -343,6 +345,7 @@ _vti
 ,kat,
 ,title,
 ､､
+::
 :)!
 ! .
 !?’
@@ -850,6 +853,7 @@ _vti
 /northface.
 /npn-
 /npn.
+/oakley_
 /oakley-
 /oakley.
 /oakley/
@@ -874,10 +878,10 @@ _vti
 /piece.
 /popup
 /porn
-/porn-
 /post:
 /pozew
 /prada_
+/prada-
 /prada.
 /pricing.
 /privat-
@@ -886,12 +890,17 @@ _vti
 /product/0/
 /produkter/
 /proficient-
+/profil-
+/profil.
 /profil/
-/profile.php
+/profile-
+/profile.
+/profile/
 /prolist
 /property-
 /prozac
 /pufy
+/pumps-
 /pumps.
 /q.
 /ra.php
@@ -900,6 +909,7 @@ _vti
 /ray-ban/
 /rayban-
 /rayban.
+/rayban/
 /read.php
 /readme.
 /readnews.
@@ -1451,6 +1461,9 @@ asp?folder
 asp?id
 aspiring blog
 aspiring-blog
+assistance informatique
+assistance-inform
+assistance-informatique
 assortiment
 astounding1
 astounding2
@@ -1540,6 +1553,9 @@ ban sunglass
 ban-jacket
 ban-online
 ban-sunglass
+bangkok cosplay
+bangkok-cosplay
+bangkokcosplay
 banjacket
 bankbybank
 bankowoz
@@ -1732,6 +1748,7 @@ blackugg
 blazer-chaussure
 blazerchaussure
 blog beast
+blog occasion
 blog platform
 blog soon
 blog video
@@ -1740,6 +1757,7 @@ blog_entry.
 blog_id
 blog_post_
 blog-beast
+blog-occasion
 blog-platform
 blog-soon
 blog-trick
@@ -2705,6 +2723,7 @@ cytotec
 cz/love
 dabloggs
 dafeult
+dailly
 daily.blog
 dailyreview.co
 dailystrength
@@ -2735,6 +2754,8 @@ day loan
 day-diet
 daytrade
 daytrading
+de site
+de-site
 deal.blog
 dealonline
 dealsuk
@@ -3076,7 +3097,9 @@ every1bet
 everythink
 evryday
 excelent
+excellent blog
 excellent site
+excellent-blog
 excellent-site
 exclusive rendez
 exclusive-rendez
@@ -3173,6 +3196,10 @@ fashionistblog
 fast_loan
 fast-loan
 fastcash
+fastidious data
+fastidious thought
+fastidious-data
+fastidious-thought
 fastloan
 fat loss
 fat men
@@ -3506,7 +3533,9 @@ generator-2014
 generator2014
 generatorpro
 genuine-pandora
+genuinely fastidious
 genuinely fruitful
+genuinely-fastidious
 genuinely-fruitful
 genuinepandora
 germany jersey
@@ -4127,7 +4156,6 @@ hqsteroid
 htaccrss
 html-article
 htmllink
-http://www.cnpbrands.com.au
 huay-today
 huaytoday
 hugescock
@@ -4204,7 +4232,11 @@ info/view
 infolist
 infonetcom
 informatik
+informatique enligne
+informatique-enligne
+informative blog
 informative post
+informative-blog
 infos-
 infos/
 infusionsoft
@@ -4702,6 +4734,7 @@ limitedjersey
 limo-service
 linguim.co
 link http
+link issue
 link_build
 link_campaign
 link_http
@@ -4710,6 +4743,7 @@ link_track
 link-bait
 link-build
 link-campaign
+link-issue
 link-juice
 link-market
 link-pyramid
@@ -4719,9 +4753,11 @@ link-vault
 linkbait
 linkbuild
 linkcampaign
+linking issue
 linking_campaign
 linking_serv
 linking-campaign
+linking-issue
 linking-market
 linking-serv
 linkingcampaign
@@ -5735,6 +5771,7 @@ oakley caveat
 oakley cross
 oakley frogskin
 oakley glass
+oakley juliet
 oakley out
 oakley sale
 oakley sunglass
@@ -5743,6 +5780,7 @@ oakley-canada
 oakley-caveat
 oakley-cheap
 oakley-cross
+oakley-juliet
 oakley-out
 oakley-store
 oakley-straight
@@ -5752,6 +5790,7 @@ oakleycanada
 oakleycaveat
 oakleycheap
 oakleycross
+oakleyjuliet
 oakleymedusa
 oakleyout
 oakleypascher
@@ -6488,6 +6527,8 @@ redwingjp
 reeview
 ref_title
 ref_url
+referencement
+référencement
 refluks
 reflux symptom
 reflux-symptom
@@ -6748,6 +6789,8 @@ sanders-jersey
 sandersjersey
 sandypasch
 satcheldbag
+sauvegarde extern
+sauvegarde-extern
 sbobet
 scam.htm
 scam.in
@@ -7087,6 +7130,8 @@ sp1-key
 spaccio woolrich
 spaccio-woolrich
 spacciowoolrich
+spam response
+spam-response
 spammer spam
 sparkle ugg
 sparkle-ugg
@@ -7928,6 +7973,7 @@ videopokie
 videos.htm
 videosport
 vidios
+viencare
 view_article
 view_blog
 view_entry
@@ -8109,6 +8155,7 @@ web/index.htm
 webanal
 webcambabe
 webcamsex
+webdesign.co
 webfarma
 webhosting
 weblinks
@@ -8130,10 +8177,12 @@ webpromo
 webpromotion
 websex
 website online
+website post
 website traffic
 website usa
 website visitor
 website-online
+website-post
 website-usa
 website-visitor
 website}
