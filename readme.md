@@ -73,7 +73,9 @@ For example, in an earlier version of the blacklist the keywords `/4.` and `/5.`
 
 ### Mad Props
 
-I would like to thank [Mika Epstein](https://github.com/ipstenu), [Claudio Schwarz](https://github.com/purzlbaum), and [Volker Schmidt](https://github.com/volkerjschmidt) for their suggestions, testing, and reports from the field.
+*“So much for using Akismet.”*
+
+I would like to thank [Mika Epstein](https://github.com/ipstenu), [Claudio Schwarz](https://github.com/purzlbaum), and [Volker Schmidt](https://github.com/volkerjschmidt) for their suggestions, testing, and reports from the field. Also, thanks to [Chris Burton](https://twitter.com/chrisburton/status/431581759277633536) for the above tweet.
 
 ### History
 
