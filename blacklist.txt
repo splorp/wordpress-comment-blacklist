@@ -115,6 +115,8 @@ _vti
 -easily-
 -ebay
 -enlargement.
+-escort.
+-escort/
 -essay.
 -fantasia-
 -fantasia.
@@ -292,6 +294,8 @@ _vti
 -shop.co
 -sigareta-
 -sigarety-
+-soma.
+-soma/
 -speed-up-
 -store.
 -strona-
@@ -368,7 +372,6 @@ _vti
 .%
 .acgi
 .adboard
-.addicted-to
 .adsboard
 .asp/
 .azmya.
@@ -387,6 +390,7 @@ _vti
 .coupon
 .credopa.in
 .disposable-
+.disposable/
 .doorblog.jp
 .fake-
 .fcgi
@@ -525,6 +529,7 @@ _vti
 /a-
 /a#
 /abercrombie-
+/abercrombie.
 /about.
 /acai
 /acidreflux-
@@ -534,14 +539,17 @@ _vti
 /admin/
 /administration/
 /adorable-
+/adorable.
 /ads/
 /affordable-
+/affordable.
 /airmax_
 /airmax-
 /airmax.
 /alimenty/
 /allimage/
 /anonymous-
+/anonymous.
 /armani-
 /armani.
 /around.
@@ -627,6 +635,7 @@ _vti
 /configura.
 /configuration/
 /contact.
+/content/
 /crimea-
 /css/
 /customcontrols/
@@ -656,6 +665,8 @@ _vti
 /eng/index
 /engine/
 /errorx/
+/escort-
+/escort.
 /escorts-
 /escorts.
 /extreme-
@@ -946,7 +957,9 @@ _vti
 /sitemap.
 /siteold/
 /soft/
-/soma
+/soma-
+/soma.
+/soma/
 /special-
 /special.
 /specialprojects-
@@ -1003,6 +1016,7 @@ _vti
 /user_
 /user-
 /user:
+/user.
 /usuario:
 /vb/
 /view_my/
@@ -1010,6 +1024,9 @@ _vti
 /viewstory/
 /visit.
 /visite.
+/vuitton-
+/vuitton.
+/vuittonpascher-
 /vuittonpascher.
 /wayfarer-
 /wayfarer.
@@ -1022,6 +1039,7 @@ _vti
 /wholesale-
 /wholesale.
 /wo.
+/woolrich-
 /woolrich.
 /wp-admin
 /wp-content
@@ -1265,6 +1283,7 @@ adbeattrial
 addarticle
 adderall
 adderoll
+addicted-to
 addidas
 additionay
 adenosyl
@@ -1370,6 +1389,8 @@ allbestedmed
 allbestmed
 allianz/
 allright
+alluring escort
+alluring-escort
 allworkhome
 alprazolam
 amateur-homemade
@@ -1503,6 +1524,7 @@ avvessorie
 avvessory
 awordpress.
 azur-lv
+ɑlivе
 b.u.y
 babycanread
 babyliss
@@ -1697,6 +1719,7 @@ bestsuppl
 besttummy
 bestwebsite
 betlist
+betterjudg
 biaxin
 bieding laarzen
 bieding-laarzen
@@ -2074,6 +2097,8 @@ camicieabercrombie
 camicienegozi
 can_help_you
 can-help-you
+canada loan
+canada-loan
 canadagoose-ca
 canadagoose-factory
 canadagoose-fr
@@ -2094,6 +2119,8 @@ canadagooses-out
 canadagoosesfactory
 canadagoosesoutlet
 canadaoutlet
+canadian loan
+canadian-loan
 candycrush
 cannabis-seed
 cappelli boston
@@ -2490,6 +2517,7 @@ cigsbuy
 cigsonline
 cigspromo
 ciproanti
+citʏ
 clarisonic
 clash-of-clans
 clashofclans
@@ -2668,6 +2696,7 @@ couchey fr
 couchey-fr
 coucheyfr
 coumadin
+countrу
 coupon_pag
 coupon-code
 coupon-pag
@@ -2755,6 +2784,7 @@ day-diet
 daytrade
 daytrading
 de site
+de-contacto
 de-site
 deal.blog
 dealonline
@@ -3023,6 +3053,7 @@ empire hack
 empire-hack
 empower-network
 empowernetwork
+en/formula
 endlaved
 eneugh
 eng/faq
@@ -3064,6 +3095,7 @@ erotictoy
 erotik
 erotyczna
 es.iodress
+es/content
 escitalopram
 escort-zone
 escorts.
@@ -3116,6 +3148,8 @@ extreme-sport
 extremely}
 eyeglass sale
 eyeglasssale
+eѕcort
+eхperienc
 f_blog_id
 faar more
 faar-more
@@ -3306,6 +3340,8 @@ fluoxetine
 fluticasone
 fobur.in
 foodpyramid
+foolproof trick
+foolproof-trick
 footdiscount
 footwear jordan
 footwear mbt
@@ -4782,7 +4818,9 @@ litte-more
 live-article
 livearticle
 livesex
+loan canada
 loan compan
+loan-canada
 loan-compan
 loan-direct
 loan-online
@@ -4792,6 +4830,8 @@ loancompan
 loandirect
 loanfast
 loanonline
+loans canada
+loans-canada
 loans-direct
 loans-online
 loans.
@@ -4955,6 +4995,8 @@ madeye30
 magazine/page1
 magazine/page2
 magicmoncler
+magnificent article
+magnificent-article
 mail_list
 mail.ru
 maillot man
@@ -5001,6 +5043,8 @@ månnerpuma
 manning jersey
 manning-jersey
 manningjersey
+manor escort
+manor-escort
 maran-trainer
 marant boot
 marant shoe
@@ -5042,6 +5086,8 @@ marlboro-100
 marlboro-cig
 marlboro-gold
 marlboro100
+marvelous post
+marvelous-post
 mass-facebook
 massarticle
 massive-web
@@ -5210,6 +5256,8 @@ metronidazole
 mezzo louis
 mezzo-louis
 mezzolouis
+miami escort
+miami-escort
 michael-kors
 michael+kors
 michaelkors
@@ -5508,6 +5556,7 @@ moviesdl
 moviesonline
 movieszone
 moviezone
+moгe
 mp3-download
 mp3la.ru
 mp3player
@@ -5669,6 +5718,7 @@ nice-practice
 nicki-mariah
 nicoban
 nicolasbit
+nicе
 nieruchomosci
 nike free
 nike jersey
@@ -6315,6 +6365,8 @@ premiumcig
 prepaid-credit
 preparationwise
 prescription.htm
+presentation subsequent
+presentation-subsequent
 pressrelease.net
 pretty worth
 pretty-worth
@@ -6442,7 +6494,9 @@ qampuz
 qquality
 qry_pag
 qtrade
+quality article
 quality post
+quality-article
 quality-post
 quartz-seiko
 quartzseiko
@@ -6555,6 +6609,7 @@ rejersey.net
 rekla.
 reklamowe
 rekreacja
+relaxeԁ
 reliefsecret
 religion jeans
 religion-jeans
@@ -7118,8 +7173,8 @@ soldes louboutin
 soldes-louboutin
 soldeslouboutin
 solução
+solutioninc
 solutionsinc
-soma.htm
 sonicsearch
 sooemne
 sort_index
@@ -7139,6 +7194,8 @@ sparkleugg
 special-offer
 specialty-transfer
 specialtytransfer
+specific gift
+specific-gift
 spedified
 speed-loan
 speedloan
@@ -8135,6 +8192,7 @@ wayfarer glass
 wayfarer-glass
 wayfarerglass
 wdmypass
+we-are-your
 weave-hair
 weavehair
 web anal
@@ -8569,7 +8627,6 @@ you-ssay
 you-ugg
 you-want-it
 youll
-youll-need
 young porn
 young_porn
 young-porn
@@ -8656,6 +8713,7 @@ zcode
 zdrowie
 zed-bull
 zedbull
+zenonia
 zero calorie
 zero-calorie
 zerocalorie
@@ -8803,6 +8861,7 @@ zyvox
 юридической
 ԝill
 ոeutral
+ոotie
 루이비통
 アークテリクス
 アウトレット
@@ -8871,7 +8930,6 @@ zyvox
 ブが広がります
 プライバシ
 ブランド
-ブランドコピー
 ブルガリ
 ブレスレット
 プロダクトキ
