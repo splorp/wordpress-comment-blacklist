@@ -2020,6 +2020,7 @@ buy ageless
 buy cheap
 buy gig
 buy hermes
+buy insta
 buy jordan
 buy louis
 buy online
@@ -2031,6 +2032,7 @@ buy-cig
 buy-gig
 buy-gucci
 buy-hair
+buy-insta
 buy-jordan
 buy-louis
 buy-movie
@@ -2821,6 +2823,7 @@ derm exclus
 derm-exclus
 dermexclus
 desconto
+designer bag
 designer-bag
 designer-brand
 designer-jewel
@@ -3203,10 +3206,12 @@ fajki
 fajna-fotka
 fajnafotka
 fajne
+fake mirror
 fake oakley
 fake rayban
 fake sunglass
 fake-converse
+fake-mirror
 fake-oakley
 fake-rayban
 fake-sunglass
@@ -7457,6 +7462,7 @@ therealest
 thes good
 thetopdog
 theyll
+thhis
 things-consume
 things-we-love
 this blog
