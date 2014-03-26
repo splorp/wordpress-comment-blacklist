@@ -1122,9 +1122,13 @@ _vti
 >enter
 >fuck
 >gluten
+>longchamp
 >pokie
 >ugg
 >woolr
+|chi
+|dal
+|det
 |for
 |per
 |porn
@@ -1368,6 +1372,7 @@ agencje-
 agent denim
 agent-denim
 agentdenim
+ago|
 air max
 air-jorda
 air-max
@@ -3362,6 +3367,7 @@ for-gucci
 for-interactive
 for-men
 for-money
+for-the-most
 for-windows-8
 for-your-needs
 for+sale
@@ -4135,6 +4141,7 @@ horoscopes
 horoskop
 horsesimul
 host.ro
+hot tech
 hot_babe
 hot-babe
 hot-girl
@@ -4144,6 +4151,7 @@ hot-panty
 hot-sale
 hot-tag
 hot-tags
+hot-tech
 hot.htm
 hotburberry
 hotel deal
@@ -4162,7 +4170,9 @@ hotpanty
 hotsale
 hotsunglass
 hottag
+hottest tech
 hottest update
+hottest-tech
 hottest-update
 hourpayday
 how_do_
@@ -4278,7 +4288,9 @@ informatique enligne
 informatique-enligne
 informative blog
 informative post
+informative web
 informative-blog
+informative-web
 infos-
 infos/
 infusionsoft
@@ -4683,7 +4695,11 @@ lancel-sac
 lancelad
 laplap
 laptop_online
+large tote
+large-tote
+largetote
 lariam
+las|
 lasart.es
 laser-therapy
 lasercuttingmachine
@@ -4862,26 +4878,35 @@ londongenuine
 long long
 longchamp aus
 longchamp bag
+longchamp handbag
 longchamp pas
+longchamp purse
 longchamp solde
 longchamp tasche
+longchamp tote
 longchamp uk
 longchamp-aus
+longchamp-handbag
+longchamp-purse
 longchamp-shop
 longchamp-solde
 longchamp-tasche
+longchamp-tote
 longchamp-uk
 longchamp.php
 longchampaus
 longchampbag
+longchamphandbag
 longchamplondon
 longchampoffici
 longchampout
 longchampp
+longchamppurse
 longchampsa
 longchampshop
 longchampsolde
 longchamptasche
+longchamptote
 longchampuk
 lookingfor
 lorazepam
@@ -5900,6 +5925,7 @@ officialstyle
 officialteamshop
 officialugg
 officialwebsite
+oit|
 ojectx
 ok-cheap
 ok-sex
@@ -6128,6 +6154,7 @@ panty-sex
 pantymania
 pantypic
 pantyplay
+paradisiaque
 paragraph writing
 paragraph-writing
 parajumpers
@@ -6715,6 +6742,9 @@ rheumatoidarthritis
 rich woolrich
 rich-woolrich
 richwoolrich
+right blog
+right-blog
+rightblog
 rilopkais.in
 rin.in
 riot points
@@ -7070,6 +7100,9 @@ short ugg
 short-ugg
 shorttermloan
 shortugg
+shoulder tote
+shoulder-tote
+shouldertote
 show_info
 show_member_post
 shownews.
@@ -7600,6 +7633,7 @@ totalizador
 tote handbag
 tote-handbag
 totehandbag
+town|
 tr.im
 trace-service
 tracing-service
@@ -7956,6 +7990,7 @@ uomoadidas
 uomoman
 uomomoncler
 uomotimberland
+up-to-date
 upgrade key
 upgrade-key
 upgradekey
@@ -8637,7 +8672,7 @@ youll
 young porn
 young_porn
 young-porn
-your blog!
+your blog
 your success
 your traffic
 your weblog
@@ -8649,6 +8684,7 @@ your_loan
 your_profile
 your_site
 your-account
+your-blog
 your-budget
 your-credit
 your-ex
@@ -8665,6 +8701,7 @@ your-website
 your-windows
 your-your
 youraccount
+yourblog
 yourcredit
 yourdui
 yourex
