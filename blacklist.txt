@@ -293,11 +293,16 @@ _vti
 -shoes.
 -shop.co
 -sigareta-
+-sigareta.
+-sigareta/
 -sigarety-
+-sigarety.
+-sigarety/
 -soma.
 -soma/
 -speed-up-
 -store.
+-store/
 -strona-
 -strona.
 -strona/
@@ -406,7 +411,7 @@ _vti
 .html?
 .html/
 .htn
-.info.pl
+.info.
 .insanity-
 .internet-
 .jp/my/
@@ -626,7 +631,9 @@ _vti
 /ck.
 /cl/
 /clearance/
+/coach-
 /coach.
+/coach/
 /coachpurses-
 /commodity.
 /common/
@@ -757,6 +764,8 @@ _vti
 /index4.
 /index5.
 /indexdic
+/info-
+/info.
 /infopage/
 /infopages/
 /install/
@@ -2609,6 +2618,7 @@ coach-bag
 coach-black
 coach-factory
 coach-flight
+coach-men
 coach-new
 coach-out
 coach-store
@@ -3839,7 +3849,9 @@ griseparka
 grooming needs
 grooming-needs
 grossrx
-group_home.php
+group_home
+group_review
+group-home
 group-review
 grow-cannabis
 growmens
@@ -5282,7 +5294,9 @@ membership hack
 membership-hack
 membershiphack
 men boost
+men handbag
 men-boost
+men-handbag
 men+shoe
 menboost
 menseekingwom
@@ -6275,12 +6289,14 @@ phone-advert
 phone-jammer
 phone-lookup
 phone-number-lookup
+phone-store
 phoneadvert
 phoneforsale
 phonejammer
 phonelookup
 phonescanada
 phonesforsale
+phonestore
 phonstore
 photo/online
 photoeditingdeal
@@ -6289,9 +6305,8 @@ php?rowstart
 php?showuser
 php?title
 php5?title
-phpbb2/profile
-phpbb2/user
-phpinfo.php
+phpbb2
+phpinfo
 phync
 pidarashechk
 pignee
@@ -6370,6 +6385,8 @@ porno@
 pornolady
 pornsex
 possess
+post post
+post-post
 post-service
 post.much
 post.pw
@@ -8034,7 +8051,7 @@ usabest
 user_blog.php
 user/profile
 user/view
-userinfo.
+userinfo
 usually relative
 usually-relative
 ut.ag/
@@ -9050,6 +9067,7 @@ zyvox
 巨大
 店の
 性愛的
+最安値
 札入れ
 毛刈
 激安
