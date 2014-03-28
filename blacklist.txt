@@ -784,12 +784,18 @@ _vti
 /kat,
 /kd6
 /kinder-moncler
+/kitchenknife-
+/kitchenknife.
+/kitchenknives-
+/kitchenknives.
 /kommentar
 /konsultan
 /kredit
 /kredyt
 /lacoste-
 /lang-es/
+/latestmk-
+/latestmk.
 /legal/
 /libs/
 /lijst/
@@ -828,6 +834,8 @@ _vti
 /membership-
 /membership.
 /menu.
+/mkshop-
+/mkshop.
 /mlsp-
 /mlsp.
 /mlsp/
@@ -1355,6 +1363,9 @@ adwokacka
 adwokat
 adwords
 aff.php
+affiliate link
+affiliate-link
+affiliatelink
 african-canadian-model
 africancanadianmodel
 age.webeden
@@ -1485,6 +1496,8 @@ asikkusu
 aso expei
 asp?folder
 asp?id
+asphalt8cheat
+asphalt8hack
 aspiring blog
 aspiring-blog
 assistance informatique
@@ -1776,6 +1789,7 @@ blackugg
 blazer-chaussure
 blazerchaussure
 blog beast
+blog here
 blog occasion
 blog platform
 blog soon
@@ -1785,6 +1799,7 @@ blog_entry.
 blog_id
 blog_post_
 blog-beast
+blog-here
 blog-occasion
 blog-platform
 blog-soon
@@ -2384,6 +2399,7 @@ cheap-travel
 cheap-ugg
 cheap-uk
 cheap+
+cheap<
 cheapadobe
 cheapatlanta
 cheapauthentic
@@ -3157,6 +3173,7 @@ extreme-sport
 extremely}
 eyeglass sale
 eyeglasssale
+eyеs
 eѕcort
 eхperienc
 f_blog_id
@@ -3801,8 +3818,10 @@ goyardonline
 gratuitos
 graypanther
 great article
+great blog
 great goods
 great-article
+great-blog
 great-essay
 great-goods
 great-things
@@ -3907,6 +3926,8 @@ hack facebook
 hack fb
 hack-facebook
 hack-fb
+hack<
+hackasphalt
 hackfacebook
 hackfb
 hair-again
@@ -4642,6 +4663,7 @@ kors aust
 kors bag
 kors brasil
 kors canada
+kors cheap
 kors france
 kors glass
 kors handbag
@@ -4654,6 +4676,7 @@ kors uk
 kors wallet
 kors-bags
 kors-canada
+kors-cheap
 kors-glass
 kors-handbag
 kors-laptop
@@ -5846,6 +5869,7 @@ nouveaumaillot
 now.in
 nude-ass
 nude.htm
+nufactur
 oakeyspascher
 oakley canada
 oakley caveat
@@ -6738,6 +6762,7 @@ reviewx
 reviot
 revolutionjog
 revolutionstroller
+reԛuire
 rheumatoidarthritis
 rich woolrich
 rich-woolrich
@@ -6790,6 +6815,7 @@ running sneak
 running-sneak
 runningsneak
 rusztowania
+rіght
 s.webeden
 sabo charm
 sabo out
@@ -7516,6 +7542,7 @@ threadid
 thumb.jpeg
 thumb.jpg
 thyromine
+tɦey
 tier business
 tier-business
 tiffany france
@@ -8796,6 +8823,7 @@ zyvox
 аr
 абонентская
 агенств
+админу
 алкогольные
 альтернатива
 андроид
@@ -8803,6 +8831,7 @@ zyvox
 без
 бензогенератор
 бесплатн
+блог
 вђ
 веб
 г©
@@ -8815,6 +8844,7 @@ zyvox
 знакомства
 инете
 интересной
+интересный
 интернет
 іt
 казино
@@ -8906,6 +8936,7 @@ zyvox
 ԝill
 ոeutral
 ոotie
+ߋ
 루이비통
 アークテリクス
 アウトレット
