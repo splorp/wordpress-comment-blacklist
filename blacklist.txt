@@ -1139,6 +1139,7 @@ _vti
 >enter
 >fuck
 >gluten
+>herpes
 >longchamp
 >pokie
 >ugg
@@ -1902,8 +1903,10 @@ bottes-pas
 bottes-ugg
 bottespas
 bottesugg
+boutique balenciaga
 boutique chaussures
 boutique ugg
+boutique-balenciaga
 boutique-chaussures
 boutique-ugg
 boutiquechaussures
@@ -2614,6 +2617,7 @@ coach handbag
 coach out
 coach purse
 coach thai
+coach wristlet
 coach-bag
 coach-black
 coach-factory
@@ -2622,6 +2626,7 @@ coach-men
 coach-new
 coach-out
 coach-store
+coach-wristlet
 coach2you
 coachbag
 coachbags
@@ -2643,6 +2648,7 @@ coachsuto
 coachsyoppu
 coachtokyo
 coachwallet
+coachwristlet
 coachya
 code-generat
 colin-kaepernick
@@ -2765,6 +2771,8 @@ cuir-vanessa
 cuirvanessa
 cup jersey
 cup-jersey
+cure herpes
+cure-herpes
 cure.co.
 curehelp
 cures.co.
@@ -3934,6 +3942,7 @@ guiltfree
 guru1
 gurus1
 gyslera
+habitof
 hack facebook
 hack fb
 hack-facebook
@@ -4101,6 +4110,11 @@ hernia support
 hernia surgery
 hernia-support
 hernia-surgery
+herpes infect
+herpes treatment
+herpes-infect
+herpes-treatment
+herpes<
 herren moncler
 herren timberland
 herren-moncler
@@ -4308,6 +4322,8 @@ index/css
 indexold
 indicators.co
 inetry
+infected almost
+infected-almost
 infinity-2
 infinity2
 info/product
@@ -4387,6 +4403,7 @@ invest-money
 invest-off
 invest.net
 investing+
+investinwell
 investmoney
 investoff
 investor.ru
@@ -4746,6 +4763,7 @@ latonya.
 lauren cheap
 lauren dame
 lauren home
+lauren homme
 lauren out
 lauren polo
 lauren sale
@@ -4754,6 +4772,7 @@ lauren uk
 lauren-cheap
 lauren-dame
 lauren-home
+lauren-homme
 lauren-out
 lauren-polo
 lauren-sale
@@ -4762,6 +4781,7 @@ lauren-uk
 laurencheap
 laurendame
 laurenhome
+laurenhomme
 laurenout
 laurenpolo
 laurenralph
@@ -5937,7 +5957,9 @@ odszkodowania
 odziez
 oem-software
 oemsoftware
+of herpes
 of internet
+of-herpes
 of-internet
 offer outlet
 offer watch
@@ -6987,6 +7009,8 @@ seekingwom
 seekman
 seekmen
 seekwom
+seeming vexation
+seeming-vexation
 seikomise
 seks.ru
 sell-now
@@ -7596,6 +7620,7 @@ timberlandpas
 timberlandsaldi
 timberlanduom
 time-synchronisation.co
+times(with
 timesamsonss
 timeshare
 tingenieur
@@ -7607,6 +7632,7 @@ tips-for-
 tips-to-start
 tips.info
 tipsblog
+tipsof
 tire-discount
 tire-wholesale
 tirediscount
@@ -8261,6 +8287,7 @@ warehouse.us
 warepics
 warmjp
 warszawa
+wasbusiness
 watch video
 watch-quartz
 watch-replica
