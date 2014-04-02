@@ -255,6 +255,7 @@ _vti
 -prada.
 -prada/
 -premium-
+-premium.
 -premium/
 -programy-
 -programy.
@@ -911,8 +912,12 @@ _vti
 /prada_
 /prada-
 /prada.
+/premium-
+/premium.
 /pricing.
+/pricing-
 /privat-
+/private-
 /private.
 /private/
 /product/0/
@@ -925,6 +930,7 @@ _vti
 /profile.
 /profile/
 /prolist
+/property.
 /property-
 /prozac
 /pufy
@@ -1394,6 +1400,8 @@ agent denim
 agent-denim
 agentdenim
 ago|
+aint goin
+aint-goin
 air max
 air-jorda
 air-max
@@ -2056,6 +2064,7 @@ buy insta
 buy jordan
 buy louis
 buy online
+buy private
 buy toms
 buy traffic
 buy women
@@ -2072,6 +2081,7 @@ buy-now
 buy-online
 buy-pill
 buy-plus
+buy-private
 buy-soma
 buy-toms
 buy-traffic
@@ -3174,8 +3184,10 @@ evryday
 excelent
 excellent blog
 excellent site
+excellent website
 excellent-blog
 excellent-site
+excellent-website
 exclusive rendez
 exclusive-rendez
 exclusive.ru
@@ -3336,6 +3348,7 @@ fg-xpress
 fgxpress
 fibromyalgia
 fightmark
+filestube
 filmizle
 finance-
 finance-blog
@@ -3664,8 +3677,10 @@ gilet-moncler
 giletmoncler
 girl escort
 girl jordan
+girl-day-dress
 girl-escort
 girl-jordan
+girldaydress
 girlescort
 girlie spouse
 girlie-spouse
@@ -3673,7 +3688,9 @@ girliespouse
 girljordan
 girljp
 girls escort
+girls-day-dress
 girls-escort
+girlsdaydress
 girlsescort
 giubbotti woolrich
 giubbotti-woolrich
@@ -3838,11 +3855,13 @@ graypanther
 great article
 great blog
 great goods
+great written
 great-article
 great-blog
 great-essay
 great-goods
 great-things
+great-written
 great}
 greatbet
 greece-holid
@@ -4271,6 +4290,8 @@ hydroxy
 hyper-fb
 hypothyroidism
 hyzaar
+i aint
+i-aint
 i-will-be
 ï¿½
 i2g
@@ -6471,6 +6492,8 @@ price-of-gold
 pricetobook
 priligy
 primeessay
+private ftp
+private-ftp
 private-label
 privatelabel
 prix ugg
@@ -7184,6 +7207,8 @@ siegheil
 sign-zodiac
 signed-jersey
 signifiant
+significant infos
+significant-infos
 signozodiac
 signzodiac
 silagra
@@ -8606,6 +8631,7 @@ wristpain
 writing-service
 writingservice
 wwellness
+www.0day
 www.1
 www.2012
 www.2013
