@@ -13,7 +13,11 @@ _vti
 -(
 -24.
 -abercrombie-
+-abercrombie.
+-abercrombie/
 -abercrombiefitch-
+-abercrombiefitch.
+-abercrombiefitch/
 -acne-
 -acne.
 -acne/
@@ -21,16 +25,27 @@ _vti
 -adsense.
 -adsense/
 -amateur-
+-amateur.
 -amateur/
 -anal-
+-anal.
+-anal/
 -anonymous-
+-anonymous.
+-anonymous/
 -argente-
+-argente.
+-argente/
 -armani.
 -armani/
 -asics.
 -asics/
 -auction-
+-auction.
+-auction/
 -authentic-
+-authentic.
+-authentic/
 -b2b
 -backpain-
 -backpain.
@@ -115,15 +130,21 @@ _vti
 -easily-
 -ebay
 -enlargement.
+-enlargement/
 -escort.
 -escort/
 -essay.
+-essay/
 -fantasia-
 -fantasia.
 -fashion-
 -filmy
 -finance.
+-finance/
 -financing.
+-financing/
+-fitch.
+-fitch/
 -for-adult
 -for-sale
 -for-u-
@@ -131,7 +152,9 @@ _vti
 -foreclosed-
 -foreclosure-
 -fotograf.
+-fotograf/
 -fotografia.
+-fotografia/
 -fuck-
 -fuck.
 -fuck/
@@ -147,17 +170,30 @@ _vti
 -fucks-
 -fucks.
 -fucks/
--gambling
--game-jersey
+-gambling-
+-gambling.
+-gambling/
 -gaming-
+-gaming.
+-gaming/
 -get-free-
 -gifts-
 -handbag-
+-handbag.
+-handbag/
 -handbags-
+-handbags.
+-handbags/
 -harley-davidson-
 -herbal-
+-herbal.
+-herbal/
 -hermes-
+-hermes.
+-hermes/
 -income-
+-income.
+-income/
 -infotain
 -insurance.
 -insurance/
@@ -486,12 +522,12 @@ _vti
 /_themes/
 /-_
 /?cat
-/?document_
-/?l1/
-/?l2/
-/?new-
+/?doc
+/?l1
+/?l2
+/?new
 /?pag
-/?uid-
+/?uid
 /.wd/
 //123.
 //aaa-
@@ -513,6 +549,8 @@ _vti
 //gay
 //generic
 //groups
+//images-
+//images.
 //images/
 //income
 //leverage
@@ -529,6 +567,7 @@ _vti
 //test
 //vpn-
 //vpn.
+//webpage
 //website
 //webstore
 //wp-
@@ -563,18 +602,27 @@ _vti
 /asics-
 /asics.
 /asp/
+/asthma-
 /asthma.
 /attachments/
 /authentic
+/baby-
 /baby.
+/babydoll-
 /babydoll.
 /bag.sh/
 /bags/
+/banner-
+/banner.
 /banners-
+/banners.
+/bazar-
 /bazar.
 /bbs/
+/best-
 /best.
 /better-
+/better.
 /birkenstock-
 /birkenstock.
 /birkenstocks-
@@ -914,8 +962,8 @@ _vti
 /prada.
 /premium-
 /premium.
-/pricing.
 /pricing-
+/pricing.
 /privat-
 /private-
 /private.
@@ -930,8 +978,8 @@ _vti
 /profile.
 /profile/
 /prolist
-/property.
 /property-
+/property.
 /prozac
 /pufy
 /pumps-
@@ -3231,17 +3279,17 @@ face-women
 facebok
 facebook advert
 facebook cash
-facebook classi
+facebook class
 facebook-ads
 facebook-advert
 facebook-cash
-facebook-classi
+facebook-class
 facebook-fan
 facebook-traffic
 facebookads
 facebookadvert
 facebookcash
-facebookclassi
+facebookclass
 facebookfan
 facebooklike
 facejacket
@@ -3281,7 +3329,8 @@ farmacias
 farming-secrets
 farmingsecrets
 fashion-boot
-fashion-classi
+fashion-bracelet
+fashion-class
 fashionboot
 fashionbracelet
 fashionistblog
@@ -3465,7 +3514,7 @@ fraudcenter
 frauen puma
 frauen-puma
 frauenpuma
-free classi
+free class
 free gay
 free prescription
 free visitor
@@ -3474,7 +3523,7 @@ free-bbs
 free-bid
 free-brows
 free-casino
-free-classi
+free-class
 free-gay
 free-ipad
 free-iphone
@@ -3494,7 +3543,7 @@ freebbs
 freebid
 freebrows
 freecasino
-freeclassi
+freeclass
 freedating
 freefor.co
 freegay
@@ -3586,6 +3635,7 @@ gallergrind
 game wiki
 game-casino
 game-copy
+game-jersey
 game-wiki
 gamecopy
 gamedesigndegree
@@ -3629,10 +3679,10 @@ generator-2014
 generator2014
 generatorpro
 genuine-pandora
-genuinely fastidious
-genuinely fruitful
-genuinely-fastidious
-genuinely-fruitful
+genuinely fast
+genuinely fruit
+genuinely-fast
+genuinely-fruit
 genuinepandora
 germany jersey
 germany-jersey
@@ -3680,6 +3730,7 @@ girl jordan
 girl-day-dress
 girl-escort
 girl-jordan
+girl-jp
 girldaydress
 girlescort
 girlie spouse
@@ -4714,6 +4765,7 @@ kors bag
 kors brasil
 kors canada
 kors cheap
+kors factory
 kors france
 kors glass
 kors handbag
@@ -4727,6 +4779,7 @@ kors wallet
 kors-bags
 kors-canada
 kors-cheap
+kors-factory
 kors-glass
 kors-handbag
 kors-laptop
@@ -5455,7 +5508,7 @@ moncler coat
 moncler donn
 moncler femme
 moncler firenze
-moncler giubbotti
+moncler giub
 moncler handbag
 moncler homme
 moncler jack
@@ -5502,7 +5555,7 @@ moncler-coat
 moncler-donn
 moncler-femme
 moncler-firenze
-moncler-giubbotti
+moncler-giub
 moncler-handbag
 moncler-homme
 moncler-jack
@@ -5549,7 +5602,7 @@ monclercoat
 monclerdonn
 monclerfemme
 monclerfirenze
-monclergiubbotti
+monclergiub
 monclerhandbag
 monclerhomme
 monclerjack
@@ -6025,7 +6078,7 @@ oneminutesite
 onenike
 online cash
 online casino
-online classi
+online class
 online dating
 online loan
 online out
@@ -6036,7 +6089,7 @@ online-business
 online-cash
 online-casino
 online-cert
-online-classi
+online-class
 online-dating
 online-invest
 online-kredit
@@ -6447,7 +6500,7 @@ poznan
 pozycjonowanie
 pozyczka
 pozyczki
-pp-classi
+pp-class
 prada bag
 prada cheap
 prada dress
@@ -7103,7 +7156,9 @@ sextape
 sextoy
 sextube
 sexual fantas
+sexual moment
 sexual-fantas
+sexual-moment
 sexualfantas
 sexweb
 sexy.co
@@ -7430,9 +7485,9 @@ sunglassuk
 sunrize
 superarticle
 superheroz
-superstar classic
-superstar-classic
-superstarclassic
+superstar class
+superstar-class
+superstarclass
 supra shoe
 supra-shoe
 suprashoe
@@ -7798,7 +7853,7 @@ ugg botte
 ugg brown
 ugg brux
 ugg cheap
-ugg classi
+ugg class
 ugg dakota
 ugg elsey
 ugg enfant
@@ -7839,7 +7894,7 @@ ugg-botte
 ugg-brown
 ugg-brux
 ugg-cheap
-ugg-classi
+ugg-class
 ugg-comfort
 ugg-elsey
 ugg-enfant
@@ -7892,7 +7947,7 @@ uggbotte
 uggbrown
 uggbrux
 uggcheap
-uggclassi
+uggclass
 uggclog
 uggcomfort
 uggdakota
@@ -7922,7 +7977,7 @@ uggs bebe
 uggs black
 uggs boot
 uggs brux
-uggs classi
+uggs class
 uggs elsey
 uggs femme
 uggs hot
@@ -7948,7 +8003,7 @@ uggs-bebe
 uggs-black
 uggs-boot
 uggs-brux
-uggs-classi
+uggs-class
 uggs-elsey
 uggs-femme
 uggs-for
@@ -7982,7 +8037,7 @@ uggsblack
 uggsboot
 uggsbrux
 uggscheap
-uggsclassi
+uggsclass
 uggselsey
 uggsfemme
 uggsfor
@@ -8144,9 +8199,9 @@ veste moncler
 veste-moncler
 vestemoncler
 vestidos
-veston classi
-veston-classi
-vestonclassi
+veston class
+veston-class
+vestonclass
 vetement-femme
 vetement-homme
 veterinarnaya
@@ -8420,6 +8475,7 @@ wettingpant
 weusecoin
 what-we-know
 what's up,
+what’s up,
 whats up,
 whatsapp
 wheels.co
@@ -8547,7 +8603,7 @@ woolrich coupon
 woolrich donn
 woolrich europe
 woolrich field
-woolrich giubbotti
+woolrich giub
 woolrich jacket
 woolrich john
 woolrich outlet
@@ -8565,7 +8621,7 @@ woolrich-coupon
 woolrich-donn
 woolrich-europe
 woolrich-field
-woolrich-giubbotti
+woolrich-giub
 woolrich-jacket
 woolrich-john
 woolrich-outlet
@@ -8584,7 +8640,7 @@ woolrichcoupon
 woolrichdonn
 woolricheurope
 woolrichfield
-woolrichgiubbotti
+woolrichgiub
 woolrichjacket
 woolrichjohn
 woolrichoutlet
@@ -8602,6 +8658,7 @@ woowoohouse
 woowoosex
 woowoosite
 wordpress web
+wordpress-theme
 wordpress-web
 wordpresstheme
 wordpressweb
@@ -8770,6 +8827,7 @@ young porn
 young_porn
 young-porn
 your blog
+your penis
 your success
 your traffic
 your weblog
@@ -8788,6 +8846,7 @@ your-ex
 your-family-member
 your-free
 your-loan
+your-penis
 your-personal
 your-profile
 your-site
