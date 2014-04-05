@@ -375,6 +375,8 @@ _vti
 -vaginal-
 -vendita-
 -vuitton-
+-watches.
+-watches/
 -wayfarer.
 -web-pag
 -web-site
@@ -384,10 +386,12 @@ _vti
 -wedding-photo
 -wheels-
 -wholesale.
+-wizard.co
 -women-jersey
 -womens.
 -xchange
 ･・
+,.
 ,kat,
 ,title,
 ､､
@@ -940,6 +944,8 @@ _vti
 /online.
 /orderpage/
 /orgasm
+/other-
+/other.
 /outils/
 /page_
 /page1.
@@ -1190,6 +1196,7 @@ _vti
 =utf8
 =view
 >.}
+>cheap
 >enter
 >fuck
 >gluten
@@ -2427,6 +2434,7 @@ cheap toms
 cheap travel
 cheap ugg
 cheap uk
+cheap wedding
 cheap-adobe
 cheap-atlanta
 cheap-authentic
@@ -2473,6 +2481,7 @@ cheap-toms
 cheap-travel
 cheap-ugg
 cheap-uk
+cheap-wedding
 cheap+
 cheap<
 cheapadobe
@@ -3263,6 +3272,7 @@ eyеs
 eѕcort
 eхperienc
 f_blog_id
+fa‡on
 faar more
 faar-more
 fabulous drug
@@ -3485,6 +3495,8 @@ forgucci
 forhandlere
 forjp.co
 formaldresses
+formula replica
+formula-replica
 forsale-japan
 forsalego
 forsalejapan
@@ -4200,6 +4212,7 @@ herren-moncler
 herren-timberland
 herrenmoncler
 herrentimberland
+heuer-new
 hfgfh
 hgfj
 hggh
@@ -4643,6 +4656,7 @@ jewelry collection
 jewelry expens
 jewelry-collection
 jewelry-expens
+jewelry<
 jewelrybest
 jewelrycollection
 jewelryexpens
@@ -5214,7 +5228,7 @@ manning-jersey
 manningjersey
 manor escort
 manor-escort
-maran-trainer
+maran-train
 marant boot
 marant shoe
 marant sneak
@@ -5222,7 +5236,7 @@ marant-boot
 marant-shoe
 marant-sneak
 marantboot
-marantrainer
+marantrain
 marantshoe
 marantsneak
 marcjacobsjap
@@ -5296,7 +5310,7 @@ mbt shop
 mbt special
 mbt tariki
 mbt tembea
-mbt trainer
+mbt train
 mbt tunisha
 mbt vanzari
 mbt women
@@ -5320,7 +5334,7 @@ mbt-shop
 mbt-special
 mbt-tariki
 mbt-tembea
-mbt-trainer
+mbt-train
 mbt-tunisha
 mbt-vanzari
 mbt-women
@@ -5346,7 +5360,7 @@ mbtsko
 mbtspecial
 mbttariki
 mbttembea
-mbttrainer
+mbttrain
 mbttunisha
 mbtvanzari
 mbtwomen
@@ -5395,6 +5409,7 @@ member.php
 memberlist.php
 membership hack
 membership-hack
+membership.php
 membershiphack
 men boost
 men handbag
@@ -6464,6 +6479,9 @@ pokermoney
 pokerstrateg
 pokies-online
 pokiesonline
+polnocno
+pólnocno
+północno
 polo out
 polo ralph
 polo_lacoste
@@ -6622,6 +6640,7 @@ prozac-
 prywatne
 przepisane
 przeprowadzki
+przysiegly
 psych-clinic
 psychclinic
 publica-foto
@@ -6836,6 +6855,7 @@ replica-store
 replica-top
 replica-ugg
 replica-world
+replica<
 replica7
 replica8
 replicabag
@@ -7531,6 +7551,7 @@ system-review
 tabaki
 tadalafil
 tadapox
+tag_heuer
 takje care
 takje-care
 tamiflu
@@ -8462,6 +8483,8 @@ websitesonline
 websiteusa
 websolution
 webviewconsult
+wedding jewelry
+wedding-jewelry
 weddingdress
 week.in
 weekly.in
@@ -8594,11 +8617,12 @@ womenmbt
 womennike
 womens nike
 womens puma
+womens watch
 womens-bag
 womens-nike
 womens-puma
-womens-trainer
-womens-trainers.
+womens-train
+womens-watch
 womenseekingmen
 womensnike
 womenspuma
