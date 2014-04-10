@@ -577,6 +577,12 @@ _vti
 //website
 //webstore
 //wp-
+/10.htm
+/11.htm
+/12.htm
+/13.htm
+/14.htm
+/15.htm
 /a-
 /a#
 /abercrombie-
@@ -1529,6 +1535,8 @@ ambien
 ametuer
 aminocare
 amitriptyline
+amorti dynamique
+amorti-dynamique
 amoxicil
 amoxil
 amzon.co
@@ -2394,6 +2402,8 @@ charlescave
 charms thomas
 charms-thomas
 charmsthomas
+chat-chat
+chatchat
 chaturbate
 chaussres boutique
 chaussres pascher
@@ -2858,6 +2868,8 @@ couponcode
 coupons_pag
 coupons-pag
 couponsense
+couture avec
+couture-avec
 coverages
 cozy-ugg
 cozyugg
@@ -3307,6 +3319,7 @@ exit.asp
 expensive vacation
 expensive-vacation
 expensivevacation
+expert-suggestion
 extra gry
 extreme-sport
 extremely}
@@ -5195,6 +5208,7 @@ luminor watch
 luminor-watch
 luminorwatch
 lunarglide
+lunarlon
 lunderground
 lunette solde
 lunette-solde
@@ -5973,6 +5987,7 @@ nicoban
 nicolasbit
 nicе
 nieruchomosci
+nike 5.0
 nike free
 nike jersey
 nike jordan
