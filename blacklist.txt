@@ -352,9 +352,17 @@ _vti
 -sunglasses.
 -sunglasses/
 -supplement-
+-supplement.
+-supplement/
 -supplements-
+-supplements.
+-supplements/
 -suppliment-
+-suppliment.
+-suppliment/
 -suppliments-
+-suppliments.
+-suppliments/
 -symptoms-
 -tax-attorney
 -tax-relief
@@ -435,6 +443,9 @@ _vti
 .co.jp/shop
 .com/,
 .com/%
+.com/1.
+.com/2.
+.com/3.
 .coupon
 .credopa.in
 .disposable-
@@ -454,6 +465,9 @@ _vti
 .html?
 .html/
 .htn
+.in/1.
+.in/2.
+.in/3.
 .info.
 .insanity-
 .internet-
@@ -475,10 +489,15 @@ _vti
 .php/?
 .pl?
 .pl/?
+.pl/#
+.pl/1.
+.pl/2.
+.pl/3.
 .pl/content
 .pl/member
 .pl/profile
 .pl/user
+.pl#
 .rar.
 .redirects.
 .rekla
@@ -486,6 +505,8 @@ _vti
 .remotedesktop
 .royal-
 .rshacks.
+.ru?
+.ru/?
 .ru/#
 .ru/1.
 .ru/2.
@@ -497,6 +518,7 @@ _vti
 .ru/profile
 .ru/service
 .ru/user
+.ru#
 .sirenos.in
 .smiley
 .sunglasses-
@@ -532,6 +554,7 @@ _vti
 /?l1
 /?l2
 /?new
+/?p=
 /?pag
 /?uid
 /.wd/
@@ -3739,6 +3762,7 @@ ganhar-dinheiro
 gaogb
 gapscent
 garcinia
+gawab.com
 gay sex
 gay-sex
 gaysex
@@ -4349,6 +4373,8 @@ horoscopes
 horoskop
 horsesimul
 host.ro
+hosting community
+hosting-community
 hot tech
 hot_babe
 hot-babe
