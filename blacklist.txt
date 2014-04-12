@@ -893,6 +893,7 @@ _vti
 /legal/
 /libs/
 /lijst/
+/limewire
 /lingerie.
 /link/
 /linkdetail
@@ -1233,6 +1234,7 @@ _vti
 =utf8
 =view
 >.}
+>casino
 >cheap
 >enter
 >fuck
@@ -3466,7 +3468,9 @@ fcukfcuk
 features.cfm
 feichang0
 feihuang0
+felpe hollister
 felpe moncler
+felpe-hollister
 felpe-moncler
 felpemoncler
 female handbag
@@ -4014,6 +4018,8 @@ goyard-bag
 goyard-online
 goyardbag
 goyardonline
+gratuit roulette
+gratuit-roulette
 gratuitos
 graypanther
 great article
@@ -4339,21 +4345,25 @@ hollister brasil
 hollister nantes
 hollister online
 hollister pas
+hollister roma
 hollister shirt
 hollister sverige
 hollister swim
 hollister uk
 hollister-brasil
 hollister-deutsch
+hollister-milano
 hollister-nantes
 hollister-online
 hollister-pas
+hollister-roma
 hollister-shirt
 hollister-sverige
 hollister-swim
 hollister-uk
 hollisterbrasil
 hollisterdeutsch
+hollistermilano
 hollisternantes
 hollisteronline
 hollistershirt
@@ -5508,6 +5518,8 @@ medikal.co
 medizinische
 medphrase
 medshop
+meilleur casino
+meilleur-casino
 melatonin
 meloxicam
 member.php
@@ -5947,6 +5959,8 @@ needmoney
 negozi burberry
 negozi-burberry
 negoziburberry
+negozio-hollister
+negoziohollister
 net/bilder
 net/fr/
 net/members/
@@ -5972,6 +5986,8 @@ newbalance1
 newbalance2
 newblance-20
 newblance20
+newest news
+newest-news
 newgucci
 newhong
 newjordan
@@ -7996,6 +8012,8 @@ trimethoprim
 triviatrivia
 trollapp
 true search
+truly very
+truly-very
 truthabout
 try-these
 tubee.tv
@@ -8466,6 +8484,8 @@ voguetoms
 vuitton aust
 vuitton bag
 vuitton belt
+vuitton black
+vuitton bracelet
 vuitton cig
 vuitton damier
 vuitton deutsch
@@ -8492,6 +8512,8 @@ vuitton wallet
 vuitton wholesale
 vuitton women
 vuitton-bag
+vuitton-black
+vuitton-bracelet
 vuitton-cig
 vuitton-damier
 vuitton-fanny
