@@ -65,6 +65,8 @@ _vti
 -blogs.
 -blogs/
 -bluray-
+-bodybuilding.
+-bodybuilding/
 -breathalyzer-
 -broker.
 -broker/
@@ -191,6 +193,8 @@ _vti
 -hermes-
 -hermes.
 -hermes/
+-hgh.
+-hgh/
 -income-
 -income.
 -income/
@@ -440,7 +444,6 @@ _vti
 .causes-
 .cfmx
 .cgi
-.co.jp/shop
 .com/,
 .com/%
 .com/1.
@@ -465,13 +468,16 @@ _vti
 .html?
 .html/
 .htn
+.in/,
 .in/1.
 .in/2.
 .in/3.
 .info.
+.info/,
 .insanity-
 .internet-
 .jp/my/
+.jp/shop
 .longchamp-
 .magix.net
 .mobi/?
@@ -506,6 +512,7 @@ _vti
 .royal-
 .rshacks.
 .ru?
+.ru/,
 .ru/?
 .ru/#
 .ru/1.
@@ -578,6 +585,7 @@ _vti
 //gay
 //generic
 //groups
+//hgh
 //images-
 //images.
 //images/
@@ -826,6 +834,8 @@ _vti
 /hentai
 /hermes-
 /herveleger
+/hgh-
+/hgh.
 /hire-
 /hollister-
 /hollister.
@@ -1572,6 +1582,7 @@ analsex
 and-special
 andcloth
 andcoupon
+andmerciful
 androidclan
 androidmp3
 aneswr
@@ -1683,6 +1694,8 @@ avatar-live
 avvessorie
 avvessory
 awordpress.
+azria outlet
+azria-outlet
 azur-lv
 ɑlivе
 b.u.y
@@ -1983,6 +1996,7 @@ blueugg
 boaby
 bodacious
 bodog8
+bonocasino
 bonus-code
 bonuscode
 book-ot-
@@ -2053,6 +2067,8 @@ boutiqueugg
 bow ugg
 bow-ugg
 bowugg
+boychik casino
+boychik-casino
 bracelet-sale
 braceletsale
 brain abundance
@@ -2181,6 +2197,7 @@ busquemail
 busythumb
 butikk
 butnow
+butthe
 button ugg
 button-ugg
 buttonugg
@@ -2291,7 +2308,9 @@ canadagooses-out
 canadagoosesfactory
 canadagoosesoutlet
 canadaoutlet
+canadian hgh
 canadian loan
+canadian-hgh
 canadian-loan
 candycrush
 cannabis-seed
@@ -2332,12 +2351,15 @@ cashforsilver
 cashgenerator
 cashloan
 cashout
+casino enligne
 casino online
 casino only
+casino-enligne
 casino-game
 casino-online
 casino-only
 casino.co
+casinoenligne
 casinoer
 casinogame
 casinoonline
@@ -2893,6 +2915,8 @@ couponcode
 coupons_pag
 coupons-pag
 couponsense
+courses casino
+courses-casino
 couture avec
 couture-avec
 coverages
@@ -3129,6 +3153,7 @@ documents/newbalance
 documents/nike
 documents/northface
 documents/rolex
+docxdrive
 does green
 does-green
 doesgreen
@@ -3466,6 +3491,7 @@ fbfans
 fblike
 fcukfcuk
 features.cfm
+feelng
 feichang0
 feihuang0
 felpe hollister
@@ -3479,7 +3505,9 @@ femalehandbag
 females handbag
 females-handbag
 femaleshandbag
+femme-sac
 femmes-canada-goose
+femmesac
 femmescanadagoose
 fendi belt
 fendi-belt
@@ -3918,6 +3946,7 @@ good-game
 good}
 goodbye.asp
 goodgame
+goodnessknows
 goodsblog
 google_java
 google-java
@@ -4052,6 +4081,7 @@ group-home
 group-review
 grow-cannabis
 growmens
+growth hormone
 growth-hormone
 growthhormone
 gruppmeddelanden
@@ -4202,6 +4232,7 @@ hanging-with-friends
 hangingwithfriends
 haohao
 hardtool
+harnessedthem
 has cuisine
 has-cuisine
 hats carolina
@@ -4315,6 +4346,15 @@ heuer-new
 hfgfh
 hgfj
 hggh
+hgh
+hgh dopa
+hgh enhance
+hgh natural
+hgh purchase
+hgh-dopa
+hgh-enhance
+hgh-natural
+hgh-purchase
 hgh-sup
 hgher
 hghsup
@@ -4342,22 +4382,26 @@ hoganshoe
 hogansito
 holdinga
 hollister brasil
+hollister jean
 hollister nantes
 hollister online
 hollister pas
 hollister roma
 hollister shirt
+hollister short
 hollister sverige
 hollister swim
 hollister uk
 hollister-brasil
 hollister-deutsch
+hollister-jean
 hollister-milano
 hollister-nantes
 hollister-online
 hollister-pas
 hollister-roma
 hollister-shirt
+hollister-short
 hollister-sverige
 hollister-swim
 hollister-uk
@@ -4377,6 +4421,10 @@ homebased
 homeloan
 homeremed
 hoodia
+hoodie-cheap
+hoodiecheap
+hoody-cheap
+hoodycheap
 hoolgain
 hoolz
 horoscopes
@@ -4478,6 +4526,7 @@ iamimports
 icon/set
 icons/set
 idanmark
+ifyou
 im not
 im-not
 image-old
@@ -4971,19 +5020,23 @@ lasix
 latonya.
 lauren cheap
 lauren dame
+lauren factory
 lauren home
 lauren homme
 lauren out
 lauren polo
+lauren ralph
 lauren sale
 lauren sverige
 lauren uk
 lauren-cheap
 lauren-dame
+lauren-factory
 lauren-home
 lauren-homme
 lauren-out
 lauren-polo
+lauren-ralph
 lauren-sale
 lauren-sverige
 lauren-uk
@@ -5104,6 +5157,7 @@ litte-more
 live-article
 livearticle
 livesex
+llifted
 loan canada
 loan compan
 loan-canada
@@ -5140,10 +5194,12 @@ lol i
 london-genuine
 londongenuine
 long long
+longafter
 longchamp aus
 longchamp bag
 longchamp handbag
 longchamp pas
+longchamp pliage
 longchamp purse
 longchamp solde
 longchamp tasche
@@ -5151,6 +5207,7 @@ longchamp tote
 longchamp uk
 longchamp-aus
 longchamp-handbag
+longchamp-pliage
 longchamp-purse
 longchamp-shop
 longchamp-solde
@@ -5287,6 +5344,8 @@ lvuk
 m88day
 mac-cosmetic
 mac-makeup
+macha-slim
+machaslim
 maclipgloss
 macmakeup
 madeye30
@@ -5315,6 +5374,7 @@ make-backup
 make-million
 make-money
 makebaby
+makeme
 makemoney
 makersnow
 makeup.blog
@@ -5520,6 +5580,8 @@ medphrase
 medshop
 meilleur casino
 meilleur-casino
+meilleurs casino
+meilleurs-casino
 melatonin
 meloxicam
 member.php
@@ -6294,6 +6356,7 @@ onsale.co
 onsale.htm
 onsale.php
 onsales.co
+openair
 opinion.in
 opinions.in
 options-trad
@@ -6732,6 +6795,8 @@ pro review
 pro-review
 proactol
 procedures-for
+producer excellent
+producer-excellent
 product
 product-sale
 product/product
@@ -7121,9 +7186,11 @@ sabo uk
 sabo-charm
 sabo-out
 sabocharm
+sac longchamp
 sac louis
 sac vanessa
 sac vuitton
+sac-longchamp
 sac-louis
 sac-vanessa
 sac-vuitton
@@ -7498,6 +7565,7 @@ skorrea
 skup-aut
 skup,aut
 slimpill
+slimup
 slongchamp
 slot machine
 slot-machine
@@ -7541,7 +7609,9 @@ solde canada
 solde-canada
 soldecanada
 soldes louboutin
+soldes ralph
 soldes-louboutin
+soldes-ralph
 soldeslouboutin
 solução
 solutioninc
@@ -7687,6 +7757,9 @@ surfing online
 surfing-online
 surprisezone
 suwa³ki
+svente enligne
+svente-enligne
+sventeenligne
 swarovski
 swarovskijapan
 swarovskijp
@@ -7708,6 +7781,7 @@ tabaki
 tadalafil
 tadapox
 tag_heuer
+takenwith
 takje care
 takje-care
 tamiflu
@@ -8481,6 +8555,8 @@ vivotab
 vogue toms
 vogue-toms
 voguetoms
+voyance gratuite
+voyance-gratuite
 vuitton aust
 vuitton bag
 vuitton belt
@@ -8785,14 +8861,19 @@ women-nike
 womendate
 womenmbt
 womennike
+womens bcbg
+womens hollister
 womens nike
 womens puma
 womens watch
 womens-bag
+womens-bcbg
+womens-hollister
 womens-nike
 womens-puma
 womens-train
 womens-watch
+womensbcbg
 womenseekingmen
 womensnike
 womenspuma
