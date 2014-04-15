@@ -707,6 +707,8 @@ _vti
 /category-
 /chanel_
 /chanel.
+/chaussures-
+/chaussures.
 /cheap-
 /cheap.
 /china.
@@ -1605,6 +1607,8 @@ apex-bionic
 apexbionic
 app.lk
 app.php
+apple-unlock
+appleunlock
 appyourself
 apr.i.l
 aquarius-compat
@@ -2086,6 +2090,7 @@ brand-nba
 brand-nhl
 brandengage
 brandjp
+brandnames
 brandpurse
 bravemed
 braves jersey
@@ -2339,6 +2344,7 @@ cartuchos
 casaemail.co
 casebycase
 casesolution
+cash advance
 cash generator
 cash loan
 cash-advance
@@ -2902,6 +2908,13 @@ coskobo
 cosmetics-out
 cosmeticswholesale
 cost-effective
+costume homme
+costume versace
+costume-homme
+costume-medieval
+costume-versace
+costumes homme
+costumes-homme
 couchey fr
 couchey-fr
 coucheyfr
@@ -2988,6 +3001,7 @@ darrellbox
 darrellwire
 darvocet
 data-tools
+database.co
 datarecovery.co
 datarecoveryhospital
 dataz
@@ -3358,6 +3372,7 @@ excellent website
 excellent-blog
 excellent-site
 excellent-website
+excellentlunch
 exclusive rendez
 exclusive-rendez
 exclusive.ru
@@ -3583,6 +3598,8 @@ fobur.in
 foodpyramid
 foolproof trick
 foolproof-trick
+foot nike
+foot-nike
 footdiscount
 footwear jordan
 footwear mbt
@@ -3640,6 +3657,7 @@ fr.fr/
 fr/acheter
 fr/botte
 fr/canada
+fr/costume
 fr/longchamp
 fr/pascher
 fradidas
@@ -4170,6 +4188,7 @@ hack<
 hackasphalt
 hackfacebook
 hackfb
+hadheard
 hair-again
 hair-grow
 hair-remov
@@ -4253,6 +4272,7 @@ hatsindiana
 hatsnap
 hatsoakland
 hatssnap
+hautschez
 haveasite
 havegive
 hawksjersey
@@ -4420,6 +4440,10 @@ home-remed
 homebased
 homeloan
 homeremed
+homme giorgio
+homme hugo
+homme-giorgio
+homme-hugo
 hoodia
 hoodie-cheap
 hoodiecheap
@@ -4599,6 +4623,8 @@ ington boot
 ington-boot
 ingtonboot
 ingugg
+inheritance cash
+inheritance-cash
 injectionfacts
 injury-lawyer
 injurylawyer
@@ -5072,6 +5098,8 @@ led_street
 leder-jacken
 lederjacken
 leg-wear
+legal cash
+legal-cash
 legal-steroid
 legalbud
 legalsteroid
@@ -5573,6 +5601,7 @@ medeniz
 media-palitra
 mediapalitra
 medicarefraud
+medieval-costume
 medigital
 medikal.co
 medizinische
@@ -6096,6 +6125,7 @@ nike free
 nike jersey
 nike jordan
 nike kd
+nike mercurial
 nike run
 nike shoe
 nike total
@@ -6109,6 +6139,7 @@ nike-jersey
 nike-jordan
 nike-kd
 nike-main
+nike-mercurial
 nike-run
 nike-shoe
 nike-total
@@ -8391,6 +8422,7 @@ unitedidesign
 universal-key
 unknown.ru
 unknown@
+unlock iphone
 unlock-iphone
 unlock-mobile
 unlock-phone
@@ -8430,6 +8462,7 @@ user_blog.php
 user/profile
 user/view
 userinfo
+usualdiscuss
 usually relative
 usually-relative
 ut.ag/
