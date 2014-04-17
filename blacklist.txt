@@ -855,13 +855,20 @@ _vti
 /inc/
 /include/
 /includes/
+/index-0
+/index-1
+/index-2
+/index-3
+/index-4
+/index-5
 /index.asp
 /index.php
-/index1.
-/index2.
-/index3.
-/index4.
-/index5.
+/index0
+/index1
+/index2
+/index3
+/index4
+/index5
 /indexdic
 /info-
 /info.
@@ -1257,6 +1264,7 @@ _vti
 >longchamp
 >pokie
 >sensual
+>shopping
 >ugg
 >woolr
 |chi
@@ -1639,6 +1647,7 @@ article.in
 article.net
 article.org
 article.php
+article/suggest
 articlebuzz
 articlepowa
 articles.co
@@ -2484,10 +2493,12 @@ chaussures louboutin
 chaussures pascher
 chaussures sport
 chaussures ugg
+chaussures- abil
 chaussures-asics
 chaussures-boutique
 chaussures-christian
 chaussures-femme
+chaussures-habil
 chaussures-homme
 chaussures-louboutin
 chaussures-pascher
@@ -2879,6 +2890,8 @@ commentabout
 commented here
 commented-here
 commentsyou
+commerce retail
+commerce-retail
 community.atom
 commutee
 como ganhar
@@ -2915,12 +2928,20 @@ coskobo
 cosmetics-out
 cosmeticswholesale
 cost-effective
+costume ermen
 costume homme
 costume mariage
+costume marie
+costume marié
+costume tendance
 costume versace
+costume-ermen
 costume-homme
 costume-mariage
+costume-marie
+costume-marié
 costume-medieval
+costume-tendance
 costume-versace
 costumes homme
 costumes-homme
@@ -3755,7 +3776,9 @@ frutaplanta
 fuckdown
 func.php
 fund market
+fund trend
 fund-market
+fund-trend
 fundmarket
 funds.ru
 funsneak
@@ -4294,6 +4317,8 @@ headset2012
 headset2013
 headset2014
 healthhow
+hedge fund
+hedge-fund
 heel_pads
 heelped
 heil hitler
@@ -5333,6 +5358,8 @@ low priced
 low-cost-
 low-priced
 lowpriced
+loyalty today
+loyalty-today
 lublin.
 lublina.
 luck jersey
@@ -5461,6 +5488,8 @@ marantsneak
 marcjacobsjap
 marcjacobsjp
 margreet.
+mariage hugo
+mariage-hugo
 market samurai
 market-research.
 market-researching.
@@ -7836,6 +7865,8 @@ tabaki
 tadalafil
 tadapox
 tag_heuer
+taille costume
+taille-costume
 takenwith
 takje care
 takje-care
@@ -8053,6 +8084,7 @@ tmsshoe
 tnf-sale
 tnfsale
 toasterovensnow
+today/article
 todsjapan
 todsjp
 toeshoe.co
@@ -8740,7 +8772,7 @@ web-solution
 web-traffic
 web-view
 web/icon
-web/index.htm
+web/index
 webanal
 webcambabe
 webcamsex
@@ -9270,6 +9302,8 @@ zero-calorie
 zerocalorie
 zfymail
 zikinell
+zimmerman hedge
+zimmerman-hedge
 zimovane
 zippo feuerzeuge
 zippo zubehör
