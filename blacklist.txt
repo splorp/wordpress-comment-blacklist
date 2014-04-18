@@ -2711,6 +2711,8 @@ chung hightop
 chung-hightop
 cialis
 ciallis
+cig holder
+cig-holder
 cig-online
 cig-promo
 cig<
@@ -3092,6 +3094,7 @@ designerlabel
 designershoe
 desktop-client
 desktopclient
+despaulsmith
 desyrel
 detail/www
 detektiv
@@ -5154,6 +5157,7 @@ lendsomemoney
 lenjerie
 lesben-
 lesbos.
+lespaulsmith
 lesson1
 letrozole
 levaquin
@@ -7658,6 +7662,9 @@ smallbusinessplan
 smart-drug
 smartdrug
 smeoone
+smith soldes
+smith-soldes
+smithsoldes
 smokingnews
 sms grupp
 sms-grupp
@@ -7696,6 +7703,8 @@ soldes louboutin
 soldes ralph
 soldes-louboutin
 soldes-ralph
+soldes.co
+soldes<
 soldeslouboutin
 solução
 solutioninc
@@ -8759,11 +8768,16 @@ we-are-your
 weave-hair
 weavehair
 web anal
+web blog
 web owner
 web people
 web promo
+web_blog
+web_log
 web-anal
+web-blog
 web-hosting
+web-log
 web-owner
 web-people
 web-promo
@@ -8774,6 +8788,7 @@ web-view
 web/icon
 web/index
 webanal
+webblog
 webcambabe
 webcamsex
 webdesign.co
