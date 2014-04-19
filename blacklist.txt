@@ -2,13 +2,14 @@ _border
 _coupon
 _htm
 _market
+_profil
 _profit
-_strateg
+_strate
 _vti
 ---
 --bag
 --jacket
---service
+--servic
 --shuttle
 -(
 -24.
@@ -614,6 +615,7 @@ _vti
 /13.htm
 /14.htm
 /15.htm
+/100mg
 /a-
 /a#
 /abercrombie-
@@ -678,34 +680,43 @@ _vti
 /blogid
 /bloglist/
 /board/
-/brand1.
-/brand2.
-/brand3.
-/brand4.
-/brand5.
+/brand1
+/brand2
+/brand3
+/brand4
+/brand5
 /burberry-
 /burberry1
 /burberry2
 /burberry3
 /burberry4
+/bustier-
 /bustier.
 /buy-
 /buy.
 /bvlgari-
+/bvlgari.
 /cache/
 /campaign-
+/campaign.
 /campaign/
 /campaigns-
+/campaigns.
 /campaigns/
 /canadagoose-
+/canadagoose.
 /canadagoose/
+/carinsur-
 /carinsur.
+/carinsurance-
+/carinsurance.
 /cartier-
 /cartier.
 /casino
 /categories-
 /category-
 /chanel_
+/chanel-
 /chanel.
 /chaussures-
 /chaussures.
@@ -722,25 +733,41 @@ _vti
 /cigarettes.
 /cigars-
 /cigars.
+/ck-
 /ck.
 /cl/
 /clearance/
 /coach-
 /coach.
 /coach/
+/coachpurse-
+/coachpurse.
 /coachpurses-
+/coachpurses.
+/commodity-
 /commodity.
 /common/
+/conf-
+/conf.
 /conf/
+/config-
 /config.
+/config/
+/configura-
 /configura.
+/configura/
+/configuration-
+/configuration.
 /configuration/
 /contact.
 /content/
 /crimea-
 /css/
-/customcontrols/
+/customcontrol
 /customer-care.
+/customer-care/
+/customercare-
+/customercare.
 /damen-moncler
 /dat/
 /data/
@@ -1330,6 +1357,7 @@ _vti
 49ersjersey
 49ersonline
 100% legit
+100mg.
 111.
 111@
 123.co
@@ -2803,7 +2831,7 @@ cms_theme
 cms-temp
 cms-theme
 cnoesfs
-coach austral
+coach austr
 coach black
 coach factory
 coach flight
@@ -3687,12 +3715,12 @@ forums/user
 forwindows8
 foryou.co
 forzest
-fr canada
-fr-canada
+fr canad
+fr-canad
 fr.fr/
 fr/acheter
 fr/botte
-fr/canada
+fr/canad
 fr/costume
 fr/longchamp
 fr/pascher
@@ -4033,7 +4061,7 @@ goose sale
 goose v
 goose yorkville
 goose youth
-goose-canada
+goose-canad
 goose-coat
 goose-enfant
 goose-expedition
@@ -4060,7 +4088,7 @@ goose-yorkville
 goose-youth
 goose<
 gooseca
-goosecanada
+goosecanad
 goosecheap
 goosecoat
 goosedk
@@ -4346,7 +4374,7 @@ herbal-tincture
 herbalmedicin
 herbalsmoking
 herbaltincture
-hermes austral
+hermes austr
 hermes bag
 hermes belt
 hermes couch
@@ -4700,6 +4728,7 @@ insurance-car
 insurance-compan
 insurance-quote
 insurances
+intagra
 intdrnation
 interesting blog
 interesting-blog
@@ -4785,12 +4814,12 @@ iг
 jacken-online
 jackenonline
 jackenwest
-jacket canada
+jacket canad
 jacket sale
-jacket-canada
+jacket-canad
 jacket-jp
 jacket-sale
-jacketcanada
+jacketcanad
 jackets sale
 jackets-for-kids
 jackets-for-men
@@ -5013,10 +5042,10 @@ konsultan-seo
 kontakta-oss
 kopfhoerer
 kopia-zapasowa
-kors aust
+kors austr
 kors bag
 kors brasil
-kors canada
+kors canad
 kors cheap
 kors factory
 kors france
@@ -5030,7 +5059,7 @@ kors runway
 kors uk
 kors wallet
 kors-bags
-kors-canada
+kors-canad
 kors-cheap
 kors-factory
 kors-glass
@@ -5040,7 +5069,7 @@ kors-out
 kors-purse
 kors-watch
 korsbag
-korscanada
+korscanad
 korsglass
 korshandbag
 korslaptop
@@ -5098,6 +5127,7 @@ lauren ralph
 lauren sale
 lauren sverige
 lauren uk
+lauren-austr
 lauren-cheap
 lauren-dame
 lauren-factory
@@ -5109,6 +5139,7 @@ lauren-ralph
 lauren-sale
 lauren-sverige
 lauren-uk
+laurenaustr
 laurencheap
 laurendame
 laurenhome
@@ -5230,9 +5261,9 @@ live-article
 livearticle
 livesex
 llifted
-loan canada
+loan canad
 loan compan
-loan-canada
+loan-canad
 loan-compan
 loan-direct
 loan-online
@@ -5242,8 +5273,8 @@ loancompan
 loandirect
 loanfast
 loanonline
-loans canada
-loans-canada
+loans canad
+loans-canad
 loans-direct
 loans-online
 loans.
@@ -5309,7 +5340,7 @@ loseweight
 loteprednol
 lotto-tip
 lottotip
-louboutin canada
+louboutin canad
 louboutin cheap
 louboutin out
 louboutin pas
@@ -5394,7 +5425,7 @@ luxury-replica
 luxurybrand
 luxurychanel
 luxuryreplica
-lv aust
+lv austr
 lv bag
 lv brasil
 lv factory
@@ -6046,7 +6077,6 @@ my homepag
 my online
 my weblog
 my website
-my_profile
 my-bebo
 my-blog
 my-hermes
@@ -6141,7 +6171,7 @@ newsarticle
 newss.
 newwebsite
 nexopia
-nfl austral
+nfl austr
 nfl italia
 nfl jers
 nfl shop
@@ -6235,20 +6265,20 @@ nocache
 nocredit
 nohassle
 nolvadex
-norge canada
-norge-canada
-norgecanada
+norge canad
+norge-canad
+norgecanad
 north_face
 north+face
 northface pascher
-northface-canada
+northface-canad
 northface-jack
 northface-out
 northface-pascher
 northface-sale
 northface-uk
 northface-us
-northfacecanada
+northfacecanad
 northfacejack
 northfaceout
 northfacepascher
@@ -6271,7 +6301,7 @@ nude-ass
 nude.htm
 nufactur
 oakeyspascher
-oakley canada
+oakley canad
 oakley caveat
 oakley cross
 oakley frogskin
@@ -6281,7 +6311,7 @@ oakley out
 oakley sale
 oakley sunglass
 oakley-active
-oakley-canada
+oakley-canad
 oakley-caveat
 oakley-cheap
 oakley-cross
@@ -6291,7 +6321,7 @@ oakley-store
 oakley-straight
 oakley-sunglass
 oakleyactive
-oakleycanada
+oakleycanad
 oakleycaveat
 oakleycheap
 oakleycross
@@ -6458,7 +6488,7 @@ otvety
 outelt
 outilclient
 outlet bag
-outlet canada
+outlet canad
 outlet france
 outlet handbag
 outlet hermes
@@ -6475,7 +6505,6 @@ outlet woolrich
 outlet_store
 outlet-austr
 outlet-canad
-outlet-canada
 outlet-france
 outlet-hermes
 outlet-hogan
@@ -6505,7 +6534,6 @@ outlet2014
 outletaustr
 outletbag
 outletcanad
-outletcanada
 outletforsale
 outletfrance
 outlethermes
@@ -6699,7 +6727,7 @@ phoneadvert
 phoneforsale
 phonejammer
 phonelookup
-phonescanada
+phonescanad
 phonesforsale
 phonestore
 phonstore
@@ -7311,7 +7339,7 @@ sale-training
 sale.co.
 sale.weebly
 sale4u
-salecanada
+salecanad
 salecheap
 salefactory
 salejp
@@ -7696,9 +7724,9 @@ software.in
 softwaresecret
 sohbet
 sold-out
-solde canada
-solde-canada
-soldecanada
+solde canad
+solde-canad
+soldecanad
 soldes louboutin
 soldes ralph
 soldes-louboutin
@@ -7778,7 +7806,7 @@ stone japan
 stone-japan
 stonejapan
 stop-smoking
-store austral
+store austr
 store gucci
 store out
 store-gucci
@@ -8212,7 +8240,7 @@ ugbos
 ugg 3
 ugg ad
 ugg animal
-ugg australia
+ugg austr
 ugg bailey
 ugg bamsestøvler
 ugg bebe
@@ -8303,7 +8331,7 @@ ugg=
 ugg3
 uggad
 ugganimal
-uggatcanada
+uggatcanad
 uggbailey
 uggbamsestøvler
 uggbebe
@@ -8340,7 +8368,7 @@ uggoutlet
 uggparis
 uggpas
 uggpascher
-uggs aust
+uggs austr
 uggs bailey
 uggs bebe
 uggs black
@@ -8366,7 +8394,7 @@ uggs sold
 uggs ugly
 uggs uitverkoop
 uggs wom
-uggs-aust
+uggs-austr
 uggs-bailey
 uggs-bebe
 uggs-black
@@ -8398,7 +8426,7 @@ uggs-usa
 uggs-wom
 uggs.co
 uggsale
-uggsaust
+uggsaustr
 uggsbailey
 uggsbay
 uggsbebe
@@ -8656,7 +8684,7 @@ vogue-toms
 voguetoms
 voyance gratuite
 voyance-gratuite
-vuitton aust
+vuitton austr
 vuitton bag
 vuitton belt
 vuitton black
@@ -9232,7 +9260,6 @@ your_account
 your_ex
 your_free
 your_loan
-your_profile
 your_site
 your-account
 your-blog
