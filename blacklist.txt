@@ -52,6 +52,8 @@ _vti
 -backpain.
 -backpain/
 -beneficial-
+-beneficial.
+-beneficial/
 -bioactive-
 -bioactive.
 -bioactive/
@@ -66,6 +68,8 @@ _vti
 -blogs.
 -blogs/
 -bluray-
+-bluray.
+-bluray/
 -bodybuilding.
 -bodybuilding/
 -breathalyzer-
@@ -84,6 +88,7 @@ _vti
 -cell-phone-
 -cheap-
 -cheap.
+-cheap/
 -cheapest-
 -cheapest.
 -cheapest/
@@ -152,8 +157,15 @@ _vti
 -for-sale
 -for-u-
 -for-u.
+-foreclose-
+-foreclose.
+-foreclose/
 -foreclosed-
+-foreclosed.
+-foreclosed/
 -foreclosure-
+-foreclosure.
+-foreclosure/
 -fotograf.
 -fotograf/
 -fotografia.
@@ -2582,7 +2594,7 @@ cheap toms
 cheap travel
 cheap ugg
 cheap uk
-cheap wedding
+cheap wed
 cheap-adobe
 cheap-atlanta
 cheap-authentic
@@ -2629,7 +2641,7 @@ cheap-toms
 cheap-travel
 cheap-ugg
 cheap-uk
-cheap-wedding
+cheap-wed
 cheap+
 cheap<
 cheapadobe
@@ -2774,6 +2786,12 @@ cigs<
 cigsbuy
 cigsonline
 cigspromo
+cinture gucci
+cinture outlet
+cinture-gucci
+cinture-outlet
+cinturegucci
+cintureoutlet
 ciproanti
 citʏ
 clarisonic
@@ -2945,6 +2963,8 @@ contactus/contact
 conversejapan
 conversejp
 conydot
+cooker-ninja
+cookerninja
 coordintaing
 copie ugg
 copie-ugg
@@ -3281,7 +3301,7 @@ dress-online
 dress-shoe
 dress-shop
 dress.rent
-dresses.wedding
+dresses.wed
 dresshop
 dresslink
 dressonline
@@ -3290,14 +3310,26 @@ dressshop
 drivewayservice
 drmartensjapan
 drmartensjp
+drug-cheap
 drugcheap
+drugs-cheap
 drugscheap
 drupal_temp
 drupal_theme
 drupal-temp
 drupal-theme
-dubai-princess.
-dubturbo-
+dsquared giubbotto
+dsquared online
+dsquared outlet
+dsquared uomo
+dsquared-giubbotto
+dsquared-online
+dsquared-outlet
+dsquared-uomo
+dsquaredonline
+dsquaredoutlet
+dubai-princess
+dubturbo
 dummytest
 dunjakke
 duvetica outlet
@@ -3318,6 +3350,8 @@ easyloan
 easyrent
 eaudiovideo
 ebaypic
+ebook-reader-test
+ebook-test
 ebookreadertest
 ebooktest
 ecco out
@@ -3326,10 +3360,10 @@ eccooutlet
 ecent yeas
 ed-in-men
 eemail
-effervescent8
 effexor
 egoodshop
 einkommen
+ejaculation-pharm
 ejaculationpharm
 el-gordo.c
 elamale
@@ -3342,6 +3376,7 @@ elite-model
 elitejersey
 elitemodel
 eloans
+elway-jersey
 elwayjersey
 email.htm
 email.tst
@@ -3351,6 +3386,8 @@ emarketing
 emiliopucci
 empire hack
 empire-hack
+empirehack
+empower network
 empower-network
 empowernetwork
 en/formula
@@ -3973,6 +4010,8 @@ girlsdaydress
 girlsescort
 giubbotti woolrich
 giubbotti-woolrich
+giubbotto dsquared
+giubbotto-dsquared
 giuseppezanotti
 gkhk
 glamorousbag
@@ -4186,6 +4225,7 @@ gucci factory
 gucci gucci
 gucci guilt
 gucci handbag
+gucci italia
 gucci online
 gucci out
 gucci sale
@@ -4201,6 +4241,7 @@ gucci-glass
 gucci-gucci
 gucci-guilt
 gucci-handbag
+gucci-italia
 gucci-online
 gucci-out
 gucci-purse
@@ -4223,6 +4264,7 @@ guccigucci
 gucciguilt
 guccihandbag
 gucciinstock
+gucciitalia
 gucciiuk
 guccij
 guccikan
@@ -4757,6 +4799,7 @@ invest-off
 invest.net
 investing+
 investinwell
+investir
 investmoney
 investoff
 investor.ru
@@ -4805,6 +4848,9 @@ istanbul-escort
 istanbulescort
 it rite
 it-rite
+italia scarpe
+italia-scarpe
+italiascarpe
 italy-shop
 italy-store
 italyshop
@@ -6494,6 +6540,7 @@ outlet france
 outlet handbag
 outlet hermes
 outlet hogan
+outlet italia
 outlet louis
 outlet moncler
 outlet oakley
@@ -6509,6 +6556,7 @@ outlet-canad
 outlet-france
 outlet-hermes
 outlet-hogan
+outlet-italia
 outlet-japan
 outlet-louis
 outlet-mart
@@ -6538,6 +6586,7 @@ outletcanad
 outletforsale
 outletfrance
 outlethermes
+outletitalia
 outletjapan
 outletlouis
 outletlove
@@ -7105,6 +7154,9 @@ redskinsjersey
 redsoleshoe
 redugg
 redwingjp
+reebok scarpe
+reebok-scarpe
+reebokscarpe
 reeview
 ref_title
 ref_url
@@ -7235,6 +7287,8 @@ revolutionjog
 revolutionstroller
 reԛuire
 rheumatoidarthritis
+rice-cooker
+ricecooker
 rich woolrich
 rich-woolrich
 richwoolrich
@@ -7388,8 +7442,11 @@ scam.net
 scam.org
 scar-repair
 scarpe hogan
+scarpe italia
 scarpe-hogan
+scarpe-italia
 scarpehogan
+scarpeitalia
 scarrepair
 schlgsseldienste
 schlüsseldienste
@@ -8527,10 +8584,12 @@ unlockphone
 unwanted-hair
 unwantedhair
 uomo adidas
+uomo dsquared
 uomo man
 uomo moncler
 uomo timberland
 uomo-adidas
+uomo-dsquared
 uomo-man
 uomo-moncler
 uomo-short
@@ -8679,6 +8738,9 @@ vitaminsfor
 vitamix
 vitrine
 vivekkunwar
+vivier ballerine
+vivier-ballerine
+vivierballerine
 vivotab
 vogue toms
 vogue-toms
