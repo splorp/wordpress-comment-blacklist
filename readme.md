@@ -63,7 +63,7 @@ Also included are these mangled variations of WordPress directory names.
 
 **Non-English Comments**
 
-This blacklist has been created for use on English language sites. There are several dozen terms and phrases included in the blacklist that may flag legitimate comments posted in other languages. If you commonly receive comments in other languages (specifically those containing CJK, Hiragana, Katakana, or Cyrillic characters), you may want to remove or modify those sections of the blacklist.
+This blacklist has been created for use on English language sites. There are several dozen terms and phrases included in the blacklist that may flag legitimate comments posted in other languages. If you commonly receive comments in other languages (specifically those containing CJK, Hiragana, Katakana, Thai, or Cyrillic characters), you may want to remove or modify those sections of the blacklist.
 
 **HTML Tag Attributes**
 
