@@ -553,6 +553,7 @@ _vti
 .univer.
 .us/user
 .webs.co
+.za/image
 ''
 )-
 [...
@@ -731,6 +732,7 @@ _vti
 /chanel_
 /chanel-
 /chanel.
+/chat/
 /chaussures-
 /chaussures.
 /cheap-
@@ -968,6 +970,10 @@ _vti
 /love-fail
 /love-life
 /love-quote
+/lunette-
+/lunette.
+/lunettes-
+/lunettes.
 /lv.
 /lv/
 /mailer/
@@ -1648,6 +1654,9 @@ androidmp3
 aneswr
 angebote
 animalbased
+ankle bootie
+ankle-bootie
+anklebootie
 ano.gd
 anonymous-download
 anonymousvpn
@@ -1714,6 +1723,9 @@ asdf
 asicsshoe
 asikkusu
 aso expei
+asos coupon
+asos-coupon
+asoscoupon
 asp?folder
 asp?id
 asphalt8cheat
@@ -1951,6 +1963,7 @@ best-way-to
 best-website
 bestad.
 bestads.
+bestcase
 bestcontractor
 bestdirect
 bestdiscount
@@ -2007,12 +2020,15 @@ bizstore
 biztalk
 biztout
 biżuteria
+black tight
 black ugg
+black-tight
 black-ugg
 black-www
 blackhat
 blackjack
 blacklabelj
+blacktight
 blackugg
 blazer-chaussure
 blazerchaussure
@@ -2207,6 +2223,7 @@ burberry coat
 burberry danmark
 burberry factory
 burberry lad
+burberry negozi
 burberry out
 burberry purse
 burberry sale
@@ -2226,6 +2243,7 @@ burberry-coat
 burberry-danmark
 burberry-hand
 burberry-lad
+burberry-negozi
 burberry-out
 burberry-purse
 burberry-sale
@@ -2245,6 +2263,7 @@ burberrycoat
 burberrydanmark
 burberryhand
 burberrylad
+burberrynegozi
 burberryout
 burberrypurse
 burberrysale
@@ -3792,6 +3811,7 @@ frauen-puma
 frauenpuma
 free class
 free gay
+free international
 free prescription
 free visitor
 free web
@@ -3801,6 +3821,7 @@ free-brows
 free-casino
 free-class
 free-gay
+free-international
 free-ipad
 free-iphone
 free-ipod
@@ -3824,6 +3845,7 @@ freedating
 freefor.co
 freegay
 freehub
+freeinternational
 freeipad
 freeiphone
 freeipod
@@ -4200,6 +4222,8 @@ gratuit roulette
 gratuit-roulette
 gratuitos
 graypanther
+grayson bag
+grayson-bag
 great article
 great blog
 great goods
@@ -5129,6 +5153,7 @@ kors cheap
 kors factory
 kors france
 kors glass
+kors grayson
 kors handbag
 kors laptop
 kors out
@@ -5138,11 +5163,13 @@ kors replica
 kors runway
 kors uk
 kors wallet
+kors-bag
 kors-bags
 kors-canad
 kors-cheap
 kors-factory
 kors-glass
+kors-grayson
 kors-handbag
 kors-laptop
 kors-out
@@ -5498,8 +5525,11 @@ luminorwatch
 lunarglide
 lunarlon
 lunderground
+lunette oakley
 lunette solde
+lunette-oakley
 lunette-solde
+lunetteoakley
 lunettes oakley
 lunettes-oakley
 lunettesoakley
@@ -6223,10 +6253,16 @@ need-sex
 needmoney
 needsex
 negozi burberry
+negozi milano
+negozi online
 negozi-burberry
+negozi-milano
+negozi-online
 negoziburberry
+negozimilano
 negozio-hollister
 negoziohollister
+negozionline
 net/bilder
 net/fr/
 net/members/
@@ -9443,7 +9479,6 @@ yuuguu
 yyou
 ÿþ
 z.in
-za/image
 zabaw
 zahnversicherung
 zahnzusatzversicherung
