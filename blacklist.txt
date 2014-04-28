@@ -2,6 +2,7 @@ _border
 _coupon
 _htm
 _market
+_news
 _profile
 _profit
 _strat
@@ -654,6 +655,8 @@ _vti
 /allimage/
 /anonymous-
 /anonymous.
+/answer-
+/answer.
 /armani-
 /armani.
 /around.
@@ -877,6 +880,7 @@ _vti
 /haglofs-
 /haglofs.
 /handle/
+/headlines/
 /hentai
 /hermes-
 /herveleger
@@ -1423,12 +1427,14 @@ aaa replica
 aaa-replica
 aaabbb
 abcwatch
+abercrombie deutsch
 abercrombie kid
 abercrombie man
 abercrombie men
 abercrombie outlet
 abercrombie uomo
 abercrombie wom
+abercrombie-deutsch
 abercrombie-ital
 abercrombie-kid
 abercrombie-man
@@ -1744,6 +1750,8 @@ astounding5
 astral-diamond
 aswenr
 at web,
+athletica lululemon
+athletica-lululemon
 ationincome
 ativan
 atomoxetine
@@ -2300,6 +2308,7 @@ butthe
 button ugg
 button-ugg
 buttonugg
+buy acrylic
 buy ageless
 buy cheap
 buy gig
@@ -2312,6 +2321,7 @@ buy private
 buy toms
 buy traffic
 buy women
+buy-acrylic
 buy-cheap
 buy-cig
 buy-gig
@@ -3610,9 +3620,11 @@ fantastic-blog
 farmacias
 farming-secrets
 farmingsecrets
+fashion store
 fashion-boot
 fashion-bracelet
 fashion-class
+fashion-store
 fashionboot
 fashionbracelet
 fashionistblog
@@ -5518,6 +5530,8 @@ luck jersey
 luck-jersey
 luckjersey
 luggagetote
+lululemon outlet
+lululemon-outlet
 lumigan
 luminor watch
 luminor-watch
@@ -6634,6 +6648,7 @@ outlet shoe
 outlet store
 outlet uk
 outlet usa
+outlet vancouver
 outlet woolrich
 outlet_store
 outlet-austr
@@ -6653,6 +6668,7 @@ outlet-shop
 outlet-store
 outlet-uk
 outlet-usa
+outlet-vancouver
 outlet-web
 outlet-woolrich
 outlet.co
@@ -7930,6 +7946,8 @@ sportsfanshop
 sportsfanstore
 sportsgear
 sportsjersey
+sprinkler tune
+sprinkler-tune
 sprzedaz
 spyder-jacket
 spyder-ski
@@ -9017,6 +9035,7 @@ website-online
 website-post
 website-usa
 website-visitor
+website!!
 website}
 website1
 websiteonline
@@ -9076,6 +9095,7 @@ white-nfl
 whitehat
 whois tool
 whois-tool
+wholesale acrylic
 wholesale bag
 wholesale cheap
 wholesale china
@@ -9087,6 +9107,7 @@ wholesale led
 wholesale nba
 wholesale north
 wholesale polo
+wholesale-acrylic
 wholesale-bag
 wholesale-cheap
 wholesale-china
