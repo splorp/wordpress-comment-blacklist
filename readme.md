@@ -35,6 +35,7 @@ As mentioned above, the keywords in the blacklist are based on spam submitted to
 + clck.ru
 + cort.as
 + goo.gl
++ hfg.cc
 + is.gd
 + snipurl.com
 + tiny.cc
