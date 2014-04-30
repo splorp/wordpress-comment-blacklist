@@ -37,6 +37,7 @@ As mentioned above, the keywords in the blacklist are based on spam submitted to
 + goo.gl
 + hfg.cc
 + is.gd
++ loorg.de
 + snipurl.com
 + tiny.cc
 + tinyurl.com
