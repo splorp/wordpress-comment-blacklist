@@ -587,6 +587,7 @@ _vti
 //aaa.
 //act-
 //act.
+//affordable
 //article
 //best
 //bitcoin
@@ -697,6 +698,7 @@ _vti
 /blog.
 /blogid
 /bloglist/
+/blogs/
 /board/
 /brand1
 /brand2
@@ -1678,6 +1680,7 @@ antispam
 antivirus/index
 antivirussen
 anuncios
+anү
 apartamentow
 apbd_sjs
 apex bionic
@@ -2912,6 +2915,8 @@ coach flight
 coach handbag
 coach out
 coach purse
+coach shoe
+coach sneaker
 coach thai
 coach wristlet
 coach-bag
@@ -2921,8 +2926,11 @@ coach-flight
 coach-men
 coach-new
 coach-out
+coach-shoe
+coach-sneaker
 coach-store
 coach-wristlet
+coach+sneaker
 coach2you
 coachbag
 coachbags
@@ -2939,6 +2947,8 @@ coachmise
 coachniho
 coachninnki
 coachoutlet
+coachshoe
+coachsneaker
 coachstore
 coachsuto
 coachsyoppu
@@ -3007,6 +3017,7 @@ comprar
 computer-gaming
 computer-performance
 computerpressrelease
+computers.in
 comreview
 comunity
 conficker worm
@@ -3116,6 +3127,7 @@ cygara
 cymbalta
 cytotec
 cz/love
+cеrt 
 dabloggs
 dafeult
 dailly
@@ -3544,6 +3556,8 @@ expensive vacation
 expensive-vacation
 expensivevacation
 expert-suggestion
+express-index
+expressindex
 extra gry
 extreme-sport
 extremely}
@@ -3670,6 +3684,7 @@ fbfans
 fblike
 fcukfcuk
 features.cfm
+federl
 feelng
 feichang0
 feihuang0
@@ -5547,6 +5562,7 @@ low-priced
 lowpriced
 loyalty today
 loyalty-today
+loϲal
 lublin.
 lublina.
 luck jersey
@@ -6149,6 +6165,7 @@ montblanc boutique
 montblanc franc
 montblanc japan
 montblanc jp
+montblanc kuge
 montblanc meister
 montblanc paris
 montblanc pen
@@ -6158,6 +6175,7 @@ montblanc-boutique
 montblanc-franc
 montblanc-japan
 montblanc-jp
+montblanc-kuge
 montblanc-meister
 montblanc-paris
 montblanc-pen
@@ -6167,6 +6185,7 @@ montblancboutique
 montblancfranc
 montblancjapan
 montblancjp
+montblanckuge
 montblancmeister
 montblancparis
 montblancpen
@@ -6473,6 +6492,7 @@ now.in
 nude-ass
 nude.htm
 nufactur
+nеar
 oakeyspascher
 oakley canad
 oakley caveat
@@ -7267,6 +7287,7 @@ read_blog
 readers-base
 readers' base
 readers’ base
+readyto
 real_estate
 real-estate-web
 real-estate.web
@@ -9132,6 +9153,7 @@ wholesale acrylic
 wholesale bag
 wholesale cheap
 wholesale china
+wholesale coach
 wholesale free
 wholesale handbag
 wholesale jersey
@@ -9144,6 +9166,7 @@ wholesale-acrylic
 wholesale-bag
 wholesale-cheap
 wholesale-china
+wholesale-coach
 wholesale-free
 wholesale-handbag
 wholesale-jersey
@@ -9156,6 +9179,7 @@ wholesale-polo
 wholesalebag
 wholesalecheap
 wholesalechina
+wholesalecoach
 wholesalefree
 wholesalehandbag
 wholesalejersey
@@ -9532,6 +9556,7 @@ yumeeyum
 yuuguu
 yyou
 ÿþ
+yеar 
 z.in
 zabaw
 zahnversicherung
