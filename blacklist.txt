@@ -886,6 +886,7 @@ _vti
 /headlines/
 /hentai
 /hermes-
+/hermes.
 /herveleger
 /hgh-
 /hgh.
@@ -1431,6 +1432,7 @@ aaa replica
 aaa-replica
 aaabbb
 abcwatch
+abdominaux
 abercrombie deutsch
 abercrombie kid
 abercrombie man
@@ -1455,7 +1457,9 @@ abercrombieoutlet
 abercrombieuomo
 abercrombiewom
 abilify
+about marijuana
 about_us
+about-marijuana
 about/date
 acai-
 acaiberry
@@ -2914,6 +2918,7 @@ coach factory
 coach flight
 coach handbag
 coach out
+coach promo
 coach purse
 coach shoe
 coach sneaker
@@ -2926,10 +2931,12 @@ coach-flight
 coach-men
 coach-new
 coach-out
+coach-promo
 coach-shoe
 coach-sneaker
 coach-store
 coach-wristlet
+coach+promo
 coach+sneaker
 coach2you
 coachbag
@@ -2947,6 +2954,7 @@ coachmise
 coachniho
 coachninnki
 coachoutlet
+coachpromo
 coachshoe
 coachsneaker
 coachstore
@@ -3550,6 +3558,7 @@ exclusive.ru
 executive search
 executive-search
 exelon
+exercice
 exgirlfriend
 exit.asp
 expensive vacation
@@ -5700,6 +5709,8 @@ marcjacobsjp
 margreet.
 mariage hugo
 mariage-hugo
+marijuana fact
+marijuana-fact
 market samurai
 market-research.
 market-researching.
@@ -5882,6 +5893,9 @@ men-boost
 men-handbag
 men+shoe
 menboost
+mens coach
+mens-coach
+mens+coach
 menseekingwom
 mentalprocess
 menu/menu
@@ -5892,6 +5906,7 @@ mercati di
 mercati-di
 mercenary.co
 meridia
+messengerstyle
 metacam
 metallo
 methadone
@@ -6591,6 +6606,7 @@ one nike
 one-nike
 oneminutesite
 onenike
+onestrap
 online cash
 online casino
 online class
@@ -7146,6 +7162,7 @@ promo artist
 promo-artist
 promo-shop
 promo-store
+promo+code
 promoartist
 promocja
 promocode
@@ -7508,10 +7525,12 @@ sabo uk
 sabo-charm
 sabo-out
 sabocharm
+sac hermes
 sac longchamp
 sac louis
 sac vanessa
 sac vuitton
+sac-hermes
 sac-longchamp
 sac-louis
 sac-vanessa
@@ -9631,6 +9650,7 @@ zyvox
 аl
 аr
 абонентская
+авиабилет
 агенств
 админу
 алкогольные
@@ -9739,6 +9759,7 @@ zyvox
 фирму
 форум
 фото
+футбол
 цена
 шапка-
 элитныеноутбуки
