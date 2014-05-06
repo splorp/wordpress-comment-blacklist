@@ -113,6 +113,9 @@ _vti
 -cigars-
 -cigars.
 -cigars/
+-click-
+-click.
+-click/
 -co.jp
 -cock-
 -cock.
@@ -190,6 +193,9 @@ _vti
 -fucks-
 -fucks.
 -fucks/
+-fund-
+-fund.
+-fund/
 -gambling-
 -gambling.
 -gambling/
@@ -700,6 +706,10 @@ _vti
 /bloglist/
 /blogs/
 /board/
+/bookmark-
+/bookmark.
+/bookmarks-
+/bookmarks.
 /brand1
 /brand2
 /brand3
@@ -966,9 +976,13 @@ _vti
 /lijst/
 /limewire
 /lingerie.
+/link-
+/link.
 /link/
 /linkdetail
 /linknum
+/links-
+/links.
 /list.
 /loans
 /locale/
@@ -1269,6 +1283,7 @@ _vti
 &#12488;&#12522;&#12540;&#12496;&#12540;&#12481;
 &#12490;&#12452;&#12461;
 &#12491;&#12517;&#12540;&#12496;&#12521;&#12531;&#12473;
+&#12503;&#12525;&#12514;
 &#12509;&#12540;&#12523;&#12473;&#12511;&#12473;
 &#12511;&#12517;&#12454;
 &#12524;&#12503;&#12522;&#12459;
@@ -1596,6 +1611,7 @@ afflictionnew
 afflictionoffer
 african-canadian-model
 africancanadianmodel
+ãƒ
 age.webeden
 age|
 agedepot
@@ -3564,13 +3580,20 @@ exit.asp
 expensive vacation
 expensive-vacation
 expensivevacation
+expert suggestion
 expert-suggestion
+explosive growth
+explosive-growth
+express index
 express-index
 expressindex
 extra gry
 extreme-sport
 extremely}
 eyeglass sale
+eyeglass-sale
+eyeglasses sale
+eyeglasses-sale
 eyeglasssale
 eyеs
 eѕcort
@@ -4774,6 +4797,7 @@ image-old
 image/cache
 image/image
 image/index
+image/table
 image/ugg
 images-old
 images/cache
@@ -4784,6 +4808,7 @@ images/newbalance
 images/nike
 images/northface
 images/rolex
+images/table
 images/ugg
 imalook
 imitation hermes
@@ -5107,9 +5132,11 @@ jordansshoe
 jordanstore
 jordjev
 journal/item
+jp-bag
 jp-best
 jp-sale
 jp/blog
+jpbag
 jpbest
 jpcity.co
 jpconverse
@@ -5672,6 +5699,7 @@ making money
 making-money
 makingmoney
 maklare
+male enhance
 male-enhance
 maleenhance
 malepower
@@ -7525,11 +7553,13 @@ sabo uk
 sabo-charm
 sabo-out
 sabocharm
+sac chloe
 sac hermes
 sac longchamp
 sac louis
 sac vanessa
 sac vuitton
+sac-chloe
 sac-hermes
 sac-longchamp
 sac-louis
@@ -9098,6 +9128,7 @@ webpharma
 webpromo
 webpromotion
 websex
+webshop/image
 website online
 website post
 website traffic
@@ -9842,6 +9873,7 @@ zyvox
 ブルガリ
 ブレスレット
 プロダクトキ
+プロモ
 ポーター
 ホグロフス
 ボッテガ
