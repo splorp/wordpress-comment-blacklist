@@ -1649,6 +1649,7 @@ agent denim
 agent-denim
 agentdenim
 ago|
+âgrâve
 aint goin
 aint-goin
 air max
@@ -1810,6 +1811,7 @@ australia-boot
 australiaboot
 australian pokie
 australian-pokie
+auteur:nike
 authentic cheap
 authentic hermes
 authentic-cheap
@@ -2086,6 +2088,8 @@ blackjack
 blacklabelj
 blacktight
 blackugg
+blanc pen
+blanc-pen
 blazer-chaussure
 blazerchaussure
 blog beast
@@ -2537,6 +2541,7 @@ casque beats
 casque-beats
 casquebeats
 casquette
+câsuâl
 casub.co
 catalog/preview
 catalogo/preview
@@ -2572,6 +2577,8 @@ celinetote
 cellskin
 cellulitefree
 cellulitereview
+celtics color
+celtics-color
 celular
 cent|
 cgi-bin
@@ -2696,6 +2703,7 @@ cheap louis
 cheap mbt
 cheap michael
 cheap moncler
+cheap mont
 cheap nfl
 cheap nhl
 cheap nike
@@ -2740,6 +2748,7 @@ cheap-louboutin
 cheap-mbt
 cheap-michael
 cheap-moncler
+cheap-mont
 cheap-nfl
 cheap-nhl
 cheap-nike
@@ -3476,6 +3485,7 @@ dwiattorney
 dylongfa
 dyubetika
 e-biz
+eâcute
 eairfix
 early-signs-of
 ease.in
@@ -5149,6 +5159,7 @@ joint-pain
 jointpain
 jordan 1
 jordan 11
+jordan brand
 jordan gamma
 jordan out
 jordan pas
@@ -5157,6 +5168,7 @@ jordan shoe
 jordan store
 jordan-1
 jordan-11
+jordan-brand
 jordan-gamma
 jordan-pas
 jordan-retro
@@ -5164,6 +5176,7 @@ jordan-sale
 jordan-shoe
 jordan-store
 jordan1
+jordanbrand
 jordangamma
 jordankicks
 jordanretro
@@ -7724,8 +7737,10 @@ scam.org
 scar-repair
 scarpe hogan
 scarpe italia
+scarpe mbt
 scarpe-hogan
 scarpe-italia
+scarpe-mbt
 scarpehogan
 scarpeitalia
 scarrepair
@@ -8256,8 +8271,11 @@ tabaki
 tadalafil
 tadapox
 tag_heuer
+tag/event
 taille costume
 taille-costume
+taken gravely
+taken-gravely
 takenwith
 takje care
 takje-care
