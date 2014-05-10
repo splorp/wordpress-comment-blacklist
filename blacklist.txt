@@ -595,6 +595,7 @@ _vti
 /?new
 /?p=
 /?pag
+/?tag
 /?uid
 /.wd/
 //123.
@@ -2220,10 +2221,14 @@ braceletsale
 brain abundance
 brain-abundance
 brainabundance
+brand baseball
+brand bat
 brand engage
 brand mlb
 brand nba
 brand nhl
+brand-baseball
+brand-bat
 brand-corner
 brand-engage
 brand-jp
@@ -2489,7 +2494,9 @@ cardyboot
 care-cream
 carinsurance
 carisoprodol
+carrera bat
 carrera lunette
+carrera-bat
 carrera-lunette
 carreralunette
 carreramoinscher
@@ -2623,16 +2630,22 @@ chaussres-pascher
 chaussresboutique
 chaussrespascher
 chaussure louboutin
+chaussure paris
 chaussure-asics
 chaussure-femme
 chaussure-homme
 chaussure-louboutin
+chaussure-paris
 chaussure-puma
+chaussureparis
 chaussures boutique
 chaussures christian
 chaussures femme
 chaussures louboutin
+chaussures paris
 chaussures pascher
+chaussures salomon
+chaussures ski
 chaussures sport
 chaussures ugg
 chaussures- abil
@@ -2643,8 +2656,11 @@ chaussures-femme
 chaussures-habil
 chaussures-homme
 chaussures-louboutin
+chaussures-paris
 chaussures-pascher
 chaussures-puma
+chaussures-salomon
+chaussures-ski
 chaussures-sport
 chaussures-ugg
 chaussuresboutique
@@ -2652,6 +2668,7 @@ chaussureschristian
 chaussuresfemme
 chaussuresfr
 chaussureslouboutin
+chaussuresparis
 chaussurespascher
 chaussuressport
 chcoin.co
@@ -3754,7 +3771,10 @@ femalehandbag
 females handbag
 females-handbag
 femaleshandbag
+femme chaussure
+femme-chaussure
 femme-sac
+femmechaussure
 femmes-canada-goose
 femmesac
 femmescanadagoose
@@ -5376,6 +5396,11 @@ laurenpolo
 laurenralph
 laurensale
 laurensverige
+laurent femme
+laurent sandal
+laurent-femme
+laurent-sandal
+laurentfemme
 laurenuk
 lawoffice.net
 le_link
@@ -7999,6 +8024,10 @@ skor-rea
 skorrea
 skup-aut
 skup,aut
+sledge baseball
+sledge bat
+sledge-baseball
+sledge-bat
 slimpill
 slimup
 slongchamp
@@ -9561,6 +9590,7 @@ www.videos
 www.wholesale
 www.win
 www.wtf
+www.ysl
 www<
 wwwpctool
 wypoczynku
@@ -9652,6 +9682,12 @@ youugg
 yoyo diet
 yoyo-diet
 yoyodiet
+ysl chaussure
+ysl femme
+ysl-chaussure
+ysl-femme
+yslchaussure
+yslfemme
 yumeeyum
 yuuguu
 yyou
@@ -9697,6 +9733,10 @@ zikinell
 zimmerman hedge
 zimmerman-hedge
 zimovane
+zinger baseball
+zinger bat
+zinger-baseball
+zinger-bat
 zippo feuerzeuge
 zippo zubehor
 zippo zubehör
