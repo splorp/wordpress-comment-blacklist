@@ -780,6 +780,8 @@ _vti
 /cld-
 /cld.
 /clearance/
+/clrb-
+/clrb.
 /coach-
 /coach.
 /coach/
@@ -1790,6 +1792,10 @@ aspiring-blog
 assistance informatique
 assistance-inform
 assistance-informatique
+associate hyperlink
+associate link
+associate-hyperlink
+associate-link
 assortiment
 astounding1
 astounding2
@@ -3809,6 +3815,8 @@ fg-xpress
 fgxpress
 fibromyalgia
 fightmark
+filenamedat
+filenamesdat
 filestube
 filmizle
 finance-
@@ -4455,6 +4463,8 @@ guccitime
 gucciuk
 guccivintage
 gucciyu
+guerre gratuit
+guerre-gratuit
 guest-post
 guestpost
 guiltfree
@@ -5615,6 +5625,7 @@ louboutin out
 louboutin pas
 louboutin platform
 louboutin pump
+louboutin red
 louboutin sale
 louboutin shoe
 louboutin solde
@@ -5626,6 +5637,7 @@ louboutin-out
 louboutin-pas
 louboutin-platform
 louboutin-pump
+louboutin-red
 louboutin-sale
 louboutin-shoe
 louboutin-solde
@@ -5654,6 +5666,8 @@ louisvuitton
 louiswuitton
 love connector
 love-connector
+loved onein
+loved-onein
 lovelv
 lovely thong
 lovely-thong
