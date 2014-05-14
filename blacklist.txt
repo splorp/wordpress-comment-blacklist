@@ -9,6 +9,7 @@ _profit
 _strat
 _vti
 ---
+--and
 --bag
 --jack
 --serv
@@ -443,12 +444,15 @@ _vti
 ,"
 ,ag
 ,an
+,en
+,he
 ,in
 ,kat,
 ,m,
 ,me
 ,no
 ,of
+,on
 ,th
 ,title,
 ,we
@@ -582,6 +586,8 @@ _vti
 .univer.
 .us/user
 .webs.co
+.worktop.
+.worktops.
 .za/image
 ''
 )-
@@ -972,6 +978,8 @@ _vti
 /iss.php
 /jacket-
 /jacket.
+/jbs-
+/jbs.
 /jersey-
 /jersey.
 /jerseys-
@@ -2080,6 +2088,7 @@ bigbling
 bigcock
 bigreplica
 billig
+binaires http
 bird hack
 bird-hack
 birkenstock boston
@@ -3379,6 +3388,7 @@ directlone
 dirt-bike
 disclaim.asp
 discount bag
+discount jordan
 discount mbt
 discount mulberry
 discount nfl
@@ -3387,6 +3397,7 @@ discount ugg
 discount-
 discount-bag
 discount-cig
+discount-jordan
 discount-mbt
 discount-north
 discount-ugg
@@ -3770,10 +3781,12 @@ fantastic-blog
 farmacias
 farming-secrets
 farmingsecrets
+fashion list
 fashion store
 fashion-boot
 fashion-bracelet
 fashion-class
+fashion-list
 fashion-store
 fashionboot
 fashionbracelet
@@ -5214,6 +5227,7 @@ joint-pain
 jointpain
 jordan 1
 jordan 11
+jordan basketball
 jordan brand
 jordan femme
 jordan gamma
@@ -5224,6 +5238,7 @@ jordan shoe
 jordan store
 jordan-1
 jordan-11
+jordan-basketball
 jordan-brand
 jordan-femme
 jordan-gamma
@@ -5264,6 +5279,7 @@ jsadidas
 jswing
 juanjuan
 juicycouture
+jumpedup
 justcloud
 justness
 kaepernick jersey
@@ -5309,6 +5325,8 @@ kidsnike
 kino-online
 kinoonline
 kitai
+kitchen-worktop
+kitchenworktop
 kleding winkel
 kleding-winkel
 kledingwinkel
@@ -5878,7 +5896,9 @@ marcjacobsjap
 marcjacobsjp
 margreet.
 mariage hugo
+mariage original
 mariage-hugo
+mariage-original
 marijuana fact
 marijuana-fact
 market samurai
@@ -6772,6 +6792,7 @@ officialstyle
 officialteamshop
 officialugg
 officialwebsite
+offight
 oit|
 ojectx
 ok-cheap
@@ -6870,6 +6891,10 @@ onsales.co
 openair
 opinion.in
 opinions.in
+option binaire
+option-binaire
+options binaire
+options-binaire
 options-trad
 optionstrad
 oral-sex
@@ -6878,6 +6903,7 @@ ordersoma
 organogold
 orgazma
 oriflame
+original http
 orlistat
 osobistosci
 osobistości
@@ -7037,6 +7063,8 @@ paris-model
 paris-royal
 parismodel
 parkiety
+part mariage
+part-mariage
 particular article
 particular-article
 party_feet
