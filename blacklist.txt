@@ -1232,6 +1232,11 @@ _vti
 /tagged/
 /telecharger-
 /telecharger.
+/temp/
+/temp0
+/temp1
+/temp2
+/temp3
 /templates/
 /test.
 /the-first
@@ -1721,6 +1726,8 @@ aminocare
 amitriptyline
 amorti dynamique
 amorti-dynamique
+amour gratuite
+amour-gratuite
 amoxicil
 amoxil
 amzon.co
@@ -3182,6 +3189,8 @@ couchey-fr
 coucheyfr
 coumadin
 countrу
+couple gratuite
+couple-gratuite
 coupon_pag
 coupon-code
 coupon-pag
@@ -3259,7 +3268,13 @@ damskie
 dannerjp
 dapoxetin
 dapoxetine
+darmowe ogloszenia
+darmowe ogłoszenia
+darmowe-ogloszenia
+darmowe-ogłoszenia
 darmowe-programy
+darmoweogloszenia
+darmoweogłoszenia
 darmoweprogramy
 darmowy
 darrellbox
@@ -3756,8 +3771,11 @@ factory-outlet
 facts-about
 fagance
 fajki
+fajna strona
 fajna-fotka
+fajna-strona
 fajnafotka
+fajnastrona
 fajne
 fake mirror
 fake oakley
@@ -4407,6 +4425,7 @@ graduand
 gratuit http
 gratuit roulette
 gratuit-roulette
+gratuite http
 gratuitos
 graypanther
 grayson bag
@@ -4757,6 +4776,7 @@ hogansito
 holdinga
 hollister brasil
 hollister jean
+hollister lederjacke
 hollister nantes
 hollister online
 hollister pas
@@ -4769,6 +4789,7 @@ hollister uk
 hollister-brasil
 hollister-deutsch
 hollister-jean
+hollister-lederjacke
 hollister-milano
 hollister-nantes
 hollister-online
@@ -4910,6 +4931,7 @@ iamimports
 icon/set
 icons/set
 idanmark
+ideea
 ifyou
 im not
 im-not
@@ -8646,13 +8668,16 @@ token-hack
 tokyo-lv
 told u?
 toms shoe
+toms women
 toms-cheap
 toms-shoe
+toms-women
 tomscheap
 tomsforsale
 tomsout
 tomsshoe
 tomsshoes
+tomswomen
 top tier
 top-forum
 top-list
@@ -9199,8 +9224,12 @@ vivotab
 vogue toms
 vogue-toms
 voguetoms
+voyance amour
+voyance couple
 voyance gratuite
 voyance http
+voyance-amour
+voyance-couple
 voyance-gratuite
 voyance<
 vuitton austr
