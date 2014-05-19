@@ -504,6 +504,7 @@ _vti
 .causes-
 .cfmx
 .cgi
+.com wild
 .com/,
 .com/%
 .com/1.
@@ -1778,6 +1779,7 @@ app.lk
 app.php
 apple-unlock
 appleunlock
+appro-chait
 appyourself
 apr.i.l
 aquarius-compat
@@ -3129,6 +3131,7 @@ com/site
 com/tiffany
 com/ugg
 com/user
+com/vuitton
 com%2c
 com2.php
 comedyee
@@ -3613,6 +3616,7 @@ empower network
 empower-network
 empowernetwork
 en/formula
+en/oakley
 endlaved
 eneugh
 eng/faq
@@ -5653,11 +5657,16 @@ livesex
 llifted
 loan canad
 loan compan
+loan fast
+loan http
 loan online
 loan-canad
 loan-compan
 loan-direct
+loan-fast
 loan-online
+loan.co
+loan.in
 loan.net
 loanalys
 loancompan
@@ -5665,17 +5674,26 @@ loandirect
 loanfast
 loanonline
 loans canad
+loans compan
+loans fast
+loans http
 loans online
 loans-canad
+loans-compan
 loans-direct
+loans-fast
 loans-online
-loans.
 loans.co
+loans.in
+loans.net
 loans1
 loans2
 loans3
 loans4
+loanscanad
+loanscompan
 loansdirect
+loansfast
 loansonline
 locate-cell-phone
 locateacellphone
@@ -6498,6 +6516,7 @@ musclesuppl
 muscular abdomen
 muscular-abdomen
 muscularwom
+mustangs http
 mutuelle sante
 mutuelle-sante
 mutuelles sante
@@ -6757,10 +6776,12 @@ oakeyspascher
 oakley canad
 oakley caveat
 oakley cross
+oakley five
 oakley frogskin
 oakley glass
 oakley juliet
 oakley out
+oakley polarized
 oakley sale
 oakley sunglass
 oakley-active
@@ -6768,8 +6789,10 @@ oakley-canad
 oakley-caveat
 oakley-cheap
 oakley-cross
+oakley-five
 oakley-juliet
 oakley-out
+oakley-polarized
 oakley-store
 oakley-straight
 oakley-sunglass
@@ -6835,6 +6858,7 @@ officialteamshop
 officialugg
 officialwebsite
 offight
+ofhuman
 oit|
 ojectx
 ok-cheap
@@ -7097,6 +7121,8 @@ paradisiaque
 paragraph writing
 paragraph-writing
 parajumpers
+parchet triplu
+parchet-triplu
 paretologic 
 paris http
 paris model
@@ -7250,6 +7276,7 @@ pleasant-designed
 pleasant-good
 pleassant
 pleease
+plombier http
 plombier paris
 plombier-paris
 plumbingservice
@@ -9389,7 +9416,7 @@ webcamsex
 webdesign.co
 webfarma
 webhosting
-weblinks
+weblink
 weblog site
 weblog-site
 weblog}
@@ -9466,6 +9493,7 @@ whatsapp
 wheels.co
 wheels.net
 wheels.org
+whenshe
 where buy
 where-buy
 where-to-buy
@@ -10140,6 +10168,7 @@ zyvox
 ダウン
 ダコタ
 ダナー
+ダミエ
 チャンルー
 ティファニ
 ティンバ
@@ -10157,6 +10186,7 @@ zyvox
 バッグ
 パネライ
 バンクオブアメリカ
+ビトン
 ブーツ
 フェラガモ
 フェンディ
