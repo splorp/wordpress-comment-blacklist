@@ -1,14 +1,18 @@
-_border
-_coupon
+_bord
+_coup
 _data
+_discount
+_entr
 _htm
 _kino
 _market
 _misc
 _news
 _note
-_profil
-_profit
+_occh
+_outlet
+_prof
+_sale
 _seo
 _strat
 _temp
@@ -159,6 +163,7 @@ _vti
 -ebay
 -enlargement.
 -enlargement/
+-entries/
 -escort.
 -escort/
 -essay.
@@ -310,6 +315,7 @@ _vti
 -nudes-
 -oakley.
 -oakley/
+-occhiali/
 -odejda-
 -off-your-
 -offshore-
@@ -546,6 +552,7 @@ _vti
 .net/online
 .net/user
 .nikeshox
+.on-demand
 .online.pl
 .online.ws
 .or.kr
@@ -786,6 +793,10 @@ _vti
 /chanel-
 /chanel.
 /chat/
+/chaussure_
+/chaussure-
+/chaussure.
+/chaussures_
 /chaussures-
 /chaussures.
 /cheap-
@@ -849,6 +860,9 @@ _vti
 /dbase/
 /dg-
 /dg.
+/diary_
+/diary-
+/diary.
 /diesel-
 /diet.
 /dieta.
@@ -1176,6 +1190,7 @@ _vti
 /ray-ban-
 /ray-ban.
 /ray-ban/
+/rayban_
 /rayban-
 /rayban.
 /rayban/
@@ -1934,10 +1949,12 @@ bally-store
 ballystore
 ban baratas
 ban jacket
+ban occhiali
 ban online
 ban sunglass
 ban-baratas
 ban-jacket
+ban-occhiali
 ban-online
 ban-sunglass
 bancshare
@@ -7910,8 +7927,15 @@ saletemplate
 saletokyo
 saletraining
 saleu.co
+salomon athletic
+salomon canada
+salomon-athletic
+salomon-canada
+salomonathletic
+salomoncanada
 salvia.
-samedayloans
+sameday-loan
+samedayloan
 sample@
 samurai siege
 samurai-siege
@@ -7922,6 +7946,7 @@ sanders-jersey
 sandersjersey
 sandypasch
 sante http
+satchelbag
 satcheldbag
 sauvegarde extern
 sauvegarde-extern
@@ -7930,6 +7955,7 @@ scam.htm
 scam.in
 scam.net
 scam.org
+scar repair
 scar-repair
 scarpe hogan
 scarpe italia
