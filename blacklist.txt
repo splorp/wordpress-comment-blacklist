@@ -5,12 +5,15 @@ _discount
 _entr
 _htm
 _kino
+_kit
 _market
 _misc
 _news
 _note
 _occh
 _outlet
+_outlet.
+_outlet/
 _prof
 _sale
 _seo
@@ -103,6 +106,8 @@ _vti
 -casino.
 -casino/
 -cell-phone-
+-charms.
+-charms/
 -cheap-
 -cheap.
 -cheap/
@@ -168,6 +173,8 @@ _vti
 -escort/
 -essay.
 -essay/
+-executive.
+-executive/
 -fantasia-
 -fantasia.
 -fashion-
@@ -456,6 +463,9 @@ _vti
 -womens.
 -xchange
 ･・
+, ,
+, .
+,,
 ,.
 ,"
 ,ag
@@ -521,6 +531,7 @@ _vti
 .disposable-
 .disposable/
 .doorblog.jp
+.executive-
 .fake-
 .fcgi
 .filpan.ru
@@ -890,6 +901,7 @@ _vti
 /escort.
 /escorts-
 /escorts.
+/executive-
 /extreme-
 /fashion-
 /features-
@@ -1337,6 +1349,7 @@ _vti
 /wplist
 /wpsite
 /ww.
+/www/
 /x.co
 /xchange
 /xe/
@@ -1346,6 +1359,8 @@ _vti
 /yours.
 /z.
 /zumba-
+\xa9
+\xc3
 &#070;&#069;&#078;&#068;&#073;
 &#072;&#101;&#114;&#109;&#101;&#115;
 &#080;&#097;&#117;&#108;&#032;&#083;&#109;&#105;&#116;&#104;
@@ -1690,6 +1705,8 @@ afflictionjean
 afflictionmen
 afflictionnew
 afflictionoffer
+affordable handbag
+affordable-handbag
 african-canadian-model
 africancanadianmodel
 ãƒ
@@ -1706,7 +1723,9 @@ ageless-men
 ageless-women
 agencje-
 agent denim
+agent direct
 agent-denim
+agent-direct
 agentdenim
 ago|
 âgrâve
@@ -1853,9 +1872,7 @@ aspiring-blog
 assistance informatique
 assistance-inform
 assistance-informatique
-associate hyperlink
 associate link
-associate-hyperlink
 associate-link
 assortiment
 astounding1
@@ -1922,10 +1939,12 @@ bagmirror
 bagonline
 bagonsale
 bagout
+bags afford
 bags online
 bags out
 bags sale
 bags uk
+bags-afford
 bags-cheap
 bags-online
 bags-out
@@ -1943,6 +1962,8 @@ bailey ugg
 bailey-ugg
 baileyugg
 bajardepeso
+balance espana
+balance españa
 balenciagasingapore
 bally store
 bally-store
@@ -1967,6 +1988,10 @@ bankowoz
 bankrobber
 banonline
 bansunglass
+baratas-new
+baratasnewera
+baratos-new
+baratosnewera
 barbour cloth
 barbour jacket
 barbour outlet
@@ -2999,6 +3024,8 @@ cinturegucci
 cintureoutlet
 ciproanti
 citʏ
+clans hack
+clans-hack
 clarisonic
 clash-of-clans
 clashofclans
@@ -3654,7 +3681,7 @@ epica watch
 epica-watch
 epo doping
 eqbandz
-equipment-manufacture
+equipment-manufactur
 era mlb
 era nba
 era nhl
@@ -3992,7 +4019,7 @@ for-men
 for-money
 for-the-most
 for-windows-8
-for-your-needs
+for-your-need
 for+sale
 for|
 forboots
@@ -4002,7 +4029,7 @@ forfree
 forgucci
 forhandlere
 forjp.co
-formaldresses
+formaldress
 formula replica
 formula-replica
 forsale-japan
@@ -4048,7 +4075,7 @@ frauenpuma
 free class
 free gay
 free international
-free prescription
+free prescript
 free visitor
 free web
 free-bbs
@@ -4066,7 +4093,7 @@ free-movie
 free-offer
 free-online
 free-poker
-free-prescription
+free-prescript
 free-program
 free-web
 free-website
@@ -4508,6 +4535,7 @@ guaranteed_uptime
 guaranteed-uptime
 gucchi
 gucci bag
+gucci brief
 gucci discount
 gucci envy
 gucci factory
@@ -4523,6 +4551,7 @@ gucci time
 gucci vintage
 gucci--
 gucci-bag
+gucci-brief
 gucci-discount
 gucci-envy
 gucci-factory
@@ -4953,6 +4982,8 @@ hydrotherapy
 hydroxatone
 hydroxy
 hyper-fb
+hyper-link
+hyperlink
 hypothyroidism
 hyzaar
 i aint
@@ -4973,6 +5004,7 @@ image-old
 image/cache
 image/image
 image/index
+image/old
 image/table
 image/ugg
 images-old
@@ -4983,6 +5015,7 @@ images/index
 images/newbalance
 images/nike
 images/northface
+images/old
 images/rolex
 images/table
 images/ugg
@@ -4994,6 +5027,9 @@ immediate income
 immediate-income
 immediateincome
 immediatey
+immobilier lux
+immobilier-lux
+immobilierlux
 implanty
 impregnacji
 impressive share
@@ -5044,6 +5080,7 @@ ingtonboot
 ingugg
 inheritance cash
 inheritance-cash
+initiator_
 injectionfacts
 injury-lawyer
 injurylawyer
@@ -5267,25 +5304,25 @@ jerseywholesale
 jewelery
 jeweline.
 jewellery.blog
-jewelry collection
+jewelry collect
 jewelry expens
-jewelry-collection
+jewelry-collect
 jewelry-expens
 jewelry<
 jewelrybest
-jewelrycollection
+jewelrycollect
 jewelryexpens
 jimmy-choo
 jimmychoo
 jjl
-joggingstroller
+joggingstroll
 jogos
 john-varvatos
 joint-pain
 jointpain
 jordan 1
 jordan 11
-jordan basketball
+jordan basket
 jordan brand
 jordan femme
 jordan gamma
@@ -5296,7 +5333,7 @@ jordan shoe
 jordan store
 jordan-1
 jordan-11
-jordan-basketball
+jordan-basket
 jordan-brand
 jordan-femme
 jordan-gamma
@@ -5362,6 +5399,7 @@ karpaczwsieci
 karuteie
 kasino
 katalog
+kate_spade
 katespadese
 kensington parka
 kensington-parka
@@ -5427,6 +5465,7 @@ kors austr
 kors bag
 kors brasil
 kors canad
+kors charlton
 kors cheap
 kors factory
 kors france
@@ -5444,6 +5483,7 @@ kors wallet
 kors-bag
 kors-bags
 kors-canad
+kors-charlton
 kors-cheap
 kors-factory
 kors-glass
@@ -6744,7 +6784,7 @@ no-credit
 no-fuss
 no-guarant
 no-hassle
-no-prescription
+no-prescript
 no1.co
 nocache
 nocredit
@@ -7134,6 +7174,7 @@ panty-sex
 pantymania
 pantypic
 pantyplay
+par/index
 paradisiaque
 paragraph writing
 paragraph-writing
@@ -7627,6 +7668,8 @@ realestate.co
 realestate.web
 realestate.wordpress
 reallywork.we
+realtor promo
+realtor-promo
 reasons-why
 reciclable
 recommended internet
@@ -7779,7 +7822,7 @@ reviewthe
 reviewx
 reviot
 revolutionjog
-revolutionstroller
+revolutionstroll
 reԛuire
 rheumatoidarthritis
 rice-cooker
@@ -7850,13 +7893,16 @@ sabocharm
 sac celine
 sac chloe
 sac hermes
+sac lancel
 sac longchamp
 sac louis
 sac vanessa
 sac vuitton
+sac_lancel
 sac-celine
 sac-chloe
 sac-hermes
+sac-lancel
 sac-longchamp
 sac-louis
 sac-vanessa
@@ -7877,7 +7923,9 @@ saints jersey
 saints-jersey
 saintsjersey
 saldi online
+saldi-footwear
 saldi-online
+saldifootwear
 saldionline
 sale louis
 sale lulu
@@ -7957,12 +8005,18 @@ scam.net
 scam.org
 scar repair
 scar-repair
+scarpe air
 scarpe hogan
 scarpe italia
 scarpe mbt
+scarpe supra
+scarpe-air
+scarpe-basket
 scarpe-hogan
 scarpe-italia
 scarpe-mbt
+scarpe-supra
+scarpebasket
 scarpehogan
 scarpeitalia
 scarrepair
@@ -8331,9 +8385,13 @@ soup.io/post
 sozedde.co
 sp1 key
 sp1-key
+spaccio gucci
 spaccio woolrich
+spaccio-gucci
 spaccio-woolrich
 spacciowoolrich
+spade diaper
+spade-diaper
 spam response
 spam-response
 spammer spam
@@ -9610,9 +9668,9 @@ winter-jassen
 winterjassen
 with pics
 with-pics
-without prescription
+without prescript
 without-invest
-without-prescription
+without-prescript
 women makeup
 women mbt
 women nike
@@ -9749,6 +9807,8 @@ www.adults
 www.anal
 www.angel
 www.article
+www.barata
+www.barato
 www.best-
 www.brand
 www.buy
@@ -9845,6 +9905,7 @@ www.wholesale
 www.win
 www.wtf
 www.ysl
+www.zapato
 www<
 wwwpctool
 wypoczynku
@@ -9969,6 +10030,13 @@ zanottisale
 zanottishoe
 zanottisneak
 zantac
+zapatas asics
+zapatas_asics
+zapatas-asics
+zapatillas asics
+zapatillas_asics
+zapatillas-asics
+zapatodenewbalance
 zapraszam
 zawieszki
 zboard.php
