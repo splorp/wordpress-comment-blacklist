@@ -348,6 +348,8 @@ _vti
 -premium-
 -premium.
 -premium/
+-price.
+-price/
 -programy-
 -programy.
 -programy/
@@ -2307,6 +2309,7 @@ borsamoncler
 borse moncler
 borse-moncler
 borsemoncler
+boss.de
 botanical slim
 botanical-slim
 botasdefutbol
@@ -3619,9 +3622,13 @@ dsquaredoutlet
 dsquaredshoe
 dubai-princess
 dubturbo
+dude.de
+dudes.de
 dummytest
 dunhill/dunhill
 dunjakke
+durant shoe
+durant-shoe
 duvetica outlet
 duvetica-outlet
 duveticaoutlet
@@ -6064,6 +6071,7 @@ mariage-hugo
 mariage-original
 marijuana fact
 marijuana-fact
+marker http
 market prices
 market samurai
 market-prices
@@ -6085,6 +6093,7 @@ marketinghero
 marketingsamurai
 marketingtip
 marketingxchange
+marketnn
 marketsamurai
 marlboro 100
 marlboro cig
@@ -8262,6 +8271,7 @@ shoes dior
 shoes mbt
 shoes online
 shoes out
+shoes-2014
 shoes-cheap
 shoes-cloth
 shoes-dior
@@ -8552,6 +8562,7 @@ strattera
 stromectol
 studiobeat
 studiosbeat
+stumbledupon
 stumpmaster
 stunningq
 style mbt
@@ -8641,6 +8652,8 @@ takje-care
 tamiflu
 tamoxifen
 tamsulosin
+tanger outlet
+tanger-outlet
 tapicerowane
 targeted traffic
 targeted visit
@@ -8874,9 +8887,11 @@ token-generat
 token-hack
 tokyo-lv
 told u?
+toms price
 toms shoe
 toms women
 toms-cheap
+toms-price
 toms-shoe
 toms-women
 tomscheap
@@ -9760,17 +9775,21 @@ womendate
 womenmbt
 womennike
 womens bcbg
+womens boot
 womens fashion
 womens hollister
 womens nike
 womens puma
+womens shoe
 womens watch
 womens-bag
 womens-bcbg
+womens-boot
 womens-fashion
 womens-hollister
 womens-nike
 womens-puma
+womens-shoe
 womens-train
 womens-watch
 womensbcbg
