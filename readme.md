@@ -87,8 +87,17 @@ Thanks to [Mika Epstein](https://github.com/ipstenu), [Sergej Müller](https://g
 
 Finally, [Chris Burton](https://twitter.com/chrisburton/status/431581759277633536) deserves a virtual fist bump for the above tweet.
 
+### License
+
+Copyright © 2014 Grant Hutchinson
+
+This project is licensed under the short and sweet [MIT License](http://opensource.org/licenses/MIT). This license allows you to do anything pretty much anything you want with the contents of the repository, as long as you provide proper attribution and don’t hold anyone liable.
+
+See the [license.txt](https://github.com/splorp/wordpress-comment-blacklist/license.txt) file included in this repository for further details.
+
 ### History
 
++ 20140527 — Added [MIT License](http://opensource.org/licenses/MIT)
 + 20140508 — 10,000 entries
 + 20140324 — 9,000 entries
 + 20130206 — 8,000 entries
