@@ -1,11 +1,16 @@
+_backup
+_benefit
+_blog
 _bord
 _coup
 _data
 _discount
 _entr
 _htm
+_index
 _kino
 _kit
+_link
 _market
 _misc
 _news
@@ -14,11 +19,13 @@ _occh
 _outlet
 _prof
 _sale
+_select
 _seo
 _strat
 _temp
 _theme
 _vti
+_weblog
 ---
 --and
 --bag
@@ -384,6 +391,8 @@ _vti
 -searchengine
 -secrets-
 -select-your-
+-selection.
+-selection/
 -seo
 -service.
 -sexy-
@@ -665,8 +674,6 @@ _vti
 //generic
 //groups
 //hgh
-//images-
-//images.
 //images/
 //income
 //leverage
@@ -867,6 +874,8 @@ _vti
 /damen-moncler
 /dat/
 /data/
+/datebase-
+/datebase.
 /db/
 /dbase/
 /dg-
@@ -983,6 +992,8 @@ _vti
 /hot.
 /hotdeal
 /ii/
+/images-
+/images.
 /img/
 /img1/
 /img2/
@@ -1165,6 +1176,8 @@ _vti
 /page3.
 /page4.
 /page5.
+/pages-
+/pages.
 /pandorabead.
 /pantie-
 /panties-
@@ -1175,6 +1188,8 @@ _vti
 /popup
 /porn
 /post:
+/postinfo-
+/postinfo.
 /pozew
 /prada_
 /prada-
@@ -3071,6 +3086,7 @@ clearancemichael
 clearanceoutlet
 clearancesale
 clenbuterol
+clentching
 click here
 click_here
 click-here
@@ -3808,7 +3824,6 @@ eyeglasssale
 eyеs
 eѕcort
 eхperienc
-f_blog_id
 fa‡on
 faar more
 faar-more
@@ -4877,10 +4892,15 @@ hleepd
 hndeds
 hogan online
 hogan out
+hogan scarpe
 hogan shoe
+hogan sito
+hogan_scarpe
 hogan-online
 hogan-out
+hogan-scarpe
 hogan-shoe
+hogan-sito
 hoganoutlet
 hoganshoe
 hogansito
@@ -5067,6 +5087,7 @@ images/nike
 images/northface
 images/old
 images/rolex
+images/smilies
 images/table
 images/ugg
 imalook
@@ -5520,6 +5541,7 @@ kors brasil
 kors canad
 kors charlton
 kors cheap
+kors dillard
 kors factory
 kors france
 kors glass
@@ -5530,16 +5552,20 @@ kors laptop
 kors milano
 kors out
 kors outlet
+kors puffer
 kors purse
 kors replica
 kors runway
+kors tonne
 kors uk
+kors vancouver
 kors wallet
 kors-bag
 kors-bags
 kors-canad
 kors-charlton
 kors-cheap
+kors-dillard
 kors-factory
 kors-glass
 kors-grayson
@@ -5549,7 +5575,10 @@ kors-laptop
 kors-milano
 kors-out
 kors-outlet
+kors-puffer
 kors-purse
+kors-tonne
+kors-vancouver
 kors-watch
 korsbag
 korscanad
@@ -5657,7 +5686,6 @@ laurent-sandal
 laurentfemme
 laurenuk
 lawoffice.net
-le_link
 lead-system
 leaked1
 learn facebook
@@ -6034,7 +6062,6 @@ male-enhance
 maleenhance
 malepower
 malwareremov
-manage_blog
 manage_proposal
 manage/new
 management-software
@@ -6072,6 +6099,8 @@ mariage-original
 marijuana fact
 marijuana-fact
 marker http
+markerboss
+markerdude
 market prices
 market samurai
 market-prices
@@ -7569,7 +7598,6 @@ professional 2010
 professional-ugg
 professionals.co
 professionalugg
-profile_blogs
 profile_id
 profile/?u
 profile/blog
@@ -7732,7 +7760,6 @@ raybansunglass
 raybantokyo
 raybanuk
 razadyne
-read_blog
 readers-base
 readers' base
 readers’ base
@@ -8362,12 +8389,15 @@ simply shared
 simply-shared
 sinequan
 singapore.htm
+site backup
 site link
+site official
 site position
 site traffic
-site_backup
+site-backup
 site-google
 site-link
+site-official
 site-position
 site-traffic
 site.co
@@ -8377,6 +8407,8 @@ sitecode
 sitelink
 sitemap
 sites24
+sito ufficiale
+sito-ufficiale
 siutpd
 sizegenetic
 skapa grupp
@@ -8463,7 +8495,6 @@ solutioninc
 solutionsinc
 sonicsearch
 sooemne
-sort_index
 soup.io/post
 sozedde.co
 sp1 key
@@ -8742,7 +8773,6 @@ the -notify
 the pokie
 the the
 the threading
-the_benefits_of
 the_best
 the-benefits-of
 the-best-treatment
@@ -9309,7 +9339,6 @@ uroda
 us/profile
 usa-best
 usabest
-user_blog.php
 user/profile
 user/view
 userinfo
@@ -9382,7 +9411,6 @@ videosport
 vidios
 viencare
 view_article
-view_blog
 view_entry
 view-article
 view-blog
@@ -9571,7 +9599,6 @@ web blog
 web owner
 web people
 web promo
-web_blog
 web_log
 web-anal
 web-blog
