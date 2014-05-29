@@ -93,7 +93,7 @@ Copyright © 2014 Grant Hutchinson
 
 This project is licensed under the short and sweet [MIT License](http://opensource.org/licenses/MIT). This license allows you to do anything pretty much anything you want with the contents of the repository, as long as you provide proper attribution and don’t hold anyone liable.
 
-See the [license.txt](https://github.com/splorp/wordpress-comment-blacklist/license.txt) file included in this repository for further details.
+See the [license.txt](https://raw.github.com/splorp/wordpress-comment-blacklist/master/license.txt) file included in this repository for further details.
 
 ### History
 
