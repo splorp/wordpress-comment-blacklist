@@ -1,29 +1,63 @@
+_account
+_article
+_asics
 _backup
 _benefit
 _blog
 _bord
+_build
+_campaign
 _coup
 _data
 _discount
+_downtime
+_e/
+_emerg
 _entr
+_free
+_help
 _htm
+_http
 _index
+_info
+_java
+_jersey
+_key
 _kino
 _kit
+_lacoste
+_lauren
 _link
+_list
+_load
+_loan
 _market
 _misc
 _news
 _note
 _occh
+_online
 _outlet
+_porn
+_post
 _prof
+_review
 _sale
+_scarpe
 _select
 _seo
+_serv
+_site
+_spade
+_store
 _strat
 _temp
 _theme
+_title
+_track
+_uptime
+_url
+_util
 _vti
 _weblog
 ---
@@ -142,6 +176,10 @@ _weblog
 -cock-
 -cock.
 -cock/
+-coin.
+-coin/
+-coins.
+-coins/
 -comfort-
 -cosmetics.
 -costume.
@@ -718,7 +756,6 @@ _weblog
 /ads/
 /affordable-
 /affordable.
-/airmax_
 /airmax-
 /airmax.
 /alimenty/
@@ -730,7 +767,6 @@ _weblog
 /armani-
 /armani.
 /around.
-/artist_e/
 /asics-
 /asics.
 /asp/
@@ -807,14 +843,11 @@ _weblog
 /casino
 /categories-
 /category-
-/chanel_
 /chanel-
 /chanel.
 /chat/
-/chaussure_
 /chaussure-
 /chaussure.
-/chaussures_
 /chaussures-
 /chaussures.
 /cheap-
@@ -880,13 +913,11 @@ _weblog
 /dbase/
 /dg-
 /dg.
-/diary_
 /diary-
 /diary.
 /diesel-
 /diet.
 /dieta.
-/dior_
 /dior.
 /div/
 /dlia/
@@ -966,7 +997,6 @@ _weblog
 /grow-your
 /gry-
 /gry.
-/gucci_
 /gucci-
 /gucci.
 /guest-book
@@ -982,7 +1012,6 @@ _weblog
 /herveleger
 /hgh-
 /hgh.
-/hid_
 /hiend
 /hire-
 /hollister-
@@ -1092,7 +1121,6 @@ _weblog
 /manolo-blahnik
 /manoloblahnik
 /massage
-/mbt_
 /mbt-
 /mbt.
 /mcm.
@@ -1101,7 +1129,6 @@ _weblog
 /medical
 /medication-
 /member/
-/members_
 /members-
 /members.
 /members/
@@ -1152,12 +1179,10 @@ _weblog
 /north-face-
 /northface-
 /northface.
-/novinki_
 /novinki-
 /novinki.
 /npn-
 /npn.
-/oakley_
 /oakley-
 /oakley.
 /oakley/
@@ -1170,7 +1195,6 @@ _weblog
 /other-
 /other.
 /outils/
-/page_
 /page1.
 /page2.
 /page3.
@@ -1191,7 +1215,6 @@ _weblog
 /postinfo-
 /postinfo.
 /pozew
-/prada_
 /prada-
 /prada.
 /premium-
@@ -1223,7 +1246,6 @@ _weblog
 /ray-ban-
 /ray-ban.
 /ray-ban/
-/rayban_
 /rayban-
 /rayban.
 /rayban/
@@ -1232,7 +1254,6 @@ _weblog
 /readnews.
 /recap/
 /refreshers.
-/reg_
 /remote-desktop
 /remotedesktop
 /ri.ms
@@ -1282,7 +1303,6 @@ _weblog
 /suggestions-
 /sunglasses-
 /sunglasses.
-/supply_
 /swf/
 /syaneru
 /systemdb.
@@ -1323,20 +1343,17 @@ _weblog
 /uggs.
 /uggsal/
 /update/
-/upload_
 /upload-
 /upload/
 /uploadfiles/
 /uploads/
 /url/
 /usa.
-/user_
 /user-
 /user:
 /user.
 /usuario:
 /vb/
-/view_
 /viewstory
 /visit.
 /visite.
@@ -1589,9 +1606,10 @@ abercrombieuomo
 abercrombiewom
 abilify
 about marijuana
-about_us
+about_
 about-marijuana
 about/date
+abouther
 acai-
 acaiberry
 accouchement
@@ -1761,6 +1779,7 @@ air-max
 air-yeezy
 airjorda
 airmax
+airmax_
 airport--
 airport-transport
 airyeezy
@@ -1856,9 +1875,11 @@ armani-costume
 armanito
 aroma-paradise
 artemfrolov
+article content
 article dude
 article plus
 article-buzz
+article-content
 article-dude
 article-plus
 article,i
@@ -1941,6 +1962,7 @@ autre-artic
 avatar-live
 avvessorie
 avvessory
+awokehim
 awordpress.
 azria outlet
 azria-outlet
@@ -2169,7 +2191,6 @@ bieding-laarzen
 biedinglaarzen
 bielizna
 big bling
-big_site
 big-bling
 big-cock
 big-replica
@@ -2219,6 +2240,7 @@ blacktight
 blackugg
 blanc pen
 blanc-pen
+blank http
 blazer-chaussure
 blazerchaussure
 blog beast
@@ -2227,10 +2249,7 @@ blog occasion
 blog platform
 blog soon
 blog video
-blog_entry_
-blog_entry.
-blog_id
-blog_post_
+blog_
 blog-beast
 blog-here
 blog-occasion
@@ -2248,7 +2267,6 @@ blog/post
 blog/view
 blog<
 blogbeast
-blogentry_
 blogentry.
 bloghome
 blogid
@@ -2498,9 +2516,11 @@ butthe
 button ugg
 button-ugg
 buttonugg
+butwho
 buy acrylic
 buy ageless
 buy cheap
+buy fifa
 buy gig
 buy hermes
 buy insta
@@ -2514,6 +2534,7 @@ buy women
 buy-acrylic
 buy-cheap
 buy-cig
+buy-fifa
 buy-gig
 buy-gucci
 buy-hair
@@ -2574,6 +2595,10 @@ cabins-lithu
 caellis
 cagoosejacket
 cagoosesale
+calabasas carpet
+calabasas rug
+calabasas-carpet
+calabasas-rug
 callgirl
 cambogia
 camgirl
@@ -2586,7 +2611,6 @@ camicienegozi
 camisas ralph
 camisas-ralph
 camisasralph
-can_help_you
 can-help-you
 canada loan
 canada-loan
@@ -2726,6 +2750,7 @@ chanel purse
 chanel replica
 chanel sac
 chanel spring
+chanel_
 chanel--
 chanel-bag
 chanel-online
@@ -2772,6 +2797,7 @@ chaussresboutique
 chaussrespascher
 chaussure louboutin
 chaussure paris
+chaussure_
 chaussure-asics
 chaussure-femme
 chaussure-homme
@@ -2789,6 +2815,7 @@ chaussures salomon
 chaussures ski
 chaussures sport
 chaussures ugg
+chaussures_
 chaussures- abil
 chaussures-asics
 chaussures-boutique
@@ -2826,6 +2853,7 @@ cheap cheap
 cheap china
 cheap christian
 cheap denver
+cheap fifa
 cheap football
 cheap ga
 cheap galaxy
@@ -2871,6 +2899,7 @@ cheap-china
 cheap-christian
 cheap-converse
 cheap-denver
+cheap-fifa
 cheap-football
 cheap-ga
 cheap-gucci
@@ -3073,6 +3102,9 @@ classicugg
 clavulanate
 clboot
 clck.ru
+cleaning calabasas
+cleaning http
+cleaning-calabasas
 clearance mbt
 clearance michael
 clearance out
@@ -3088,8 +3120,9 @@ clearancesale
 clenbuterol
 clentching
 click here
-click_here
+click_
 click-here
+click2
 click4
 clickbank
 clickforu
@@ -3243,6 +3276,7 @@ comunity
 conficker worm
 conficker-worm
 consalt-
+constructionn
 construtor
 contact/contact
 contactus/contact
@@ -3321,6 +3355,7 @@ creditcard.org
 creditreport
 cription.asp
 cristmas-
+crossof
 cruise vacation
 cruise-vacation
 cruisevacation
@@ -3404,7 +3439,7 @@ dealuk
 dealus
 dear-lover
 dearlover
-debt_settlement
+debt_
 debt-help
 debt-management
 debt-relief
@@ -3416,11 +3451,12 @@ default/member
 default1
 default2
 definitelly
-delete_post
+delete_
 delpha_
 deltasone
 demo123
 demontag
+denschlaf
 dental-implant
 dental-quote
 depositbank
@@ -3458,6 +3494,7 @@ di droga
 di-droga
 diablo3
 diamox
+diary_
 diazepam
 diclofenac
 dienst.in
@@ -3492,6 +3529,7 @@ diggs.us
 dincob
 dinner soup
 dinner-soup
+dior_
 diorkan
 direct-fund
 direct-health
@@ -3533,7 +3571,6 @@ discountnorth
 discountt
 discountugg
 discountwheel
-discussion_util
 diva-com
 divulgaemail
 djstool
@@ -3549,7 +3586,7 @@ doc/soap
 docid=
 doctermarten
 docteurdrebeat
-document_srl
+document_
 documents/celine
 documents/newbalance
 documents/nike
@@ -3565,7 +3602,6 @@ dokumentów
 dolce bag
 dolce-bag
 dolcebag
-dollar_service
 dollar-service
 dollarservice
 dolphins jersey
@@ -3581,12 +3617,15 @@ dos-seios
 dotcomsecret
 douchingteen
 doudoune
-down_loads
 downjacket
 download bracelet
 download-bracelet
 downloadbracelet
 doxycycline
+dragon avail
+dragon-avail
+dragons avail
+dragons-avail
 drayvera
 drdreheadphone
 dre beat
@@ -3715,8 +3754,7 @@ enhancement-pill
 enhancementpill
 enjoy-more
 enourmous
-entry_id
-entry_key
+entry_
 entrykey
 entryview.asp
 envisionforce
@@ -3778,7 +3816,7 @@ eurovids
 evelyne bag
 evelyne-bag
 evelynebag
-event_id
+event_
 eventid
 every advertise
 every1bet
@@ -3914,7 +3952,6 @@ fashion-store
 fashionboot
 fashionbracelet
 fashionistblog
-fast_loan
 fast-loan
 fast|quick
 fastcash
@@ -3989,6 +4026,9 @@ fg xpress
 fg-xpress
 fgxpress
 fibromyalgia
+fifa ultimate
+fifa-ultimate
+fifaultimate
 fightmark
 filenamedat
 filenamesdat
@@ -4007,7 +4047,7 @@ films-x
 finance-
 finance-blog
 financial debt
-financial_emergency
+financial_
 financial-debt
 financial-emergency
 financial-service
@@ -4070,7 +4110,6 @@ footwearmbt
 footwears
 for cheap
 for gucci
-for_your_needs
 for-cheap
 for-gucci
 for-interactive
@@ -4443,7 +4482,8 @@ goodbye.asp
 goodgame
 goodnessknows
 goodsblog
-google_java
+google http
+google_
 google-java
 googlebind
 googleing
@@ -4575,8 +4615,7 @@ griseparka
 grooming needs
 grooming-needs
 grossrx
-group_home
-group_review
+group_
 group-home
 group-review
 grow-cannabis
@@ -4589,9 +4628,9 @@ gruzowe
 gruzu
 gry flesh
 gry online
-guarantee_uptime
+guarantee_
 guarantee-uptime
-guaranteed_uptime
+guaranteed_
 guaranteed-uptime
 gucchi
 gucci bag
@@ -4609,6 +4648,7 @@ gucci sale
 gucci seller
 gucci time
 gucci vintage
+gucci_
 gucci--
 gucci-bag
 gucci-brief
@@ -4788,6 +4828,7 @@ helllo
 hello-sex
 hellodress
 hellosex
+help_you
 help-tax
 helpcry
 helpful-information
@@ -4876,6 +4917,7 @@ hgh-purchase
 hgh-sup
 hgher
 hghsup
+hid_
 hierbasmedicin
 high-heel
 high-profile
@@ -4895,7 +4937,6 @@ hogan out
 hogan scarpe
 hogan shoe
 hogan sito
-hogan_scarpe
 hogan-online
 hogan-out
 hogan-scarpe
@@ -5473,7 +5514,6 @@ karpaczwsieci
 karuteie
 kasino
 katalog
-kate_spade
 katespadese
 kensington parka
 kensington-parka
@@ -5616,7 +5656,6 @@ lancel-pas
 lancel-sac
 lancelad
 laplap
-laptop_online
 large tote
 large-tote
 largetote
@@ -5749,11 +5788,7 @@ limo-service
 linguim.co
 link http
 link issue
-link_build
-link_campaign
-link_http
-link_serv
-link_track
+link_
 link-bait
 link-build
 link-campaign
@@ -5768,8 +5803,7 @@ linkbait
 linkbuild
 linkcampaign
 linking issue
-linking_campaign
-linking_serv
+linking_
 linking-campaign
 linking-issue
 linking-market
@@ -6028,7 +6062,7 @@ magazine/page2
 magicmoncler
 magnificent article
 magnificent-article
-mail_list
+mail_
 mail.ru
 maillot man
 maillot ukraine
@@ -6062,7 +6096,7 @@ male-enhance
 maleenhance
 malepower
 malwareremov
-manage_proposal
+manage_
 manage/new
 management-software
 manchesterhotel
@@ -6101,6 +6135,7 @@ marijuana-fact
 marker http
 markerboss
 markerdude
+markergaul
 market prices
 market samurai
 market-prices
@@ -6152,7 +6187,6 @@ max-sale
 maxalt
 maxgriffey
 maxsale
-may_help_you
 may-help-you
 mbt baridi
 mbt boot
@@ -6178,7 +6212,7 @@ mbt train
 mbt tunisha
 mbt vanzari
 mbt women
-mbt_scarpe
+mbt_
 mbt-baridi
 mbt-boot
 mbt-carpe
@@ -6285,8 +6319,10 @@ meilleurs casino
 meilleurs-casino
 melatonin
 meloxicam
+member_
 member.php
 memberlist.php
+members_
 membership hack
 membership-hack
 membership.php
@@ -6574,7 +6610,7 @@ moneyprimar
 monohydrate
 monroussillon
 monster beat
-monster_beat
+monster_
 monster-beat
 monster-head
 monster/beat
@@ -6736,7 +6772,7 @@ natureto
 natürlich
 nba cappelli
 nba jersey
-nba_jersey
+nba_
 nba-cappelli
 nba-jersey
 nbajersey
@@ -6833,7 +6869,7 @@ nike mercurial
 nike run
 nike shoe
 nike total
-nike_jersey
+nike_
 nike-and-shoe
 nike-blazer
 nike-dunk
@@ -6923,6 +6959,7 @@ nouveau-maillot
 nouveaumaillot
 nouvelles sneaker
 nouvelles-sneaker
+novinki_
 now.in
 nude-ass
 nude.htm
@@ -6941,6 +6978,7 @@ oakley out
 oakley polarized
 oakley sale
 oakley sunglass
+oakley_
 oakley-active
 oakley-canad
 oakley-caveat
@@ -7026,7 +7064,6 @@ okcheap
 okpay
 oksex
 oksunglass
-old_site
 old|
 once-in-a-lifetime
 one nike
@@ -7152,7 +7189,7 @@ outlet uk
 outlet usa
 outlet vancouver
 outlet woolrich
-outlet_store
+outlet_
 outlet-austr
 outlet-canad
 outlet-france
@@ -7225,6 +7262,7 @@ oympia
 oьtɑin
 p90x
 packersjersey
+page_
 page.tl
 page/pag
 pagss.htm
@@ -7323,7 +7361,7 @@ paulsmithsa
 paulsmithshop
 paulsmithsu
 paxil
-pay_day_loan
+pay_day
 pay-as-you-go
 payday loan
 payday-loan
@@ -7332,6 +7370,8 @@ payday.co
 paydayloan
 paydaynote
 paydayon
+payed off
+payed-off
 paypal-cash
 paypalcash
 payroll-calc
@@ -7472,7 +7512,7 @@ pólnocno
 północno
 polo out
 polo ralph
-polo_lacoste
+polo_
 polo-lacoste
 polo-ralph
 poloralph
@@ -7505,6 +7545,7 @@ pornolady
 pornsex
 possess
 post post
+post_
 post-post
 post-service
 post.much
@@ -7531,6 +7572,7 @@ prada handbag
 prada online
 prada out
 prada sac
+prada_
 prada-bag
 prada-cheap
 prada-new
@@ -7585,6 +7627,8 @@ pro-review
 proactol
 procedures-for
 proceesing
+produce article
+produce-article
 producer excellent
 producer-excellent
 product
@@ -7598,7 +7642,7 @@ professional 2010
 professional-ugg
 professionals.co
 professionalugg
-profile_id
+profile_
 profile/?u
 profile/blog
 profile/profile
@@ -7698,7 +7742,7 @@ puzzlemaker
 pytanie
 qampuz
 qquality
-qry_pag
+qry_
 qtrade
 quality article
 quality post
@@ -7718,7 +7762,7 @@ queenjp
 queenoutlet
 querireda
 quick loans
-quick_search
+quick_
 quick-loan
 quickloan
 quincy femme
@@ -7733,7 +7777,6 @@ raiders hat
 raiders-hat
 raidershat
 raloxifene
-ralph_lauren
 ralph-lauren
 ramipril
 rank-build
@@ -7748,6 +7791,7 @@ ray-ban-aviator
 ray-ban-folding
 ray-bans
 rayban glass
+rayban_
 rayban-cheap
 rayban-glass
 raybaneye
@@ -7783,7 +7827,7 @@ red ugg
 red-ugg
 red+bottom+shoe
 redbottomshoe
-redirect_to
+redirect_
 redirect.asp
 redskinsjersey
 redsoleshoe
@@ -7795,14 +7839,13 @@ reebok-baseball
 reebok-scarpe
 reebokscarpe
 reeview
-ref_title
-ref_url
 referencement
 référencement
 refluks
 reflux symptom
 reflux-symptom
 refluxsymptom
+reg_
 regarding blog
 regarfing
 registration strateg
@@ -7851,7 +7894,7 @@ replica service
 replica top
 replica ugg
 replica watch
-replica_nba
+replica_
 replica-bag
 replica-brand
 replica-china
@@ -8355,13 +8398,12 @@ short ugg
 short-ugg
 shorttermloan
 shortugg
+should http
 shoulder tote
 shoulder-tote
 shouldertote
-show_info
-show_member_post
+show_
 shownews.
-showthread.php
 showtopic
 si.lv.e.r.w.are
 sieg heil
@@ -8634,6 +8676,7 @@ superheroz
 superstar class
 superstar-class
 superstarclass
+supply_
 supra shoe
 supra-shoe
 suprashoe
@@ -8788,6 +8831,7 @@ the-threading
 theaverage
 thebestis
 thebestprice
+thedevelop
 theeasy
 theguest
 thehypothyroid
@@ -8827,13 +8871,13 @@ thomassabo-uk
 thomassabosale
 thomassabouk
 thportfol
-thread_id
-threadid
 thumb.jpeg
 thumb.jpg
 thumb.png
 thyromine
 tɦey
+ticket http
+tickets http
 tier business
 tier-business
 tiffany france
@@ -9329,6 +9373,7 @@ up-to-date
 upgrade key
 upgrade-key
 upgradekey
+upload_
 upseseglype
 urlacher jersey
 urlacher-jersey
@@ -9339,6 +9384,7 @@ uroda
 us/profile
 usa-best
 usabest
+user_
 user/profile
 user/view
 userinfo
@@ -9360,7 +9406,11 @@ vanessabrunosac
 vaporizer pen
 varabella
 vardenafil
+vegas hotel
+vegas show
 vegas social
+vegas-hotel
+vegas-show
 vegas-social
 vendita
 vendorlock
@@ -9410,8 +9460,7 @@ videos.htm
 videosport
 vidios
 viencare
-view_article
-view_entry
+view_
 view-article
 view-blog
 view-entry
@@ -9420,7 +9469,6 @@ viewblog
 viewentry
 viewlink
 viewpag
-viewthread
 viewtopic
 vigara
 vigrx
@@ -9692,6 +9740,7 @@ weusecoin
 what-we-know
 what's up,
 what’s up,
+whatll
 whats up,
 whatsapp
 wheels.co
@@ -10070,7 +10119,6 @@ you-want-it
 you,i
 youll
 young porn
-young_porn
 young-porn
 your blog
 your penis
@@ -10078,11 +10126,7 @@ your success
 your traffic
 your weblog
 your website
-your_account
-your_ex
-your_free
-your_loan
-your_site
+your_
 your-account
 your-blog
 your-budget
@@ -10159,10 +10203,10 @@ zanottishoe
 zanottisneak
 zantac
 zapatas asics
-zapatas_asics
+zapatas_
 zapatas-asics
 zapatillas asics
-zapatillas_asics
+zapatillas_
 zapatillas-asics
 zapatodenewbalance
 zapraszam
@@ -10245,6 +10289,7 @@ zyvox
 доходы
 драйвера
 заболевани
+заработок
 зарегистрировать
 знакомства
 инете
