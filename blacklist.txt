@@ -209,6 +209,9 @@ _weblog
 -e-guide-
 -easily-
 -ebay
+-effektive-
+-effektive.
+-effektive/
 -enlargement.
 -enlargement/
 -entries/
@@ -313,6 +316,8 @@ _weblog
 -jersey/
 -jerseys.
 -jerseys/
+-kondicionere.
+-kondicionere/
 -kredyt
 -lacoste-
 -link.
@@ -756,6 +761,7 @@ _weblog
 /ads/
 /affordable-
 /affordable.
+/air-dryers/
 /airmax-
 /airmax.
 /alimenty/
@@ -841,6 +847,8 @@ _weblog
 /cartier-
 /cartier.
 /casino
+/catalog.
+/catalogue.
 /categories-
 /category-
 /chanel-
@@ -3128,6 +3136,7 @@ clickbank
 clickforu
 clientarea
 climacool
+climat-equip
 clomid
 clonazepam
 clone-key
@@ -3244,6 +3253,7 @@ com/page2
 com/pharma
 com/profile
 com/public
+com/publiek
 com/site
 com/tiffany
 com/ugg
@@ -3297,6 +3307,8 @@ corporategift
 cort.as
 coskobo
 cosm tiques
+cosmetics eye
+cosmetics-eye
 cosmetics-out
 cosmeticswholesale
 cosmtiques
@@ -3462,6 +3474,7 @@ dental-quote
 depositbank
 depression-symptom
 depressionsymptom
+dept store
 derm exclus
 derm-exclus
 dermexclus
@@ -3484,6 +3497,7 @@ detail/www
 detektiv
 devenir trade
 devenir-trade
+deviantart http
 devil1.
 devil2.
 devilspite
@@ -4948,6 +4962,7 @@ hogansito
 holdinga
 holdning
 hollister brasil
+hollister jack
 hollister jean
 hollister lederjacke
 hollister nantes
@@ -4961,6 +4976,7 @@ hollister swim
 hollister uk
 hollister-brasil
 hollister-deutsch
+hollister-jack
 hollister-jean
 hollister-lederjacke
 hollister-milano
@@ -6132,10 +6148,14 @@ mariage-hugo
 mariage-original
 marijuana fact
 marijuana-fact
+marker donkey
 marker http
+marker oink
 markerboss
+markerdonkey
 markerdude
 markergaul
+markeroink
 market prices
 market samurai
 market-prices
@@ -6852,6 +6872,7 @@ nhl-replica
 nhlreplica
 niaspan
 nice paragraph
+nice posts
 nice practice
 nice-paragraph
 nice-practice
@@ -7339,6 +7360,8 @@ pas-cher
 pascher
 pascherfr
 pascheroakley
+pasport instruk
+pasport-instruk
 passprefix
 password generat
 password-generat
@@ -8986,6 +9009,7 @@ topamax
 topcontractor
 topforum
 topiramate
+topleader
 toplist
 topman123
 topmuscle
@@ -10046,6 +10070,7 @@ www.lolita
 www.louboutin
 www.love
 www.lv
+www.mail-
 www.mcm
 www.moncler
 www.mulberry
