@@ -6,11 +6,21 @@ Over the past couple of years, I have identified over 10,000 phrases, patterns, 
 
 ### How Do I Use It?
 
+#### Manual Installation
+
 Copy the list of keywords found in the [blacklist.txt](https://raw.github.com/splorp/wordpress-comment-blacklist/master/blacklist.txt) file, paste it into the [Comment Blacklist](http://codex.wordpress.org/Combating_Comment_Spam#Comment_Blacklist) field of your WordPress [Discussion Settings](http://codex.wordpress.org/Settings_Discussion_Screen) panel, and click the “Save Changes” button.
 
 That’s it.
 
-If you prefer a more hands off approach, [Sergej Müller](https://github.com/sergejmueller) has developed the [Blacklist Auto Updater](https://github.com/sergejmueller/wp-blacklist-updater) plugin that will check whether the [master blacklist](https://raw.github.com/splorp/wordpress-comment-blacklist/master/blacklist.txt) has changed and then automatically update the WordPress database.
+Repeat this procedure each time you want to install an updated version of the blacklist.
+
+#### Automatic Updates Via Plugin
+
+If you prefer a more hands-off approach, there are several plugins that will check whether the [master blacklist](https://raw.github.com/splorp/wordpress-comment-blacklist/master/blacklist.txt) has changed and then automatically install the most recent version. How handy is that?
+
++ [Blacklist Auto Updater](https://github.com/sergejmueller/wp-blacklist-updater) by [Sergej Müller](https://github.com/sergejmueller)
++ [Comment Blacklist Manager](http://wordpress.org/plugins/comment-blacklist-manager/) by [Andrew Norcross](https://github.com/norcross) & [Josh Eaton](https://twitter.com/jjeaton)
++ [WordPress Simple Firewall](http://wordpress.org/plugins/wp-simple-firewall/) by [Paul Goodchild](https://twitter.com/PaulGoodchild) & [Dave Goodchild](https://twitter.com/dlgoodchild)
 
 ### Does It Really Work?
 
@@ -83,7 +93,7 @@ For example, in an earlier version of the blacklist the keywords `/4.` and `/5.`
 
 *“So much for using Akismet.”*
 
-Thanks to [Mika Epstein](https://github.com/ipstenu), [Sergej Müller](https://github.com/sergejmueller), [Andrew Norcross](https://github.com/norcross), [Claudio Schwarz](https://github.com/purzlbaum), and [Volker Schmidt](https://github.com/volkerjschmidt) for their various contributions, suggestions, and reports from the field.
+Thanks to [Mika Epstein](https://github.com/ipstenu), [Paul Goodchild](https://twitter.com/PaulGoodchild), [Sergej Müller](https://github.com/sergejmueller), [Andrew Norcross](https://github.com/norcross), [Claudio Schwarz](https://github.com/purzlbaum), and [Volker Schmidt](https://github.com/volkerjschmidt) for their various contributions, suggestions, and reports from the field.
 
 Finally, [Chris Burton](https://twitter.com/chrisburton/status/431581759277633536) deserves a virtual fist bump for the above tweet.
 
