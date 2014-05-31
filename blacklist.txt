@@ -209,9 +209,6 @@ _weblog
 -e-guide-
 -easily-
 -ebay
--effektive-
--effektive.
--effektive/
 -enlargement.
 -enlargement/
 -entries/
@@ -316,8 +313,6 @@ _weblog
 -jersey/
 -jerseys.
 -jerseys/
--kondicionere.
--kondicionere/
 -kredyt
 -lacoste-
 -link.
@@ -646,8 +641,11 @@ _weblog
 .ru/,
 .ru/?
 .ru/#
+.ru/1-
 .ru/1.
+.ru/2-
 .ru/2.
+.ru/3-
 .ru/3.
 .ru/content
 .ru/forum
@@ -752,6 +750,8 @@ _weblog
 /acai
 /acidreflux-
 /acidreflux.
+/activity-
+/activity.
 /add.
 /addfeed/
 /admin/
@@ -761,7 +761,6 @@ _weblog
 /ads/
 /affordable-
 /affordable.
-/air-dryers/
 /airmax-
 /airmax.
 /alimenty/
@@ -847,8 +846,6 @@ _weblog
 /cartier-
 /cartier.
 /casino
-/catalog.
-/catalogue.
 /categories-
 /category-
 /chanel-
@@ -1013,6 +1010,7 @@ _weblog
 /haglofs-
 /haglofs.
 /handle/
+/hats/
 /headlines/
 /hentai
 /hermes-
@@ -1203,6 +1201,7 @@ _weblog
 /other-
 /other.
 /outils/
+/p/
 /page1.
 /page2.
 /page3.
@@ -1292,6 +1291,8 @@ _weblog
 /site/ebay
 /sitemap.
 /siteold/
+/snapback-
+/snapback.
 /soft/
 /soma-
 /soma.
@@ -1582,6 +1583,7 @@ a-lots
 a-powerful-way
 a.pri.l
 ã©
+ä±
 a1.co
 â€
 aaa replica
@@ -1907,6 +1909,9 @@ articles.org
 articlesub
 articulatio
 artikel
+artisan plombier
+artisan-plombier
+artisanplombier
 artykul
 asd@
 asdasd
@@ -1970,6 +1975,7 @@ autre-artic
 avatar-live
 avvessorie
 avvessory
+awesome post
 awokehim
 awordpress.
 azria outlet
@@ -2647,7 +2653,10 @@ canadian loan
 canadian-hgh
 canadian-loan
 candycrush
+cannabis oil
+cannabis-oil
 cannabis-seed
+cannabisoil
 cappelli boston
 cappelli new
 cappelli nfl
@@ -2688,14 +2697,17 @@ cashforsilver
 cashgenerator
 cashloan
 cashout
+casino bonus
 casino enligne
 casino online
 casino only
+casino-bonus
 casino-enligne
 casino-game
 casino-online
 casino-only
 casino.co
+casinobonus
 casinoenligne
 casinoer
 casinogame
@@ -3136,7 +3148,6 @@ clickbank
 clickforu
 clientarea
 climacool
-climat-equip
 clomid
 clonazepam
 clone-key
@@ -3253,7 +3264,6 @@ com/page2
 com/pharma
 com/profile
 com/public
-com/publiek
 com/site
 com/tiffany
 com/ugg
@@ -3307,8 +3317,6 @@ corporategift
 cort.as
 coskobo
 cosm tiques
-cosmetics eye
-cosmetics-eye
 cosmetics-out
 cosmeticswholesale
 cosmtiques
@@ -3474,7 +3482,6 @@ dental-quote
 depositbank
 depression-symptom
 depressionsymptom
-dept store
 derm exclus
 derm-exclus
 dermexclus
@@ -3497,7 +3504,6 @@ detail/www
 detektiv
 devenir trade
 devenir-trade
-deviantart http
 devil1.
 devil2.
 devilspite
@@ -3966,6 +3972,8 @@ fashion-store
 fashionboot
 fashionbracelet
 fashionistblog
+fast cash
+fast-cash
 fast-loan
 fast|quick
 fastcash
@@ -4962,7 +4970,6 @@ hogansito
 holdinga
 holdning
 hollister brasil
-hollister jack
 hollister jean
 hollister lederjacke
 hollister nantes
@@ -4976,7 +4983,6 @@ hollister swim
 hollister uk
 hollister-brasil
 hollister-deutsch
-hollister-jack
 hollister-jean
 hollister-lederjacke
 hollister-milano
@@ -6148,14 +6154,10 @@ mariage-hugo
 mariage-original
 marijuana fact
 marijuana-fact
-marker donkey
 marker http
-marker oink
 markerboss
-markerdonkey
 markerdude
 markergaul
-markeroink
 market prices
 market samurai
 market-prices
@@ -6618,7 +6620,9 @@ monday-ugg
 mondaydeal
 mondaysale
 mondayugg
+money fast
 money primar
+money-fast
 money-mak
 money-primar
 money-site
@@ -6849,6 +6853,8 @@ newport100s
 news.in
 news/article
 newsarticle
+newsletter service
+newsletter-service
 newss.
 newwebsite
 nexopia
@@ -6872,7 +6878,6 @@ nhl-replica
 nhlreplica
 niaspan
 nice paragraph
-nice posts
 nice practice
 nice-paragraph
 nice-practice
@@ -7360,8 +7365,6 @@ pas-cher
 pascher
 pascherfr
 pascheroakley
-pasport instruk
-pasport-instruk
 passprefix
 password generat
 password-generat
@@ -7500,6 +7503,7 @@ pleease
 plombier http
 plombier paris
 plombier-paris
+plombierparis
 plumbingservice
 plus-size
 plussize
@@ -8515,6 +8519,7 @@ smokingnews
 sms grupp
 sms-grupp
 smsgrupp
+snapback-cap
 snapbacks
 sneaker.asp
 sneakerchef
@@ -8655,6 +8660,8 @@ strategies-for
 strategy-for
 stratificat.
 strattera
+stride jacket
+stride-jacket
 stromectol
 studiobeat
 studiosbeat
@@ -8670,6 +8677,10 @@ stylevip
 stylomontblanc
 stylowe
 subject=
+subscribe link
+subscribe-link
+subscription link
+subscription-link
 succeed-online
 success you
 success-you
@@ -9009,7 +9020,6 @@ topamax
 topcontractor
 topforum
 topiramate
-topleader
 toplist
 topman123
 topmuscle
@@ -9777,6 +9787,7 @@ where-to-buy
 wherebuy
 wherecani
 wheretobuy
+wheretoget
 whichpag
 white nfl
 white-nfl
@@ -10070,7 +10081,6 @@ www.lolita
 www.louboutin
 www.love
 www.lv
-www.mail-
 www.mcm
 www.moncler
 www.mulberry
@@ -10414,6 +10424,7 @@ zyvox
 ոeutral
 ոotie
 ߋ
+ขายเสื้อผ้าเด็ก
 คาสิโน
 ต่างหู
 루이비통
