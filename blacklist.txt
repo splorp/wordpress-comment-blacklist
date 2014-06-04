@@ -1516,6 +1516,7 @@ _weblog
 2sale
 2test
 2u.org
+2u4.us
 3.cfm
 3.in
 3@1
@@ -1942,6 +1943,7 @@ astounding5
 astral-diamond
 aswenr
 at web,
+ateffa.ms
 athletica lululemon
 athletica-lululemon
 ationincome
@@ -8519,6 +8521,7 @@ smokingnews
 sms grupp
 sms-grupp
 smsgrupp
+smsh.me
 snapback-cap
 snapbacks
 sneaker.asp
@@ -8615,6 +8618,7 @@ spyderski
 spyware
 squidoo.co
 ssory
+stan.to
 starsunglass
 state-of-the-art
 statuscode
@@ -9412,6 +9416,7 @@ upseseglype
 urlacher jersey
 urlacher-jersey
 urlacherjersey
+urlms.com
 urls2
 urlstatusgo.htm
 uroda
