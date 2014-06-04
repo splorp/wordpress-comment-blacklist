@@ -41,13 +41,16 @@ WordPress stores the contents of the [Comment Blacklist](http://codex.wordpress.
 As mentioned above, the keywords in the blacklist are based on spam submitted to my own sites. Spammers often utilize the obscuring capabilities of URL shorteners to hide their nefarious links. Therefore, I have included a handful of URL shortener domains in the blacklist. For all practical purposes, there’s no need for a comment to include a shortened URL, as unmodified links can be easily formatted using HTML. You may want to remove the following keywords from the blacklist if you find that your visitors are using shortened URLs on a regular basis.
 
 + 2u4.us
++ 4ft.me
 + an0n.me
 + ano.gd
 + ateffa.ms
 + b54.in
 + bit.ly
++ cek.li
 + clck.ru
 + cort.as
++ fc.cx
 + goo.gl
 + hfg.cc
 + is.gd
