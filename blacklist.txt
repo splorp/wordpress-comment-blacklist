@@ -657,6 +657,7 @@ _weblog
 .ru/member
 .ru/profile
 .ru/service
+.ru/top
 .ru/user
 .ru#
 .sirenos.in
@@ -1073,6 +1074,7 @@ _weblog
 /jerseys.
 /job.
 /join.
+/joj.
 /jordan.
 /jordan1
 /jordan2
@@ -1638,6 +1640,8 @@ accupril
 accutane
 acertemail.co
 acetazolamide
+acheter air
+acheter-air
 acid-reflux
 acnecyst
 acnetreatment
@@ -2211,6 +2215,7 @@ besttummy
 bestwebsite
 betlist
 betterjudg
+betterserve
 biaxin
 bieding laarzen
 bieding-laarzen
@@ -2828,12 +2833,14 @@ chaussres-boutique
 chaussres-pascher
 chaussresboutique
 chaussrespascher
+chaussure jordan
 chaussure louboutin
 chaussure paris
 chaussure_
 chaussure-asics
 chaussure-femme
 chaussure-homme
+chaussure-jordan
 chaussure-louboutin
 chaussure-paris
 chaussure-puma
@@ -2841,6 +2848,7 @@ chaussureparis
 chaussures boutique
 chaussures christian
 chaussures femme
+chaussures jordan
 chaussures louboutin
 chaussures paris
 chaussures pascher
@@ -2856,6 +2864,7 @@ chaussures-christian
 chaussures-femme
 chaussures-habil
 chaussures-homme
+chaussures-jordan
 chaussures-louboutin
 chaussures-paris
 chaussures-pascher
@@ -3042,6 +3051,8 @@ cher-prada
 chermoncler
 cherprada
 chettelongchamp
+chez skechers
+chez-skechers
 chf iraq
 chf-iraq
 chic mcm
@@ -3952,6 +3963,7 @@ factory outlet
 factory-out
 factory-outlet
 facts-about
+factthat
 fagance
 fairing http
 fairings http
@@ -4663,7 +4675,9 @@ grossrx
 group_
 group-home
 group-review
+grow marijuana
 grow-cannabis
+grow-marijuana
 growmens
 growth hormone
 growth-hormone
@@ -4880,6 +4894,7 @@ helpful-information
 helpful-method
 helplink.asp
 hemorroide
+hemp http
 hence choose
 hentai
 herbal tincture
@@ -5486,6 +5501,7 @@ jordan 11
 jordan basket
 jordan brand
 jordan femme
+jordan fille
 jordan gamma
 jordan out
 jordan pas
@@ -5497,6 +5513,7 @@ jordan-11
 jordan-basket
 jordan-brand
 jordan-femme
+jordan-fille
 jordan-gamma
 jordan-pas
 jordan-retro
@@ -5682,6 +5699,7 @@ kreddyt
 kreddyyt
 kredit
 kredyt
+krossoverov
 ku42.
 kvartiry
 k眉nst
@@ -6180,7 +6198,9 @@ mariage hugo
 mariage original
 mariage-hugo
 mariage-original
+marijuana benefit
 marijuana fact
+marijuana-benefit
 marijuana-fact
 marker http
 markerboss
@@ -7221,6 +7241,7 @@ original http
 orlistat
 osobistosci
 osobistości
+othertype
 otonanocoach
 otoplasty
 otvety
@@ -7310,6 +7331,7 @@ ovariancyst
 own blogroll
 own-blogroll
 ownersinsur
+owninterest
 oxycodone
 oxycontin
 oympia
@@ -7677,7 +7699,9 @@ prix ugg
 prix-ugg
 prixugg
 pro key
+pro medical
 pro review
+pro-medical
 pro-review
 proactol
 procedures-for
@@ -8889,6 +8913,7 @@ that isnt
 that-isnt
 thatover
 thatprofit
+thc http
 the -notify
 the pokie
 the the
@@ -8926,6 +8951,7 @@ therealest
 thes good
 thespacious
 thetopdog
+thetwo
 theyll
 thhis
 things-consume
@@ -9794,6 +9820,7 @@ webviewconsult
 wedding jewelry
 wedding-jewelry
 weddingdress
+weed http
 week.in
 weekly.in
 weeklyincome
@@ -9810,6 +9837,7 @@ welcometonginx
 wellbutrin
 weptwith
 werbegeschenke
+weredouble
 westwood boot
 westwood-boot
 westwoodboot
@@ -10371,7 +10399,6 @@ zyvox
 денег
 дешево
 доход
-доходы
 драйвера
 заболевани
 заработок
@@ -10405,6 +10432,7 @@ zyvox
 найти человека
 недорого
 новинки
+новых автомоби
 обучение
 объявлени
 одежда
@@ -10414,6 +10442,7 @@ zyvox
 официальных
 персональный
 плата
+подарков
 подешевле
 пожаловать
 покер
@@ -10437,6 +10466,7 @@ zyvox
 ресниц
 ресурс
 рублей
+сайте
 сайтов
 секс
 селитра
