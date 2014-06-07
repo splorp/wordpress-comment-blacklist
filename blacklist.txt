@@ -875,6 +875,9 @@ _weblog
 /cigars.
 /ck-
 /ck.
+/ck/
+/cl-
+/cl.
 /cl/
 /cld-
 /cld.
@@ -1668,6 +1671,7 @@ adbeatdistrib
 adbeatexpert
 adbeattrial 
 addarticle
+added agreeable
 adderall
 adderoll
 addicted-to
@@ -1840,6 +1844,7 @@ amour gratuite
 amour-gratuite
 amoxicil
 amoxil
+amusement account
 amzon.co
 an0n.me
 anabolic
@@ -3136,6 +3141,7 @@ cinturegucci
 cintureoutlet
 ciproanti
 citʏ
+cl-men
 clans hack
 clans-hack
 clarisonic
@@ -3578,6 +3584,7 @@ differin
 diflucan
 diggs.us
 dincob
+dinkypage.com
 dinner soup
 dinner-soup
 dior_
@@ -6132,14 +6139,21 @@ magnificent article
 magnificent-article
 mail_
 mail.ru
+maillot de
+maillot maillot
 maillot man
-maillot ukraine
+maillot psg
+maillot uk
+maillot-de
 maillot-enfant
 maillot-maillot
 maillot-man
-maillot-ukraine
+maillot-psg
+maillot-uk
+maillotde
 maillotman
-maillotukraine
+maillotpsg
+maillotuk
 main longchamp
 main-longchamp
 main.htm
@@ -7521,6 +7535,7 @@ php5?title
 phpbb2
 phpinfo
 phync
+phytoceramide
 pidarashechk
 pignee
 pillonline
@@ -8044,6 +8059,7 @@ reviews.in
 reviews.net
 reviews.org
 reviewsource
+reviewstv
 reviewthe
 reviewx
 reviot
