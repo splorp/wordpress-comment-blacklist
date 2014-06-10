@@ -656,7 +656,9 @@ _weblog
 .ru/image
 .ru/member
 .ru/profile
+.ru/pub
 .ru/service
+.ru/soldes
 .ru/top
 .ru/user
 .ru#
@@ -1457,6 +1459,7 @@ _weblog
 %20on
 %20zappo
 %anchor%
+%blogurl%
 %d8%
 %e0%
 %titel%
@@ -2686,6 +2689,8 @@ cappelli-boston
 cappelli-new
 cappelli-nfl
 captchasnip
+carb nite
+carb-nite
 card-debt
 cardy boot
 cardy-boot
@@ -5510,6 +5515,7 @@ jordan brand
 jordan femme
 jordan fille
 jordan gamma
+jordan milano
 jordan out
 jordan pas
 jordan retro
@@ -5522,6 +5528,7 @@ jordan-brand
 jordan-femme
 jordan-fille
 jordan-gamma
+jordan-milano
 jordan-pas
 jordan-retro
 jordan-sale
@@ -5531,6 +5538,7 @@ jordan1
 jordanbrand
 jordangamma
 jordankicks
+jordanmilano
 jordanretro
 jordans cheap
 jordans-cheap
@@ -6446,6 +6454,8 @@ metronidazole
 mezzo louis
 mezzo-louis
 mezzolouis
+mi40 review
+mi40-review
 miami escort
 miami-escort
 michael-kors
@@ -7122,6 +7132,8 @@ offer-outlet
 offer-watch
 offer.net
 offer.weebly
+offering free
+offering-free
 offeroutlet
 offerwatch
 office autopilot
@@ -7239,6 +7251,8 @@ onsales.co
 openair
 opinion.in
 opinions.in
+opt-in promotion
+opt-in-promotion
 option binaire
 option-binaire
 options binaire
@@ -7635,6 +7649,8 @@ porno.
 porno@
 pornolady
 pornsex
+portefeuille lancel
+portefeuille-lancel
 possess
 post post
 post_
@@ -8121,7 +8137,6 @@ rozszerzona
 rpg-online
 rpgonline
 rss.htm
-ru/pub
 runescape
 running sneak
 running-sneak
@@ -8625,8 +8640,11 @@ sold-out
 solde canad
 solde-canad
 soldecanad
+soldes lancel
 soldes louboutin
 soldes ralph
+soldes_lancel
+soldes-lancel
 soldes-louboutin
 soldes-ralph
 soldes.co
@@ -9523,6 +9541,8 @@ valise-louis
 valiselouis
 valium
 valtrex
+valuable opt-in
+valuable-opt-in
 valueble
 vanessa-bruno-sac
 vanessabrunosac
@@ -10513,7 +10533,8 @@ zyvox
 фото
 футбол
 цена
-шапка-
+шапка
+щзп
 элитныеноутбуки
 юридической
 ԝill
