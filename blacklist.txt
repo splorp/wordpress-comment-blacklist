@@ -68,6 +68,7 @@ _weblog
 --bag
 --jack
 --of
+--phone
 --serv
 --shut
 --stor
@@ -946,6 +947,8 @@ _weblog
 /dsquared-
 /dsquared.
 /duvetica.
+/ecig-
+/ecig.
 /economical-
 /empower-
 /en.
@@ -1937,6 +1940,10 @@ artykul
 asd@
 asdasd
 asdf
+asics schuhe
+asics-deutschland
+asics-schuhe
+asicsdeutschland
 asicsshoe
 asikkusu
 aso expei
@@ -2319,6 +2326,8 @@ blogs/post
 blogsoon
 blogtitle
 blowjob
+blu-cig
+blucig
 blue ugg
 blue-ugg
 bluehostreview
@@ -2910,6 +2919,7 @@ cheap football
 cheap ga
 cheap galaxy
 cheap hockey
+cheap hotel
 cheap iphone
 cheap jersey
 cheap longchamp
@@ -2958,6 +2968,7 @@ cheap-gucci
 cheap-hat
 cheap-hermes
 cheap-hockey
+cheap-hotel
 cheap-jacket
 cheap-jersey
 cheap-kobe
@@ -3060,6 +3071,7 @@ cher-moncler
 cher-prada
 chermoncler
 cherprada
+chester http
 chettelongchamp
 chez skechers
 chez-skechers
@@ -3544,6 +3556,7 @@ despaulsmith
 desyrel
 detail/www
 detektiv
+deutschlandonline
 devenir trade
 devenir-trade
 devil1.
@@ -5097,6 +5110,7 @@ hot.htm
 hotburberry
 hotel deal
 hotel hermes
+hotel http
 hotel-deal
 hotel-hermes
 hotelbritannia
@@ -5104,6 +5118,7 @@ hoteldeal
 hotelhermes
 hoteli
 hotelmanchester
+hotels http
 hotgirl
 hotlove
 hotpantie
@@ -6806,6 +6821,7 @@ muscular abdomen
 muscular-abdomen
 muscularwom
 mustangs http
+mustlook
 mutuelle sante
 mutuelle-sante
 mutuelles sante
@@ -8159,6 +8175,7 @@ sac hermes
 sac lancel
 sac longchamp
 sac louis
+sac trail
 sac vanessa
 sac vuitton
 sac_lancel
@@ -8168,6 +8185,7 @@ sac-hermes
 sac-lancel
 sac-longchamp
 sac-louis
+sac-trail
 sac-vanessa
 sac-vuitton
 sacguess
@@ -8242,8 +8260,10 @@ salomon athletic
 salomon canada
 salomon-athletic
 salomon-canada
+salomon-fr
 salomonathletic
 salomoncanada
+salomonfr
 salvia.
 sameday-loan
 samedayloan
@@ -8289,8 +8309,14 @@ schoenen dsquared
 schoenen-dsquared
 schoenendsquared
 school.a
+schuhe gunstig
+schuhe günstig
 schuhe puma
+schuhe skytop
+schuhe-gunstig
+schuhe-günstig
 schuhe-puma
+schuhe-skytop
 schuhepuma
 sciatica pain
 scontati
@@ -8812,7 +8838,9 @@ superstar class
 superstar-class
 superstarclass
 supply_
+supra schuhe
 supra shoe
+supra-schuhe
 supra-shoe
 suprashoe
 suprax
@@ -9590,6 +9618,13 @@ via-internet
 viagera
 viagra
 vicodin
+videncia charme
+videncia gratis
+videncia vidente
+videncia-charme
+videncia-gratis
+videncia-vidente
+videnciavidente
 video sport
 video-magnif
 video-pokie
@@ -9871,6 +9906,7 @@ weightloss
 weightnatural
 welcometonginx
 wellbutrin
+wentoutside
 weptwith
 werbegeschenke
 weredouble
@@ -9920,6 +9956,7 @@ wholesale led
 wholesale nba
 wholesale north
 wholesale polo
+wholesale ralph
 wholesale-acrylic
 wholesale-bag
 wholesale-cheap
@@ -9934,6 +9971,7 @@ wholesale-mac
 wholesale-nba
 wholesale-north
 wholesale-polo
+wholesale-ralph
 wholesalebag
 wholesalecheap
 wholesalechina
@@ -9951,6 +9989,7 @@ wholesaler-mac
 wholesalermac
 why-would-you
 widyaw
+wifewith
 wifi-jammer
 wifijammer
 wiki/%
