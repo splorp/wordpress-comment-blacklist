@@ -141,6 +141,10 @@ _weblog
 -broker/
 -buy.
 -buy/
+-camiseta.
+-camiseta/
+-camisetas.
+-camisetas/
 -car.co
 -car.in
 -casas-en-
@@ -838,6 +842,10 @@ _weblog
 /bvlgari-
 /bvlgari.
 /cache/
+/camiseta-
+/camiseta.
+/camisetas-
+/camisetas.
 /campaign-
 /campaign.
 /campaign/
@@ -2665,6 +2673,10 @@ camicienegozi
 camisas ralph
 camisas-ralph
 camisasralph
+camiseta nba
+camiseta-nba
+camisetas nba
+camisetas-nba
 can-help-you
 canada loan
 canada-loan
@@ -3432,8 +3444,10 @@ crackedpro
 crane-hire
 cranehire
 create-product
+credit direct
 credit repair
 credit-card
+credit-direct
 credit-report
 credit-score
 credit.eu
@@ -5305,6 +5319,8 @@ insanity-workout
 insanity.php
 insanityworkout
 insdier
+inside reputation
+inside-reputation
 insomnia tip
 insomnia-tip
 inspired-handbag
@@ -5419,6 +5435,7 @@ italystore
 itemnotfound
 itstree
 iг
+i贸
 jacken-online
 jackenonline
 jackenwest
@@ -6883,6 +6900,7 @@ myreview.co
 mytest
 myvirus
 myweblog
+m谩s
 nail_art
 nail-art
 nail-fest
@@ -7087,9 +7105,12 @@ northfaceus
 northfaceya
 northfce
 norvasc
+not fake
 not-dienst
+not-fake
 not|
 notdienst
+notfake
 notraty
 nouveau maillot
 nouveau-maillot
@@ -8865,6 +8886,10 @@ super real
 super-real
 superarticle
 superheroz
+superior companies
+superior company
+superior-companies
+superior-company
 superstar class
 superstar-class
 superstarclass
@@ -10665,9 +10690,11 @@ zyvox
 ケイトスペード
 コピ
 ゴヤール
+コルクウェッジ
 ご了承
 ご返金
 サマンサタバサ
+サンダル
 ショッ
 ショルダーバッグ
 スニーカー
