@@ -15,6 +15,7 @@ _e/
 _emerg
 _entr
 _free
+_fuck
 _help
 _htm
 _http
@@ -105,6 +106,7 @@ _weblog
 -asics-
 -asics.
 -asics/
+-asshole
 -auction-
 -auction.
 -auction/
@@ -258,21 +260,7 @@ _weblog
 -fotograf/
 -fotografia.
 -fotografia/
--fuck-
--fuck.
--fuck/
--fucked-
--fucked.
--fucked/
--fucker-
--fucker.
--fucker/
--fucking-
--fucking.
--fucking/
--fucks-
--fucks.
--fucks/
+-fuck
 -fund-
 -fund.
 -fund/
@@ -991,16 +979,7 @@ _weblog
 /foto.
 /fpdb/
 /free/
-/fuck-
-/fuck.
-/fucked-
-/fucked.
-/fucker-
-/fucker.
-/fucking-
-/fucking.
-/fucks-
-/fucks.
+/fuck
 /futbol-
 /futbol/
 /gagajapan-
@@ -1967,6 +1946,8 @@ aspiring blog
 aspiring-blog
 assets grow
 assets-grow
+asshole google
+asshole-
 assistance informatique
 assistance-inform
 assistance-informatique
@@ -4356,7 +4337,10 @@ fruitful design
 fruitful-design
 fruta planta
 frutaplanta
+fuck google
+fuck-
 fuckdown
+fuckgoogle
 func.php
 fund http
 fund market
