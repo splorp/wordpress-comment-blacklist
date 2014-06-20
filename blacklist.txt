@@ -23,7 +23,7 @@ _idea
 _index
 _info
 _java
-_jersey
+_jers
 _key
 _kino
 _kit
@@ -343,8 +343,8 @@ _weblog
 -mbt/
 -mbts.
 -mbts/
--men-jersey
--mens-jersey
+-men-jers
+-mens-jers
 -mens.
 -metods-
 -mlm.
@@ -503,7 +503,8 @@ _weblog
 -wheels-
 -wholesale.
 -wizard.co
--women-jersey
+-women-jers
+-womens-jers
 -womens.
 -xchange
 ･・
@@ -701,7 +702,6 @@ _weblog
 //article
 //best
 //bitcoin
-//businessdaily
 //buy
 //cheap
 //compare
@@ -1461,7 +1461,7 @@ _weblog
 +cheap
 +clearance
 +handbag
-+jersey
++jers
 +louboutin
 +outlet
 <a>
@@ -1545,11 +1545,11 @@ _weblog
 7purse
 8handbag
 8purse
-49ers jersey
+49ers jers
 49ers online
-49ers-jersey
+49ers-jers
 49ers-online
-49ersjersey
+49ersjers
 49ersonline
 100% legit
 100mg.
@@ -2186,7 +2186,7 @@ benzoylmethyl
 berlinmoncler
 berracom.ph
 best cyber
-best jersey
+best jers
 best online
 best pant
 best tummy
@@ -2197,7 +2197,7 @@ best-direct
 best-discount
 best-fake
 best-home-cinema
-best-jersey
+best-jers
 best-pant
 best-phone
 best-shop
@@ -2214,7 +2214,7 @@ bestdiscount
 bestdrug
 bestfake
 bestfit
-bestjersey
+bestjers
 bestlaptop
 bestpant
 bestphone
@@ -2437,9 +2437,9 @@ brandjp
 brandnames
 brandpurse
 bravemed
-braves jersey
-braves-jersey
-bravesjersey
+braves jers
+braves-jers
+bravesjers
 brazil bikini
 brazil-bikini
 brazilbikini
@@ -2456,10 +2456,10 @@ brittny-battle
 brittnybattle
 broncos hat
 broncos-hat
-broncos-jersey
+broncos-jers
 broncos-official
 broncoshat
-broncosjersey
+broncosjers
 broncosofficial
 brrip
 brugte mulberry
@@ -2541,14 +2541,23 @@ burch-sale
 burchout
 burchsale
 business empire
+business know
+business-boss
+business-daily
 business-empire
+business-finder
 business-in
+business-intel
+business-know
 business-loan
 business-market
 business-net
+business-network
 businessboss
+businessdaily
 businessfinder
 businessintel
+businessknow
 businessloan
 businessmarket
 businessnetwork
@@ -2925,7 +2934,7 @@ cheap galaxy
 cheap hockey
 cheap hotel
 cheap iphone
-cheap jersey
+cheap jers
 cheap longchamp
 cheap louboutin
 cheap louis
@@ -2933,6 +2942,7 @@ cheap mbt
 cheap michael
 cheap moncler
 cheap mont
+cheap mulberry
 cheap nfl
 cheap nhl
 cheap nike
@@ -2975,13 +2985,14 @@ cheap-hermes
 cheap-hockey
 cheap-hotel
 cheap-jacket
-cheap-jersey
+cheap-jers
 cheap-kobe
 cheap-louboutin
 cheap-mbt
 cheap-michael
 cheap-moncler
 cheap-mont
+cheap-mulberry
 cheap-nfl
 cheap-nhl
 cheap-nike
@@ -3030,7 +3041,7 @@ cheaphermes
 cheaphockey
 cheapiphone
 cheapjacket
-cheapjersey
+cheapjers
 cheapjorda
 cheapkobe
 cheaplouboutin
@@ -3158,8 +3169,8 @@ cigs<
 cigsbuy
 cigsonline
 cigspromo
-cinco jersey
-cinco-jersey
+cinco jers
+cinco-jers
 cinture gucci
 cinture outlet
 cinture-gucci
@@ -3452,8 +3463,8 @@ crystalmall
 cuir vanessa
 cuir-vanessa
 cuirvanessa
-cup jersey
-cup-jersey
+cup jers
+cup-jers
 cure herpes
 cure-herpes
 cure.co.
@@ -3637,7 +3648,9 @@ discount bag
 discount jordan
 discount mbt
 discount mulberry
+discount nba
 discount nfl
+discount nhl
 discount north
 discount ugg
 discount-
@@ -3697,9 +3710,9 @@ dolce-bag
 dolcebag
 dollar-service
 dollarservice
-dolphins jersey
-dolphins-jersey
-dolphinsjersey
+dolphins jers
+dolphins-jers
+dolphinsjers
 domainbie
 dominateseo
 domination-secret
@@ -3795,6 +3808,9 @@ ease.in
 easy.in
 easyloan
 easyrent
+eating hemp
+eating-hemp
+eatinghemp
 eaudiovideo
 ebaypic
 ebook-reader-test
@@ -3815,16 +3831,16 @@ ejaculationpharm
 el-gordo.c
 elamale
 elavil
-elite jersey
+elite jers
 elite model
-elite-jersey
+elite-jers
 elite-men
 elite-model
-elitejersey
+elitejers
 elitemodel
 eloans
-elway-jersey
-elwayjersey
+elway-jers
+elwayjers
 email.htm
 email.tst
 emailsvip
@@ -3912,6 +3928,8 @@ evelynebag
 event_
 eventid
 every advertise
+every information
+every-information
 every1bet
 everythink
 evryday
@@ -4007,6 +4025,8 @@ factory-outlet
 facts-about
 factthat
 fagance
+fail drug
+fail-drug
 fairing http
 fairings http
 fajki
@@ -4416,7 +4436,7 @@ gamblingonline
 game wiki
 game-casino
 game-copy
-game-jersey
+game-jers
 game-wiki
 gamecopy
 gamedesigndegree
@@ -4466,8 +4486,8 @@ genuinely fruit
 genuinely-fast
 genuinely-fruit
 genuinepandora
-germany jersey
-germany-jersey
+germany jers
+germany-jers
 germanylove
 gestione
 get_rid_of
@@ -4498,7 +4518,7 @@ ghdpascher
 ghdstraight
 ghduk
 giants-shop
-giantsjersey
+giantsjers
 giantsshop
 gifts-singapore
 giftsingapore
@@ -4581,10 +4601,12 @@ gomaile.co
 goo.gl
 good article
 good blog
+good hemp
 good-article
 good-blog
 good-for-
 good-game
+good-hemp
 good}
 goodbye.asp
 goodgame
@@ -4729,6 +4751,8 @@ group-review
 grow marijuana
 grow-cannabis
 grow-marijuana
+growing hemp
+growing-hemp
 growmens
 growth hormone
 growth-hormone
@@ -4919,7 +4943,7 @@ hautschez
 haveasite
 havegive
 havegone
-hawksjersey
+hawksjers
 hcg-boost
 hcgboost
 headset2012
@@ -4947,11 +4971,13 @@ helplink.asp
 hemorroide
 hemp braiding
 hemp http
+hemp jewelry
 hemp milk
 hemp oil
 hemp protein
 hemp tycoon
 hemp-braiding
+hemp-jewelry
 hemp-milk
 hemp-oil
 hemp-protein
@@ -5628,13 +5654,13 @@ juicycouture
 jumpedup
 justcloud
 justness
-kaepernick jersey
+kaepernick jers
 kaepernick wom
 kaepernick youth
-kaepernick-jersey
+kaepernick-jers
 kaepernick-wom
 kaepernick-youth
-kaepernickjersey
+kaepernickjers
 kaepernickwom
 kaepernickyouth
 kaffee-maschine
@@ -5920,10 +5946,14 @@ librium
 lifeinsurance
 lifelock
 ligne http
+ligne medicament
+ligne médicament
+ligne-medicament
+ligne-médicament
 likе
-limited jersey
-limited-jersey
-limitedjersey
+limited jers
+limited-jers
+limitedjers
 limo-service
 linguim.co
 link http
@@ -5958,7 +5988,7 @@ linkusup
 linkvault
 linkz
 lionsfan
-lionsjersey
+lionsjers
 lipitor
 lisinopril
 lisseur-pascher
@@ -6052,6 +6082,7 @@ longchampoffici
 longchampout
 longchampp
 longchamppurse
+longchampq
 longchampsa
 longchampshop
 longchampsolde
@@ -6070,6 +6101,7 @@ lottotip
 louboutin canad
 louboutin cheap
 louboutin discount
+louboutin femme
 louboutin out
 louboutin pas
 louboutin platform
@@ -6082,6 +6114,7 @@ louboutin uk
 louboutin-chau
 louboutin-cheap
 louboutin-discount
+louboutin-femme
 louboutin-out
 louboutin-pas
 louboutin-platform
@@ -6132,9 +6165,9 @@ loyalty-today
 loϲal
 lublin.
 lublina.
-luck jersey
-luck-jersey
-luckjersey
+luck jers
+luck-jers
+luckjers
 luggagetote
 lululemon outlet
 lululemon-outlet
@@ -6226,8 +6259,10 @@ main.htm
 main/main
 mainlongchamp
 majesticriver
+make hemp
 make money
 make-backup
+make-hemp
 make-million
 make-money
 makebaby
@@ -6255,9 +6290,9 @@ manner-puma
 månner-puma
 mannerpuma
 månnerpuma
-manning jersey
-manning-jersey
-manningjersey
+manning jers
+manning-jers
+manningjers
 manor escort
 manor-escort
 maran-train
@@ -6328,7 +6363,7 @@ master.ru
 mastermind-team
 mastermindteam
 matchcash
-matthewsjersey
+matthewsjers
 matural
 max griffey
 max sale
@@ -6847,6 +6882,7 @@ msgnum
 much-boot
 much-gucci
 muchgucci
+mulberry alexa
 mulberry bag
 mulberry handbag
 mulberry oak
@@ -6855,6 +6891,7 @@ mulberry purse
 mulberry tasker
 mulberry top
 mulberry uk
+mulberry-alexa
 mulberry-bag
 mulberry-fashion
 mulberry-handbag
@@ -6939,11 +6976,11 @@ naturalway
 natureto
 natürlich
 nba cappelli
-nba jersey
+nba jers
 nba_
 nba-cappelli
-nba-jersey
-nbajersey
+nba-jers
+nbajers
 nbshoe
 need sex
 need-sex
@@ -7005,21 +7042,28 @@ nexopia
 nfl austr
 nfl italia
 nfl jers
+nfl replica
 nfl shop
 nfl-beanie
 nfl-italia
 nfl-jers
 nfl-official
+nfl-replica
 nfl-shop
 nfljers
 nflofficial
+nflreplica
 nflshop
 nfr.cfm
-nhl jersey
+nhl jers
 nhl replica
-nhl-jersey
+nhl-jers
 nhl-replica
+nhl-shop
+nhljers
+nhlofficial
 nhlreplica
+nhlshop
 niaspan
 nice paragraph
 nice practice
@@ -7032,7 +7076,7 @@ nicе
 nieruchomosci
 nike 5.0
 nike free
-nike jersey
+nike jers
 nike jordan
 nike kd
 nike mercurial
@@ -7045,7 +7089,7 @@ nike-blazer
 nike-dunk
 nike-free
 nike-freerun
-nike-jersey
+nike-jers
 nike-jordan
 nike-kd
 nike-main
@@ -7063,7 +7107,7 @@ nikeblazer
 nikedunk
 nikefree
 nikefreerun
-nikejersey
+nikejers
 nikejordan
 nikemain
 nikepasch
@@ -7337,6 +7381,8 @@ optionstrad
 oral-sex
 order_type
 ordersoma
+organic hemp
+organic-hemp
 organogold
 orgazma
 oriflame
@@ -7440,7 +7486,7 @@ oxycontin
 oympia
 oьtɑin
 p90x
-packersjersey
+packersjers
 page_
 page.tl
 page/pag
@@ -7474,10 +7520,10 @@ paneraiwatch
 panier site
 panier-site
 paniersite
-panthers jersey
+panthers jers
 panthers merch
 panthers store
-panthers-jersey
+panthers-jers
 panthers-merch
 panthers-store
 panthersmerch
@@ -7528,9 +7574,9 @@ patagoniazone
 patrao-online
 patraoonline
 patriots hat
-patriots jersey
+patriots jers
 patriots-hat
-patriots-jersey
+patriots-jers
 paulsmith-cheap
 paulsmith-shop
 paulsmith1
@@ -7747,6 +7793,11 @@ posting-comment
 posting!
 posts.asp
 posttestimonial
+powder benefit
+powder review
+powder-benefit
+powder-review
+powderbenefit
 powerball
 powerbank
 pozew.
@@ -7849,6 +7900,8 @@ profitseek
 prohormone
 proisxozhdenie
 project-earn
+project-hemp
+projecthemp
 prokey
 prokeyshop
 prom-dress
@@ -7873,8 +7926,13 @@ properugg
 propranolol
 prostitutki
 protein benefit
+protein powder
+protein review
 protein-benefit
 protein-diet
+protein-powder
+protein-review
+proteinbenefit
 proteindiet
 provewhether
 provigil
@@ -8024,7 +8082,7 @@ red+bottom+shoe
 redbottomshoe
 redirect_
 redirect.asp
-redskinsjersey
+redskinsjers
 redsoleshoe
 redugg
 redwingjp
@@ -8080,7 +8138,7 @@ replica birk
 replica china
 replica hand
 replica ip
-replica jersey
+replica jers
 replica louis
 replica nba
 replica oakley
@@ -8098,7 +8156,7 @@ replica-gucci
 replica-hand
 replica-handbag
 replica-ip
-replica-jersey
+replica-jers
 replica-louis
 replica-nba
 replica-oakley
@@ -8122,7 +8180,7 @@ replicagucci
 replicahand
 replicahandbag
 replicaip
-replicajersey
+replicajers
 replicalouis
 replicanba
 replicaoakley
@@ -8269,9 +8327,9 @@ sacslancel
 sacvanessa
 sacvuitton
 sadehap
-saints jersey
-saints-jersey
-saintsjersey
+saints jers
+saints-jers
+saintsjers
 saldi online
 saldi-footwear
 saldi-online
@@ -8341,9 +8399,9 @@ samurai siege
 samurai-siege
 sandaljp
 sandalsjp
-sanders jersey
-sanders-jersey
-sandersjersey
+sanders jers
+sanders-jers
+sandersjers
 sandypasch
 sante http
 satchelbag
@@ -8395,9 +8453,9 @@ scott-wing
 scottwing
 scrapebox
 seaddons
-seahawks jersey
-seahawks-jersey
-seahawksjersey
+seahawks jers
+seahawks-jers
+seahawksjers
 search-engine-opt
 searchengine-opt
 searchengine.
@@ -8623,7 +8681,7 @@ siege hack
 siege-hack
 siegheil
 sign-zodiac
-signed-jersey
+signed-jers
 signifiant
 significant infos
 significant-infos
@@ -8764,8 +8822,8 @@ spaccio-woolrich
 spacciowoolrich
 spade diaper
 spade-diaper
-spain jersey
-spain-jersey
+spain jers
+spain-jers
 spam response
 spam-response
 spammer spam
@@ -8794,7 +8852,7 @@ sportsbook
 sportsfanshop
 sportsfanstore
 sportsgear
-sportsjersey
+sportsjers
 sprinkler tune
 sprinkler-tune
 sprzedaz
@@ -8834,6 +8892,8 @@ stivaletimberland
 stivali timberland
 stivali-timberland
 stivalitimberland
+stock-ticker
+stockticker
 stodiobeat
 stodiosbeat
 stone japan
@@ -8914,7 +8974,9 @@ superior company
 superior-companies
 superior-company
 superstar class
+superstar status
 superstar-class
+superstar-status
 superstarclass
 supply_
 supra boutique
@@ -9047,8 +9109,8 @@ testosterone-boost
 testrun
 testuser
 tetracycline
-texans-jersey
-texansjersey
+texans-jers
+texansjers
 tgf@
 thailove
 thanks.i
@@ -9626,9 +9688,9 @@ upgrade-key
 upgradekey
 upload_
 upseseglype
-urlacher jersey
-urlacher-jersey
-urlacherjersey
+urlacher jers
+urlacher-jers
+urlacherjers
 urlms.com
 urls2
 urlstatusgo.htm
@@ -9658,6 +9720,7 @@ valueble
 vanessa-bruno-sac
 vanessabrunosac
 vaporizer pen
+vaporizer-pen
 varabella
 vardenafil
 vegas hotel
@@ -10033,7 +10096,7 @@ wholesale china
 wholesale coach
 wholesale free
 wholesale handbag
-wholesale jersey
+wholesale jers
 wholesale jordan
 wholesale led
 wholesale nba
@@ -10047,7 +10110,7 @@ wholesale-china
 wholesale-coach
 wholesale-free
 wholesale-handbag
-wholesale-jersey
+wholesale-jers
 wholesale-jordan
 wholesale-led
 wholesale-mac
@@ -10061,7 +10124,7 @@ wholesalechina
 wholesalecoach
 wholesalefree
 wholesalehandbag
-wholesalejersey
+wholesalejers
 wholesalejordan
 wholesaleled
 wholesalemac
@@ -10079,15 +10142,18 @@ wiki/%
 wiki/index
 wiki/user
 wikka.php
+will hemp
+will-hemp
 wille bijoux
 wille solde
 wille-bijoux
 wille-solde
 willebijoux
 willesolde
-wilson jersey
-wilson-jersey
-wilsonjersey
+willhemp
+wilson jers
+wilson-jers
+wilsonjers
 win7.co
 win7pro
 win8.co
@@ -10428,9 +10494,9 @@ yourprofile
 yoursite
 yoursuccess
 yourwebsite
-youth jersey
-youth-jersey
-youthjersey
+youth jers
+youth-jers
+youthjers
 youtube down
 youtube vi
 youtube-down
@@ -10576,6 +10642,7 @@ zyvox
 доход
 драйвера
 заболевани
+заказ
 заработок
 зарегистрировать
 знакомства
