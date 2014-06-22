@@ -554,6 +554,7 @@ _weblog
 .acgi
 .adboard
 .adsboard
+.armani-
 .asp/
 .azmya.
 .baidu
@@ -1894,8 +1895,11 @@ areshade
 aricept
 aripiprex
 armagard.co
+armani clothing
 armani costume
+armani-clothing
 armani-costume
+armaniclothing
 armanito
 aroma-paradise
 artemfrolov
@@ -2654,6 +2658,9 @@ calabasas rug
 calabasas-carpet
 calabasas-rug
 callgirl
+calzature mbt
+calzature-mbt
+calzaturembt
 cambogia
 camgirl
 camicie abercrombie
@@ -2811,6 +2818,7 @@ ch.ea.p
 chandler baseball
 chandler-baseball
 chanel bag
+chanel hand
 chanel handbag
 chanel out
 chanel purse
@@ -2820,6 +2828,7 @@ chanel spring
 chanel_
 chanel--
 chanel-bag
+chanel-hand
 chanel-online
 chanel-out
 chanel-purse
@@ -2828,6 +2837,7 @@ chanel-sac
 chanel-sale
 chanel-spring
 chanelbag
+chanelhand
 chanelonline
 chaneloutlet
 chanelpurse
@@ -4865,6 +4875,8 @@ hairremov
 hairstraight
 hamilton norge
 hamilton-norge
+hand taschen
+hand-taschen
 handbag distrib
 handbag louis
 handbag out
@@ -4914,6 +4926,7 @@ handbagswom
 handbagu
 handbagwholesale
 handbagwom
+handtaschen
 hanging-with-friends
 hangingwithfriends
 haohao
@@ -5494,6 +5507,11 @@ jacketsformen
 jacketsforwom
 jacketssale
 jacketswom
+jacobs geldb
+jacobs-dk
+jacobs-geldb
+jacobsdk
+jacobsgeldb
 jagowho
 jam jordan
 jam-jordan
@@ -6390,11 +6408,13 @@ mbt scarpe
 mbt schuhe
 mbt shoe
 mbt shop
+mbt spaccio
 mbt special
 mbt tariki
 mbt tembea
 mbt train
 mbt tunisha
+mbt uomo
 mbt vanzari
 mbt women
 mbt_
@@ -6416,11 +6436,13 @@ mbt-sandal
 mbt-schuhe
 mbt-shoe
 mbt-shop
+mbt-spaccio
 mbt-special
 mbt-tariki
 mbt-tembea
 mbt-train
 mbt-tunisha
+mbt-uomo
 mbt-vanzari
 mbt-women
 mbtbaridi
@@ -6442,11 +6464,13 @@ mbtschuhe
 mbtshoe
 mbtshop
 mbtsko
+mbtspaccio
 mbtspecial
 mbttariki
 mbttembea
 mbttrain
 mbttunisha
+mbtuomo
 mbtvanzari
 mbtwomen
 mckinqi
@@ -9671,16 +9695,19 @@ uomo adidas
 uomo dsquared
 uomo man
 uomo moncler
+uomo scarpe
 uomo timberland
 uomo-adidas
 uomo-dsquared
 uomo-man
 uomo-moncler
+uomo-scarpe
 uomo-short
 uomo-timberland
 uomoadidas
 uomoman
 uomomoncler
+uomoscarpe
 uomotimberland
 up-to-date
 upgrade key
