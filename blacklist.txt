@@ -567,11 +567,13 @@ _weblog
 .cfmx
 .cgi
 .com wild
+.com,
 .com/,
 .com/%
 .com/1.
 .com/2.
 .com/3.
+.com0
 .coupon
 .credopa.in
 .disposable-
@@ -600,8 +602,6 @@ _weblog
 .info/,
 .insanity-
 .internet-
-.jp/my/
-.jp/shop
 .longchamp-
 .magix.net
 .mobi/?
@@ -618,15 +618,23 @@ _weblog
 .outlet.co
 .php?
 .php/?
+.pl,
 .pl?
+.pl/,
 .pl/?
 .pl/#
+.pl/1-
 .pl/1.
+.pl/2-
 .pl/2.
+.pl/3-
 .pl/3.
 .pl/content
+.pl/forum
+.pl/image
 .pl/member
 .pl/profile
+.pl/top
 .pl/user
 .pl#
 .rar.
@@ -636,6 +644,7 @@ _weblog
 .remotedesktop
 .royal-
 .rshacks.
+.ru,
 .ru?
 .ru/,
 .ru/?
@@ -676,6 +685,8 @@ _weblog
 [/color
 [/move
 [/url
+[a...z]
+[a..z]
 [color
 [move
 [url
@@ -1639,7 +1650,10 @@ accutane
 acertemail.co
 acetazolamide
 acheter air
+acheter dolce
 acheter-air
+acheter-dolce
+acheterdolce
 acid-reflux
 acnecyst
 acnetreatment
@@ -3788,6 +3802,7 @@ dsquared-online
 dsquared-outlet
 dsquared-shoe
 dsquared-uomo
+dsquared2
 dsquaredonline
 dsquaredoutlet
 dsquaredshoe
@@ -4133,9 +4148,12 @@ females handbag
 females-handbag
 femaleshandbag
 femme chaussure
+femme couche
 femme-chaussure
+femme-couche
 femme-sac
 femmechaussure
+femmecouche
 femmes-canada-goose
 femmesac
 femmescanadagoose
@@ -4772,6 +4790,9 @@ gruzowe
 gruzu
 gry flesh
 gry online
+guantes marshall
+guantes-marshall
+guantesmarshall
 guarantee_
 guarantee-uptime
 guaranteed_
@@ -5150,12 +5171,15 @@ homeforsale
 homeloan
 homeremed
 homesforsale
+homme couche
 homme giorgio
 homme hugo
 homme solde
+homme-couche
 homme-giorgio
 homme-hugo
 homme-solde
+hommecouche
 hondavtx
 hoodia
 hoodie-cheap
@@ -5655,6 +5679,8 @@ jp-bag
 jp-best
 jp-sale
 jp/blog
+jp/my
+jp/shop
 jpbag
 jpbest
 jpcity.co
@@ -5720,6 +5746,12 @@ kitchenworktop
 kleding winkel
 kleding-winkel
 kledingwinkel
+klein felpa
+klein prezzi
+klein-felpa
+klein-prezzi
+kleinfelpa
+kleinprezzi
 klonopin
 klub.ru
 knee-joint
@@ -6370,6 +6402,9 @@ marlboro-cig
 marlboro-gold
 marlboro100
 marseille http
+marshall guantes
+marshall-guantes
+marshallguantes
 marvelous post
 marvelous-post
 mass-facebook
@@ -9093,7 +9128,11 @@ tax-debt
 taxbook
 taxdebt
 teach-you-every
+team-online
+teamonline
 teamproshop
+teams-online
+teamsonline
 teen female
 teen porn
 teen sex
@@ -10415,6 +10454,7 @@ www.mulberry
 www.newbalance
 www.nike-
 www.numberone
+www.offerte
 www.official
 www.online
 www.onsale
