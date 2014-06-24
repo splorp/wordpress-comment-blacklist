@@ -574,6 +574,9 @@ _weblog
 .com/2.
 .com/3.
 .com0
+.com1
+.com2
+.com3
 .coupon
 .credopa.in
 .disposable-
@@ -784,6 +787,7 @@ _weblog
 /armani-
 /armani.
 /around.
+/asics_
 /asics-
 /asics.
 /asp/
@@ -2073,12 +2077,12 @@ bally store
 bally-store
 ballystore
 ban baratas
-ban jacket
+ban jacke
 ban occhiali
 ban online
 ban sunglass
 ban-baratas
-ban-jacket
+ban-jacke
 ban-occhiali
 ban-online
 ban-sunglass
@@ -2086,7 +2090,7 @@ bancshare
 bangkok cosplay
 bangkok-cosplay
 bangkokcosplay
-banjacket
+banjacke
 bankbybank
 bankowoz
 bankrobber
@@ -2097,13 +2101,13 @@ baratasnewera
 baratos-new
 baratosnewera
 barbour cloth
-barbour jacket
+barbour jacke
 barbour outlet
 barbour-cloth
-barbour-jacket
+barbour-jacke
 barbour-outlet
 barbourcloth
-barbourjacket
+barbourjacke
 barbouroutlet
 basket isabel
 basket-isabel
@@ -2150,6 +2154,7 @@ beaut-beaut
 beaut-bio
 beautiful-wom
 beautifulwom
+becausethe
 bee-pollen.
 beeday
 beenpaid
@@ -2665,7 +2670,11 @@ cabins lithu
 cabins-it
 cabins-lithu
 caellis
-cagoosejacket
+cagoose jacke
+cagoose sale
+cagoose-jacke
+cagoose-sale
+cagoosejacke
 cagoosesale
 calabasas carpet
 calabasas rug
@@ -3008,7 +3017,7 @@ cheap-hat
 cheap-hermes
 cheap-hockey
 cheap-hotel
-cheap-jacket
+cheap-jacke
 cheap-jers
 cheap-kobe
 cheap-louboutin
@@ -3064,7 +3073,7 @@ cheaphat
 cheaphermes
 cheaphockey
 cheapiphone
-cheapjacket
+cheapjacke
 cheapjers
 cheapjorda
 cheapkobe
@@ -3520,8 +3529,11 @@ dailyreview.co
 dailystrength
 dakotasuki
 damen timberland
+damen tote
 damen-timberland
+damen-tote
 damentimberland
+damentote
 damier-azur
 damskie
 dannerjp
@@ -3747,7 +3759,8 @@ dos-seios
 dotcomsecret
 douchingteen
 doudoune
-downjacket
+down-jacke
+downjacke
 download bracelet
 download-bracelet
 downloadbracelet
@@ -4005,7 +4018,7 @@ fabulous drug
 fabulous-drug
 fabulousdrug
 face denali
-face jacket
+face jacke
 face out
 face sale
 face store
@@ -4013,7 +4026,7 @@ face terra
 face vest
 face women
 face-denali
-face-jacket
+face-jacke
 face-out
 face-sale
 face-store
@@ -4037,7 +4050,7 @@ facebookclass
 facebookfan
 facebooklike
 facebooku
-facejacket
+facejacke
 faceoutlet
 facesale
 facestore
@@ -5129,8 +5142,8 @@ hogansito
 holdinga
 holdning
 hollister brasil
+hollister jacke
 hollister jean
-hollister lederjacke
 hollister nantes
 hollister online
 hollister pas
@@ -5142,8 +5155,8 @@ hollister swim
 hollister uk
 hollister-brasil
 hollister-deutsch
+hollister-jacke
 hollister-jean
-hollister-lederjacke
 hollister-milano
 hollister-nantes
 hollister-online
@@ -5156,6 +5169,7 @@ hollister-swim
 hollister-uk
 hollisterbrasil
 hollisterdeutsch
+hollisterjacke
 hollistermilano
 hollisternantes
 hollisteronline
@@ -5486,9 +5500,9 @@ is.gd
 isabel marant
 isabel-marant
 isabelmarant
-island jacket
-island-jacket
-islandjacket
+island jacke
+island-jacke
+islandjacke
 isotretinoine
 isseo
 istanbul escort
@@ -5507,9 +5521,13 @@ itemnotfound
 itstree
 iг
 i贸
+jacke-online
+jacke-west
 jacken-online
+jacken-west
 jackenonline
 jackenwest
+jackeonline
 jacket canad
 jacket sale
 jacket-canad
@@ -5531,6 +5549,7 @@ jacketsformen
 jacketsforwom
 jacketssale
 jacketswom
+jackewest
 jacobs geldb
 jacobs-dk
 jacobs-geldb
@@ -5746,6 +5765,9 @@ kitchenworktop
 kleding winkel
 kleding-winkel
 kledingwinkel
+kleidung jacke
+kleidung-jacke
+kleidungjacke
 klein felpa
 klein prezzi
 klein-felpa
@@ -5958,8 +5980,9 @@ led_down
 led_flood
 led_indust
 led_street
-leder-jacken
-lederjacken
+leder jacke
+leder-jacke
+lederjacke
 leg-wear
 legal cash
 legal-cash
@@ -6581,9 +6604,12 @@ men-handbag
 men+shoe
 menboost
 mens coach
+mens jacke
 mens-coach
+mens-jacke
 mens+coach
 menseekingwom
+mensjacke
 mentalprocess
 menu/menu
 mequinol
@@ -6631,7 +6657,7 @@ millen color
 millen colour
 millen dress
 millen factory
-millen jacket
+millen jacke
 millen out
 millen outlet
 millen shop
@@ -6642,14 +6668,14 @@ millen-color
 millen-colour
 millen-dress
 millen-factory
-millen-jacket
+millen-jacke
 millen-out
 millen-outlet
 millen-shop
 millen-uk
 millenclearance
 millencolour
-millenjacket
+millenjacke
 millenoutlet
 millenshop
 minecraftfree
@@ -6732,7 +6758,6 @@ moncler sito
 moncler ski
 moncler sold
 moncler store
-moncler strickjacke
 moncler sweater
 moncler tibet
 moncler uk
@@ -6779,7 +6804,6 @@ moncler-sito
 moncler-ski
 moncler-sold
 moncler-store
-moncler-strickjacke
 moncler-sweater
 moncler-tibet
 moncler-uk
@@ -6826,7 +6850,6 @@ monclersito
 monclerski
 monclersold
 monclerstore
-monclerstrickjacke
 monclersweater
 monclertibet
 moncleruk
@@ -7475,6 +7498,7 @@ outlet woolrich
 outlet_
 outlet-austr
 outlet-canad
+outlet-de
 outlet-france
 outlet-hermes
 outlet-hogan
@@ -7506,6 +7530,7 @@ outlet2014
 outletaustr
 outletbag
 outletcanad
+outletde
 outletforsale
 outletfrance
 outlethermes
@@ -8915,9 +8940,10 @@ sportsjers
 sprinkler tune
 sprinkler-tune
 sprzedaz
-spyder-jacket
+spyder jacke
+spyder-jacke
 spyder-ski
-spyderjackets
+spyderjacke
 spyderski
 spyware
 squidoo.co
@@ -8977,8 +9003,12 @@ strategies-for
 strategy-for
 stratificat.
 strattera
-stride jacket
-stride-jacket
+strick jacke
+strick-jacke
+strickjacke
+stride jacke
+stride-jacke
+stridejacke
 stromectol
 studiobeat
 studiosbeat
@@ -9779,6 +9809,7 @@ valise louis
 valise-louis
 valiselouis
 valium
+valley http
 valtrex
 valuable opt-in
 valuable-opt-in
@@ -9797,6 +9828,9 @@ vegas-show
 vegas-social
 vendita
 vendorlock
+veneta outlet
+veneta-outlet
+venetaoutlet
 venlafaxine
 ventolin inhale
 ventures impart
@@ -10291,7 +10325,7 @@ woolrich donn
 woolrich europe
 woolrich field
 woolrich giub
-woolrich jacket
+woolrich jacke
 woolrich john
 woolrich outlet
 woolrich parka
@@ -10309,7 +10343,7 @@ woolrich-donn
 woolrich-europe
 woolrich-field
 woolrich-giub
-woolrich-jacket
+woolrich-jacke
 woolrich-john
 woolrich-outlet
 woolrich-parka
@@ -10328,7 +10362,7 @@ woolrichdonn
 woolricheurope
 woolrichfield
 woolrichgiub
-woolrichjacket
+woolrichjacke
 woolrichjohn
 woolrichoutlet
 woolrichparka
