@@ -1441,11 +1441,13 @@ _weblog
 &#12488;&#12522;&#12540;&#12496;&#12540;&#12481;
 &#12490;&#12452;&#12461;
 &#12491;&#12517;&#12540;&#12496;&#12521;&#12531;&#12473;
+&#12502;&#12521;&#12531;&#12489;
 &#12503;&#12525;&#12514;
 &#12509;&#12540;&#12523;&#12473;&#12511;&#12473;
 &#12511;&#12517;&#12454;
 &#12524;&#12503;&#12522;&#12459;
 &#12525;&#12540;&#12531;
+&#12532;&#12451;&#12488;&#12531;
 &#20605;&#29289;
 &#21033;
 &#36001;&#24067;
@@ -1513,6 +1515,7 @@ _weblog
 |yr
 000mail
 1-1.
+1.asp
 1.cfm
 1.in
 1@1
@@ -1526,6 +1529,7 @@ _weblog
 1test
 1to1
 2-global
+2.asp
 2.cfm
 2.in
 2@1
@@ -1539,6 +1543,7 @@ _weblog
 2test
 2u.org
 2u4.us
+3.asp
 3.cfm
 3.in
 3@1
@@ -1728,6 +1733,7 @@ adidassuper
 adidasuomo
 adidaswing
 adipex
+admin.asp
 admin.cfm
 admin5
 ados populaire
@@ -1818,6 +1824,8 @@ air max
 air-jorda
 air-max
 air-yeezy
+aires http
+aireshttp
 airjorda
 airmax
 airmax_
@@ -2263,7 +2271,6 @@ bigbling
 bigcock
 bigreplica
 billig
-binaires http
 bio bronz
 bio-bronz
 bird hack
@@ -2307,6 +2314,7 @@ blahnikoutlet
 blanc pen
 blanc-pen
 blank http
+blankhttp
 blazer-chaussure
 blazerchaussure
 blog beast
@@ -2795,9 +2803,15 @@ casquebeats
 casquette
 câsuâl
 casub.co
+catalog.asp
+catalog.cfm
 catalog/preview
 catalogo/preview
+catalogs.asp
 catalogs.cfm
+catalogue.asp
+catalogue.cfm
+catalogues.asp
 catalogues.cfm
 cavin-klein
 cavinklein
@@ -3124,6 +3138,7 @@ cher-prada
 chermoncler
 cherprada
 chester http
+chesterhttp
 chettelongchamp
 chez skechers
 chez-skechers
@@ -3226,6 +3241,7 @@ clck.ru
 cleaning calabasas
 cleaning http
 cleaning-calabasas
+cleaninghttp
 clearance mbt
 clearance michael
 clearance out
@@ -3374,6 +3390,7 @@ com/vuitton
 com%2c
 com2.php
 comedyee
+comhttp
 comment-pag
 commentabout
 commented here
@@ -3718,6 +3735,7 @@ divulgaemail
 djstool
 djtool
 dk http
+dkhttp
 dlphone
 doable program
 doable-program
@@ -3860,6 +3878,7 @@ ecco-out
 eccooutlet
 ecent yeas
 ed-in-men
+edhardyt
 eemail
 effexor
 egoodshop
@@ -4003,6 +4022,7 @@ expressindex
 extra gry
 extreme-sport
 extremely}
+extremley
 eyeglass sale
 eyeglass-sale
 eyeglasses sale
@@ -4065,8 +4085,6 @@ factthat
 fagance
 fail drug
 fail-drug
-fairing http
-fairings http
 fajki
 fajna strona
 fajna-fotka
@@ -4144,6 +4162,7 @@ fblike
 fc.cx
 fckt
 fcukfcuk
+features.asp
 features.cfm
 federl
 feelng
@@ -4422,6 +4441,7 @@ fund market
 fund trend
 fund-market
 fund-trend
+fundhttp
 fundmarket
 funds.ru
 funsneak
@@ -4657,6 +4677,7 @@ google http
 google_
 google-java
 googlebind
+googlehttp
 googleing
 googleusashop
 goose chill
@@ -4758,6 +4779,8 @@ gratuit http
 gratuit roulette
 gratuit-roulette
 gratuite http
+gratuitehttp
+gratuithttp
 gratuitos
 graypanther
 grayson bag
@@ -4881,6 +4904,7 @@ gucciyu
 guerre gratuit
 guerre http
 guerre-gratuit
+guerrehttp
 guest-post
 guestpost
 guiltfree
@@ -5011,6 +5035,8 @@ hellodress
 hellosex
 help_you
 help-tax
+help.asp
+help.cfm
 helpcry
 helpful-information
 helpful-method
@@ -5029,6 +5055,7 @@ hemp-milk
 hemp-oil
 hemp-protein
 hemp-tycoon
+hemphttp
 hence choose
 hentai
 herbal tincture
@@ -5229,9 +5256,11 @@ hotel-hermes
 hotelbritannia
 hoteldeal
 hotelhermes
+hotelhttp
 hoteli
 hotelmanchester
 hotels http
+hotelshttp
 hotgirl
 hotlove
 hotpantie
@@ -5517,6 +5546,8 @@ italy-shop
 italy-store
 italyshop
 italystore
+item.asp
+item.cfm
 itemnotfound
 itstree
 iг
@@ -6012,8 +6043,11 @@ levelmarket
 levitra
 levne
 liabaleles
+libraries.asp
 libraries.cfm
+library.asp
 library.cfm
+librarys.asp
 librarys.cfm
 librium
 lifeinsurance
@@ -6023,6 +6057,7 @@ ligne medicament
 ligne médicament
 ligne-medicament
 ligne-médicament
+lignehttp
 likе
 limited jers
 limited-jers
@@ -6045,6 +6080,7 @@ link-vault
 linkbait
 linkbuild
 linkcampaign
+linkhttp
 linking issue
 linking_
 linking-campaign
@@ -6056,6 +6092,7 @@ linkiseo
 linklegend
 linkman
 links http
+linkshttp
 linktrack
 linkusup
 linkvault
@@ -6091,6 +6128,7 @@ loanalys
 loancompan
 loandirect
 loanfast
+loanhttp
 loanonline
 loans canad
 loans compan
@@ -6113,6 +6151,7 @@ loanscanad
 loanscompan
 loansdirect
 loansfast
+loanshttp
 loansonline
 locate-cell-phone
 locateacellphone
@@ -6183,6 +6222,7 @@ louboutin red
 louboutin sale
 louboutin shoe
 louboutin solde
+louboutin stiefel
 louboutin uk
 louboutin-chau
 louboutin-cheap
@@ -6196,6 +6236,7 @@ louboutin-red
 louboutin-sale
 louboutin-shoe
 louboutin-solde
+louboutin-stiefel
 louboutin8
 louboutindiscount
 louboutinfr
@@ -6209,6 +6250,7 @@ louboutinsale
 louboutinshoe
 louboutinsolde
 louboutinspas
+louboutinstiefel
 louboutinuk
 louis vitton
 louis vuittone
@@ -6394,6 +6436,7 @@ marker http
 markerboss
 markerdude
 markergaul
+markerhttp
 market prices
 market samurai
 market-prices
@@ -6425,6 +6468,7 @@ marlboro-cig
 marlboro-gold
 marlboro100
 marseille http
+marseillehttp
 marshall guantes
 marshall-guantes
 marshallguantes
@@ -6964,6 +7008,7 @@ msgnum
 much-boot
 much-gucci
 muchgucci
+mulbeery
 mulberry alexa
 mulberry bag
 mulberry handbag
@@ -6994,7 +7039,10 @@ musclesuppl
 muscular abdomen
 muscular-abdomen
 muscularwom
+mustang http
+mustanghttp
 mustangs http
+mustangshttp
 mustlook
 mutuelle sante
 mutuelle-sante
@@ -7136,6 +7184,7 @@ nfljers
 nflofficial
 nflreplica
 nflshop
+nfr.asp
 nfr.cfm
 nhl jers
 nhl replica
@@ -7336,6 +7385,9 @@ offer.weebly
 offering free
 offering-free
 offeroutlet
+offerte calvin
+offerte-calvin
+offertecalvin
 offerwatch
 office autopilot
 office-autopilot
@@ -7469,6 +7521,7 @@ organogold
 orgazma
 oriflame
 original http
+originalhttp
 orlistat
 osobistosci
 osobistości
@@ -7634,6 +7687,7 @@ paris model
 paris-for
 paris-model
 paris-royal
+parishttp
 parismodel
 parkiety
 part mariage
@@ -7795,6 +7849,7 @@ pleease
 plombier http
 plombier paris
 plombier-paris
+plombierhttp
 plombierparis
 plumbingservice
 plus-size
@@ -7860,6 +7915,7 @@ porno-gratuit
 porno-stream
 porno.
 porno@
+pornohttp
 pornolady
 pornsex
 portefeuille lancel
@@ -8199,6 +8255,7 @@ registryclean
 registryfix
 registryrepair
 registrytool
+regualar
 reguliatory
 reirect
 rejersey.co
@@ -8324,6 +8381,10 @@ right-blog
 rightblog
 rilopkais.in
 rin.in
+ring http
+ringhttp
+rings http
+ringshttp
 riot points
 riot-points
 riotpoints
@@ -8439,6 +8500,7 @@ sale-tokyo
 sale-training
 sale.co.
 sale.weebly
+sale=
 sale4u
 salecanad
 salecheap
@@ -8488,6 +8550,7 @@ sanders-jers
 sandersjers
 sandypasch
 sante http
+santehttp
 satchelbag
 satcheldbag
 sauvegarde extern
@@ -8616,6 +8679,7 @@ serrurier marseille
 serrurier paris
 serrurier-marseille
 serrurier-paris
+serrurierhttp
 sertraline
 server 2007
 server 2008
@@ -8670,7 +8734,9 @@ shared site
 shed-fat
 shemale.
 shirt cease
+shirt http
 shirt-cease
+shirthttp
 shoe dior
 shoe online
 shoe out
@@ -8755,6 +8821,7 @@ should http
 shoulder tote
 shoulder-tote
 shouldertote
+shouldhttp
 show_
 shownews.
 showtopic
@@ -9212,6 +9279,7 @@ that-isnt
 thatover
 thatprofit
 thc http
+thchttp
 the -notify
 the pokie
 the the
@@ -9280,7 +9348,9 @@ thumb.png
 thyromine
 tɦey
 ticket http
+tickethttp
 tickets http
+ticketshttp
 tier business
 tier-business
 tiffany france
@@ -9674,6 +9744,7 @@ uggshear
 uggshoe
 uggshort
 uggshot
+uggshttp
 uggsilver
 uggsite
 uggskopen
@@ -9810,6 +9881,7 @@ valise-louis
 valiselouis
 valium
 valley http
+valleyhttp
 valtrex
 valuable opt-in
 valuable-opt-in
@@ -9953,6 +10025,7 @@ voyance-amour
 voyance-couple
 voyance-gratuite
 voyance<
+voyancehttp
 vtx-fairing
 vtxfairing
 vuitton austr
@@ -10138,6 +10211,7 @@ wedding jewelry
 wedding-jewelry
 weddingdress
 weed http
+weedhttp
 week.in
 weekly.in
 weeklyincome
