@@ -714,6 +714,7 @@ _weblog
 /?tag
 /?uid
 /.wd/
+//|
 //123.
 //aaa-
 //aaa.
@@ -1970,10 +1971,16 @@ artykul
 asd@
 asdasd
 asdf
+asics gel
+asics online
 asics schuhe
 asics-deutschland
+asics-gel
+asics-online
 asics-schuhe
 asicsdeutschland
+asicsgel
+asicsonline
 asicsshoe
 asikkusu
 aso expei
@@ -2019,6 +2026,9 @@ australia-boot
 australiaboot
 australian pokie
 australian-pokie
+austria asics
+austria-asics
+austriaasics
 auteur:nike
 authentic cheap
 authentic hermes
@@ -2127,6 +2137,8 @@ barbour-outlet
 barbourcloth
 barbourjacke
 barbouroutlet
+barcelona sunglass
+barcelona-sunglass
 basket isabel
 basket-isabel
 basketisabel
@@ -2246,6 +2258,7 @@ best-software-for
 best-tummy
 best-way-to
 best-website
+best4glass
 bestad.
 bestads.
 bestcase
@@ -4538,8 +4551,11 @@ gay sex
 gay-sex
 gaysex
 gayusa
+gel virage
+gel-virage
 gelatine free
 gelatine-free
+gelvirage
 gemorroya
 genemy
 general/genera
@@ -5815,6 +5831,15 @@ kinoonline
 kitai
 kitchen-worktop
 kitchenworktop
+kjole salg
+kjole tilbud
+kjole udsalg
+kjole-salg
+kjole-tilbud
+kjole-udsalg
+kjolesalg
+kjoletilbud
+kjoleudsalg
 kleding winkel
 kleding-winkel
 kledingwinkel
@@ -6225,6 +6250,7 @@ longchampsolde
 longchamptasche
 longchamptote
 longchampuk
+lookeach
 lookingfor
 loorg.de
 lorazepam
@@ -6321,10 +6347,13 @@ lunarglide
 lunarlon
 lunderground
 lunette oakley
+lunette ray
 lunette solde
 lunette-oakley
+lunette-ray
 lunette-solde
 lunetteoakley
+lunetteray
 lunettes oakley
 lunettes-de-soleil
 lunettes-oakley
@@ -6334,6 +6363,9 @@ lunettesolde
 lunettespaschere
 lupusinfo
 lux-replica
+luxottica ray
+luxottica-ray
+luxotticaray
 luxreplica
 luxury chanel
 luxury-brand
@@ -6732,6 +6764,7 @@ millen colour
 millen dress
 millen factory
 millen jacke
+millen neder
 millen out
 millen outlet
 millen shop
@@ -6743,6 +6776,7 @@ millen-colour
 millen-dress
 millen-factory
 millen-jacke
+millen-neder
 millen-out
 millen-outlet
 millen-shop
@@ -6750,6 +6784,7 @@ millen-uk
 millenclearance
 millencolour
 millenjacke
+millenneder
 millenoutlet
 millenshop
 minecraftfree
@@ -7534,6 +7569,9 @@ onsales.co
 openair
 opinion.in
 opinions.in
+oprawki ray
+oprawki-ray
+oprawkiray
 opt-in promotion
 opt-in-promotion
 option binaire
@@ -8508,6 +8546,7 @@ sacslancel
 sacvanessa
 sacvuitton
 sadehap
+saintoffice
 saints jers
 saints-jers
 saintsjers
