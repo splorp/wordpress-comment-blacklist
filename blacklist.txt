@@ -1104,7 +1104,6 @@ _weblog
 /just.
 /kat,
 /kd6
-/kinder-moncler
 /kitchenknife-
 /kitchenknife.
 /kitchenknives-
@@ -1114,6 +1113,7 @@ _weblog
 /kredit
 /kredyt
 /lacoste-
+/lacoste.
 /lang-es/
 /latestmk-
 /latestmk.
@@ -1121,6 +1121,7 @@ _weblog
 /libs/
 /lijst/
 /limewire
+/lingerie-
 /lingerie.
 /link-
 /link.
@@ -1129,12 +1130,16 @@ _weblog
 /linknum
 /links-
 /links.
+/links/
+/list-
 /list.
 /loans
 /locale/
 /logos/
 /longchamp-
+/longchamp.
 /louboutin-
+/louboutin.
 /love-fail
 /love-life
 /love-quote
@@ -1142,6 +1147,7 @@ _weblog
 /lunette.
 /lunettes-
 /lunettes.
+/lv-
 /lv.
 /lv/
 /mailer/
@@ -1156,14 +1162,17 @@ _weblog
 /mcm.
 /med-
 /mediawiki/
-/medical
+/medical-
+/medical.
 /medication-
+/medication.
 /member/
 /members-
 /members.
 /members/
 /membership-
 /membership.
+/menu-
 /menu.
 /mk-us/
 /mkshop-
@@ -1177,6 +1186,7 @@ _weblog
 /moncler-
 /moncler.
 /moncler/
+/montblanc-
 /montblanc.
 /mortgage
 /mulberry-
@@ -1195,18 +1205,14 @@ _weblog
 /newports-
 /newports.
 /news.
-/newsletter/
-/newsletters/
 /nihon
 /nike-
 /nike.
-/nikefree
 /niketn
 /ninnki
 /no-excuse
 /node/
 /north-face
-/north-face-
 /northface-
 /northface.
 /novinki-
@@ -1222,12 +1228,13 @@ _weblog
 /occhiali.
 /offering/
 /ok.php
+/online-
 /online.
-/orderpage/
+/orderpage
 /orgasm
 /other-
 /other.
-/outils/
+/outils
 /p/
 /page1.
 /page2.
@@ -1236,10 +1243,13 @@ _weblog
 /page5.
 /pages-
 /pages.
-/pandorabead.
+/pandorabead
 /pantie-
+/pantie.
 /panties-
+/panties.
 /panty-
+/panty.
 /php.
 /piece-
 /piece.
@@ -1655,8 +1665,10 @@ abercrombieoutlet
 abercrombieuomo
 abercrombiewom
 abilify
+about blog
 about marijuana
 about_
+about-blog
 about-marijuana
 about/date
 abouther
@@ -2391,6 +2403,10 @@ bobet link
 bobet-link
 bodacious
 bodog8
+bon copie
+bon-copie
+bonne copie
+bonne-copie
 bonocasino
 bonus-code
 bonuscode
@@ -3401,6 +3417,7 @@ com/ftp
 com/htm
 com/image
 com/include
+com/mbt
 com/member
 com/moncler
 com/official
@@ -5826,6 +5843,9 @@ kids ugg
 kids-nike
 kids-ugg
 kidsnike
+kinder moncler
+kinder-moncler
+kindermoncler
 kino-online
 kinoonline
 kitai
@@ -6554,6 +6574,7 @@ maxalt
 maxgriffey
 maxsale
 may-help-you
+mbt ayakkab
 mbt baridi
 mbt boot
 mbt chapa
@@ -6582,6 +6603,7 @@ mbt uomo
 mbt vanzari
 mbt women
 mbt_
+mbt-ayakkab
 mbt-baridi
 mbt-boot
 mbt-carpe
@@ -6610,6 +6632,7 @@ mbt-unono
 mbt-uomo
 mbt-vanzari
 mbt-women
+mbtayakkab
 mbtbaridi
 mbtboot
 mbtchapa
@@ -8500,6 +8523,8 @@ riot points
 riot-points
 riotpoints
 ripoffreport
+rise-hire
+risehire
 rizatriptan
 robaxin
 robe-de-mariee
@@ -10571,6 +10596,7 @@ wp-phone
 wp-robot
 wprobot
 wpthemegen
+wrinting
 wristpain
 writing-service
 writingservice
