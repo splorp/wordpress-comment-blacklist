@@ -1985,11 +1985,11 @@ asdasd
 asdf
 asics gel
 asics online
-asics schuhe
+asics schuh
 asics-deutschland
 asics-gel
 asics-online
-asics-schuhe
+asics-schuh
 asicsdeutschland
 asicsgel
 asicsonline
@@ -2308,6 +2308,8 @@ big.site
 bigbling
 bigcock
 bigreplica
+bijoux-fr
+bijouxfr
 billig
 bio bronz
 bio-bronz
@@ -2697,10 +2699,13 @@ buyplus
 buysoma
 buytoms
 buywomen
+bvlgari bijoux
 bvlgari brand
 bvlgari store
+bvlgari-bijoux
 bvlgari-brand
 bvlgari-store
+bvlgaribijoux
 bvlgaribrand
 bvlgarishop
 bvlgarisshop
@@ -3437,6 +3442,7 @@ com/tiffany
 com/ugg
 com/user
 com/vuitton
+com/ysl
 com%2c
 com2.php
 comedyee
@@ -6593,7 +6599,7 @@ mbt panda
 mbt sale
 mbt sandal
 mbt scarpe
-mbt schuhe
+mbt schuh
 mbt shoe
 mbt shop
 mbt spaccio
@@ -6623,7 +6629,7 @@ mbt-outlet
 mbt-panda
 mbt-sale
 mbt-sandal
-mbt-schuhe
+mbt-schuh
 mbt-shoe
 mbt-shop
 mbt-spaccio
@@ -6652,7 +6658,7 @@ mbtoutlet
 mbtpanda
 mbtsale
 mbtsandal
-mbtschuhe
+mbtschuh
 mbtshoe
 mbtshop
 mbtsko
@@ -7496,6 +7502,9 @@ obtain consol
 obtain-consol
 obuwia
 obuwie
+occhiali sol
+occhiali-sol
+occhialisol
 oculosfeminino
 odszkodowania
 odziez
@@ -7514,9 +7523,21 @@ offer.weebly
 offering free
 offering-free
 offeroutlet
+offerta occhia
+offerta ray
+offerta-occhia
+offerta-ray
+offertaocchia
+offertaray
 offerte calvin
+offerte occhia
+offerte ray
 offerte-calvin
+offerte-occhia
+offerte-ray
 offertecalvin
+offerteocchia
+offerteray
 offerwatch
 office autopilot
 office-autopilot
@@ -8228,7 +8249,7 @@ puma deutsch
 puma ferrari
 puma outlet
 puma paidat
-puma schuhe
+puma schuh
 puma sneak
 puma sverige
 puma-deutsch
@@ -8238,7 +8259,7 @@ puma-lauf
 puma-nice
 puma-outlet
 puma-paidat
-puma-schuhe
+puma-schuh
 puma-sneak
 puma-sverige
 pumadeutsch
@@ -8248,7 +8269,7 @@ pumalauf
 pumanice
 pumaoutlet
 pumapaidat
-pumaschuhe
+pumaschuh
 pumasneak
 pumasverige
 pure-jobs
@@ -8727,15 +8748,36 @@ schoenen dsquared
 schoenen-dsquared
 schoenendsquared
 school.a
+schuh gunstig
+schuh günstig
+schuh puma
+schuh sky
+schuh ysl
+schuh-gunstig
+schuh-günstig
+schuh-puma
+schuh-sky
+schuh-ysl
 schuhe gunstig
 schuhe günstig
 schuhe puma
-schuhe skytop
+schuhe sky
+schuhe ysl
 schuhe-gunstig
 schuhe-günstig
 schuhe-puma
-schuhe-skytop
+schuhe-sky
+schuhe-ysl
+schuhegunstig
+schuhegünstig
 schuhepuma
+schuhesky
+schuheysl
+schuhgunstig
+schuhgünstig
+schuhpuma
+schuhsky
+schuhysl
 sciatica pain
 scontati
 scoriescod
@@ -9289,10 +9331,10 @@ superstar-status
 superstarclass
 supply_
 supra boutique
-supra schuhe
+supra schuh
 supra shoe
 supra-boutique
-supra-schuhe
+supra-schuh
 supra-shoe
 suprashoe
 suprax
@@ -10182,6 +10224,9 @@ vivotab
 vogue toms
 vogue-toms
 voguetoms
+von ysl
+von-ysl
+vonysl
 voyance amour
 voyance couple
 voyance gratuite
@@ -10696,6 +10741,7 @@ www.mulberry
 www.newbalance
 www.nike-
 www.numberone
+www.offerta
 www.offerte
 www.official
 www.online
@@ -10711,6 +10757,7 @@ www.rims
 www.sadje
 www.sale
 www.scarpe
+www.schuh
 www.seo
 www.sexy
 www.shoes
@@ -10817,11 +10864,17 @@ yoyo diet
 yoyo-diet
 yoyodiet
 ysl chaussure
+ysl damen
 ysl femme
+ysl schuh
 ysl-chaussure
+ysl-damen
 ysl-femme
+ysl-schuh
 yslchaussure
+ysldamen
 yslfemme
+yslschuh
 yumeeyum
 yuuguu
 yyou
