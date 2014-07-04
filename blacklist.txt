@@ -2735,6 +2735,7 @@ cagoose-sale
 cagoosejacke
 cagoosesale
 calabasas carpet
+calabasas http
 calabasas rug
 calabasas-carpet
 calabasas-rug
@@ -3035,6 +3036,7 @@ cheap hockey
 cheap hotel
 cheap iphone
 cheap jers
+cheap jordan
 cheap longchamp
 cheap louboutin
 cheap louis
@@ -3086,6 +3088,7 @@ cheap-hockey
 cheap-hotel
 cheap-jacke
 cheap-jers
+cheap-jordan
 cheap-kobe
 cheap-louboutin
 cheap-mbt
@@ -3143,6 +3146,7 @@ cheapiphone
 cheapjacke
 cheapjers
 cheapjorda
+cheapjordan
 cheapkobe
 cheaplouboutin
 cheaplouis
@@ -3426,6 +3430,7 @@ com/ftp
 com/htm
 com/image
 com/include
+com/log
 com/mbt
 com/member
 com/moncler
@@ -3437,6 +3442,7 @@ com/pharma
 com/profile
 com/public
 com/publiek
+com/rest
 com/site
 com/tiffany
 com/ugg
@@ -4712,6 +4718,7 @@ goldessay
 goldgeek
 goldingot
 goldjewelry
+goldplated
 goldseiko
 goldsuppl
 goldtruth
@@ -5046,6 +5053,8 @@ handbagswom
 handbagu
 handbagwholesale
 handbagwom
+handsome gold
+handsome-gold
 handtaschen
 hanging-with-friends
 hangingwithfriends
@@ -6237,6 +6246,7 @@ locateacellphone
 locatecellphone
 lodz
 łódź
+log/?
 logcabins
 login.php
 loiusvuitton
@@ -7668,6 +7678,7 @@ optionstrad
 oral-sex
 order_type
 ordersoma
+org/rest
 organic hemp
 organic-hemp
 organogold
@@ -7986,6 +7997,8 @@ piumino moncler
 piumino-moncler
 piuminomoncler
 plansare
+plated watch
+plated-watch
 plavix
 play-free
 play-online
@@ -9498,6 +9511,7 @@ theaverage
 thebestis
 thebestprice
 thedevelop
+thedirect
 theeasy
 theguest
 thehypothyroid
@@ -11199,6 +11213,7 @@ zyvox
 マークジェイコブス
 ミュウ
 ムービー用
+メガネ
 モンクレール
 モンブラン
 ユーチューブ
