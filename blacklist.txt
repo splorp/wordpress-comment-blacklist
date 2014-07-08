@@ -1624,10 +1624,15 @@ _weblog
 2014.or
 2014baby
 123456789
-¥·¥
-¥°¥
+¥·
+¥°
+¥¦
+¥¢
 ¥³
+¥ã
 ¥é
+¥è
+¥ì
 ¥ó
 ¥ö
 a lots
@@ -1678,6 +1683,8 @@ abouther
 acai-
 acaiberry
 accouchement
+account receiv
+account-receiv
 accounts receiv
 accounts-receiv
 accupril
@@ -1704,6 +1711,10 @@ actually thank
 actually-thank
 acutual
 acyclovir
+ad crack
+ad live
+ad-crack
+ad-live
 ad-wiki
 adbeat distrib
 adbeat expert
@@ -1714,6 +1725,7 @@ adbeat-trial
 adbeatdistrib
 adbeatexpert
 adbeattrial 
+adcrack
 addarticle
 added agreeable
 adderall
@@ -1759,6 +1771,7 @@ adidassuper
 adidasuomo
 adidaswing
 adipex
+adlive
 admin.asp
 admin.cfm
 admin5
@@ -1851,7 +1864,6 @@ air-jorda
 air-max
 air-yeezy
 aires http
-aireshttp
 airjorda
 airmax
 airmax_
@@ -2011,6 +2023,8 @@ asphalt8cheat
 asphalt8hack
 aspiring blog
 aspiring-blog
+asset grow
+asset-grow
 assets grow
 assets-grow
 asshole google
@@ -2094,14 +2108,19 @@ bagonline
 bagonsale
 bagout
 bags afford
+bags jap
+bags jp
 bags online
 bags out
 bags sale
 bags uk
 bags-afford
 bags-cheap
+bags-jap
+bags-jp
 bags-online
 bags-out
+bags-uk
 bagsale
 bagscheap
 bagsjap
@@ -2360,7 +2379,6 @@ blahnikoutlet
 blanc pen
 blanc-pen
 blank http
-blankhttp
 blazer-chaussure
 blazerchaussure
 blog beast
@@ -2741,7 +2759,6 @@ cagoose-sale
 cagoosejacke
 cagoosesale
 calabasas carpet
-calabasas http
 calabasas rug
 calabasas-carpet
 calabasas-rug
@@ -3201,7 +3218,6 @@ cher-prada
 chermoncler
 cherprada
 chester http
-chesterhttp
 chettelongchamp
 chez skechers
 chez-skechers
@@ -3303,8 +3319,9 @@ clboot
 clck.ru
 cleaning calabasas
 cleaning http
+cleaning oxnard
 cleaning-calabasas
-cleaninghttp
+cleaning-oxnard
 clearance mbt
 clearance michael
 clearance out
@@ -3458,7 +3475,6 @@ com/ysl
 com%2c
 com2.php
 comedyee
-comhttp
 comment-pag
 commentabout
 commented here
@@ -3806,7 +3822,6 @@ divulgaemail
 djstool
 djtool
 dk http
-dkhttp
 dlphone
 doable program
 doable-program
@@ -4512,7 +4527,6 @@ fund market
 fund trend
 fund-market
 fund-trend
-fundhttp
 fundmarket
 funds.ru
 funsneak
@@ -4755,7 +4769,6 @@ google http
 google_
 google-java
 googlebind
-googlehttp
 googleing
 googleusashop
 goose chill
@@ -4857,8 +4870,6 @@ gratuit http
 gratuit roulette
 gratuit-roulette
 gratuite http
-gratuitehttp
-gratuithttp
 gratuitos
 graypanther
 grayson bag
@@ -4982,7 +4993,6 @@ gucciyu
 guerre gratuit
 guerre http
 guerre-gratuit
-guerrehttp
 guest-post
 guestpost
 guiltfree
@@ -5135,7 +5145,6 @@ hemp-milk
 hemp-oil
 hemp-protein
 hemp-tycoon
-hemphttp
 hence choose
 hentai
 herbal tincture
@@ -5339,11 +5348,9 @@ hotel-hermes
 hotelbritannia
 hoteldeal
 hotelhermes
-hotelhttp
 hoteli
 hotelmanchester
 hotels http
-hotelshttp
 hotgirl
 hotlove
 hotpantie
@@ -6160,7 +6167,6 @@ ligne medicament
 ligne médicament
 ligne-medicament
 ligne-médicament
-lignehttp
 likе
 limited jers
 limited-jers
@@ -6183,7 +6189,6 @@ link-vault
 linkbait
 linkbuild
 linkcampaign
-linkhttp
 linking issue
 linking_
 linking-campaign
@@ -6195,7 +6200,6 @@ linkiseo
 linklegend
 linkman
 links http
-linkshttp
 linktrack
 linkusup
 linkvault
@@ -6231,7 +6235,6 @@ loanalys
 loancompan
 loandirect
 loanfast
-loanhttp
 loanonline
 loans canad
 loans compan
@@ -6254,7 +6257,6 @@ loanscanad
 loanscompan
 loansdirect
 loansfast
-loanshttp
 loansonline
 locate-cell-phone
 locateacellphone
@@ -6555,7 +6557,6 @@ marker http
 markerboss
 markerdude
 markergaul
-markerhttp
 market prices
 market samurai
 market-prices
@@ -6587,7 +6588,6 @@ marlboro-cig
 marlboro-gold
 marlboro100
 marseille http
-marseillehttp
 marshall guantes
 marshall-guantes
 marshallguantes
@@ -7203,9 +7203,7 @@ muscular abdomen
 muscular-abdomen
 muscularwom
 mustang http
-mustanghttp
 mustangs http
-mustangshttp
 mustlook
 mutuelle sante
 mutuelle-sante
@@ -7703,7 +7701,6 @@ organogold
 orgazma
 oriflame
 original http
-originalhttp
 orlistat
 osobistosci
 osobistości
@@ -7800,6 +7797,7 @@ own blogroll
 own-blogroll
 ownersinsur
 owninterest
+oxnard http
 oxycodone
 oxycontin
 oympia
@@ -7869,7 +7867,6 @@ paris model
 paris-for
 paris-model
 paris-royal
-parishttp
 parismodel
 parkiety
 part mariage
@@ -8034,7 +8031,6 @@ pleease
 plombier http
 plombier paris
 plombier-paris
-plombierhttp
 plombierparis
 plumbingservice
 plus-size
@@ -8100,7 +8096,6 @@ porno-gratuit
 porno-stream
 porno.
 porno@
-pornohttp
 pornolady
 pornsex
 portefeuille lancel
@@ -8580,9 +8575,7 @@ rightblog
 rilopkais.in
 rin.in
 ring http
-ringhttp
 rings http
-ringshttp
 riot points
 riot-points
 riotpoints
@@ -8754,7 +8747,6 @@ sanders-jers
 sandersjers
 sandypasch
 sante http
-santehttp
 satchelbag
 satcheldbag
 sauvegarde extern
@@ -8904,12 +8896,12 @@ serrurier marseille
 serrurier paris
 serrurier-marseille
 serrurier-paris
-serrurierhttp
 sertraline
 server 2007
 server 2008
 services/services
 serwis
+sets http
 settings1
 settings2
 settings3
@@ -8961,7 +8953,6 @@ shemale.
 shirt cease
 shirt http
 shirt-cease
-shirthttp
 shoe dior
 shoe online
 shoe out
@@ -9046,7 +9037,6 @@ should http
 shoulder tote
 shoulder-tote
 shouldertote
-shouldhttp
 show_
 shownews.
 showtopic
@@ -9264,6 +9254,8 @@ stazhirovka
 steelersfan
 stendra
 stevewynnloan
+stewart patio
+stewart-patio
 stig hollister
 stig online
 stig-hollister
@@ -9516,7 +9508,6 @@ that-isnt
 thatover
 thatprofit
 thc http
-thchttp
 the -notify
 the pokie
 the the
@@ -9586,9 +9577,7 @@ thumb.png
 thyromine
 tɦey
 ticket http
-tickethttp
 tickets http
-ticketshttp
 tier business
 tier-business
 tiffany france
@@ -9988,7 +9977,6 @@ uggshear
 uggshoe
 uggshort
 uggshot
-uggshttp
 uggsilver
 uggsite
 uggskopen
@@ -10128,7 +10116,6 @@ valise-louis
 valiselouis
 valium
 valley http
-valleyhttp
 valtrex
 valuable opt-in
 valuable-opt-in
@@ -10275,7 +10262,6 @@ voyance-amour
 voyance-couple
 voyance-gratuite
 voyance<
-voyancehttp
 vtx-fairing
 vtxfairing
 vuitton austr
@@ -10461,7 +10447,6 @@ wedding jewelry
 wedding-jewelry
 weddingdress
 weed http
-weedhttp
 week.in
 weekly.in
 weeklyincome
