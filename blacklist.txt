@@ -4545,6 +4545,7 @@ furla-handbag
 furla-out
 furlahandbag
 furlasacs
+furniture http
 furnituresale
 furosemide
 furworld.ru
@@ -8589,7 +8590,9 @@ robe-du-mariage
 robedemariee
 robedumariage
 robertby
+roger vivier
 roger-vivier
+rogervivier
 rok.ru
 rokettube
 roleplay
@@ -8762,16 +8765,19 @@ scarpe air
 scarpe hogan
 scarpe italia
 scarpe mbt
+scarpe roger
 scarpe supra
 scarpe-air
 scarpe-basket
 scarpe-hogan
 scarpe-italia
 scarpe-mbt
+scarpe-roger
 scarpe-supra
 scarpebasket
 scarpehogan
 scarpeitalia
+scarperoger
 scarrepair
 schlgsseldienste
 schlüsseldienste
@@ -8901,6 +8907,7 @@ server 2007
 server 2008
 services/services
 serwis
+set http
 sets http
 settings1
 settings2
@@ -9247,6 +9254,7 @@ stag.weekend
 stagparty
 stagweekend
 stan.to
+star-item
 starsunglass
 state-of-the-art
 statuscode
@@ -9254,7 +9262,9 @@ stazhirovka
 steelersfan
 stendra
 stevewynnloan
+stewart furniture
 stewart patio
+stewart-furniture
 stewart-patio
 stig hollister
 stig online
@@ -10245,8 +10255,14 @@ vitamix
 vitrine
 vivekkunwar
 vivier ballerine
+vivier ital
+vivier pompe
 vivier-ballerine
+vivier-ital
+vivier-pompe
 vivierballerine
+vivierital
+vivierpompe
 vivotab
 vogue toms
 vogue-toms
@@ -10262,6 +10278,8 @@ voyance-amour
 voyance-couple
 voyance-gratuite
 voyance<
+voynich code
+voynich-code
 vtx-fairing
 vtxfairing
 vuitton austr
@@ -10352,6 +10370,7 @@ warehouse.pl
 warehouse.ru
 warehouse.us
 warepics
+warezbb
 warmjp
 warszawa
 wasbusiness
@@ -10551,6 +10570,7 @@ wiki/%
 wiki/index
 wiki/user
 wikka.php
+wild-star
 will hemp
 will-hemp
 wille bijoux
@@ -10666,6 +10686,8 @@ workout-sale
 workoutsale
 workreview
 world-venture
+worlds most
+worlds-most
 worlds.blog
 worldugg
 worldventure
@@ -10794,6 +10816,7 @@ www.torrent
 www.ugg
 www.unlock
 www.videos
+www.warez
 www.wholesale
 www.win
 www.wtf
