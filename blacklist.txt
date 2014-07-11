@@ -704,6 +704,7 @@ _weblog
 @toke.
 *@
 /-_
+/?b
 /?cat
 /?doc
 /?l1
@@ -1139,6 +1140,7 @@ _weblog
 /logos/
 /longchamp-
 /longchamp.
+/longchamp/
 /louboutin-
 /louboutin.
 /love-fail
@@ -1236,6 +1238,7 @@ _weblog
 /other-
 /other.
 /outils
+/outlet/
 /p/
 /page1.
 /page2.
@@ -1344,6 +1347,7 @@ _weblog
 /specials-
 /specials.
 /start.
+/stats/
 /strona-
 /strona/
 /strony-
@@ -1732,6 +1736,7 @@ adderall
 adderoll
 addicted-to
 addidas
+additionally fly
 additionay
 adenosyl
 adidas adizero
@@ -1925,6 +1930,7 @@ ankle bootie
 ankle-bootie
 anklebootie
 ano.gd
+anonymize your
 anonymous-download
 anonymousvpn
 answertraffic
@@ -2335,6 +2341,15 @@ bigcock
 bigreplica
 bijoux-fr
 bijouxfr
+bikini sale
+bikini udsalg
+bikini-sale
+bikini-udsalg
+bikinier udsalg
+bikinier-udsalg
+bikinierudsalg
+bikinisale
+bikiniudsalg
 billig
 bio bronz
 bio-bronz
@@ -4431,6 +4446,7 @@ fr/acheter
 fr/botte
 fr/canad
 fr/costume
+fr/index
 fr/longchamp
 fr/pascher
 fradidas
@@ -4444,6 +4460,7 @@ free class
 free gay
 free international
 free prescript
+free proxy
 free visitor
 free web
 free-bbs
@@ -4464,6 +4481,7 @@ free-online
 free-poker
 free-prescript
 free-program
+free-proxy
 free-web
 free-website
 free.in
@@ -4486,6 +4504,7 @@ freemovie
 freeoffer
 freeonline
 freepoker
+freeproxy
 freesale
 freesalg
 freesimcard
@@ -5552,6 +5571,7 @@ insurance-quote
 insurances
 intagra
 intdrnation
+intelligently about
 interesting blog
 interesting-blog
 interferende
@@ -6395,8 +6415,14 @@ luck jers
 luck-jers
 luckjers
 luggagetote
+lululemon cal
+lululemon loca
 lululemon outlet
+lululemon-cal
+lululemon-loca
 lululemon-outlet
+lululemoncal
+lululemonloca
 lumigan
 luminor watch
 luminor-watch
@@ -7302,11 +7328,13 @@ networktruth
 neurontin
 new gucci
 new jordan
+new manolo
 new weblog
 new-article
 new-balance
 new-gucci
 new-jordan
+new-manolo
 new-oakley
 newarrival
 newarticle
@@ -7319,6 +7347,7 @@ newest-news
 newgucci
 newhong
 newjordan
+newmanolo
 newoakley
 newport 100s
 newport-100s
@@ -7474,6 +7503,7 @@ now.in
 nude-ass
 nude.htm
 nufactur
+nuys http
 nеar
 nօt
 oakeyspascher
@@ -7639,6 +7669,7 @@ online-shoe
 online-shop
 online-store
 online-usa
+online.com
 online.de
 online.htm
 online.in
@@ -7952,6 +7983,7 @@ perfectwriting
 permission allow
 permission-allow
 permonth.co
+personal natural
 personal-experience
 personal-injury
 personalinjury
@@ -8399,6 +8431,7 @@ real-estate.web
 realestate.co
 realestate.web
 realestate.wordpress
+really seldom
 reallywork.we
 realtor promo
 realtor-promo
@@ -8419,10 +8452,13 @@ redsoleshoe
 redugg
 redwingjp
 reebok baseball
+reebok ital
 reebok scarpe
 reebok-baseball
+reebok-ital
 reebok-scarpe
 reebok-zig
+reebokital
 reebokscarpe
 reebokzig
 reeview
@@ -8534,6 +8570,10 @@ resist-comment
 resources/styles
 restoremen
 restoril
+resultat pmu
+résultat pmu
+resultat-pmu
+résultat-pmu
 results.htm
 retin-a
 reverse lookup
@@ -9562,6 +9602,7 @@ thhis
 things-consume
 things-we-love
 this blog
+this publish
 this review
 this weblog
 this website
@@ -10909,6 +10950,7 @@ youtube-vi
 youtubedown
 youtubevi
 youugg
+youve
 yoyo diet
 yoyo-diet
 yoyodiet
