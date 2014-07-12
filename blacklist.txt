@@ -85,6 +85,7 @@ _weblog
 -acne-
 -acne.
 -acne/
+-adrenalin-
 -adsense-
 -adsense.
 -adsense/
@@ -279,6 +280,7 @@ _weblog
 -handbags.
 -handbags/
 -harley-davidson-
+-haziran-
 -herbal-
 -herbal.
 -herbal/
@@ -941,7 +943,6 @@ _weblog
 /customer-care/
 /customercare-
 /customercare.
-/damen-moncler
 /dat/
 /data/
 /datebase-
@@ -1622,11 +1623,15 @@ _weblog
 2013.or
 2013baby
 2013x.
+2014 prospect
+2014-prospect
 2014.co
 2014.de
 2014.in
 2014.or
 2014baby
+2015 prospect
+2015-prospect
 123456789
 ¥·
 ¥°
@@ -2447,6 +2452,9 @@ bobet link
 bobet-link
 bodacious
 bodog8
+bolsos marc
+bolsos-marc
+bolsosmarc
 bon copie
 bon-copie
 bonne copie
@@ -3486,6 +3494,7 @@ com/tiffany
 com/ugg
 com/user
 com/vuitton
+com/www
 com/ysl
 com%2c
 com2.php
@@ -3644,13 +3653,20 @@ daily.blog
 dailyreview.co
 dailystrength
 dakotasuki
+damen moncler
 damen timberland
 damen tote
+damen-moncler
+damen-schu
 damen-timberland
 damen-tote
+damenmoncler
+damenschu
 damentimberland
 damentote
+damier azur
 damier-azur
+damierazur
 damskie
 dannerjp
 dapoxetin
@@ -3906,6 +3922,7 @@ dress-link
 dress-online
 dress-shoe
 dress-shop
+dress-uk
 dress.rent
 dresses.wed
 dresshop
@@ -3997,6 +4014,7 @@ elite-model
 elitejers
 elitemodel
 eloans
+elsa-dress
 elway-jers
 elwayjers
 email.htm
@@ -4532,6 +4550,9 @@ frlongchamp
 frmoncler
 frontline commando
 frontline-commando
+frozen-cloth
+frozen-dress
+frozen-heart
 fruitful design
 fruitful-design
 fruta planta
@@ -5692,9 +5713,12 @@ jacketsforwom
 jacketssale
 jacketswom
 jackewest
+jacobs cartera
 jacobs geldb
+jacobs-cartera
 jacobs-dk
 jacobs-geldb
+jacobscartera
 jacobsdk
 jacobsgeldb
 jagowho
@@ -7118,6 +7142,7 @@ moneyfast
 moneymak
 moneyprim
 moneyrobot
+monica-santa
 monohydrate
 monroussillon
 monster beat
@@ -9629,6 +9654,8 @@ thyromine
 tɦey
 ticket http
 tickets http
+tiendas-de
+tiendasde
 tier business
 tier-business
 tiffany france
@@ -9722,10 +9749,12 @@ toms price
 toms shoe
 toms women
 toms-cheap
+toms-damen
 toms-price
 toms-shoe
 toms-women
 tomscheap
+tomsdamen
 tomsforsale
 tomsout
 tomsshoe
@@ -10850,7 +10879,7 @@ www.schuh
 www.seo
 www.sexy
 www.shoes
-www.streaming
+www.stream
 www.tea-
 www.top
 www.torrent
@@ -10870,8 +10899,9 @@ wypoczynku
 wyposazenie
 wywóz
 wһen
-x streaming
-x-streaming
+x stream
+x-adidas
+x-stream
 x.ru
 xadidas
 xalatan
@@ -10885,6 +10915,8 @@ xlpaket
 xn--
 xopenex
 xrumer
+xstream
+xtra-clean
 xwebsite
 xx.co
 xx.in
