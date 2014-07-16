@@ -1361,6 +1361,7 @@ _weblog
 /syaneru
 /systemdb.
 /sysuser/
+/tabid/
 /tagged/
 /telecharger-
 /telecharger.
@@ -1406,6 +1407,8 @@ _weblog
 /user-
 /user:
 /user.
+/userid/
+/userprofile/
 /usuario:
 /vb/
 /viewstory
@@ -1644,6 +1647,7 @@ _weblog
 ¥ì
 ¥ó
 ¥ö
+a http
 a lots
 a-cell-phone
 a-lots
@@ -1873,7 +1877,6 @@ air max
 air-jorda
 air-max
 air-yeezy
-aires http
 airjorda
 airmax
 airmax_
@@ -1924,7 +1927,7 @@ analsex
 and-special
 andcloth
 andcoupon
-andjourney
+andjourn
 andmerciful
 androidclan
 androidmp3
@@ -2091,7 +2094,9 @@ autre-artic
 avatar-live
 avvessorie
 avvessory
+awesome blog
 awesome post
+awesome-blog
 awokehim
 awordpress.
 azria outlet
@@ -2398,7 +2403,6 @@ blahnik-outlet
 blahnikoutlet
 blanc pen
 blanc-pen
-blank http
 blazer-chaussure
 blazerchaussure
 blog beast
@@ -2762,6 +2766,7 @@ bydre-head
 bydrehead
 byo.co
 byt.es
+c http
 c.he.a.p
 c.he.ap
 c|pro
@@ -2781,10 +2786,6 @@ cagoose-jacke
 cagoose-sale
 cagoosejacke
 cagoosesale
-calabasas carpet
-calabasas rug
-calabasas-carpet
-calabasas-rug
 callgirl
 calzature mbt
 calzature-mbt
@@ -3240,7 +3241,6 @@ cher-moncler
 cher-prada
 chermoncler
 cherprada
-chester http
 chettelongchamp
 chez skechers
 chez-skechers
@@ -3340,11 +3340,6 @@ classicugg
 clavulanate
 clboot
 clck.ru
-cleaning calabasas
-cleaning http
-cleaning oxnard
-cleaning-calabasas
-cleaning-oxnard
 clearance mbt
 clearance michael
 clearance out
@@ -3457,7 +3452,6 @@ collezione-moncler
 collezionemoncler
 colts hat
 colts-hat
-com http
 com.asp
 com.com
 com//
@@ -3646,6 +3640,7 @@ cymbalta
 cytotec
 cz/love
 cеrt 
+d http
 dabloggs
 dafeult
 dailly
@@ -3852,7 +3847,6 @@ diva-com
 divulgaemail
 djstool
 djtool
-dk http
 dlphone
 doable program
 doable-program
@@ -3972,6 +3966,7 @@ dwi-attorney
 dwiattorney
 dylongfa
 dyubetika
+e http
 e-biz
 eâcute
 eairfix
@@ -4362,6 +4357,8 @@ findarticle
 findmewom
 fine wives
 fine-wives
+finest blog
+finest-blog
 finewives
 fioricet
 firefox-setting
@@ -4562,7 +4559,6 @@ fuck-
 fuckdown
 fuckgoogle
 func.php
-fund http
 fund market
 fund trend
 fund-market
@@ -4585,7 +4581,6 @@ furla-handbag
 furla-out
 furlahandbag
 furlasacs
-furniture http
 furnituresale
 furosemide
 furworld.ru
@@ -4595,6 +4590,7 @@ futbolbarcelona
 futuristic-market
 futuristicmarket
 f眉r
+g http
 g-string
 gaaab.co
 gabapentin
@@ -4806,7 +4802,6 @@ goodbye.asp
 goodgame
 goodnessknows
 goodsblog
-google http
 google_
 google-java
 googlebind
@@ -4907,10 +4902,8 @@ goyard-online
 goyardbag
 goyardonline
 graduand
-gratuit http
 gratuit roulette
 gratuit-roulette
-gratuite http
 gratuitos
 graypanther
 grayson bag
@@ -5032,7 +5025,6 @@ gucciuk
 guccivintage
 gucciyu
 guerre gratuit
-guerre http
 guerre-gratuit
 guest-post
 guestpost
@@ -5174,7 +5166,6 @@ helpful-method
 helplink.asp
 hemorroide
 hemp braiding
-hemp http
 hemp jewelry
 hemp milk
 hemp oil
@@ -5383,7 +5374,6 @@ hot.htm
 hotburberry
 hotel deal
 hotel hermes
-hotel http
 hotel-deal
 hotel-hermes
 hotelbritannia
@@ -5391,7 +5381,6 @@ hoteldeal
 hotelhermes
 hoteli
 hotelmanchester
-hotels http
 hotgirl
 hotlove
 hotpantie
@@ -5886,6 +5875,7 @@ juicycouture
 jumpedup
 justcloud
 justness
+k http
 kaepernick jers
 kaepernick wom
 kaepernick youth
@@ -6058,6 +6048,7 @@ krossoverov
 ku42.
 kvartiry
 k眉nst
+l http
 l.uk.e.w.a.rm
 l'argent
 l’argent
@@ -6207,7 +6198,6 @@ librarys.cfm
 librium
 lifeinsurance
 lifelock
-ligne http
 ligne medicament
 ligne médicament
 ligne-medicament
@@ -6218,7 +6208,6 @@ limited-jers
 limitedjers
 limo-service
 linguim.co
-link http
 link issue
 link_
 link-bait
@@ -6244,7 +6233,6 @@ linkingcampaign
 linkiseo
 linklegend
 linkman
-links http
 linktrack
 linkusup
 linkvault
@@ -6266,7 +6254,6 @@ llifted
 loan canad
 loan compan
 loan fast
-loan http
 loan online
 loan-canad
 loan-compan
@@ -6284,7 +6271,6 @@ loanonline
 loans canad
 loans compan
 loans fast
-loans http
 loans online
 loans-canad
 loans-compan
@@ -6306,6 +6292,7 @@ loansonline
 locate-cell-phone
 locateacellphone
 locatecellphone
+lociraj
 lodz
 łódź
 log/?
@@ -6503,6 +6490,7 @@ lvout
 lvreplica
 lvsale
 lvuk
+m http
 m88day
 mac cosmetic
 mac-cosmetic
@@ -6604,7 +6592,8 @@ marijuana benefit
 marijuana fact
 marijuana-benefit
 marijuana-fact
-marker http
+marke-jean
+markejean
 markerboss
 markerdude
 markergaul
@@ -6638,7 +6627,6 @@ marlboro-100
 marlboro-cig
 marlboro-gold
 marlboro100
-marseille http
 marshall guantes
 marshall-guantes
 marshallguantes
@@ -7254,8 +7242,6 @@ musclesuppl
 muscular abdomen
 muscular-abdomen
 muscularwom
-mustang http
-mustangs http
 mustlook
 mutuelle sante
 mutuelle-sante
@@ -7296,6 +7282,7 @@ mytest
 myvirus
 myweblog
 m谩s
+n http
 nail_art
 nail-art
 nail-fest
@@ -7325,6 +7312,7 @@ nba-cappelli
 nba-jers
 nbajers
 nbshoe
+near near
 need sex
 need-sex
 needmoney
@@ -7528,9 +7516,9 @@ now.in
 nude-ass
 nude.htm
 nufactur
-nuys http
 nеar
 nօt
+o http
 oakeyspascher
 oakley canad
 oakley caveat
@@ -7664,6 +7652,7 @@ online espana
 online españa
 online gambling
 online gry
+online journ
 online loan
 online out
 online pokie
@@ -7682,6 +7671,7 @@ online-españa
 online-gambling
 online-gry
 online-invest
+online-journ
 online-kredit
 online-loan
 online-market
@@ -7757,7 +7747,6 @@ organic-hemp
 organogold
 orgazma
 oriflame
-original http
 orlistat
 osobistosci
 osobistości
@@ -7854,11 +7843,11 @@ own blogroll
 own-blogroll
 ownersinsur
 owninterest
-oxnard http
 oxycodone
 oxycontin
 oympia
 oьtɑin
+p http
 p90x
 packersjers
 page_
@@ -7919,7 +7908,6 @@ parajumpers
 parchet triplu
 parchet-triplu
 paretologic 
-paris http
 paris model
 paris-for
 paris-model
@@ -8069,7 +8057,7 @@ piuminimoncler
 piumino moncler
 piumino-moncler
 piuminomoncler
-plans http
+pl/wiki
 plansare
 plated watch
 plated-watch
@@ -8086,7 +8074,6 @@ pleasant-designed
 pleasant-good
 pleassant
 pleease
-plombier http
 plombier paris
 plombier-paris
 plombierparis
@@ -8147,7 +8134,6 @@ porn-vid
 porn.
 pornlive
 porno gratuit
-porno http
 porno stream
 porno-
 porno-gratuit
@@ -8412,6 +8398,7 @@ quincyfemme
 quit-smoking
 qux
 qvc
+r http
 r?f?rence
 radikal.ru
 radiocarpea
@@ -8640,8 +8627,6 @@ right-blog
 rightblog
 rilopkais.in
 rin.in
-ring http
-rings http
 riot points
 riot-points
 riotpoints
@@ -8692,6 +8677,7 @@ running-sneak
 runningsneak
 rusztowania
 rіght
+s http
 s.webeden
 sabo charm
 sabo out
@@ -8814,7 +8800,6 @@ sanders jers
 sanders-jers
 sandersjers
 sandypasch
-sante http
 satchelbag
 satcheldbag
 sauvegarde extern
@@ -8962,7 +8947,6 @@ seriously-entice
 serravalle outlet
 serravalle-outlet
 serravalleoutlet
-serrurier http
 serrurier marseille
 serrurier paris
 serrurier-marseille
@@ -8972,8 +8956,6 @@ server 2007
 server 2008
 services/services
 serwis
-set http
-sets http
 settings1
 settings2
 settings3
@@ -9023,7 +9005,6 @@ shared site
 shed-fat
 shemale.
 shirt cease
-shirt http
 shirt-cease
 shoe dior
 shoe online
@@ -9105,7 +9086,6 @@ short ugg
 short-ugg
 shorttermloan
 shortugg
-should http
 shoulder tote
 shoulder-tote
 shouldertote
@@ -9208,6 +9188,7 @@ smsgrupp
 smsh.me
 snapback-cap
 snapbacks
+snatch your
 sneaker.asp
 sneakerchef
 sneakerjapan
@@ -9477,6 +9458,7 @@ symptoms-med
 symptomsmed
 system-pro
 system-review
+t http
 tabaki
 tadalafil
 tadapox
@@ -9582,7 +9564,7 @@ that isnt
 that-isnt
 thatover
 thatprofit
-thc http
+thatrapid
 the -notify
 the pokie
 the the
@@ -9632,10 +9614,11 @@ this review
 this weblog
 this website
 this-blog
+this-journ
 this-review
 this-weblog
 this-website
-thisjourney
+thisjourn
 thm.htm
 thomas sabot
 thomas-sabot
@@ -9652,8 +9635,6 @@ thumb.jpg
 thumb.png
 thyromine
 tɦey
-ticket http
-tickets http
 tiendas-de
 tiendasde
 tier business
@@ -9993,7 +9974,6 @@ uggs class
 uggs elsey
 uggs femme
 uggs hot
-uggs http
 uggs kopen
 uggs mocha
 uggs neder
@@ -10195,7 +10175,6 @@ valise louis
 valise-louis
 valiselouis
 valium
-valley http
 valtrex
 valuable opt-in
 valuable-opt-in
@@ -10343,7 +10322,6 @@ vonysl
 voyance amour
 voyance couple
 voyance gratuite
-voyance http
 voyance-amour
 voyance-couple
 voyance-gratuite
@@ -10535,7 +10513,6 @@ webviewconsult
 wedding jewelry
 wedding-jewelry
 weddingdress
-weed http
 week.in
 weekly.in
 weeklyincome
@@ -10638,6 +10615,7 @@ wifi-jammer
 wifijammer
 wiki/%
 wiki/index
+wiki/u%
 wiki/user
 wikka.php
 wild-star
@@ -10751,7 +10729,6 @@ wordpress-web
 wordpresstheme
 wordpressweb
 work-review
-working http
 workout-sale
 workoutsale
 workreview
@@ -10922,6 +10899,7 @@ xx.co
 xx.in
 xxx
 xyngular
+y http
 yanswer
 yearold
 ynimb
@@ -10938,6 +10916,7 @@ young porn
 young-porn
 your blog
 your penis
+your submit
 your success
 your traffic
 your weblog
