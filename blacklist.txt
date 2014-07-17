@@ -328,6 +328,9 @@ _weblog
 -lotto-
 -lotto.
 -lotto/
+-loveland-
+-loveland.
+-loveland/
 -lover-
 -lover.
 -lover/
@@ -509,6 +512,8 @@ _weblog
 -womens-jers
 -womens.
 -xchange
+-yuwanshe.
+-yuwanshe/
 ･・
 , ,
 , .
@@ -689,6 +694,7 @@ _weblog
 .webs.co
 .worktop.
 .worktops.
+.yuwanshe.
 .za/image
 ''
 )-
@@ -1147,6 +1153,8 @@ _weblog
 /love-fail
 /love-life
 /love-quote
+/loveland-
+/loveland.
 /lunette-
 /lunette.
 /lunettes-
@@ -1453,6 +1461,8 @@ _weblog
 /ya.
 /yabb
 /yours.
+/yuwanshe-
+/yuwanshe.
 /z.
 /zumba-
 \xa9
@@ -2708,6 +2718,7 @@ buy gig
 buy hermes
 buy insta
 buy jordan
+buy likes
 buy louis
 buy online
 buy privat
@@ -2723,6 +2734,7 @@ buy-gucci
 buy-hair
 buy-insta
 buy-jordan
+buy-likes
 buy-louis
 buy-movie
 buy-now
@@ -3715,6 +3727,8 @@ default1
 default2
 definitelly
 delete_
+deliver result
+deliver-result
 delpha_
 deltasone
 demo123
@@ -4329,6 +4343,7 @@ fifaultimate
 fightmark
 filenamedat
 filenamesdat
+files/new
 filestube
 film porn
 film porno
@@ -7301,6 +7316,8 @@ natural cure
 natural-cure
 natural-way
 naturalcure
+naturally gain
+naturally-gain
 naturalovarian
 naturalway
 natureto
@@ -9292,6 +9309,7 @@ spyderski
 spyware
 squidoo.co
 ssory
+sta'sean
 stag party
 stag weekend
 stag-party
@@ -10149,6 +10167,12 @@ upgrade key
 upgrade-key
 upgradekey
 upload_
+upload_file
+upload-file
+uploaded_file
+uploaded-file
+uploadedfile
+uploadfile
 upseseglype
 urlacher jers
 urlacher-jers
@@ -11315,6 +11339,7 @@ zyvox
 ロレックス
 ワンランク上の
 万年筆
+上質
 买烟
 人気
 仕入れ
@@ -11353,6 +11378,7 @@ zyvox
 真のメリット
 秋冬
 節約
+素材
 綺麗め
 脳症
 脿
@@ -11378,4 +11404,5 @@ zyvox
 銉
 锟斤拷
 革の
+靴
 ?>
