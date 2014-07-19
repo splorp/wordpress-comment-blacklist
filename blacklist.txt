@@ -940,6 +940,7 @@ _weblog
 /configuration/
 /contact.
 /content/
+/control/
 /coupon/
 /coupons/
 /crimea-
@@ -1670,6 +1671,7 @@ a1.co
 aaa replica
 aaa-replica
 aaabbb
+aam happy
 abcwatch
 abdominaux
 abercrombie deutsch
@@ -2043,6 +2045,7 @@ asos-coupon
 asoscoupon
 asp?folder
 asp?id
+asp?tag
 asphalt8cheat
 asphalt8hack
 aspiring blog
@@ -3455,7 +3458,18 @@ coachtokyo
 coachwallet
 coachwristlet
 coachya
+code generat
+code xbox
 code-generat
+code-xbox
+codegenerat
+codes generat
+codes xbox
+codes-generat
+codes-xbox
+codesgenerat
+codesxbox
+codexbox
 colin-kaepernick
 collection effort
 college-loan
@@ -4096,6 +4110,8 @@ essays-service
 essaysempire
 essayservice
 essaysservice
+established blog
+established-blog
 estate pro
 estate whether
 estate-pro
@@ -4769,6 +4785,7 @@ glucophage
 glutamina
 glyburide
 gmaiil
+gmailmirror
 gneuienly
 gnlaser
 goed jassen
@@ -5204,6 +5221,8 @@ herbaltincture
 hermes austr
 hermes bag
 hermes belt
+hermes buckle
+hermes comp
 hermes couch
 hermes evelyne
 hermes factory
@@ -5217,6 +5236,8 @@ hermes wallet
 hermes xl
 hermes-bag
 hermes-belt
+hermes-buckle
+hermes-comp
 hermes-couch
 hermes-discount
 hermes-evelyne
@@ -5230,6 +5251,8 @@ hermes-wallet
 hermes-xl
 hermesbag
 hermesbelt
+hermesbuckle
+hermescomp
 hermescouch
 hermesdiscount
 hermesevelyne
@@ -5374,6 +5397,7 @@ horsesimul
 host.ro
 hosting community
 hosting-community
+hot concern
 hot tech
 hot_babe
 hot-babe
@@ -5462,6 +5486,7 @@ hyper-link
 hyperlink
 hypothyroidism
 hyzaar
+i aam
 i aint
 i-aint
 i-will-be
@@ -5917,8 +5942,11 @@ katespadese
 kensington parka
 kensington-parka
 kensingtonparka
+key generator
+key-generator
 key-programmer
 keygen
+keygenerator
 keylessremote
 keyword.txt
 keywords1
@@ -6223,10 +6251,12 @@ limited-jers
 limitedjers
 limo-service
 linguim.co
+link building
 link issue
 link_
 link-bait
 link-build
+link-building
 link-campaign
 link-issue
 link-juice
@@ -6237,6 +6267,7 @@ link-track
 link-vault
 linkbait
 linkbuild
+linkbuilding
 linkcampaign
 linking issue
 linking_
@@ -7417,6 +7448,7 @@ nhlofficial
 nhlreplica
 nhlshop
 niaspan
+nice annd
 nice paragraph
 nice practice
 nice-paragraph
@@ -7831,6 +7863,7 @@ outletfrance
 outlethermes
 outletitalia
 outletjapan
+outletleouf
 outletlouis
 outletlove
 outletmart
@@ -7867,9 +7900,15 @@ oьtɑin
 p http
 p90x
 packersjers
+page scrape
 page_
+page-scrape
 page.tl
 page/pag
+pages scrape
+pages-scrape
+pagescrape
+pagesscrape
 pagss.htm
 pain-behind
 pain-relief.
@@ -8053,6 +8092,7 @@ photoeditingdeal
 php?article
 php?rowstart
 php?showuser
+php?tag
 php?title
 php5?title
 phpbb2
@@ -8181,6 +8221,9 @@ powder-review
 powderbenefit
 powerball
 powerbank
+powerful scrape
+powerful-scrape
+powerfulscrape
 pozew.
 poznajseo
 poznan
@@ -8465,6 +8508,8 @@ reallywork.we
 realtor promo
 realtor-promo
 reasons-why
+reccomend this
+reccomend-this
 reciclable
 recommended internet
 records.net
@@ -8889,6 +8934,9 @@ scott wing
 scott-wing
 scottwing
 scrapebox
+scraper free
+scraper-free
+scraperfree
 seaddons
 seahawks jers
 seahawks-jers
@@ -8946,6 +8994,7 @@ senuke-vps
 senukevps
 seo comp
 seo gig
+seo tool
 seo vps
 seo_
 seo-
@@ -11247,6 +11296,7 @@ zyvox
 アメリカン·エキスプレス
 アルマーニ
 いい
+イヴサンローラン
 いホスティング
 ヴィトン
 ヴェネタ
@@ -11277,6 +11327,7 @@ zyvox
 ご返金
 サマンサタバサ
 サンダル
+シューズ
 ショッ
 ショルダーバッグ
 スニーカー
@@ -11318,6 +11369,7 @@ zyvox
 ブログ
 プロダ
 プロモ
+ベルトメンズ
 ポーター
 ホグロフス
 ボッテガ
