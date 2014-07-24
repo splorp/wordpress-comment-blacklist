@@ -74,15 +74,6 @@ Spammers will also utilize links that include URLs that are specific to WordPres
 + /wp-list
 + /wp-site
 
-Also included are these mangled variations of WordPress directory names.
-
-+ /wpadmin
-+ /wpcontent
-+ /wpimage
-+ /wpinclude
-+ /wplist
-+ /wpsite
-
 **Non-English Comments**
 
 This blacklist has been created for use on English language sites. There are several dozen terms and phrases included in the blacklist that may flag legitimate comments posted in other languages. If you commonly receive comments in other languages (specifically those containing CJK, Hiragana, Katakana, Thai, or Cyrillic characters), you may want to remove or modify those sections of the blacklist.

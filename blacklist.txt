@@ -1447,12 +1447,6 @@ _weblog
 /wp-include
 /wp-list
 /wp-site
-/wpadmin
-/wpcontent
-/wpimage
-/wpinclude
-/wplist
-/wpsite
 /ww.
 /www/
 /x.co
@@ -10892,7 +10886,13 @@ wp robot
 wp-pad
 wp-phone
 wp-robot
+wpadmin
+wpcontent
+wpimage
+wpinclude
+wplist
 wprobot
+wpsite
 wpthemegen
 wrinting
 wristpain
