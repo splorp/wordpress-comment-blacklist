@@ -113,6 +113,7 @@ See the [license.txt](https://raw.github.com/splorp/wordpress-comment-blacklist/
 + 20140501 — Sergej Müller’s [Blacklist Auto Updater](https://github.com/sergejmueller/wp-blacklist-updater) plugin released
 + 20140508 — 10,000 entries
 + 20140324 — 9,000 entries
++ 20140130 - Mentioned on [Narga](http://www.narga.net/stop-wordpress-spam-comments-trackbracks/)
 + 20130206 — 8,000 entries
 + 20131215 — 7,000 entries
 + 20131105 — Migrated project to [GitHub](https://github.com/splorp/wordpress-comment-blacklist)
