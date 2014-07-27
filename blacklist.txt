@@ -145,6 +145,8 @@ _weblog
 -broker/
 -buy.
 -buy/
+-cable-speaker.
+-cable-speaker/
 -camiseta.
 -camiseta/
 -camisetas.
@@ -946,6 +948,9 @@ _weblog
 /coupons/
 /crimea-
 /css/
+/custom/de/
+/custom/en/
+/custom/fr/
 /customcontrol
 /customer-care.
 /customer-care/
@@ -1005,6 +1010,9 @@ _weblog
 /finance.
 /financing.
 /flash/
+/floodai-
+/floodai.
+/floodai/
 /foot-care
 /form.
 /forum/
@@ -1200,6 +1208,8 @@ _weblog
 /moncler-
 /moncler.
 /moncler/
+/monster-cable-
+/monster-cable.
 /montblanc-
 /montblanc.
 /mortgage
@@ -1402,6 +1412,7 @@ _weblog
 /trac/ticket/
 /trackback
 /twilight-
+/txt/
 /ugg-
 /ugg/
 /uggs-
@@ -2522,8 +2533,11 @@ borsa moncler
 borsa-moncler
 borsamoncler
 borse moncler
+borse outlet
 borse-moncler
+borse-outlet
 borsemoncler
+borseoutlet
 boss.de
 botanical slim
 botanical-slim
@@ -5001,6 +5015,7 @@ guaranteed_
 guaranteed-uptime
 gucchi
 gucci bag
+gucci borse
 gucci brief
 gucci discount
 gucci envy
@@ -5018,6 +5033,7 @@ gucci vintage
 gucci_
 gucci--
 gucci-bag
+gucci-borse
 gucci-brief
 gucci-discount
 gucci-envy
@@ -5039,6 +5055,7 @@ gucci-vintage
 gucci-you
 gucci2
 guccibag
+gucciborse
 gucciden
 guccidiscount
 guccienvy
@@ -5349,6 +5366,7 @@ hollister logo
 hollister nantes
 hollister online
 hollister original
+hollister pant
 hollister pas
 hollister polo
 hollister prix
@@ -5374,6 +5392,7 @@ hollister-milano
 hollister-nantes
 hollister-online
 hollister-original
+hollister-pant
 hollister-pas
 hollister-polo
 hollister-prix
@@ -5396,6 +5415,7 @@ hollistermilano
 hollisternantes
 hollisteronline
 hollisteroriginal
+hollisterpant
 hollisterpolo
 hollisterprix
 hollistersandal
@@ -5994,6 +6014,8 @@ keygen
 keygenerator
 keylessremote
 keyword.txt
+keyword1
+keywords.txt
 keywords1
 kfcnfl
 khumbu north
@@ -8436,6 +8458,7 @@ propertypro
 properugg
 propranolol
 prostitutki
+protandim
 protein benefit
 protein powder
 protein review
@@ -11472,6 +11495,7 @@ zyvox
 ムービー用
 メガネ
 モンクレール
+モンスタービーツ
 モンブラン
 ユーチューブ
 ラウンジ
