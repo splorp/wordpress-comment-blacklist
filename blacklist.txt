@@ -140,6 +140,10 @@ _weblog
 -bluray/
 -bodybuilding.
 -bodybuilding/
+-boner-
+-boner/
+-boners-
+-boners/
 -breathalyzer-
 -broker.
 -broker/
@@ -845,6 +849,10 @@ _weblog
 /bloglist/
 /blogs/
 /board/
+/boner-
+/boner.
+/boners-
+/boners.
 /bookmark-
 /bookmark.
 /bookmarks-
@@ -3494,6 +3502,7 @@ codes-xbox
 codesgenerat
 codesxbox
 codexbox
+cohttp
 colin-kaepernick
 collection effort
 college-loan
@@ -3543,6 +3552,7 @@ com/ysl
 com%2c
 com2.php
 comedyee
+comhttp
 comment-pag
 commentabout
 commented here
@@ -5642,6 +5652,7 @@ ingtonboot
 ingugg
 inheritance cash
 inheritance-cash
+inhttp
 initiator_
 injectionfacts
 injury-lawyer
@@ -7469,6 +7480,7 @@ negozionline
 net/bilder
 net/fr/
 net/members/
+nethttp
 netload.in
 network scam
 network truth
@@ -7889,6 +7901,7 @@ organic hemp
 organic-hemp
 organogold
 orgazma
+orghttp
 oriflame
 orlistat
 osobistosci
@@ -8836,6 +8849,7 @@ rozszerzona
 rpg-online
 rpgonline
 rss.htm
+ruhttp
 runescape
 running sneak
 running-sneak
