@@ -109,6 +109,7 @@ See the [license.txt](https://raw.github.com/splorp/wordpress-comment-blacklist/
 + 20140624 — 11,000 entries
 + 20140527 — [WordPress Simple Firewall](http://wordpress.org/plugins/wp-simple-firewall/) plugin adds “human spam comment filtering” support
 + 20140527 — Added [MIT License](http://opensource.org/licenses/MIT)
++ 20140523 — Mentioned by [Thomas Leister](https://thomas-leister.de/internet/wordpress-eigene-kommentar-blacklist-tunen/)
 + 20140501 — Andrew Norcross’s [Comment Blacklist Manager](https://github.com/sergejmueller/wp-blacklist-updater) plugin released
 + 20140501 — Sergej Müller’s [Blacklist Auto Updater](https://github.com/sergejmueller/wp-blacklist-updater) plugin released
 + 20140508 — 10,000 entries
