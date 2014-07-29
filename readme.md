@@ -109,12 +109,12 @@ See the [license.txt](https://raw.github.com/splorp/wordpress-comment-blacklist/
 + 20140624 — 11,000 entries
 + 20140527 — [WordPress Simple Firewall](http://wordpress.org/plugins/wp-simple-firewall/) plugin adds “human spam comment filtering” support
 + 20140527 — Added [MIT License](http://opensource.org/licenses/MIT)
-+ 20140523 — Mentioned by [Thomas Leister](https://thomas-leister.de/internet/wordpress-eigene-kommentar-blacklist-tunen/)
++ 20140523 — Mentioned by [Thomas Leister](https://github.com/ThomasLeister) on [thomas-leister.de](https://thomas-leister.de/internet/wordpress-eigene-kommentar-blacklist-tunen/)
 + 20140501 — Andrew Norcross’s [Comment Blacklist Manager](https://github.com/sergejmueller/wp-blacklist-updater) plugin released
 + 20140501 — Sergej Müller’s [Blacklist Auto Updater](https://github.com/sergejmueller/wp-blacklist-updater) plugin released
 + 20140508 — 10,000 entries
 + 20140324 — 9,000 entries
-+ 20140130 — Mentioned on [Narga](http://www.narga.net/stop-wordpress-spam-comments-trackbracks/)
++ 20140130 — Mentioned by [Nguyễn Đình Quân](https://github.com/narga) on [Narga](http://www.narga.net/stop-wordpress-spam-comments-trackbracks/)
 + 20130206 — 8,000 entries
 + 20131215 — 7,000 entries
 + 20131105 — Migrated project to [GitHub](https://github.com/splorp/wordpress-comment-blacklist)
@@ -123,7 +123,7 @@ See the [license.txt](https://raw.github.com/splorp/wordpress-comment-blacklist/
 + 20130715 — 4,000 entries
 + 20130226 — 3,000 entries
 + 20130130 — Added documentation
-+ 20130130 — Mentioned on [WP Daily](http://torquemag.io/comment-blacklist-gist/)
++ 20130130 — Mentioned by [John Saddington](https://github.com/saddington) on [WP Daily](http://torquemag.io/comment-blacklist-gist/)
 + 20120529 — 2,000 entries
 + 20120217 — 1,000 entries
 + 20111122 — Released as a [Gist](https://gist.github.com/splorp/1385930) with just over 140 entries
