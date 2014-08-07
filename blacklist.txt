@@ -621,6 +621,14 @@ _weblog
 .in/1.
 .in/2.
 .in/3.
+.in/content
+.in/forum
+.in/image
+.in/member
+.in/profile
+.in/top
+.in/user
+.in#
 .info.
 .info/,
 .insanity-
@@ -717,6 +725,7 @@ _weblog
 @123
 @mail-
 @toke.
+@www.
 *@
 /-_
 /?b
@@ -783,9 +792,11 @@ _weblog
 /100mg
 /a-
 /a#
+/abcmart.
 /abercrombie-
 /abercrombie.
 /about.
+/abouts.
 /acai
 /acidreflux-
 /acidreflux.
@@ -871,6 +882,7 @@ _weblog
 /bustier.
 /buy-
 /buy.
+/buyma.
 /bvlgari-
 /bvlgari.
 /cache/
@@ -884,6 +896,9 @@ _weblog
 /campaigns-
 /campaigns.
 /campaigns/
+/canada-goose-
+/canada-goose.
+/canada-goose/
 /canadagoose-
 /canadagoose.
 /canadagoose/
@@ -990,9 +1005,11 @@ _weblog
 /dsquared-
 /dsquared.
 /duvetica.
+/easing.
 /ecig-
 /ecig.
 /economical-
+/edenic.
 /empower-
 /en.
 /eng/index
@@ -1458,6 +1475,7 @@ _weblog
 /wedding.
 /wholesale-
 /wholesale.
+/widgets/
 /wo.
 /woolrich-
 /woolrich.
@@ -1479,6 +1497,7 @@ _weblog
 /yuwanshe-
 /yuwanshe.
 /z.
+/zdev/
 /zumba-
 \xa9
 \xc3
@@ -1728,6 +1747,8 @@ accounts receiv
 accounts-receiv
 accupril
 accutane
+acel google
+acel-google
 acertemail.co
 acetazolamide
 acheter air
@@ -2053,6 +2074,7 @@ asicsonline
 asicsparis
 asicsshoe
 asikkusu
+askjeeve
 aso expei
 asos coupon
 asos-coupon
@@ -2184,11 +2206,21 @@ balenciagasingapore
 bally store
 bally-store
 ballystore
+ban aviat
 ban baratas
+ban handle
+ban händle
 ban jacke
+ban lage
 ban occhiali
 ban online
+ban prei
+ban rb
+ban schwar
+ban sonnen
 ban sunglass
+ban verspie
+ban wayfare
 ban-baratas
 ban-jacke
 ban-occhiali
@@ -2247,6 +2279,7 @@ beats by
 beats monster
 beats pas
 beats studio
+beats-best
 beats-by
 beats-dr-dre
 beats-dre
@@ -2254,6 +2287,7 @@ beats-monster
 beats-pas
 beats-studio
 beats+by
+beatsbest
 beatsbydrdre
 beatsbydre
 beatscustom
@@ -2351,6 +2385,7 @@ bestdiscount
 bestdrug
 bestfake
 bestfit
+bestgasmileage
 bestjers
 bestlaptop
 bestpant
@@ -2804,6 +2839,7 @@ byt.es
 c http
 c.he.a.p
 c.he.ap
+c.urr.ent
 c|pro
 cabas vanessa
 cabas-vanessa
@@ -3435,6 +3471,7 @@ clyel
 cms-temp
 cms-theme
 cnoesfs
+co.l.l.ect
 coach austr
 coach black
 coach factory
@@ -4147,6 +4184,7 @@ essayservice
 essaysservice
 established blog
 established-blog
+estadounidense
 estate pro
 estate whether
 estate-pro
@@ -4874,6 +4912,7 @@ google-java
 googlebind
 googleing
 googleusashop
+goose calgary
 goose chill
 goose coat
 goose enfant
@@ -4898,6 +4937,7 @@ goose sale
 goose v
 goose yorkville
 goose youth
+goose-calgary
 goose-canad
 goose-coat
 goose-enfant
@@ -4925,6 +4965,7 @@ goose-yorkville
 goose-youth
 goose<
 gooseca
+goosecalgary
 goosecanad
 goosecheap
 goosecoat
@@ -4998,6 +5039,8 @@ griseofulvin
 griseparka
 grooming needs
 grooming-needs
+grosen ray
+größen ray
 grossrx
 group_
 group-home
@@ -5037,6 +5080,7 @@ gucci italia
 gucci online
 gucci out
 gucci sale
+gucci scen
 gucci seller
 gucci time
 gucci vintage
@@ -5058,6 +5102,7 @@ gucci-out
 gucci-purse
 gucci-replica
 gucci-sale
+gucci-scen
 gucci-seller
 gucci-time
 gucci-uk
@@ -5308,6 +5353,7 @@ hernia support
 hernia surgery
 hernia-support
 hernia-surgery
+heroius
 herpes infect
 herpes treatment
 herpes-infect
@@ -5768,6 +5814,8 @@ isseo
 istanbul escort
 istanbul-escort
 istanbulescort
+it ordeno
+it ordenó
 it rite
 it-rite
 italia scarpe
@@ -6015,6 +6063,7 @@ karuteie
 kasino
 katalog
 katespadese
+kazino
 kensington parka
 kensington-parka
 kensingtonparka
@@ -7271,11 +7320,14 @@ monica-santa
 monohydrate
 monroussillon
 monster beat
+monster earphone
 monster_
 monster-beat
+monster-earphone
 monster-head
 monster/beat
 monsterbeat
+monsterearphone
 monsterhead
 monsterjapan
 monsterjp
@@ -7654,6 +7706,8 @@ northfaceus
 northfaceya
 northfce
 norvasc
+nos molesto
+nos molestó
 not fake
 not-dienst
 not-fake
@@ -7782,6 +7836,7 @@ officialugg
 officialwebsite
 offight
 ofhuman
+ofnews
 oit|
 ojectx
 ok-cheap
@@ -8599,9 +8654,18 @@ rayban glass
 rayban_
 rayban-cheap
 rayban-glass
+raybanaviat
+raybanerd
 raybaneye
 raybanglass
+raybangroben
+raybangunstig
+raybanlage
 raybanpascher
+raybanpolar
+raybanrb
+raybanschwar
+raybanshop
 raybanslunette
 raybansuk
 raybansun
@@ -9618,6 +9682,7 @@ surf-to
 surfing online
 surfing-online
 surprisezone
+suvwithbest
 suwa³ki
 svente enligne
 svente-enligne
@@ -9793,11 +9858,13 @@ thhis
 things-consume
 things-we-love
 this blog
+this gucci
 this publish
 this review
 this weblog
 this website
 this-blog
+this-gucci
 this-journ
 this-review
 this-weblog
@@ -10405,6 +10472,7 @@ ventures-shape
 versace-japan
 versacejapan
 versicherungsmakler
+verspiegelte ray
 very disconcertingly
 very-disconcertingly
 very}
@@ -10592,6 +10660,7 @@ vuittonuk
 vuittonusa
 vuittonwallet
 vuittonwholesale
+w.il.lkom.men
 wakka=
 wallet out
 wallet-out
@@ -11037,6 +11106,7 @@ www.mulberry
 www.newbalance
 www.nike-
 www.numberone
+www.oakleyin
 www.offerta
 www.offerte
 www.official
@@ -11101,6 +11171,8 @@ xx.in
 xxx
 xyngular
 y http
+yahoo spy
+yahoo-spy
 yanswer
 yearold
 ynimb
@@ -11312,6 +11384,7 @@ zyvox
 заработок
 зарегистрировать
 знакомства
+игровые
 инете
 интересн
 интернет
@@ -11382,6 +11455,7 @@ zyvox
 симпатичная
 симптом
 скачать
+слот
 спама
 спорт на
 спорт открытом
@@ -11420,6 +11494,7 @@ zyvox
 루이비통
 アークテリクス
 アウトレット
+アディゼロ
 アディダス
 アメリカン エキスプレス
 アメリカン·エキスプレス
