@@ -28,7 +28,7 @@ I don’t blame you if you’re skeptical about how well this blacklist works co
 
 However, [Jason Cosper](https://github.com/boogah) reports that he used an earlier version of the blacklist on a client’s WordPress installation containing 800,000 or so comments. The blacklist flagged 40% of those comments as “spammy”. As a sanity check, he then exported those flagged comments to a local WordPress install and subsequently had Akismet do its thing. According to Jason, there were [“zero false positives.”](https://twitter.com/boogah/status/292031513590128640)
 
-Still need convincing? The blacklist was featured over at [WP Daily](http://torquemag.io/torque-and-the-wp-daily-archives/) (now [Torque](http://torquemag.io/) in [John Saddington](http://john.do/)’s enticingly titled post, [Die Spam! Blacklist That Shiz with This Gist!](http://torquemag.io/comment-blacklist-gist/)
+Still need convincing? The blacklist was featured over at [WP Daily](http://torquemag.io/torque-and-the-wp-daily-archives/) (now [Torque](http://torquemag.io/)) in [John Saddington](http://john.do/)’s enticingly titled post, [Die Spam! Blacklist That Shiz with This Gist!](http://torquemag.io/comment-blacklist-gist/)
 
 ## Technical Considerations
 
@@ -53,11 +53,11 @@ Spammers will also utilize links that include URLs that are specific to WordPres
 
 **Non-English Comments**
 
-This blacklist has been created for use on English language sites. There are several dozen terms and phrases included in the blacklist that may flag legitimate comments posted in other languages. If you commonly receive comments in other languages (specifically those containing CJK, Hiragana, Katakana, Thai, or Cyrillic characters), you may want to remove or modify those sections of the blacklist.
+This blacklist has been created for use on English language sites. There are several dozen terms and phrases included in the blacklist that may flag legitimate comments posted in other languages. If you commonly receive comments in other languages (specifically those containing Chinese, Japanese Hiragana and Katakana, Korean, Thai, or Cyrillic characters), you may want to remove or modify those sections of the blacklist.
 
 **HTML Tag Attributes**
 
-The blacklist is not applied against HTML tag attributes found in comments, only the values assigned to those attributes. This means that you cannot include the attribute name, equal sign, or the quote marks as part a keyword. For example, the keyword phrase `title="Discount` will not match anything, even if that exact bit of text exists within the content of an HTML formatted comment. A keyword consisting of `Discount` should be used instead. Other HTML attributes commonly allowed in WordPress comments such as `href=""`, `cite=""`, and `datetime=""` are also ignored.
+The blacklist is not applied against HTML tag attributes found in comments, only the values assigned to those attributes. This means that you cannot include the attribute name, equal sign, or the quote marks as part a keyword. For example, the keyword phrase `title="Discount` will not match anything, even if that exact bit of text exists within the content of an HTML formatted comment. A keyword consisting of `Discount` should be used instead. Other HTML attributes commonly allowed in WordPress comments such as `href`, `cite`, and `datetime` are also ignored.
 
 **User Agent Strings**
 
@@ -94,6 +94,7 @@ See the [license.txt](https://raw.github.com/splorp/wordpress-comment-blacklist/
 + 20140130 — Mentioned by [Nguyễn Đình Quân](https://github.com/narga) on [Narga](http://www.narga.net/stop-wordpress-spam-comments-trackbracks/)
 + 20130206 — 8,000 entries
 + 20131215 — 7,000 entries
++ 20131122 — Fixed bug that affected most [user agent strings](https://github.com/splorp/wordpress-comment-blacklist/commit/fa4560517df88b628aeb19ce2c838c37ebfafb29)
 + 20131105 — Migrated project to [GitHub](https://github.com/splorp/wordpress-comment-blacklist)
 + 20131020 — 6,000 entries
 + 20130911 — 5,000 entries
