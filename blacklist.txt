@@ -2255,8 +2255,11 @@ barn timberland
 barn-timberland
 barntimberland
 basket isabel
+basket mbt
 basket-isabel
+basket-mbt
 basketisabel
+basketmbt
 bat-pro
 bayswater bag
 bayswater-bag
@@ -3093,6 +3096,7 @@ chaussrespascher
 chaussure boutique
 chaussure jordan
 chaussure louboutin
+chaussure mbt
 chaussure paris
 chaussure supra
 chaussure_
@@ -3102,16 +3106,19 @@ chaussure-femme
 chaussure-homme
 chaussure-jordan
 chaussure-louboutin
+chaussure-mbt
 chaussure-paris
 chaussure-puma
 chaussure-supra
 chaussureboutique
+chaussurembt
 chaussureparis
 chaussures boutique
 chaussures christian
 chaussures femme
 chaussures jordan
 chaussures louboutin
+chaussures mbt
 chaussures paris
 chaussures pascher
 chaussures salomon
@@ -3128,6 +3135,7 @@ chaussures-habil
 chaussures-homme
 chaussures-jordan
 chaussures-louboutin
+chaussures-mbt
 chaussures-paris
 chaussures-pascher
 chaussures-puma
@@ -3140,6 +3148,7 @@ chaussureschristian
 chaussuresfemme
 chaussuresfr
 chaussureslouboutin
+chaussuresmbt
 chaussuresparis
 chaussurespascher
 chaussuressport
@@ -7551,6 +7560,7 @@ new-gucci
 new-jordan
 new-manolo
 new-oakley
+new-vibram
 newarrival
 newarticle
 newbalance1
@@ -7573,6 +7583,7 @@ newsarticle
 newsletter service
 newsletter-service
 newss.
+newvibram
 newwebsite
 nexopia
 nfl austr
@@ -8461,8 +8472,11 @@ privateftp
 privatelabel
 privatftp
 privatlabel
+prix chaussure
 prix ugg
+prix-chaussure
 prix-ugg
+prixchaussure
 prixugg
 pro key
 pro medical
@@ -8829,6 +8843,8 @@ résultat pmu
 resultat-pmu
 résultat-pmu
 results.htm
+retail-store
+retailstore
 retin-a
 reverse lookup
 reverse-lookup
