@@ -128,6 +128,9 @@ _weblog
 -bioactives-
 -bioactives.
 -bioactives/
+-bioactivity-
+-bioactivity.
+-bioactivity/
 -bitcoin-
 -bitcoin.
 -bitcoin/
@@ -149,6 +152,7 @@ _weblog
 -broker/
 -buy.
 -buy/
+-cable-speaker-
 -cable-speaker.
 -cable-speaker/
 -camiseta.
@@ -169,6 +173,9 @@ _weblog
 -cheap-
 -cheap.
 -cheap/
+-cheaper-
+-cheaper.
+-cheaper/
 -cheapest-
 -cheapest.
 -cheapest/
@@ -228,17 +235,26 @@ _weblog
 -e-guide-
 -easily-
 -ebay
+-eguide-
 -enlargement.
 -enlargement/
 -entries/
 -escort.
 -escort/
+-escorts.
+-escorts/
 -essay.
 -essay/
 -executive.
 -executive/
+-executives.
+-executives/
 -fantasia-
 -fantasia.
+-fantasia/
+-fantasy-
+-fantasy.
+-fantasy/
 -fashion-
 -fashion.
 -fashion/
@@ -294,6 +310,7 @@ _weblog
 -hermes-
 -hermes.
 -hermes/
+-hgh-
 -hgh.
 -hgh/
 -income-
@@ -302,8 +319,11 @@ _weblog
 -infotain
 -insurance.
 -insurance/
+-insuring.
+-insuring/
 -iphone-4-
 -iphone-5-
+-iphone-6-
 -jacket-
 -jacket.
 -jacket/
@@ -323,7 +343,6 @@ _weblog
 -lacoste-
 -link.
 -link/
--linkbuild
 -loan-
 -loans-
 -longchamp-
@@ -618,6 +637,7 @@ _weblog
 .html/
 .htn
 .in/,
+.in/?
 .in/1.
 .in/2.
 .in/3.
@@ -633,6 +653,7 @@ _weblog
 .info/,
 .insanity-
 .internet-
+.it/?
 .longchamp-
 .magix.net
 .mobi/?
@@ -1200,6 +1221,8 @@ _weblog
 /mailer/
 /maillot-
 /maillot.
+/malware-
+/malware.
 /malware/
 /manolo-blahnik
 /manoloblahnik
@@ -1486,6 +1509,11 @@ _weblog
 /wp-list
 /wp-site
 /ww.
+/www.co/
+/www.com/
+/www.in/
+/www.net/
+/www.ru/
 /www/
 /x.co
 /xchange
@@ -3564,7 +3592,7 @@ com/author
 com/autocom
 com/bilder
 com/boards
-com/brands
+com/brand
 com/cheap
 com/css
 com/doc
@@ -3578,6 +3606,7 @@ com/include
 com/log
 com/mbt
 com/member
+com/mk/
 com/moncler
 com/official
 com/online
@@ -3646,7 +3675,7 @@ corporate-gift
 corporategift
 cort.as
 coskobo
-cosm tiques
+cosm tique
 cosmetic eye
 cosmetic-eye
 cosmetics eye
@@ -3655,7 +3684,7 @@ cosmetics-eye
 cosmetics-out
 cosmetics-whole
 cosmeticswhole
-cosmtiques
+cosmtique
 cost-effective
 costume ermen
 costume homme
@@ -4254,6 +4283,8 @@ eyeglass-sale
 eyeglasses sale
 eyeglasses-sale
 eyeglasssale
+eyewear present
+eyewear-present
 eyеs
 eѕcort
 eхperienc
@@ -4346,11 +4377,13 @@ farming-secrets
 farmingsecrets
 fashion list
 fashion store
+fashion trend!
 fashion-boot
 fashion-bracelet
 fashion-class
 fashion-list
 fashion-store
+fashion-trend
 fashionboot
 fashionbracelet
 fashionistblog
@@ -6177,6 +6210,7 @@ kors hamilton
 kors handbag
 kors laptop
 kors milano
+kors now!
 kors out
 kors outlet
 kors puffer
@@ -6200,6 +6234,7 @@ kors-hamilton
 kors-handbag
 kors-laptop
 kors-milano
+kors-now
 kors-out
 kors-outlet
 kors-puffer
@@ -6387,23 +6422,23 @@ limited-jers
 limitedjers
 limo-service
 linguim.co
-link building
+link bait
+link build
 link issue
 link_
 link-bait
 link-build
-link-building
 link-campaign
 link-issue
 link-juice
 link-market
 link-pyramid
+link-seo
 link-serv
 link-track
 link-vault
 linkbait
 linkbuild
-linkbuilding
 linkcampaign
 linking issue
 linking_
@@ -6415,6 +6450,7 @@ linkingcampaign
 linkiseo
 linklegend
 linkman
+linkseo
 linktrack
 linkusup
 linkvault
@@ -6796,6 +6832,7 @@ market prices
 market samurai
 market-prices
 market-research.
+market-researcher.
 market-researching.
 market-samurai
 marketing online
@@ -8419,6 +8456,7 @@ prada handbag
 prada online
 prada out
 prada sac
+prada vest
 prada_
 prada-bag
 prada-cheap
@@ -8426,6 +8464,7 @@ prada-new
 prada-online
 prada-out
 prada-sac
+prada-vest
 pradabag
 pradacheap
 pradadesign
@@ -8434,6 +8473,7 @@ pradanew
 pradaonline
 pradaout
 pradasac
+pradavest
 prawnik
 prazosin
 prednisone
@@ -10492,10 +10532,13 @@ verspiegelte ray
 very disconcertingly
 very-disconcertingly
 very}
+vest moncler
+vest-moncler
 veste moncler
 veste-moncler
 vestemoncler
 vestidos
+vestmoncler
 veston class
 veston-class
 vestonclass
@@ -11294,20 +11337,40 @@ zanottisale
 zanottishoe
 zanottisneak
 zantac
+zapata mbt
+zapata-de-mbt
+zapata-mbt
+zapatadembt
+zapatambt
 zapatas asics
 zapatas jordan
+zapatas mbt
 zapatas_
 zapatas-asics
+zapatas-de-mbt
 zapatas-jordan
+zapatas-mbt
 zapatasasics
+zapatasdembt
 zapatasjordan
+zapatasmbt
+zapatilla mbt
+zapatilla-de-mbt
+zapatilla-mbt
+zapatilladembt
+zapatillambt
 zapatillas asics
 zapatillas jordan
+zapatillas mbt
 zapatillas_
 zapatillas-asics
+zapatillas-de-mbt
 zapatillas-jordan
+zapatillas-mbt
 zapatillasasics
+zapatillasdembt
 zapatillasjordan
+zapatillasmbt
 zapatodenewbalance
 zapatos asics
 zapatos jordan
