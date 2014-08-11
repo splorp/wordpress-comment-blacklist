@@ -694,6 +694,19 @@ _weblog
 .rekla
 .remote-desktop
 .remotedesktop
+.ro/,
+.ro/?
+.ro/1.
+.ro/2.
+.ro/3.
+.ro/content
+.ro/forum
+.ro/image
+.ro/member
+.ro/profile
+.ro/top
+.ro/user
+.ro#
 .royal-
 .rshacks.
 .ru,
@@ -889,6 +902,8 @@ _weblog
 /bookmark.
 /bookmarks-
 /bookmarks.
+/borse-
+/borse.
 /brand1
 /brand2
 /brand3
@@ -2606,12 +2621,21 @@ bootuk
 borsa moncler
 borsa-moncler
 borsamoncler
+borse chanel
+borse ital
 borse moncler
 borse outlet
+borse prada
+borse-chanel
+borse-ital
 borse-moncler
 borse-outlet
+borse-prada
+borsechanel
+borseital
 borsemoncler
 borseoutlet
+borseprada
 boss.de
 botanical slim
 botanical-slim
@@ -6267,8 +6291,11 @@ l.uk.e.w.a.rm
 l'argent
 l’argent
 laarzen kopen
+laarzen schoen
 laarzen-kopen
+laarzen-schoen
 laarzenkopen
+laarzenschoen
 labetalol
 lacoste-out
 lacosteout
@@ -7662,6 +7689,9 @@ nicoban
 nicolasbit
 nicе
 nieruchomosci
+nieuwe zonnebrillen
+nieuwe-zonnebrillen
+nieuwezonnebrillen
 nike 5.0
 nike free
 nike jers
@@ -9966,6 +9996,7 @@ tihnikng
 tiki-index
 timberland catalo
 timberland cheap
+timberland laarzen
 timberland out
 timberland pas
 timberland saldi
@@ -9974,6 +10005,7 @@ timberland swede
 timberland uom
 timberland-catalo
 timberland-cheap
+timberland-laarzen
 timberland-out
 timberland-pas
 timberland-saldi
@@ -9984,6 +10016,7 @@ timberland2
 timberlandboot
 timberlandcatalo
 timberlandcheap
+timberlandlaarzen
 timberlandout
 timberlandpas
 timberlandsaldi
@@ -10525,6 +10558,10 @@ ventures-note
 ventures-pleasant
 ventures-profit
 ventures-shape
+verkoop timberland
+verkoop-timberland
+verkooptimberland
+versace japan
 versace-japan
 versacejapan
 versicherungsmakler
@@ -10542,8 +10579,10 @@ vestmoncler
 veston class
 veston-class
 vestonclass
+vetement femme
 vetement-femme
 vetement-homme
+vetementfemme
 veterinarnaya
 vhs-to-digital
 via-internet
@@ -10556,6 +10595,8 @@ videncia vidente
 videncia-charme
 videncia-gratis
 videncia-vidente
+videnciacharme
+videnciagratis
 videnciavidente
 video sport
 video-magnif
