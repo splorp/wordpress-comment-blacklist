@@ -604,11 +604,16 @@ _weblog
 .cgi
 .com wild
 .com,
+.com?
 .com/,
 .com/%
+.com/1-
 .com/1.
+.com/2-
 .com/2.
+.com/3-
 .com/3.
+.com#
 .com0
 .com1
 .com2
@@ -639,16 +644,23 @@ _weblog
 .html?
 .html/
 .htn
+.in,
+.in?
 .in/,
 .in/?
+.in/1-
 .in/1.
+.in/2-
 .in/2.
+.in/3-
 .in/3.
 .in/content
 .in/forum
 .in/image
 .in/member
 .in/profile
+.in/service
+.in/soldes
 .in/top
 .in/user
 .in#
@@ -671,6 +683,28 @@ _weblog
 .org/,
 .org/user
 .outlet.co
+.ph,
+.ph?
+.ph/,
+.ph/?
+.ph/#
+.ph/1-
+.ph/1.
+.ph/2-
+.ph/2.
+.ph/3-
+.ph/3.
+.ph/content
+.ph/forum
+.ph/image
+.ph/member
+.ph/profile
+.ph/pub
+.ph/service
+.ph/soldes
+.ph/top
+.ph/user
+.ph#
 .php?
 .php/?
 .pl,
@@ -689,6 +723,8 @@ _weblog
 .pl/image
 .pl/member
 .pl/profile
+.pl/service
+.pl/soldes
 .pl/top
 .pl/user
 .pl#
@@ -697,16 +733,24 @@ _weblog
 .rekla
 .remote-desktop
 .remotedesktop
+.ro,
+.ro?
 .ro/,
 .ro/?
+.ro/#
+.ro/1-
 .ro/1.
+.ro/2-
 .ro/2.
+.ro/3-
 .ro/3.
 .ro/content
 .ro/forum
 .ro/image
 .ro/member
 .ro/profile
+.ro/service
+.ro/soldes
 .ro/top
 .ro/user
 .ro#
@@ -771,9 +815,6 @@ _weblog
 /?l1
 /?l2
 /?new
-/?p=
-/?pag
-/?tag
 /?uid
 /.wd/
 //|
@@ -1145,6 +1186,7 @@ _weblog
 /img/
 /img1/
 /img2/
+/imgs/
 /inc-meta
 /inc/
 /include/
@@ -2186,9 +2228,12 @@ austriaasics
 auteur:nike
 authentic cheap
 authentic hermes
+authentic jordan
 authentic-cheap
+authentic-jordan
 authentic-ugg
 authentichermes
+authenticjordan
 authenticugg
 authored subject
 authored-subject
@@ -2837,6 +2882,7 @@ businessknow
 businessloan
 businessmarket
 businessnetwork
+busiunes
 buspirone
 busquemail
 busythumb
@@ -3570,6 +3616,7 @@ coach purse
 coach shoe
 coach sneaker
 coach thai
+coach wallet
 coach wristlet
 coach-bag
 coach-black
@@ -3584,6 +3631,7 @@ coach-purse
 coach-shoe
 coach-sneaker
 coach-store
+coach-wallet
 coach-wristlet
 coach+promo
 coach+sneaker
@@ -3652,6 +3700,7 @@ com/ftp
 com/htm
 com/image
 com/include
+com/jordans
 com/log
 com/mbt
 com/member
@@ -3837,13 +3886,16 @@ daily.blog
 dailyreview.co
 dailystrength
 dakotasuki
+damen kaufen
 damen moncler
 damen timberland
 damen tote
+damen-kaufen
 damen-moncler
 damen-schu
 damen-timberland
 damen-tote
+damenkaufen
 damenmoncler
 damenschu
 damentimberland
@@ -3897,11 +3949,13 @@ debt-management
 debt-relief
 debt-solution
 debthelp
+debthit
 debtrelief
 dedrease
 default/member
 default1
 default2
+deficitfight
 definitelly
 delete_
 deliver result
@@ -3909,6 +3963,8 @@ deliver-result
 delpha_
 deltasone
 demo123
+demoniakk
+démoniakk
 demontag
 denschlaf
 dental-implant
@@ -4066,6 +4122,7 @@ dolce-bag
 dolcebag
 dollar-service
 dollarservice
+dollaг
 dolphins jers
 dolphins-jers
 dolphinsjers
@@ -4404,15 +4461,18 @@ fajna-strona
 fajnafotka
 fajnastrona
 fajne
+fake coach
 fake mirror
 fake oakley
 fake rayban
 fake sunglass
+fake-coach
 fake-converse
 fake-mirror
 fake-oakley
 fake-rayban
 fake-sunglass
+fakecoach
 fakeconverse
 fakeoakley
 fakeok
@@ -4471,6 +4531,9 @@ fat-quite
 fat-women
 fatburn
 fatloss
+faux coach
+faux-coach
+fauxcoach
 favorite website
 fb-ads
 fb-cash
@@ -5331,8 +5394,11 @@ hanging-with-friends
 hangingwithfriends
 haohao
 hardtool
+hardy jean
 hardy-huppari
+hardy-jean
 hardyhuppari
+hardyjean
 harnessedthem
 has cuisine
 has-cuisine
@@ -5498,6 +5564,8 @@ highbloodpressure
 highprofile
 highprotein
 hingenieur
+his website
+his-website
 hisslipper
 hitfit
 hjblog
@@ -6008,11 +6076,17 @@ jazz-jersey
 jazzjersey
 jcshoe
 jeacoma.co
+jean kaufen
 jean taste
+jean-kaufen
 jean-taste
+jeankaufen
 jeans good
+jeans kaufen
 jeans taste
+jeans-kaufen
 jeans-taste
+jeanskaufen
 jeanstaste
 jeantaste
 jeremy scott
@@ -6090,6 +6164,7 @@ jordan fille
 jordan gamma
 jordan milano
 jordan out
+jordan outlet
 jordan pas
 jordan retro
 jordan shoe
@@ -6102,6 +6177,7 @@ jordan-femme
 jordan-fille
 jordan-gamma
 jordan-milano
+jordan-outlet
 jordan-pas
 jordan-retro
 jordan-sale
@@ -6112,12 +6188,16 @@ jordanbrand
 jordangamma
 jordankicks
 jordanmilano
+jordanoutlet
 jordanretro
 jordans cheap
+jordans outlet
 jordans-cheap
+jordans-outlet
 jordansale
 jordanscheap
 jordanshoe
+jordansoutlet
 jordansshoe
 jordanstore
 jordjev
@@ -6579,6 +6659,7 @@ loansonline
 locate-cell-phone
 locateacellphone
 locatecellphone
+locatе
 lociraj
 lodz
 łódź
@@ -6788,6 +6869,7 @@ lvout
 lvreplica
 lvsale
 lvuk
+lіke
 m http
 m88day
 mac cosmetic
@@ -6802,8 +6884,11 @@ macmascara
 madeknown
 madeye30
 magasin asics
+magasin robe
 magasin-asics
+magasin-robe
 magasinasics
+magasinrobe
 magazine/page1
 magazine/page2
 magicmoncler
@@ -8318,6 +8403,12 @@ paydaynote
 paydayon
 payed off
 payed-off
+payment nigeria
+payment-nigeria
+paymentnigeria
+payments nigeria
+payments-nigeria
+paymentsnigeria
 paypal-cash
 paypalcash
 payroll-calc
@@ -8635,7 +8726,8 @@ professional-ugg
 professionals.co
 professionalugg
 profile_
-profile/?u
+profile?
+profile/?
 profile/blog
 profile/profile
 profiles/blog
@@ -8691,6 +8783,7 @@ prywatne
 przepisane
 przeprowadzki
 przysiegly
+prоfeѕ
 psych-clinic
 psychclinic
 publica-foto
@@ -9721,6 +9814,9 @@ stewart furniture
 stewart patio
 stewart-furniture
 stewart-patio
+stiefel damen
+stiefel-damen
+stiefeldamen
 stig hollister
 stig online
 stig-hollister
@@ -10211,6 +10307,7 @@ tr.im
 trace-service
 tracing-service
 track-phone-location
+trackback-url
 tracking-a-phone
 trade_your
 trading-method
@@ -10700,6 +10797,8 @@ videos.htm
 videosport
 vidios
 viencare
+vietnam-visa
+vietnamvisa
 view_
 view-article
 view-blog
@@ -11588,6 +11687,7 @@ zyban
 zyprexa
 zyrtec
 zyvox
+νotice
 οn
 ͼ:
 ύou
@@ -11881,6 +11981,7 @@ zyvox
 節約
 素材
 綺麗め
+総合
 脳症
 脿
 腕時計
@@ -11890,6 +11991,7 @@ zyvox
 血症
 行動電源
 評価
+谋t
 財布
 貿易
 赌场
