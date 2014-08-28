@@ -84,6 +84,7 @@ See the [license.txt](https://raw.github.com/splorp/wordpress-comment-blacklist/
 ## History
 
 + 20140826 — 12,000 entries
++ 20140825 — Mentioned by [eComStyle.de](http://ecomstyle.de/) as part of their [WordPress theme documentation](http://ecomstyle.de/blog/easycontact-einfachere-kontaktaufnahme-zeitgemaesser-spamschutz/)
 + 20140624 — 11,000 entries
 + 20140527 — [WordPress Simple Firewall](http://wordpress.org/plugins/wp-simple-firewall/) plugin adds “human spam comment filtering” support
 + 20140527 — Added [MIT License](http://opensource.org/licenses/MIT)
