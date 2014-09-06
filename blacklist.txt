@@ -400,6 +400,8 @@ _weblog
 -nudes-
 -oakley.
 -oakley/
+-occhiali-
+-occhiali.
 -occhiali/
 -odejda-
 -off-your-
@@ -604,9 +606,11 @@ _weblog
 .baidu
 .bioactive
 .biz
-.blogbox.be
+.blogbox.
 .blogspace.
+.bluray-
 .bluray.
+.cause-
 .causes-
 .cfmx
 .cgi
@@ -799,6 +803,7 @@ _weblog
 .worktop.
 .worktops.
 .yuwanshe.
+.yves
 .za/image
 ''
 )-
@@ -2342,6 +2347,7 @@ ban lage
 ban occhiali
 ban online
 ban prei
+ban prezzo
 ban rb
 ban schwar
 ban sonnen
@@ -2352,6 +2358,7 @@ ban-baratas
 ban-jacke
 ban-occhiali
 ban-online
+ban-prezzo
 ban-sunglass
 bancshare
 bangkok cosplay
@@ -2362,6 +2369,7 @@ bankbybank
 bankowoz
 bankrobber
 banonline
+banprezzo
 bansunglass
 barata ropa
 barata-ropa
@@ -3621,6 +3629,7 @@ clickbank
 clickforu
 clientarea
 climacool
+cliquant
 clomid
 clonazepam
 clone-key
@@ -4322,6 +4331,12 @@ empower-network
 empowernetwork
 en/formula
 en/oakley
+enchere max
+enchère max
+enchere-max
+enchère-max
+encherisseur
+enchérisseur
 endlaved
 eneugh
 eng/faq
@@ -4645,6 +4660,7 @@ fibromyalgia
 fifa ultimate
 fifa-ultimate
 fifaultimate
+figc
 fightmark
 filenamedat
 filenamesdat
@@ -8065,8 +8081,11 @@ obtain consol
 obtain-consol
 obuwia
 obuwie
+occhiali ray
 occhiali sol
+occhiali-ray
 occhiali-sol
+occhialiray
 occhialisol
 oculosfeminino
 odszkodowania
@@ -9304,6 +9323,8 @@ saintoffice
 saints jers
 saints-jers
 saintsjers
+salaire instant
+salaire-instant
 saldi online
 saldi-footwear
 saldi-online
@@ -9706,6 +9727,7 @@ silver-ingot
 silver-jewelry
 silveringot
 silverjewelry
+silversuites
 sim-only
 simply shared
 simply-shared
@@ -10977,6 +10999,9 @@ voguetoms
 von ysl
 von-ysl
 vonysl
+votre site
+votre-site
+votresite
 voyance amour
 voyance couple
 voyance gratuite
@@ -12061,6 +12086,7 @@ zyvox
 他の製品
 保存
 保証
+倒
 割引
 化粧
 医師
@@ -12101,6 +12127,7 @@ zyvox
 脿
 腕時計
 興奮
+花火
 芸能人
 茅
 荷物
