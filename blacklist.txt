@@ -1100,6 +1100,7 @@ _weblog
 /div/
 /dlia/
 /dmg/
+/do.
 /dolce-gabbana
 /doudoun.
 /doudoune.
@@ -1712,6 +1713,14 @@ _weblog
 |yr
 000mail
 1-1.
+1,0 mg
+1,0mg
+1,5 mg
+1,5mg
+1.0 mg
+1.0mg
+1.5 mg
+1.5mg
 1.asp
 1.cfm
 1.in
@@ -1726,6 +1735,14 @@ _weblog
 1test
 1to1
 2-global
+2,0 mg
+2,0mg
+2,5 mg
+2,5mg
+2.0 mg
+2.0mg
+2.5 mg
+2.5mg
 2.asp
 2.cfm
 2.in
@@ -1790,22 +1807,50 @@ _weblog
 2009.co
 2010.co
 2011.co
+2012 longchamp
+2012 prospect
+2012-longchamp
+2012-prospect
 2012.co
+2012.de
+2012.in
+2012.or
+2012baby
+2012longchamp
+2012x.
+2013 longchamp
+2013 prospect
+2013-longchamp
+2013-prospect
 2013.co
 2013.de
 2013.in
 2013.or
 2013baby
+2013longchamp
 2013x.
+2014 longchamp
 2014 prospect
+2014-longchamp
 2014-prospect
 2014.co
 2014.de
 2014.in
 2014.or
 2014baby
+2014longchamp
+2014x.
+2015 longchamp
 2015 prospect
+2015-longchamp
 2015-prospect
+2015.co
+2015.de
+2015.in
+2015.or
+2015baby
+2015longchamp
+2015x.
 123456789
 ¥·
 ¥°
@@ -2102,6 +2147,7 @@ analsex
 and-special
 andcloth
 andcoupon
+anditan
 andjourn
 andmerciful
 androidclan
@@ -3805,6 +3851,7 @@ conficker-worm
 consalt-
 constructionn
 construtor
+contact_id
 contact/contact
 contactus/contact
 control diet
@@ -3894,6 +3941,8 @@ creditreport
 cription.asp
 cristmas-
 crossof
+crow pose
+crow-pose
 cruise vacation
 cruise-vacation
 cruisevacation
@@ -6770,6 +6819,7 @@ longafter
 longchamp aus
 longchamp bag
 longchamp handbag
+longchamp online
 longchamp pas
 longchamp pliage
 longchamp purse
@@ -6779,6 +6829,7 @@ longchamp tote
 longchamp uk
 longchamp-aus
 longchamp-handbag
+longchamp-online
 longchamp-pliage
 longchamp-purse
 longchamp-shop
@@ -6792,6 +6843,7 @@ longchampbag
 longchamphandbag
 longchamplondon
 longchampoffici
+longchamponline
 longchampout
 longchampp
 longchamppurse
@@ -7344,6 +7396,7 @@ mercati di
 mercati-di
 mercenary.co
 meridia
+message_center
 messengerstyle
 metacam
 metallo
@@ -8166,6 +8219,7 @@ one-nike
 oneminutesite
 onenike
 onestrap
+online bag
 online cash
 online casino
 online class
@@ -8183,6 +8237,7 @@ online schuhe
 online shoe
 online shop
 online usa
+online-bag
 online-blog
 online-business
 online-cash
@@ -8217,6 +8272,7 @@ online.htm
 online.in
 online.web
 onlinebackup.
+onlinebag
 onlineblog
 onlinebusiness
 onlinebuy
@@ -8557,6 +8613,9 @@ personalinjury
 personnalis
 perweek
 petencies
+petroleum kohlenwasserstoff
+petroleum-kohlenwasserstoff
+petroleumkohlenwasserstoff
 pflegeversicherung
 pflegezusatzversicherung
 pg/blog
@@ -9864,6 +9923,7 @@ soleilray
 solução
 solutioninc
 solutionsinc
+somedias
 sonicsearch
 sooemne
 soup.io/post
@@ -10886,6 +10946,9 @@ ventures-note
 ventures-pleasant
 ventures-profit
 ventures-shape
+venus factor
+venus-factor
+venusfactor
 verkoop timberland
 verkoop-timberland
 verkooptimberland
