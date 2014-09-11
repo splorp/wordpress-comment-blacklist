@@ -2439,12 +2439,15 @@ barn timberland
 barn-timberland
 barntimberland
 basket isabel
+basket jordan
 basket mbt
 basket-isabel
+basket-jordan
 basket-mbt
 basketball-shoe
 basketballshoe
 basketisabel
+basketjordan
 basketmbt
 bat-pro
 bayswater bag
@@ -4073,6 +4076,8 @@ dental that
 dental-implant
 dental-quote
 dental-that
+depart your site
+depart-your-site
 depositbank
 depression-symptom
 depressionsymptom
@@ -4116,15 +4121,18 @@ dienst.in
 diesel denim
 diesel hot
 diesel jean
+diesel online
 diesel uk
 diesel watch
 diesel-denim
 diesel-hot
 diesel-jean
+diesel-online
 diesel-uk
 diesel-watch
 dieseldenim
 dieselhot
+dieselonline
 dieselwatch
 diet-food
 diet-pill
@@ -4978,6 +4986,9 @@ futuristic-market
 futuristicmarket
 f眉r
 g http
+g-star jean
+g-star-jean
+g-starjean
 g-string
 gaaab.co
 gabapentin
@@ -5343,6 +5354,9 @@ gruzowe
 gruzu
 gry flesh
 gry online
+gstar jean
+gstar-jean
+gstarjean
 guantes marshall
 guantes-marshall
 guantesmarshall
@@ -5538,6 +5552,8 @@ hatsnap
 hatsoakland
 hatssnap
 hautschez
+have understand
+have-understand
 haveasite
 havegive
 havegone
@@ -6303,6 +6319,7 @@ jordan brand
 jordan femme
 jordan fille
 jordan gamma
+jordan grise
 jordan milano
 jordan out
 jordan outlet
@@ -6317,6 +6334,7 @@ jordan-brand
 jordan-femme
 jordan-fille
 jordan-gamma
+jordan-grise
 jordan-milano
 jordan-outlet
 jordan-pas
@@ -6327,6 +6345,7 @@ jordan-store
 jordan1
 jordanbrand
 jordangamma
+jordangrise
 jordankicks
 jordanmilano
 jordanoutlet
@@ -7037,7 +7056,9 @@ magazine/page1
 magazine/page2
 magicmoncler
 magnificent article
+magnificent goods
 magnificent-article
+magnificent-goods
 mail_
 mail.ru
 maillot de
@@ -8222,6 +8243,7 @@ onestrap
 online bag
 online cash
 online casino
+online cheap
 online class
 online dating
 online espana
@@ -8243,6 +8265,7 @@ online-business
 online-cash
 online-casino
 online-cert
+online-cheap
 online-class
 online-dating
 online-espana
@@ -8279,6 +8302,7 @@ onlinebuy
 onlinecash
 onlinecasino
 onlinecert
+onlinecheap
 onlinedating
 onlinede.
 onlinegambling
@@ -9798,7 +9822,9 @@ silveringot
 silverjewelry
 silversuites
 sim-only
+simply extremely
 simply shared
+simply-extremely
 simply-shared
 sinequan
 singapore.htm
