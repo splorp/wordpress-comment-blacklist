@@ -16,12 +16,14 @@ _downtime
 _e/
 _emerg
 _entr
+_femme
 _free
 _fuck
 _gucci
 _help
 _hermes
 _hollister
+_homme
 _htm
 _http
 _idea
@@ -604,6 +606,7 @@ _weblog
 ?twid
 ?user
 ?view
+.()
 .%
 .acgi
 .adboard
@@ -1283,6 +1286,7 @@ _weblog
 /latestmk-
 /latestmk.
 /legal/
+/lib/
 /libs/
 /lijst/
 /limewire
@@ -1779,6 +1783,7 @@ _weblog
 4ever
 4firefall
 4ft.me
+4juiceplus
 4less
 4sale
 4u.co
@@ -2152,6 +2157,7 @@ anabolic
 anal sex
 anal-sex
 analsex
+and bye.
 and-special
 andcloth
 andcoupon
@@ -2350,6 +2356,8 @@ bag out
 bag-cheap
 bag-online
 bag-out
+bag.asp
+bag.htm
 bagcheap
 bagjap
 bagjp
@@ -2397,6 +2405,7 @@ ban handle
 ban händle
 ban jacke
 ban lage
+ban mirror
 ban occhiali
 ban online
 ban prei
@@ -2409,6 +2418,7 @@ ban verspie
 ban wayfare
 ban-baratas
 ban-jacke
+ban-mirror
 ban-occhiali
 ban-online
 ban-prezzo
@@ -2798,6 +2808,9 @@ boss.de
 botanical slim
 botanical-slim
 botasdefutbol
+botte femme
+botte-femme
+bottefemme
 bottes pas
 bottes ugg
 bottes-pas
@@ -3314,6 +3327,7 @@ chaussres-boutique
 chaussres-pascher
 chaussresboutique
 chaussrespascher
+chaussure botte
 chaussure boutique
 chaussure jordan
 chaussure louboutin
@@ -3322,6 +3336,7 @@ chaussure paris
 chaussure supra
 chaussure_
 chaussure-asics
+chaussure-botte
 chaussure-boutique
 chaussure-femme
 chaussure-homme
@@ -3331,6 +3346,7 @@ chaussure-mbt
 chaussure-paris
 chaussure-puma
 chaussure-supra
+chaussurebotte
 chaussureboutique
 chaussurembt
 chaussureparis
@@ -3690,7 +3706,6 @@ clomid
 clonazepam
 clone-key
 clonekey
-closed.the
 clothes online
 clothes-online
 clothesonline
@@ -3991,6 +4006,7 @@ cytotec
 cz/love
 cеrt 
 d http
+d.the
 dabloggs
 dafeult
 dailly
@@ -6122,6 +6138,8 @@ iphone-case
 iphone-crack
 iphone-repair
 iphone-suppl
+iphone.asp
+iphone.htm
 iphone/iphone
 iphone2me
 iphone2you
@@ -6619,6 +6637,7 @@ latvia-stag
 latviastag
 lauren amsterdam
 lauren aus
+lauren belgique
 lauren cheap
 lauren dame
 lauren factory
@@ -6639,6 +6658,7 @@ lauren uk
 lauren-amsterdam
 lauren-aus
 lauren-austr
+lauren-belgique
 lauren-cheap
 lauren-dame
 lauren-factory
@@ -6657,6 +6677,7 @@ lauren-sale
 lauren-sverige
 lauren-uk
 laurenaustr
+laurenbelgique
 laurencheap
 laurendame
 laurenhome
@@ -7501,6 +7522,9 @@ minumum
 miracle-discount
 miraclediscount
 mirapex
+mirror femme
+mirror-femme
+mirrorfemme
 mister-design
 misterboy
 mittelx
@@ -7939,6 +7963,8 @@ new-jordan
 new-manolo
 new-oakley
 new-vibram
+new/ipad
+new/iphone
 newarrival
 newarticle
 newbalance1
@@ -8120,6 +8146,8 @@ nufactur
 nеar
 nօt
 o http
+o.the
+o.two
 oakeyspascher
 oakley canad
 oakley caveat
@@ -8249,6 +8277,7 @@ okcheap
 okpay
 oksex
 oksunglass
+okycupid
 old|
 once-in-a-lifetime
 one nike
@@ -9382,6 +9411,9 @@ rpg-online
 rpgonline
 rss.htm
 ruhttp
+run chaussure
+run-chaussure
+runchaussure
 runescape
 running sneak
 running-sneak
@@ -9389,6 +9421,7 @@ runningsneak
 rusztowania
 rіght
 s http
+s.the
 s.webeden
 sabo charm
 sabo out
@@ -9847,11 +9880,13 @@ simply-shared
 sinequan
 singapore.htm
 sistershit
+site asian
 site backup
 site link
 site official
 site position
 site traffic
+site-asian
 site-backup
 site-google
 site-link
@@ -9968,6 +10003,9 @@ solução
 solutioninc
 solutionsinc
 somedias
+son copain
+son-copain
+soncopain
 sonicsearch
 sooemne
 soup.io/post
@@ -10000,7 +10038,10 @@ speedloan
 speedy-product
 spip.php
 splendid department
+splendid tiffany
 splendid-department
+splendid-tiffany
+splendidtiffany
 sponsoring secret
 sponsoring-secret
 sponsoringsecret
@@ -10400,12 +10441,15 @@ tiendashollister
 tier business
 tier-business
 tiffany france
+tiffany gemstone
 tiffany jewel
 tiffany ring
 tiffany-france
+tiffany-gemstone
 tiffany-jewel
 tiffany-out
 tiffany-ring
+tiffanygemstone
 tiffanyjewel
 tiffanyout
 tiffanyring
@@ -12098,6 +12142,7 @@ zyvox
 いい
 イヴサンローラン
 いホスティング
+ヴィクトリアシークレット
 ヴィトン
 ヴェネタ
 ヴェルサーチ
