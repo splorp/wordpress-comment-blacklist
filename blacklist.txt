@@ -606,6 +606,7 @@ _weblog
 ?twid
 ?user
 ?view
+..a
 .()
 .%
 .acgi
@@ -1479,6 +1480,7 @@ _weblog
 /refreshers.
 /remote-desktop
 /remotedesktop
+/res/
 /ri.ms
 /rozwod
 /rss.xml
@@ -4294,17 +4296,24 @@ dre-cheap
 dre<
 drebeat
 drecheap
+dress herve
 dress link
 dress online
 dress shoe
 dress shop
+dress-herve
 dress-link
 dress-online
 dress-shoe
 dress-shop
 dress-uk
 dress.rent
+dresses herve
+dresses-herve
+dresses-uk
 dresses.wed
+dressesherve
+dressherve
 dresshop
 dresslink
 dressonline
@@ -4420,6 +4429,7 @@ encherisseur
 enchérisseur
 endlaved
 eneugh
+eng/dress
 eng/faq
 enhance-your
 enhancement-pill
@@ -5347,6 +5357,8 @@ great-things
 great-written
 great}
 greatbet
+greatest doc
+greatest-doc
 greece-holid
 greeceholid
 green-smoker
@@ -6466,8 +6478,15 @@ kidsnike
 kinder moncler
 kinder-moncler
 kindermoncler
+kino online
+kino program
+kino winterthur
 kino-online
+kino-program
+kino-winterthur
 kinoonline
+kinoprogram
+kinowinterthur
 kitai
 kitchen-worktop
 kitchenworktop
@@ -6725,8 +6744,16 @@ legalsteroid
 legends hack
 legends-hack
 leger band
+leger copies
+leger dress
+leger sale
 leger-band
+leger-copies
+leger-dress
+leger-sale
 legerband
+legerdress
+legersale
 lend-direct
 lenddirect
 lendsomemoney
@@ -7259,6 +7286,7 @@ mbt scarpe
 mbt schuh
 mbt shoe
 mbt shop
+mbt sneaker
 mbt spaccio
 mbt special
 mbt tariki
@@ -7289,6 +7317,7 @@ mbt-sandal
 mbt-schuh
 mbt-shoe
 mbt-shop
+mbt-sneaker
 mbt-spaccio
 mbt-special
 mbt-tariki
@@ -7319,6 +7348,7 @@ mbtschuh
 mbtshoe
 mbtshop
 mbtsko
+mbtsneaker
 mbtspaccio
 mbtspecial
 mbttariki
@@ -7485,6 +7515,9 @@ milanosjapan
 mild activ
 mild-activ
 milendress
+military friendly
+military-friendly
+militaryfriendly
 millen au
 millen clearance
 millen color
@@ -7963,6 +7996,7 @@ new-jordan
 new-manolo
 new-oakley
 new-vibram
+new/dress
 new/ipad
 new/iphone
 newarrival
@@ -8146,6 +8180,8 @@ nufactur
 nеar
 nօt
 o http
+o.all
+o.for
 o.the
 o.two
 oakeyspascher
@@ -8278,6 +8314,7 @@ okpay
 oksex
 oksunglass
 okycupid
+old/dress
 old|
 once-in-a-lifetime
 one nike
@@ -9120,6 +9157,10 @@ qux
 qvc
 r http
 r?f?rence
+r.all
+r.for
+r.the
+r.two
 radikal.ru
 radiocarpea
 raiders hat
@@ -9421,7 +9462,10 @@ runningsneak
 rusztowania
 rіght
 s http
+s.all
+s.for
 s.the
+s.two
 s.webeden
 sabo charm
 sabo out
@@ -9954,18 +9998,24 @@ smsh.me
 snapback-cap
 snapbacks
 snatch your
+sneaker trade
+sneaker-trade
 sneaker.asp
 sneakerchef
 sneakerjapan
 sneakerjp
 sneakers retail
 sneakers sale
+sneakers trade
 sneakers-retail
 sneakers-sale
+sneakers-trade
 sneakers.asp
 sneakers24
 sneakersretail
 sneakerssale
+sneakerstrade
+sneakertrade
 snipurl.com
 snism
 social-bookmark
@@ -10243,6 +10293,10 @@ symptomsmed
 system-pro
 system-review
 t http
+t.all
+t.for
+t.the
+t.two
 tabaki
 tadalafil
 tadapox
