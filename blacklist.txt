@@ -236,6 +236,8 @@ _weblog
 -doktora-
 -doktora.
 -doktora/
+-doku.
+-doku/
 -domination-
 -domination.
 -domination/
@@ -483,7 +485,9 @@ _weblog
 -sexy-
 -shiatsu.
 -shoes.
+-shop.asp
 -shop.co
+-shop.htm
 -sigareta-
 -sigareta.
 -sigareta/
@@ -1113,6 +1117,8 @@ _weblog
 /dlia/
 /dmg/
 /do.
+/doku-
+/doku.
 /dolce-gabbana
 /doudoun.
 /doudoune.
@@ -4647,6 +4653,7 @@ fantastic-blog
 farmacias
 farming-secrets
 farmingsecrets
+fashion compan
 fashion list
 fashion men
 fashion store
@@ -4655,6 +4662,7 @@ fashion women
 fashion-boot
 fashion-bracelet
 fashion-class
+fashion-compan
 fashion-list
 fashion-men
 fashion-store
@@ -4662,6 +4670,7 @@ fashion-trend
 fashion-women
 fashionboot
 fashionbracelet
+fashioncompan
 fashionistblog
 fashionwomen
 fast cash
@@ -5703,10 +5712,13 @@ herpes treatment
 herpes-infect
 herpes-treatment
 herpes<
+herren kaufen
 herren moncler
 herren timberland
+herren-kaufen
 herren-moncler
 herren-timberland
+herrenkaufen
 herrenmoncler
 herrentimberland
 heuer-new
@@ -6045,8 +6057,10 @@ informatique enligne
 informatique-enligne
 informative blog
 informative post
+informative site
 informative web
 informative-blog
+informative-site
 informative-web
 infos-
 infos/
@@ -8537,6 +8551,7 @@ outletwoolrich
 outplacement-compan
 outplacements
 outsourcing-compan
+outsourcingcompan
 ovariancyst
 own blogroll
 own-blogroll
@@ -8911,6 +8926,7 @@ pozyczka
 pozyczki
 pp-class
 prada bag
+prada cell
 prada cheap
 prada dress
 prada handbag
@@ -8921,6 +8937,7 @@ prada sac
 prada vest
 prada_
 prada-bag
+prada-cell
 prada-cheap
 prada-new
 prada-occhiali
@@ -8929,6 +8946,7 @@ prada-out
 prada-sac
 prada-vest
 pradabag
+pradacell
 pradacheap
 pradadesign
 pradagirl
@@ -8953,6 +8971,7 @@ prentice-capital
 prenticecapital
 prepaid-credit
 preparationwise
+prescription.asp
 prescription.htm
 presentation subsequent
 presentation-subsequent
@@ -9297,8 +9316,10 @@ replica bag
 replica birk
 replica china
 replica hand
+replica herve
 replica ip
 replica jers
+replica leger
 replica louis
 replica nba
 replica oakley
@@ -9316,8 +9337,10 @@ replica-design
 replica-gucci
 replica-hand
 replica-handbag
+replica-herve
 replica-ip
 replica-jers
+replica-leger
 replica-louis
 replica-nba
 replica-oakley
@@ -9340,8 +9363,10 @@ replicadesign
 replicagucci
 replicahand
 replicahandbag
+replicaherve
 replicaip
 replicajers
+replicaleger
 replicalouis
 replicanba
 replicaoakley
@@ -9507,6 +9532,7 @@ sacslancel
 sacvanessa
 sacvuitton
 sadehap
+saidnew
 saintoffice
 saints jers
 saints-jers
@@ -9752,6 +9778,7 @@ sertraline
 servantappear
 server 2007
 server 2008
+servicedoc
 services/services
 serwis
 settings1
@@ -10233,14 +10260,16 @@ sunglassok
 sunglassuk
 sunrize
 sunsetthe
+super compan
 super real
+super-compan
 super-real
 superarticle
+supercompan
 superheroz
-superior companies
-superior company
-superior-companies
-superior-company
+superior compan
+superior-compan
+superiorcompan
 superstar class
 superstar status
 superstar-class
@@ -10516,6 +10545,7 @@ till today
 till-today
 timberland catalo
 timberland cheap
+timberland herr
 timberland laarzen
 timberland out
 timberland pas
@@ -10526,6 +10556,7 @@ timberland swede
 timberland uom
 timberland-catalo
 timberland-cheap
+timberland-herr
 timberland-laarzen
 timberland-out
 timberland-pas
@@ -10538,6 +10569,7 @@ timberland2
 timberlandboot
 timberlandcatalo
 timberlandcheap
+timberlandherr
 timberlandinneder
 timberlandlaarzen
 timberlandout
@@ -10604,7 +10636,9 @@ toms-shoe
 toms-women
 tomscheap
 tomsdamen
+tomsformen
 tomsforsale
+tomsforwomen
 tomsout
 tomsshoe
 tomsshoes
@@ -11434,8 +11468,11 @@ weptwith
 werbegeschenke
 weredouble
 westwood boot
+westwood shop
 westwood-boot
+westwood-shop
 westwoodboot
+westwoodshop
 wet pant
 wet-pant
 wetpant
