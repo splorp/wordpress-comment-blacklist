@@ -584,6 +584,7 @@ _weblog
 ,title,
 ,we
 ､､
+;#
 ::
 :)!
 ! .
@@ -1644,6 +1645,7 @@ _weblog
 /z.
 /zdev/
 /zumba-
+/zumba.
 \xa9
 \xc3
 &#070;&#069;&#078;&#068;&#073;
@@ -2576,6 +2578,7 @@ berlinmoncler
 berracom.ph
 best cyber
 best jers
+best mcm
 best online
 best pant
 best tummy
@@ -2588,6 +2591,7 @@ best-discount
 best-fake
 best-home-cinema
 best-jers
+best-mcm
 best-pant
 best-phone
 best-shop
@@ -2609,6 +2613,7 @@ bestfit
 bestgasmileage
 bestjers
 bestlaptop
+bestmcm
 bestpant
 bestphone
 bestshop
@@ -3856,6 +3861,7 @@ com/www
 com/ysl
 com%2c
 com2.php
+comdip
 comedyee
 comhttp
 comment-pag
@@ -3956,7 +3962,6 @@ couture-avec
 coverages
 cozy-ugg
 cozyugg
-coսld
 cracked-pro
 crackedpro
 crane-hire
@@ -5773,6 +5778,7 @@ holdning
 hollister berlin
 hollister bolsos
 hollister brasil
+hollister gr
 hollister jacke
 hollister jean
 hollister job
@@ -5799,6 +5805,7 @@ hollister-berlin
 hollister-bolsos
 hollister-brasil
 hollister-deutsch
+hollister-gr
 hollister-jacke
 hollister-jean
 hollister-job
@@ -5824,6 +5831,7 @@ hollister-uk
 hollisterbolsos
 hollisterbrasil
 hollisterdeutsch
+hollistergr
 hollisterjacke
 hollisterjob
 hollisterlogo
@@ -7123,10 +7131,15 @@ macmascara
 madeknown
 madeye30
 magasin asics
+magasin chemise
 magasin robe
 magasin-asics
+magasin-canada-goose
+magasin-chemise
 magasin-robe
 magasinasics
+magasincanadagoose
+magasinchemise
 magasinrobe
 magazine/page1
 magazine/page2
@@ -7382,6 +7395,7 @@ mcm-bag
 mcm-handbag
 mcm.co
 mcmbackpack
+mcmbag
 mcqueen club
 mcqueen dress
 mcqueen leopard
@@ -8561,6 +8575,7 @@ oxycodone
 oxycontin
 oympia
 oьtɑin
+oս
 p http
 p90x
 packersjers
@@ -8934,6 +8949,8 @@ prada occhiali
 prada online
 prada out
 prada sac
+prada sport
+prada uomo
 prada vest
 prada_
 prada-bag
@@ -8944,6 +8961,8 @@ prada-occhiali
 prada-online
 prada-out
 prada-sac
+prada-sport
+prada-uomo
 prada-vest
 pradabag
 pradacell
@@ -8954,6 +8973,8 @@ pradanew
 pradaonline
 pradaout
 pradasac
+pradasport
+pradauomo
 pradavest
 prawnik
 prazosin
@@ -9093,6 +9114,9 @@ pucci-out
 puccidress
 pucciout
 pufy.
+pullover-t-shirt
+pullover-tshirt
+pullovertshirt
 puma deutsch
 puma ferrari
 puma outlet
@@ -9476,6 +9500,7 @@ rozszerzona
 rpg-online
 rpgonline
 rss.htm
+rugsfur
 ruhttp
 run chaussure
 run-chaussure
@@ -9633,6 +9658,7 @@ scarpe air
 scarpe hogan
 scarpe italia
 scarpe mbt
+scarpe prada
 scarpe roger
 scarpe supra
 scarpe-air
@@ -9640,11 +9666,13 @@ scarpe-basket
 scarpe-hogan
 scarpe-italia
 scarpe-mbt
+scarpe-prada
 scarpe-roger
 scarpe-supra
 scarpebasket
 scarpehogan
 scarpeitalia
+scarpeprada
 scarperoger
 scarrepair
 schlgsseldienste
@@ -9981,8 +10009,11 @@ skapagrupp
 skelaxin
 skin pigment
 skin_pigment
+skin-care-review
 skin-pigment
+skincare-review
 skincare-work
+skincarereview
 skincarework
 skip-trace
 skip-tracing
@@ -10122,6 +10153,8 @@ splendidtiffany
 sponsoring secret
 sponsoring-secret
 sponsoringsecret
+sport tronch
+sport-tronch
 sportbikepart
 sportbook
 sportsbet
@@ -10130,6 +10163,7 @@ sportsfanshop
 sportsfanstore
 sportsgear
 sportsjers
+sporttronch
 sprinkler tune
 sprinkler-tune
 sprzedaz
@@ -10190,14 +10224,17 @@ stonejapan
 stop-smoking
 store austr
 store gucci
+store online
 store out
 store-gucci
+store-online
 store-out
 store-service
 store.htm
 store.org
 storegucci
 storejp
+storeonline
 storeoutlet
 stosunek
 stoxymom
@@ -12079,14 +12116,27 @@ zyban
 zyprexa
 zyrtec
 zyvox
-νotice
+νa
+νe
+νi
+νo
+οf
 οn
+οs
 ͼ:
-ύou
-ωhil
-ωіlly
+ύa
+ύe
+ύi
+ύo
+ωa
+ωh
+ωi
+ωo
+ωі
 аl
 аr
+аs
+аt
 абонентская
 авиабилет
 агенств
@@ -12106,6 +12156,7 @@ zyvox
 дешево
 доход
 драйвера
+ԁay
 заболевани
 заказ
 заработок
