@@ -83,6 +83,7 @@ See the [license.txt](https://raw.github.com/splorp/wordpress-comment-blacklist/
 
 ## History
 
++ 20140911 — Added to the [Combating Comment Spam](http://codex.wordpress.org/Combating_Comment_Spam) section of the WordPress [Codex](http://codex.wordpress.org/)
 + 20140826 — 12,000 entries
 + 20140825 — Mentioned by [eComStyle.de](http://ecomstyle.de/) as part of their [WordPress theme documentation](http://ecomstyle.de/blog/easycontact-einfachere-kontaktaufnahme-zeitgemaesser-spamschutz/)
 + 20140624 — 11,000 entries
