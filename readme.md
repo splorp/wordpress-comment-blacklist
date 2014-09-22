@@ -83,6 +83,7 @@ See the [license.txt](https://raw.github.com/splorp/wordpress-comment-blacklist/
 
 ## History
 
++ 20140921 — Mentioned by Mike Eden on [My Brain Lounge](http://mybrainlounge.wordpress.com/2014/09/21/how-i-stopped-wordpress-comment-spam/)
 + 20140911 — Added to the [Combating Comment Spam](http://codex.wordpress.org/Combating_Comment_Spam) section of the WordPress [Codex](http://codex.wordpress.org/)
 + 20140826 — 12,000 entries
 + 20140825 — Mentioned by [eComStyle.de](http://ecomstyle.de/) as part of their [WordPress theme documentation](http://ecomstyle.de/blog/easycontact-einfachere-kontaktaufnahme-zeitgemaesser-spamschutz/)
