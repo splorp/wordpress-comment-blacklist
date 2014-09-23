@@ -1875,9 +1875,11 @@ _weblog
 2015longchamp
 2015x.
 123456789
+¤¤
 ¥·
 ¥°
 ¥¦
+¥¤
 ¥¢
 ¥³
 ¥ã
@@ -2831,17 +2833,36 @@ bottes-ugg
 bottespas
 bottesugg
 boutique balenciaga
+boutique chanel
 boutique chaussure
 boutique mbt
+boutique moncler
 boutique ugg
 boutique-balenciaga
+boutique-chanel
 boutique-chaussure
 boutique-mbt
+boutique-moncler
 boutique-ugg
+boutiquebalenciaga
+boutiquechanel
 boutiquechaussure
 boutiquembt
+boutiquemoncler
+boutiques chanel
+boutiques chaussure
+boutiques mbt
+boutiques moncler
 boutiques ugg
+boutiques-chanel
+boutiques-chaussure
+boutiques-mbt
+boutiques-moncler
 boutiques-ugg
+boutiqueschanel
+boutiqueschaussure
+boutiquesmbt
+boutiquesmoncler
 boutiquesugg
 boutiqueugg
 bow ugg
@@ -3289,6 +3310,7 @@ chanel bag
 chanel hand
 chanel handbag
 chanel out
+chanel paris
 chanel purse
 chanel replica
 chanel sac
@@ -3299,6 +3321,7 @@ chanel-bag
 chanel-hand
 chanel-online
 chanel-out
+chanel-paris
 chanel-purse
 chanel-replica
 chanel-sac
@@ -3308,6 +3331,7 @@ chanelbag
 chanelhand
 chanelonline
 chaneloutlet
+chanelparis
 chanelpurse
 chanelreplica
 chanelsac
@@ -4041,6 +4065,9 @@ damenmoncler
 damenschu
 damentimberland
 damentote
+dames kopen
+dames-kopen
+dameskopen
 damier azur
 damier-azur
 damierazur
@@ -4912,6 +4939,7 @@ fraudcenter
 frauen puma
 frauen-puma
 frauenpuma
+frdern
 free class
 free gay
 free international
@@ -5178,8 +5206,11 @@ girls-day-dress
 girls-escort
 girlsdaydress
 girlsescort
+giubbotti moncler
 giubbotti woolrich
+giubbotti-moncler
 giubbotti-woolrich
+giubbottimoncler
 giubbotto dsquared
 giubbotto-dsquared
 giuseppezanotti
@@ -6474,6 +6505,9 @@ karuteie
 kasino
 katalog
 katespadese
+kawa strefa
+kawa-strefa
+kawastrefa
 kazino
 kensington parka
 kensington-parka
@@ -7601,6 +7635,9 @@ mkhandbag
 mkout
 mlb cap
 mlb-cap
+mlb.asp
+mlb.cfm
+mlb.htm
 mlbcap
 mlm business
 mlm lead
@@ -7979,6 +8016,9 @@ nba-jers
 nba-men
 nba-sko
 nba-utah
+nba.asp
+nba.cfm
+nba.htm
 nbahouston
 nbajers
 nbamen
@@ -8019,6 +8059,7 @@ new manolo
 new weblog
 new-article
 new-balance
+new-era-hat
 new-gucci
 new-jordan
 new-manolo
@@ -8031,8 +8072,8 @@ newarrival
 newarticle
 newbalance1
 newbalance2
-newblance-20
-newblance20
+newblance
+newerahat
 newest news
 newest-news
 newgucci
@@ -8063,17 +8104,24 @@ nfl-jers
 nfl-official
 nfl-replica
 nfl-shop
+nfl.asp
+nfl.cfm
+nfl.htm
 nfljers
 nflofficial
 nflreplica
 nflshop
 nfr.asp
 nfr.cfm
+nfr.htm
 nhl jers
 nhl replica
 nhl-jers
 nhl-replica
 nhl-shop
+nhl.asp
+nhl.cfm
+nhl.htm
 nhljers
 nhlofficial
 nhlreplica
@@ -8471,6 +8519,8 @@ oriflame
 orlistat
 osobistosci
 osobistości
+other-brand
+otherbrand
 othertype
 otonanocoach
 otoplasty
@@ -9001,6 +9051,9 @@ pressrelease.net
 pretty worth
 pretty-worth
 previcox
+prezzi giubbotti
+prezzi-giubbotti
+prezzigiubbotti
 price-of-gold
 pricetobook
 priligy
@@ -9677,8 +9730,11 @@ scarperoger
 scarrepair
 schlgsseldienste
 schlüsseldienste
+schoenen dame
 schoenen dsquared
+schoenen-dame
 schoenen-dsquared
+schoenendame
 schoenendsquared
 school.a
 schuh gunstig
@@ -9870,6 +9926,7 @@ shoe-japan
 shoe-online
 shoe-out
 shoe-promo
+shoe-sol
 shoe.asp
 shoeamerica
 shoecloth
@@ -9903,6 +9960,7 @@ shoesjapan
 shoeskan
 shoesmart
 shoesmbt
+shoesol
 shoesonline
 shoesonsale
 shoesout
@@ -9915,10 +9973,12 @@ shoeuk
 shoot-tequila
 shop online
 shop-japan.co
+shop-makeup
 shop-nfl
 shop-now
 shop-online
 shop-pin
+shop-shoe
 shop-to-you
 shop.asia
 shopboots
@@ -9926,6 +9986,7 @@ shopent.ru
 shopg2bags
 shopjapan.co
 shopjp
+shopmakeup
 shopnfl
 shopnow
 shopof
@@ -9936,6 +9997,7 @@ shopping+
 shopping24
 shoppingcenter.co
 shoppingugg
+shopshoe
 shoptoyou
 shopuk
 shopus.co
@@ -11914,6 +11976,7 @@ your penis
 your submit
 your success
 your traffic
+your web page
 your weblog
 your website
 your_
@@ -11931,6 +11994,7 @@ your-profile
 your-site
 your-skin
 your-success
+your-web-page
 your-weblog
 your-website
 your-windows
@@ -12077,6 +12141,9 @@ zero calorie
 zero-calorie
 zerocalorie
 zfymail
+zielona kawa
+zielona-kawa
+zielonakawa
 zikinell
 zimmerman fund
 zimmerman hedge
