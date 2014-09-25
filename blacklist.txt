@@ -470,8 +470,7 @@ _weblog
 -rims-
 -rozwod-
 -ru.
--sale.co
--sale.org
+-sale.
 -salvia-
 -scarpe-
 -search-engine
@@ -874,6 +873,7 @@ _weblog
 //images/
 //income
 //leverage
+//linkm
 //maestro
 //official
 //onsale
@@ -1495,7 +1495,9 @@ _weblog
 /sac-
 /sac.
 /sale-
+/sale.
 /sales-
+/sales.
 /salvia/
 /scarpe-
 /sconfig/
@@ -2801,9 +2803,21 @@ bootsuk
 boottenngoku
 bootugg
 bootuk
+borsa chanel
+borsa ital
 borsa moncler
+borsa outlet
+borsa prada
+borsa-chanel
+borsa-ital
 borsa-moncler
+borsa-outlet
+borsa-prada
+borsachanel
+borsaital
 borsamoncler
+borsaoutlet
+borsaprada
 borse chanel
 borse ital
 borse moncler
@@ -5523,6 +5537,12 @@ guerre-gratuit
 guest-post
 guestpost
 guiltfree
+gunstig kaufen
+günstig kaufen
+gunstig-kaufen
+günstig-kaufen
+gunstigkaufen
+günstigkaufen
 guru1
 gurus1
 gyslera
@@ -6251,6 +6271,10 @@ itemnotfound
 itstree
 iг
 i贸
+j'ai tjrs
+j'ai-tjrs
+j’ai tjrs
+j’ai-tjrs
 jacke-online
 jacke-west
 jacken-online
@@ -6677,6 +6701,8 @@ l http
 l.uk.e.w.a.rm
 l'argent
 l’argent
+la pillule
+la-pillule
 laarzen kopen
 laarzen schoen
 laarzen-kopen
@@ -7544,7 +7570,9 @@ mercati di
 mercati-di
 mercenary.co
 meridia
-message_center
+mes hormone
+mes-hormone
+message_
 messengerstyle
 metacam
 metallo
@@ -8993,8 +9021,12 @@ pp-class
 prada bag
 prada cell
 prada cheap
+prada dany
+prada design
 prada dress
+prada girl
 prada handbag
+prada new
 prada occhiali
 prada online
 prada out
@@ -9006,6 +9038,11 @@ prada_
 prada-bag
 prada-cell
 prada-cheap
+prada-dany
+prada-design
+prada-dress
+prada-girl
+prada-handbag
 prada-new
 prada-occhiali
 prada-online
@@ -9017,9 +9054,13 @@ prada-vest
 pradabag
 pradacell
 pradacheap
+pradadany
 pradadesign
+pradadress
 pradagirl
+pradahandbag
 pradanew
+pradaocchiali
 pradaonline
 pradaout
 pradasac
@@ -9767,6 +9808,9 @@ schuhgünstig
 schuhpuma
 schuhsky
 schuhysl
+schweiz online
+schweiz-online
+schweizonline
 sciatica pain
 scontati
 scoriescod
@@ -10260,8 +10304,11 @@ stewart patio
 stewart-furniture
 stewart-patio
 stiefel damen
+stiefel schweiz
 stiefel-damen
+stiefel-schweiz
 stiefeldamen
+stiefelschweiz
 stig hollister
 stig online
 stig-hollister
@@ -10704,6 +10751,8 @@ titans merch
 titans-merch
 titansmerch
 tizanidine
+tjrs eu
+tjrs-eu
 tms-shoe
 tmsshoe
 tnf-sale
@@ -10809,7 +10858,9 @@ trimethoprim
 triviatrivia
 trollapp
 true search
+truly suppose
 truly very
+truly-suppose
 truly-very
 truthabout
 try-these
@@ -10859,6 +10910,8 @@ ugg femme
 ugg fox
 ugg france
 ugg glove
+ugg gunstig
+ugg günstig
 ugg hobo
 ugg hot
 ugg ken
@@ -10901,6 +10954,8 @@ ugg-for
 ugg-fox
 ugg-france
 ugg-glove
+ugg-gunstig
+ugg-günstig
 ugg-hobo
 ugg-hot
 ugg-ken
@@ -10956,6 +11011,8 @@ uggfor
 uggfox
 uggfrance
 uggglove
+ugggunstig
+ugggünstig
 ugghobo
 ugghot
 uggken
@@ -11227,24 +11284,45 @@ venusfactor
 verkoop timberland
 verkoop-timberland
 verkooptimberland
+versace belgique
 versace japan
+versace-belgique
 versace-japan
+versacebelgique
 versacejapan
 versicherungsmakler
 verspiegelte ray
 very disconcertingly
 very-disconcertingly
 very}
+vest belgique
 vest moncler
+vest-belgique
 vest-moncler
+vestbelgique
+veste belgique
 veste moncler
+veste-belgique
 veste-moncler
+vestebelgique
 vestemoncler
+vestes belgique
+vestes moncler
+vestes-belgique
+vestes-moncler
+vestesbelgique
+vestesmoncler
 vestidos
 vestmoncler
 veston class
 veston-class
 vestonclass
+vests belgique
+vests moncler
+vests-belgique
+vests-moncler
+vestsbelgique
+vestsmoncler
 vetement femme
 vetement-femme
 vetement-homme
@@ -11268,6 +11346,8 @@ video sport
 video-magnif
 video-pokie
 video-sport
+video.asp
+video.cfm
 video.htm
 videochat
 videogamedesign
