@@ -893,6 +893,9 @@ _weblog
 //website
 //webstore
 //wp-
+/2ipe.tk
+/2u4.us
+/4ft.me
 /10.htm
 /11.htm
 /12.htm
@@ -925,6 +928,8 @@ _weblog
 /airmax.
 /alimenty/
 /allimage/
+/an0n.me
+/ano.gd
 /anonymous-
 /anonymous.
 /answer-
@@ -938,8 +943,10 @@ _weblog
 /asp/
 /asthma-
 /asthma.
+/ateffa.ms
 /attachments/
 /authentic
+/b54.in
 /baby-
 /baby.
 /babydoll-
@@ -962,6 +969,7 @@ _weblog
 /birkenstocks-
 /birkenstocks.
 /birkin.
+/bit.ly
 /bitcoin-
 /black-friday
 /blog:
@@ -1023,6 +1031,7 @@ _weblog
 /casino
 /categories-
 /category-
+/cek.li
 /chanel-
 /chanel.
 /chat/
@@ -1049,6 +1058,7 @@ _weblog
 /cl-
 /cl.
 /cl/
+/clck.ru
 /cld-
 /cld.
 /clearance/
@@ -1085,6 +1095,7 @@ _weblog
 /control/
 /converse-
 /converse.
+/cort.as
 /coupon-
 /coupon.
 /coupon/
@@ -1147,6 +1158,7 @@ _weblog
 /executive-
 /extreme-
 /fashion-
+/fc.cx
 /features-
 /feed/
 /feeds/
@@ -1186,6 +1198,7 @@ _weblog
 /gh1/
 /glowna.
 /gold.
+/goo.gl
 /graphics/
 /group1
 /group2
@@ -1208,6 +1221,7 @@ _weblog
 /hermes-
 /hermes.
 /herveleger
+/hfg.cc
 /hgh-
 /hgh.
 /hiend
@@ -1258,6 +1272,7 @@ _weblog
 /install/
 /insurance.
 /iphone-case
+/is.gd
 /iss.php
 /jacket-
 /jacket.
@@ -1279,6 +1294,7 @@ _weblog
 /js.
 /js/
 /just.
+/just.as
 /kat,
 /kd6
 /kitchenknife-
@@ -1317,6 +1333,7 @@ _weblog
 /longchamp-
 /longchamp.
 /longchamp/
+/loorg.de
 /louboutin-
 /louboutin.
 /love-fail
@@ -1522,8 +1539,10 @@ _weblog
 /site/ebay
 /sitemap.
 /siteold/
+/smsh.me
 /snapback-
 /snapback.
+/snipurl.co
 /social-media/
 /soft/
 /soma-
@@ -1535,6 +1554,7 @@ _weblog
 /specialprojects.
 /specials-
 /specials.
+/stan.to
 /start.
 /stats/
 /strona-
@@ -1572,12 +1592,15 @@ _weblog
 /tiffany.
 /timberland-
 /timberland.
+/tiny.cc
+/tinyurl.co
 /title,
 /tmp/
 /to.ly
 /toms-
 /toms.
 /top100.
+/tr.im
 /trac/ticket/
 /trackback
 /twilight-
@@ -1593,6 +1616,7 @@ _weblog
 /uploadfiles/
 /uploads/
 /url/
+/urlms.co
 /usa.
 /user-
 /user:
@@ -1784,12 +1808,10 @@ _weblog
 2bj.ru
 2c.in
 2global
-2ipe.tk
 2itb
 2sale
 2test
 2u.org
-2u4.us
 3.asp
 3.cfm
 3.in
@@ -1803,7 +1825,6 @@ _weblog
 4cheap
 4ever
 4firefall
-4ft.me
 4juiceplus
 4less
 4sale
@@ -2185,7 +2206,6 @@ amoxicil
 amoxil
 amusement account
 amzon.co
-an0n.me
 anabolic
 anal sex
 anal-sex
@@ -2205,7 +2225,6 @@ animalbased
 ankle bootie
 ankle-bootie
 anklebootie
-ano.gd
 anonymize your
 anonymous-download
 anonymousvpn
@@ -2327,7 +2346,6 @@ astounding5
 astral-diamond
 aswenr
 at web,
-ateffa.ms
 athletica lululemon
 athletica-lululemon
 ationincome
@@ -2377,7 +2395,6 @@ azria-outlet
 azur-lv
 ɑlivе
 b.u.y
-b54.in
 babycanread
 babyliss
 backlink
@@ -2693,7 +2710,6 @@ birkin bag
 birkin-bag
 birkinbag
 bisapp
-bit.ly
 bitartrate
 biuro-solido
 biz.pl
@@ -3302,7 +3318,6 @@ cavin-klein
 cavinklein
 ce billet
 ce-billet
-cek.li
 celebrex
 celebrities-nude
 celebritiesnude
@@ -3752,7 +3767,6 @@ classic-ugg
 classicugg
 clavulanate
 clboot
-clck.ru
 clearance mbt
 clearance michael
 clearance out
@@ -3972,7 +3986,6 @@ copywizard
 cordarone
 corporate-gift
 corporategift
-cort.as
 coskobo
 cosm tique
 cosmetic eye
@@ -4784,7 +4797,6 @@ fbads
 fbcash
 fbfans
 fblike
-fc.cx
 fckt
 fcukfcuk
 features.asp
@@ -5317,7 +5329,6 @@ golfplaza
 golfpromo
 golfs
 gomaile.co
-goo.gl
 good article
 good blog
 good hemp
@@ -5814,7 +5825,6 @@ herrenkaufen
 herrenmoncler
 herrentimberland
 heuer-new
-hfg.cc
 hfgfh
 hgfj
 hggh
@@ -6281,7 +6291,6 @@ iprofit
 irc-chat
 is seo
 is-now-available
-is.gd
 isabel marant
 isabel-marant
 isabelmarant
@@ -6541,7 +6550,6 @@ jswing
 juanjuan
 juicycouture
 jumpedup
-just.as
 justcloud
 justness
 k http
@@ -7057,7 +7065,6 @@ longchamptote
 longchampuk
 lookeach
 lookingfor
-loorg.de
 lorazepam
 lortab
 los replica
@@ -10215,7 +10222,6 @@ smokingnews
 sms grupp
 sms-grupp
 smsgrupp
-smsh.me
 snapback-cap
 snapbacks
 snatch your
@@ -10237,7 +10243,6 @@ sneakersretail
 sneakerssale
 sneakerstrade
 sneakertrade
-snipurl.com
 snism
 social-bookmark
 socialbookmark
@@ -10346,7 +10351,6 @@ stag-weekend
 stag.weekend
 stagparty
 stagweekend
-stan.to
 standingof
 star-item
 starsunglass
@@ -10786,9 +10790,7 @@ times(with
 timesamsonss
 timeshare
 tingenieur
-tiny.cc
 tinytowtimmy.co
-tinyurl.com
 tipblog
 tips-for-
 tips-to-start
@@ -10882,7 +10884,6 @@ tote handbag
 tote-handbag
 totehandbag
 town|
-tr.im
 trace-service
 tracing-service
 track-phone-location
@@ -11280,7 +11281,6 @@ upseseglype
 urlacher jers
 urlacher-jers
 urlacherjers
-urlms.com
 urls2
 urlstatusgo.htm
 uroda
