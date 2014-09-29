@@ -22,3 +22,4 @@ tiny.cc
 tinyurl.com
 tr.im
 urlms.com
+/to.ly
