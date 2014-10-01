@@ -846,6 +846,7 @@ _weblog
 /?l1
 /?l2
 /?new
+/?tag
 /?uid
 /.wd/
 //|
@@ -905,10 +906,15 @@ _weblog
 /100mg
 /a-
 /a#
+/abc-
+/abc.
+/abcmart-
 /abcmart.
 /abercrombie-
 /abercrombie.
+/about-
 /about.
+/abouts-
 /abouts.
 /acai
 /acidreflux-
@@ -1506,6 +1512,8 @@ _weblog
 /readnews.
 /recap/
 /refreshers.
+/rejuvenate-
+/rejuvenate.
 /remote-desktop
 /remotedesktop
 /res/
@@ -2173,6 +2181,8 @@ aitaiwan
 akkuschrauber
 aklotr
 aksudmias
+albanian-travel
+albaniantravel
 albuterol
 alendronate
 alkotla
@@ -2393,6 +2403,7 @@ awordpress.
 azria outlet
 azria-outlet
 azur-lv
+aѕ
 ɑlivе
 b.u.y
 babycanread
@@ -2492,12 +2503,15 @@ baratasnewera
 baratos-new
 baratosnewera
 barbour cloth
+barbour coat
 barbour jacke
 barbour outlet
 barbour-cloth
+barbour-coat
 barbour-jacke
 barbour-outlet
 barbourcloth
+barbourcoat
 barbourjacke
 barbouroutlet
 barcelona sunglass
@@ -3874,6 +3888,12 @@ coachtokyo
 coachwallet
 coachwristlet
 coachya
+coat outlet
+coat-outlet
+coatoutlet
+coats outlet
+coats-outlet
+coatsoutlet
 code generat
 code xbox
 code-generat
@@ -4104,18 +4124,23 @@ dailystrength
 dakotasuki
 damen kaufen
 damen moncler
+damen schuhe
 damen timberland
 damen tote
 damen-kaufen
 damen-moncler
 damen-schu
+damen-schuhe
 damen-timberland
 damen-tote
+damen-von-schuhe
 damenkaufen
 damenmoncler
 damenschu
+damenschuhe
 damentimberland
 damentote
+damenvonschuhe
 dames kopen
 dames-kopen
 dameskopen
@@ -4203,9 +4228,11 @@ derm-exclus
 dermexclus
 desconto
 designer bag
+designer jewel
 designer-bag
 designer-brand
 designer-jewel
+designer-label
 designer-shoe
 designerbag
 designerbrand
@@ -4215,9 +4242,13 @@ designershoe
 desktop-client
 desktopclient
 despaulsmith
+destiny power
+destiny-power
+destinypower
 desyrel
 detail/www
 detektiv
+deutschland-online
 deutschlandonline
 devenir trade
 devenir-trade
@@ -4281,6 +4312,7 @@ direct-lone
 directhealth
 directlend
 directlone
+directt
 dirt-bike
 disclaim.asp
 discount bag
@@ -4650,6 +4682,7 @@ eyeglasssale
 eyewear present
 eyewear-present
 eyеs
+eѕ
 eѕcort
 eхperienc
 fa‡on
@@ -5085,10 +5118,26 @@ fruitful design
 fruitful-design
 fruta planta
 frutaplanta
+fuck down
 fuck google
+fuck hard
 fuck-
+fuck-down
+fuck-google
+fuck-hard
 fuckdown
 fuckgoogle
+fuckhard
+fucks down
+fucks google
+fucks hard
+fucks-down
+fucks-google
+fucks-hard
+fucksdown
+fucksgoogle
+fuckshard
+fun-with-windows
 func.php
 fund market
 fund trend
@@ -5106,12 +5155,17 @@ furla bag
 furla candy
 furla handbag
 furla out
+furla sac
 furla-bag
 furla-candy
 furla-handbag
 furla-out
+furla-sac
+furlabag
+furlacandy
 furlahandbag
-furlasacs
+furlaout
+furlasac
 furnituresale
 furosemide
 furworld.ru
@@ -5451,10 +5505,12 @@ gratuitos
 graypanther
 grayson bag
 grayson-bag
+great acknowledgement
 great article
 great blog
 great goods
 great written
+great-acknowledgement
 great-article
 great-blog
 great-essay
@@ -6318,6 +6374,7 @@ item.cfm
 itemnotfound
 itstree
 iг
+iѕ
 i贸
 j'ai tjrs
 j'ai-tjrs
@@ -7553,6 +7610,7 @@ meilleurs-casino
 meisterstuck pen
 meisterstuck-pen
 meisterstuckpen
+meizitang
 melatonin
 meloxicam
 member_
@@ -7563,11 +7621,13 @@ membership hack
 membership-hack
 membership.php
 membershiphack
+men barbour
 men boost
 men handbag
 men makeup
 men mbt
 men nike
+men-barbour
 men-boost
 men-date
 men-handbag
@@ -7575,10 +7635,12 @@ men-makeup
 men-mbt
 men-nike
 men+shoe
+menbarbour
 menboost
 mendate
 menmbt
 mennike
+mens barbour
 mens bcbg
 mens boot
 mens coach
@@ -7591,6 +7653,7 @@ mens sale
 mens shoe
 mens watch
 mens-bag
+mens-barbour
 mens-bcbg
 mens-boot
 mens-coach
@@ -7604,6 +7667,7 @@ mens-shoe
 mens-train
 mens-watch
 mens+coach
+mensbarbour
 mensbcbg
 menseekingmen
 menseekingwom
@@ -8056,6 +8120,8 @@ myreview.co
 mytest
 myvirus
 myweblog
+mzt-index
+mztindex
 m谩s
 n http
 nail_art
@@ -8230,6 +8296,7 @@ nike run
 nike shoe
 nike total
 nike_
+nike-air-force
 nike-and-shoe
 nike-blazer
 nike-dunk
@@ -8702,6 +8769,7 @@ owninterest
 oxycodone
 oxycontin
 oympia
+oѕ
 oьtɑin
 oս
 p http
@@ -8972,7 +9040,9 @@ plumbingservice
 plus-size
 plussize
 plytki
+plz help
 plz respond
+plz-help
 plz-respond
 poco prezzo
 poco-prezzo
@@ -9010,6 +9080,7 @@ polo-lacoste
 polo-ralph
 polohollister
 poloralph
+polorozed
 polos ralph
 polos-ralph
 polosralph
@@ -9062,11 +9133,14 @@ powder review
 powder-benefit
 powder-review
 powderbenefit
+power leveling
+power-leveling
 powerball
 powerbank
 powerful scrape
 powerful-scrape
 powerfulscrape
+powerleveling
 pozew.
 poznajseo
 poznan
@@ -9422,6 +9496,9 @@ reccomend this
 reccomend-this
 recent seo
 reciclable
+recipe paleo
+recipe-paleo
+recipepaleo
 recommended internet
 records.net
 recoverynow
@@ -10244,6 +10321,18 @@ sneakerssale
 sneakerstrade
 sneakertrade
 snism
+snore mouth
+snore stop
+snore-mouth
+snore-stop
+snoremouth
+snorestop
+snoring expert
+snoring mouth
+snoring-expert
+snoring-mouth
+snoringexpert
+snoringmouth
 social-bookmark
 socialbookmark
 socialengine
@@ -10391,7 +10480,10 @@ stodiosbeat
 stone japan
 stone-japan
 stonejapan
+stop snor
 stop-smoking
+stop-snor
+stopsnor
 store austr
 store gucci
 store online
@@ -10850,6 +10942,10 @@ tomsout
 tomsshoe
 tomsshoes
 tomswomen
+tongue retain
+tongue-retain
+tongueretain
+top stop
 top tier
 top-forum
 top-list
@@ -10857,6 +10953,7 @@ top-muscle
 top-rank
 top-search
 top-site
+top-stop
 top-tier
 topamax
 topcontractor
@@ -10869,6 +10966,7 @@ toprank
 topsearch
 topseo
 topsite
+topstop
 topvideocon
 torrent-movie
 torrentmovie
@@ -11298,6 +11396,7 @@ ut.ag/
 utilized use
 uustore
 uy/image
+uѕ
 valise louis
 valise-louis
 valiselouis
@@ -12325,6 +12424,10 @@ zyban
 zyprexa
 zyrtec
 zyvox
+ϳa
+ϳi
+ϳo
+ϳu
 νa
 νe
 νi
@@ -12371,10 +12474,13 @@ zyvox
 заработок
 зарегистрировать
 знакомства
+ѕs
 игровые
 инете
 интересн
 интернет
+іn
+іs
 іt
 казино
 качест
@@ -12476,6 +12582,9 @@ zyvox
 ԝill
 ոeutral
 ոotie
+օm
+օn
+օs
 ויקיפדיה
 ߋ
 ขายเสื้อผ้าเด็ก
