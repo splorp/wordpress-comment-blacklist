@@ -85,8 +85,10 @@ See the [license.txt](https://raw.github.com/splorp/wordpress-comment-blacklist/
 
 + 20140921 — Mentioned by Mike Eden on [My Brain Lounge](http://mybrainlounge.wordpress.com/2014/09/21/how-i-stopped-wordpress-comment-spam/)
 + 20140911 — Added to the [Combating Comment Spam](http://codex.wordpress.org/Combating_Comment_Spam) section of the WordPress [Codex](http://codex.wordpress.org/)
++ 20140904 — Mentioned by [Roger Williams Media](http://rogerwilliamsmedia.com/2014/09/forget-akismet-just-add-github-comment-blacklist/)
 + 20140826 — 12,000 entries
 + 20140825 — Mentioned by [eComStyle.de](http://ecomstyle.de/) as part of their [WordPress theme documentation](http://ecomstyle.de/blog/easycontact-einfachere-kontaktaufnahme-zeitgemaesser-spamschutz/)
++ 20140707 — Mentioned by [FliegenToeter](http://fliegentoeter.eu/wordpress-abspecken-cpu-nutzung-minimieren-server-entlasten-ladezeit-verkuerzen/)
 + 20140624 — 11,000 entries
 + 20140527 — [WordPress Simple Firewall](http://wordpress.org/plugins/wp-simple-firewall/) plugin adds “human spam comment filtering” support
 + 20140527 — Added [MIT License](http://opensource.org/licenses/MIT)
