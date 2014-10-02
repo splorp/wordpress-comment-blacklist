@@ -607,6 +607,7 @@ _weblog
 ?sexy
 ?shoe
 ?store
+?timberland
 ?title
 ?twid
 ?user
@@ -1011,6 +1012,8 @@ _weblog
 /buyma.
 /bvlgari-
 /bvlgari.
+/cache-
+/cache.
 /cache/
 /camiseta-
 /camiseta.
@@ -1291,6 +1294,7 @@ _weblog
 /job.
 /join.
 /joj.
+/joomla/
 /jordan.
 /jordan1
 /jordan2
@@ -1611,6 +1615,7 @@ _weblog
 /tr.im
 /trac/ticket/
 /trackback
+/trx/
 /twilight-
 /txt/
 /ugg-
@@ -1776,6 +1781,9 @@ _weblog
 |year
 |yr
 000mail
+0ping
+0taylormade
+0titleist
 1-1.
 1,0 mg
 1,0mg
@@ -1795,8 +1803,11 @@ _weblog
 1bodog
 1c.in
 1minutesite
+1ping
 1stop
+1taylormade
 1test
+1titleist
 1to1
 2-global
 2,0 mg
@@ -1817,8 +1828,11 @@ _weblog
 2c.in
 2global
 2itb
+2ping
 2sale
+2taylormade
 2test
+2titleist
 2u.org
 3.asp
 3.cfm
@@ -1827,7 +1841,10 @@ _weblog
 3@2
 3@3
 3j3j3
+3ping
+3taylormade
 3test
+3titleist
 3ww3
 4all
 4cheap
@@ -2203,7 +2220,10 @@ amateurs.
 amazing post
 amazing-post
 amazn.co
+amazon.asp
+amazon.cfm
 amazon.cm
+amazon.htm
 ambien
 ametuer
 aminocare
@@ -2400,6 +2420,7 @@ awesome post
 awesome-blog
 awokehim
 awordpress.
+awsome
 azria outlet
 azria-outlet
 azur-lv
@@ -2818,23 +2839,28 @@ bookmarked!
 boost-your
 boostyour
 boot online
+boot oxford
 boot sale
 boot uk
 boot-get
 boot-online
+boot-oxford
 boot-queen
 boot-sale
 boot-uk
 bootcojp
 bootget
 bootonline
+bootoxford
 bootqueen
 boots online
+boots oxford
 boots sale
 boots ugg
 boots uk
 boots-get
 boots-online
+boots-oxford
 boots-queen
 boots-retail
 boots-sale
@@ -2843,6 +2869,7 @@ boots-uk
 bootsale
 bootsget
 bootsonline
+bootsoxford
 bootsqueen
 bootsretail
 bootss
@@ -3287,10 +3314,12 @@ cash advance
 cash generator
 cash loan
 cash-advance
+cash-extend
 cash-generator
 cash4gold
 cash4silver
 cashadvance
+cashextend
 cashforgold
 cashforsilver
 cashgenerator
@@ -4563,6 +4592,8 @@ enhancement-pill
 enhancementpill
 enhttp
 enjoy-more
+enlightening post
+enlightening-post
 enligneparis
 enourmous
 entry_
@@ -5509,6 +5540,7 @@ great acknowledgement
 great article
 great blog
 great goods
+great weblog
 great written
 great-acknowledgement
 great-article
@@ -5516,6 +5548,7 @@ great-blog
 great-essay
 great-goods
 great-things
+great-weblog
 great-written
 great}
 greatbet
@@ -9951,6 +9984,7 @@ schweiz online
 schweiz-online
 schweizonline
 sciatica pain
+scisser
 scontati
 scoriescod
 scott wing
@@ -10505,6 +10539,8 @@ strategies-for
 strategy-for
 stratificat.
 strattera
+strength harmony
+strength-harmony
 strick jacke
 strick-jacke
 strickjacke
@@ -10842,6 +10878,7 @@ tihnikng
 tiki-index
 till today
 till-today
+timberland boot
 timberland catalo
 timberland cheap
 timberland herr
@@ -10853,6 +10890,7 @@ timberland schoenen
 timberland shoe
 timberland swede
 timberland uom
+timberland-boot
 timberland-catalo
 timberland-cheap
 timberland-herr
@@ -12262,6 +12300,7 @@ youtubedown
 youtubevi
 youugg
 youve
+youyou
 yoyo diet
 yoyo-diet
 yoyodiet
