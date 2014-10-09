@@ -86,6 +86,7 @@ _weblog
 --stor
 --that
 -(
+-=
 -24.
 -abercrombie-
 -abercrombie.
@@ -458,6 +459,8 @@ _weblog
 -purses.
 -purses/
 -pussy-
+-ray-ban-
+-rayban-
 -rayban.
 -rdnk-
 -real-estate-
@@ -615,6 +618,7 @@ _weblog
 ..a
 .()
 .%
+.2u4.us
 .acgi
 .adboard
 .adsboard
@@ -654,6 +658,7 @@ _weblog
 .com7
 .com8
 .com9
+.coms
 .coupon
 .credopa.in
 .disposable-
@@ -758,6 +763,7 @@ _weblog
 .pl/top
 .pl/user
 .pl#
+.plotexchange.us
 .rar.
 .redirects.
 .rekla
@@ -1426,6 +1432,12 @@ _weblog
 /niketn
 /ninnki
 /no-excuse
+/nobis-
+/nobis.
+/nobis/
+/nobisj-
+/nobisj.
+/nobisj/
 /node/
 /north-face
 /northface-
@@ -1469,6 +1481,7 @@ _weblog
 /php.
 /piece-
 /piece.
+/plotexchange.us
 /popup
 /porn
 /post:
@@ -2841,12 +2854,14 @@ boostyour
 boot online
 boot oxford
 boot sale
+boot schweiz
 boot uk
 boot-get
 boot-online
 boot-oxford
 boot-queen
 boot-sale
+boot-schweiz
 boot-uk
 bootcojp
 bootget
@@ -2856,24 +2871,30 @@ bootqueen
 boots online
 boots oxford
 boots sale
+boots schweiz
 boots ugg
 boots uk
 boots-get
+boots-in-schweiz
 boots-online
 boots-oxford
 boots-queen
 boots-retail
 boots-sale
+boots-schweiz
 boots-ugg
 boots-uk
 bootsale
+bootschweiz
 bootsget
+bootsinschweiz
 bootsonline
 bootsoxford
 bootsqueen
 bootsretail
 bootss
 bootssale
+bootsschweiz
 bootsugg
 bootsuk
 boottenngoku
@@ -3438,15 +3459,24 @@ chantix
 chapa shoe
 chapa-shoe
 chapashoe
+chaqueta belstaff
 chaqueta cuero
 chaqueta oferta
+chaqueta-belstaff
 chaqueta-cuero
 chaqueta-oferta
+chaquetabelstaff
 chaquetacuero
 chaquetaoferta
 chaquetas belstaff
+chaquetas cuero
+chaquetas oferta
 chaquetas-belstaff
+chaquetas-cuero
+chaquetas-oferta
 chaquetasbelstaff
+chaquetascuero
+chaquetasoferta
 charlescave
 charms thomas
 charms-thomas
@@ -4233,6 +4263,7 @@ default1
 default2
 deficitfight
 definitelly
+dehttp
 delete_
 deliver result
 deliver-result
@@ -4562,15 +4593,21 @@ eloans
 elsa-dress
 elway-jers
 elwayjers
+email.asp
+email.cfm
 email.htm
 email.tst
 emailsvip
 emailvip
 emarketing
+emilio-pucci
 emiliopucci
 empire hack
 empire-hack
 empirehack
+employee engage
+employee-engage
+employeeengage
 empower network
 empower-network
 empowernetwork
@@ -6273,6 +6310,8 @@ inheritance-cash
 inhttp
 initiator_
 injectionfacts
+injuries insurance
+injuries-insurance
 injury-lawyer
 injurylawyer
 insanejournal
@@ -6346,12 +6385,14 @@ investoff
 investor.ru
 inzest
 ip.ideal
+ipad tablet
 ipad-1
 ipad-2
 ipad-3
 ipad-download
 ipad-repair
 ipad-suppl
+ipad-tablet
 ipad1
 ipad2
 ipad3
@@ -8384,6 +8425,9 @@ no-guarant
 no-hassle
 no-prescript
 no1.co
+nobis yatesy
+nobis-yatesy
+nobisyatesy
 nocache
 nocredit
 nohassle
@@ -8678,6 +8722,10 @@ oprawki-ray
 oprawkiray
 opt-in promotion
 opt-in-promotion
+optimization enhance
+optimization-enhance
+optimize enhance
+optimize-enhance
 option binaire
 option-binaire
 options binaire
@@ -9266,6 +9314,7 @@ prezzigiubbotti
 price-of-gold
 pricetobook
 priligy
+primary-change
 primeessay
 privat ftp
 privat label
@@ -9999,6 +10048,7 @@ seahawks jers
 seahawks-jers
 seahawksjers
 search-engine-opt
+search-engine-optimiz
 searchengine-opt
 searchengine.
 searchengineoptimiz
@@ -11423,6 +11473,7 @@ uroda
 us/profile
 usa-best
 usabest
+usefuyl
 user_
 user/profile
 user/view
@@ -11479,6 +11530,8 @@ venusfactor
 verkoop timberland
 verkoop-timberland
 verkooptimberland
+verres ray
+verres-ray
 versace belgique
 versace japan
 versace-belgique
@@ -11757,6 +11810,7 @@ weave-hair
 weavehair
 web anal
 web blog
+web optimiz
 web owner
 web people
 web promo
@@ -11765,6 +11819,7 @@ web-anal
 web-blog
 web-hosting
 web-log
+web-optimiz
 web-owner
 web-people
 web-promo
@@ -11785,6 +11840,7 @@ weblink
 weblog site
 weblog-site
 weblog}
+weblogg
 weblogto
 webmaster
 webnode.cn
@@ -11794,12 +11850,14 @@ webnode.fr
 webnode.hu
 webnode.it
 webnode.nl
+weboptimiz
 webpag
 webpharma
 webpromo
 webpromotion
 websex
 webshop/image
+websiite
 website online
 website post
 website traffic
