@@ -2,7 +2,7 @@
 
 #### Sometimes simple is better.
 
-Over the past couple of years, I have identified over 12,000 phrases, patterns, and keywords commonly used by spammers and comment bots in usernames, email addresses, link text, and URIs. This blacklist is an ongoing work in progress and as such, there is always room for optimization and improvement. Suggestions and bug reports are certainly appreciated. Please use the [issue tracker](https://github.com/splorp/wordpress-comment-blacklist/issues) to let me know.
+Over the past couple of years, I have identified over 13,000 phrases, patterns, and keywords commonly used by spammers and comment bots in usernames, email addresses, link text, and URIs. This blacklist is an ongoing work in progress and as such, there is always room for optimization and improvement. Suggestions and bug reports are certainly appreciated. Please use the [issue tracker](https://github.com/splorp/wordpress-comment-blacklist/issues) to let me know.
 
 ## How Do I Use It?
 
@@ -83,6 +83,7 @@ See the [license.txt](https://raw.github.com/splorp/wordpress-comment-blacklist/
 
 ## History
 
++ 20141011 — 13,000 entries
 + 20140921 — Mentioned by Mike Eden on [My Brain Lounge](http://mybrainlounge.wordpress.com/2014/09/21/how-i-stopped-wordpress-comment-spam/)
 + 20140911 — Added to the [Combating Comment Spam](http://codex.wordpress.org/Combating_Comment_Spam) section of the WordPress [Codex](http://codex.wordpress.org/)
 + 20140904 — Mentioned by [Roger Williams Media](http://rogerwilliamsmedia.com/2014/09/forget-akismet-just-add-github-comment-blacklist/)
