@@ -3544,6 +3544,7 @@ chaussurembt
 chaussureparis
 chaussures boutique
 chaussures christian
+chaussures de
 chaussures femme
 chaussures jordan
 chaussures louboutin
@@ -3559,6 +3560,7 @@ chaussures- abil
 chaussures-asics
 chaussures-boutique
 chaussures-christian
+chaussures-de
 chaussures-femme
 chaussures-habil
 chaussures-homme
@@ -8209,8 +8211,10 @@ my hermes
 my homepag
 my myspace
 my online
+my site;
 my weblog
 my website
+my_site
 my-bebo
 my-blog
 my-hermes
@@ -9696,6 +9700,8 @@ rejersey.net
 rekla.
 reklamowe
 rekreacja
+relax private
+relax-private
 reliefsecret
 religion jeans
 religion-jeans
@@ -11115,6 +11121,7 @@ topiramate
 toplist
 topman123
 topmuscle
+topoic
 toprank
 topsearch
 topseo
