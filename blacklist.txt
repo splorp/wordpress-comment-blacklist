@@ -1157,6 +1157,7 @@ _weblog
 /dsquared.
 /duvetica.
 /easing.
+/ebay/
 /ecig-
 /ecig.
 /economical-
@@ -1483,6 +1484,7 @@ _weblog
 /piece-
 /piece.
 /plotexchange.us
+/plus.
 /popup
 /porn
 /post:
@@ -5068,7 +5070,9 @@ fobur.in
 foodpyramid
 foolproof trick
 foolproof-trick
+foot manche
 foot nike
+foot-manche
 foot-nike
 football shirt
 football-shirt
@@ -6981,6 +6985,7 @@ lauren out
 lauren polo
 lauren ralph
 lauren sale
+lauren short
 lauren sverige
 lauren uk
 lauren-amsterdam
@@ -7002,6 +7007,7 @@ lauren-out
 lauren-polo
 lauren-ralph
 lauren-sale
+lauren-short
 lauren-sverige
 lauren-uk
 laurenaustr
@@ -7016,6 +7022,7 @@ laurenout
 laurenpolo
 laurenralph
 laurensale
+laurenshort
 laurensverige
 laurent femme
 laurent sandal
@@ -7439,12 +7446,14 @@ magnificent-goods
 mail_
 mail.ru
 maillot de
+maillot foot
 maillot maillot
 maillot man
 maillot psg
 maillot uk
 maillot-de
 maillot-enfant
+maillot-foot
 maillot-maillot
 maillot-man
 maillot-psg
@@ -7452,6 +7461,8 @@ maillot-uk
 maillotde
 maillotman
 maillotpsg
+maillots de foot
+maillots-de-foot
 maillotuk
 main longchamp
 main-longchamp
@@ -7484,6 +7495,8 @@ malwareremov
 manage_
 manage/new
 management-software
+manche longue
+manche-longue
 manchesterhotel
 manicshop
 manner puma
@@ -7873,6 +7886,8 @@ millenjacke
 millenneder
 millenoutlet
 millenshop
+million hit
+million-hit
 minecraftfree
 minicredit
 mintcoin
@@ -10121,9 +10136,11 @@ secondgrade
 secret advantage
 secret beautiful
 secret generous 
+secret review
 secret-advantage
 secret-beautiful
 secret-generous 
+secret-review
 secret.co
 secretadvantage
 secretbeautiful
@@ -10380,6 +10397,7 @@ site backup
 site link
 site official
 site position
+site post
 site traffic
 site-asian
 site-backup
@@ -10387,6 +10405,7 @@ site-google
 site-link
 site-official
 site-position
+site-post
 site-traffic
 site.co
 site.in
@@ -12461,6 +12480,8 @@ yslchaussure
 ysldamen
 yslfemme
 yslschuh
+yu move
+yu-move
 yumeeyum
 yutyca
 yuuguu
