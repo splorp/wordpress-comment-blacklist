@@ -596,6 +596,7 @@ _weblog
 ????
 ?/pag
 ?add
+?adidas
 ?browse
 ?domain
 ?firma
@@ -708,6 +709,16 @@ _weblog
 .magix.net
 .mobi/?
 .moncler-
+.net,
+.net?
+.net/,
+.net/%
+.net/1-
+.net/1.
+.net/2-
+.net/2.
+.net/3-
+.net/3.
 .net/online
 .net/user
 .nikeshox
@@ -1707,6 +1718,7 @@ _weblog
 /yuwanshe.
 /z.
 /zdev/
+/zozo.
 /zumba-
 /zumba.
 \xa9
@@ -2688,6 +2700,8 @@ bengalsstore
 benzoclin
 benzogenerator
 benzoylmethyl
+berlin moncler
+berlin-moncler
 berlinmoncler
 berracom.ph
 best cyber
@@ -4020,25 +4034,22 @@ com/css
 com/doc
 com/dress
 com/forum
-com/fr/
 com/ftp
 com/htm
-com/image
 com/include
 com/jordans
 com/log
 com/mbt
 com/member
-com/mk/
+com/mk
 com/moncler
 com/official
 com/online
 com/page1
 com/page2
 com/pharma
-com/profile
-com/public
-com/publiek
+com/profil
+com/publi
 com/rest
 com/site
 com/tiffany
@@ -11762,6 +11773,9 @@ vitaminsfor
 vitamix
 vitrine
 vivekkunwar
+vivienne wood
+vivienne-wood
+viviennewood
 vivier ballerine
 vivier ital
 vivier pompe
@@ -12004,11 +12018,20 @@ weste jacken
 weste-jacken
 westejacken
 westwood boot
+westwood necklace
+westwood online
 westwood shop
+westwood store
 westwood-boot
+westwood-necklace
+westwood-online
 westwood-shop
+westwood-store
 westwoodboot
+westwoodnecklace
+westwoodonline
 westwoodshop
+westwoodstore
 wet pant
 wet-pant
 wetpant
