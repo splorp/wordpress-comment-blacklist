@@ -15,6 +15,7 @@
 /is.gd
 /just.as
 /loorg.de
+/onip.it
 /smsh.me
 /snipurl.co
 /stan.to
