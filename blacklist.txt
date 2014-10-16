@@ -2091,7 +2091,10 @@ additionally fly
 additionay
 adenosyl
 adidas adizero
-adidas fotball
+adidas f5
+adidas footbal
+adidas fotbal
+adidas futbol
 adidas jeremy
 adidas js
 adidas origin
@@ -2104,7 +2107,10 @@ adidas uomo
 adidas wing
 adidas-adizero
 adidas-corner
-adidas-fotball
+adidas-f5
+adidas-footbal
+adidas-fotbal
+adidas-futbol
 adidas-jeremy
 adidas-js
 adidas-orig
@@ -2115,6 +2121,10 @@ adidas-slip
 adidas-super
 adidas-uomo
 adidas-wing
+adidasf5
+adidasfootbal
+adidasfotbal
+adidasfutbol
 adidashop
 adidasjeremy
 adidasjs
@@ -3616,7 +3626,9 @@ cheap china
 cheap christian
 cheap denver
 cheap fifa
-cheap football
+cheap footbal
+cheap fotbal
+cheap futbol
 cheap ga
 cheap galaxy
 cheap gold
@@ -3669,7 +3681,9 @@ cheap-christian
 cheap-converse
 cheap-denver
 cheap-fifa
-cheap-football
+cheap-footbal
+cheap-fotbal
+cheap-futbol
 cheap-ga
 cheap-gold
 cheap-gucci
@@ -4408,6 +4422,8 @@ dietsuppl
 differin
 diflucan
 diggs.us
+digi person
+digi-person
 dincob
 dinkypage.com
 dinner soup
@@ -5325,19 +5341,30 @@ gain weight
 gain-weight
 gainweight
 galaxynail
+galerie world
+galerie-world
+galerieworld
 gallergrind
+gallery world
+gallery-world
+galleryworld
 gambling online
 gambling-online
 gamblingonline
+game casino
 game wiki
 game-casino
 game-copy
+game-game
 game-jers
 game-wiki
+gamecasino
 gamecopy
 gamedesigndegree
 gamegame
+games casino
 games-casino
+gamescasino
 gamewiki
 gamma blue
 gamma-blue
@@ -7958,6 +7985,7 @@ moncler coat
 moncler donn
 moncler femme
 moncler firenze
+moncler france
 moncler giub
 moncler handbag
 moncler homme
@@ -8004,6 +8032,7 @@ moncler-coat
 moncler-donn
 moncler-femme
 moncler-firenze
+moncler-france
 moncler-giub
 moncler-handbag
 moncler-homme
@@ -8050,6 +8079,7 @@ monclercoat
 monclerdonn
 monclerfemme
 monclerfirenze
+monclerfrance
 monclergiub
 monclerhandbag
 monclerhomme
