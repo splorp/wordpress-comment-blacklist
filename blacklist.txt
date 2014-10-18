@@ -936,6 +936,7 @@ _weblog
 /abouts-
 /abouts.
 /acai
+/accueil.
 /acidreflux-
 /acidreflux.
 /activity-
@@ -1403,6 +1404,7 @@ _weblog
 /membership.
 /menu-
 /menu.
+/middles.
 /mk-us/
 /mkshop-
 /mkshop.
@@ -1426,7 +1428,7 @@ _weblog
 /mypage.
 /mypage/
 /myspace/
-/n.php
+/n.
 /nailart-
 /nailart.
 /nailart/
@@ -1435,7 +1437,9 @@ _weblog
 /netwerk/
 /network/
 /new.
-/newbalance
+/newbalance-
+/newbalance.
+/newbalance/
 /newports-
 /newports.
 /news.
@@ -1467,7 +1471,7 @@ _weblog
 /occhiali-
 /occhiali.
 /offering/
-/ok.php
+/ok.
 /onip.it
 /online-
 /online.
@@ -1532,14 +1536,14 @@ _weblog
 /pumps-
 /pumps.
 /q.
-/ra.php
+/ra.
 /ray-ban-
 /ray-ban.
 /ray-ban/
 /rayban-
 /rayban.
 /rayban/
-/read.php
+/read.
 /readme.
 /readnews.
 /recap/
@@ -1602,6 +1606,7 @@ _weblog
 /strony-
 /strony/
 /stuff.
+/styles/
 /suggestions-
 /sunglasses-
 /sunglasses.
@@ -2425,6 +2430,10 @@ atomoxetine
 atorvastatin
 attraction marketing
 attraction-marketing
+auspicious repl
+auspicious writ
+auspicious-repl
+auspicious-writ
 australia boot
 australia out
 australia-boot
@@ -2841,6 +2850,7 @@ blog occasion
 blog platform
 blog soon
 blog video
+blog world
 blog_
 blog-beast
 blog-here
@@ -2850,6 +2860,7 @@ blog-soon
 blog-trick
 blog-video
 blog-view
+blog-world
 blog/blog
 blog/comment
 blog/index
@@ -2871,6 +2882,7 @@ blogs/item
 blogs/post
 blogsoon
 blogtitle
+blogworld
 blowjob
 blu-cig
 blucig
@@ -4275,12 +4287,13 @@ dapoxetin
 dapoxetine
 darmowe ogloszenia
 darmowe ogłoszenia
+darmowe prog
 darmowe-ogloszenia
 darmowe-ogłoszenia
-darmowe-programy
+darmowe-prog
 darmoweogloszenia
 darmoweogłoszenia
-darmoweprogramy
+darmoweprog
 darmowy
 darrellbox
 darrellwire
@@ -4290,7 +4303,12 @@ database.co
 datarecovery.co
 datarecoveryhospital
 dataz
+dating direct
+dating guide
+dating site
+dating-direct
 dating-guide
+dating-site
 datingdirect
 datingguide
 datingsite
@@ -4482,9 +4500,9 @@ divulgaemail
 djstool
 djtool
 dlphone
-doable program
-doable-program
-doableprogram
+doable prog
+doable-prog
+doableprog
 dobrucki.co
 dobrucki.pl
 doc/soap
@@ -4937,16 +4955,21 @@ fashioncompan
 fashionistblog
 fashionwomen
 fast cash
+fast loan
 fast-cash
 fast-loan
 fast|quick
 fastcash
 fastidious data
+fastidious repl
 fastidious thought
 fastidious urg
+fastidious writ
 fastidious-data
+fastidious-repl
 fastidious-thought
 fastidious-urg
+fastidious-writ
 fastloan
 fat loss
 fat men
@@ -5199,7 +5222,7 @@ free-offer
 free-online
 free-poker
 free-prescript
-free-program
+free-prog
 free-proxy
 free-web
 free-website
@@ -5225,6 +5248,7 @@ freemovie
 freeoffer
 freeonline
 freepoker
+freeprog
 freeproxy
 freesale
 freesalg
@@ -6735,7 +6759,8 @@ john-varvatos
 joint-pain
 jointpain
 jordan 1
-jordan 11
+jordan 2
+jordan 3
 jordan basket
 jordan brand
 jordan femme
@@ -6750,7 +6775,8 @@ jordan retro
 jordan shoe
 jordan store
 jordan-1
-jordan-11
+jordan-2
+jordan-3
 jordan-basket
 jordan-brand
 jordan-femme
@@ -6765,6 +6791,8 @@ jordan-sale
 jordan-shoe
 jordan-store
 jordan1
+jordan2
+jordan3
 jordanbrand
 jordangamma
 jordangrise
@@ -6839,16 +6867,22 @@ kazino
 kensington parka
 kensington-parka
 kensingtonparka
-key generator
-key-generator
-key-programmer
+key gen
+key prog
+key-gen
+key-prog
 keygen
-keygenerator
+keyless-remote
 keylessremote
+keyprog
 keyword.txt
 keyword1
+keyword2
+keyword3
 keywords.txt
 keywords1
+keywords2
+keywords3
 kfcnfl
 khumbu north
 khumbu-north
@@ -6862,13 +6896,13 @@ kinder moncler
 kinder-moncler
 kindermoncler
 kino online
-kino program
+kino prog
 kino winterthur
 kino-online
-kino-program
+kino-prog
 kino-winterthur
 kinoonline
-kinoprogram
+kinoprog
 kinowinterthur
 kitai
 kitchen-worktop
@@ -7559,6 +7593,7 @@ make-backup
 make-hemp
 make-million
 make-money
+make-the-most
 makebaby
 makeme
 makemoney
@@ -8314,6 +8349,7 @@ my online
 my site;
 my weblog
 my website
+my wweb
 my_site
 my-bebo
 my-blog
@@ -8325,6 +8361,7 @@ my-online
 my-virus
 my-weblog
 my-website
+my-wweb
 mydead-
 mydomain
 myfitness
@@ -9286,8 +9323,10 @@ plumbingservice
 plus-size
 plussize
 plytki
+plz assist
 plz help
 plz respond
+plz-assist
 plz-help
 plz-respond
 poco prezzo
@@ -10495,6 +10534,7 @@ site backup
 site link
 site official
 site officiel
+site platform
 site position
 site post
 site traffic
@@ -10504,6 +10544,7 @@ site-google
 site-link
 site-official
 site-officiel
+site-platform
 site-position
 site-post
 site-traffic
@@ -10603,6 +10644,7 @@ snoring-mouth
 snoringexpert
 snoringmouth
 social-bookmark
+social-media-manage
 socialbookmark
 socialengine
 socialite.
@@ -12357,6 +12399,8 @@ wrinting
 wristpain
 writing-service
 writingservice
+wweb page
+wweb-page
 wwellness
 www.0day
 www.1
