@@ -601,15 +601,18 @@ _weblog
 ?/pag
 ?add
 ?adidas
+?birkin
 ?browse
 ?domain
 ?firma
 ?free
+?hermes
 ?hollister
 ?kat
 ?key
 ?lang
 ?longchamp
+?mbt
 ?mod
 ?nike
 ?p=404
@@ -1445,6 +1448,7 @@ _weblog
 /newbalance-
 /newbalance.
 /newbalance/
+/neweb/
 /newports-
 /newports.
 /news.
@@ -1988,6 +1992,7 @@ _weblog
 ¥ö
 a http
 a lots
+ã¨
 a-cell-phone
 a-lots
 a-powerful-way
@@ -1997,6 +2002,8 @@ a‡
 ä±
 a1.co
 â€
+ã¹
+ã²
 aaa replica
 aaa-replica
 aaabbb
@@ -2427,6 +2434,7 @@ astounding5
 astral-diamond
 aswenr
 at web,
+atempting
 athletica lululemon
 athletica-lululemon
 ationincome
@@ -3110,8 +3118,11 @@ brugte mulberry
 brugte-mulberry
 bruiseviolet
 bruno cabas
+bruno sac
 bruno-cabas
+bruno-sac
 brunocabas
+brunosac
 btn-phone
 btshoe
 buddie
@@ -4237,7 +4248,7 @@ custom+tire
 custom+wheel
 customrim
 customwheel
-cuurently
+cuurent
 cyber monday
 cyber-monday
 cybermonday
@@ -5922,6 +5933,8 @@ handtaschen
 hanging-with-friends
 hangingwithfriends
 haohao
+haraka black
+haraka-black
 hardtool
 hardy jean
 hardy-huppari
@@ -5969,6 +5982,9 @@ headset-2015
 headset2013
 headset2014
 headset2015
+health advis
+health-advis
+healthadvis
 healthhow
 hedge fund
 hedge-fund
@@ -6018,6 +6034,7 @@ herentimberland
 hermes austr
 hermes bag
 hermes belt
+hermes birkin
 hermes buckle
 hermes comp
 hermes couch
@@ -6033,6 +6050,7 @@ hermes wallet
 hermes xl
 hermes-bag
 hermes-belt
+hermes-birkin
 hermes-buckle
 hermes-comp
 hermes-couch
@@ -7726,6 +7744,7 @@ mbt clearance
 mbt exercise
 mbt footwear
 mbt fora
+mbt haraka
 mbt men
 mbt online
 mbt outlet
@@ -7757,6 +7776,7 @@ mbt-clearance
 mbt-exercise
 mbt-footwear
 mbt-fora
+mbt-haraka
 mbt-japan
 mbt-men
 mbt-online
@@ -8212,9 +8232,11 @@ monday-ugg
 mondaydeal
 mondaysale
 mondayugg
+money adder
 money fast
 money prim
 money robot
+money-adder
 money-fast
 money-mak
 money-prim
@@ -9185,6 +9207,9 @@ payday loan
 payday-loan
 payday-on
 payday.co
+payday.in
+payday.ru
+payday.za
 paydayloan
 paydaynote
 paydayon
@@ -9197,24 +9222,42 @@ payments nigeria
 payments-nigeria
 paymentsnigeria
 paymobile
+paypal cash
+paypal money
 paypal-cash
+paypal-money
 paypalcash
+paypalmoney
 payroll-calc
 pbrolme
+pc access
 pc health
+pc stuff
 pc windows
 pc-access
 pc-health
+pc-stuff
 pc-windows
 pcaccess
-pchealthadvis
+pchealth
 pcstuff
+pcwindows
 pen montblanc
 pen-montblanc
+penis adv
+penis enlarg
+penis-adv
+penis-enlarg
 penis.co
+penis.in
+penis.ru
+penis.za
 penisadv
 penisenlarg
 penmontblanc
+penny auction
+penny bid
+penny stock
 penny-auction
 penny-bid
 penny-stock
@@ -9228,6 +9271,10 @@ peopleand
 per-week
 percocet
 perday.co
+perfect vpn
+perfect writing
+perfect-vpn
+perfect-writing
 perfectvpn
 perfectwriting
 permission allow
@@ -9236,6 +9283,7 @@ permonth.co
 personal natural
 personal-experience
 personal-injury
+personal-natural
 personalinjury
 personnalis
 perweek
@@ -10353,6 +10401,8 @@ server 2008
 servicedoc
 services/services
 serwis
+sessuale
+sessuali
 settings1
 settings2
 settings3
@@ -11727,11 +11777,16 @@ user_
 user/profile
 user/view
 userinfo
+usual discuss
+usual-discuss
 usualdiscuss
 usually relative
 usually-relative
 ut.ag/
 utilized use
+utilized-use
+uugg
+uuse
 uustore
 uy/image
 uг
@@ -11744,8 +11799,6 @@ valtrex
 valuable opt-in
 valuable-opt-in
 valueble
-vanessa-bruno-sac
-vanessabrunosac
 vaporizer pen
 vaporizer-pen
 varabella
@@ -12625,7 +12678,7 @@ youtube-down
 youtube-vi
 youtubedown
 youtubevi
-youugg
+youu
 youve
 youyou
 yoyo diet
