@@ -73,6 +73,7 @@ _temp
 _theme
 _title
 _track
+_tumi
 _uptime
 _url
 _util
@@ -604,8 +605,10 @@ _weblog
 ?birkin
 ?browse
 ?domain
+?ducati
 ?firma
 ?free
+?gucci
 ?hermes
 ?hollister
 ?kat
@@ -616,12 +619,14 @@ _weblog
 ?mod
 ?nike
 ?p=404
+?prada
 ?rayban
 ?sexy
 ?shoe
 ?store
 ?timberland
 ?title
+?tumi
 ?twid
 ?user
 ?view
@@ -2000,6 +2005,7 @@ a.pri.l
 ã©
 a‡
 ä±
+ã¬
 a1.co
 â€
 ã¹
@@ -4631,6 +4637,9 @@ dsquaredoutlet
 dsquaredshoe
 dubai-princess
 dubturbo
+ducati tumi
+ducati-tumi
+ducatitumi
 dude.de
 dudes.de
 dummytest
@@ -5779,6 +5788,7 @@ gucci gucci
 gucci guilt
 gucci handbag
 gucci italia
+gucci milano
 gucci online
 gucci out
 gucci sale
@@ -5799,6 +5809,7 @@ gucci-gucci
 gucci-guilt
 gucci-handbag
 gucci-italia
+gucci-milano
 gucci-online
 gucci-out
 gucci-purse
@@ -5827,6 +5838,7 @@ gucciitalia
 gucciiuk
 guccij
 guccikan
+guccimilano
 guccinose
 guccionline
 guccioutlet
@@ -8845,6 +8857,7 @@ online espana
 online españa
 online gambling
 online gry
+online internet
 online journ
 online loan
 online out
@@ -8867,6 +8880,7 @@ online-espana
 online-españa
 online-gambling
 online-gry
+online-internet
 online-invest
 online-journ
 online-kredit
@@ -8901,6 +8915,7 @@ onlinecheap
 onlinedating
 onlinede.
 onlinegambling
+onlineinternet
 onlineinvest
 onlinejp
 onlinekredit
@@ -8966,6 +8981,9 @@ othertype
 otonanocoach
 otoplasty
 otvety
+our link
+our-link
+ourlink
 outelt
 outilclient
 outlet 2013
@@ -9502,6 +9520,7 @@ prada online
 prada out
 prada sac
 prada sport
+prada tshirt
 prada uomo
 prada vest
 prada_
@@ -9519,6 +9538,7 @@ prada-online
 prada-out
 prada-sac
 prada-sport
+prada-tshirt
 prada-uomo
 prada-vest
 pradabag
@@ -10556,6 +10576,9 @@ shoulder-tote
 shouldertote
 show_
 shownews.
+showroom gucci
+showroom-gucci
+showroomgucci
 showtopic
 sɦ
 si.lv.e.r.w.are
@@ -11403,8 +11426,14 @@ truthabout
 try-these
 tubee.tv
 tucholskie
+tumi ducati
+tumi tumi
+tumi-ducati
+tumi-tumi
 tumi1
 tumi2
+tumiducati
+tumitumi
 tummy tuck
 tummy-tuck
 tummytuck
