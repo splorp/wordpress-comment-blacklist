@@ -19,6 +19,7 @@ _entr
 _femme
 _free
 _fuck
+_goose
 _gucci
 _help
 _hermes
@@ -631,6 +632,8 @@ _weblog
 ?twid
 ?user
 ?view
+.-0
+.-1
 ..a
 .()
 .%
@@ -882,6 +885,7 @@ _weblog
 /?new
 /?pid
 /?tag
+/?tid
 /?uid
 /.wd/
 //|
@@ -1050,6 +1054,7 @@ _weblog
 /cache-
 /cache.
 /cache/
+/caindex.
 /camiseta-
 /camiseta.
 /camisetas-
@@ -1318,7 +1323,7 @@ _weblog
 /insurance.
 /iphone-case
 /is.gd
-/iss.php
+/iss.
 /jacket-
 /jacket.
 /jbs-
@@ -1340,7 +1345,6 @@ _weblog
 /js.
 /js/
 /just.
-/just.as
 /kat,
 /kd6
 /kitchenknife-
@@ -1493,6 +1497,7 @@ _weblog
 /onip.it
 /online-
 /online.
+/ooindex.
 /orderpage
 /orgasm
 /other-
@@ -4786,6 +4791,8 @@ erjersey.net
 erolove
 erotic toy
 erotic-toy
+eroticke
+erotické
 erotictoy
 erotik
 erotyczna
@@ -5148,6 +5155,9 @@ flashslideshow
 flats.webeden
 flexglobal
 flik.us
+flirt fever
+flirt-fever
+flirtfever
 flixya
 floridaflee
 floxacin
@@ -5640,6 +5650,7 @@ goose jas
 goose norge
 goose online
 goose out
+goose outlet
 goose paris
 goose parka
 goose pas
@@ -5667,6 +5678,7 @@ goose-jas
 goose-norge
 goose-online
 goose-out
+goose-outlet
 goose-paris
 goose-parka
 goose-pas
@@ -6545,6 +6557,7 @@ internet lifestyle
 internet link
 internet pag
 internet poker
+internet savvy
 internet site
 internet website
 internet-gambling
@@ -6552,12 +6565,14 @@ internet-lifestyle
 internet-link
 internet-market
 internet-poker
+internet-savvy
 internet-site
 internet-website
 internet.in
 internetgambling
 internetowej
 internetpoker
+internetsavvy
 interracial
 intersting
 invest-money
@@ -8996,6 +9011,9 @@ orgazma
 orghttp
 oriflame
 orlistat
+orologi uomo
+orologi-uomo
+orologiuomo
 osobistosci
 osobistości
 other-brand
@@ -10494,6 +10512,7 @@ sexual-moment
 sexualfantas
 sexweb
 sexy.co
+seznamce
 sgames.co
 shanghai-escort
 shanghai-massage
@@ -10619,6 +10638,7 @@ sieg-heil
 siege hack
 siege-hack
 siegheil
+sigarette
 sign-zodiac
 signed-jers
 signifiant
@@ -11280,6 +11300,7 @@ tihnikng
 tiki-index
 till today
 till-today
+timberland bambi
 timberland boot
 timberland catalo
 timberland cheap
@@ -11292,6 +11313,7 @@ timberland schoenen
 timberland shoe
 timberland swede
 timberland uom
+timberland-bambi
 timberland-boot
 timberland-catalo
 timberland-cheap
@@ -11305,6 +11327,7 @@ timberland-swede
 timberland-uom
 timberland1
 timberland2
+timberlandbambi
 timberlandboot
 timberlandcatalo
 timberlandcheap
@@ -12877,6 +12900,8 @@ zero calorie
 zero-calorie
 zerocalorie
 zfymail
+zhavy
+žhavý
 zielona kawa
 zielona-kawa
 zielonakawa
