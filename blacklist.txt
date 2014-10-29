@@ -256,6 +256,8 @@ _weblog
 -drmartens-
 -drmartens.
 -drmartens/
+-duvetica.
+-duvetica/
 -e-guide-
 -easily-
 -ebay
@@ -1804,10 +1806,21 @@ _weblog
 ‡o
 +cheap
 +clearance
++coach
 +handbag
 +jers
++kors
 +louboutin
++mbt
++men
 +outlet
++promo
++registry
++sale
++shoe
++sneak
++vuitton
++women
 <a>
 =blog
 =captcha
@@ -1816,6 +1829,7 @@ _weblog
 =read
 =space
 =thread
+=toms-
 =utf8
 =view
 >.}
@@ -2029,7 +2043,7 @@ abercrombie deutsch
 abercrombie kid
 abercrombie man
 abercrombie men
-abercrombie outlet
+abercrombie out
 abercrombie uomo
 abercrombie wom
 abercrombie-deutsch
@@ -2037,7 +2051,7 @@ abercrombie-ital
 abercrombie-kid
 abercrombie-man
 abercrombie-men
-abercrombie-outlet
+abercrombie-out
 abercrombie-uomo
 abercrombie-wom
 abercrombiee
@@ -2045,7 +2059,7 @@ abercrombieital
 abercrombiekid
 abercrombieman
 abercrombiemen
-abercrombieoutlet
+abercrombieout
 abercrombieuomo
 abercrombiewom
 abilify
@@ -2164,7 +2178,7 @@ adidashop
 adidasjeremy
 adidasjs
 adidasorig
-adidasoutlet
+adidasout
 adidasporsche
 adidasshop
 adidasslip
@@ -2503,8 +2517,9 @@ awesome-blog
 awokehim
 awordpress.
 awsome
-azria outlet
-azria-outlet
+azria out
+azria-out
+azriaout
 azur-lv
 aρ
 aϲ
@@ -2630,15 +2645,15 @@ baratosnewera
 barbour cloth
 barbour coat
 barbour jacke
-barbour outlet
+barbour out
 barbour-cloth
 barbour-coat
 barbour-jacke
-barbour-outlet
+barbour-out
 barbourcloth
 barbourcoat
 barbourjacke
-barbouroutlet
+barbourout
 barcelona sunglass
 barcelona-sunglass
 barn timberland
@@ -2685,7 +2700,7 @@ beats-dre
 beats-monster
 beats-pas
 beats-studio
-beats+by
+beats+
 beatsbest
 beatsbydrdre
 beatsbydre
@@ -2741,7 +2756,7 @@ belstaffespa
 belstaffespaña
 belstaffhandbag
 belstaffleder
-belstaffoutlet
+belstaffout
 belt replica
 belt-replica
 beltreplica
@@ -2871,9 +2886,9 @@ blackjack
 blacklabelj
 blacktight
 blackugg
-blahnik outlet
-blahnik-outlet
-blahnikoutlet
+blahnik out
+blahnik-out
+blahnikout
 blanc pen
 blanc-pen
 blazer-chaussure
@@ -3003,32 +3018,32 @@ bootuk
 borsa chanel
 borsa ital
 borsa moncler
-borsa outlet
+borsa out
 borsa prada
 borsa-chanel
 borsa-ital
 borsa-moncler
-borsa-outlet
+borsa-out
 borsa-prada
 borsachanel
 borsaital
 borsamoncler
-borsaoutlet
+borsaout
 borsaprada
 borse chanel
 borse ital
 borse moncler
-borse outlet
+borse out
 borse prada
 borse-chanel
 borse-ital
 borse-moncler
-borse-outlet
+borse-out
 borse-prada
 borsechanel
 borseital
 borsemoncler
-borseoutlet
+borseout
 borseprada
 boss.de
 botanical slim
@@ -3259,6 +3274,7 @@ butwho
 buy acrylic
 buy ageless
 buy cheap
+buy duvetica
 buy fifa
 buy gig
 buy hermes
@@ -3274,6 +3290,7 @@ buy women
 buy-acrylic
 buy-cheap
 buy-cig
+buy-duvetica
 buy-fifa
 buy-gig
 buy-gucci
@@ -3295,6 +3312,7 @@ buy-women
 buycanadagoose
 buycheap
 buycig
+buyduvetica
 buyhair
 buyhermes
 buying-facebook
@@ -3394,14 +3412,14 @@ canadagoosefactory
 canadagoosejack
 canadagoosemen
 canadagooseonline
-canadagooseoutlet
+canadagooseout
 canadagoosepark
 canadagooses
 canadagooses-factory
 canadagooses-out
 canadagoosesfactory
-canadagoosesoutlet
-canadaoutlet
+canadagoosesout
+canadaout
 canadian hgh
 canadian loan
 canadian-hgh
@@ -3559,7 +3577,7 @@ chanel-spring
 chanelbag
 chanelhand
 chanelonline
-chaneloutlet
+chanelout
 chanelparis
 chanelpurse
 chanelreplica
@@ -3941,11 +3959,11 @@ cigspromo
 cinco jers
 cinco-jers
 cinture gucci
-cinture outlet
+cinture out
 cinture-gucci
-cinture-outlet
+cinture-out
 cinturegucci
-cintureoutlet
+cintureout
 ciproanti
 cl-men
 clans hack
@@ -3965,9 +3983,10 @@ clearance-mbt
 clearance-michael
 clearance-out
 clearance-sale
+clearance+
 clearancembt
 clearancemichael
-clearanceoutlet
+clearanceout
 clearancesale
 clenbuterol
 clentching
@@ -4036,8 +4055,7 @@ coach-sneaker
 coach-store
 coach-wallet
 coach-wristlet
-coach+promo
-coach+sneaker
+coach+
 coach2you
 coachbag
 coachbags
@@ -4053,7 +4071,7 @@ coachkan
 coachmise
 coachniho
 coachninnki
-coachoutlet
+coachout
 coachpromo
 coachshoe
 coachsneaker
@@ -4064,12 +4082,12 @@ coachtokyo
 coachwallet
 coachwristlet
 coachya
-coat outlet
-coat-outlet
-coatoutlet
-coats outlet
-coats-outlet
-coatsoutlet
+coat out
+coat-out
+coatout
+coats out
+coats-out
+coatsout
 code generat
 code xbox
 code-generat
@@ -4269,8 +4287,7 @@ currency-trad
 custom-nike
 custom-rim
 custom-wheel
-custom+tire
-custom+wheel
+custom+
 customrim
 customwheel
 cuurent
@@ -4641,18 +4658,18 @@ drupal-theme
 dsquared giubbotto
 dsquared jean
 dsquared online
-dsquared outlet
+dsquared out
 dsquared shoe
 dsquared uomo
 dsquared-giubbotto
 dsquared-jean
 dsquared-online
-dsquared-outlet
+dsquared-out
 dsquared-shoe
 dsquared-uomo
 dsquared2
 dsquaredonline
-dsquaredoutlet
+dsquaredout
 dsquaredshoe
 dubai-princess
 dubturbo
@@ -4667,10 +4684,10 @@ dunjakke
 durant shoe
 durant-shoe
 duvetica aristeo
-duvetica outlet
+duvetica out
 duvetica-aristeo
-duvetica-outlet
-duveticaoutlet
+duvetica-out
+duveticaout
 dvdrip
 dwi-attorney
 dwiattorney
@@ -4703,7 +4720,7 @@ ebookreadertest
 ebooktest
 ecco out
 ecco-out
-eccooutlet
+eccoout
 ecent yeas
 ed-in-men
 edhardyt
@@ -4937,15 +4954,14 @@ facebookfan
 facebooklike
 facebooku
 facejacke
-faceoutlet
+faceout
 facesale
 facestore
 faceterra
 facevest
 facialhair
-factory outlet
+factory out
 factory-out
-factory-outlet
 facts-about
 factthat
 fagance
@@ -5143,13 +5159,13 @@ firm.ru
 firma.php
 fitch gilet
 fitch grenoble
-fitch outlet
+fitch out
 fitch-gilet
 fitch-grenoble
-fitch-outlet
+fitch-out
 fitchgilet
 fitchgrenoble
-fitchoutlet
+fitchout
 fitflop
 fivestardoll
 fix-credit
@@ -5201,7 +5217,6 @@ for-money
 for-the-most
 for-windows-8
 for-your-need
-for+sale
 for|
 forboots
 forcheap
@@ -5659,7 +5674,6 @@ goose jas
 goose norge
 goose online
 goose out
-goose outlet
 goose paris
 goose parka
 goose pas
@@ -5687,7 +5701,6 @@ goose-jas
 goose-norge
 goose-online
 goose-out
-goose-outlet
 goose-paris
 goose-parka
 goose-pas
@@ -5719,7 +5732,7 @@ goosejakke
 goosejas
 goosenorge
 gooseonline
-gooseoutlet
+gooseout
 gooseparis
 gooseparka
 goosepas
@@ -5881,7 +5894,7 @@ guccikan
 guccimilano
 guccinose
 guccionline
-guccioutlet
+gucciout
 gucciparis
 guccipurse
 guccireplica
@@ -5966,6 +5979,7 @@ handbags-out
 handbags-store
 handbags-wholesale
 handbags-wom
+handbags+
 handbagsale
 handbagsdistrib
 handbagsfor
@@ -6197,7 +6211,7 @@ hogan-scarpe
 hogan-shoe
 hogan-sito
 hogan-timeactive
-hoganoutlet
+hoganout
 hoganshoe
 hogansito
 hogantimeactive
@@ -6588,6 +6602,7 @@ invest-money
 invest-off
 invest.net
 invest/stock
+invest+
 investing/stock
 investing+
 investinwell
@@ -6756,13 +6771,13 @@ japanonline
 japanswarovski
 jassen dames
 jassen neder
-jassen outlet
+jassen out
 jassen-dames
 jassen-neder
-jassen-outlet
+jassen-out
 jassendames
 jassenneder
-jassenoutlet
+jassenout
 jazz-jersey
 jazzjersey
 jcshoe
@@ -6820,6 +6835,7 @@ jerseys-from
 jerseys-soccer
 jerseys-wholesale
 jerseys.us
+jerseys+
 jerseys4you
 jerseyscheap
 jerseysforyou
@@ -6862,7 +6878,6 @@ jordan gamma
 jordan grise
 jordan milano
 jordan out
-jordan outlet
 jordan pas
 jordan retro
 jordan shoe
@@ -6877,7 +6892,7 @@ jordan-fille
 jordan-gamma
 jordan-grise
 jordan-milano
-jordan-outlet
+jordan-out
 jordan-pas
 jordan-retro
 jordan-sale
@@ -6891,16 +6906,16 @@ jordangamma
 jordangrise
 jordankicks
 jordanmilano
-jordanoutlet
+jordanout
 jordanretro
 jordans cheap
-jordans outlet
+jordans out
 jordans-cheap
-jordans-outlet
+jordans-out
 jordansale
 jordanscheap
 jordanshoe
-jordansoutlet
+jordansout
 jordansshoe
 jordanstore
 jordjev
@@ -7056,9 +7071,9 @@ kope-jassen
 kopejassen
 kopfhoerer
 kopia-zapasowa
-kor outlet
-kor-outlet
-koroutlet
+kor out
+kor-out
+korout
 kors austr
 kors bag
 kors brasil
@@ -7076,7 +7091,6 @@ kors laptop
 kors milano
 kors now!
 kors out
-kors outlet
 kors puffer
 kors purse
 kors replica
@@ -7100,19 +7114,18 @@ kors-laptop
 kors-milano
 kors-now
 kors-out
-kors-outlet
 kors-puffer
 kors-purse
 kors-tonne
 kors-vancouver
 kors-watch
+kors+
 korsbag
 korscanad
 korsglass
 korshandbag
 korslaptop
 korsout
-korsoutlet
 korspurse
 korswatch
 kosmetyc
@@ -7504,6 +7517,7 @@ louboutin-shoe
 louboutin-sneaker
 louboutin-solde
 louboutin-stiefel
+louboutin+
 louboutin8
 louboutinbianca
 louboutindiscount
@@ -7524,7 +7538,6 @@ louboutinuk
 louis vitton
 louis vuittone
 louis-vuitton
-louis+vuitton
 louisvuit.
 louisvuitton
 louiswuitton
@@ -7552,10 +7565,10 @@ luckjers
 luggagetote
 lululemon cal
 lululemon loca
-lululemon outlet
+lululemon out
 lululemon-cal
 lululemon-loca
-lululemon-outlet
+lululemon-out
 lululemoncal
 lululemonloca
 lumigan
@@ -7815,7 +7828,7 @@ mbt fora
 mbt haraka
 mbt men
 mbt online
-mbt outlet
+mbt out
 mbt panda
 mbt sale
 mbt sandal
@@ -7848,7 +7861,7 @@ mbt-haraka
 mbt-japan
 mbt-men
 mbt-online
-mbt-outlet
+mbt-out
 mbt-panda
 mbt-sale
 mbt-sandal
@@ -7866,6 +7879,7 @@ mbt-unono
 mbt-uomo
 mbt-vanzari
 mbt-women
+mbt+
 mbtayakkab
 mbtbaridi
 mbtboot
@@ -7878,7 +7892,7 @@ mbtgun
 mbtjapan
 mbtmen
 mbtonline
-mbtoutlet
+mbtout
 mbtpanda
 mbtsale
 mbtsandal
@@ -7978,7 +7992,7 @@ men-handbag
 men-makeup
 men-mbt
 men-nike
-men+shoe
+men+
 menbarbour
 menboost
 mendate
@@ -8010,7 +8024,6 @@ mens-sale
 mens-shoe
 mens-train
 mens-watch
-mens+coach
 mensbarbour
 mensbcbg
 menseekingmen
@@ -8052,8 +8065,8 @@ mi40 review
 mi40-review
 miami escort
 miami-escort
+miamiescort
 michael-kors
-michael+kors
 michaelkors
 mieszkania
 mieszkanie
@@ -8076,7 +8089,6 @@ millen factory
 millen jacke
 millen neder
 millen out
-millen outlet
 millen shop
 millen uk
 millen-au
@@ -8088,14 +8100,13 @@ millen-factory
 millen-jacke
 millen-neder
 millen-out
-millen-outlet
 millen-shop
 millen-uk
 millenclearance
 millencolour
 millenjacke
 millenneder
-millenoutlet
+millenout
 millenshop
 million hit
 million-hit
@@ -8840,15 +8851,15 @@ of herpes
 of internet
 of-herpes
 of-internet
-offer outlet
+offer out
 offer watch
-offer-outlet
+offer-out
 offer-watch
 offer.net
 offer.weebly
 offering free
 offering-free
-offeroutlet
+offerout
 offerta occhia
 offerta ray
 offerta-occhia
@@ -9099,6 +9110,7 @@ outlet.org
 outlet.uk
 outlet.us
 outlet.weebly
+outlet+
 outlet4u
 outlet2013
 outlet2014
@@ -9627,14 +9639,14 @@ pregnantwere
 premarin
 prematureejaculat
 premium key
-premium outlet
+premium out
 premium-account
 premium-cig
 premium-dignity
-premium-outlet
+premium-out
 premiumcig
 premiumdignity
-premiumoutlet
+premiumout
 prentice capital
 prentice-capital
 prenticecapital
@@ -9724,7 +9736,7 @@ promo artist
 promo-artist
 promo-shop
 promo-store
-promo+code
+promo+
 promoartist
 promocja
 promocode
@@ -9773,7 +9785,7 @@ pullover-tshirt
 pullovertshirt
 puma deutsch
 puma ferrari
-puma outlet
+puma out
 puma paidat
 puma schuh
 puma sneak
@@ -9784,7 +9796,7 @@ puma-ferrari
 puma-finland
 puma-lauf
 puma-nice
-puma-outlet
+puma-out
 puma-paidat
 puma-schuh
 puma-sneak
@@ -9795,7 +9807,7 @@ pumaferrari
 pumafinland
 pumalauf
 pumanice
-pumaoutlet
+pumaout
 pumapaidat
 pumaschuh
 pumasneak
@@ -9843,7 +9855,7 @@ queen-out
 queenchiffon
 queenclutch
 queenjp
-queenoutlet
+queenout
 querireda
 quick loans
 quick_
@@ -9887,7 +9899,7 @@ rayban glass
 rayban_
 rayban-cheap
 rayban-glass
-rayban-outlet
+rayban-out
 raybanaviat
 raybanerd
 raybaneye
@@ -9895,7 +9907,7 @@ raybanglass
 raybangroben
 raybangunstig
 raybanlage
-raybanoutlet
+raybanout
 raybanpascher
 raybanpolar
 raybanrb
@@ -9936,6 +9948,7 @@ records.net
 recoverynow
 red christian
 red ugg
+red-bottom-shoe
 red-ugg
 red+bottom+shoe
 redbottomshoe
@@ -9975,9 +9988,7 @@ registry-clean
 registry-fix
 registry-repair
 registry-tool
-registry+clean
-registry+fix
-registry+tool
+registry+
 registryclean
 registryfix
 registryrepair
@@ -10260,6 +10271,7 @@ sale-tokyo
 sale-training
 sale.co.
 sale.weebly
+sale+
 sale=
 sale4u
 salecanad
@@ -10475,9 +10487,9 @@ seovps
 seowith
 seriously entice
 seriously-entice
-serravalle outlet
-serravalle-outlet
-serravalleoutlet
+serravalle out
+serravalle-out
+serravalleout
 serrurier marseille
 serrurier paris
 serrurier-marseille
@@ -10542,33 +10554,55 @@ shed-fat
 shemale.
 shirt cease
 shirt-cease
+shoe america
+shoe cloth
 shoe dior
+shoe flat
+shoe japan
+shoe mbt
 shoe online
 shoe out
 shoe promo
+shoe sale
+shoe sol
+shoe uk
 shoe-america
 shoe-cloth
 shoe-dior
+shoe-flat
 shoe-japan
+shoe-mbt
 shoe-online
 shoe-out
 shoe-promo
+shoe-sale
 shoe-sol
+shoe-uk
 shoe.asp
+shoe.cfm
+shoe.htm
+shoe.php
+shoe+
 shoeamerica
 shoecloth
+shoedior
+shoeflat
 shoejapan
 shoejp.co
+shoembt
 shoeonline
 shoeout
-shoeoutlet
+shoepromo
 shoes 2013
 shoes 2014
 shoes 2015
+shoes america
 shoes dior
+shoes japan
 shoes mbt
 shoes online
 shoes out
+shoes uk
 shoes-2013
 shoes-2014
 shoes-2015
@@ -10581,10 +10615,9 @@ shoes-mbt
 shoes-on-sale
 shoes-online
 shoes-out
+shoes-uk
 shoes.asp
-shoes+for+men
-shoes+men
-shoes+women
+shoes+
 shoes2013
 shoes2014
 shoes2015
@@ -10599,7 +10632,6 @@ shoesol
 shoesonline
 shoesonsale
 shoesout
-shoesoutlet
 shoessale
 shoestore
 shoesuk
@@ -10767,9 +10799,11 @@ snatch your
 sneaker trade
 sneaker-trade
 sneaker.asp
+sneaker+
 sneakerchef
 sneakerjapan
 sneakerjp
+sneakers
 sneakers retail
 sneakers sale
 sneakers trade
@@ -10963,7 +10997,7 @@ store.org
 storegucci
 storejp
 storeonline
-storeoutlet
+storeout
 storm hurricane
 storm-hurricane
 stosunek
@@ -11115,8 +11149,8 @@ takje-care
 tamiflu
 tamoxifen
 tamsulosin
-tanger outlet
-tanger-outlet
+tanger out
+tanger-out
 tapicerowane
 targeted traffic
 targeted visit
@@ -11672,7 +11706,6 @@ uggnoir
 uggofficial
 uggonline
 uggout
-uggoutlet
 uggparis
 uggpas
 uggpascher
@@ -11759,7 +11792,6 @@ uggsnoir
 uggsold
 uggsonline
 uggsout
-uggsoutlet
 uggsparis
 uggspas
 uggspascher
@@ -11797,7 +11829,7 @@ ukloan
 ukmall
 ukmart
 ukonline
-ukoutlet
+ukout
 uksale
 uksonline
 ukugg
@@ -11921,9 +11953,9 @@ vegas-show
 vegas-social
 vendita
 vendorlock
-veneta outlet
-veneta-outlet
-venetaoutlet
+veneta out
+veneta-out
+venetaout
 vengasbong
 venlafaxine
 ventolin inhale
@@ -12161,6 +12193,7 @@ vuitton-usa
 vuitton-wallet
 vuitton-wholesale
 vuitton-women
+vuitton+
 vuitton<
 vuittonbag
 vuittoncig
@@ -12463,6 +12496,7 @@ without-prescript
 withthose
 women bikini
 women-bikini
+women+
 womenbikini
 won webpage
 won-webpage
@@ -12485,7 +12519,7 @@ woolrich field
 woolrich giub
 woolrich jacke
 woolrich john
-woolrich outlet
+woolrich out
 woolrich parka
 woolrich piumini
 woolrich scarf
@@ -12503,7 +12537,7 @@ woolrich-field
 woolrich-giub
 woolrich-jacke
 woolrich-john
-woolrich-outlet
+woolrich-out
 woolrich-parka
 woolrich-piumini
 woolrich-scarf
@@ -12522,7 +12556,7 @@ woolrichfield
 woolrichgiub
 woolrichjacke
 woolrichjohn
-woolrichoutlet
+woolrichout
 woolrichparka
 woolrichpiumini
 woolrichscarf
