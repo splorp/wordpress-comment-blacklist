@@ -83,6 +83,7 @@ See the [license.txt](https://raw.github.com/splorp/wordpress-comment-blacklist/
 
 ## History
 
++ 20141018 — Mentioned by the [Envato Market Blog](http://marketblog.envato.com/) in their [Week in Review](http://marketblog.envato.com/news/week-review-n-10/)
 + 20141013 — Mentioned by [Christina Robinson](http://www.cristinarobinson.net/web/3-ways-combat-spam-wordpress-blog/)
 + 20141011 — 13,000 entries
 + 20140921 — Mentioned by Mike Eden on [My Brain Lounge](http://mybrainlounge.wordpress.com/2014/09/21/how-i-stopped-wordpress-comment-spam/)
