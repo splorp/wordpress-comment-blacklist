@@ -64,6 +64,7 @@ _scarpe
 _select
 _seo
 _serv
+_shop
 _site
 _sjs
 _sneaker
@@ -93,6 +94,7 @@ _weblog
 --stor
 --that
 -(
+-+.
 -=
 -24.
 -abercrombie-
@@ -872,6 +874,7 @@ _weblog
 [move
 [url
 @123
+@gmai.
 @mail-
 @toke.
 @www.
@@ -1291,6 +1294,7 @@ _weblog
 /how-to.
 /howto-
 /howto.
+/html/
 /ii/
 /images-
 /images.
@@ -1323,6 +1327,7 @@ _weblog
 /infopages/
 /install/
 /insurance.
+/ip/
 /iphone-case
 /is.gd
 /iss.
@@ -1777,6 +1782,7 @@ _weblog
 &#21033;
 &#36001;&#24067;
 &#37329;
+&~
 &amp;amp
 &article
 &eþh;
@@ -1804,6 +1810,7 @@ _weblog
 %url%
 ‡a
 ‡o
++.-
 +cheap
 +clearance
 +coach
@@ -2250,6 +2257,18 @@ afflictionnew
 afflictionoffer
 affordable handbag
 affordable-handbag
+afl jers
+afl-jers
+afl-official
+afl-replica
+afl-shop
+afl.asp
+afl.cfm
+afl.htm
+afljers
+aflofficial
+aflreplica
+aflshop
 african-canadian-model
 africancanadianmodel
 ãƒ
@@ -2390,10 +2409,12 @@ artemfrolov
 article content
 article dude
 article plus
+article post
 article-buzz
 article-content
 article-dude
 article-plus
+article-post
 article,i
 article!
 article.co
@@ -3686,6 +3707,7 @@ chaussurespascher
 chaussuressport
 chaussuresupra
 chcoin.co
+cheap afl
 cheap air
 cheap atlanta
 cheap authentic
@@ -3740,6 +3762,7 @@ cheap ugg
 cheap uk
 cheap wed
 cheap-adobe
+cheap-afl
 cheap-atlanta
 cheap-authentic
 cheap-bag
@@ -3801,6 +3824,7 @@ cheap-wed
 cheap+
 cheap<
 cheapadobe
+cheapafl
 cheapatlanta
 cheapauthentic
 cheapbag
@@ -3910,9 +3934,9 @@ chloeoutsale
 chloesunglass
 chloie
 choo sale
-choo-boots
+choo-boot
 choo-sale
-chooboots
+chooboot
 chrismas.asp
 christian-louboutin
 christianlouboutin
@@ -4519,6 +4543,7 @@ directlone
 directt
 dirt-bike
 disclaim.asp
+discount afl
 discount bag
 discount jordan
 discount mbt
@@ -4530,6 +4555,7 @@ discount north
 discount reebok
 discount ugg
 discount-
+discount-afl
 discount-bag
 discount-cig
 discount-jordan
@@ -4541,6 +4567,7 @@ discount-wheel
 discount.co
 discount.co.
 discount.org
+discountafl
 discountbag
 discountcig
 discounted north
@@ -4796,10 +4823,13 @@ epica-watch
 epo doping
 eqbandz
 equipment-manufactur
+era afl
 era mlb
 era nba
+era nfl
 era nhl
 era uk
+era-afl
 era-mlb
 era-nba
 era-nfl
@@ -5218,7 +5248,7 @@ for-the-most
 for-windows-8
 for-your-need
 for|
-forboots
+forboot
 forcheap
 forex
 forfree
@@ -6625,6 +6655,10 @@ ipad2
 ipad3
 ipadrepair
 ipadsuppl
+iphone case
+iphone crack
+iphone repair
+iphone suppl
 iphone-case
 iphone-crack
 iphone-repair
@@ -6634,11 +6668,23 @@ iphone.htm
 iphone/iphone
 iphone2me
 iphone2you
+iphone4 case
+iphone4-case
 iphone4case
+iphone4s case
+iphone4s-case
 iphone4scase
+iphone5 case
+iphone5-case
+iphone5c case
+iphone5c-case
 iphone5case
 iphone5ccase
+iphone5s case
+iphone5s-case
 iphone5scase
+iphone6 case
+iphone6-case
 iphone6case
 iphonecase
 iphonecrack
@@ -7181,7 +7227,7 @@ latvia-stag
 latviastag
 lauren amsterdam
 lauren aus
-lauren belgique
+lauren belg
 lauren cheap
 lauren dame
 lauren factory
@@ -7203,7 +7249,7 @@ lauren uk
 lauren-amsterdam
 lauren-aus
 lauren-austr
-lauren-belgique
+lauren-belg
 lauren-cheap
 lauren-dame
 lauren-factory
@@ -7222,8 +7268,9 @@ lauren-sale
 lauren-short
 lauren-sverige
 lauren-uk
+laurenamsterdam
 laurenaustr
-laurenbelgique
+laurenbelg
 laurencheap
 laurendame
 laurenhome
@@ -10454,7 +10501,19 @@ seeming vexation
 seeming-vexation
 seikomise
 seks.ru
+sell iphone4
+sell iphone5
+sell iphone6
+sell-iphone4
+sell-iphone5
+sell-iphone6
 sell-now
+selling iphone4
+selling iphone5
+selling iphone6
+selling-iphone4
+selling-iphone5
+selling-iphone6
 sellnow
 send earning
 send-earning
@@ -10638,7 +10697,11 @@ shoesuk
 shoesus
 shoeuk
 shoot-tequila
+shop boot
 shop online
+shop_
+shop-afl
+shop-boot
 shop-japan.co
 shop-makeup
 shop-nfl
@@ -10648,7 +10711,7 @@ shop-pin
 shop-shoe
 shop-to-you
 shop.asia
-shopboots
+shopboot
 shopent.ru
 shopg2bags
 shopjapan.co
@@ -10658,11 +10721,17 @@ shopnfl
 shopnow
 shopof
 shoponline
+shopping online
 shopping site
+shopping ugg
+shopping-online
+shopping-site
 shopping-ugg
 shopping+
 shopping24
 shoppingcenter.co
+shoppingonline
+shoppingsite
 shoppingugg
 shopshoe
 shoptoyou
@@ -11977,11 +12046,11 @@ verkoop-timberland
 verkooptimberland
 verres ray
 verres-ray
-versace belgique
+versace belg
 versace japan
-versace-belgique
+versace-belg
 versace-japan
-versacebelgique
+versacebelg
 versacejapan
 versicherungsmakler
 verspiegelte ray
@@ -11990,33 +12059,33 @@ very oone
 very-disconcertingly
 very-oone
 very}
-vest belgique
+vest belg
 vest moncler
-vest-belgique
+vest-belg
 vest-moncler
-vestbelgique
-veste belgique
+vestbelg
+veste belg
 veste moncler
-veste-belgique
+veste-belg
 veste-moncler
-vestebelgique
+vestebelg
 vestemoncler
-vestes belgique
+vestes belg
 vestes moncler
-vestes-belgique
+vestes-belg
 vestes-moncler
-vestesbelgique
+vestesbelg
 vestesmoncler
 vestidos
 vestmoncler
 veston class
 veston-class
 vestonclass
-vests belgique
+vests belg
 vests moncler
-vests-belgique
+vests-belg
 vests-moncler
-vestsbelgique
+vestsbelg
 vestsmoncler
 vetement femme
 vetement-femme
@@ -12509,6 +12578,7 @@ wonderful-blog
 wonderful-post
 wonderful-publish
 woodgundy.us
+woolrich amsterdam
 woolrich bliz
 woolrich cloth
 woolrich coat
@@ -12527,6 +12597,7 @@ woolrich store
 woolrich uomo
 woolrich vest
 woolrich wool
+woolrich-amsterdam
 woolrich-bliz
 woolrich-cloth
 woolrich-coat
@@ -12546,6 +12617,7 @@ woolrich-uomo
 woolrich-vest
 woolrich-wool
 woolrich.arkis
+woolrichamsterdam
 woolrichbliz
 woolrichcloth
 woolrichcoat
@@ -13221,6 +13293,7 @@ zyvox
 ต่างหู
 루이비통
 アークテリクス
+アイホン
 アウトレット
 アディゼロ
 アディダス
@@ -13234,6 +13307,7 @@ zyvox
 ヴィクトリアシークレット
 ヴィトン
 ヴェネタ
+ウェブサイト
 ヴェルサーチ
 エアジョーダン
 エスパドリーユ
@@ -13291,6 +13365,7 @@ zyvox
 ニューバランス
 ネックレス
 ノースフェイス
+のブックマーク
 の値段
 バーバリー
 パタゴニア
