@@ -1,3 +1,4 @@
+_abercrombie
 _account
 _article
 _asics
@@ -47,6 +48,7 @@ _louboutin
 _market
 _misc
 _news
+_nordstrom
 _note
 _oakley
 _occh
@@ -179,6 +181,8 @@ _weblog
 -camiseta/
 -camisetas.
 -camisetas/
+-canada-goose
+-canadagoose
 -car.co
 -car.in
 -casas-en-
@@ -415,6 +419,7 @@ _weblog
 -mlsp/
 -model.co
 -models.co
+-moncler.
 -mortgage-
 -new-car-
 -newports/
@@ -1504,6 +1509,7 @@ _weblog
 /onip.it
 /online-
 /online.
+/online/
 /ooindex.
 /orderpage
 /orgasm
@@ -2053,6 +2059,7 @@ abercrombie men
 abercrombie out
 abercrombie uomo
 abercrombie wom
+abercrombie_
 abercrombie-deutsch
 abercrombie-ital
 abercrombie-kid
@@ -3646,6 +3653,7 @@ chaussure boutique
 chaussure jordan
 chaussure louboutin
 chaussure mbt
+chaussure nike
 chaussure paris
 chaussure supra
 chaussure_
@@ -3657,12 +3665,14 @@ chaussure-homme
 chaussure-jordan
 chaussure-louboutin
 chaussure-mbt
+chaussure-nike
 chaussure-paris
 chaussure-puma
 chaussure-supra
 chaussurebotte
 chaussureboutique
 chaussurembt
+chaussurenike
 chaussureparis
 chaussures boutique
 chaussures christian
@@ -3671,6 +3681,7 @@ chaussures femme
 chaussures jordan
 chaussures louboutin
 chaussures mbt
+chaussures nike
 chaussures paris
 chaussures pascher
 chaussures salomon
@@ -3689,6 +3700,7 @@ chaussures-homme
 chaussures-jordan
 chaussures-louboutin
 chaussures-mbt
+chaussures-nike
 chaussures-paris
 chaussures-pascher
 chaussures-puma
@@ -3702,6 +3714,7 @@ chaussuresfemme
 chaussuresfr
 chaussureslouboutin
 chaussuresmbt
+chaussuresnike
 chaussuresparis
 chaussurespascher
 chaussuressport
@@ -5119,7 +5132,6 @@ femme-couche
 femme-sac
 femmechaussure
 femmecouche
-femmes-canada-goose
 femmesac
 femmescanadagoose
 fendi belt
@@ -6729,6 +6741,7 @@ item.asp
 item.cfm
 itemnotfound
 itstree
+iwant2
 iρ
 iг
 iԁ
@@ -7694,7 +7707,6 @@ magasin chemise
 magasin hollister
 magasin robe
 magasin-asics
-magasin-canada-goose
 magasin-chemise
 magasin-hollister
 magasin-robe
@@ -8769,6 +8781,10 @@ nocache
 nocredit
 nohassle
 nolvadex
+nordstrom moncler
+nordstrom_
+nordstrom-moncler
+nordstrommoncler
 norge canad
 norge-canad
 norgecanad
@@ -9630,6 +9646,7 @@ pp-class
 prada bag
 prada cell
 prada cheap
+prada clutch
 prada dany
 prada design
 prada dress
@@ -9648,6 +9665,7 @@ prada_
 prada-bag
 prada-cell
 prada-cheap
+prada-clutch
 prada-dany
 prada-design
 prada-dress
@@ -9665,6 +9683,7 @@ prada-vest
 pradabag
 pradacell
 pradacheap
+pradaclutch
 pradadany
 pradadesign
 pradadress
@@ -12894,8 +12913,10 @@ youth jers
 youth-jers
 youthjers
 youtube down
+youtube sensation
 youtube vi
 youtube-down
+youtube-sensation
 youtube-vi
 youtubedown
 youtubevi
