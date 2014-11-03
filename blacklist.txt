@@ -1620,6 +1620,7 @@ _weblog
 /sitemap.
 /siteold/
 /smsh.me
+/sn.im
 /snapback-
 /snapback.
 /snipurl.co

@@ -17,6 +17,7 @@
 /loorg.de
 /onip.it
 /smsh.me
+/sn.im
 /snipurl.co
 /stan.to
 /tiny.cc
