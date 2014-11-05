@@ -18,7 +18,7 @@ Repeat this procedure each time you want to install an updated version of the bl
 
 If you prefer a more hands-off approach, there are several plugins that will check whether the [master blacklist](https://raw.github.com/splorp/wordpress-comment-blacklist/master/blacklist.txt) has changed and then automatically install the most recent version. How handy is that?
 
-+ [Blacklist Auto Updater](https://github.com/sergejmueller/wp-blacklist-updater) by [Sergej Müller](https://github.com/sergejmueller)
++ [Blacklist Updater](https://wordpress.org/plugins/blacklist-updater/) by [Sergej Müller](https://github.com/sergejmueller)
 + [Comment Blacklist Manager](http://wordpress.org/plugins/comment-blacklist-manager/) by [Andrew Norcross](https://github.com/norcross) 
 + [WordPress Simple Firewall](http://wordpress.org/plugins/wp-simple-firewall/) by [iControlWP](http://www.icontrolwp.com/)
 
