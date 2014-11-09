@@ -71,7 +71,9 @@ For example, in an earlier version of the blacklist the keywords `/4.` and `/5.`
 
 Thanks to [Mika Epstein](https://github.com/ipstenu), [Paul Goodchild](https://twitter.com/PaulGoodchild), [Sergej Müller](https://github.com/sergejmueller), [Andrew Norcross](https://github.com/norcross), [Claudio Schwarz](https://github.com/purzlbaum), and [Volker Schmidt](https://github.com/volkerjschmidt) for their various contributions, suggestions, and reports from the field.
 
-Finally, [Chris Burton](https://twitter.com/chrisburton/status/431581759277633536) deserves a virtual fist bump for the above tweet.
+Likewise, [Chris Burton](https://twitter.com/chrisburton/status/431581759277633536) deserves a virtual fist bump for the above tweet.
+
+I’d also like to acknowledge [Christina Robinson](http://www.cristinarobinson.net/web/3-ways-combat-spam-wordpress-blog/), [My Brain Lounge](http://mybrainlounge.wordpress.com/2014/09/21/how-i-stopped-wordpress-comment-spam/), [Roger Williams Media](http://rogerwilliamsmedia.com/2014/09/forget-akismet-just-add-github-comment-blacklist/), [eComStyle.de](http://ecomstyle.de/blog/easycontact-einfachere-kontaktaufnahme-zeitgemaesser-spamschutz/), [FliegenToeter](http://fliegentoeter.eu/wordpress-abspecken-cpu-nutzung-minimieren-server-entlasten-ladezeit-verkuerzen/), [Thomas Leister](https://thomas-leister.de/internet/wordpress-eigene-kommentar-blacklist-tunen/), [WPCoder](http://cup.wpcoder.de/wordpress-antispam-guide/), [Nguyễn Đình Quân](http://www.narga.net/stop-wordpress-spam-comments-trackbracks/), [WP Daily](http://torquemag.io/comment-blacklist-gist/), and the [Envato Market Blog](http://marketblog.envato.com/news/week-review-n-10/) for mentioning and linking to this project.
 
 ## License
 
@@ -83,25 +85,17 @@ See the [license.txt](https://raw.github.com/splorp/wordpress-comment-blacklist/
 
 ## History
 
-+ 20141018 — Mentioned by the [Envato Market Blog](http://marketblog.envato.com/) in their [Week in Review](http://marketblog.envato.com/news/week-review-n-10/)
-+ 20141013 — Mentioned by [Christina Robinson](http://www.cristinarobinson.net/web/3-ways-combat-spam-wordpress-blog/)
 + 20141011 — 13,000 entries
-+ 20140921 — Mentioned by Mike Eden on [My Brain Lounge](http://mybrainlounge.wordpress.com/2014/09/21/how-i-stopped-wordpress-comment-spam/)
 + 20140911 — Added to the [Combating Comment Spam](http://codex.wordpress.org/Combating_Comment_Spam) section of the WordPress [Codex](http://codex.wordpress.org/)
-+ 20140904 — Mentioned by [Roger Williams Media](http://rogerwilliamsmedia.com/2014/09/forget-akismet-just-add-github-comment-blacklist/)
 + 20140826 — 12,000 entries
-+ 20140825 — Mentioned by [eComStyle.de](http://ecomstyle.de/) as part of their [WordPress theme documentation](http://ecomstyle.de/blog/easycontact-einfachere-kontaktaufnahme-zeitgemaesser-spamschutz/)
-+ 20140707 — Mentioned by [FliegenToeter](http://fliegentoeter.eu/wordpress-abspecken-cpu-nutzung-minimieren-server-entlasten-ladezeit-verkuerzen/)
 + 20140624 — 11,000 entries
-+ 20140527 — [WordPress Simple Firewall](http://wordpress.org/plugins/wp-simple-firewall/) plugin adds “human spam comment filtering” support
 + 20140527 — Added [MIT License](http://opensource.org/licenses/MIT)
-+ 20140523 — Mentioned by [Thomas Leister](https://github.com/ThomasLeister) on [thomas-leister.de](https://thomas-leister.de/internet/wordpress-eigene-kommentar-blacklist-tunen/)
-+ 20140501 — Andrew Norcross’ [Comment Blacklist Manager](https://github.com/sergejmueller/wp-blacklist-updater) plugin released
-+ 20140501 — Sergej Müller’s [Blacklist Updater](https://wordpress.org/plugins/blacklist-updater/) plugin released
++ 20140527 — [WordPress Simple Firewall](http://wordpress.org/plugins/wp-simple-firewall/) plugin adds “human spam comment filtering” support
 + 20140508 — 10,000 entries
++ 20140501 — Sergej Müller’s [Blacklist Updater](https://wordpress.org/plugins/blacklist-updater/) plugin released
++ 20140501 — Andrew Norcross’ [Comment Blacklist Manager](http://wordpress.org/plugins/comment-blacklist-manager/) plugin released
 + 20140324 — 9,000 entries
-+ 20140130 — Mentioned by [Nguyễn Đình Quân](https://github.com/narga) on [Narga](http://www.narga.net/stop-wordpress-spam-comments-trackbracks/)
-+ 20130206 — 8,000 entries
++ 20140206 — 8,000 entries
 + 20131215 — 7,000 entries
 + 20131122 — Fixed bug that affected most [user agent strings](https://github.com/splorp/wordpress-comment-blacklist/commit/fa4560517df88b628aeb19ce2c838c37ebfafb29)
 + 20131105 — Migrated project to [GitHub](https://github.com/splorp/wordpress-comment-blacklist)
@@ -110,7 +104,6 @@ See the [license.txt](https://raw.github.com/splorp/wordpress-comment-blacklist/
 + 20130715 — 4,000 entries
 + 20130226 — 3,000 entries
 + 20130130 — Added documentation
-+ 20130130 — Mentioned by [John Saddington](https://github.com/saddington) on [WP Daily](http://torquemag.io/comment-blacklist-gist/)
 + 20120529 — 2,000 entries
 + 20120217 — 1,000 entries
 + 20111122 — Released as a [Gist](https://gist.github.com/splorp/1385930) with just over 140 entries
