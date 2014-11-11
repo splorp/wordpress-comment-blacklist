@@ -12,11 +12,14 @@ _bord
 _build
 _campaign
 _cheap
+_converse
 _coup
 _data
 _dior
 _discount
+_dolce
 _downtime
+_drmarten
 _e/
 _emerg
 _entr
@@ -24,7 +27,9 @@ _femme
 _free
 _fuck
 _furla
+_gabbana
 _genuine
+_giub
 _goose
 _gucci
 _help
@@ -46,6 +51,7 @@ _kit
 _lacoste
 _lancel
 _lauren
+_lebron
 _link
 _list
 _load
@@ -88,9 +94,11 @@ _solde
 _spade
 _store
 _strat
+_swarovski
 _tape
 _temp
 _theme
+_timberland
 _title
 _track
 _tumi
@@ -277,6 +285,9 @@ _weblog
 -download/
 -dre.
 -dre/
+-drmarten-
+-drmarten.
+-drmarten/
 -drmartens-
 -drmartens.
 -drmartens/
@@ -1235,6 +1246,7 @@ _weblog
 /doudoun.
 /doudoune.
 /download.
+/drmarten-
 /drmartens-
 /drug
 /dsquared-
@@ -1582,6 +1594,7 @@ _weblog
 /post:
 /postinfo-
 /postinfo.
+/posty/
 /pozew
 /prada-
 /prada.
@@ -1802,6 +1815,7 @@ _weblog
 /yuwanshe.
 /z.
 /zdev/
+/zdjecia/
 /zozo.
 /zumba-
 /zumba.
@@ -1996,6 +2010,8 @@ _weblog
 49ers-online
 49ersjers
 49ersonline
+49折
+50折
 100% legit
 100mg.
 111.
@@ -2750,6 +2766,7 @@ bazargorj
 bazookaapp
 bɑ
 bbombr
+bbrand
 bcbg dress
 bcbg-dress
 bddv
@@ -3793,6 +3810,7 @@ cheap hotel
 cheap iphone
 cheap jers
 cheap jordan
+cheap lebron
 cheap longchamp
 cheap louboutin
 cheap louis
@@ -3821,6 +3839,7 @@ cheap travel
 cheap ugg
 cheap uk
 cheap wed
+cheap_
 cheap-adobe
 cheap-afl
 cheap-atlanta
@@ -3852,6 +3871,7 @@ cheap-jacke
 cheap-jers
 cheap-jordan
 cheap-kobe
+cheap-lebron
 cheap-louboutin
 cheap-mbt
 cheap-michael
@@ -3914,6 +3934,7 @@ cheapjers
 cheapjorda
 cheapjordan
 cheapkobe
+cheaplebron
 cheaplouboutin
 cheaplouis
 cheapmbt
@@ -4277,6 +4298,7 @@ contactus/contact
 control diet
 control-diet
 controldiet
+converse_
 conversejapan
 conversejp
 conydot
@@ -4745,6 +4767,16 @@ dressonline
 dresssale
 dressshop
 drivewayservice
+drmarten japan
+drmarten jp
+drmarten-japan
+drmarten-jp
+drmartenjapan
+drmartenjp
+drmartens japan
+drmartens jp
+drmartens-japan
+drmartens-jp
 drmartensjapan
 drmartensjp
 drug-cheap
@@ -4753,22 +4785,25 @@ drugs-cheap
 drugscheap
 drupal-temp
 drupal-theme
-dsquared giubbotto
+dsquared giub
 dsquared jean
 dsquared online
 dsquared out
 dsquared shoe
 dsquared uomo
-dsquared-giubbotto
+dsquared-giub
 dsquared-jean
 dsquared-online
 dsquared-out
 dsquared-shoe
 dsquared-uomo
 dsquared2
+dsquaredgiub
+dsquaredjean
 dsquaredonline
 dsquaredout
 dsquaredshoe
+dsquareduomo
 dubai-princess
 dubturbo
 ducati tumi
@@ -5326,6 +5361,8 @@ forgucci
 forhandlere
 forjp.co
 formaldress
+formidable activity
+formidable-activity
 formula replica
 formula-replica
 forsale-japan
@@ -5689,16 +5726,32 @@ girls-day-dress
 girls-escort
 girlsdaydress
 girlsescort
+giubbotti dsquared
+giubbotti invernali
 giubbotti moncler
+giubbotti timberland
 giubbotti woolrich
+giubbotti-dsquared
+giubbotti-invernali
 giubbotti-moncler
+giubbotti-timberland
 giubbotti-woolrich
+giubbottidsquared
 giubbottimoncler
+giubbottitimberland
+giubbottiwoolrich
 giubbotto dsquared
 giubbotto moncler
+giubbotto timberland
+giubbotto woolrich
 giubbotto-dsquared
 giubbotto-moncler
+giubbotto-timberland
+giubbotto-woolrich
+giubbottodsquared
 giubbottomoncler
+giubbottotimberland
+giubbottowoolrich
 giuseppezanotti
 gkhk
 glamorousbag
@@ -6677,6 +6730,8 @@ inspired hand
 inspired-hand
 inspiredhand
 instafab
+instagram in
+instagram-in
 install-virtual
 installvirtual
 instant loan
@@ -6899,11 +6954,37 @@ jacobspurse
 jagowho
 jam jordan
 jam-jordan
+japan converse
+japan dr
+japan marc
+japan monster
+japan mont
+japan new
+japan online
+japan swarovski
 japan-1
+japan-converse
+japan-dr
+japan-marc
+japan-monster
+japan-mont
+japan-new
+japan-online
+japan-swarovski
 japanconverse
-japandrmartens
+japandrmarten
+japanese converse
+japanese dr
+japanese marc
+japanese mont
+japanese swarovski
+japanese-converse
+japanese-dr
+japanese-marc
+japanese-mont
+japanese-swarovski
 japaneseconverse
-japanesedrmartens
+japanesedrmarten
 japanesemarcjacobs
 japanesemontblanc
 japaneseswarovski
@@ -7412,6 +7493,7 @@ learningxchange
 learnpianohere
 leather-levi
 leatherlevi
+lebron_
 lebronshoe
 lebronxshoe
 led_display
@@ -7590,6 +7672,7 @@ longchamp aus
 longchamp bag
 longchamp hand
 longchamp online
+longchamp outlet
 longchamp pas
 longchamp pliage
 longchamp purse
@@ -7604,6 +7687,7 @@ longchamp-2015
 longchamp-aus
 longchamp-hand
 longchamp-online
+longchamp-outlet
 longchamp-pliage
 longchamp-purse
 longchamp-shop
@@ -7622,6 +7706,7 @@ longchamplondon
 longchampoffici
 longchamponline
 longchampout
+longchampoutlet
 longchampp
 longchamppurse
 longchampq
@@ -8319,6 +8404,7 @@ mlsp suit
 mlsp-suit
 mlspweapon
 mmcenter.in
+mmy page
 mobi/news
 mobilabonnementer
 mobile sim
@@ -9859,9 +9945,9 @@ pressrelease.net
 pretty worth
 pretty-worth
 previcox
-prezzi giubbotti
-prezzi-giubbotti
-prezzigiubbotti
+prezzi giub
+prezzi-giub
+prezzigiub
 price-of-gold
 pricetobook
 priligy
@@ -11421,6 +11507,7 @@ sverige online
 sverige-online
 sverigeonline
 swarovski
+swarovski_
 swarovskijapan
 swarovskijp
 swiss-replica
@@ -11669,6 +11756,7 @@ timberland bambi
 timberland boot
 timberland catalo
 timberland cheap
+timberland giub
 timberland herr
 timberland laarzen
 timberland out
@@ -11682,6 +11770,7 @@ timberland-bambi
 timberland-boot
 timberland-catalo
 timberland-cheap
+timberland-giub
 timberland-herr
 timberland-laarzen
 timberland-out
@@ -11696,6 +11785,7 @@ timberlandbambi
 timberlandboot
 timberlandcatalo
 timberlandcheap
+timberlandgiub
 timberlandherr
 timberlandinneder
 timberlandlaarzen
@@ -11923,6 +12013,7 @@ ugg shear
 ugg shoe
 ugg short
 ugg silver
+ugg slipper
 ugg sold
 ugg støvler
 ugg style
@@ -11970,6 +12061,7 @@ ugg-shoe
 ugg-short
 ugg-silver
 ugg-site
+ugg-slipper
 ugg-sold
 ugg-støvler
 ugg-style
@@ -12098,6 +12190,7 @@ uggshot
 uggsilver
 uggsite
 uggskopen
+uggslipper
 uggslove
 uggsmocha
 uggsneder
@@ -13669,6 +13762,7 @@ zyvox
 割引
 化粧
 医師
+博主
 博彩
 危機
 取得
