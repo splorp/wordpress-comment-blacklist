@@ -1742,6 +1742,7 @@ _weblog
 /timberland-
 /timberland.
 /tiny.cc
+/tinyls.net
 /tinyurl.co
 /title,
 /tmp/

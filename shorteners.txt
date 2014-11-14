@@ -21,6 +21,7 @@
 /snipurl.co
 /stan.to
 /tiny.cc
+/tinyls.net
 /tinyurl.co
 /to.ly
 /tr.im
