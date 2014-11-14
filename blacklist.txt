@@ -12,8 +12,10 @@ _bord
 _build
 _campaign
 _cheap
+_click
 _converse
 _coup
+_cpa
 _data
 _dior
 _discount
@@ -23,6 +25,8 @@ _drmarten
 _e/
 _emerg
 _entr
+_event
+_fake
 _femme
 _free
 _fuck
@@ -74,6 +78,7 @@ _outlet
 _party
 _porn
 _post
+_ppv
 _prada
 _prof
 _rayban
@@ -306,6 +311,8 @@ _weblog
 -escorts/
 -essay.
 -essay/
+-event.
+-event/
 -executive.
 -executive/
 -executives.
@@ -650,7 +657,7 @@ _weblog
 ?free
 ?gucci
 ?hermes
-?hollister
+?hollis
 ?kat
 ?key
 ?lang
@@ -664,7 +671,7 @@ _weblog
 ?sexy
 ?shoe
 ?store
-?timberland
+?timber
 ?title
 ?tumi
 ?twid
@@ -1267,6 +1274,8 @@ _weblog
 /escort.
 /escorts-
 /escorts.
+/event-
+/event.
 /executive-
 /extreme-
 /fashion-
@@ -1563,6 +1572,7 @@ _weblog
 /online.
 /online/
 /ooindex.
+/open.
 /orderpage
 /orgasm
 /other-
@@ -1645,7 +1655,6 @@ _weblog
 /res/
 /ri.ms
 /rozwod
-/rss.xml
 /ru/news/
 /sac-
 /sac.
@@ -1678,6 +1687,10 @@ _weblog
 /snapback-
 /snapback.
 /snipurl.co
+/snowboot-
+/snowboot.
+/snowboots-
+/snowboots.
 /social-media/
 /soft/
 /soma-
@@ -1808,6 +1821,7 @@ _weblog
 /xchange
 /xe/
 /xml/
+/xmlrpc/
 /ya.
 /yabb
 /yours.
@@ -2815,6 +2829,8 @@ before-purchas
 behaviour-driven
 behind-knee
 behindknee
+beijing escort
+beijing massage
 beijing-escort
 beijing-massage
 beijingescort
@@ -4102,6 +4118,7 @@ click2
 click4
 clickbank
 clickforu
+clicksor
 clientarea
 climacool
 cliquant
@@ -4363,6 +4380,18 @@ couture-avec
 coverages
 cozy-ugg
 cozyugg
+cpa campaign
+cpa click
+cpa ppv
+cpa traffic
+cpa-campaign
+cpa-click
+cpa-ppv
+cpa-traffic
+cpacampaign
+cpaclick
+cpappv
+cpatraffic
 cracked-pro
 crackedpro
 crane-hire
@@ -5115,18 +5144,21 @@ fake mirror
 fake oakley
 fake rayban
 fake sunglass
+fake ugg
 fake-coach
 fake-converse
 fake-mirror
 fake-oakley
 fake-rayban
 fake-sunglass
+fake-ugg
 fakecoach
 fakeconverse
 fakeoakley
 fakeok
 fakerayban
 fakesunglass
+fakeugg
 falsedoc
 falsepassport
 fanatic shop
@@ -6448,11 +6480,13 @@ hollister-sverige
 hollister-swim
 hollister-tiendas
 hollister-uk
+hollisterberlin
 hollisterbolsos
 hollisterbrasil
 hollisterdeutsch
 hollistergr
 hollisterjacke
+hollisterjean
 hollisterjob
 hollisterlogo
 hollistermilano
@@ -6461,8 +6495,10 @@ hollisteronline
 hollisteroriginal
 hollisterpant
 hollisterparis
+hollisterpas
 hollisterpolo
 hollisterprix
+hollisterroma
 hollistersale
 hollistersandal
 hollistershirt
@@ -6693,10 +6729,12 @@ informasjon.htm
 informatik
 informatique enligne
 informatique-enligne
+informative article
 informative blog
 informative post
 informative site
 informative web
+informative-article
 informative-blog
 informative-site
 informative-web
@@ -7961,11 +7999,14 @@ male-enhance
 maleenhance
 malepower
 malwareremov
+man cheap
+man-cheap
 manage_
 manage/new
 management-software
 manche longue
 manche-longue
+mancheap
 manchesterhotel
 manicshop
 manner puma
@@ -8232,12 +8273,14 @@ membership.php
 membershiphack
 men barbour
 men boost
+men cheap
 men hand
 men makeup
 men mbt
 men nike
 men-barbour
 men-boost
+men-cheap
 men-date
 men-hand
 men-makeup
@@ -8246,6 +8289,7 @@ men-nike
 men+
 menbarbour
 menboost
+mencheap
 mendate
 menmbt
 mennike
@@ -9351,6 +9395,7 @@ outlet offer
 outlet online
 outlet shoe
 outlet store
+outlet ugg
 outlet uk
 outlet usa
 outlet vancouver
@@ -9377,6 +9422,7 @@ outlet-sale
 outlet-shoe
 outlet-shop
 outlet-store
+outlet-ugg
 outlet-uk
 outlet-usa
 outlet-vancouver
@@ -9422,6 +9468,7 @@ outletshop
 outletsonline
 outletssale
 outletstore
+outletugg
 outletuk
 outletusa
 outletweb
@@ -9658,6 +9705,9 @@ petencies
 petroleum kohlenwasserstoff
 petroleum-kohlenwasserstoff
 petroleumkohlenwasserstoff
+peuterey roma
+peuterey-roma
+peutereyroma
 pflegeversicherung
 pflegezusatzversicherung
 pg/blog
@@ -9858,6 +9908,18 @@ pozycjonowanie
 pozyczka
 pozyczki
 pp-class
+ppv campaign
+ppv click
+ppv cpa
+ppv traffic
+ppv-campaign
+ppv-click
+ppv-cpa
+ppv-traffic
+ppvcampaign
+ppvclick
+ppvcpa
+ppvtraffic
 prada bag
 prada cell
 prada cheap
@@ -10474,15 +10536,21 @@ rugs-fur
 rugsfur
 ruhttp
 run chaussure
+run cpa
+run ppv
 run shoe
 run sneak
 run-chaussure
+run-cpa
+run-ppv
 run-shoe
 run-sneak
 runchaussure
+runcpa
 running sneak
 running-sneak
 runningsneak
+runppv
 runshoe
 runsneak
 rusztowania
@@ -11107,7 +11175,10 @@ sitemap
 siteofficiel
 sites24
 sito ufficiale
+sito ugg
 sito-ufficiale
+sito-ugg
+sitougg
 siutpd
 sizegenetic
 skapa grupp
@@ -11319,6 +11390,8 @@ standingof
 star-item
 starsunglass
 state-of-the-art
+statement state
+statement-state
 statuscode
 stazhirovka
 steelersfan
@@ -11756,6 +11829,7 @@ timberland bambi
 timberland boot
 timberland catalo
 timberland cheap
+timberland earth
 timberland giub
 timberland herr
 timberland laarzen
@@ -11766,10 +11840,12 @@ timberland schoenen
 timberland shoe
 timberland swede
 timberland uom
+timberland villa
 timberland-bambi
 timberland-boot
 timberland-catalo
 timberland-cheap
+timberland-earth
 timberland-giub
 timberland-herr
 timberland-laarzen
@@ -11779,12 +11855,14 @@ timberland-saldi
 timberland-schoenen
 timberland-swede
 timberland-uom
+timberland-villa
 timberland1
 timberland2
 timberlandbambi
 timberlandboot
 timberlandcatalo
 timberlandcheap
+timberlandearth
 timberlandgiub
 timberlandherr
 timberlandinneder
@@ -11795,6 +11873,7 @@ timberlandsaldi
 timberlandschoenen
 timberlandswede
 timberlanduom
+timberlandvilla
 time-synchronisation.co
 times(with
 timesamsonss
@@ -11908,6 +11987,7 @@ trackback-url
 tracking-a-phone
 trade_your
 trading-method
+trafficvance
 trafficz
 trailer sale
 trailer-sale
@@ -12001,6 +12081,7 @@ ugg gunstig
 ugg günstig
 ugg hobo
 ugg hot
+ugg italia
 ugg ken
 ugg mocha
 ugg noir
@@ -12046,6 +12127,7 @@ ugg-gunstig
 ugg-günstig
 ugg-hobo
 ugg-hot
+ugg-italia
 ugg-ken
 ugg-mocha
 ugg-noir
@@ -12104,6 +12186,7 @@ ugggunstig
 ugggünstig
 ugghobo
 ugghot
+uggitalia
 uggken
 ugglove
 uggmocha
@@ -13036,7 +13119,7 @@ www.barato
 www.best-
 www.brand
 www.buy
-www.canadagoose
+www.canadagoose-
 www.cartier-
 www.casino
 www.cellphone
@@ -13056,6 +13139,7 @@ www.everysock
 www.everytight
 www.fake
 www.female
+www.filmy-
 www.filmy.
 www.financ
 www.forum
@@ -13077,7 +13161,7 @@ www.gambl
 www.game
 www.gift
 www.goosepa
-www.gucci
+www.gucci-
 www.handbag
 www.hermes
 www.herveleger
@@ -13086,19 +13170,20 @@ www.howmuch
 www.information
 www.insta
 www.instyler
-www.isabelmarant
+www.isabel-
 www.kobe
 www.lastminute
 www.lebron
 www.link
 www.lolita
-www.louboutin
+www.louboutin-
 www.love
 www.lv
+www.marant-
 www.mcm
-www.moncler
-www.mulberry
-www.newbalance
+www.moncler-
+www.mulberry-
+www.newbalance-
 www.nike-
 www.numberone
 www.oakleyin
@@ -13145,6 +13230,7 @@ wywóz
 wо
 wһ
 wօ
+x adidas
 x portant
 x stream
 x-adidas
@@ -13169,25 +13255,33 @@ xtra-clean
 xwebsite
 xx.co
 xx.in
+xx.ru
+xx.za
 xxx
 xyngular
 y http
 yahoo spy
 yahoo-spy
+yahoospy
 yanswer
 yearold
 ynimb
 yo-dick
 yo-penis
 yoigucci
+you gucci
 you ssay
+you ugg
+you-gucci
 you-ssay
 you-ugg
 you-want-it
 you,i
+yougucci
 youll
 young porn
 young-porn
+youngporn
 your blog
 your penis
 your submit
@@ -13237,8 +13331,10 @@ youtube-down
 youtube-sensation
 youtube-vi
 youtubedown
+youtubesensation
 youtubevi
 youu
+youugg
 youve
 youyou
 yoyo diet
@@ -13342,6 +13438,7 @@ zapatillasmbt
 zapato dc
 zapato_
 zapato-dc
+zapato-de-new
 zapatodc
 zapatodenewbalance
 zapatos asics
@@ -13378,6 +13475,8 @@ zimmerman fund
 zimmerman hedge
 zimmerman-fund
 zimmerman-hedge
+zimmermanfund
+zimmermanhedge
 zimovane
 zinger baseball
 zinger bat
@@ -13636,6 +13735,7 @@ zyvox
 アウトレット
 アディゼロ
 アディダス
+アバクロ
 アメリカン エキスプレス
 アメリカン·エキスプレス
 アメリカンーエキスプレス
