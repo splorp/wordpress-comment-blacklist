@@ -1,6 +1,7 @@
 _abercrombie
 _account
 _adidas
+_advantage
 _alviero
 _article
 _asics
@@ -8,6 +9,7 @@ _babe
 _backup
 _benefit
 _bijoux
+_bitcoin
 _blog
 _bord
 _build
@@ -24,8 +26,10 @@ _cpa
 _data
 _dior
 _discount
+_display
 _doc
 _dolce
+_download
 _downtime
 _drmarten
 _duvetica
@@ -34,6 +38,7 @@ _emerg
 _enter
 _entr
 _escort
+_estate
 _event
 _fake
 _femme
@@ -90,6 +95,7 @@ _northface
 _note
 _oakley
 _occh
+_occhiali
 _online
 _outlet
 _party
@@ -698,6 +704,7 @@ _youtube
 ?longchamp
 ?mbt
 ?mod
+?mulberry
 ?nike
 ?p=404
 ?prada
@@ -1084,7 +1091,6 @@ _youtube
 /armani-
 /armani.
 /around.
-/asics_
 /asics-
 /asics.
 /asp/
@@ -1118,7 +1124,6 @@ _youtube
 /birkin.
 /bit.ly
 /bitcoin-
-/black-friday
 /blog:
 /blog.
 /blogid
@@ -1596,7 +1601,6 @@ _youtube
 /oakley.
 /oakley/
 /oakleycan
-/occhiali_
 /occhiali-
 /occhiali.
 /offering/
@@ -2255,6 +2259,7 @@ a lots
 a-cell-phone
 a-lots
 a-powerful-way
+a?a
 a.pri.l
 ã©
 a‡
@@ -2457,7 +2462,7 @@ adultstory
 adulttoy
 advanced hemp
 advanced-hemp
-advantages_of
+advantages_
 advantages-of
 advert market
 advert research
@@ -2686,6 +2691,7 @@ asics gel
 asics online
 asics paris
 asics schuh
+asics_
 asics-deutschland
 asics-gel
 asics-online
@@ -2857,8 +2863,9 @@ bailey ugg
 bailey-ugg
 baileyugg
 bajardepeso
-balance espana
-balance españa
+balance espa
+balance-espa
+balanceespa
 balenciagasingapore
 bally store
 bally-store
@@ -3146,6 +3153,7 @@ birkin-bag
 birkinbag
 bisapp
 bitartrate
+bitcoin_
 biuro-solido
 biz.pl
 biz.ru
@@ -3156,9 +3164,11 @@ biztout
 biżuteria
 black tight
 black ugg
+black-friday
 black-tight
 black-ugg
 black-www
+blackfriday
 blackhat
 blackjack
 blacklabelj
@@ -3200,10 +3210,12 @@ blog/view
 blog<
 blogbeast
 blogentry.
+blogger_
 bloghome
 blogid
 blogów
 blogplatform
+blogs_
 blogs-trick
 blogs.blog
 blogs/entry
@@ -4934,6 +4946,7 @@ discountreebok
 discountt
 discountugg
 discountwheel
+display_
 diva-com
 divulgaemail
 djstool
@@ -4995,8 +5008,10 @@ doudoune
 down-jacke
 downjacke
 download bracelet
+download_
 download-bracelet
 downloadbracelet
+downloads_
 doxycycline
 dragon avail
 dragon-avail
@@ -5269,6 +5284,7 @@ established-blog
 estadounidense
 estate pro
 estate whether
+estate_
 estate-pro
 estate-whether
 estatepro
@@ -5804,15 +5820,19 @@ fresh-review
 freshreview
 freshwaterpearl
 friday 2014
+friday michael
 friday moncler
 friday mulberry
 friday sale
 friday ugg
+friday watch
 friday-2014
+friday-michael
 friday-moncler
 friday-mulberry
 friday-sale
 friday-ugg
+friday-watch
 friday2014
 fridaymoncler
 fridaysale
@@ -5853,6 +5873,9 @@ fucks-hard
 fucksdown
 fucksgoogle
 fuckshard
+ful malware
+ful-malware
+fulmalware
 fun-with-windows
 func.php
 fund market
@@ -6001,7 +6024,7 @@ germany jers
 germany-jers
 germanylove
 gestione
-get_rid_
+get_rid
 get-boot
 get-facebook
 get-hermes
@@ -6558,7 +6581,7 @@ healthadvis
 healthhow
 hedge fund
 hedge-fund
-heel_pads
+heel_
 heelped
 heil hitler
 heil-hitler
@@ -6880,7 +6903,7 @@ hottest-update
 hourpayday
 houseforsale
 housesforsale
-how_do_
+how_do
 how-do-you
 how-to-buy
 how-to-clean
@@ -7843,7 +7866,6 @@ leatherlevi
 lebron_
 lebronshoe
 lebronxshoe
-led_display
 led_down
 led_flood
 led_indust
@@ -9007,9 +9029,11 @@ mostra-video
 mostravideo
 movie-online
 movie-zone
+movie/?
 movieonline
 movies-online
 movies-zone
+movies/?
 moviesandfilm
 moviesdl
 moviesonline
@@ -9038,6 +9062,7 @@ mulberry purse
 mulberry task
 mulberry top
 mulberry uk
+mulberry_
 mulberry-alexa
 mulberry-bag
 mulberry-brand
@@ -9477,6 +9502,7 @@ obuwie
 occhiali catalog
 occhiali ray
 occhiali sol
+occhiali_
 occhiali-catalog
 occhiali-ray
 occhiali-sol
@@ -9560,8 +9586,7 @@ online casino
 online cheap
 online class
 online dat
-online espana
-online españa
+online espa
 online gambl
 online gry
 online internet
@@ -9583,8 +9608,7 @@ online-cert
 online-cheap
 online-class
 online-dat
-online-espana
-online-españa
+online-espa
 online-gambl
 online-gry
 online-internet
@@ -9621,6 +9645,7 @@ onlinecert
 onlinecheap
 onlinedat
 onlinede.
+onlineespa
 onlinegambl
 onlineinternet
 onlineinvest
@@ -10557,6 +10582,7 @@ ray_ban
 ray-ban-aviator
 ray-ban-fold
 ray-bans
+ray+ban
 rayban glass
 rayban_
 rayban-cheap
@@ -10587,7 +10613,6 @@ readers-base
 readers' base
 readers’ base
 readyto
-real_estate
 real-estate-web
 real-estate.web
 realestate.co
@@ -10881,6 +10906,9 @@ runningsneak
 runppv
 runshoe
 runsneak
+russian mulberry
+russian-mulberry
+russianmulberry
 rusztowania
 rе
 rі
@@ -12976,6 +13004,7 @@ vuitton bracelet
 vuitton cig
 vuitton damier
 vuitton deutsch
+vuitton espa
 vuitton factory
 vuitton fanny
 vuitton fashion
@@ -13003,6 +13032,7 @@ vuitton-black
 vuitton-bracelet
 vuitton-cig
 vuitton-damier
+vuitton-espa
 vuitton-fanny
 vuitton-fashion
 vuitton-glass
@@ -13023,6 +13053,7 @@ vuitton<
 vuittonbag
 vuittoncig
 vuittondamier
+vuittonespa
 vuittonfanny
 vuittonfashion
 vuittonglass
