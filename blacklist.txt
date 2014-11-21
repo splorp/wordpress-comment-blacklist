@@ -1549,6 +1549,7 @@ _youtube
 /moncler-
 /moncler.
 /moncler/
+/monindex/
 /monster-cable-
 /monster-cable.
 /montblanc-
@@ -3155,8 +3156,10 @@ bisapp
 bitartrate
 bitcoin_
 biuro-solido
+biz.in
 biz.pl
 biz.ru
+biz.za
 biznes
 bizstore
 biztalk
@@ -5319,7 +5322,10 @@ exceptional blog
 exceptional-blog
 exclusive rendez
 exclusive-rendez
+exclusive.in
+exclusive.pl
 exclusive.ru
+exclusive.za
 executive coach
 executive search
 executive-coach
@@ -5608,9 +5614,12 @@ finestblog
 finewives
 fioricet
 firefox-setting
-firefoxik.ru
+firefoxik
 firefoxsetting
+firm.in
+firm.pl
 firm.ru
+firm.za
 firma.php
 fitch gilet
 fitch grenoble
@@ -5882,8 +5891,15 @@ fund market
 fund trend
 fund-market
 fund-trend
+fund.in
+fund.pl
+fund.ru
+fund.za
 fundmarket
+funds.in
+funds.pl
 funds.ru
+funds.za
 funsneak
 funwithwindows
 fur boot
@@ -6143,7 +6159,10 @@ gold-ingot
 gold-jewelry
 gold-price
 gold-seiko
+gold.in
+gold.pl
 gold.ru
+gold.za
 goldbarren
 goldcoin
 goldearring
@@ -7149,7 +7168,11 @@ interracial
 intersting
 invest-money
 invest-off
+invest.in
 invest.net
+invest.pl
+invest.ru
+invest.za
 invest/stock
 invest+
 investing/stock
@@ -7158,7 +7181,14 @@ investinwell
 investir
 investmoney
 investoff
+investor.in
+investor.pl
 investor.ru
+investor.za
+investors.in
+investors.pl
+investors.ru
+investors.za
 inzest
 ip.ideal
 ipad tablet
@@ -7635,7 +7665,10 @@ klein-prezzi
 kleinfelpa
 kleinprezzi
 klonopin
+klub.in
+klub.pl
 klub.ru
+klub.za
 knee-joint
 knee-pain
 kneejoint
@@ -8281,7 +8314,9 @@ magnificent goods
 magnificent-article
 magnificent-goods
 mail_
+mail.pl
 mail.ru
+mail.za
 maillot de
 maillot foot
 maillot maillot
@@ -8429,9 +8464,16 @@ massarticle
 massive-web
 masszaz
 mastablasta
+master.in
+master.pl
 master.ru
+master.za
 mastermind-team
 mastermindteam
+masters.in
+masters.pl
+masters.ru
+masters.za
 matchcash
 matthewsjers
 matural
@@ -9966,6 +10008,7 @@ payday-loan
 payday-on
 payday.co
 payday.in
+payday.pl
 payday.ru
 payday.za
 paydayloan
@@ -10008,6 +10051,7 @@ penis-adv
 penis-enlarg
 penis.co
 penis.in
+penis.pl
 penis.ru
 penis.za
 penisadv
@@ -11634,6 +11678,7 @@ software house
 software-house
 software-secret
 software.in
+software.pl
 software.ru
 software.za
 softwarehouse
@@ -11654,7 +11699,9 @@ soldes-loubou
 soldes-ralph
 soldes.co
 soldes.in
+soldes.pl
 soldes.ru
+soldes.za
 soldes<
 soldesbotte
 soldesloubou
@@ -12745,6 +12792,7 @@ uomotimber
 up till
 up-till
 up-to-date
+upadte
 upgrade key
 upgrade-key
 upgradekey
@@ -13084,11 +13132,13 @@ wantsand
 warcraftguide
 ware-crack
 warecrack
+warehouse.in
 warehouse.net
 warehouse.org
 warehouse.pl
 warehouse.ru
 warehouse.us
+warehouse.za
 warepics
 warezbb
 warmjp
@@ -13609,7 +13659,6 @@ x stream
 x-adidas
 x-portant
 x-stream
-x.ru
 xadidas
 xalatan
 xanax
@@ -13628,6 +13677,7 @@ xtra-clean
 xwebsite
 xx.co
 xx.in
+xx.pl
 xx.ru
 xx.za
 xxx
