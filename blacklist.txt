@@ -3339,11 +3339,17 @@ borsemoncler
 borseout
 borseprada
 boss.de
+bota mujere
+bota-mujere
+botamujere
 botanical slim
 botanical-slim
+botas mujere
 botas ugg
+botas-mujere
 botas-ugg
 botasdefutbol
+botasmujere
 botasugg
 botte femme
 botte-femme
@@ -3733,6 +3739,7 @@ cannabis oil
 cannabis-oil
 cannabis-seed
 cannabisoil
+capecitabine
 cappelli boston
 cappelli new
 cappelli nfl
@@ -5066,11 +5073,17 @@ drmartens-jap
 drmartens-jp
 drmartensjap
 drmartensjp
+drug buy
 drug cheap
+drug-buy
 drug-cheap
+drugbuy
 drugcheap
+drugs buy
 drugs cheap
+drugs-buy
 drugs-cheap
+drugsbuy
 drugscheap
 drupal-temp
 drupal-theme
@@ -5274,6 +5287,12 @@ escorts.
 escortss
 escortzone
 eshop.co
+espana online
+españa online
+espana-online
+españa-online
+espanaonline
+españaonline
 essay-empire
 essay-service
 essayempire
@@ -12308,6 +12327,8 @@ tms-shoe
 tmsshoe
 tnf-sale
 tnfsale
+to operates
+to-operates
 toasterovensnow
 today/article
 todsjap
@@ -12470,6 +12491,7 @@ ugg barato
 ugg bebe
 ugg black
 ugg boot
+ugg bota
 ugg botte
 ugg brown
 ugg brux
@@ -12478,6 +12500,7 @@ ugg class
 ugg dakota
 ugg elsey
 ugg enfant
+ugg espa
 ugg femme
 ugg fox
 ugg france
@@ -12517,6 +12540,7 @@ ugg-bebe
 ugg-best
 ugg-black
 ugg-boot
+ugg-bota
 ugg-botte
 ugg-brown
 ugg-brux
@@ -12525,6 +12549,7 @@ ugg-class
 ugg-comfort
 ugg-elsey
 ugg-enfant
+ugg-espa
 ugg-femme
 ugg-for
 ugg-fox
@@ -12576,6 +12601,7 @@ uggblack
 uggboo
 uggboot
 uggbos
+uggbota
 uggbotte
 uggbrown
 uggbrux
@@ -12586,6 +12612,7 @@ uggcomfort
 uggdakota
 uggelsey
 uggenfant
+uggespa
 uggfemme
 uggfor
 uggfox
@@ -13663,6 +13690,7 @@ xadidas
 xalatan
 xanax
 xelerated
+xeloda
 xenical
 xfire.com/blog
 xl paket
