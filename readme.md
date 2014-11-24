@@ -65,6 +65,13 @@ According to the WordPress [Discussion Settings Screen](http://codex.wordpress.o
 
 For example, in an earlier version of the blacklist the keywords `/4.` and `/5.` had been included to flag URLs with sequentially numbered pages with various file extensions. Unfortunately, these two benign-looking keywords also flagged comments containing common user agent strings, such as `Mozilla/4.0` and `Chrome/5.0`. In other words, nearly every single comment was flagged as spam, regardless of its content or whether the commenter had been previously approved.
 
+**IPv6 Localhost**
+
+Since the blacklist is applied to commenter’s IP address, we need to be aware of strings that might match seemingly generic, but valid addresses.
+
+For example, in an earlier version of the blacklist the keyword `::` had been included, as it appeared occasionally in mangled comment text and URLs. However, double colons are also part of the [IPv6 localhost](http://en.wikipedia.org/wiki/Localhost) IP address `::1`. If you happened to be testing a WordPress installation on a system using IPv6 addresses, every single comment would have been flagged as spam.
+
+
 ## Mad Props
 
 *“So much for using Akismet.”*
