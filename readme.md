@@ -34,7 +34,7 @@ Still need convincing? The blacklist was featured over at [WP Daily](http://torq
 
 WordPress stores the contents of the [Comment Blacklist](http://codex.wordpress.org/Combating_Comment_Spam#Comment_Blacklist) setting in a MySQL column named `blacklist_keys`. Defined as a `longtext` [data type](http://dev.mysql.com/doc/en/blob.html), this column can contain up to 4,294,967,295 bytes (approximately 4GB) of text. There is no chance of us running out of room to expand the blacklist any time soon.
 
-## Known Issues
+## Known Issues, Limitations & Other Gotchas
 
 **URL Shorteners**
 
@@ -92,6 +92,7 @@ See the [license.txt](https://raw.github.com/splorp/wordpress-comment-blacklist/
 
 ## History
 
++ 20141124 — Fixed bug that affected [IPv6 localhost addresses](https://github.com/splorp/wordpress-comment-blacklist/commit/5b988691b690595ba2518532b7a90a0b80c6a4f0)
 + 20141115 — 14,000 entries
 + 20141011 — 13,000 entries
 + 20140911 — Added to the [Combating Comment Spam](http://codex.wordpress.org/Combating_Comment_Spam) section of the WordPress [Codex](http://codex.wordpress.org/)
