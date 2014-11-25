@@ -287,6 +287,7 @@ _youtube
 -click-
 -click.
 -click/
+-co-jp
 -co.jp
 -cock-
 -cock.
@@ -878,6 +879,7 @@ _youtube
 .pl/user
 .pl#
 .plotexchange.us
+.r.e.d
 .rar.
 .redirects.
 .rekla
@@ -899,6 +901,7 @@ _youtube
 .ro/image
 .ro/member
 .ro/profile
+.ro/pub
 .ro/service
 .ro/soldes
 .ro/top
@@ -928,6 +931,7 @@ _youtube
 .ru/top
 .ru/user
 .ru#
+.s.a.k
 .sirenos.in
 .smiley
 .sunglasses-
@@ -964,6 +968,7 @@ _youtube
 /?a
 /?b
 /?cat
+/?cl
 /?doc
 /?gid
 /?hid
@@ -1023,31 +1028,61 @@ _youtube
 //webstore
 //wp-
 /0.asp
+/00.asp
+/0.cfm
+/00.cfm
 /0.htm
+/00.htm
+/01.asp
 /1.asp
+/01.cfm
+/1.cfm
+/01.htm
 /1.htm
+/02.asp
 /2.asp
+/02.cfm
+/2.cfm
+/02.htm
 /2.htm
 /2ipe.tk
 /2u4.us
+/03.asp
 /3.asp
+/03.cfm
+/3.cfm
+/03.htm
 /3.htm
+/04.asp
 /4.asp
+/04.cfm
+/4.cfm
+/04.htm
 /4.htm
 /4ft.me
+/05.asp
 /5.asp
+/05.cfm
+/5.cfm
+/05.htm
 /5.htm
 /10.asp
+/10.cfm
 /10.htm
 /11.asp
+/11.cfm
 /11.htm
 /12.asp
+/12.cfm
 /12.htm
 /13.asp
+/13.cfm
 /13.htm
 /14.asp
+/14.cfm
 /14.htm
 /15.asp
+/15.cfm
 /15.htm
 /100mg
 /a-
@@ -1281,6 +1316,7 @@ _youtube
 /diet.
 /dieta.
 /dior.
+/dirigente/
 /div/
 /dlia/
 /dmg/
@@ -1489,6 +1525,7 @@ _youtube
 /list-
 /list.
 /loans
+/local/
 /locale/
 /logos/
 /longchamp-
@@ -2086,6 +2123,7 @@ _youtube
 |porn
 |year
 |yr
+�
 000mail
 0ping
 0taylormade
@@ -2099,8 +2137,6 @@ _youtube
 1.0mg
 1.5 mg
 1.5mg
-1.asp
-1.cfm
 1.in
 1@1
 1@2
@@ -2124,8 +2160,6 @@ _youtube
 2.0mg
 2.5 mg
 2.5mg
-2.asp
-2.cfm
 2.in
 2@1
 2@2
@@ -2140,8 +2174,6 @@ _youtube
 2test
 2titleist
 2u.org
-3.asp
-3.cfm
 3.in
 3@1
 3@2
@@ -2673,6 +2705,8 @@ article.php
 article/suggest
 articlebuzz
 articlepowa
+articles tags
+articles-tags
 articles.co
 articles.in
 articles.net
@@ -4773,7 +4807,10 @@ daunen weste
 daunen-weste
 daunenweste
 day loan
+day louboutin
 day-diet
+day-louboutin
+daylouboutin
 daytrad
 dɑ
 de site
@@ -6901,7 +6938,11 @@ hoolz
 horoscopes
 horoskop
 horsesimul
+host.in
+host.pl
 host.ro
+host.ru
+host.za
 hosting community
 hosting-community
 hot concern
@@ -7189,6 +7230,7 @@ invest-off
 invest.in
 invest.net
 invest.pl
+invest.ro
 invest.ru
 invest.za
 invest/stock
@@ -7201,10 +7243,12 @@ investmoney
 investoff
 investor.in
 investor.pl
+investor.ro
 investor.ru
 investor.za
 investors.in
 investors.pl
+investors.ro
 investors.ru
 investors.za
 inzest
@@ -7685,6 +7729,7 @@ kleinprezzi
 klonopin
 klub.in
 klub.pl
+klub.ro
 klub.ru
 klub.za
 knee-joint
@@ -8169,6 +8214,7 @@ louboutin sneaker
 louboutin solde
 louboutin stiefel
 louboutin uk
+louboutin wedge
 louboutin_
 louboutin-bianca
 louboutin-chau
@@ -8186,6 +8232,7 @@ louboutin-shoe
 louboutin-sneaker
 louboutin-solde
 louboutin-stiefel
+louboutin-wedge
 louboutin+
 louboutin8
 louboutinbianca
@@ -8204,6 +8251,7 @@ louboutinsolde
 louboutinspas
 louboutinstiefel
 louboutinuk
+louboutinwedge
 louis vitton
 louis vuittone
 louis-vuitton
@@ -8332,7 +8380,9 @@ magnificent goods
 magnificent-article
 magnificent-goods
 mail_
+mail.in
 mail.pl
+mail.ro
 mail.ru
 mail.za
 maillot de
@@ -8490,6 +8540,7 @@ mastermind-team
 mastermindteam
 masters.in
 masters.pl
+masters.ro
 masters.ru
 masters.za
 matchcash
@@ -10027,6 +10078,7 @@ payday-on
 payday.co
 payday.in
 payday.pl
+payday.ro
 payday.ru
 payday.za
 paydayloan
@@ -10070,6 +10122,7 @@ penis-enlarg
 penis.co
 penis.in
 penis.pl
+penis.ro
 penis.ru
 penis.za
 penisadv
@@ -11280,6 +11333,7 @@ seekwom
 seeming vexation
 seeming-vexation
 seikomise
+seks.ro
 seks.ru
 sell iphone4
 sell iphone5
@@ -11697,6 +11751,7 @@ software-house
 software-secret
 software.in
 software.pl
+software.ro
 software.ru
 software.za
 softwarehouse
@@ -11718,6 +11773,7 @@ soldes-ralph
 soldes.co
 soldes.in
 soldes.pl
+soldes.ro
 soldes.ru
 soldes.za
 soldes<
@@ -12780,7 +12836,12 @@ une-moncler
 unemoncler
 unitedidesign
 universal-key
+unknown.co
+unknown.in
+unknown.pl
+unknown.ro
 unknown.ru
+unknown.za
 unknown@
 unlock iphone
 unlock-iphone
@@ -13162,6 +13223,7 @@ warehouse.in
 warehouse.net
 warehouse.org
 warehouse.pl
+warehouse.ro
 warehouse.ru
 warehouse.us
 warehouse.za
@@ -13705,6 +13767,7 @@ xwebsite
 xx.co
 xx.in
 xx.pl
+xx.ro
 xx.ru
 xx.za
 xxx
@@ -14377,3 +14440,5 @@ zyvox
 韓国音楽
 香水
 ?>
+蘒
+﨨
