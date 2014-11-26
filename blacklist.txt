@@ -1,3 +1,5 @@
+.t.a.p
+.d.e.r
 _abercrombie
 _account
 _adidas
@@ -42,6 +44,7 @@ _estate
 _event
 _fake
 _femme
+_fifa
 _free
 _fuck
 _furla
@@ -129,7 +132,7 @@ _store
 _strat
 _swaro
 _tape
-_taylormade
+_taylor
 _temp
 _theme
 _timber
@@ -139,6 +142,7 @@ _track
 _tumi
 _ugg
 _uomo
+_upload
 _uptime
 _url
 _util
@@ -548,6 +552,9 @@ _youtube
 -purses.
 -purses/
 -pussy-
+-rakuten-
+-rakuten.
+-rakuten/
 -ray-ban-
 -rayban-
 -rayban.
@@ -1528,6 +1535,7 @@ _youtube
 /local/
 /locale/
 /logos/
+/logs/
 /longchamp-
 /longchamp.
 /longchamp/
@@ -1712,6 +1720,9 @@ _youtube
 /pumps.
 /q.
 /ra.
+/rakuten-
+/rakuten.
+/rakuten/
 /ray-ban-
 /ray-ban.
 /ray-ban/
@@ -1791,8 +1802,7 @@ _youtube
 /sunglasses.
 /swf/
 /syaneru
-/systemdb.
-/sysuser/
+/system/
 /tabid/
 /tagged/
 /telecharger-
@@ -1840,6 +1850,7 @@ _youtube
 /upload-
 /upload/
 /uploadfiles/
+/uploads-
 /uploads/
 /url/
 /urlms.co
@@ -1999,6 +2010,7 @@ _youtube
 +event
 +fake
 +femme
++fifa
 +free
 +fuck
 +furla
@@ -2083,7 +2095,7 @@ _youtube
 +strat
 +swaro
 +tape
-+taylormade
++taylor
 +temp
 +theme
 +timber
@@ -2093,6 +2105,7 @@ _youtube
 +tumi
 +ugg
 +uomo
++upload
 +uptime
 +url
 +util
@@ -2126,8 +2139,8 @@ _youtube
 �
 000mail
 0ping
-0taylormade
-0titleist
+0taylor
+0title
 1-1.
 1,0 mg
 1,0mg
@@ -2147,7 +2160,7 @@ _youtube
 1minutesite
 1ping
 1stop
-1taylormade
+1taylor
 1test
 1titleist
 1to1
@@ -2170,7 +2183,7 @@ _youtube
 2itb
 2ping
 2sale
-2taylormade
+2taylor
 2test
 2titleist
 2u.org
@@ -2180,7 +2193,7 @@ _youtube
 3@3
 3j3j3
 3ping
-3taylormade
+3taylor
 3test
 3titleist
 3ww3
@@ -2974,6 +2987,9 @@ barbourjacke
 barbourout
 barcelona sunglass
 barcelona-sunglass
+bardot lancel
+bardot-lancel
+bardotlancel
 barn timber
 barn-timber
 barntimber
@@ -4501,6 +4517,7 @@ codesgenerat
 codesxbox
 codexbox
 cohttp
+coinss
 colin-kaepernick
 collection celine
 collection effort
@@ -4964,6 +4981,7 @@ discount nhl
 discount north
 discount reebok
 discount ugg
+discount_
 discount-
 discount-afl
 discount-bag
@@ -5625,7 +5643,10 @@ fg-xpress
 fgxpress
 fibromyalgia
 fifa ultimate
+fifa_
+fifa-15
 fifa-ultimate
+fifa15
 fifaultimate
 figc
 fightmark
@@ -7858,6 +7879,7 @@ lamisil
 lancel adjani
 lancel pas
 lancel sac
+lancel_
 lancel-adjani
 lancel-pas
 lancel-sac
@@ -8784,6 +8806,15 @@ mercantilism
 mercati di
 mercati-di
 mercenary.co
+mercurial 2014
+mercurial 2015
+mercurial vapor
+mercurial-2014
+mercurial-2015
+mercurial-vapor
+mercurial2014
+mercurial2015
+mercurialvapor
 meridia
 mes hormone
 mes-hormone
@@ -9456,6 +9487,7 @@ nikefreerun
 nikejers
 nikejordan
 nikemain
+nikemercurial
 nikepasch
 nikeroshe
 nikerun
@@ -11338,9 +11370,11 @@ seks.ru
 sell iphone4
 sell iphone5
 sell iphone6
+sell lancel
 sell-iphone4
 sell-iphone5
 sell-iphone6
+sell-lancel
 sell-now
 selling iphone4
 selling iphone5
@@ -11348,6 +11382,7 @@ selling iphone6
 selling-iphone4
 selling-iphone5
 selling-iphone6
+selllancel
 sellnow
 send earn
 send-earn
@@ -12069,8 +12104,11 @@ symptom-med
 symptommed
 symptoms-med
 symptomsmed
+sysadmin
 system-pro
 system-review
+systemdb
+sysuser
 sϲ
 sі
 sо
@@ -12132,6 +12170,7 @@ tax-book
 tax-debt
 taxbook
 taxdebt
+taylormade_
 tɑ
 teach-you-every
 team-online
@@ -12553,6 +12592,7 @@ ugg brux
 ugg cheap
 ugg class
 ugg dakota
+ugg discount
 ugg elsey
 ugg enfant
 ugg espa
@@ -12602,6 +12642,7 @@ ugg-brux
 ugg-cheap
 ugg-class
 ugg-comfort
+ugg-discount
 ugg-elsey
 ugg-enfant
 ugg-espa
@@ -12665,6 +12706,7 @@ uggclass
 uggclog
 uggcomfort
 uggdakota
+uggdiscount
 uggelsey
 uggenfant
 uggespa
@@ -12927,8 +12969,14 @@ valtrex
 valuable opt-in
 valuable-opt-in
 valueble
+vapor ix
+vapor x
+vapor-ix
+vapor-x
+vaporix
 vaporizer pen
 vaporizer-pen
+vaporx
 varabella
 vardenafil
 vegas hotel
@@ -14439,6 +14487,6 @@ zyvox
 靴
 韓国音楽
 香水
-?>
+?
 蘒
 﨨
