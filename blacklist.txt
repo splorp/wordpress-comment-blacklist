@@ -1,5 +1,3 @@
-.t.a.p
-.d.e.r
 _abercrombie
 _account
 _adidas
@@ -44,14 +42,16 @@ _estate
 _event
 _fake
 _femme
-_fifa
+_forte
 _free
 _fuck
 _furla
 _gabbana
+_generic
 _genuine
 _giub
 _gluten
+_google
 _goose
 _gucci
 _hand
@@ -101,6 +101,7 @@ _occh
 _occhiali
 _online
 _outlet
+_parafon
 _party
 _ping
 _pokie
@@ -128,6 +129,7 @@ _sjs
 _sneak
 _sold
 _spade
+_sportiv
 _store
 _strat
 _swaro
@@ -518,6 +520,8 @@ _youtube
 -order-at-
 -outlet.
 -outlet/
+-parafon.
+-parafon/
 -payday-
 -pictures.
 -poker-
@@ -773,6 +777,7 @@ _youtube
 .coms
 .coupon
 .credopa.in
+.d.e.r
 .disposable-
 .disposable/
 .doorblog.jp
@@ -943,6 +948,7 @@ _youtube
 .smiley
 .sunglasses-
 .supreme-
+.t.a.p
 .thearticle
 .travel.pl
 .twilight-
@@ -1677,6 +1683,9 @@ _youtube
 /panties.
 /panty-
 /panty.
+/parafon-
+/parafon.
+/parafon/
 /php.
 /piece-
 /piece.
@@ -4284,6 +4293,7 @@ chloemoment
 chloeoutsale
 chloesunglass
 chloie
+chlorzoxazone
 choo sale
 choo-boot
 choo-sale
@@ -5643,11 +5653,12 @@ fg-xpress
 fgxpress
 fibromyalgia
 fifa ultimate
-fifa_
 fifa-15
 fifa-ultimate
+fifa-ut
 fifa15
 fifaultimate
+fifaut
 figc
 fightmark
 filenamedat
@@ -5797,6 +5808,22 @@ forsalego
 forsalejap
 forsalejp
 forsales
+forte dsc
+forte generic
+forte info
+forte muscle
+forte parafon
+forte_
+forte-dsc
+forte-generic
+forte-info
+forte-muscle
+forte-parafon
+fortedsc
+fortegeneric
+forteinfo
+fortemuscle
+forteparafon
 forthcoming post
 forthcoming-post
 forum coach
@@ -6104,6 +6131,7 @@ generator2013
 generator2014
 generator2015
 generatorpro
+generic_
 genital herpes
 genital-herpes
 genuine-pandora
@@ -8674,15 +8702,18 @@ mckinqi
 mcm backpack
 mcm bag
 mcm hand
+mcm new
 mcm stark
 mcm_
 mcm-backpack
 mcm-bag
 mcm-hand
+mcm-new
 mcm-stark
 mcm.co
 mcmbackpack
 mcmbag
+mcmnew
 mcmstark
 mcqueen club
 mcqueen dress
@@ -9838,7 +9869,16 @@ options-binaire
 options-trad
 optionstrad
 oral-sex
+order forte
+order generic
+order parafon
 order_type
+order-forte
+order-generic
+order-parafon
+orderforte
+ordergeneric
+orderparafon
 ordersoma
 org/log
 org/rest
@@ -10048,6 +10088,19 @@ pantypic
 pantyplay
 par/index
 paradisiaque
+parafon forte
+parafon generic
+parafon info
+parafon muscle
+parafon_
+parafon-forte
+parafon-generic
+parafon-info
+parafon-muscle
+parafonforte
+parafongeneric
+parafoninfo
+parafonmuscle
 paragraph writ
 paragraph-writ
 parajumpers
@@ -11869,6 +11922,7 @@ sport tronch
 sport-tronch
 sportbikepart
 sportbook
+sportivo_
 sportsbet
 sportsbook
 sportsfanshop
@@ -13830,6 +13884,9 @@ ynimb
 yo-dick
 yo-penis
 yoigucci
+york sportiv
+york-sportiv
+yorksportiv
 you gucci
 you ssay
 you ugg
