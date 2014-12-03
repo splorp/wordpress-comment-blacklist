@@ -19,6 +19,7 @@ _bvlgari
 _camiseta
 _campaign
 _casino
+_chaussure
 _cheap
 _clear
 _click
@@ -725,16 +726,22 @@ _youtube
 ?mod
 ?mulberry
 ?nike
+?p_
+?p-
 ?p=404
 ?prada
 ?ray
 ?sexy
 ?shoe
 ?store
+?t_
+?t-
 ?timber
 ?title
 ?tumi
 ?twid
+?u_
+?u-
 ?user
 ?view
 .-0
@@ -1864,6 +1871,8 @@ _youtube
 /uggs-
 /uggs.
 /uggsal/
+/underc-
+/underc.
 /update/
 /upload-
 /upload/
@@ -1879,6 +1888,8 @@ _youtube
 /userid/
 /userprofile/
 /usuario:
+/vasion-
+/vasion.
 /vb/
 /viewstory
 /visit.
@@ -2446,6 +2457,7 @@ additionally fly
 additionay
 adenosyl
 adidas adizero
+adidas blanche
 adidas f5
 adidas footbal
 adidas fotbal
@@ -2462,6 +2474,7 @@ adidas super
 adidas uomo
 adidas wing
 adidas-adizero
+adidas-blanche
 adidas-corner
 adidas-f5
 adidas-footbal
@@ -2478,6 +2491,7 @@ adidas-slip
 adidas-super
 adidas-uomo
 adidas-wing
+adidasblanche
 adidasf5
 adidasfootbal
 adidasfotbal
@@ -4068,6 +4082,7 @@ chaussres-boutique
 chaussres-pascher
 chaussresboutique
 chaussrespascher
+chaussure adidas
 chaussure botte
 chaussure boutique
 chaussure jordan
@@ -4077,6 +4092,7 @@ chaussure nike
 chaussure paris
 chaussure supra
 chaussure_
+chaussure-adidas
 chaussure-asics
 chaussure-botte
 chaussure-boutique
@@ -4089,11 +4105,13 @@ chaussure-nike
 chaussure-paris
 chaussure-puma
 chaussure-supra
+chaussureadidas
 chaussurebotte
 chaussureboutique
 chaussurembt
 chaussurenike
 chaussureparis
+chaussures adidas
 chaussures boutique
 chaussures christian
 chaussures de
@@ -4110,6 +4128,7 @@ chaussures sport
 chaussures ugg
 chaussures_
 chaussures- abil
+chaussures-adidas
 chaussures-asics
 chaussures-boutique
 chaussures-christian
@@ -4128,6 +4147,7 @@ chaussures-salomon
 chaussures-ski
 chaussures-sport
 chaussures-ugg
+chaussuresadidas
 chaussuresboutique
 chaussureschristian
 chaussuresfemme
@@ -7723,6 +7743,7 @@ jordan fille
 jordan gamma
 jordan grise
 jordan milano
+jordan noir
 jordan out
 jordan pas
 jordan retro
@@ -7739,6 +7760,7 @@ jordan-fille
 jordan-gamma
 jordan-grise
 jordan-milano
+jordan-noir
 jordan-out
 jordan-pas
 jordan-retro
@@ -7754,6 +7776,7 @@ jordangamma
 jordangrise
 jordankicks
 jordanmilano
+jordannoir
 jordanout
 jordanretro
 jordans cheap
@@ -9717,6 +9740,9 @@ nobisyatesy
 nocache
 nocredit
 nohassle
+noir homme
+noir-homme
+noirhomme
 nolvadex
 nordstrom moncler
 nordstrom_
