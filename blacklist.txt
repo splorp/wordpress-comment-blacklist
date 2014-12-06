@@ -71,6 +71,7 @@ _http
 _idea
 _index
 _info
+_jacket
 _java
 _jers
 _jordan
@@ -644,8 +645,12 @@ _youtube
 -tax-settlement
 -teen-in-
 -the-best-
+-the-best.
+-the-best/
 -the-easiest-
 -the-greatest-
+-thebest.
+-thebest/
 -thunderstick-
 -tips/
 -top-info
@@ -1008,6 +1013,7 @@ _youtube
 /?pid
 /?tag
 /?tid
+/?tim
 /?tip
 /?top
 /?uid
@@ -1534,6 +1540,8 @@ _youtube
 /latestmk.
 /legal/
 /lib/
+/libraries/
+/library/
 /libs/
 /lijst/
 /limewire
@@ -1842,11 +1850,15 @@ _youtube
 /temp3
 /templates/
 /test.
+/the-best-
+/the-best.
 /the-first
 /the-sale
 /the-secret
 /the-shock
 /thebest
+/thebest-
+/thebest.
 /themes/
 /thesecret.
 /thread-
@@ -4200,6 +4212,7 @@ cheap lebron
 cheap longchamp
 cheap loubou
 cheap louis
+cheap mackage
 cheap mbt
 cheap michael
 cheap moncler
@@ -4259,6 +4272,7 @@ cheap-jordan
 cheap-kobe
 cheap-lebron
 cheap-loubou
+cheap-mackage
 cheap-mbt
 cheap-michael
 cheap-moncler
@@ -4323,6 +4337,7 @@ cheapkobe
 cheaplebron
 cheaploubou
 cheaplouis
+cheapmackage
 cheapmbt
 cheapmichael
 cheapmoncler
@@ -5516,9 +5531,11 @@ excelent
 excellent blog
 excellent site
 excellent website
+excellent written
 excellent-blog
 excellent-site
 excellent-website
+excellent-written
 excellentlunch
 exceptional blog
 exceptional-blog
@@ -7561,23 +7578,29 @@ jacket 2013
 jacket 2014
 jacket 2015
 jacket canad
+jacket outlet
 jacket sale
 jacket sunglass
+jacket_
 jacket-2013
 jacket-2014
 jacket-2015
 jacket-canad
 jacket-jp
+jacket-outlet
 jacket-sale
 jacket-sunglass
 jacket2013
 jacket2014
 jacket2015
 jacketcanad
+jacketoutlet
 jackets 2013
 jackets 2014
 jackets 2015
+jackets outlet
 jackets sale
+jackets_
 jackets-2013
 jackets-2014
 jackets-2015
@@ -7585,6 +7608,7 @@ jackets-for-kids
 jackets-for-men
 jackets-for-wom
 jackets-jp
+jackets-outlet
 jackets-sale
 jackets2013
 jackets2014
@@ -7593,6 +7617,7 @@ jacketsale
 jacketsforkids
 jacketsformen
 jacketsforwom
+jacketsoutlet
 jacketssale
 jacketsunglass
 jacketswom
@@ -8573,6 +8598,9 @@ mac-makeup
 mac-mascara
 macha-slim
 machaslim
+mackage jacket
+mackage-jacket
+mackagejacket
 maclipgloss
 macmakeup
 macmascara
@@ -10425,6 +10453,8 @@ pcaccess
 pchealth
 pcstuff
 pcwindows
+peer extra
+peer-extra
 pen montblanc
 pen-montblanc
 penis adv
@@ -11901,18 +11931,25 @@ shopnfl
 shopnow
 shopof
 shoponline
+shopper_
+shoppers_
+shopping harmony
 shopping online
 shopping site
 shopping ugg
+shopping_
+shopping-harmony
 shopping-online
 shopping-site
 shopping-ugg
 shopping+
 shopping24
 shoppingcenter.co
+shoppingharmony
 shoppingonline
 shoppingsite
 shoppingugg
+shops_
 shopshoe
 shopthai
 shoptoyou
@@ -12031,6 +12068,12 @@ sledge-baseball
 sledge-bat
 slimpill
 slimup
+slipper khaki
+slipper-khaki
+slipperkhaki
+slippers khaki
+slippers-khaki
+slipperskhaki
 slongchamp
 slot machine
 slot-machine
@@ -12668,15 +12711,19 @@ timberland cheap
 timberland earth
 timberland giub
 timberland herr
+timberland khaki
 timberland laarzen
+timberland men
 timberland out
 timberland pas
 timberland saldi
 timberland schoenen
 timberland shoe
+timberland slipper
 timberland swede
 timberland uom
 timberland villa
+timberland women
 timberland-bambi
 timberland-boot
 timberland-catalo
@@ -12684,14 +12731,18 @@ timberland-cheap
 timberland-earth
 timberland-giub
 timberland-herr
+timberland-khaki
 timberland-laarzen
+timberland-men
 timberland-out
 timberland-pas
 timberland-saldi
 timberland-schoenen
+timberland-slipper
 timberland-swede
 timberland-uom
 timberland-villa
+timberland-women
 timberland1
 timberland2
 timberlandbambi
@@ -12702,14 +12753,18 @@ timberlandearth
 timberlandgiub
 timberlandherr
 timberlandinneder
+timberlandkhaki
 timberlandlaarzen
+timberlandmen
 timberlandout
 timberlandpas
 timberlandsaldi
 timberlandschoenen
+timberlandslipper
 timberlandswede
 timberlanduom
 timberlandvilla
+timberlandwomen
 time-synchronisation.co
 times(with
 timesamsonss
