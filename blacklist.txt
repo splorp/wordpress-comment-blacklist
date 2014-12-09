@@ -713,6 +713,7 @@ _youtube
 ！
 ! .
 !!!
+!?'
 !?’
 !@#
 ????
@@ -844,6 +845,7 @@ _youtube
 .info/,
 .insanity-
 .internet-
+.it/t/
 .longchamp-
 .magix.net
 .mobi/?
@@ -982,6 +984,8 @@ _youtube
 .yves
 .za/image
 ''
+’’
+»¿
 )-
 [...
 [/color
@@ -4903,6 +4907,9 @@ daily.blog
 dailyreview.co
 dailystrength
 dakotasuki
+dalle scarpe
+dalle-scarpe
+dallescarpe
 damen kaufen
 damen moncler
 damen schuh
@@ -4992,6 +4999,9 @@ dedrease
 default/member
 default1
 default2
+defiantly brilliant
+defiantly-brilliant
+defiantlybrilliant
 deficitfight
 definitelly
 dehttp
@@ -8986,6 +8996,7 @@ membership-hack
 membership.php
 membershiphack
 men barbour
+men bikini
 men boost
 men cheap
 men hand
@@ -8993,6 +9004,7 @@ men makeup
 men mbt
 men nike
 men-barbour
+men-bikini
 men-boost
 men-cheap
 men-date
@@ -9000,6 +9012,8 @@ men-hand
 men-makeup
 men-mbt
 men-nike
+men's timber
+men’s timber
 men+
 menbarbour
 menboost
@@ -9018,6 +9032,7 @@ mens nike
 mens puma
 mens sale
 mens shoe
+mens timber
 mens watch
 mens-bag
 mens-barbour
@@ -9031,6 +9046,7 @@ mens-nike
 mens-puma
 mens-sale
 mens-shoe
+mens-timber
 mens-train
 mens-watch
 mensbarbour
@@ -9041,6 +9057,7 @@ mensjacke
 mensnike
 menspuma
 menssale
+menstimber
 mentalprocess
 menu/menu
 mequinol
@@ -9553,6 +9570,8 @@ mzt-index
 mztindex
 m谩s
 n http
+n1-takeaway
+n1takeaway
 nail_art
 nail-art
 nail-fest
@@ -12245,6 +12264,7 @@ spyware
 squidoo.co
 ssory
 sta'sean
+sta’sean
 stag party
 stag weekend
 stag-party
@@ -13667,6 +13687,7 @@ watchquartz
 watchreplica
 watchseiko
 water-weight
+waterprrof
 way-to-enjoy
 wayfarer barata
 wayfarer barato
@@ -13899,11 +13920,16 @@ win7pro
 win8.co
 win8pro
 windows anytime
+windows-7-key
+windows-7-theme
+windows-8-key
 windows-8-theme
 windows-anytime
 windows-app
 windows7key
+windows7theme
 windows8key
+windows8theme
 windowsanytime
 windowsphone.co
 winesickle
@@ -13913,13 +13939,12 @@ winter-jassen
 winterjassen
 with pics
 with-pics
+withher
 withhim
 without prescript
 without-invest
 without-prescript
 withthose
-women bikini
-women-bikini
 women+
 womenbikini
 won webpage
@@ -13934,6 +13959,7 @@ wonderful-post
 wonderful-publish
 woodgundy.us
 woolrich amster
+woolrich arctic
 woolrich bliz
 woolrich bolo
 woolrich cloth
@@ -13954,6 +13980,7 @@ woolrich uomo
 woolrich vest
 woolrich wool
 woolrich-amster
+woolrich-arctic
 woolrich-bliz
 woolrich-bolo
 woolrich-cloth
@@ -13975,6 +14002,7 @@ woolrich-vest
 woolrich-wool
 woolrich.arkis
 woolrichamster
+woolricharctic
 woolrichbliz
 woolrichbolo
 woolrichcloth
