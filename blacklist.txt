@@ -1782,7 +1782,6 @@ _youtube
 /rayban-
 /rayban.
 /rayban/
-/read.
 /readme.
 /readnews.
 /recap/
