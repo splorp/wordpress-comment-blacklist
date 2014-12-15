@@ -38,7 +38,7 @@ WordPress stores the contents of the [Comment Blacklist](http://codex.wordpress.
 
 **URL Shorteners**
 
-As mentioned above, the keywords in the blacklist are based on spam submitted to my own sites. Spammers often utilize the obscuring capabilities of URL shorteners to hide their nefarious links. Therefore, I have included a handful of [URL shortener domains](https://raw.github.com/splorp/wordpress-comment-blacklist/master/shorteners.txt) in the blacklist. For all practical purposes, there’s no need for a comment to include a shortened URL, as unmodified links can be easily formatted using HTML. If you find that your visitors are using shortened URLs on a regular basis, you may wish to remove [these domains](https://raw.github.com/splorp/wordpress-comment-blacklist/master/shorteners.txt) from the blacklist.
+As mentioned above, the keywords in the blacklist are based on spam submitted to my own sites. Spammers often utilize the [obscuring capabilities of URL shorteners](http://www.certmag.com/read.php?in=3863) to hide their nefarious links. Therefore, I have included a handful of [URL shortener domains](https://raw.github.com/splorp/wordpress-comment-blacklist/master/shorteners.txt) in the blacklist. For all practical purposes, there’s no need for a comment to include a shortened URL, as unmodified links can be easily formatted using HTML. If you find that your visitors are using shortened URLs on a regular basis, you may wish to remove [these domains](https://raw.github.com/splorp/wordpress-comment-blacklist/master/shorteners.txt) from the blacklist.
 
 **WordPress Links**
 
