@@ -80,6 +80,7 @@ _jordan
 _key
 _kino
 _kit
+_kobe
 _kors
 _lacoste
 _lancel
@@ -126,6 +127,7 @@ _regist
 _review
 _sac
 _sale
+_salomon
 _scarpe
 _schuh
 _select
@@ -594,6 +596,8 @@ _youtube
 -rozwod-
 -ru.
 -sale.
+-salomon.
+-salomon/
 -salvia-
 -scarpe-
 -search-engine
@@ -1080,18 +1084,24 @@ _youtube
 /00.cfm
 /0.htm
 /00.htm
+/0.php
+/00.php
 /01.asp
 /1.asp
 /01.cfm
 /1.cfm
 /01.htm
 /1.htm
+/01.php
+/1.php
 /02.asp
 /2.asp
 /02.cfm
 /2.cfm
 /02.htm
 /2.htm
+/02.php
+/2.php
 /2ipe.tk
 /2u4.us
 /03.asp
@@ -1100,12 +1110,16 @@ _youtube
 /3.cfm
 /03.htm
 /3.htm
+/03.php
+/3.php
 /04.asp
 /4.asp
 /04.cfm
 /4.cfm
 /04.htm
 /4.htm
+/04.php
+/4.php
 /4ft.me
 /05.asp
 /5.asp
@@ -1113,24 +1127,32 @@ _youtube
 /5.cfm
 /05.htm
 /5.htm
+/05.php
+/5.php
 /10.asp
 /10.cfm
 /10.htm
+/10.php
 /11.asp
 /11.cfm
 /11.htm
+/11.php
 /12.asp
 /12.cfm
 /12.htm
+/12.php
 /13.asp
 /13.cfm
 /13.htm
+/13.php
 /14.asp
 /14.cfm
 /14.htm
+/14.php
 /15.asp
 /15.cfm
 /15.htm
+/15.php
 /100mg
 /a-
 /a#
@@ -1800,6 +1822,8 @@ _youtube
 /sale.
 /sales-
 /sales.
+/salomon-
+/salomon.
 /salvia/
 /scarpe-
 /sconfig/
@@ -2180,12 +2204,14 @@ _youtube
 =blog
 =bracelet
 =captcha
+=kobe
 =longchamp
 =mcm
 =node
 =pandora
 =profile
 =read
+=salomon
 =space
 =thread
 =utf8
@@ -2548,6 +2574,8 @@ adipex
 adlive
 admin.asp
 admin.cfm
+admin.htm
+admin.php
 admin5
 ados populaire
 ados-populaire
@@ -2635,6 +2663,7 @@ afl-shop
 afl.asp
 afl.cfm
 afl.htm
+afl.php
 afljers
 aflofficial
 aflreplica
@@ -2705,6 +2734,7 @@ amazon.asp
 amazon.cfm
 amazon.cm
 amazon.htm
+amazon.php
 ambalaje plastic
 ambalaje-plastic
 ambalajeplastic
@@ -4009,14 +4039,20 @@ câsuâl
 casub.co
 catalog.asp
 catalog.cfm
+catalog.htm
+catalog.php
 catalog/preview
 catalogo/preview
 catalogs.asp
 catalogs.cfm
+catalogs.htm
+catalogs.php
 catalogue.asp
 catalogue.cfm
+catalogue.php
 catalogues.asp
 catalogues.cfm
+catalogues.php
 cavin-klein
 cavinklein
 cɑ
@@ -5060,6 +5096,13 @@ depressionsymptom
 derm exclus
 derm-exclus
 dermexclus
+derniers mod&egrave;le
+derniers modele
+derniers modèle
+derniers-mod&egrave;le
+derniers-modele
+derniers-modèle
+derniersmodele
 desconto
 designer bag
 designer jewel
@@ -5434,6 +5477,7 @@ email-vip
 email.asp
 email.cfm
 email.htm
+email.php
 email.tst
 emails-vip
 emailsvip
@@ -5635,6 +5679,8 @@ faar-more
 fabulous drug
 fabulous-drug
 fabulousdrug
+fac visit
+fac-visit
 face denali
 face jacke
 face out
@@ -5788,6 +5834,8 @@ fckt
 fcukfcuk
 features.asp
 features.cfm
+features.htm
+features.php
 federl
 feelng
 feichang0
@@ -6558,6 +6606,7 @@ goose-youth
 goose.asp
 goose.cfm
 goose.htm
+goose.php
 goose<
 gooseca
 goosecalgary
@@ -6964,6 +7013,8 @@ help_
 help-tax
 help.asp
 help.cfm
+help.htm
+help.php
 helpcry
 helpful-information
 helpful-method
@@ -7624,10 +7675,12 @@ it duvetica
 it ordeno
 it ordenó
 it rite
+it truly
 it-duvetica
 it-ordeno
 it-ordenó
 it-rite
+it-truly
 italia scarpe
 italia-scarpe
 italiascarpe
@@ -7637,6 +7690,8 @@ italyshop
 italystore
 item.asp
 item.cfm
+item.htm
+item.php
 itemnotfound
 itstree
 iwant2
@@ -8060,6 +8115,9 @@ knowledgeable individual
 knowledgeable-individual
 known blog
 known-blog
+kobe ont
+kobe_
+kobe-ont
 kobe-shoe
 kobeshoe
 komputer
@@ -8332,10 +8390,16 @@ levne
 liabaleles
 libraries.asp
 libraries.cfm
+libraries.htm
+libraries.php
 library.asp
 library.cfm
+library.htm
+library.php
 librarys.asp
 librarys.cfm
+librarys.htm
+librarys.php
 librium
 lifeinsurance
 lifelock
@@ -9263,6 +9327,7 @@ mlb-cap
 mlb.asp
 mlb.cfm
 mlb.htm
+mlb.php
 mlbcap
 mlm business
 mlm lead
@@ -9403,6 +9468,7 @@ moncler.arkis
 moncler.asp
 moncler.cfm
 moncler.htm
+moncler.php
 moncler2013
 moncler2014
 moncler2015
@@ -9704,6 +9770,7 @@ nba-utah
 nba.asp
 nba.cfm
 nba.htm
+nba.php
 nbahouston
 nbajers
 nbamen
@@ -9796,6 +9863,7 @@ nfl-shop
 nfl.asp
 nfl.cfm
 nfl.htm
+nfl.php
 nfljers
 nflofficial
 nflreplica
@@ -9803,6 +9871,7 @@ nflshop
 nfr.asp
 nfr.cfm
 nfr.htm
+nfr.php
 nhl jers
 nhl replica
 nhl-jers
@@ -9811,6 +9880,7 @@ nhl-shop
 nhl.asp
 nhl.cfm
 nhl.htm
+nhl.php
 nhljers
 nhlofficial
 nhlreplica
@@ -11674,12 +11744,20 @@ saletrain
 saleu.co
 salomon athletic
 salomon canada
+salomon run
+salomon_
 salomon-athletic
 salomon-canada
 salomon-fr
+salomon-run
+salomon.asp
+salomon.cfm
+salomon.htm
+salomon.php
 salomonathletic
 salomoncanada
 salomonfr
+salomonrun
 salvia.
 sameday-loan
 samedayloan
@@ -12174,6 +12252,9 @@ skincare-review
 skincare-work
 skincarereview
 skincarework
+skinnys review
+skinnys-review
+skinnysreview
 skip-trac
 skjønnhetsprodukter
 sklep
@@ -12806,6 +12887,7 @@ thumb.gif
 thumb.htm
 thumb.jpeg
 thumb.jpg
+thumb.php
 thumb.png
 thumbs.asp
 thumbs.cfm
@@ -12813,6 +12895,7 @@ thumbs.gif
 thumbs.htm
 thumbs.jpeg
 thumbs.jpg
+thumbs.php
 thumbs.png
 thyromine
 tɦ
@@ -13604,12 +13687,16 @@ video-sport
 video.asp
 video.cfm
 video.htm
+video.php
 videochat
 videogamedesign
 videomagnif
 videopokie
 videopop
+videos.asp
+videos.cfm
 videos.htm
+videos.php
 videosport
 vidios
 viencare
@@ -13837,6 +13924,7 @@ web optimiz
 web owner
 web people
 web promo
+web sie
 web website
 web_log
 web-anal
@@ -13847,6 +13935,7 @@ web-optimiz
 web-owner
 web-people
 web-promo
+web-sie
 web-site
 web-solution
 web-traffic
