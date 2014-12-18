@@ -2,6 +2,7 @@ _abercrombie
 _account
 _adidas
 _advantage
+_afford
 _alviero
 _article
 _asics
@@ -16,6 +17,7 @@ _blog
 _bord
 _bracelet
 _build
+_buyout
 _bvlgari
 _camiseta
 _campaign
@@ -47,6 +49,8 @@ _estate
 _event
 _fake
 _femme
+_fifa
+_football
 _forte
 _free
 _fuck
@@ -92,6 +96,7 @@ _load
 _loan
 _longchamp
 _loubou
+_maillot
 _market
 _mbt
 _mcm
@@ -120,6 +125,7 @@ _porn
 _post
 _ppv
 _prada
+_prod
 _prof
 _promo
 _ray
@@ -1329,6 +1335,7 @@ _youtube
 /coachpurse.
 /coachpurses-
 /coachpurses.
+/coin.
 /commodity-
 /commodity.
 /common/
@@ -2209,6 +2216,7 @@ _youtube
 =mcm
 =node
 =pandora
+=produit
 =profile
 =read
 =salomon
@@ -2650,6 +2658,8 @@ afflictionjean
 afflictionmen
 afflictionnew
 afflictionoffer
+afford afford
+affordable afford
 affordable hand
 affordable-hand
 afl jers
@@ -3839,6 +3849,9 @@ buyjp
 buylouis
 buymovie
 buyonline
+buyout keep
+buyout_
+buyout-keep
 buyplus
 buysoma
 buytoms
@@ -5832,6 +5845,8 @@ fbfans
 fblike
 fckt
 fcukfcuk
+feacute-deacute
+feacutedeacute
 features.asp
 features.cfm
 features.htm
@@ -5881,6 +5896,7 @@ fg-xpress
 fgxpress
 fibromyalgia
 fifa ultimate
+fifa_
 fifa-15
 fifa-ultimate
 fifa-ut
@@ -5985,8 +6001,12 @@ foot-discount
 foot-manche
 foot-nike
 football shirt
+football tee
+football_
 football-shirt
+football-tee
 footballshirt
+footballtee
 footdiscount
 footmanche
 footnike
@@ -6322,6 +6342,8 @@ gamewiki
 gamma blue
 gamma-blue
 gammablue
+gamme reacute
+gamme-reacute
 gamyba
 gangprofil
 ganhar dinheiro
@@ -7549,6 +7571,8 @@ insurances
 intagra
 intdrnation
 intelligently about
+interact internet
+interact-internet
 interesting blog
 interesting-blog
 interferende
@@ -7656,6 +7680,7 @@ ipod-suppl
 ipodrepair
 ipodsuppl
 iprofit
+ipアドレス
 irc-chat
 is seo
 is-now-available
@@ -7996,6 +8021,14 @@ jswing
 juanjuan
 juicycouture
 jumpedup
+junior baby
+junior kid
+junior-baby
+junior-kid
+juniors baby
+juniors kid
+juniors-baby
+juniors-kid
 justcloud
 justness
 k http
@@ -8050,9 +8083,13 @@ keywords3
 kfcnfl
 khumbu north
 khumbu-north
+kid baby
+kid-baby
+kids baby
 kids nike
 kids out
 kids ugg
+kids-baby
 kids-nike
 kids-ugg
 kidsnike
@@ -8789,6 +8826,7 @@ maillot maillot
 maillot man
 maillot psg
 maillot uk
+maillot_
 maillot-de
 maillot-enfant
 maillot-foot
@@ -8800,7 +8838,10 @@ maillotde
 maillotman
 maillotpsg
 maillots de foot
+maillots_
 maillots-de-foot
+maillots-tenue
+maillots/tenue
 maillotuk
 main longchamp
 main-longchamp
@@ -9613,6 +9654,9 @@ most-effective
 mostra video
 mostra-video
 mostravideo
+moustache play
+moustache-play
+moustacheplay
 movie-online
 movie-zone
 movie/?
@@ -10122,8 +10166,10 @@ odszkodowania
 odziez
 oem-software
 oemsoftware
+of deemed
 of herpes
 of internet
+of-deemed
 of-herpes
 of-internet
 offer out
@@ -11053,8 +11099,16 @@ produce-article
 producer excellent
 producer-excellent
 product
+product hermes
+product_
+product-hermes
 product-sale
 product/product
+producthermes
+produit hermes
+produit_
+produit-hermes
+produithermes
 produkcja
 profesjonal
 professional 2007
@@ -11213,6 +11267,10 @@ queenchiffon
 queenclutch
 queenjp
 queenout
+quelques autre
+quelques outre
+quelques-autre
+quelques-outre
 querireda
 quick loans
 quick_
@@ -12795,6 +12853,8 @@ testuser
 tetracycline
 texans-jers
 texansjers
+textile urbain
+textile-urbain
 tgf@
 thailove
 thanks.i
@@ -13178,6 +13238,8 @@ ubezpieczenia
 ubirkin
 ucoz.co
 ucoz.ru
+uefa-fifa
+uefafifa
 ufficiales
 ugboos
 ugbos
@@ -13483,6 +13545,8 @@ underthe
 une moncler
 une-moncler
 unemoncler
+unique interact
+unique-interact
 unitedidesign
 universal-key
 unknown.co
@@ -13540,6 +13604,8 @@ uploadedfile
 uploadfile
 uploads_
 upseseglype
+urbain football
+urbain-football
 urlacher jers
 urlacher-jers
 urlacherjers
@@ -14966,6 +15032,7 @@ zyvox
 コンバース
 ご了承
 ご返金
+さしあげ
 サッカー
 サマンサタバサ
 サングラス
@@ -15018,6 +15085,7 @@ zyvox
 ブランド
 ブルガリ
 ブレスレット
+プレゼント
 ブログ
 プロダ
 プロモ
