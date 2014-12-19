@@ -21,6 +21,7 @@ _buyout
 _bvlgari
 _camiseta
 _campaign
+_cartier
 _casino
 _chaussure
 _cheap
@@ -698,6 +699,7 @@ _youtube
 -women-jers
 -womens-jers
 -womens.
+-x-
 -xchange
 -yuwanshe.
 -yuwanshe/
@@ -2037,6 +2039,8 @@ _youtube
 &#12532;&#12451;&#12488;&#12531;
 &#20605;&#29289;
 &#21033;
+&#22909;&#35413;
+&#30330;&#22770;
 &#36001;&#24067;
 &#37329;
 &~
@@ -2766,6 +2770,8 @@ anal sex
 anal-sex
 analsex
 and bye.
+and shate
+and-shate
 and-special
 andcloth
 andcoupon
@@ -2948,6 +2954,8 @@ automaticbackup.
 automaticpay
 autre artic
 autre-artic
+autres equip
+autres-equip
 avatar-live
 avvessorie
 avvessory
@@ -2992,14 +3000,17 @@ baclofen
 bad credit
 bad-credit
 badcredit
+bag cartier
 bag crash
 bag out
+bag-cartier
 bag-cheap
 bag-crash
 bag-online
 bag-out
 bag.asp
 bag.htm
+bagcartier
 bagcheap
 bagcrash
 bagjap
@@ -3009,6 +3020,7 @@ bagonline
 bagonsale
 bagout
 bags afford
+bags cartier
 bags jap
 bags jp
 bags online
@@ -3016,6 +3028,7 @@ bags out
 bags sale
 bags uk
 bags-afford
+bags-cartier
 bags-cheap
 bags-jap
 bags-jp
@@ -3023,6 +3036,7 @@ bags-online
 bags-out
 bags-uk
 bagsale
+bagscartier
 bagscheap
 bagsjap
 bagsjp
@@ -4004,6 +4018,7 @@ carreramoinscher
 cars insurance
 cars-games
 cars-insurance
+cartier_
 cartuchos
 casaemail.co
 casebycase
@@ -5547,7 +5562,10 @@ epica watch
 epica-watch
 epo doping
 eqbandz
-equipment-manufactur
+equipement manufact
+equipement-manufact
+equipment manufact
+equipment-manufact
 era afl
 era mlb
 era nba
@@ -12036,11 +12054,22 @@ settlement-cash
 several opportune
 several-opportune
 sex advice
+sex blog
+sex cam
+sex dat
+sex game
+sex scan
+sex shop
 sex tape
+sex toy
+sex tube
+sex web
 sex-advice
 sex-blog
 sex-cam
+sex-dat
 sex-game
+sex-scan
 sex-shop
 sex-tape
 sex-toy
@@ -12051,14 +12080,13 @@ sexadvice
 sexblog
 sexcam
 sexdat
-sexdate
 sexelist
 sexero
 sexgame
 sexo mon
 sexo-mon
 sexomon
-sexscandal
+sexscan
 sexshop
 sextape
 sextoy
@@ -12072,12 +12100,18 @@ sexweb
 sexy.co
 seznamce
 sgames.co
+shanghai escort
+shanghai massage
 shanghai-escort
 shanghai-massage
 shanghaiescort
 shanghaimassage
 shanrig
 shared site
+shared-site
+shate thou
+shate-thou
+shed fat
 shed-fat
 shemale.
 shirt cease
@@ -12194,8 +12228,10 @@ shopnfl
 shopnow
 shopof
 shoponline
+shoppe_
 shopper_
 shoppers_
+shoppes_
 shopping harmony
 shopping online
 shopping site
@@ -15019,6 +15055,7 @@ zyvox
 ガガ
 カジュアル
 カナダグース
+カルティエ
 カルティエは
 ギフト
 グッチ
@@ -15047,6 +15084,7 @@ zyvox
 スニーカー
 スポード
 スワロフスキー
+セールス
 セイコー
 セクシー
 セリーヌ
@@ -15135,6 +15173,7 @@ zyvox
 商品
 块钱
 外贸
+好評
 安い
 小銭入れ
 履
@@ -15154,6 +15193,7 @@ zyvox
 状態
 猫v
 用品
+発売
 百家乐
 直営店
 眉n
