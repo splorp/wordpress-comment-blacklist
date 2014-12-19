@@ -10,6 +10,7 @@
 /clck.ru
 /cort.as
 /fc.cx
+/ge.tt
 /goo.gl
 /hfg.cc
 /is.gd
