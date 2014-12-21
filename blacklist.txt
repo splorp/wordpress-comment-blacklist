@@ -10,6 +10,7 @@ _babe
 _backup
 _barata
 _barato
+_bcbg
 _benefit
 _bijoux
 _bitcoin
@@ -100,6 +101,7 @@ _longchamp
 _loubou
 _maillot
 _market
+_maxazria
 _mbt
 _mcm
 _men
@@ -619,10 +621,22 @@ _youtube
 -service.
 -sexy-
 -shiatsu.
+-shoe.
+-shoe/
 -shoes.
--shop.asp
--shop.co
--shop.htm
+-shoes/
+-shop.
+-shop/
+-shoppe.
+-shoppe/
+-shopper.
+-shopper/
+-shoppes.
+-shoppes/
+-shopping.
+-shopping/
+-shops.
+-shops/
 -sigareta-
 -sigareta.
 -sigareta/
@@ -766,6 +780,7 @@ _youtube
 ?ray
 ?sexy
 ?shoe
+?shop
 ?store
 ?t_
 ?t-
@@ -1469,6 +1484,7 @@ _youtube
 /ge.tt
 /gekiyasu
 /get-free
+/get/
 /gh0/
 /gh1/
 /glowna.
@@ -2047,6 +2063,7 @@ _youtube
 &#21033;
 &#22909;&#35413;
 &#28608;&#23433;
+&#28961;&#26009;
 &#30330;&#22770;
 &#36001;&#24067;
 &#37329;
@@ -2349,6 +2366,7 @@ _youtube
 365.co
 365.in
 404.asp
+404.cfm
 404.htm
 404.php
 911.co
@@ -3022,7 +3040,9 @@ bag-crash
 bag-online
 bag-out
 bag.asp
+bag.cfm
 bag.htm
+bag.php
 bagcartier
 bagcheap
 bagcrash
@@ -3067,6 +3087,9 @@ balance espa
 balance-espa
 balanceespa
 balenciagasingapore
+ballgowns dress
+ballgowns-dress
+ballgownsdress
 bally store
 bally-store
 ballystore
@@ -3193,8 +3216,24 @@ bazookaapp
 bɑ
 bbombr
 bbrand
+bcbg casual
 bcbg dress
+bcbg printed
+bcbg runway
+bcbg sleeve
+bcbg strapless
+bcbg_
+bcbg-casual
 bcbg-dress
+bcbg-printed
+bcbg-runway
+bcbg-sleeve
+bcbg-strapless
+bcbgcasual
+bcbgprinted
+bcbgrunway
+bcbgsleeve
+bcbgstrapless
 bddv
 be benefited
 beamten
@@ -4096,9 +4135,11 @@ catalogs.htm
 catalogs.php
 catalogue.asp
 catalogue.cfm
+catalogue.htm
 catalogue.php
 catalogues.asp
 catalogues.cfm
+catalogues.htm
 catalogues.php
 cavin-klein
 cavinklein
@@ -4749,6 +4790,18 @@ coachtokyo
 coachwallet
 coachwrist
 coachya
+coast alva
+coast petite
+coast shift
+coast va
+coast-alva
+coast-petite
+coast-shift
+coast-va
+coastalva
+coastpetite
+coastshift
+coastva
 coat out
 coat-out
 coatout
@@ -5218,8 +5271,10 @@ diet-review
 diet-solution
 diet-suppl
 diet.asp
+diet.cfm
 diet.co
 diet.htm
+diet.php
 dietpill
 dietplan
 dietreview
@@ -5382,10 +5437,13 @@ dress-shoe
 dress-shop
 dress-uk
 dress.rent
+dresses bcbg
 dresses herve
+dresses-bcbg
 dresses-herve
 dresses-uk
 dresses.wed
+dressesbcbg
 dressesherve
 dressherve
 dresshop
@@ -5444,6 +5502,9 @@ dubturbo
 ducati tumi
 ducati-tumi
 ducatitumi
+duchess satin
+duchess-satin
+duchesssatin
 dude.de
 dudes.de
 dummytest
@@ -5887,6 +5948,10 @@ fckt
 fcukfcuk
 feacute-deacute
 feacutedeacute
+feature.asp
+feature.cfm
+feature.htm
+feature.php
 features.asp
 features.cfm
 features.htm
@@ -6584,8 +6649,11 @@ goldplated
 goldseiko
 goldsuppl
 goldtruth
+golf accessor
+golf-accessor
 golf-promo
 golf-shop
+golfaccessor
 golfplaza
 golfpromo
 golfs
@@ -6817,6 +6885,9 @@ gry online
 gstar jean
 gstar-jean
 gstarjean
+gta online
+gta-online
+gtaonline
 guantes marshall
 guantes-marshall
 guantesmarshall
@@ -7364,7 +7435,10 @@ hot-sale
 hot-tag
 hot-tags
 hot-tech
+hot.asp
+hot.cfm
 hot.htm
+hot.php
 hotburberry
 hotel deal
 hotel hermes
@@ -7545,8 +7619,15 @@ info/user
 info/view
 infolist
 infonetcom
+informasjon.asp
+informasjon.cfm
 informasjon.htm
+informasjon.php
 informatik
+information.asp
+information.cfm
+information.htm
+information.php
 informatique enligne
 informatique-enligne
 informative article
@@ -7690,7 +7771,9 @@ iphone-crack
 iphone-repair
 iphone-suppl
 iphone.asp
+iphone.cfm
 iphone.htm
+iphone.php
 iphone/iphone
 iphone2me
 iphone2you
@@ -7925,7 +8008,10 @@ jersey-from
 jersey-pro
 jersey-soccer
 jersey-wholesale
+jersey.asp
+jersey.cfm
 jersey.htm
+jersey.php
 jersey.us
 jersey+
 jersey2013
@@ -8040,6 +8126,9 @@ jordansout
 jordansshoe
 jordanstore
 jordjev
+joselyn sleeve
+joselyn-sleeve
+joselynsleeve
 journal/item
 jp-bag
 jp-best
@@ -8455,7 +8544,13 @@ lenjerie
 lesben-
 lesbos.
 lespaulsmith
+less dress
+less peplum
+less-dress
+less-peplum
+lessdress
 lesson1
+lesspeplum
 letrozole
 levaquin
 level 50
@@ -8664,6 +8759,9 @@ lose-weight
 loseweight
 losreplica
 loteprednol
+lottie maxi
+lottie-maxi
+lottiemaxi
 lotto-tip
 lottotip
 louboutin bianca
@@ -8887,7 +8985,9 @@ maillotuk
 main longchamp
 main-longchamp
 main.asp
+main.cfm
 main.htm
+main.php
 main/main
 mainlongchamp
 mains lancel
@@ -9037,7 +9137,14 @@ max sale
 max-griffey
 max-sale
 maxalt
+maxazria plum
+maxazria_
+maxazria-plum
+maxazriaplum
 maxgriffey
+maxi va
+maxi-va
+maxiva
 maxsale
 may-help-you
 mbt ayakkab
@@ -9625,7 +9732,10 @@ money-prim
 money-robot
 money-site
 money-with
+money.asp
+money.cfm
 money.htm
+money.php
 moneyfast
 moneymak
 moneyprim
@@ -9688,7 +9798,10 @@ more-deal
 more-eventually
 morelvjp
 morpg
+mortgage.asp
+mortgage.cfm
 mortgage.htm
+mortgage.php
 mortgagecalc
 moscow-model
 most-effective
@@ -9893,6 +10006,8 @@ network-truth
 networkscam
 networktruth
 neurontin
+nevertheless just
+nevertheless-just
 new gucci
 new jordan
 new manolo
@@ -10120,7 +10235,10 @@ nouvelles-sneaker
 novinki_
 now.in
 nude-ass
+nude.asp
+nude.cfm
 nude.htm
+nude.php
 nufactur
 nе
 nу
@@ -10334,10 +10452,13 @@ online-shop
 online-store
 online-usa
 online-zapatilla
+online.asp
+online.cfm
 online.com
 online.de
 online.htm
 online.in
+online.php
 online.web
 onlinebackup
 onlinebag
@@ -10378,6 +10499,7 @@ only-pokie
 onlyway
 onsale-
 onsale.asp
+onsale.cfm
 onsale.co
 onsale.htm
 onsale.php
@@ -10563,6 +10685,8 @@ oь
 oս
 p http
 p90x
+packers jers
+packers-jers
 packersjers
 page scrape
 page_
@@ -10570,10 +10694,11 @@ page-scrape
 page.tl
 page/pag
 pages scrape
+pages_
 pages-scrape
 pagescrape
 pagesscrape
-pagss.htm
+pagss
 pain-behind
 pain-relief.
 painbehind
@@ -10676,6 +10801,9 @@ passwort
 passwrot
 patagonia-zone
 patagoniazone
+patience maxi
+patience-maxi
+patiencemaxi
 patrao-online
 patraoonline
 patriots hat
@@ -10786,6 +10914,9 @@ personalinjury
 personnalis
 perweek
 petencies
+petite dress
+petite-dress
+petitedress
 petroleum kohlenwasserstoff
 petroleum-kohlenwasserstoff
 petroleumkohlenwasserstoff
@@ -11094,7 +11225,9 @@ preparationwise
 prescription acne
 prescription-acne
 prescription.asp
+prescription.cfm
 prescription.htm
+prescription.php
 prescriptionacne
 presentation subsequent
 presentation-subsequent
@@ -11578,17 +11711,21 @@ review-best
 review-source
 review.asp
 review.blog
+review.cfm
 review.htm
 review.in
+review.php
 reviewbest
 reviews best
 reviews-best
 reviews.asp
 reviews.blog
+reviews.cfm
 reviews.htm
 reviews.in
 reviews.net
 reviews.org
+reviews.php
 reviewsbest
 reviewsource
 reviewstv
@@ -11659,7 +11796,10 @@ rozszerzona
 rpg online
 rpg-online
 rpgonline
+rss.asp
+rss.cfm
 rss.htm
+rss.php
 rug fur
 rug-fur
 rugfur
@@ -11685,6 +11825,12 @@ runningsneak
 runppv
 runshoe
 runsneak
+runway dress
+runway sita
+runway-dress
+runway-sita
+runwaydress
+runwaysita
 russian mulberry
 russian-mulberry
 russianmulberry
@@ -11881,10 +12027,13 @@ sauvegarde extern
 sauvegarde-extern
 sɑ
 sbobet
+scam.asp
+scam.cfm
 scam.htm
 scam.in
 scam.net
 scam.org
+scam.php
 scar repair
 scar-repair
 scarpe air
@@ -12106,7 +12255,10 @@ sex-tape
 sex-toy
 sex-tube
 sex-web
+sex.asp
+sex.cfm
 sex.htm
+sex.php
 sexadvice
 sexblog
 sexcam
@@ -12128,7 +12280,11 @@ sexual-fantas
 sexual-moment
 sexualfantas
 sexweb
+sexy.asp
+sexy.cfm
 sexy.co
+sexy.htm
+sexy.php
 seznamce
 sgames.co
 shanghai escort
@@ -12145,6 +12301,9 @@ shate-thou
 shed fat
 shed-fat
 shemale.
+shift dress
+shift-dress
+shiftdress
 shirt cease
 shirt-cease
 shoe america
@@ -12330,7 +12489,10 @@ simply-shared
 sincere understand
 sincere-understand
 sinequan
+singapore.asp
+singapore.cfm
 singapore.htm
+singapore.php
 sistershit
 site asian
 site backup
@@ -12662,6 +12824,9 @@ storm-hurricane
 stosunek
 stoxymom
 straightface
+strapless tiered
+strapless-tiered
+straplesstiered
 strategies-for
 strategy-for
 stratificat.
@@ -12745,6 +12910,8 @@ super real
 super-compan
 super-real
 superarticle
+superb blog
+superb-blog
 supercompan
 superheroz
 superior compan
@@ -12995,7 +13162,10 @@ this-website
 thisattempt
 thisjourn
 thjng
+thm.asp
+thm.cfm
 thm.htm
+thm.php
 thnnik
 thomas sabot
 thomas-fat
@@ -13287,7 +13457,10 @@ tummytuck
 turbo-vac
 turbosprezar
 turystyka
+tutorial.asp
+tutorial.cfm
 tutorial.htm
+tutorial.php
 tutoringand
 tvturn
 twenty sunglass
@@ -13416,7 +13589,10 @@ ugg-turn
 ugg-uk
 ugg-usa
 ugg-wom
+ugg.asp
+ugg.cfm
 ugg.htm
+ugg.php
 ugg+
 ugg=
 ugg3
@@ -13673,11 +13849,12 @@ uploads_
 upseseglype
 urbain football
 urbain-football
+url-status
 urlacher jers
 urlacher-jers
 urlacherjers
 urls2
-urlstatusgo.htm
+urlstatus
 uroda
 us/profile
 usa-best
@@ -13701,6 +13878,9 @@ uustore
 uy/image
 uг
 uѕ
+va ballgown
+va-ballgown
+vaballgown
 valise louis
 valise-louis
 valiselouis
@@ -15236,7 +15416,7 @@ zyvox
 毛刈
 漫画を
 激安
-無料に
+無料
 状態
 猫v
 用品
