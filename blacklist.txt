@@ -80,6 +80,7 @@ _idea
 _income
 _index
 _info
+_instant
 _jacket
 _java
 _jers
@@ -166,6 +167,7 @@ _timber
 _title
 _titleist
 _track
+_traffic
 _tumi
 _ugg
 _uomo
@@ -535,6 +537,9 @@ _youtube
 -npn/
 -nude-
 -nudes-
+-nuestratienda-
+-nuestratienda.
+-nuestratienda/
 -oakley.
 -oakley/
 -occhiali-
@@ -1732,6 +1737,8 @@ _youtube
 /novinki.
 /npn-
 /npn.
+/nuestratienda-
+/nuestratienda.
 /oakley-
 /oakley.
 /oakley/
@@ -6342,23 +6349,17 @@ fruitful-design
 fruta planta
 frutaplanta
 fuck down
-fuck google
 fuck hard
 fuck-
 fuck-down
-fuck-google
 fuck-hard
 fuckdown
-fuckgoogle
 fuckhard
 fucks down
-fucks google
 fucks hard
 fucks-down
-fucks-google
 fucks-hard
 fucksdown
-fucksgoogle
 fuckshard
 ful malware
 ful-malware
@@ -7606,6 +7607,8 @@ impregnacji
 impressive share
 impressive-share
 in-disguise
+in' tremendous
+in’ tremendous
 inbeing
 inbto
 include priceless
@@ -7616,7 +7619,9 @@ increase traffic
 increase-traffic
 increasetraffic
 incredible article
+incredible point
 incredible-article
+incredible-point
 inderal
 indeutsch
 index/css
@@ -7689,19 +7694,32 @@ instagram in
 instagram-in
 install-virtual
 installvirtual
+instant blog
+instant cash
 instant loan
+instant pay
 instant traffic
 instant web
+instant week
+instant_
 instant-blog
+instant-cash
 instant-loan
+instant-pay
+instant-traffic
+instant-web
+instant-week
 instantblog
 instantcash
 instantloan
 instantpay
-instantweekly
+instanttraffic
+instantweb
+instantweek
 instructor car
 instructor-car
 insurance car
+insurance quote
 insurance-car
 insurance-compan
 insurance-quote
@@ -7709,10 +7727,13 @@ insurances
 intagra
 intdrnation
 intelligently about
+intelligently-about
 interact internet
 interact-internet
 interesting blog
+interesting post
 interesting-blog
+interesting-post
 interferende
 internet gambl
 internet lifestyle
@@ -10258,6 +10279,7 @@ nude.asp
 nude.cfm
 nude.htm
 nude.php
+nuestra-tienda
 nufactur
 nе
 nу
@@ -13441,6 +13463,7 @@ trackback-url
 tracking-a-phone
 trade_your
 trading-method
+traffic_
 trafficvance
 trafficz
 trailer sale
