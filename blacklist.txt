@@ -783,6 +783,7 @@ _youtube
 ?pandora
 ?prada
 ?ray
+?scarpe
 ?sexy
 ?shoe
 ?shop
@@ -1038,6 +1039,7 @@ _youtube
 [color
 [move
 [url
+{scarpe
 @123
 @gmai.
 @mail-
@@ -3373,6 +3375,7 @@ best-wordpress
 best4glass
 bestad.
 bestads.
+bestbut
 bestcase
 bestcontractor
 bestdirect
@@ -7305,18 +7308,24 @@ hobo-fuchsia
 hobobag
 hobofuchsia
 hogan online
+hogan oulet
 hogan out
+hogan outlet
 hogan scarpe
 hogan shoe
 hogan sito
 hogan timeactive
 hogan-online
+hogan-oulet
 hogan-out
+hogan-outlet
 hogan-scarpe
 hogan-shoe
 hogan-sito
 hogan-timeactive
+hoganoulet
 hoganout
+hoganoutlet
 hoganshoe
 hogansito
 hogantimeactive
@@ -8152,8 +8161,10 @@ jordannoir
 jordanout
 jordanretro
 jordans cheap
+jordans for
 jordans out
 jordans-cheap
+jordans-for
 jordans-out
 jordansale
 jordansc
@@ -8532,20 +8543,26 @@ laurent sandal
 laurent-femme
 laurent-sandal
 laurentfemme
+laurentsandal
 laurenuk
 lawoffice.net
 lɑ
 lead-system
 leaked1
 learn facebook
+learn help
 learn-facebook
-learn-helpful
+learn-help
 learnfacebook
+learnhelp
 learningxchange
 learnpianohere
+leather levi
 leather-levi
 leatherlevi
+lebron shoe
 lebron_
+lebron-shoe
 lebronshoe
 lebronxshoe
 led_down
@@ -8861,19 +8878,26 @@ louboutinuk
 louboutinwedge
 louis vitton
 louis vuittone
+louis-vitton
 louis-vuitton
+louisvitton
 louisvuit.
 louisvuitton
 louiswuitton
-love connector
-love-connector
+love connect
+love-connect
+love-lv
+loveconnect
 loved onein
 loved-onein
 lovelv
 lovely thong
 lovely-thong
+lovelythong
 lovelyto
 lovemyhair
+loving natural
+loving-natural
 lovingnatural
 low priced
 low-cost-
@@ -8881,11 +8905,14 @@ low-priced
 lowpriced
 loyalty today
 loyalty-today
+loyaltytoday
 lublin.
 lublina.
 luck jers
 luck-jers
 luckjers
+luggage tote
+luggage-tote
 luggagetote
 lululemon cal
 lululemon loca
@@ -10153,6 +10180,7 @@ nike run
 nike sb
 nike schuh
 nike shoe
+nike store
 nike tn
 nike total
 nike_
@@ -10173,6 +10201,7 @@ nike-sb
 nike-schuh
 nike-shoe
 nike-sko
+nike-store
 nike-tn
 nike-total
 nike1
@@ -10199,6 +10228,7 @@ nikeshop
 nikesko
 nikesportjap
 nikesportjp
+nikestore
 niketn
 niketokyo
 niketotal
@@ -10598,6 +10628,9 @@ otvety
 oufficiale moncler
 oufficiale-moncler
 oufficialemoncler
+oulet online
+oulet-online
+ouletonline
 our link
 our-link
 ourlink
@@ -10744,6 +10777,8 @@ pagss
 pain-behind
 pain-relief.
 painbehind
+painless glad
+painless-glad
 painrelief.
 paintedfor
 panda-shoe
@@ -12082,20 +12117,24 @@ scarpe air
 scarpe hogan
 scarpe italia
 scarpe mbt
+scarpe nike
 scarpe prada
 scarpe roger
 scarpe supra
+scarpe_
 scarpe-air
 scarpe-basket
 scarpe-hogan
 scarpe-italia
 scarpe-mbt
+scarpe-nike
 scarpe-prada
 scarpe-roger
 scarpe-supra
 scarpebasket
 scarpehogan
 scarpeitalia
+scarpenike
 scarpeprada
 scarperoger
 scarrepair
@@ -14831,6 +14870,7 @@ xopenex
 xportant
 xrumer
 xstream
+xsvseqvkz
 xtra-clean
 xwebsite
 xx.co
