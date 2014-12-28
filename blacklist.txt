@@ -1923,6 +1923,7 @@ _youtube
 /swf/
 /syaneru
 /system/
+/t.co
 /tabid/
 /tagged/
 /telecharger-

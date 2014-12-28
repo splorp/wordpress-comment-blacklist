@@ -22,6 +22,7 @@
 /sn.im
 /snipurl.co
 /stan.to
+/t.co
 /tiny.cc
 /tinyls.net
 /tinyurl.co
