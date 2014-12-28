@@ -17,6 +17,7 @@
 /just.as
 /loorg.de
 /onip.it
+/ow.ly
 /smsh.me
 /sn.im
 /snipurl.co
