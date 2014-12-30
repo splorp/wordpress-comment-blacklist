@@ -6,6 +6,8 @@ _afford
 _alviero
 _article
 _asics
+_autentic
+_authentic
 _babe
 _backup
 _barata
@@ -124,6 +126,7 @@ _oakley
 _occh
 _occhiali
 _online
+_orig
 _outlet
 _pandora
 _parafon
@@ -178,6 +181,8 @@ _uomo
 _upload
 _uptime
 _url
+_user
+_usuario
 _util
 _vti
 _vuitton
@@ -238,6 +243,12 @@ _youtube
 -auction-
 -auction.
 -auction/
+-autentica-
+-autentica.
+-autentica/
+-autentico-
+-autentico.
+-autentico/
 -authentic-
 -authentic.
 -authentic/
@@ -752,6 +763,12 @@ _youtube
 ;&#x
 ;#
 :)!
+:adidas
+:blog
+:nike
+:post
+:user
+:usuario
 ！
 ! .
 !!!
@@ -821,10 +838,14 @@ _youtube
 .blogspace.
 .bluray-
 .bluray.
+.canadagoose-
+.cartier-
 .cause-
 .causes-
 .cfmx
 .cgi
+.chanel-
+.coach-
 .com wild
 .com,
 .com?
@@ -857,13 +878,17 @@ _youtube
 .executive-
 .fake-
 .fcgi
+.filmy-
 .filpan.ru
 .filvce.in
 .forum.
 .frebvic.in
 .freeforums.org
 .games.pl
+.gucci-
 .hard-
+.hermes-
+.herveleger-
 .htm?
 .htm/
 .html?
@@ -894,9 +919,12 @@ _youtube
 .internet-
 .it/t/
 .longchamp-
+.louboutin-
 .magix.net
+.marant-
 .mobi/?
 .moncler-
+.mulberry-
 .net,
 .net?
 .net/,
@@ -909,6 +937,8 @@ _youtube
 .net/3.
 .net/online
 .net/user
+.newbalance-
+.nike-
 .nikeshox
 .on-demand
 .online.pl
@@ -1237,8 +1267,14 @@ _youtube
 /asthma-
 /asthma.
 /ateffa.ms
+/attachment/
 /attachments/
-/authentic
+/autentica-
+/autentica.
+/autentico-
+/autentico.
+/authentic-
+/authentic.
 /b54.in
 /baby-
 /baby.
@@ -1261,10 +1297,10 @@ _youtube
 /birkenstock.
 /birkenstocks-
 /birkenstocks.
+/birkin-
 /birkin.
 /bit.ly
 /bitcoin-
-/blog:
 /blog.
 /blogid
 /bloglist/
@@ -1286,6 +1322,7 @@ _youtube
 /brand4
 /brand5
 /burberry-
+/burberry.
 /burberry1
 /burberry2
 /burberry3
@@ -1300,6 +1337,15 @@ _youtube
 /cache-
 /cache.
 /cache/
+/cached-
+/cached.
+/cached/
+/caches-
+/caches.
+/caches/
+/caching-
+/caching.
+/caching/
 /caindex.
 /camiseta-
 /camiseta.
@@ -1401,6 +1447,7 @@ _youtube
 /cp/
 /crimea-
 /css/
+/custom-control
 /custom/de/
 /custom/en/
 /custom/fr/
@@ -1431,15 +1478,20 @@ _youtube
 /doku-
 /doku.
 /dolce-gabbana
+/doudoun-
 /doudoun.
+/doudoune-
 /doudoune.
 /download.
 /drmarten-
 /drmartens-
-/drug
+/drug-
+/drug.
 /dsquared-
 /dsquared.
+/duvetica-
 /duvetica.
+/easing-
 /easing.
 /ebay/
 /ecig-
@@ -1799,7 +1851,6 @@ _youtube
 /plus.
 /popup
 /porn
-/post:
 /postinfo-
 /postinfo.
 /posty/
@@ -1983,11 +2034,9 @@ _youtube
 /urlms.co
 /usa.
 /user-
-/user:
 /user.
 /userid/
 /userprofile/
-/usuario:
 /vasion-
 /vasion.
 /vb/
@@ -2982,10 +3031,33 @@ australian-pokie
 austria asics
 austria-asics
 austriaasics
-auteur:nike
+autentica cheap
+autentica hermes
+autentica jordan
+autentica_
+autentica-cheap
+autentica-jordan
+autentica-ugg
+autenticahermes
+autenticajordan
+autenticaugg
+autentico cheap
+autentico hermes
+autentico jordan
+autentico_
+autentico-cheap
+autentico-jordan
+autentico-ugg
+autenticohermes
+autenticojordan
+autenticougg
+auteur nike
+auteur-nike
+auteurnike
 authentic cheap
 authentic hermes
 authentic jordan
+authentic_
 authentic-cheap
 authentic-jordan
 authentic-ugg
@@ -3511,6 +3583,7 @@ blog-video
 blog-view
 blog-web
 blog-world
+blog:
 blog/blog
 blog/comment
 blog/index
@@ -4368,6 +4441,7 @@ chcoin.co
 cheap afl
 cheap air
 cheap atlanta
+cheap autentic
 cheap authentic
 cheap bag
 cheap basket
@@ -4425,6 +4499,7 @@ cheap_
 cheap-adobe
 cheap-afl
 cheap-atlanta
+cheap-autentic
 cheap-authentic
 cheap-bag
 cheap-basket
@@ -4489,6 +4564,7 @@ cheap<
 cheapadobe
 cheapafl
 cheapatlanta
+cheapautentic
 cheapauthentic
 cheapbag
 cheapbasket
@@ -5448,6 +5524,7 @@ dragon-avail
 dragons avail
 dragons-avail
 drayvera
+drdrebeat
 drdreheadphone
 dre beat
 dre cheap
@@ -5649,6 +5726,9 @@ enchèremax
 encherisseur
 enchérisseur
 endlaved
+energetic post
+energetic-post
+energeticpost
 eneugh
 eng/dress
 eng/faq
@@ -5755,7 +5835,12 @@ every advertise
 every information
 every-information
 every1bet
+everyleg
+everylight
+everypant
+everysock
 everythink
+everytight
 evryday
 evvery
 exboyfriend
@@ -7313,28 +7398,40 @@ hobo-bag
 hobo-fuchsia
 hobobag
 hobofuchsia
+hoga outet
+hoga outlet
+hoga-outet
+hoga-outlet
 hogan online
 hogan oulet
 hogan out
+hogan outet
 hogan outlet
 hogan scarpe
 hogan shoe
 hogan sito
-hogan timeactive
+hogan time
+hogan uomo
 hogan-online
 hogan-oulet
 hogan-out
+hogan-outet
 hogan-outlet
 hogan-scarpe
 hogan-shoe
 hogan-sito
-hogan-timeactive
+hogan-time
+hogan-uomo
 hoganoulet
 hoganout
+hoganoutet
 hoganoutlet
 hoganshoe
 hogansito
-hogantimeactive
+hogantime
+hoganuomo
+hogaoutet
+hogaoutlet
 holdinga
 holdning
 hollister berlin
@@ -7347,7 +7444,7 @@ hollister job
 hollister logo
 hollister nantes
 hollister online
-hollister original
+hollister orig
 hollister pant
 hollister paris
 hollister pas
@@ -7376,7 +7473,7 @@ hollister-logo
 hollister-milano
 hollister-nantes
 hollister-online
-hollister-original
+hollister-orig
 hollister-pant
 hollister-paris
 hollister-pas
@@ -7404,7 +7501,7 @@ hollisterlogo
 hollistermilano
 hollisternantes
 hollisteronline
-hollisteroriginal
+hollisterorig
 hollisterpant
 hollisterparis
 hollisterpas
@@ -7659,6 +7756,8 @@ informasjon.asp
 informasjon.cfm
 informasjon.htm
 informasjon.php
+informatica-libri
+informaticalibri
 informatik
 information.asp
 information.cfm
@@ -9031,6 +9130,7 @@ mail.ru
 mail.za
 maillot de
 maillot foot
+maillot ligue
 maillot maillot
 maillot man
 maillot psg
@@ -9039,18 +9139,23 @@ maillot_
 maillot-de
 maillot-enfant
 maillot-foot
+maillot-ligue
 maillot-maillot
 maillot-man
 maillot-psg
 maillot-uk
 maillotde
+maillotligue
 maillotman
 maillotpsg
 maillots de foot
+maillots ligue
 maillots_
 maillots-de-foot
+maillots-ligue
 maillots-tenue
 maillots/tenue
+maillotsligue
 maillotuk
 main longchamp
 main-longchamp
@@ -9131,9 +9236,11 @@ marcjacobsjap
 marcjacobsjp
 margreet.
 mariage hugo
-mariage original
+mariage orig
 mariage-hugo
-mariage-original
+mariage-orig
+mariagehugo
+mariageorig
 marihuana
 marijuana benefit
 marijuana fact
@@ -9620,6 +9727,10 @@ moderowany
 moduleinstance
 modules.php
 moldremov
+moncle site
+moncle sito
+moncle-site
+moncle-sito
 monclear
 moncler 2013
 moncler 2014
@@ -9660,6 +9771,7 @@ moncler pour
 moncler prezzi
 moncler pullover
 moncler quincy
+moncler site
 moncler sito
 moncler ski
 moncler sold
@@ -9715,6 +9827,7 @@ moncler-pour
 moncler-prezzi
 moncler-pullover
 moncler-quincy
+moncler-site
 moncler-sito
 moncler-ski
 moncler-sold
@@ -9774,6 +9887,7 @@ monclerpour
 monclerprezzi
 monclerpullover
 monclerquincy
+monclersite
 monclersito
 monclerski
 monclersold
@@ -9789,6 +9903,8 @@ monclervest
 monclervos
 monclerweste
 monclerwesten
+monclesite
+monclesito
 monday deal
 monday sale
 monday ugg
@@ -10335,6 +10451,9 @@ nude.htm
 nude.php
 nuestra-tienda
 nufactur
+nuovo hogan
+nuovo-hogan
+nuovohogan
 nе
 nу
 nү
@@ -10637,6 +10756,7 @@ organogold
 orgazma
 orghttp
 oriflame
+original_
 orlistat
 orologi uomo
 orologi-uomo
@@ -11202,6 +11322,7 @@ post post
 post_
 post-post
 post-service
+post:
 post.much
 post.pw
 postcarf
@@ -11806,6 +11927,7 @@ reverselookup
 reversephone
 review best
 review-best
+review-on
 review-source
 review.asp
 review.blog
@@ -11814,8 +11936,10 @@ review.htm
 review.in
 review.php
 reviewbest
+reviewon
 reviews best
 reviews-best
+reviews-on
 reviews.asp
 reviews.blog
 reviews.cfm
@@ -11825,6 +11949,7 @@ reviews.net
 reviews.org
 reviews.php
 reviewsbest
+reviewson
 reviewsource
 reviewstv
 reviewthe
@@ -12797,6 +12922,8 @@ somedias
 son copain
 son-copain
 soncopain
+songs reaches
+songs-reaches
 sonicsearch
 sooemne
 soup.io/post
@@ -13110,6 +13237,7 @@ tabaki
 tadalafil
 tadapox
 tag/event
+tags:
 taille costume
 taille-costume
 taken gravely
@@ -13261,6 +13389,8 @@ themes-sale
 themesforwindows
 therealest
 thes good
+these however
+these-however
 thespacious
 thetopdog
 thetwo
@@ -13921,10 +14051,16 @@ underthe
 une moncler
 une-moncler
 unemoncler
+unique broker
 unique interact
+unique-broker
 unique-interact
+uniquebroker
+uniqueinteract
 unitedidesign
+universal key
 universal-key
+universalkey
 unknown.co
 unknown.in
 unknown.pl
@@ -13980,6 +14116,9 @@ uploaded_
 uploaded-file
 uploadedfile
 uploadfile
+uploading_
+uploading-file
+uploadingfile
 uploads_
 upseseglype
 urbain football
@@ -13996,14 +14135,18 @@ usa-best
 usabest
 usefuyl
 user_
+user:
 user/profile
 user/view
 userinfo
+users_
 usual discuss
 usual-discuss
 usualdiscuss
 usually relative
 usually-relative
+usuario_
+usuario:
 ut.ag/
 utilized use
 utilized-use
@@ -14781,37 +14924,18 @@ www.2013
 www.2014
 www.2015
 www.adults
-www.anal
 www.angel
 www.article
 www.barata
 www.barato
 www.best-
-www.brand
-www.buy
-www.canadagoose-
-www.cartier-
-www.casino
-www.cellphone
-www.chanel-
-www.cheap
-www.coach-
 www.deels
-www.drdrebeat
-www.easy
 www.efinancial
 www.erotic
 www.escort
-www.everyleg
-www.everylight
-www.everypant
-www.everysock
-www.everytight
 www.fake
 www.female
-www.filmy-
 www.filmy.
-www.financ
 www.forum
 www.fot-
 www.fot.
@@ -14828,67 +14952,34 @@ www.fotomania
 www.freerun
 www.fullsize
 www.gambl
-www.game
-www.gift
 www.goosepa
-www.gucci-
 www.handbag
-www.hermes
-www.herveleger
-www.hot
 www.howmuch
-www.information
-www.insta
 www.instyler
 www.isabel-
-www.kobe
 www.lastminute
-www.lebron
-www.link
 www.lolita
-www.louboutin-
-www.love
 www.lv
-www.marant-
-www.mcm
-www.moncler-
-www.mulberry-
-www.newbalance-
-www.nike-
 www.numberone
 www.oakleyin
 www.offerta
 www.offerte
-www.official
 www.online
 www.onsale
-www.out
 www.penis
-www.personal
 www.porn
-www.promo
-www.remote
-www.replica
-www.reviewon
-www.rims
 www.sadje
-www.sale
 www.scarpe
 www.schuh
 www.seo
 www.sexy
 www.shoes
-www.stream
-www.tea-
-www.top
 www.torrent
-www.ugg
 www.unlock
 www.videos
 www.warez
-www.wholesale
-www.win
 www.wtf
+www.xx
 www.ysl
 www.zapata
 www.zapato
@@ -14902,10 +14993,14 @@ wһ
 wօ
 x adidas
 x portant
+x rumer
 x stream
+x website
 x-adidas
 x-portant
+x-rumer
 x-stream
+x-website
 xadidas
 xalatan
 xanax
