@@ -43,6 +43,7 @@ _dolce
 _download
 _downtime
 _drmarten
+_dsquared
 _duvetica
 _e/
 _emerg
@@ -65,6 +66,7 @@ _gabbana
 _generic
 _genuine
 _giub
+_giubbotti
 _gluten
 _google
 _goose
@@ -209,6 +211,16 @@ _youtube
 -=
 -1.co
 -2.co
+-4-sale
+-4-u-
+-4-u.
+-4-u/
+-4-you-
+-4-you.
+-4-you/
+-4u-
+-4u.
+-4u/
 -24.
 -abercrombie-
 -abercrombie.
@@ -884,6 +896,7 @@ _youtube
 .disposable-
 .disposable/
 .doorblog.jp
+.equal-
 .executive-
 .fake-
 .fcgi
@@ -1190,6 +1203,10 @@ _youtube
 /3.htm
 /03.php
 /3.php
+/4-u-
+/4-u.
+/4-you-
+/4-you.
 /04.asp
 /4.asp
 /04.cfm
@@ -1199,6 +1216,8 @@ _youtube
 /04.php
 /4.php
 /4ft.me
+/4u-
+/4u.
 /05.asp
 /5.asp
 /05.cfm
@@ -1541,6 +1560,8 @@ _youtube
 /floodai.
 /floodai/
 /foot-care
+/for-u-
+/for-u.
 /form.
 /forum/
 /forum1
@@ -2410,13 +2431,21 @@ _youtube
 3titleist
 3ww3
 4all
+4cash
 4cheap
 4ever
 4firefall
-4juiceplus
+4gold
+4juice
 4less
+4plus
+4rent
 4sale
+4silver
 4u.co
+4u.in
+4u.ru
+4u.za
 4you.
 5health
 7hand
@@ -3464,7 +3493,7 @@ best-tummy
 best-way-to
 best-website
 best-wordpress
-best4glass
+best4
 bestad.
 bestads.
 bestbut
@@ -4040,7 +4069,9 @@ buyface
 buyhair
 buyhermes
 buying face
+buying runescape
 buying-face
+buying-runescape
 buyingface
 buyjap
 buyjordan
@@ -4216,8 +4247,7 @@ cash loan
 cash-advance
 cash-extend
 cash-generator
-cash4gold
-cash4silver
+cash4
 cashadvance
 cashextend
 cashforgold
@@ -4790,6 +4820,7 @@ click2
 click4
 clickbank
 clickforu
+clicks4
 clicksor
 clientarea
 climacool
@@ -5632,6 +5663,7 @@ dsquared online
 dsquared out
 dsquared shoe
 dsquared uomo
+dsquared_
 dsquared-giub
 dsquared-jean
 dsquared-online
@@ -6511,13 +6543,18 @@ fruta planta
 frutaplanta
 fuck down
 fuck hard
+fuck_
 fuck-
 fuck-down
 fuck-hard
 fuckdown
+fucked_
+fucker_
 fuckhard
+fucking_
 fucks down
 fucks hard
+fucks_
 fucks-down
 fucks-hard
 fucksdown
@@ -6525,6 +6562,7 @@ fuckshard
 ful malware
 ful-malware
 fulmalware
+fun-sneak
 fun-with-windows
 func.php
 fund market
@@ -6535,6 +6573,10 @@ fund.in
 fund.pl
 fund.ru
 fund.za
+funding.in
+funding.pl
+funding.ru
+funding.za
 fundmarket
 funds.in
 funds.pl
@@ -6604,8 +6646,17 @@ gallergrind
 gallery world
 gallery-world
 galleryworld
+gamble online
+gamble-online
+gambleonline
+gambling casino
+gambling game
 gambling online
+gambling-casino
+gambling-game
 gambling-online
+gamblingcasino
+gamblinggame
 gamblingonline
 game casino
 game wiki
@@ -6618,6 +6669,7 @@ gamecasino
 gamecopy
 gamedesigndegree
 gamegame
+gamejers
 games casino
 games-casino
 gamescasino
@@ -6693,6 +6745,7 @@ get-massive
 get-money-for
 get-rid-of
 get-the-answer
+get-translate
 get-widget
 getaloan
 getastyle
@@ -6728,6 +6781,7 @@ gilet-moncler
 giletmoncler
 girl escort
 girl jordan
+girl jp
 girl-day-dress
 girl-escort
 girl-jordan
@@ -6752,6 +6806,7 @@ giubbotti invernali
 giubbotti moncler
 giubbotti timber
 giubbotti woolrich
+giubbotti_
 giubbotti-dsquared
 giubbotti-invernali
 giubbotti-moncler
@@ -8247,6 +8302,7 @@ jerseys cheap
 jerseys from
 jerseys soccer
 jerseys wholesale
+jerseys-4-u
 jerseys-4-you
 jerseys-cheap
 jerseys-for-you
@@ -12119,6 +12175,11 @@ run-shoe
 run-sneak
 runchaussure
 runcpa
+runescape gold
+runescape million
+runescape-gold
+runescape-million
+runescapegold
 running sneak
 running-sneak
 runningsneak
@@ -12248,6 +12309,7 @@ sale nederland
 sale oakley
 sale online
 sale template
+sale-4u
 sale-cheap
 sale-cosmetic
 sale-factory
