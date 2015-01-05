@@ -34,6 +34,7 @@ _coach
 _converse
 _coup
 _cpa
+_credit
 _data
 _dior
 _discount
@@ -135,6 +136,7 @@ _outlet
 _pandora
 _parafon
 _party
+_penis
 _ping
 _pokie
 _porn
@@ -196,6 +198,7 @@ _window
 _women
 _woolr
 _youtube
+_zapat
 ---
 --and
 --bag
@@ -841,6 +844,7 @@ _youtube
 ?u-
 ?user
 ?view
+?youtube
 .-0
 .-1
 ..a
@@ -2356,6 +2360,7 @@ _youtube
 =thread
 =utf8
 =view
+=youtube
 >.}
 | |
 ||
@@ -5190,6 +5195,7 @@ crave-of
 create-product
 credit direct
 credit repair
+credit_
 credit-card
 credit-direct
 credit-report
@@ -11252,6 +11258,7 @@ pen montblanc
 pen-montblanc
 penis adv
 penis enlarg
+penis_
 penis-adv
 penis-enlarg
 penis.co
@@ -13427,8 +13434,11 @@ taken-gravely
 takenwith
 takje care
 takje-care
+talent manage
 talent recruit
+talent-manage
 talent-recruit
+talentmanage
 talentrecruit
 tamiflu
 tamoxifen
@@ -14312,6 +14322,7 @@ urlacherjers
 urls2
 urlstatus
 uroda
+us.please
 us/profile
 usa-best
 usabest
@@ -15220,7 +15231,9 @@ yearold
 ynimb
 yo-dick
 yo-penis
+yodick
 yoigucci
+yopenis
 york sportiv
 york-sportiv
 yorksportiv
@@ -15242,8 +15255,9 @@ your penis
 your submit
 your success
 your traffic
-your web page
+your ugg
 your weblog
+your webpage
 your website
 your_
 your-account
@@ -15259,7 +15273,10 @@ your-profile
 your-site
 your-skin
 your-success
+your-ugg
+your-web-page
 your-weblog
+your-webpage
 your-website
 your-windows
 your-your
@@ -15271,9 +15288,12 @@ yourdui
 youre
 yourfree
 yourloan
+yourpenis
 yourprofile
 yoursite
 yoursuccess
+yourugg
+yourwebpage
 yourwebsite
 youth jers
 youth-jers
@@ -15281,6 +15301,7 @@ youthjers
 youtube down
 youtube sensation
 youtube vi
+youtube_
 youtube-down
 youtube-sensation
 youtube-vi
