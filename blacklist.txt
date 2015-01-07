@@ -59,6 +59,7 @@ _femme
 _fendi
 _fifa
 _football
+_forex
 _forte
 _free
 _fuck
@@ -457,6 +458,9 @@ _zapat
 -foreclosure-
 -foreclosure.
 -foreclosure/
+-forex-
+-forex.
+-forex/
 -fotograf.
 -fotograf/
 -fotografia.
@@ -817,6 +821,7 @@ _zapat
 ?ducati
 ?fendi
 ?firma
+?forex
 ?free
 ?gucci
 ?hermes
@@ -1572,6 +1577,9 @@ _zapat
 /foot-care
 /for-u-
 /for-u.
+/forex-
+/forex.
+/forex/
 /form.
 /forum/
 /forum1
@@ -2353,6 +2361,7 @@ _zapat
 =blog
 =bracelet
 =captcha
+=forex
 =kobe
 =longchamp
 =mcm
@@ -2380,12 +2389,15 @@ _zapat
 |year
 |yr
 �
+00 pips
+00-pips
 0,5 mg
 0,5mg
 0.5 mg
 0.5mg
 000mail
 0ping
+00pips
 0taylor
 0title
 1-1.
@@ -5275,6 +5287,7 @@ dailly
 daily.blog
 dailyreview.co
 dailystrength
+dailyz
 dakotasuki
 dalle scarpe
 dalle-scarpe
@@ -6395,7 +6408,7 @@ for-your-need
 for|
 forboot
 forcheap
-forex
+forex_
 forfree
 forgucci
 forhandlere
@@ -6724,6 +6737,8 @@ gammablue
 gamme reacute
 gamme-reacute
 gamyba
+gang-bang
+gangbang
 gangprofil
 ganhar dinheiro
 ganhar-dinheiro
@@ -9266,6 +9281,7 @@ lvout
 lvreplica
 lvsale
 lvuk
+lyadhngxppq
 lі
 lо
 l猫
@@ -11387,6 +11403,8 @@ pinklarge
 pioggia gucci
 pioggia-gucci
 pioggiagucci
+pips daily
+pips-daily
 piscine
 piumini moncler
 piumini woolrich
@@ -11717,9 +11735,12 @@ profile/profile
 profiles/blog
 profiles/profile
 profissionais
+profit review
 profit_
 profit-margin
+profit-review
 profit-seek
+profitreview
 profits-
 profitseek
 prohormone
