@@ -1375,6 +1375,12 @@ _zapat
 /burberry2
 /burberry3
 /burberry4
+/business-directory-
+/business-directory.
+/business-directory/
+/businessdirectory-
+/businessdirectory.
+/businessdirectory/
 /bustier-
 /bustier.
 /buy-
@@ -3910,6 +3916,8 @@ brazil bikini
 brazil-bikini
 brazilbikini
 brazzer
+breakfast coming
+breakfast-coming
 breastactive
 bridal-gown
 bridalgown
@@ -12918,7 +12926,9 @@ shoulder tote
 shoulder-tote
 shouldertote
 show_
-shownews.
+show-news
+show-topic
+shownews
 showroom gucci
 showroom-gucci
 showroomgucci
@@ -12931,23 +12941,34 @@ siege hack
 siege-hack
 siegheil
 sigarette
+sign zodiac
 sign-zodiac
+signa zodiac
+signa-zodiac
+signazodiac
 signed-jers
 signifiant
 significant infos
 significant-infos
+signo zodiac
+signo-zodiac
 signozodiac
 signzodiac
 silagra
 silberbarren
 sildenafil
 silver-and-gold
+silver-gold
 silver-ingot
 silver-jewelry
+silver-suite
+silverandgold
+silvergold
 silveringot
 silverjewelry
-silversuites
+silversuite
 sim-only
+simonly
 simplexml you
 simplexml-you
 simply extremely
@@ -12994,15 +13015,19 @@ siteofficiel
 sites24
 siteufficial
 sito official
+sito officiel
 sito ufficial
 sito ugg
 sito-official
+sito-officiel
 sito-ufficial
 sito-ugg
 sitoofficial
+sitoofficiel
 sitoufficial
 sitougg
 siutpd
+size-genetic
 sizegenetic
 sk8 hi
 sk8-hi
