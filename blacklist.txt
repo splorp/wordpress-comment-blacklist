@@ -139,6 +139,7 @@ _pandora
 _parafon
 _party
 _penis
+_pharm
 _ping
 _pokie
 _porn
@@ -3159,6 +3160,7 @@ avvessory
 awesome blog
 awesome post
 awesome-blog
+awesoome
 awokehim
 awordpress.
 awsome
@@ -3644,6 +3646,7 @@ blancstarwalker
 blazer-chaussure
 blazerchaussure
 blog beast
+blog glance
 blog here
 blog link
 blog occasion
@@ -3651,11 +3654,14 @@ blog platform
 blog post
 blog site
 blog soon
+blog structure
+blog thus
 blog video
 blog web
 blog world
 blog_
 blog-beast
+blog-glance
 blog-here
 blog-link
 blog-occasion
@@ -3663,6 +3669,8 @@ blog-platform
 blog-post
 blog-site
 blog-soon
+blog-structure
+blog-thus
 blog-trick
 blog-video
 blog-view
@@ -5079,7 +5087,7 @@ com/official
 com/online
 com/page1
 com/page2
-com/pharma
+com/pharm
 com/profil
 com/publi
 com/rest
@@ -5129,6 +5137,8 @@ construtor
 contact_
 contact/contact
 contactus/contact
+content material
+content-material
 control diet
 control-diet
 controldiet
@@ -6153,7 +6163,7 @@ fashion compan
 fashion list
 fashion men
 fashion store
-fashion trend!
+fashion trend
 fashion women
 fashion-boot
 fashion-bracelet
@@ -7428,8 +7438,10 @@ headset2014
 headset2015
 health advis
 health-advis
+health-supplement
 healthadvis
 healthhow
+healthsupplement
 hedge fund
 hedge-fund
 heel_
@@ -8990,6 +9002,8 @@ littlegod
 live-article
 livearticle
 livesex
+llet alone
+llet-alone
 llifted
 loan canad
 loan compan
@@ -10843,6 +10857,7 @@ online internet
 online journ
 online loan
 online out
+online pharm
 online pokie
 online reader
 online schuh
@@ -10870,6 +10885,7 @@ online-market
 online-med
 online-money
 online-out
+online-pharm
 online-pokie
 online-reader
 online-sale
@@ -10908,6 +10924,7 @@ onlineloan
 onlinemed
 onlinemoney
 onlineout
+onlinepharm
 onlinepoker
 onlinepris
 onlinereader
@@ -11095,6 +11112,8 @@ outplacements
 outsourcing-compan
 outsourcingcompan
 ovariancyst
+overall glance
+overall-glance
 own blogroll
 own-blogroll
 owned awn
@@ -11364,8 +11383,7 @@ pflegezusatzversicherung
 pg/blog
 pg/forum
 pg/profile
-pharmacies
-pharmacy
+pharmacy_
 pharmaun
 phentermine
 phlebotomy
@@ -13433,6 +13451,12 @@ superstar status
 superstar-class
 superstar-status
 superstarclass
+supplement energy
+supplement-energy
+supplementenergy
+supplements energy
+supplements-energy
+supplementsenergy
 supply_
 supra boutique
 supra online
@@ -14792,9 +14816,11 @@ weave-hair
 weavehair
 web anal
 web blog
+web farm
 web optimiz
 web owner
 web people
+web pharm
 web promo
 web sie
 web sitte
@@ -14802,11 +14828,13 @@ web website
 web_log
 web-anal
 web-blog
+web-farm
 web-host
 web-log
 web-optimiz
 web-owner
 web-people
+web-pharm
 web-promo
 web-sie
 web-site
@@ -14822,8 +14850,9 @@ webblog
 webcambabe
 webcamsex
 webdesign.co
-webfarma
+webfarm
 weblink
+weblog!
 weblog}
 weblogg
 weblogto
@@ -14841,7 +14870,7 @@ weboptimiz
 webowner
 webpag
 webpeople
-webpharma
+webpharm
 webpromo
 websex
 webshop/image
@@ -14855,7 +14884,7 @@ website-online
 website-post
 website-usa
 website-visit
-website!!
+website!
 website}
 website1
 websiteonline
@@ -15340,6 +15369,7 @@ youngporn
 your blog
 your budget
 your penis
+your sijte
 your submit
 your success
 your traffic
@@ -15358,6 +15388,7 @@ your-loan
 your-penis
 your-personal
 your-profile
+your-sijte
 your-site
 your-skin
 your-success
