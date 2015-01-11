@@ -22,6 +22,7 @@ _bracelet
 _build
 _buyout
 _bvlgari
+_calvin
 _camiseta
 _campaign
 _cartier
@@ -315,6 +316,10 @@ _zapat
 -cable-speaker-
 -cable-speaker.
 -cable-speaker/
+-calvin-klein.
+-calvin-klein/
+-calvinklein.
+-calvinklein/
 -camiseta.
 -camiseta/
 -camisetas.
@@ -806,6 +811,7 @@ _zapat
 :usuario
 ！
 ! .
+!! you
 !!!
 !?'
 !?’
@@ -1402,6 +1408,12 @@ _zapat
 /caching.
 /caching/
 /caindex.
+/calvin-klein-
+/calvin-klein.
+/calvin-klein/
+/calvinklein-
+/calvinklein.
+/calvinklein/
 /camiseta-
 /camiseta.
 /camisetas-
@@ -2600,6 +2612,7 @@ aall-my
 aam happy
 abcwatch
 abdominaux
+abercrombie
 abercrombie deutsch
 abercrombie kid
 abercrombie man
@@ -4190,6 +4203,9 @@ cagoose-sale
 cagoosejacke
 cagoosesale
 callgirl
+calvin mujer
+calvin-mujer
+calvinmujer
 calzature mbt
 calzature-mbt
 calzaturembt
@@ -5299,6 +5315,7 @@ cһ
 cօ
 d http
 d.the
+da man!
 dabloggs
 dafeult
 dailly
@@ -8614,10 +8631,14 @@ kleidung jacke
 kleidung-jacke
 kleidungjacke
 klein felpa
+klein mujer
 klein prezzi
+klein_
 klein-felpa
+klein-mujer
 klein-prezzi
 kleinfelpa
+kleinmujer
 kleinprezzi
 klonopin
 klub.in
@@ -12239,8 +12260,11 @@ rolex-watch
 rolexwatch
 roofingcontractor
 ropa belstaff
+ropa interior
 ropa-belstaff
+ropa-interior
 ropabelstaff
+ropainterior
 rose-shoe
 roseshoe
 rosettastoneeasy
