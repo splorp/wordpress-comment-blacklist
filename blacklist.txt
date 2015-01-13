@@ -194,6 +194,7 @@ _url
 _user
 _usuario
 _util
+_vape
 _vti
 _vuitton
 _web
@@ -361,6 +362,9 @@ _zapat
 -cigars-
 -cigars.
 -cigars/
+-cigs-
+-cigs.
+-cigs/
 -click-
 -click.
 -click/
@@ -1459,6 +1463,8 @@ _zapat
 /cigarettes.
 /cigars-
 /cigars.
+/cigs-
+/cigs.
 /ck-
 /ck.
 /ck/
@@ -4816,7 +4822,9 @@ chung-hightop
 cɦ
 cialis
 ciallis
+cig buy
 cig holder
+cig-buy
 cig-holder
 cig-online
 cig-promo
@@ -4843,7 +4851,10 @@ cigarstore
 cigbuy
 cigonline
 cigpromo
+cigs buy
 cigs online
+cigs promo
+cigs-buy
 cigs-online
 cigs-promo
 cigs<
@@ -5795,6 +5806,8 @@ dе
 dу
 e http
 e-biz
+e-cigar
+e-cigs
 eâcute
 eairfix
 early-signs-of
@@ -9861,15 +9874,15 @@ mercenary.co
 mercurial 2013
 mercurial 2014
 mercurial 2015
-mercurial vapor
+mercurial vapo
 mercurial-2013
 mercurial-2014
 mercurial-2015
-mercurial-vapor
+mercurial-vapo
 mercurial2013
 mercurial2014
 mercurial2015
-mercurialvapor
+mercurialvapo
 meridia
 mes hormone
 mes-hormone
@@ -14534,14 +14547,48 @@ valtrex
 valuable opt-in
 valuable-opt-in
 valueble
+vape cloud
+vape pen
+vape stick
+vape_
+vape-cloud
+vape-pen
+vape-stick
+vapecloud
+vapepen
+vapestick
+vapor cloud
 vapor ix
+vapor pen
+vapor stick
 vapor x
+vapor-cloud
 vapor-ix
+vapor-pen
+vapor-stick
 vapor-x
+vaporcloud
 vaporix
 vaporizer pen
 vaporizer-pen
+vaporpen
+vaporstick
 vaporx
+vapour ix
+vapour pen
+vapour stick
+vapour x
+vapour-cloud
+vapour-ix
+vapour-pen
+vapour-stick
+vapour-x
+vapourcloud
+vapourix
+vapourizer pen
+vapourizer-pen
+vapourstick
+vapourx
 varabella
 vardenafil
 vegas hotel
