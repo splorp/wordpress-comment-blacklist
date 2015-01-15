@@ -2687,10 +2687,13 @@ acomplia
 activation code
 activity/p/
 actonel
+actual celebrity
 actual effort
 actual thank
+actual-celebrity
 actual-effort
 actual-thank
+actualcelebrity
 actually thank
 actually-thank
 acutual
@@ -4816,6 +4819,8 @@ chooboot
 chrismas.asp
 christian-loubou
 christianloubou
+chronic edge
+chronic-edge
 chrr-llc
 chung hightop
 chung-hightop
@@ -5831,6 +5836,10 @@ ecco-out
 eccoout
 ecent yeas
 ed-in-men
+edge rumor
+edge rumour
+edge-rumor
+edge-rumour
 edhardyt
 eemail
 effexor
@@ -5909,6 +5918,7 @@ enhancementpill
 enhancepill
 enhttp
 enjoy-more
+enjoymore
 enlightening post
 enlightening-post
 enligneparis
@@ -5923,6 +5933,7 @@ ephedrine
 epica watch
 epica-watch
 epo doping
+epo-doping
 eqbandz
 equipement manufact
 equipement-manufact
@@ -5990,19 +6001,37 @@ estate-whether
 estatepro
 estradiol
 etherdq
+euro ditalog
+euro million
+euro-ditalog
 euro-million
+euro-vid
 euroditalog
+euromillion
 europe nfl
-eurovids
+europe-nfl
+european nfl
+european-nfl
+europeannfl
+europenfl
+eurovid
 evelyne bag
 evelyne-bag
 evelynebag
 event_
 eventid
-every advertise
+every advert
 every information
+every-advert
 every-information
+every-leg
+every-light
+every-pant
+every-sock
+every-think
+every-tight
 every1bet
+everyadvert
 everyleg
 everylight
 everypant
@@ -8971,6 +9000,9 @@ leger-sale
 legerband
 legerdress
 legersale
+legitimate graphic
+legitimate-graphic
+legitimategraphic
 lend-direct
 lenddirect
 lendsomemoney
@@ -10739,6 +10771,7 @@ nouvelles sneaker
 nouvelles-sneaker
 novinki_
 now.in
+nqed
 nude-ass
 nude.asp
 nude.cfm
@@ -13318,6 +13351,8 @@ splendid tiffany
 splendid-department
 splendid-tiffany
 splendidtiffany
+splitting announce
+splitting-announce
 sponsoring secret
 sponsoring-secret
 sponsoringsecret
@@ -13805,6 +13840,7 @@ thomassabosale
 thomassabouk
 thomassabous
 thportfol
+thrity
 throwback cheap
 throwback-cheap
 throwbackcheap
