@@ -58,6 +58,7 @@ _facebook
 _fake
 _femme
 _fendi
+_ferragamo
 _fifa
 _football
 _forex
@@ -3906,11 +3907,17 @@ bowugg
 boychik casino
 boychik-casino
 bracelet manchette
+bracelet shop
+bracelet store
 bracelet_
 bracelet-manchette
 bracelet-sale
+bracelet-shop
+bracelet-store
 braceletmanchette
 braceletsale
+braceletshop
+braceletstore
 brain abundance
 brain-abundance
 brainabundance
@@ -5876,6 +5883,8 @@ email.cfm
 email.htm
 email.php
 email.tst
+emails sometime
+emails-sometime
 emails-vip
 emailsvip
 emailvip
@@ -6041,6 +6050,7 @@ everytight
 evryday
 evvery
 exboyfriend
+exceel
 excelent
 excellent blog
 excellent site
@@ -6217,6 +6227,9 @@ fantasticblog
 farmacias
 farming-secret
 farmingsecret
+fashion boot
+fashion bracelet
+fashion class
 fashion compan
 fashion list
 fashion men
@@ -6234,8 +6247,18 @@ fashion-trend
 fashion-women
 fashionboot
 fashionbracelet
+fashionclass
 fashioncompan
+fashionist blog
+fashionist-blog
+fashionista blog
+fashionista-blog
+fashionistablog
 fashionistblog
+fashionlist
+fashionmen
+fashionstore
+fashiontrend
 fashionwomen
 fast cash
 fast loan
@@ -6269,13 +6292,30 @@ faux coach
 faux-coach
 fauxcoach
 favorite website
+favorite-website
+favourite website
+favourite-website
+fb ads
+fb cash
+fb fans
+fb like
+fb money
+fb sales
+fb traffic
 fb-ads
 fb-cash
+fb-fans
+fb-like
+fb-money
+fb-sales
 fb-traffic
 fbads
 fbcash
 fbfans
 fblike
+fbmoney
+fbsales
+fbtraffic
 fckt
 fcukfcuk
 feacute-deacute
@@ -6308,6 +6348,7 @@ femme couche
 femme-chaussure
 femme-couche
 femme-sac
+femmecanadagoose
 femmechaussure
 femmecouche
 femmesac
@@ -6326,6 +6367,7 @@ fenteetum
 ferra-gamo
 ferragamo sale
 ferragamo tie
+ferragamo_
 ferragamo-sale
 ferragamo-tie
 ferragamolove
@@ -7821,17 +7863,24 @@ homeforsale
 homeloan
 homeremed
 homesforsale
+homme chaussure
 homme couche
 homme giorgio
 homme hugo
 homme mariage
 homme solde
+homme-chaussure
 homme-couche
 homme-giorgio
 homme-hugo
 homme-mariage
+homme-sac
 homme-solde
+hommecanadagoose
+hommechaussure
 hommecouche
+hommesac
+hommescanadagoose
 hondavtx
 hoodia
 hoodie-cheap
