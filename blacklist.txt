@@ -621,6 +621,8 @@ _zapat
 -pokies-
 -pokies.
 -pokies/
+-post-1.
+-post-2.
 -pozew-
 -prada-
 -prada.
@@ -1726,6 +1728,8 @@ _zapat
 /jordan3
 /jordan4
 /jordan5
+/jotasyde-
+/jotasyde.
 /js.
 /js/
 /just.
@@ -1911,6 +1915,7 @@ _zapat
 /page5.
 /pages-
 /pages.
+/pages/more
 /pages/view
 /pandorabead
 /pantie-
@@ -6386,12 +6391,15 @@ fg xpress
 fg-xpress
 fgxpress
 fibromyalgia
+fifa coin
 fifa ultimate
 fifa_
 fifa-15
+fifa-coin
 fifa-ultimate
 fifa-ut
 fifa15
+fifacoin
 fifaultimate
 fifaut
 figc
@@ -6922,6 +6930,7 @@ germany jers
 germany-jers
 germanylove
 gestione
+get $
 get_rid
 get-boot
 get-facebook
@@ -6938,6 +6947,7 @@ gethermes
 getjoy
 getmassive
 getridof
+getting $
 getting-men
 gettranslate
 getwidget
@@ -7113,12 +7123,16 @@ golfs
 gomaile.co
 good article
 good blog
+good click
 good hemp
+good post
 good-article
 good-blog
+good-click
 good-for-
 good-game
 good-hemp
+good-post
 good}
 goodbye.asp
 goodgame
@@ -11636,6 +11650,8 @@ pleasant designed
 pleasant good
 pleasant-designed
 pleasant-good
+please click
+please-click
 pleassant
 pleasure secret
 pleasure-secret
@@ -11731,6 +11747,7 @@ post_
 post-post
 post-service
 post:
+post!
 post.much
 post.pw
 postcarf
@@ -13183,6 +13200,7 @@ site officiel
 site platform
 site position
 site post
+site provid
 site traffic
 site ufficial
 site-asian
@@ -13195,8 +13213,10 @@ site-officiel
 site-platform
 site-position
 site-post
+site-provid
 site-traffic
 site-ufficial
+site!
 site.co
 site.in
 site24
@@ -14618,6 +14638,7 @@ user:
 user/profile
 user/view
 userinfo
+username!
 users_
 using simplexml
 using-simplexml
