@@ -2505,6 +2505,8 @@ _zapat
 4silver
 4u.co
 4u.in
+4u.pl
+4u.ro
 4u.ru
 4u.za
 4you.
@@ -2529,17 +2531,33 @@ _zapat
 111@
 123.co
 123.in
+123.pl
+123.ro
+123.ru
+123.za
 123@
 222.co
 222.in
+222.pl
+222.ro
+222.ru
+222.za
 365.co
 365.in
+365.pl
+365.ro
+365.ru
+365.za
 404.asp
 404.cfm
 404.htm
 404.php
 911.co
 911.in
+911.pl
+911.ro
+911.ru
+911.za
 2007.co
 2008.co
 2009.co
@@ -3034,15 +3052,22 @@ armanicloth
 armanito
 aroma-paradise
 artemfrolov
+article buzz
 article content
 article dude
 article plus
 article post
+article pow
+article sub
+article tag
 article-buzz
 article-content
 article-dude
 article-plus
 article-post
+article-pow
+article-sub
+article-tag
 article,i
 article!
 article.co
@@ -3050,17 +3075,59 @@ article.in
 article.net
 article.org
 article.php
+article.pl
+article.ro
+article.ru
+article.thank
+article.za
+article/post
 article/suggest
 articlebuzz
-articlepowa
-articles tags
-articles-tags
+articlecontent
+articledude
+articleplus
+articlepost
+articlepow
+articles buzz
+articles content
+articles dude
+articles plus
+articles post
+articles pow
+articles sub
+articles tag
+articles-buzz
+articles-content
+articles-dude
+articles-plus
+articles-post
+articles-pow
+articles-sub
+articles-tag
+articles,i
+articles!
 articles.co
 articles.in
 articles.net
 articles.org
+articles.php
+articles.pl
+articles.ro
+articles.ru
+articles.thank
+articles.za
+articles/post
+articles/suggest
+articlesbuzz
+articlescontent
+articlesdude
+articlesplus
+articlespost
+articlespow
+articlessub
+articlestag
 articlesub
-articulatio
+articletag
 artikel
 artisan plombier
 artisan-plombier
@@ -11750,12 +11817,20 @@ post:
 post!
 post.much
 post.pw
+post.thank
 postcarf
 posting comment
 posting-comment
 posting!
+posts post
 posts_
+posts-post
+posts:
+posts!
 posts.asp
+posts.much
+posts.pw
+posts.thank
 posttestimonial
 powder benefit
 powder review
