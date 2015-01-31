@@ -2240,6 +2240,7 @@ _zapat
 %20co
 %20on
 %20zappo
+%$%
 %anchor%
 %blogurl%
 %d8%
@@ -2925,6 +2926,7 @@ agent-direct
 agentdenim
 ago|
 âgrâve
+ahttp
 aint goin
 aint-goin
 air max
@@ -3076,6 +3078,7 @@ article.net
 article.org
 article.php
 article.pl
+article.really
 article.ro
 article.ru
 article.thank
@@ -3112,6 +3115,7 @@ articles.net
 articles.org
 articles.php
 articles.pl
+articles.really
 articles.ro
 articles.ru
 articles.thank
@@ -3289,6 +3293,7 @@ aь
 ɑv
 ɑw
 ɑy
+b http
 b-ig-event
 b.u.y
 babycanread
@@ -3658,6 +3663,7 @@ betlist
 betterjudg
 betterserve
 betweenex
+bhttp
 bianca black
 bianca-black
 biancablack
@@ -4906,6 +4912,7 @@ christianloubou
 chronic edge
 chronic-edge
 chrr-llc
+chttp
 chung hightop
 chung-hightop
 cɦ
@@ -5587,6 +5594,7 @@ devilspite
 dewelop
 dg-schoenen
 dg-shoe
+dhttp
 di droga
 di-droga
 diablo3
@@ -5928,6 +5936,7 @@ edhardyt
 eemail
 effexor
 egoodshop
+ehttp
 einkommen
 ejaculate pharm
 ejaculate-pharm
@@ -6192,6 +6201,7 @@ eу
 eх
 eһ
 eь
+f http
 faar more
 faar-more
 fabulous drug
@@ -6457,6 +6467,7 @@ ferragamotie
 fg xpress
 fg-xpress
 fgxpress
+fhttp
 fibromyalgia
 fifa coin
 fifa ultimate
@@ -6653,6 +6664,8 @@ forum coach
 forum-coach
 forum.asp
 forum.php
+forum.really
+forum.thank
 forum/1/topic
 forum/ftopic
 forum/member
@@ -6660,6 +6673,8 @@ forum/post
 forum/topic
 forum/user
 forums?func
+forums.really
+forums.thank
 forums/1/topic
 forums/member
 forums/topic
@@ -7029,6 +7044,7 @@ ghdgold
 ghdpascher
 ghdstraight
 ghduk
+ghttp
 giant 100%
 giant-100%
 giants-shop
@@ -7528,6 +7544,7 @@ günstigkaufen
 guru1
 gurus1
 gyslera
+h http
 habitof
 hack facebook
 hack fb
@@ -7801,6 +7818,7 @@ hgh-purchase
 hgh-sup
 hgher
 hghsup
+hhttp
 hid_
 hierbasmedicin
 high-heel
@@ -7818,6 +7836,7 @@ hitfit
 hjblog
 hleepd
 hndeds
+hngnep
 hobo bag
 hobo fuchsia
 hobo-bag
@@ -8098,6 +8117,7 @@ hyzaar
 ɦo
 i aam
 i aint
+i http
 i needs
 i-aint
 i-needs
@@ -8111,6 +8131,7 @@ icons/set
 idanmark
 ideea
 ifyou
+ihttp
 im not
 im-not
 image-old
@@ -8439,6 +8460,7 @@ iԁ
 iѕ
 iҟ
 i贸
+j http
 j'ai tjrs
 j'ai-tjrs
 j’ai tjrs
@@ -8647,6 +8669,7 @@ jewelry<
 jewelrybest
 jewelrycollect
 jewelryexpens
+jhttp
 jimmy-choo
 jimmychoo
 jjl
@@ -8803,6 +8826,7 @@ keywords1
 keywords2
 keywords3
 kfcnfl
+khttp
 khumbu north
 khumbu-north
 kid baby
@@ -9169,6 +9193,7 @@ level-market
 levelmarket
 levitra
 levne
+lhttp
 liabaleles
 libraries.asp
 libraries.cfm
@@ -10082,6 +10107,7 @@ metronidazole
 mezzo louis
 mezzo-louis
 mezzolouis
+mhttp
 mi40 review
 mi40-review
 miami escort
@@ -10758,6 +10784,7 @@ nhlnhl
 nhlofficial
 nhlreplica
 nhlshop
+nhttp
 niaspan
 nice annd
 nice blog
@@ -11072,6 +11099,7 @@ officialwebsite
 offight
 ofhuman
 ofnews
+ohttp
 oit|
 ojectx
 ok-cheap
@@ -11666,6 +11694,7 @@ php5?title
 phpbb2
 phpinfo
 phpoakley
+phttp
 phync
 phytoceramide
 pidarashechk
@@ -11817,6 +11846,7 @@ post:
 post!
 post.much
 post.pw
+post.really
 post.thank
 postcarf
 posting comment
@@ -11830,6 +11860,7 @@ posts!
 posts.asp
 posts.much
 posts.pw
+posts.really
 posts.thank
 posttestimonial
 powder benefit
@@ -12146,7 +12177,9 @@ pu貌
 pytanie
 pρ
 pо
+q http
 qampuz
+qhttp
 qqq
 qquality
 qry_
@@ -12464,6 +12497,7 @@ reviot
 revolutionjog
 revolutionstroll
 rheumatoidarthritis
+rhttp
 rice-cooker
 ricecooker
 rich woolrich
@@ -13216,6 +13250,7 @@ showroom gucci
 showroom-gucci
 showroomgucci
 showtopic
+shttp
 sɦ
 si.lv.e.r.w.are
 sieg heil
@@ -14004,6 +14039,7 @@ thrity
 throwback cheap
 throwback-cheap
 throwbackcheap
+thttp
 thumb.asp
 thumb.cfm
 thumb.gif
@@ -14300,6 +14336,7 @@ tо
 tу
 tү
 tօ
+u http
 uauaua
 ubezpieczenia
 ubirkin
@@ -14580,6 +14617,7 @@ uggusa
 uggustra
 uggwom
 uhren out
+uhttp
 uk out
 uk sale
 uk-hand
@@ -14733,6 +14771,7 @@ uustore
 uy/image
 uг
 uѕ
+v http
 va ballgown
 va-ballgown
 vaballgown
@@ -14871,6 +14910,7 @@ vetementfemme
 vetementhomme
 veterinarnaya
 vhs-to-digital
+vhttp
 via-internet
 viagera
 viagra
@@ -15068,6 +15108,7 @@ vuittonwallet
 vuittonwholesale
 vvv
 vе
+w http
 w.il.lkom.men
 wakka=
 wallet out
@@ -15336,6 +15377,7 @@ wholesalenorth
 wholesalepolo
 wholesaler-mac
 wholesalermac
+whttp
 why-would-you
 wɦ
 widget_
@@ -15611,6 +15653,7 @@ wо
 wһ
 wօ
 x adidas
+x http
 x portant
 x rumer
 x stream
@@ -15627,6 +15670,7 @@ xelerated
 xeloda
 xenical
 xfire.com/blog
+xhttp
 xl paket
 xl-paket
 xlpaket
@@ -15652,6 +15696,7 @@ yahoo-spy
 yahoospy
 yanswer
 yearold
+yhttp
 ynimb
 yo-dick
 yo-penis
@@ -15770,6 +15815,7 @@ yyy
 yе
 yо
 yօ
+z http
 z.in
 zabaw
 zahnversicherung
@@ -15868,6 +15914,7 @@ zerocalorie
 zfymail
 zhavy
 žhavý
+zhttp
 zielona kawa
 zielona-kawa
 zielonakawa
