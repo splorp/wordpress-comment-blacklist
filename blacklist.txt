@@ -1140,6 +1140,7 @@ _zapat
 @toke.
 @www.
 *@
+/_t
 /-_
 /?a
 /?b
@@ -1905,9 +1906,6 @@ _zapat
 /outlet/
 /ow.ly
 /p/
-/page/page
-/page/pg
-/page/view
 /page1.
 /page2.
 /page3.
@@ -1915,8 +1913,6 @@ _zapat
 /page5.
 /pages-
 /pages.
-/pages/more
-/pages/view
 /pandorabead
 /pantie-
 /pantie.
@@ -1927,8 +1923,6 @@ _zapat
 /parafon-
 /parafon.
 /parafon/
-/pg/page
-/pg/view
 /php.
 /piece-
 /piece.
@@ -2130,8 +2124,6 @@ _zapat
 /vasion-
 /vasion.
 /vb/
-/view/page
-/view/pg
 /viewstory
 /visit.
 /visite.
@@ -11427,9 +11419,15 @@ page_
 page-scrape
 page.tl
 page/pag
+page/page
+page/pg
+page/view
 pages scrape
 pages_
 pages-scrape
+pages/more
+pages/page
+pages/view
 pagescrape
 pagesscrape
 pagss
@@ -11667,7 +11665,9 @@ pflegeversicherung
 pflegezusatzversicherung
 pg/blog
 pg/forum
+pg/page
 pg/profile
+pg/view
 pharmacy_
 pharmaun
 phentermine
@@ -11715,6 +11715,7 @@ pinklarge
 pioggia gucci
 pioggia-gucci
 pioggiagucci
+pipe/view
 pips daily
 pips-daily
 piscine
@@ -13865,6 +13866,7 @@ sу
 sһ
 sօ
 t http
+t_/
 t.all
 t.for
 t.the
@@ -14986,6 +14988,9 @@ view_
 view-article
 view-blog
 view-entry
+view/page
+view/pg
+view/story
 viewarticle
 viewblog
 viewentry
@@ -16141,6 +16146,7 @@ zyvox
 прибыль
 привлекательный
 приобрести
+продажа
 продаже
 проститутки
 професси
@@ -16153,6 +16159,7 @@ zyvox
 ресниц
 ресурс
 рублей
+рф
 сайте
 сайтов
 секс
