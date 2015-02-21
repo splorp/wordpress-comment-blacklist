@@ -650,6 +650,7 @@ _zapat
 -purses.
 -purses/
 -pussy-
+-r4i-
 -rakuten-
 -rakuten.
 -rakuten/
@@ -725,6 +726,9 @@ _zapat
 -sunglasses-
 -sunglasses.
 -sunglasses/
+-suplementy-
+-suplementy.
+-suplementy/
 -supplement-
 -supplement.
 -supplement/
@@ -824,8 +828,11 @@ _zapat
 ! .
 !! you
 !!!
+!!}
+!!\
 !?'
 !?’
+!}
 !@#
 ????
 ?/pag
@@ -1577,8 +1584,8 @@ _zapat
 /economical-
 /edenic.
 /empower-
+/en-we/
 /en.
-/eng/index
 /engine/
 /errorx/
 /escort-
@@ -1621,6 +1628,8 @@ _zapat
 /fpdb/
 /free/
 /fuck
+/function/
+/functions/
 /futbol-
 /futbol/
 /gagajapan-
@@ -1637,6 +1646,7 @@ _zapat
 /gold.
 /goo.gl
 /good.
+/goose/
 /graphics/
 /group1
 /group2
@@ -1749,6 +1759,8 @@ _zapat
 /lang-es/
 /latestmk-
 /latestmk.
+/layout1/
+/layout2/
 /legal/
 /lib/
 /libraries/
@@ -1888,6 +1900,7 @@ _zapat
 /oakley.
 /oakley/
 /oakleycan
+/obsolete/
 /occhiali-
 /occhiali.
 /offering/
@@ -1970,6 +1983,8 @@ _zapat
 /pumps-
 /pumps.
 /q.
+/r4i-
+/r4i.
 /ra.
 /rakuten-
 /rakuten.
@@ -2055,6 +2070,9 @@ _zapat
 /suggestions-
 /sunglasses-
 /sunglasses.
+/suplementy-
+/suplementy.
+/suplementy/
 /swf/
 /syaneru
 /system/
@@ -2998,12 +3016,14 @@ andjourn
 andmerciful
 androidclan
 androidmp3
+andtheir
 aneswr
 angebote
 animalbased
 ankle bootie
 ankle-bootie
 anklebootie
+anonymity!
 anonymize your
 anonymous-download
 anonymousvpn
@@ -3193,6 +3213,7 @@ ationincome
 ativan
 atomoxetine
 atorvastatin
+atricky
 attraction market
 attraction-market
 auspicious repl
@@ -3887,34 +3908,49 @@ bootugg
 bootuk
 borsa chanel
 borsa ital
+borsa louis
+borsa luis
 borsa moncler
 borsa out
 borsa prada
 borsa-chanel
 borsa-ital
+borsa-louis
+borsa-luis
 borsa-moncler
 borsa-out
 borsa-prada
 borsachanel
 borsaital
+borsalouis
+borsaluis
 borsamoncler
 borsaout
 borsaprada
 borse chanel
 borse ital
+borse louis
+borse luis
 borse moncler
 borse out
 borse prada
+borse prezzi
 borse-chanel
 borse-ital
+borse-louis
+borse-luis
 borse-moncler
 borse-out
 borse-prada
+borse-prezzi
 borsechanel
 borseital
+borselouis
+borseluis
 borsemoncler
 borseout
 borseprada
+borseprezzi
 boss.de
 bota mujere
 bota-mujere
@@ -3933,6 +3969,9 @@ botasugg
 botte femme
 botte-femme
 bottefemme
+bottega veneta
+bottega-veneta
+bottegaveneta
 bottes femme
 bottes paris
 bottes pas
@@ -4072,7 +4111,7 @@ bullion-account
 bumpant
 burberry bag
 burberry belt
-burberry borse
+burberry bors
 burberry brit
 burberry clear
 burberry coat
@@ -4092,7 +4131,7 @@ burberry wallet
 burberry watch
 burberry-au
 burberry-belt
-burberry-borse
+burberry-bors
 burberry-brit
 burberry-clear
 burberry-coat
@@ -4114,7 +4153,7 @@ burberryau
 burberrybelt
 burberrybi
 burberryblack
-burberryborse
+burberrybors
 burberrybrit
 burberryclear
 burberrycoat
@@ -4474,21 +4513,43 @@ celebrity-nude
 celebritynude
 celexa
 celine bag
+celine bors
+celine boston
+celine boutique
 celine hand
 celine luggage
+celine port
+celine prezzi
+celine sac
 celine shop
 celine tote
+celine trapeze
 celine-bag
+celine-bors
+celine-boston
+celine-boutique
 celine-hand
 celine-luggage
+celine-port
+celine-prezzi
+celine-sac
 celine-shop
 celine-tote
+celine-trapeze
 celine.gear
+celine/celine
 celinebag
+celinebors
+celineboston
+celineboutique
 celinehand
 celineluggage
+celineport
+celineprezzi
+celinesac
 celineshop
 celinetote
+celinetrapeze
 cellskin
 cellulitefree
 cellulitereview
@@ -6000,6 +6061,7 @@ energeticpost
 eneugh
 eng/dress
 eng/faq
+eng/index
 engine optimi
 engine-optimi
 engineoptimi
@@ -6076,7 +6138,9 @@ espana-online
 españa-online
 espanaonline
 españaonline
+essay help
 essay-empire
+essay-help
 essay-service
 essayempire
 essays-empire
@@ -6095,6 +6159,8 @@ estate-whether
 estatepro
 estradiol
 etherdq
+euille lancel
+euille-lancel
 euro ditalog
 euro million
 euro-ditalog
@@ -6175,6 +6241,8 @@ explosive-growth
 express index
 express-index
 expressindex
+extended essay
+extended-essay
 extra gry
 extreme-sport
 extremely}
@@ -6529,6 +6597,10 @@ firm.pl
 firm.ru
 firm.za
 firma.php
+first-class web
+first-class-web
+firstclass-web
+firstclassweb
 fitch gilet
 fitch grenoble
 fitch out
@@ -7441,7 +7513,7 @@ guaranteed_
 guaranteed-uptime
 gucchi
 gucci bag
-gucci borse
+gucci bors
 gucci brief
 gucci discount
 gucci envy
@@ -7463,7 +7535,7 @@ gucci vintage
 gucci_
 gucci--
 gucci-bag
-gucci-borse
+gucci-bors
 gucci-brief
 gucci-discount
 gucci-envy
@@ -7489,7 +7561,7 @@ gucci-vintage
 gucci-you
 gucci2
 guccibag
-gucciborse
+guccibors
 gucciden
 guccidiscount
 guccienvy
@@ -7692,7 +7764,9 @@ helllo
 hello-sex
 hellodress
 hellosex
+help essay
 help_
+help-essay
 help-tax
 help.asp
 help.cfm
@@ -7799,7 +7873,16 @@ herren-timber
 herrenkaufen
 herrenmoncler
 herrentimber
+heuer new
+heuer sale
+heuer shop
 heuer-new
+heuer-sale
+heuer-shop
+heuernew
+heuersale
+heuershop
+heya i
 hfgfh
 hgfj
 hggh
@@ -7824,13 +7907,14 @@ high-profile
 high-protein
 high-website
 high.cc
-highbloodpressure
+highblood
 highprofile
 highprotein
 hingenieur
 his website
 his-website
 hisslipper
+hiswebsite
 hitfit
 hjblog
 hleepd
@@ -7846,6 +7930,7 @@ hoga outet
 hoga outlet
 hoga-outet
 hoga-outlet
+hogan discount
 hogan online
 hogan oulet
 hogan out
@@ -7853,9 +7938,12 @@ hogan outet
 hogan outlet
 hogan scarpe
 hogan shoe
+hogan shop
 hogan sito
+hogan store
 hogan time
 hogan uomo
+hogan-discount
 hogan-online
 hogan-oulet
 hogan-out
@@ -7863,15 +7951,20 @@ hogan-outet
 hogan-outlet
 hogan-scarpe
 hogan-shoe
+hogan-shop
 hogan-sito
+hogan-store
 hogan-time
 hogan-uomo
+hogandiscount
 hoganoulet
 hoganout
 hoganoutet
 hoganoutlet
 hoganshoe
+hoganshop
 hogansito
+hoganstore
 hogantime
 hoganuomo
 hogaoutet
@@ -7881,6 +7974,7 @@ holdning
 hollister berlin
 hollister bolsos
 hollister brasil
+hollister cloth
 hollister gr
 hollister jacke
 hollister jean
@@ -7909,6 +8003,7 @@ hollister_
 hollister-berlin
 hollister-bolsos
 hollister-brasil
+hollister-cloth
 hollister-deutsch
 hollister-gr
 hollister-jacke
@@ -7938,6 +8033,7 @@ hollister-uk
 hollisterberlin
 hollisterbolsos
 hollisterbrasil
+hollistercloth
 hollisterdeutsch
 hollistergr
 hollisterjacke
@@ -8135,21 +8231,27 @@ im not
 im-not
 image-old
 image/?
+image/bv
 image/cache
+image/celine
 image/game
 image/image
 image/index
+image/layout
 image/old
 image/prada
 image/table
 image/ugg
 images-old
 images/?
+images/bv
 images/cache
 images/celine
+images/chanel
 images/game
 images/image
 images/index
+images/layout
 images/new
 images/nike
 images/north
@@ -8180,6 +8282,7 @@ in’ tremendous
 inbeing
 inbto
 include priceless
+includeeng
 includes priceless
 income_
 income.in
@@ -9502,6 +9605,9 @@ luckjers
 luggage tote
 luggage-tote
 luggagetote
+luis vitton
+luis-vitton
+luisvitton
 lululemon cal
 lululemon loca
 lululemon out
@@ -9891,6 +9997,7 @@ mbtfootwear
 mbtfora
 mbtgun
 mbtjap
+mbtjp
 mbtmen
 mbtonline
 mbtout
@@ -10120,6 +10227,7 @@ milano scarpe
 milano-scarpe
 milanoscarpe
 milanosjap
+milanosjp
 mild activ
 mild-activ
 milendress
@@ -10619,6 +10727,7 @@ nail-fest
 nailart
 nailfest
 nailsjap
+nailsjp
 najlepsze
 naked sex
 naked-sex
@@ -10846,9 +10955,12 @@ nikeairshop
 nikeandshoe
 nikeause
 nikeblazer
+nikede
 nikedunk
+nikefr
 nikefree
 nikefreerun
+nikegb
 nikejers
 nikejordan
 nikemain
@@ -10858,15 +10970,16 @@ nikeroshe
 nikerun
 nikesb
 nikeschuh
+nikese
 nikeshoe
 nikeshop
 nikesko
-nikesportjap
-nikesportjp
+nikesportj
 nikestore
 niketn
 niketokyo
 niketotal
+nikeuk
 ninja sword
 ninja-sword
 ninjasword
@@ -11019,6 +11132,7 @@ oakleyvault
 öáøåâïïê
 obey posse
 obey-posse
+obmucwwbuc
 obtain consol
 obtain-consol
 obuwia
@@ -11045,6 +11159,7 @@ of internet
 of-deemed
 of-herpes
 of-internet
+ofargument
 offer out
 offer watch
 offer-out
@@ -11097,6 +11212,7 @@ officialugg
 officialwebsite
 offight
 ofhuman
+oficery
 ofnews
 ohttp
 oit|
@@ -11222,6 +11338,7 @@ onsale.co
 onsale.htm
 onsale.php
 onsales.co
+ontheir
 openair
 opinion.in
 opinions.in
@@ -11352,6 +11469,7 @@ outletfrance
 outlethermes
 outletitalia
 outletjap
+outletjp
 outletkopen
 outletleouf
 outletlouis
@@ -11598,6 +11716,9 @@ pcaccess
 pchealth
 pcstuff
 pcwindows
+pdf/bv
+pdf/celine
+pdf/chanel
 peer extra
 peer-extra
 pen montblanc
@@ -11868,8 +11989,7 @@ pornsex
 pornstream
 porntube
 pornvid
-portefeuille lancel
-portefeuille-lancel
+port
 possess
 post post
 post_
@@ -12021,8 +12141,11 @@ pretty worth
 pretty-worth
 prettyworth
 previcox
+prezzi bors
 prezzi giub
+prezzi-bors
 prezzi-giub
+prezzibors
 prezzigiub
 price-of-gold
 price-to-book
@@ -12259,6 +12382,8 @@ r.all
 r.for
 r.the
 r.two
+r4i-gold
+r4igold
 radikal.ru
 radiocarpea
 raiders hat
@@ -12402,6 +12527,12 @@ religion jeans
 religion-jeans
 religionjeans
 rellay
+relogioreplica
+relogios replica
+relogios réplica
+relogios-replica
+relogios-réplica
+relogiosreplica
 remarkable post
 remarkable-post
 rent_in
@@ -12421,6 +12552,8 @@ replica louis
 replica nba
 replica oakley
 replica ray
+replica relogio
+réplica relogio
 replica rolex
 replica service
 replica top
@@ -12430,6 +12563,8 @@ replica_
 replica-bag
 replica-brand
 replica-china
+replica-de-
+réplica-de-
 replica-design
 replica-gucci
 replica-hand
@@ -12442,6 +12577,8 @@ replica-nba
 replica-oakley
 replica-prada
 replica-ray
+replica-relogio
+réplica-relogio
 replica-rolex
 replica-service
 replica-store
@@ -12455,6 +12592,7 @@ replicabag
 replicabrand
 replicachanel
 replicachina
+replicade
 replicadesign
 replicagucci
 replicahand
@@ -12467,9 +12605,18 @@ replicanba
 replicaoakley
 replicaprad
 replicaray
+replicarelogio
 replicarolex
+replicas relogio
+réplicas relogio
 replicas_
+replicas-de-
+réplicas-de-
+replicas-relogio
+réplicas-relogio
+replicasde
 replicaservice
+replicasrelogio
 replicastore
 replicatop
 replicaugg
@@ -12497,6 +12644,8 @@ reverse-lookup
 reverse-phone
 reverselookup
 reversephone
+revia med
+revia-med
 review best
 review-best
 review-on
@@ -12970,6 +13119,7 @@ seeming-vexation
 seikomise
 seks.ro
 seks.ru
+seksual
 sell iphone4
 sell iphone5
 sell iphone6
@@ -13041,6 +13191,9 @@ services/services
 serwis
 sessuale
 sessuali
+set/bv
+set/celine
+set/chanel
 settings1
 settings2
 settings3
@@ -13094,12 +13247,31 @@ sexual moment
 sexual-fantas
 sexual-moment
 sexualfantas
+sexualmoment
 sexweb
+sexy fantas
+sexy girl
+sexy moment
+sexy web
+sexy woman
+sexy women
+sexy-fantas
+sexy-girl
+sexy-moment
+sexy-web
+sexy-woman
+sexy-women
 sexy.asp
 sexy.cfm
 sexy.co
 sexy.htm
 sexy.php
+sexyfantas
+sexygirl
+sexymoment
+sexyweb
+sexywoman
+sexywomen
 seznamce
 sgames.co
 shanghai escort
@@ -13159,7 +13331,7 @@ shoecloth
 shoedior
 shoeflat
 shoejap
-shoejp.co
+shoejp
 shoembt
 shoeonline
 shoeout
@@ -13171,6 +13343,7 @@ shoes america
 shoes announce
 shoes dior
 shoes jap
+shoes jp
 shoes mbt
 shoes online
 shoes out
@@ -13184,6 +13357,7 @@ shoes-cheap
 shoes-cloth
 shoes-dior
 shoes-jap
+shoes-jp
 shoes-mbt
 shoes-on-sale
 shoes-online
@@ -13198,6 +13372,7 @@ shoesale
 shoesamerica
 shoescloth
 shoesjap
+shoesjp
 shoeskan
 shoesmart
 shoesmbt
@@ -13235,7 +13410,6 @@ shopboot
 shopent.ru
 shopg2bags
 shopjap
-shopjapan.co
 shopjp
 shopmakeup
 shopnfl
@@ -13301,6 +13475,7 @@ signed-jers
 signifiant
 significant infos
 significant-infos
+signin_password
 signo zodiac
 signo-zodiac
 signozodiac
@@ -13607,6 +13782,7 @@ spyderski
 spyware
 squidoo.co
 ssory
+ssylka
 sta'sean
 sta’sean
 stag party
@@ -14224,6 +14400,7 @@ to operates
 to-operates
 toasterovensnow
 today/article
+todescribe
 todsjap
 todsjp
 toeshoe.co
@@ -14295,6 +14472,7 @@ toryburch1
 toryburch2
 toryburchflat
 toryburchten
+tospeed
 tosurveu
 totaldns.in
 totalizador
@@ -14873,9 +15051,18 @@ vegas-show
 vegas-social
 vendita
 vendorlock
+veneta bors
 veneta out
+veneta port
+veneta prezzi
+veneta-bors
 veneta-out
+veneta-port
+veneta-prezzi
+venetabors
 venetaout
+venetaport
+venetaprezzi
 vengasbong
 venlafaxine
 ventolin inhale
@@ -14905,6 +15092,7 @@ versace-jap
 versace-jp
 versacebelg
 versacejap
+versacejp
 versicherungsmakler
 verspiegelte ray
 very disconcertingly
@@ -15079,6 +15267,7 @@ vuitton austr
 vuitton bag
 vuitton belt
 vuitton black
+vuitton bors
 vuitton bracelet
 vuitton cig
 vuitton damier
@@ -15108,6 +15297,7 @@ vuitton wholesale
 vuitton women
 vuitton-bag
 vuitton-black
+vuitton-bors
 vuitton-bracelet
 vuitton-cig
 vuitton-damier
@@ -15130,6 +15320,7 @@ vuitton-women
 vuitton+
 vuitton<
 vuittonbag
+vuittonbors
 vuittoncig
 vuittondamier
 vuittonespa
@@ -15478,6 +15669,7 @@ winterjassen
 witgh
 with pics
 with-pics
+withdrawal!
 withher
 withhim
 without prescript
@@ -15672,6 +15864,7 @@ www.online
 www.onsale
 www.penis
 www.porn
+www.r4i
 www.sadje
 www.scarpe
 www.schuh
@@ -15733,6 +15926,7 @@ xx.ru
 xx.za
 xxx
 xyngular
+xzzy.info
 y http
 yahoo spy
 yahoo-spy
@@ -16168,12 +16362,14 @@ zyvox
 симптом
 скачать
 слот
+спам
 спама
 спорт на
 спорт открытом
 спорт-на
 спорт-открытом
 справкой
+ссылка
 статей
 статья
 стоимость
@@ -16373,6 +16569,7 @@ zyvox
 即時比分
 取得
 受注
+口コミ
 吉田カバン
 商品
 块钱
@@ -16436,6 +16633,7 @@ zyvox
 鈥?
 鈥檃
 銉
+锘?
 锘縉
 锟斤拷
 革の
