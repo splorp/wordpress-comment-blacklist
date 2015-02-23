@@ -27,6 +27,7 @@ _camiseta
 _campaign
 _cartier
 _casino
+_celine
 _chaussure
 _cheap
 _clear
@@ -841,6 +842,7 @@ _zapat
 ?birkin
 ?browse
 ?bvlgari
+?celine
 ?coach
 ?domain
 ?ducati
@@ -1459,6 +1461,7 @@ _zapat
 /categories-
 /category-
 /cek.li
+/cgi/
 /chanel-
 /chanel.
 /chat/
@@ -2004,6 +2007,7 @@ _zapat
 /remote-desktop
 /remotedesktop
 /res/
+/resize/
 /ri.ms
 /rozwod
 /ru/news/
@@ -2277,6 +2281,7 @@ _zapat
 +build
 +campaign
 +casino
++celine
 +cheap
 +clear
 +click
@@ -3906,6 +3911,7 @@ bootsuk
 boottenngoku
 bootugg
 bootuk
+borsa celine
 borsa chanel
 borsa ital
 borsa louis
@@ -3913,6 +3919,7 @@ borsa luis
 borsa moncler
 borsa out
 borsa prada
+borsa-celine
 borsa-chanel
 borsa-ital
 borsa-louis
@@ -3920,6 +3927,7 @@ borsa-luis
 borsa-moncler
 borsa-out
 borsa-prada
+borsaceline
 borsachanel
 borsaital
 borsalouis
@@ -3927,6 +3935,7 @@ borsaluis
 borsamoncler
 borsaout
 borsaprada
+borse celine
 borse chanel
 borse ital
 borse louis
@@ -3935,6 +3944,7 @@ borse moncler
 borse out
 borse prada
 borse prezzi
+borse-celine
 borse-chanel
 borse-ital
 borse-louis
@@ -3943,6 +3953,7 @@ borse-moncler
 borse-out
 borse-prada
 borse-prezzi
+borseceline
 borsechanel
 borseital
 borselouis
@@ -4518,20 +4529,25 @@ celine boston
 celine boutique
 celine hand
 celine luggage
+celine paris
 celine port
 celine prezzi
+celine purse
 celine sac
 celine shop
 celine tote
 celine trapeze
+celine_
 celine-bag
 celine-bors
 celine-boston
 celine-boutique
 celine-hand
 celine-luggage
+celine-paris
 celine-port
 celine-prezzi
+celine-purse
 celine-sac
 celine-shop
 celine-tote
@@ -4544,8 +4560,10 @@ celineboston
 celineboutique
 celinehand
 celineluggage
+celineparis
 celineport
 celineprezzi
+celinepurse
 celinesac
 celineshop
 celinetote
@@ -4566,6 +4584,7 @@ cent|
 cert line
 cert-line
 cgi-bin
+cgibin
 cgsaleca
 ch.e.ap
 ch.ea.p
@@ -4860,11 +4879,14 @@ cheapchina
 cheapcoach
 cheapconverse
 cheapest hockey
+cheapest price
 cheapest ray
 cheapest-hockey
+cheapest-price
 cheapest-ray
 cheapest.co
 cheapesthockey
+cheapestprice
 cheapga
 cheapgold
 cheapgucci
@@ -4918,6 +4940,7 @@ cheatss
 check.asp
 check32attack
 cheesefruit
+chefk
 chemise-ralph
 chemiseralph
 cher moncler
@@ -5282,6 +5305,7 @@ com2.php
 comdip
 comedyee
 comhttp
+coming frlm
 comment-pag
 commentabout
 commented here
@@ -6555,10 +6579,12 @@ film x
 film-porn
 film-x
 filmizle
+filmporn
 films porn
 films x
 films-porn
 films-x
+filmsporn
 finance solution
 finance-
 finance-blog
@@ -7729,6 +7755,8 @@ have-understand
 haveasite
 havegive
 havegone
+havve a
+hawks-jers
 hawksjers
 hɑ
 hcg-boost
@@ -9849,8 +9877,10 @@ markerboss
 markerdude
 markergaul
 market prices
+market research
 market samurai
 market-prices
+market-research
 market-research.
 market-researcher.
 market-researching.
@@ -9871,6 +9901,7 @@ marketingsamurai
 marketingtip
 marketingxchange
 marketnn
+marketresearch
 marketsamurai
 marlboro 100
 marlboro cig
@@ -10682,6 +10713,7 @@ my homepag
 my myspace
 my online
 my site;
+my site:
 my sitte
 my weblog
 my website
@@ -11214,6 +11246,8 @@ offight
 ofhuman
 oficery
 ofnews
+oher hand
+oherhand
 ohttp
 oit|
 ojectx
@@ -11622,10 +11656,13 @@ parajumpers
 parchet triplu
 parchet-triplu
 paretologic 
+paris bors
 paris model
+paris-bors
 paris-for
 paris-model
 paris-royal
+parisbors
 parismodel
 parka france
 parka-france
@@ -11796,8 +11833,10 @@ phlebotomy
 phon-store
 phone advert
 phone free
+phone gratuit
 phone-advert
 phone-free
+phone-gratuit
 phone-jammer
 phone-lookup
 phone-number-lookup
@@ -11805,6 +11844,7 @@ phone-store
 phoneadvert
 phoneforsale
 phonefree
+phonegratuit
 phonejammer
 phonelookup
 phonescanad
@@ -12147,8 +12187,11 @@ prezzi-bors
 prezzi-giub
 prezzibors
 prezzigiub
+price replica
 price-of-gold
+price-replica
 price-to-book
+pricereplica
 pricetobook
 priligy
 primary-change
@@ -12547,8 +12590,10 @@ replica hand
 replica herve
 replica ip
 replica jers
+replica kors
 replica leger
 replica louis
+replica michael
 replica nba
 replica oakley
 replica ray
@@ -12571,8 +12616,10 @@ replica-hand
 replica-herve
 replica-ip
 replica-jers
+replica-kors
 replica-leger
 replica-louis
+replica-michael
 replica-nba
 replica-oakley
 replica-prada
@@ -12599,8 +12646,10 @@ replicahand
 replicaherve
 replicaip
 replicajers
+replicakors
 replicaleger
 replicalouis
+replicamichael
 replicanba
 replicaoakley
 replicaprad
@@ -14114,26 +14163,41 @@ teamsonline
 teamwork coaching
 teamwork-coaching
 teamworkcoaching
+teen cam
 teen female
 teen porn
 teen sex
+teen webcam
+teen-cam
 teen-female
 teen-porn
 teen-sex
+teen-webcam
 teenage female
 teenage-female
 teenaged female
 teenaged-female
+teencam
 teeniepant
 teenporn
+teens cam
+teens porn
+teens webcam
+teens-cam
+teens-porn
+teens-webcam
+teenscam
 teensex
+teensporn
+teenswebcam
 teenwebcam
 tees hollister
 tees-hollister
 teeshollister
 tegs:
-telephone gratuit
-telephone-gratuit
+tele gratuit
+tele-gratuit
+telegratuit
 telepon-
 template.co
 templates.co
@@ -14143,6 +14207,7 @@ tenormin
 term dinner
 term loan
 term-dinner
+term-loan
 termopane
 test.ca
 test.in
@@ -15096,8 +15161,10 @@ versacejp
 versicherungsmakler
 verspiegelte ray
 very disconcertingly
+very lower
 very oone
 very-disconcertingly
+very-lower
 very-oone
 very}
 vest belg
@@ -15398,6 +15465,7 @@ weave-hair
 weavehair
 web anal
 web blog
+web ddress
 web farm
 web optimiz
 web owner
@@ -15776,6 +15844,7 @@ wordpress-theme
 wordpress-web
 wordpresstheme
 wordpressweb
+woriing
 work-review
 workout-sale
 workoutsale
