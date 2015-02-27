@@ -1163,6 +1163,7 @@ _zapat
 /?l2
 /?mid
 /?new
+/?opt
 /?pid
 /?tag
 /?tid
@@ -2413,6 +2414,7 @@ _zapat
 =blog
 =bracelet
 =captcha
+=com_
 =forex
 =kobe
 =longchamp
@@ -3501,14 +3503,17 @@ bardotlancel
 barn timber
 barn-timber
 barntimber
+basket chanel
 basket isabel
 basket jordan
 basket mbt
+basket-chanel
 basket-isabel
 basket-jordan
 basket-mbt
 basketball-shoe
 basketballshoe
+basketchanel
 basketisabel
 basketjordan
 basketmbt
@@ -4625,6 +4630,7 @@ chanclashollister
 chandler baseball
 chandler-baseball
 chanel bag
+chanel femme
 chanel hand
 chanel out
 chanel paris
@@ -4635,6 +4641,7 @@ chanel spring
 chanel_
 chanel--
 chanel-bag
+chanel-femme
 chanel-hand
 chanel-online
 chanel-out
@@ -4644,7 +4651,9 @@ chanel-replica
 chanel-sac
 chanel-sale
 chanel-spring
+chanel/chanel
 chanelbag
+chanelfemme
 chanelhand
 chanelonline
 chanelout
@@ -5838,8 +5847,17 @@ docteur-marten
 docteurdre
 docteurmarten
 document_
+document/bv
+document/celine
+document/chanel
+document/new
+document/nike
+document/north
+document/rolex
 documents_
+documents/bv
 documents/celine
+documents/chanel
 documents/new
 documents/nike
 documents/north
@@ -8296,12 +8314,14 @@ image/?
 image/bv
 image/cache
 image/celine
+image/chanel
 image/game
 image/image
 image/index
 image/layout
 image/old
 image/prada
+image/rolex
 image/table
 image/ugg
 images-old
@@ -8475,24 +8495,34 @@ interferende
 internet gambl
 internet lifestyle
 internet link
+internet owe
 internet pag
 internet poker
 internet savvy
 internet site
-internet website
+internet view
+internet web
 internet-gambl
 internet-lifestyle
 internet-link
 internet-market
+internet-owe
 internet-poker
 internet-savvy
 internet-site
-internet-website
+internet-view
+internet-web
 internet.in
 internetgambl
-internetowej
+internetlifestyle
+internetlink
+internetmarket
+internetowe
 internetpoker
 internetsavvy
+internetsite
+internetview
+internetweb
 interracial
 intersting
 invest-money
@@ -11797,6 +11827,8 @@ pcwindows
 pdf/bv
 pdf/celine
 pdf/chanel
+pdf/prada/
+pdf/rolex
 peer extra
 peer-extra
 pen montblanc
@@ -11892,8 +11924,19 @@ phonescanad
 phonesforsale
 phonestore
 phonstore
+photo/bv
+photo/celine
+photo/chanel
 photo/online
+photo/prada
+photo/rolex
 photoeditingdeal
+photos/bv
+photos/celine
+photos/chanel
+photos/online
+photos/prada
+photos/rolex
 php?article
 php?rowstart
 php?showuser
@@ -11952,10 +11995,16 @@ playfree
 playonline
 playvideo
 plazajp
+pleasant article
+pleasant blog
 pleasant designed
 pleasant good
+pleasant post
+pleasant-article
+pleasant-blog
 pleasant-designed
 pleasant-good
+pleasant-post
 please click
 please-click
 pleassant
@@ -13284,6 +13333,7 @@ sessuali
 set/bv
 set/celine
 set/chanel
+set/rolex
 settings1
 settings2
 settings3
