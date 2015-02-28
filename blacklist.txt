@@ -535,7 +535,6 @@ _zapat
 -jersey/
 -jerseys.
 -jerseys/
--kredyt
 -lacoste-
 -le-pliage
 -link.
@@ -1534,6 +1533,8 @@ _zapat
 /coupons.
 /coupons/
 /cp/
+/credit-
+/credit.
 /crimea-
 /css/
 /custom-control
@@ -1756,9 +1757,6 @@ _zapat
 /kitchenknives-
 /kitchenknives.
 /kommentar
-/konsultan
-/kredit
-/kredyt
 /lacoste-
 /lacoste.
 /lang-es/
@@ -1770,6 +1768,7 @@ _zapat
 /lib/
 /libraries/
 /library/
+/librarys/
 /libs/
 /lijst/
 /limewire
@@ -3385,6 +3384,12 @@ bagssale
 bagsstore
 bagstore
 bagsuk
+baikal extreme
+baikal rest
+baikal-extreme
+baikal-rest
+baikalextreme
+baikalrest
 bailey ugg
 bailey-ugg
 baileyugg
@@ -3434,7 +3439,10 @@ bangkok cosplay
 bangkok-cosplay
 bangkokcosplay
 banjacke
+bank credit
+bank-credit
 bankbybank
+bankcredit
 bankowoz
 bankrobber
 banonline
@@ -3518,6 +3526,18 @@ basketisabel
 basketjordan
 basketmbt
 bat-pro
+baykal extreme
+baykal otdykh
+baykal ozero
+baykal rest
+baykal-extreme
+baykal-otdykh
+baykal-ozero
+baykal-rest
+baykalextreme
+baykalotdykh
+baykalozero
+baykalrest
 bayswater bag
 bayswater-bag
 bazargorj
@@ -4232,6 +4252,7 @@ business-boss
 business-daily
 business-empire
 business-finder
+business-first
 business-in
 business-intel
 business-know
@@ -4243,6 +4264,7 @@ business-train
 businessboss
 businessdaily
 businessfinder
+businessfirst
 businessintel
 businessknow
 businessloan
@@ -5096,6 +5118,9 @@ classic-ugg
 classicugg
 clavulanate
 clboot
+clean clear
+clean-clear
+cleanclear
 clearance mbt
 clearance michael
 clearance out
@@ -5395,6 +5420,9 @@ conversejp
 conydot
 cooker-ninja
 cookerninja
+cool article
+cool-article
+coolarticle
 coordintaing
 copie ugg
 copie-ugg
@@ -5481,13 +5509,18 @@ crave-of
 create-product
 credit direct
 credit repair
+credit report
+credit score
 credit_
 credit-card
 credit-direct
+credit-repair
 credit-report
 credit-score
 credit.eu
 creditcard.org
+creditdirect
+creditrepair
 creditreport
 cription.asp
 cristmas-
@@ -9107,7 +9140,7 @@ kobeshoe
 komputer
 komputery
 konkurs
-konsultan-
+konsultan
 kontakta-oss
 kontrahenta
 koop dsquared
@@ -9185,6 +9218,7 @@ kosmetyc
 kosmetyki
 kosze
 kpkfprbrq
+kreddit
 kreddyt
 kreddyyt
 kredit
@@ -9199,8 +9233,6 @@ kvartiry
 kе
 l http
 l.uk.e.w.a.rm
-l'argent
-l’argent
 la pillule
 la-pillule
 laarzen kopen
@@ -10361,10 +10393,18 @@ millenout
 millenshop
 million hit
 million-hit
+millionhit
 minecraft free
 minecraft-free
 minecraftfree
+mini credit
+mini-credit
 minicredit
+mint cash
+mint coin
+mint-cash
+mint-coin
+mintcash
 mintcoin
 minumum
 miracle discount
@@ -11374,7 +11414,6 @@ online-gry
 online-internet
 online-invest
 online-journ
-online-kredit
 online-loan
 online-market
 online-med
@@ -11414,7 +11453,6 @@ onlinegambl
 onlineinternet
 onlineinvest
 onlinejp
-onlinekredit
 onlineloan
 onlinemed
 onlinemoney
@@ -16398,6 +16436,8 @@ zyvox
 алкогольные
 альтернатива
 андроид
+байкал озеро
+байкал отдых
 банков
 без
 бензогенератор
