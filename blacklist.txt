@@ -58,6 +58,7 @@ _estate
 _event
 _facebook
 _fake
+_fashion
 _femme
 _fendi
 _ferragamo
@@ -80,6 +81,7 @@ _guest
 _hand
 _hard
 _help
+_hemp
 _hermes
 _herpes
 _heuer
@@ -736,12 +738,6 @@ _zapat
 -supplements-
 -supplements.
 -supplements/
--suppliment-
--suppliment.
--suppliment/
--suppliments-
--suppliments.
--suppliments/
 -symptoms-
 -tax-attorney
 -tax-relief
@@ -752,8 +748,6 @@ _zapat
 -the-best/
 -the-easiest-
 -the-greatest-
--thebest.
--thebest/
 -thunderstick-
 -tips/
 -top-info
@@ -765,6 +759,8 @@ _zapat
 -treatment-
 -tw.in
 -uggs-
+-uggs.
+-uggs/
 -uk.net
 -vaginal-
 -vendita-
@@ -773,10 +769,12 @@ _zapat
 -watches.
 -watches/
 -wayfarer.
+-wayfarer/
 -web-pag
 -web-page
 -web-site
 -webhost.
+-webhost/
 -website-
 -wedding-dress
 -wedding-photo
@@ -2099,9 +2097,6 @@ _zapat
 /the-sale
 /the-secret
 /the-shock
-/thebest
-/thebest-
-/thebest.
 /themes/
 /thesecret
 /thread-
@@ -3668,6 +3663,7 @@ best jers
 best mcm
 best online
 best pant
+best suppl
 best tummy
 best website
 best wordpress
@@ -3683,6 +3679,7 @@ best-pant
 best-phone
 best-shop
 best-software-for
+best-suppl
 best-tummy
 best-way-to
 best-website
@@ -5778,6 +5775,11 @@ dieseldenim
 dieselhot
 dieselonline
 dieselwatch
+diet pill
+diet plan
+diet review
+diet solution
+diet suppl
 diet-food
 diet-pill
 diet-plan
@@ -6494,6 +6496,7 @@ fantasticblog
 farmacias
 farming-secret
 farmingsecret
+fashion apparel
 fashion boot
 fashion bracelet
 fashion class
@@ -6503,6 +6506,8 @@ fashion men
 fashion store
 fashion trend
 fashion women
+fashion_
+fashion-apparel
 fashion-boot
 fashion-bracelet
 fashion-class
@@ -6512,6 +6517,7 @@ fashion-men
 fashion-store
 fashion-trend
 fashion-women
+fashionapparel
 fashionboot
 fashionbracelet
 fashionclass
@@ -7867,11 +7873,12 @@ headset2013
 headset2014
 headset2015
 health advis
+health suppl
 health-advis
-health-supplement
+health-suppl
 healthadvis
 healthhow
-healthsupplement
+healthsuppl
 hedge fund
 hedge-fund
 heel_
@@ -7881,11 +7888,16 @@ heil-hitler
 heilhitler
 hellllo
 helllo
+hello dress
+hello sex
+hello-dress
 hello-sex
 hellodress
 hellosex
+help cry
 help essay
 help_
+help-cry
 help-essay
 help-tax
 help.asp
@@ -7893,6 +7905,7 @@ help.cfm
 help.htm
 help.php
 helpcry
+helpessay
 helpful-information
 helpful-method
 helplink.asp
@@ -7904,6 +7917,7 @@ hemp milk
 hemp oil
 hemp protein
 hemp tycoon
+hemp_
 hemp-braid
 hemp-jewelry
 hemp-milk
@@ -7912,6 +7926,7 @@ hemp-protein
 hemp-tycoon
 hence choose
 hentai
+herbal smok
 herbal tincture
 herbal-medicin
 herbal-smok
@@ -9942,6 +9957,12 @@ male enhance
 male-enhance
 maleenhance
 malepower
+mall store
+mall-store
+malls store
+malls-store
+mallsstore
+mallstore
 malwareremov
 man cheap
 man-cheap
@@ -12138,6 +12159,7 @@ popularną markę
 porn comic
 porn girl
 porn gratuit
+porn hub
 porn live
 porn pic
 porn sex
@@ -12147,11 +12169,13 @@ porn vid
 porn_
 porn-
 porn-girl
+porn-hub
 porn.
 porn@
 porncomic
 porngirl
 porngratuit
+pornhub
 pornlive
 porno comic
 porno girl
@@ -13412,6 +13436,7 @@ sex blog
 sex cam
 sex dat
 sex game
+sex hub
 sex scan
 sex shop
 sex tape
@@ -13423,6 +13448,7 @@ sex-blog
 sex-cam
 sex-dat
 sex-game
+sex-hub
 sex-scan
 sex-shop
 sex-tape
@@ -13440,6 +13466,7 @@ sexdat
 sexelist
 sexero
 sexgame
+sexhub
 sexo mon
 sexo-mon
 sexomon
@@ -14179,6 +14206,7 @@ supplementenergy
 supplements energy
 supplements-energy
 supplementsenergy
+suppliment
 supply_
 supra boutique
 supra online
@@ -14405,12 +14433,10 @@ the-most-detail
 the-pokie
 the-refire
 the-right-way
-the-the
 the-threading
 theattempt
 theaverage
-thebestis
-thebestprice
+thebest
 thedevelop
 thedirect
 theeasy
@@ -16015,10 +16041,16 @@ work-review
 workout-sale
 workoutsale
 workreview
+world porn
+world sex
+world-porn
+world-sex
 world-venture
+worldporn
 worlds most
 worlds-most
 worlds.blog
+worldsex
 worldugg
 worldventure
 worldwideugg
