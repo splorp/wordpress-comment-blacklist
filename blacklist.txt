@@ -944,12 +944,13 @@ _zapat
 .fake-
 .fcgi
 .filmy-
-.filpan.ru
-.filvce.in
 .forum.
-.frebvic.in
 .freeforums.org
+.games.in
 .games.pl
+.games.ro
+.games.ru
+.games.za
 .gucci-
 .hard-
 .hermes-
@@ -2709,9 +2710,12 @@ acertemail.co
 acetazolamide
 acheter air
 acheter dolce
+acheter sac
 acheter-air
 acheter-dolce
+acheter-sac
 acheterdolce
+achetersac
 acid-reflux
 acne cyst
 acne face
@@ -6680,6 +6684,16 @@ films x
 films-porn
 films-x
 filmsporn
+filpan.in
+filpan.pl
+filpan.ro
+filpan.ru
+filpan.za
+filvce.in
+filvce.pl
+filvce.ro
+filvce.ru
+filvce.za
 finance solution
 finance-
 finance-blog
@@ -6887,6 +6901,11 @@ frauen puma
 frauen-puma
 frauenpuma
 frdern
+frebvic.in
+frebvic.pl
+frebvic.ro
+frebvic.ru
+frebvic.za
 free class
 free gay
 free international
@@ -11986,6 +12005,11 @@ pg/forum
 pg/page
 pg/profile
 pg/view
+pharm.in
+pharm.pl
+pharm.ro
+pharm.ru
+pharm.za
 pharmacy_
 pharmaun
 phentermine
@@ -13053,6 +13077,8 @@ sac hermes
 sac lancel
 sac longchamp
 sac louis
+sac reutilis
+sac réutilis
 sac trail
 sac vanessa
 sac vuitton
@@ -13065,6 +13091,8 @@ sac-hermes
 sac-lancel
 sac-longchamp
 sac-louis
+sac-reutilis
+sac-réutilisable
 sac-trail
 sac-vanessa
 sac-vuitton
@@ -13076,6 +13104,8 @@ sachermes
 saclancel
 saclongchamp
 saclouis
+sacreutilis
+sacréutilisable
 sacs celine
 sacs chloe
 sacs fr
