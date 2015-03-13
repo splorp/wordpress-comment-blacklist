@@ -4,6 +4,7 @@ _adidas
 _advantage
 _afford
 _alviero
+_annonce
 _article
 _asics
 _autentic
@@ -16,6 +17,7 @@ _bcbg
 _benefit
 _bijoux
 _bitcoin
+_blackjack
 _blahnik
 _blog
 _bord
@@ -28,6 +30,7 @@ _camiseta
 _campaign
 _cartier
 _casino
+_cassino
 _celine
 _chaussure
 _cheap
@@ -76,6 +79,7 @@ _giub
 _gluten
 _google
 _goose
+_gratuit
 _gucci
 _guest
 _hand
@@ -300,6 +304,8 @@ _zapat
 -bitcoin-
 -bitcoin.
 -bitcoin/
+-blackjack.
+-blackjack/
 -blog.
 -blog/
 -blogs.
@@ -339,6 +345,8 @@ _zapat
 -casino-
 -casino.
 -casino/
+-cassino.
+-cassino/
 -cell-phone-
 -charms.
 -charms/
@@ -1377,6 +1385,8 @@ _zapat
 /birkin.
 /bit.ly
 /bitcoin-
+/blackjack-
+/blackjack.
 /blog.
 /blogid
 /bloglist/
@@ -1457,7 +1467,10 @@ _zapat
 /carinsurance.
 /cartier-
 /cartier.
-/casino
+/casino-
+/casino.
+/cassino-
+/cassino.
 /categories-
 /category-
 /cek.li
@@ -2278,6 +2291,7 @@ _zapat
 +build
 +campaign
 +casino
++cassino
 +celine
 +cheap
 +clear
@@ -3029,6 +3043,12 @@ animalbased
 ankle bootie
 ankle-bootie
 anklebootie
+annonce gratuit
+annonce-gratuit
+annoncegratuit
+annonces gratuit
+annonces-gratuit
+annoncesgratuit
 anonymity!
 anonymize your
 anonymous-download
@@ -3801,6 +3821,10 @@ black-ugg
 black-www
 blackfriday
 blackhat
+blackjack pit
+blackjack_
+blackjack-pit
+blackjackpit
 blacklabelj
 blacktight
 blackugg
@@ -3891,28 +3915,40 @@ blogsoon
 blogtitle
 blogweb
 blogworld
+blow-job
 blowjob
 blu-cig
 blucig
 blue ugg
 blue-ugg
+bluehost-review
 bluehostreview
+bluetooth jammer
+bluetooth-head
 bluetooth-jammer
-bluetoothheadset
+bluetoothhead
 bluetoothjammer
 blueugg
 boaby
 bobet link
 bobet-link
+bobetlink
 bodog8
 bolsos marc
 bolsos-marc
 bolsosmarc
 bon copie
 bon-copie
+boncopie
 bonne copie
 bonne-copie
+bonnecopie
+bono casino
+bono cassino
+bono-casino
+bono-cassino
 bonocasino
+bonocassino
 bonus-code
 bonuscode
 book-ot-
@@ -4092,8 +4128,6 @@ boutiqueugg
 bow ugg
 bow-ugg
 bowugg
-boychik casino
-boychik-casino
 bracelet manchette
 bracelet shop
 bracelet store
@@ -4532,8 +4566,10 @@ cashloan
 cashout
 casino bonus
 casino enligne
+casino game
 casino online
 casino only
+casino_
 casino-bonus
 casino-enligne
 casino-game
@@ -4545,6 +4581,7 @@ casinoenligne
 casinoer
 casinogame
 casinoonline
+casinoonly
 casinos-
 casolete plastic
 casolete-plastic
@@ -4553,6 +4590,8 @@ casque beats
 casque-beats
 casquebeats
 casquette
+cassino_
+cassinos_
 câsuâl
 casub.co
 catalog.asp
@@ -5022,9 +5061,21 @@ chez skechers
 chez-skechers
 chf iraq
 chf-iraq
+chic cassino
 chic mcm
+chic-casino
+chic-cassino
 chic-mcm
+chiccasino
+chiccassino
 chicmcm
+chid casino
+chik casino
+chik cassino
+chik-casino
+chik-cassino
+chikcasino
+chikcassino
 china cheap
 china low
 china shop
@@ -5539,8 +5590,11 @@ cruisevacation
 crystalmall
 css.asp
 cszwyojl
+cuir mean
 cuir vanessa
+cuir-mean
 cuir-vanessa
+cuirmean
 cuirvanessa
 cultureparis
 cup jers
@@ -6906,6 +6960,8 @@ frebvic.pl
 frebvic.ro
 frebvic.ru
 frebvic.za
+free casino
+free cassino
 free class
 free gay
 free international
@@ -6918,6 +6974,7 @@ free-bbs
 free-bid
 free-brows
 free-casino
+free-cassino
 free-class
 free-gay
 free-hemp
@@ -6942,6 +6999,7 @@ freebbs
 freebid
 freebrows
 freecasino
+freecassino
 freeclass
 freedat
 freefor.co
@@ -7138,20 +7196,26 @@ gamblingcasino
 gamblinggame
 gamblingonline
 game casino
+game cassino
 game wiki
 game-casino
+game-cassino
 game-copy
 game-game
 game-jers
 game-wiki
 gamecasino
+gamecassino
 gamecopy
 gamedesigndegree
 gamegame
 gamejers
 games casino
+games cassino
 games-casino
+games-cassino
 gamescasino
+gamescassino
 gamewiki
 gamma blue
 gamma-blue
@@ -7546,8 +7610,11 @@ goyard-online
 goyardbag
 goyardonline
 graduand
+gratuit annonce
 gratuit roulette
+gratuit-annonce
 gratuit-roulette
+gratuitannonce
 gratuitos
 graypanther
 grayson bag
@@ -10285,9 +10352,17 @@ medizinische
 medphrase
 medshop
 meilleur casino
+meilleur cassino
 meilleur-casino
+meilleur-cassino
+meilleurcasino
+meilleurcassino
 meilleurs casino
+meilleurs cassino
 meilleurs-casino
+meilleurs-cassino
+meilleurscasino
+meilleurscassino
 meisterstuck pen
 meisterstuck-pen
 meisterstuckpen
@@ -11450,6 +11525,7 @@ onestrap
 online bag
 online cash
 online casino
+online cassino
 online cheap
 online class
 online dat
@@ -11472,6 +11548,7 @@ online-blog
 online-business
 online-cash
 online-casino
+online-cassino
 online-cert
 online-cheap
 online-class
@@ -11512,6 +11589,7 @@ onlinebusiness
 onlinebuy
 onlinecash
 onlinecasino
+onlinecassino
 onlinecert
 onlinecheap
 onlinedat
@@ -12123,6 +12201,9 @@ pleasure secret
 pleasure-secret
 pleasuresecret
 pleease
+pliage cuir
+pliage-cuir
+pliagecuir
 plombier paris
 plombier-paris
 plombierparis
