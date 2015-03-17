@@ -18,6 +18,7 @@
 /loorg.de
 /onip.it
 /ow.ly
+/past.is
 /smsh.me
 /sn.im
 /snipurl.co

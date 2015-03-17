@@ -1954,6 +1954,7 @@ _zapat
 /parafon-
 /parafon.
 /parafon/
+/past.is
 /php.
 /piece-
 /piece.
