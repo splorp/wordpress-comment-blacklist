@@ -1479,6 +1479,7 @@ _zapat
 /cgi/
 /chanel-
 /chanel.
+/chanel/
 /chat/
 /chaussure-
 /chaussure.
@@ -1970,6 +1971,7 @@ _zapat
 /pozew
 /prada-
 /prada.
+/prada/
 /premium-
 /premium.
 /press-release-
@@ -2087,6 +2089,8 @@ _zapat
 /strony/
 /stuff.
 /styles/
+/stylesheet/
+/stylesheets/
 /suggestions-
 /sunglasses-
 /sunglasses.
@@ -5435,11 +5439,23 @@ comedyee
 comhttp
 coming frlm
 comment-pag
+comment/bv
+comment/celine
+comment/chanel
+comment/nike
+comment/north
+comment/rolex
 commentabout
 commented here
 commented-here
 commenting any
 commenting-any
+comments/bv
+comments/celine
+comments/chanel
+comments/nike
+comments/north
+comments/rolex
 commentsyou
 commerce retail
 commerce-retail
@@ -12085,7 +12101,7 @@ pcwindows
 pdf/bv
 pdf/celine
 pdf/chanel
-pdf/prada/
+pdf/prada
 pdf/rolex
 peer extra
 peer-extra
@@ -14142,8 +14158,11 @@ soldes.za
 soldes<
 soldesbotte
 soldesloubou
+soleil chanel
 soleil ray
+soleil-chanel
 soleil-ray
+soleilchanel
 soleilray
 solução
 solutioninc
