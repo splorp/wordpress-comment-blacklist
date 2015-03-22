@@ -77,6 +77,7 @@ _generic
 _genuine
 _giub
 _gluten
+_golden
 _google
 _goose
 _gratuit
@@ -1476,6 +1477,7 @@ _zapat
 /categories-
 /category-
 /cek.li
+/celine/
 /cgi/
 /chanel-
 /chanel.
@@ -4639,6 +4641,7 @@ celine luggage
 celine paris
 celine port
 celine prezzi
+celine prix
 celine purse
 celine sac
 celine shop
@@ -4654,6 +4657,7 @@ celine-luggage
 celine-paris
 celine-port
 celine-prezzi
+celine-prix
 celine-purse
 celine-sac
 celine-shop
@@ -4670,6 +4674,7 @@ celineluggage
 celineparis
 celineport
 celineprezzi
+celineprix
 celinepurse
 celinesac
 celineshop
@@ -5266,6 +5271,7 @@ coach ninnki
 coach out
 coach promo
 coach purse
+coach rouge
 coach shoe
 coach sneaker
 coach store
@@ -5299,6 +5305,7 @@ coach-ninnki
 coach-out
 coach-promo
 coach-purse
+coach-rouge
 coach-shoe
 coach-sneaker
 coach-store
@@ -5333,6 +5340,7 @@ coachninnki
 coachout
 coachpromo
 coachpurse
+coachrouge
 coachshoe
 coachsneaker
 coachstore
@@ -5820,7 +5828,11 @@ destiny power
 destiny-power
 destinypower
 desyrel
+detail though
+detail-though
 detail/www
+details though
+details-though
 detektiv
 deutschland-online
 deutschlandonline
@@ -7513,6 +7525,7 @@ gold.za
 goldbarren
 goldcoin
 goldearring
+golden_
 goldendoll
 goldessay
 goldgeek
@@ -11908,6 +11921,10 @@ oь
 oս
 p http
 p90x
+package printing
+package-printing
+packaging printing
+packaging-printing
 packers jers
 packers-jers
 packersjers
@@ -11935,6 +11952,8 @@ painless glad
 painless-glad
 painrelief.
 paintedfor
+pallet display
+pallet-display
 panda-shoe
 pandashoe
 pandora charm
@@ -13245,6 +13264,7 @@ sabosale
 saboshop
 sabouk
 sac celine
+sac chanel
 sac chloe
 sac gucci
 sac guess
@@ -13259,6 +13279,7 @@ sac vanessa
 sac vuitton
 sac-a-main
 sac-celine
+sac-chanel
 sac-chloe
 sac-gucci
 sac-guess
@@ -13272,6 +13293,7 @@ sac-trail
 sac-vanessa
 sac-vuitton
 sacceline
+sacchanel
 sacchloe
 sacgucci
 sacguess
@@ -14965,6 +14987,8 @@ topseo
 topsite
 topstop
 topvideocon
+tor puter
+tor-puter
 torrent-movie
 torrentmovie
 torrents
