@@ -1926,6 +1926,16 @@ _zapat
 /occhiali.
 /offering/
 /ok.
+/ok0.
+/ok1.
+/ok2.
+/ok3.
+/ok4.
+/ok5.
+/ok6.
+/ok7.
+/ok8.
+/ok9.
 /onip.it
 /online-
 /online.
@@ -2345,6 +2355,7 @@ _zapat
 +idea
 +index
 +info
++iphone
 +java
 +jers
 +jordan
@@ -8806,6 +8817,7 @@ iphone.cfm
 iphone.htm
 iphone.php
 iphone/iphone
+iphone+
 iphone2me
 iphone2you
 iphone4 case
@@ -11482,19 +11494,25 @@ o.for
 o.the
 o.two
 o‡
-oakeyspascher
+oakeys
+oakley active
 oakley canad
 oakley caveat
+oakley cheap
 oakley cross
 oakley five
-oakley frogskin
+oakley frog
 oakley glass
 oakley juliet
+oakley medusa
 oakley out
-oakley polarized
+oakley pascher
+oakley polar
 oakley sale
+oakley store
 oakley straight
 oakley sunglass
+oakley tokyo
 oakley twenty
 oakley vault
 oakley_
@@ -11504,27 +11522,42 @@ oakley-caveat
 oakley-cheap
 oakley-cross
 oakley-five
+oakley-frog
+oakley-glass
 oakley-juliet
+oakley-medusa
 oakley-out
-oakley-polarized
+oakley-pascher
+oakley-polar
+oakley-ru
+oakley-sale
+oakley-sj
 oakley-store
 oakley-straight
 oakley-sunglass
+oakley-tokyo
 oakley-twenty
+oakley-uk
 oakley-vault
 oakleyactive
 oakleycanad
 oakleycaveat
 oakleycheap
 oakleycross
+oakleyfive
+oakleyfrog
+oakleyglass
 oakleyjuliet
 oakleymedusa
 oakleyout
 oakleypascher
+oakleypolar
 oakleyru
 oakleys sunglass
+oakleys_
 oakleys-sunglass
-oakleys.net
+oakleys-uk
+oakleys.
 oakleysale
 oakleysj
 oakleyssunglass
