@@ -991,8 +991,10 @@ _zapat
 .in/top
 .in/user
 .in#
+.info?
 .info.
 .info/,
+.info/?
 .insanity-
 .internet-
 .it/t/
@@ -1000,9 +1002,12 @@ _zapat
 .louboutin-
 .magix.net
 .marant-
+.mobi?
 .mobi/?
 .moncler-
 .mulberry-
+.name?
+.name/?
 .net,
 .net?
 .net/,
@@ -3863,20 +3868,17 @@ blacklabelj
 blacktight
 blackugg
 blahnik out
-blahnik outlet
 blahnik replica
 blahnik shoe
 blahnik shop
 blahnik store
 blahnik_
 blahnik-out
-blahnik-outlet
 blahnik-replica
 blahnik-shoe
 blahnik-shop
 blahnik-store
 blahnikout
-blahnikoutlet
 blahnikreplica
 blahnikshoe
 blahnikshop
@@ -3940,7 +3942,7 @@ blogplatform
 blogrtui.ru
 blogs_
 blogs-trick
-blogs.blog
+blogs.bl
 blogs/entry
 blogs/item
 blogs/post
@@ -4286,7 +4288,7 @@ burberry-task
 burberry-too
 burberry-wallet
 burberry-watch
-burberry.blog
+burberry.bl
 burberryau
 burberrybelt
 burberrybi
@@ -4908,6 +4910,7 @@ cheap hockey
 cheap hotel
 cheap iphone
 cheap jers
+cheap jersey
 cheap jordan
 cheap lebron
 cheap longchamp
@@ -4939,6 +4942,7 @@ cheap travel
 cheap ugg
 cheap uk
 cheap wed
+cheap wholesale
 cheap youth
 cheap_
 cheap-adobe
@@ -4971,6 +4975,7 @@ cheap-hockey
 cheap-hotel
 cheap-jacke
 cheap-jers
+cheap-jersey
 cheap-jordan
 cheap-kobe
 cheap-lebron
@@ -5004,6 +5009,7 @@ cheap-travel
 cheap-ugg
 cheap-uk
 cheap-wed
+cheap-wholesale
 cheap-youth
 cheap+
 cheap<
@@ -5039,6 +5045,7 @@ cheaphockey
 cheapiphone
 cheapjacke
 cheapjers
+cheapjersey
 cheapjorda
 cheapjordan
 cheapkobe
@@ -5073,6 +5080,7 @@ cheaptravel
 cheapugg
 cheapuk
 cheapweb
+cheapwholesale
 cheapyouth
 cheat.co
 cheats for
@@ -5295,6 +5303,7 @@ coach mise
 coach new
 coach niho
 coach ninnki
+coach online
 coach out
 coach promo
 coach purse
@@ -5329,6 +5338,7 @@ coach-mise
 coach-new
 coach-niho
 coach-ninnki
+coach-online
 coach-out
 coach-promo
 coach-purse
@@ -5364,6 +5374,7 @@ coachmise
 coachnew
 coachniho
 coachninnki
+coachonline
 coachout
 coachpromo
 coachpurse
@@ -5592,7 +5603,7 @@ couple-gratuite
 coupon_
 coupon-code
 coupon-pag
-coupon.blog
+coupon.bl
 couponcode
 coupons_
 coupons-pag
@@ -5633,6 +5644,7 @@ credit-direct
 credit-repair
 credit-report
 credit-score
+credit.cc
 credit.eu
 creditcard.org
 creditdirect
@@ -5698,7 +5710,7 @@ da man!
 dabloggs
 dafeult
 dailly
-daily.blog
+daily.bl
 dailyreview.co
 dailystrength
 dailyz
@@ -5778,7 +5790,7 @@ ddavp
 de site
 de-contacto
 de-site
-deal.blog
+deal.bl
 dealonline
 dealsuk
 dealsus
@@ -7453,7 +7465,7 @@ giubbotti invernali
 giubbotti moncler
 giubbotti official
 giubbotti online
-giubbotti outlet
+giubbotti out
 giubbotti prezzi
 giubbotti timber
 giubbotti uomo
@@ -7464,7 +7476,7 @@ giubbotti-invernali
 giubbotti-moncler
 giubbotti-official
 giubbotti-online
-giubbotti-outlet
+giubbotti-out
 giubbotti-prezzi
 giubbotti-timber
 giubbotti-uomo
@@ -7474,7 +7486,7 @@ giubbottiinvernali
 giubbottimoncler
 giubbottiofficial
 giubbottionline
-giubbottioutlet
+giubbottiout
 giubbottiprezzi
 giubbottitimber
 giubbottiuomo
@@ -7484,7 +7496,7 @@ giubbotto invernali
 giubbotto moncler
 giubbotto official
 giubbotto online
-giubbotto outlet
+giubbotto out
 giubbotto prezzi
 giubbotto timber
 giubbotto uomo
@@ -7495,7 +7507,7 @@ giubbotto-invernali
 giubbotto-moncler
 giubbotto-official
 giubbotto-online
-giubbotto-outlet
+giubbotto-out
 giubbotto-prezzi
 giubbotto-timber
 giubbotto-uomo
@@ -7505,7 +7517,7 @@ giubbottoinvernali
 giubbottomoncler
 giubbottoofficial
 giubbottoonline
-giubbottooutlet
+giubbottoout
 giubbottoprezzi
 giubbottotimber
 giubbottouomo
@@ -8256,16 +8268,11 @@ hobo-bag
 hobo-fuchsia
 hobobag
 hobofuchsia
-hoga outet
-hoga outlet
-hoga-outet
-hoga-outlet
+hoga out
 hogan discount
 hogan online
 hogan oulet
 hogan out
-hogan outet
-hogan outlet
 hogan scarpe
 hogan shoe
 hogan shop
@@ -8277,8 +8284,6 @@ hogan-discount
 hogan-online
 hogan-oulet
 hogan-out
-hogan-outet
-hogan-outlet
 hogan-scarpe
 hogan-shoe
 hogan-shop
@@ -8289,16 +8294,13 @@ hogan-uomo
 hogandiscount
 hoganoulet
 hoganout
-hoganoutet
-hoganoutlet
 hoganshoe
 hoganshop
 hogansito
 hoganstore
 hogantime
 hoganuomo
-hogaoutet
-hogaoutlet
+hogaout
 holdinga
 holdning
 hollister berlin
@@ -8313,7 +8315,7 @@ hollister logo
 hollister nantes
 hollister online
 hollister orig
-hollister outlet
+hollister out
 hollister pant
 hollister paris
 hollister pas
@@ -8344,7 +8346,7 @@ hollister-milano
 hollister-nantes
 hollister-online
 hollister-orig
-hollister-outlet
+hollister-out
 hollister-pant
 hollister-paris
 hollister-pas
@@ -8374,7 +8376,7 @@ hollistermilano
 hollisternantes
 hollisteronline
 hollisterorig
-hollisteroutlet
+hollisterout
 hollisterpant
 hollisterparis
 hollisterpas
@@ -8924,7 +8926,7 @@ jacket 2013
 jacket 2014
 jacket 2015
 jacket canad
-jacket outlet
+jacket out
 jacket sale
 jacket sunglass
 jacket_
@@ -8933,18 +8935,18 @@ jacket-2014
 jacket-2015
 jacket-canad
 jacket-jp
-jacket-outlet
+jacket-out
 jacket-sale
 jacket-sunglass
 jacket2013
 jacket2014
 jacket2015
 jacketcanad
-jacketoutlet
+jacketout
 jackets 2013
 jackets 2014
 jackets 2015
-jackets outlet
+jackets out
 jackets sale
 jackets_
 jackets-2013
@@ -8954,7 +8956,7 @@ jackets-for-kids
 jackets-for-men
 jackets-for-wom
 jackets-jp
-jackets-outlet
+jackets-out
 jackets-sale
 jackets2013
 jackets2014
@@ -8963,7 +8965,7 @@ jacketsale
 jacketsforkids
 jacketsformen
 jacketsforwom
-jacketsoutlet
+jacketsout
 jacketssale
 jacketsunglass
 jacketswom
@@ -9056,6 +9058,7 @@ jeremyscott
 jeremyscottwing
 jersetblack
 jersey cheap
+jersey free
 jersey from
 jersey soccer
 jersey wholesale
@@ -9063,6 +9066,7 @@ jersey-2013
 jersey-2014
 jersey-2015
 jersey-cheap
+jersey-free
 jersey-from
 jersey-pro
 jersey-soccer
@@ -9077,11 +9081,13 @@ jersey2013
 jersey2014
 jersey2015
 jerseycheap
+jerseyfree
 jerseyfrom
 jerseyonline
 jerseypro
 jerseyred
 jerseys cheap
+jerseys free
 jerseys from
 jerseys soccer
 jerseys wholesale
@@ -9089,6 +9095,7 @@ jerseys-4-u
 jerseys-4-you
 jerseys-cheap
 jerseys-for-you
+jerseys-free
 jerseys-from
 jerseys-soccer
 jerseys-wholesale
@@ -9097,6 +9104,7 @@ jerseys+
 jerseys4you
 jerseyscheap
 jerseysforyou
+jerseysfree
 jerseysfrom
 jerseysusa
 jerseyswholesale
@@ -9105,7 +9113,7 @@ jerseywhite
 jerseywholesale
 jewelery
 jeweline.
-jewellery.blog
+jewellery.bl
 jewelry collect
 jewelry expens
 jewelry watch
@@ -9853,7 +9861,7 @@ longchamp bag
 longchamp hand
 longchamp hobo
 longchamp online
-longchamp outlet
+longchamp out
 longchamp pas
 longchamp pliage
 longchamp purse
@@ -9869,7 +9877,7 @@ longchamp-aus
 longchamp-hand
 longchamp-hobo
 longchamp-online
-longchamp-outlet
+longchamp-out
 longchamp-pliage
 longchamp-purse
 longchamp-shop
@@ -9889,7 +9897,6 @@ longchamplondon
 longchampoffici
 longchamponline
 longchampout
-longchampoutlet
 longchampp
 longchamppurse
 longchampq
@@ -10034,15 +10041,13 @@ luisvitton
 lululemon cal
 lululemon loca
 lululemon out
-lululemon outlet
 lululemon_
 lululemon-cal
 lululemon-loca
 lululemon-out
-lululemon-outlet
 lululemoncal
 lululemonloca
-lululemonoutlet
+lululemonout
 lumigan
 luminor watch
 luminor-watch
@@ -10204,7 +10209,7 @@ makebaby
 makeme
 makemoney
 makersnow
-makeup.blog
+makeup.bl
 making money
 making-money
 makingmoney
@@ -11957,7 +11962,13 @@ outlet-usa
 outlet-vancouver
 outlet-web
 outlet-woolrich
+outlet.bl
+outlet.cc
+outlet.click
 outlet.co
+outlet.eu
+outlet.mobi
+outlet.name 
 outlet.net
 outlet.org
 outlet.uk
@@ -12482,15 +12493,18 @@ północno
 polo hollister
 polo out
 polo ralph
+polo shoe
 polo_
 polo-hollister
 polo-lacoste
 polo-ralph
+polo-shoe
 polohollister
 poloralph
 polorozed
 polos ralph
 polos-ralph
+poloshoe
 polosralph
 popular brand
 popular-brand
@@ -13220,7 +13234,7 @@ review-best
 review-on
 review-source
 review.asp
-review.blog
+review.bl
 review.cfm
 review.htm
 review.in
@@ -13231,7 +13245,7 @@ reviews best
 reviews-best
 reviews-on
 reviews.asp
-reviews.blog
+reviews.bl
 reviews.cfm
 reviews.htm
 reviews.in
@@ -13927,6 +13941,8 @@ shoe-uk
 shoe.asp
 shoe.cfm
 shoe.htm
+shoe.mobi
+shoe.name
 shoe.php
 shoe+
 shoeamerica
@@ -13967,6 +13983,8 @@ shoes-online
 shoes-out
 shoes-uk
 shoes.asp
+shoes.mobi
+shoes.name
 shoes+
 shoes2013
 shoes2014
@@ -14340,8 +14358,11 @@ spaccio-woolrich
 spacciogucci
 spacciowoolrich
 spade diaper
+spade out
 spade-diaper
+spade-out
 spadediaper
+spadeout
 spain jers
 spain-jers
 spam link
@@ -14487,12 +14508,14 @@ store-gucci
 store-online
 store-out
 store-service
+store.bl
 store.htm
 store.org
 storegucci
 storejp
 storeonline
 storeout
+stores.bl
 storm hurricane
 storm-hurricane
 stosunek
@@ -16238,12 +16261,14 @@ wholesale coach
 wholesale free
 wholesale hand
 wholesale jers
+wholesale jersey
 wholesale jordan
 wholesale led
 wholesale nba
 wholesale north
 wholesale polo
 wholesale ralph
+wholesale soccer
 wholesale-acrylic
 wholesale-bag
 wholesale-cheap
@@ -16252,6 +16277,7 @@ wholesale-coach
 wholesale-free
 wholesale-hand
 wholesale-jers
+wholesale-jersey
 wholesale-jordan
 wholesale-led
 wholesale-mac
@@ -16259,6 +16285,7 @@ wholesale-nba
 wholesale-north
 wholesale-polo
 wholesale-ralph
+wholesale-soccer
 wholesalebag
 wholesalecheap
 wholesalechina
@@ -16266,6 +16293,7 @@ wholesalecoach
 wholesalefree
 wholesalehand
 wholesalejers
+wholesalejersey
 wholesalejordan
 wholesaleled
 wholesalemac
@@ -16274,6 +16302,7 @@ wholesalenorth
 wholesalepolo
 wholesaler-mac
 wholesalermac
+wholesalesoccer
 whttp
 why-would-you
 wɦ
@@ -16454,7 +16483,7 @@ world-venture
 worldporn
 worlds most
 worlds-most
-worlds.blog
+worlds.bl
 worldsex
 worldugg
 worldventure
@@ -16611,9 +16640,9 @@ ynimb
 yo-dick
 yo-penis
 yodick
-yoga outlet
-yoga-outlet
-yogaoutlet
+yoga out
+yoga-out
+yogaout
 yoigucci
 yopenis
 york sportiv
