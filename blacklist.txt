@@ -153,6 +153,7 @@ _party
 _penis
 _pharm
 _ping
+_poker
 _pokie
 _porn
 _post
@@ -4054,6 +4055,12 @@ bluetoothhead
 bluetoothjammer
 blueugg
 boaby
+board sale
+board-sale
+boards sale
+boards-sale
+boardsale
+boardssale
 bobet link
 bobet-link
 bobetlink
@@ -7180,6 +7187,7 @@ free class
 free gay
 free international
 free laranita
+free poker
 free prescript
 free proxy
 free visit
@@ -8207,6 +8215,8 @@ hello-dress
 hello-sex
 hellodress
 hellosex
+hellothat
+hellothis
 help cry
 help essay
 help_
@@ -8364,6 +8374,8 @@ his-website
 hisslipper
 hiswebsite
 hitfit
+hithat
+hithis
 hjblog
 hleepd
 hndeds
@@ -11519,12 +11531,14 @@ nice blog
 nice info
 nice page
 nice paragraph
+nice post
 nice practice
 nice understand
 nice-blog
 nice-info
 nice-page
 nice-paragraph
+nice-post
 nice-practice
 nice-understand
 niceblog
@@ -11919,6 +11933,7 @@ online journ
 online loan
 online out
 online pharm
+online poker
 online pokie
 online reader
 online schuh
@@ -11947,6 +11962,7 @@ online-med
 online-money
 online-out
 online-pharm
+online-poker
 online-pokie
 online-reader
 online-sale
@@ -12332,6 +12348,7 @@ part mariage
 part-mariage
 particular article
 particular-article
+party poker
 party_
 party-poker
 partypoker
@@ -12637,7 +12654,11 @@ points-generator
 pointsgenerator
 poished
 pojap
+poker chip
+poker money
+poker strateg
 poker without
+poker_
 poker-chip
 poker-money
 poker-strateg
@@ -16599,6 +16620,7 @@ without prescript
 without-invest
 without-prescript
 withthose
+woderful
 women+
 womenbikini
 won webpage
