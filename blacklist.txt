@@ -177,6 +177,7 @@ _sensual
 _seo
 _serv
 _sex
+_shirt
 _shoe
 _shop
 _site
@@ -399,6 +400,8 @@ _zapat
 -cosmetics/
 -costume.
 -costume/
+-costumes.
+-costumes/
 -coupon-
 -data-recovery-
 -de-mbt
@@ -2125,6 +2128,7 @@ _zapat
 /temp1
 /temp2
 /temp3
+/template/
 /templates/
 /test.
 /the-best-
@@ -3212,12 +3216,21 @@ aricept
 aripiprex
 armagard.co
 armani cloth
-armani costume
+armani cost
 armani-cloth
-armani-costume
+armani-cost
 armanicloth
+armanicost
 armanito
+aroma paradise
 aroma-paradise
+aromaparadise
+arsenal jers
+arsenal shirt
+arsenal-jers
+arsenal-shirt
+arsenaljers
+arsenalshirt
 artemfrolov
 article buzz
 article complet
@@ -5683,40 +5696,49 @@ coskobo
 cosm tique
 cosmetic eye
 cosmetic-eye
+cosmeticeye
 cosmetics eye
 cosmetics whole
 cosmetics-eye
 cosmetics-out
 cosmetics-whole
+cosmeticseye
+cosmeticsout
 cosmeticswhole
 cosmtique
 cost-effective
 costume ermen
 costume homme
-costume mariage
-costume marie
-costume marié
+costume mari
+costume medi
 costume tendance
 costume versace
 costume-ermen
 costume-homme
-costume-mariage
-costume-marie
-costume-marié
-costume-medieval
+costume-mari
+costume-medi
 costume-tendance
 costume-versace
+costumeermen
+costumehomme
+costumemari
+costumemedi
 costumes homme
 costumes-homme
+costumeshomme
+costumetendance
+costumeversace
 couchey fr
 couchey-fr
 coucheyfr
 coumadin
 couple gratuite
 couple-gratuite
+coupon sense
 coupon_
 coupon-code
 coupon-pag
+coupon-sense
 coupon.bl
 couponcode
 coupons_
@@ -5727,6 +5749,7 @@ courses-casino
 couture avec
 couture-avec
 coverages
+cozy ugg
 cozy-ugg
 cozyugg
 cpa camp
@@ -7168,7 +7191,7 @@ fr.fr/
 fr/acheter
 fr/botte
 fr/canad
-fr/costume
+fr/cost
 fr/index
 fr/longchamp
 fr/pascher
@@ -10694,7 +10717,9 @@ media-palitra
 media/system
 mediapalitra
 medicarefraud
-medieval-costume
+medieval cost
+medieval-cost
+medievalcost
 medigital
 medikal.co
 medizinische
@@ -14979,8 +15004,9 @@ tadalafil
 tadapox
 tag/event
 tags:
-taille costume
-taille-costume
+taille cost
+taille-cost
+taillecost
 taken gravely
 taken-gravely
 takenwith
