@@ -4097,6 +4097,7 @@ bono-casino
 bono-cassino
 bonocasino
 bonocassino
+bontril
 bonus-code
 bonuscode
 book-ot-
@@ -4850,6 +4851,10 @@ cent-whenever
 cent|
 cert line
 cert-line
+certain pronoun
+certain-pronoun
+certainly pronoun
+certainly-pronoun
 cgi-bin
 cgibin
 cgsaleca
@@ -6597,9 +6602,9 @@ evelynebag
 event_
 eventid
 every advert
-every information
+every info
 every-advert
-every-information
+every-info
 every-leg
 every-light
 every-pant
@@ -6608,6 +6613,7 @@ every-think
 every-tight
 every1bet
 everyadvert
+everyinfo
 everyleg
 everylight
 everypant
@@ -6621,10 +6627,12 @@ exceel
 excelent
 excellent blog
 excellent site
+excellent task
 excellent website
 excellent written
 excellent-blog
 excellent-site
+excellent-task
 excellent-website
 excellent-written
 excellentlunch
@@ -6804,6 +6812,7 @@ fashion boot
 fashion bracelet
 fashion class
 fashion compan
+fashion hair
 fashion list
 fashion men
 fashion store
@@ -6815,6 +6824,7 @@ fashion-boot
 fashion-bracelet
 fashion-class
 fashion-compan
+fashion-hair
 fashion-list
 fashion-men
 fashion-store
@@ -6825,6 +6835,7 @@ fashionboot
 fashionbracelet
 fashionclass
 fashioncompan
+fashionhair
 fashionist blog
 fashionist-blog
 fashionista blog
@@ -8243,11 +8254,28 @@ headset2013
 headset2014
 headset2015
 health advis
+health how
+health stock
 health suppl
 health-advis
+health-how
+health-stock
 health-suppl
 healthadvis
+healthcare advis
+healthcare how
+healthcare stock
+healthcare suppl
+healthcare-advis
+healthcare-how
+healthcare-stock
+healthcare-suppl
+healthcareadvis
+healthcarehow
+healthcarestock
+healthcaresuppl
 healthhow
+healthstock
 healthsuppl
 hedge fund
 hedge-fund
@@ -8260,14 +8288,19 @@ hellllo
 helllo
 hello dress
 hello sex
+hello that
+hello this
 hello-dress
 hello-sex
+hello-that
+hello-this
 hellodress
 hellosex
 hellothat
 hellothis
 help cry
 help essay
+help tax
 help_
 help-cry
 help-essay
@@ -8278,10 +8311,11 @@ help.htm
 help.php
 helpcry
 helpessay
-helpful-information
+helpful-info
 helpful-method
 helplink.asp
 helpoful
+helptax
 hemorroide
 hemp braid
 hemp jewelry
@@ -11366,6 +11400,7 @@ muzyczny
 my bebo
 my bitcoin
 my blog
+my fashion
 my hermes
 my homepag
 my myspace
@@ -11379,6 +11414,7 @@ my wweb
 my-bebo
 my-bitcoin
 my-blog
+my-fashion
 my-hermes
 my-homepag
 my-my
@@ -11392,6 +11428,7 @@ my-wweb
 mybitcoin
 mydead-
 mydomain
+myfashion
 myfitness
 mygiftcard
 myhermes
@@ -14461,6 +14498,7 @@ site platform
 site position
 site post
 site provid
+site theme
 site traffic
 site ufficial
 site-asian
@@ -14474,6 +14512,7 @@ site-platform
 site-position
 site-post
 site-provid
+site-theme
 site-traffic
 site-ufficial
 site!
@@ -15428,6 +15467,8 @@ tomsout
 tomsshoe
 tomsshoes
 tomswomen
+tones way
+tones-way
 tongue retain
 tongue-retain
 tongueretain
@@ -15994,6 +16035,8 @@ v http
 va ballgown
 va-ballgown
 vaballgown
+vagira
+vaigra
 valise louis
 valise-louis
 valiselouis
@@ -16145,6 +16188,7 @@ veterinarnaya
 vhs-to-digital
 vhttp
 via-internet
+viagara
 viagera
 viagra
 vicodin
