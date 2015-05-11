@@ -192,6 +192,7 @@ _strat
 _swaro
 _system
 _tape
+_tattoo
 _taylor
 _temp
 _theme
@@ -752,6 +753,12 @@ _zapat
 -supplements.
 -supplements/
 -symptoms-
+-tattoo-
+-tattoo.
+-tattoo/
+-tattoos-
+-tattoos.
+-tattoos/
 -tax-attorney
 -tax-relief
 -tax-settlement
@@ -1624,6 +1631,12 @@ _zapat
 /event.
 /executive-
 /extreme-
+/f_0/
+/f_1/
+/f_2/
+/f_3/
+/f_4/
+/f_5/
 /fashion-
 /fc.cx
 /features-
@@ -1884,13 +1897,14 @@ _zapat
 /mypage/
 /myspace/
 /n.
-/nailart-
-/nailart.
-/nailart/
 /natverk/
+/natwerk/
+/natwork/
 /netcat
+/netverk/
 /netwerk/
 /network/
+/networks/
 /new.
 /newbalance-
 /newbalance.
@@ -2121,6 +2135,13 @@ _zapat
 /t.co
 /tabid/
 /tagged/
+/tattoo-
+/tattoo.
+/tattoo/
+/tattoos-
+/tattoos.
+/tattoos/
+/tax-attorney
 /telecharger-
 /telecharger.
 /temp/
@@ -6913,7 +6934,9 @@ fatloss
 faux coach
 faux-coach
 fauxcoach
+favorite justif
 favorite website
+favorite-justif
 favorite-website
 favourite website
 favourite-website
@@ -7490,6 +7513,8 @@ gainers outnumbered
 gainers-beat
 gainers-outnumbered
 gainweight
+galaxy nail
+galaxy-nail
 galaxynail
 galdi rebecka
 galdi-rebecka
@@ -11485,13 +11510,22 @@ m谩s
 n http
 n1-takeaway
 n1takeaway
+nail upon
 nail_art
 nail-art
 nail-fest
+nail-jap
+nail-jp
+nail-upon
 nailart
 nailfest
+nailjap
+nailjp
+nails-jap
+nails-jp
 nailsjap
 nailsjp
+nailupon
 najlepsze
 naked sex
 naked-sex
@@ -11565,11 +11599,21 @@ net/fr/
 net/members/
 nethttp
 netload.in
+network buzz
 network scam
 network truth
+network-buzz
 network-scam
 network-truth
+networkbuzz
+networks buzz
+networks-buzz
+networks-scam
+networks-truth
+networksbuzz
 networkscam
+networksscam
+networkstruth
 networktruth
 neurontin
 nevertheless just
@@ -11606,6 +11650,7 @@ newoakley
 newport 100s
 newport-100s
 newport100s
+news-article
 news.in
 news/article
 newsarticle
@@ -14700,8 +14745,6 @@ social-media-manage
 socialbookmark
 socialengine
 socialite.
-socialnetworkbuzz
-socialnetworksbuzz
 societys
 soeasy
 soft_
@@ -15171,7 +15214,24 @@ taschen longchamp
 taschen-longchamp
 taschenlongchamp
 tastegood.co
+tattoo cheap
+tattoo sneak
+tattoo tip
+tattoo_
+tattoo-cheap
+tattoo-sneak
 tattoo-tip
+tattoocheap
+tattoos cheap
+tattoos sneak
+tattoos top
+tattoos_
+tattoos-cheap
+tattoos-sneak
+tattoos-tip
+tattooscheap
+tattoosneak
+tattoostip
 tattootip
 tax-book
 tax-debt
@@ -15971,6 +16031,8 @@ ultimatestag
 ultimatetab
 ultram
 umschuldung
+undeniably believe
+undeniably-believe
 under pant
 under-pant
 underpant
@@ -17701,10 +17763,13 @@ zyvox
 保存
 保証
 倒
+全球华人
 公式
+冷静化处理
 割引
 化粧
 医師
+华人利益
 博主
 博彩
 危機
@@ -17717,6 +17782,7 @@ zyvox
 块钱
 外贸
 好評
+婚庆礼仪
 安い
 小銭入れ
 履
@@ -17724,12 +17790,14 @@ zyvox
 店の
 店舗
 性
+成功的医生
 手机
 最安値
 札入れ
 標準
 正規店
 毛刈
+永久的耻辱
 漫画を
 激安
 無料
@@ -17778,6 +17846,7 @@ zyvox
 锘?
 锘縉
 锟斤拷
+门户网
 革の
 靴
 韓国音楽
