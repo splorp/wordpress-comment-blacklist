@@ -673,6 +673,9 @@ _zapat
 -rakuten-
 -rakuten.
 -rakuten/
+-ralphlauren-
+-ralphlauren.
+-ralphlauren/
 -ray-ban-
 -rayban-
 -rayban.
@@ -2046,6 +2049,9 @@ _zapat
 /rakuten-
 /rakuten.
 /rakuten/
+/ralphlauren-
+/ralphlauren.
+/ralphlauren/
 /ray-ban-
 /ray-ban.
 /ray-ban/
@@ -2901,6 +2907,8 @@ acneface
 acneprescript
 acnetreatment
 acomplia
+across thiss
+across-thiss
 activation code
 activity/p/
 actonel
@@ -3175,8 +3183,9 @@ aminocare
 amitriptyline
 amorti dynamique
 amorti-dynamique
-amour gratuite
-amour-gratuite
+amour gratuit
+amour-gratuit
+amourgratuit
 amoxicil
 amoxil
 amusement account
@@ -3405,6 +3414,7 @@ astounding3
 astounding4
 astounding5
 astral-diamond
+asutralia
 aswenr
 at web,
 atempting
@@ -3482,6 +3492,8 @@ available-proper
 avatar-live
 avvessorie
 avvessory
+away your
+away-your
 awesome blog
 awesome post
 awesome-blog
@@ -4267,6 +4279,8 @@ botas-ugg
 botasdefutbol
 botasmujere
 botasugg
+both educative
+both-educative
 botte femme
 botte-femme
 bottefemme
@@ -5805,8 +5819,18 @@ couchey fr
 couchey-fr
 coucheyfr
 coumadin
-couple gratuite
-couple-gratuite
+couple gratuit
+couple watches
+couple-gratuit
+couple-watches
+couplegratuit
+couples gratuit
+couples watches
+couples-gratuit
+couples-watches
+couplesgratuit
+coupleswatches
+couplewatches
 coupon sense
 coupon_
 coupon-code
@@ -7975,6 +7999,13 @@ gratuit roulette
 gratuit-annonce
 gratuit-roulette
 gratuitannonce
+gratuite annonce
+gratuite roulette
+gratuite-annonce
+gratuite-roulette
+gratuiteannonce
+gratuiteos
+gratuiteroulette
 gratuitos
 gratuitroulette
 gray-panther
@@ -8170,6 +8201,7 @@ guccivintage
 gucciyu
 guerre gratuit
 guerre-gratuit
+guerregratuit
 guest_
 guest-book
 guest-post
@@ -9158,12 +9190,15 @@ irc-chat
 is seo
 is-now-available
 is-seo
+is.and
 isabel marant
 isabel-marant
 isabelmarant
 island jacke
 island-jacke
 islandjacke
+isn''t
+isnt
 isotretinoine
 isseo
 istanbul escort
@@ -9179,6 +9214,7 @@ it-ordeno
 it-ordenó
 it-rite
 it-truly
+it''s
 italia scarpe
 italia-scarpe
 italiascarpe
@@ -9855,6 +9891,7 @@ lauren belg
 lauren cheap
 lauren dame
 lauren factory
+lauren femme
 lauren heren
 lauren home
 lauren homme
@@ -9867,16 +9904,18 @@ lauren out
 lauren polo
 lauren ralph
 lauren sale
+lauren sandal
+lauren shirt
 lauren short
 lauren sverige
 lauren uk
 lauren-amster
 lauren-aus
-lauren-austr
 lauren-belg
 lauren-cheap
 lauren-dame
 lauren-factory
+lauren-femme
 lauren-heren
 lauren-home
 lauren-homme
@@ -9889,14 +9928,17 @@ lauren-out
 lauren-polo
 lauren-ralph
 lauren-sale
+lauren-sandal
+lauren-shirt
 lauren-short
 lauren-sverige
 lauren-uk
 laurenamster
-laurenaustr
+laurenaus
 laurenbelg
 laurencheap
 laurendame
+laurenfemme
 laurenhome
 laurenhomme
 laurennorge
@@ -9905,6 +9947,8 @@ laurenout
 laurenpolo
 laurenralph
 laurensale
+laurensandal
+laurenshirt
 laurenshort
 laurensverige
 laurent femme
@@ -11723,7 +11767,9 @@ nice page
 nice paragraph
 nice post
 nice practice
+nice site
 nice understand
+nice weblog
 nice-article
 nice-blog
 nice-info
@@ -11731,11 +11777,17 @@ nice-page
 nice-paragraph
 nice-post
 nice-practice
+nice-site
 nice-understand
+nice-weblog
 nicearticle
 niceblog
+niceinfo
 nicepage
+niceparagraph
 nicepost
+nicesite
+niceweblog
 nicki-mariah
 nicoban
 nicolasbit
@@ -12692,6 +12744,8 @@ perfectwrit
 permission allow
 permission-allow
 permonth.co
+person provide
+person-provide
 personal natural
 personal-experience
 personal-injury
@@ -12955,6 +13009,7 @@ porno.
 porno@
 pornocomic
 pornogirl
+pornogratuit
 pornolady
 pornolive
 pornopic
@@ -13506,6 +13561,8 @@ reflux-symptom
 refluxsymptom
 reg_
 regarding blog
+regarding thiss
+regarding-thiss
 regarfing
 registration strateg
 registration-strateg
@@ -13542,8 +13599,36 @@ relogios réplica
 relogios-replica
 relogios-réplica
 relogiosreplica
+remarkable article
+remarkable blog
+remarkable info
+remarkable page
+remarkable paragraph
 remarkable post
+remarkable practice
+remarkable site
+remarkable understand
+remarkable weblog
+remarkable-article
+remarkable-blog
+remarkable-info
+remarkable-page
+remarkable-paragraph
 remarkable-post
+remarkable-practice
+remarkable-site
+remarkable-understand
+remarkable-weblog
+remarkablearticle
+remarkableblog
+remarkableinfo
+remarkablepage
+remarkableparagraph
+remarkablepost
+remarkablepractice
+remarkablesite
+remarkableunderstand
+remarkableweblog
 rent_in
 rent-car
 rentinsur
@@ -14549,6 +14634,8 @@ showtopic
 shttp
 sɦ
 si.lv.e.r.w.are
+si've
+si’ve
 sieg heil
 sieg-heil
 siege hack
@@ -16433,11 +16520,14 @@ votre-site
 votresite
 voyance amour
 voyance couple
-voyance gratuite
+voyance gratuit
 voyance-amour
 voyance-couple
-voyance-gratuite
+voyance-gratuit
 voyance<
+voyanceamour
+voyancecouple
+voyancegratuit
 voynich code
 voynich-code
 vtx-fair
@@ -16812,6 +16902,7 @@ wifewith
 wifi-jammer
 wifijammer
 wigsrus
+wiith
 wiki_
 wiki/%
 wiki/index
@@ -17608,6 +17699,8 @@ zyvox
 һe
 һi
 һo
+һu
+һy
 цена
 шапка
 щзп
@@ -17624,11 +17717,16 @@ zyvox
 ոn
 ոo
 սa
+օd
+օf
 օm
 օn
+օp
+օr
 օs
 օt
 օw
+օx
 օy
 ויקיפדיה
 ߋ
