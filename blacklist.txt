@@ -21,7 +21,7 @@ _blackjack
 _blahnik
 _blog
 _bord
-_bracelet
+_brace
 _build
 _buyout
 _bvlgari
@@ -971,6 +971,16 @@ _zapat
 .filmy-
 .forum.
 .freeforums.org
+.freeoda.com/0
+.freeoda.com/1
+.freeoda.com/2
+.freeoda.com/3
+.freeoda.com/4
+.freeoda.com/5
+.freeoda.com/6
+.freeoda.com/7
+.freeoda.com/8
+.freeoda.com/9
 .games.in
 .games.pl
 .games.ro
@@ -2479,7 +2489,7 @@ _zapat
 <a>
 =alviero
 =blog
-=bracelet
+=brace
 =captcha
 =christian
 =com_
@@ -3355,6 +3365,8 @@ articlestag
 articlesub
 articletag
 artikel
+artiklar snart
+artiklar-snart
 artisan plombier
 artisan-plombier
 artisanplombier
@@ -6280,11 +6292,13 @@ does green
 does-green
 doesgreen
 doesn t
-dokumentov
-dokumentów
+dokumenta
+dokumento
+dokumentó
 dolce bag
 dolce-bag
 dolcebag
+dollar service
 dollar-service
 dollarservice
 dolphins jers
@@ -6307,6 +6321,7 @@ don think
 don-think
 donna-donn
 donne-donn
+donnedonn
 dopamine
 dos-seios
 dostenex
@@ -6318,10 +6333,10 @@ douchingteen
 doudoune
 down-jacke
 downjacke
-download bracelet
+download brace
 download_
-download-bracelet
-downloadbracelet
+download-brace
+downloadbrace
 downloads_
 doxycycline
 dragon avail
@@ -6896,7 +6911,7 @@ farming-secret
 farmingsecret
 fashion apparel
 fashion boot
-fashion bracelet
+fashion brace
 fashion class
 fashion compan
 fashion hair
@@ -6908,7 +6923,7 @@ fashion women
 fashion_
 fashion-apparel
 fashion-boot
-fashion-bracelet
+fashion-brace
 fashion-class
 fashion-compan
 fashion-hair
@@ -6919,7 +6934,7 @@ fashion-trend
 fashion-women
 fashionapparel
 fashionboot
-fashionbracelet
+fashionbrace
 fashionclass
 fashioncompan
 fashionhair
@@ -7183,8 +7198,12 @@ fjrm
 flagyl
 flappy-bird
 flappybird
+flash-slideshow
 flashslideshow
 flats.webeden
+fler artiklar
+fler-artiklar
+flex-global
 flexglobal
 flik.us
 flirt fever
@@ -7290,21 +7309,31 @@ forthcoming post
 forthcoming-post
 forum coach
 forum-coach
+forum?func
 forum.asp
+forum.htm
 forum.php
 forum.really
 forum.thank
 forum/1/topic
 forum/ftopic
+forum/func
 forum/member
 forum/post
 forum/topic
 forum/user
+forumcoach
 forums?func
+forums.asp
+forums.htm
+forums.php
 forums.really
 forums.thank
 forums/1/topic
+forums/ftopic
+forums/func
 forums/member
+forums/post
 forums/topic
 forums/user
 forwindows8
@@ -7826,7 +7855,7 @@ gold-coin
 gold-earring
 gold-essay
 gold-ingot
-gold-jewelry
+gold-jewel
 gold-pill
 gold-price
 gold-seiko
@@ -7842,17 +7871,22 @@ goldendoll
 goldessay
 goldgeek
 goldingot
-goldjewelry
+goldjewel
 goldpill
 goldplated
 goldseiko
 goldsuppl
 goldtruth
-golf accessor
-golf-accessor
+golf access
+golf outlet
+golf plaza
+golf-access
+golf-outlet
+golf-plaza
 golf-promo
 golf-shop
-golfaccessor
+golfaccess
+golfoutlet
 golfplaza
 golfpromo
 golfs
@@ -8420,14 +8454,14 @@ helpoful
 helptax
 hemorroide
 hemp braid
-hemp jewelry
+hemp jewel
 hemp milk
 hemp oil
 hemp protein
 hemp tycoon
 hemp_
 hemp-braid
-hemp-jewelry
+hemp-jewel
 hemp-milk
 hemp-oil
 hemp-protein
@@ -12534,19 +12568,21 @@ pallet display
 pallet-display
 panda-shoe
 pandashoe
+pandora brace
 pandora charm
+pandora jewel
 pandora online
 pandora sale
 pandora_
-pandora-bracelet
+pandora-brace
 pandora-charm
-pandora-jewelry
+pandora-jewel
 pandora-online
 pandora-sale
 pandoraau
-pandorabracelet
+pandorabrace
 pandoracharm
-pandorajewelry
+pandorajewel
 pandorauk
 panerai clock
 panerai watch
@@ -14662,12 +14698,12 @@ sildenafil
 silver-and-gold
 silver-gold
 silver-ingot
-silver-jewelry
+silver-jewel
 silver-suite
 silverandgold
 silvergold
 silveringot
-silverjewelry
+silverjewel
 silversuite
 sim-only
 simonly
@@ -16537,7 +16573,7 @@ vuitton bag
 vuitton belt
 vuitton black
 vuitton bors
-vuitton bracelet
+vuitton brace
 vuitton cig
 vuitton damier
 vuitton deutsch
@@ -16567,7 +16603,7 @@ vuitton women
 vuitton-bag
 vuitton-black
 vuitton-bors
-vuitton-bracelet
+vuitton-brace
 vuitton-cig
 vuitton-damier
 vuitton-espa
@@ -16760,8 +16796,8 @@ websitevisit
 websitte
 websolution
 webviewconsult
-wedding jewelry
-wedding-jewelry
+wedding jewel
+wedding-jewel
 weddingdress
 weeb
 week.in
