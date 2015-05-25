@@ -1184,6 +1184,8 @@ _zapat
 {scarpe
 @123
 @gmai.
+@ma1l
+@mai1
 @mail-
 @toke.
 @www.
@@ -1865,6 +1867,7 @@ _zapat
 /mailer/
 /maillot-
 /maillot.
+/maillot/
 /malware-
 /malware.
 /malware/
@@ -1934,6 +1937,7 @@ _zapat
 /nihon
 /nike-
 /nike.
+/nike/
 /niketn
 /ninnki
 /no-excuse
@@ -2893,7 +2897,7 @@ accutane
 acel google
 acel-google
 acellphone
-acertemail.co
+acertemail
 acetazolamide
 acheter air
 acheter dolce
@@ -4781,7 +4785,7 @@ carsgame
 carsinsur
 cartier_
 cartuchos
-casaemail.co
+casaemail
 casebycase
 caserole plastic
 caserole-plastic
@@ -6492,6 +6496,8 @@ edge rumour
 edge-rumor
 edge-rumour
 edhardyt
+eema1l
+eemai1
 eemail
 effexor
 egoodshop
@@ -6522,6 +6528,7 @@ eloans
 elsa-dress
 elway-jers
 elwayjers
+email vip
 email-vip
 email.asp
 email.cfm
@@ -6529,6 +6536,7 @@ email.htm
 email.php
 email.tst
 emails sometime
+emails vip
 emails-sometime
 emails-vip
 emailsvip
@@ -6574,6 +6582,7 @@ enhancement pill
 enhancement-pill
 enhancementpill
 enhancepill
+enhanceyour
 enhttp
 enjoy-more
 enjoymore
@@ -6592,6 +6601,7 @@ epica watch
 epica-watch
 epo doping
 epo-doping
+epodoping
 eqbandz
 equipement manufact
 equipement-manufact
@@ -6629,9 +6639,14 @@ es.iodress
 es/content
 escitalopram
 escort zone
+escort_
 escort-zone
+escorts zone
+escorts_
+escorts-zone
 escorts.
 escortss
+escortszone
 escortzone
 eshop.co
 espana online
@@ -7838,6 +7853,8 @@ globalnpn
 glucophage
 glutamina
 glyburide
+gma1l
+gmai1
 gmaiil
 gmailmirror
 gneuienly
@@ -11831,6 +11848,7 @@ nieuwe-zonnebrillen
 nieuwezonnebrillen
 nike 5.0
 nike andy
+nike designa
 nike free
 nike jers
 nike jordan
@@ -11849,6 +11867,7 @@ nike-air-force
 nike-and-shoe
 nike-andy
 nike-blazer
+nike-designa
 nike-dunk
 nike-free
 nike-freerun
@@ -11875,6 +11894,7 @@ nikeandy
 nikeause
 nikeblazer
 nikede
+nikedesigna
 nikedunk
 nikefr
 nikefree
@@ -15091,6 +15111,8 @@ stop-smok
 stop-snor
 stopsmok
 stopsnor
+stor punkt
+stor-punkt
 store austr
 store gucci
 store online
@@ -15792,6 +15814,8 @@ trainingpro
 traitement-des
 tramadol
 transform-vhs
+trashma1l
+trashmai1
 travel.pl
 traveltrip
 trazodone
