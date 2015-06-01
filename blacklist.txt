@@ -1023,6 +1023,7 @@ _zapat
 .it/t/
 .longchamp-
 .louboutin-
+.m88-
 .magix.net
 .marant-
 .mobi?
@@ -1864,6 +1865,7 @@ _zapat
 /lv-
 /lv.
 /lv/
+/m88-
 /mailer/
 /maillot-
 /maillot.
@@ -10526,7 +10528,11 @@ lі
 lо
 l猫
 m http
+m88 m88
+m88-m88
 m88day
+m88m88
+m88ui
 mac cosmetic
 mac-cosmetic
 mac-makeup
@@ -11572,6 +11578,7 @@ my online
 my site;
 my site:
 my sitte
+my ssite
 my weblog
 my website
 my wweb
@@ -11585,6 +11592,7 @@ my-my
 my-new-ip
 my-online
 my-sitte
+my-ssite
 my-virus
 my-weblog
 my-website
@@ -11604,6 +11612,7 @@ mynfl
 myonline
 myqrop
 myreview.co
+myssite
 mytest
 myvirus
 myweblog
@@ -14482,18 +14491,26 @@ sexywoman
 sexywomen
 seznamce
 sgames.co
+shanghai date
 shanghai escort
 shanghai massage
+shanghai-date
 shanghai-escort
 shanghai-massage
+shanghaidate
 shanghaiescort
 shanghaimassage
 shanrig
 share site
+share ssite
 share-site
+share-ssite
 shared site
+shared ssite
 shared-site
+shared-ssite
 sharedsite
+sharedssite
 shares site
 shares-site
 sharesite
@@ -15462,6 +15479,9 @@ texansjers
 textile urbain
 textile-urbain
 tgf@
+thailand m88
+thailand-m88
+thailandm88
 thailove
 thanks.i
 that isnt
@@ -17668,6 +17688,7 @@ zyvox
 молочной
 найти человека
 недорого
+низкие цен
 новинки
 новых автомоби
 оa
@@ -17689,6 +17710,7 @@ zyvox
 партнерская
 персональный
 плата
+подарки
 подарков
 подешевле
 пожаловать
