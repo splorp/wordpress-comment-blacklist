@@ -21,8 +21,8 @@ Repeat this procedure each time you want to install an updated version of the bl
 If you prefer a more hands-off approach, there are several plugins that will check whether the [master blacklist](https://raw.github.com/splorp/wordpress-comment-blacklist/master/blacklist.txt) has changed and then automatically install the most recent version. How handy is that?
 
 + [Blacklist Updater](https://wordpress.org/plugins/blacklist-updater/) by [Sergej Müller](https://github.com/sergejmueller)
-+ [Comment Blacklist Manager](http://wordpress.org/plugins/comment-blacklist-manager/) by [Andrew Norcross](https://github.com/norcross) 
-+ [WordPress Simple Firewall](http://wordpress.org/plugins/wp-simple-firewall/) by [iControlWP](http://www.icontrolwp.com/)
++ [Comment Blacklist Manager](https://wordpress.org/plugins/comment-blacklist-manager/) by [Andrew Norcross](https://github.com/norcross) 
++ [WordPress Simple Firewall](https://wordpress.org/plugins/wp-simple-firewall/) by [iControlWP](http://www.icontrolwp.com/)
 
 ## Does It Really Work?
 
@@ -107,10 +107,10 @@ See the [license.txt](https://raw.github.com/splorp/wordpress-comment-blacklist/
 + 20140826 — 12,000 entries
 + 20140624 — 11,000 entries
 + 20140527 — Added [MIT License](http://opensource.org/licenses/MIT)
-+ 20140527 — [WordPress Simple Firewall](http://wordpress.org/plugins/wp-simple-firewall/) plugin adds “human spam comment filtering” support
++ 20140527 — [WordPress Simple Firewall](https://wordpress.org/plugins/wp-simple-firewall/) plugin adds “human spam comment filtering” support
 + 20140508 — 10,000 entries
 + 20140501 — Sergej Müller’s [Blacklist Updater](https://wordpress.org/plugins/blacklist-updater/) plugin released
-+ 20140501 — Andrew Norcross’ [Comment Blacklist Manager](http://wordpress.org/plugins/comment-blacklist-manager/) plugin released
++ 20140501 — Andrew Norcross’ [Comment Blacklist Manager](https://wordpress.org/plugins/comment-blacklist-manager/) plugin released
 + 20140324 — 9,000 entries
 + 20140206 — 8,000 entries
 + 20131215 — 7,000 entries
