@@ -23,6 +23,7 @@ _blog
 _bord
 _brace
 _build
+_bulgari
 _buyout
 _bvlgari
 _calvin
@@ -37,6 +38,7 @@ _cheap
 _christian
 _clear
 _click
+_clothes
 _coach
 _converse
 _coup
@@ -466,6 +468,8 @@ _zapat
 -fashion-
 -fashion.
 -fashion/
+-faux.
+-faux/
 -filmy
 -finance.
 -finance/
@@ -1360,6 +1364,9 @@ _zapat
 /addfeed/
 /admin/
 /administration/
+/administrator/
+/administrators/
+/admins/
 /adorable-
 /adorable.
 /ads/
@@ -1554,6 +1561,8 @@ _zapat
 /commodity-
 /commodity.
 /common/
+/component/
+/components/
 /conf-
 /conf.
 /conf/
@@ -1659,6 +1668,8 @@ _zapat
 /f_4/
 /f_5/
 /fashion-
+/faux-
+/faux.
 /fc.cx
 /features-
 /feed/
@@ -1778,7 +1789,9 @@ _zapat
 /infopage/
 /infopages/
 /install/
+/insurance-
 /insurance.
+/internal/
 /ip/
 /iphone-case
 /is.gd
@@ -2017,6 +2030,9 @@ _zapat
 /pierr-
 /pierr.
 /plotexchange.us
+/plug-in/
+/plugin/
+/plugins/
 /plus.
 /popup
 /porn
@@ -2108,6 +2124,10 @@ _zapat
 /seo
 /sex
 /sheet/
+/shortcode-
+/shortcode/
+/shortcodes-
+/shortcodes/
 /show/
 /sigareta-
 /sigareta.
@@ -2217,16 +2237,22 @@ _zapat
 /update/
 /upload-
 /upload/
+/uploadfile/
 /uploadfiles/
 /uploads-
 /uploads/
 /url/
 /urlms.co
+/urls/
 /usa.
 /user-
 /user.
 /userid/
+/userids/
 /userprofile/
+/userprofiles/
+/userupload/
+/useruploads/
 /vasion-
 /vasion.
 /vb/
@@ -2255,6 +2281,7 @@ _zapat
 /weddingreception.
 /wholesale-
 /wholesale.
+/widget/
 /widgets/
 /wo.
 /woolrich-
@@ -2614,6 +2641,33 @@ _zapat
 3test
 3title
 3ww3
+4 cash
+4 cheap
+4 ever
+4 fire
+4 health
+4 purse
+4 quality
+4 rent
+4 sale
+4 test
+4-all
+4-cash
+4-cheap
+4-ever
+4-fire
+4-gold
+4-hand
+4-health
+4-juice
+4-less
+4-plus
+4-purse
+4-quality
+4-rent
+4-sale
+4-silver
+4-test
 4-you
 4all
 4cash
@@ -2628,6 +2682,7 @@ _zapat
 4minute
 4plus
 4purse
+4quality
 4rent
 4sale
 4silver
@@ -3614,6 +3669,12 @@ bagssale
 bagsstore
 bagstore
 bagsuk
+bague bulgari
+bague bvlgari
+bague-bulgari
+bague-bvlgari
+baguebulgari
+baguebvlgari
 baikal extreme
 baikal rest
 baikal-extreme
@@ -4437,6 +4498,25 @@ btshoe
 buddie
 buddreview
 bukmacher
+bulgari bague
+bulgari bijoux
+bulgari bulgari
+bulgari bzero
+bulgari serpent
+bulgari_
+bulgari-bague
+bulgari-bijoux
+bulgari-bulgari
+bulgari-bzero
+bulgari-serpent
+bulgaribague
+bulgaribijoux
+bulgaribulgari
+bulgaribzero
+bulgarie bijoux
+bulgarie-bijoux
+bulgariebijoux
+bulgariserpent
 bulletproof merced
 bulletproof-merced
 bullion-account
@@ -4620,17 +4700,29 @@ buyplus
 buysoma
 buytoms
 buywomen
+bvlgari bague
 bvlgari bijoux
 bvlgari brand
+bvlgari bvlgari
+bvlgari bzero
+bvlgari serpent
 bvlgari shop
 bvlgari store
 bvlgari_
+bvlgari-bague
 bvlgari-bijoux
 bvlgari-brand
+bvlgari-bvlgari
+bvlgari-bzero
+bvlgari-serpent
 bvlgari-shop
 bvlgari-store
+bvlgaribague
 bvlgaribijoux
 bvlgaribrand
+bvlgaribvlgari
+bvlgaribzero
+bvlgariserpent
 bvlgarishop
 bvlgarisshop
 bvlgaristore
@@ -5473,6 +5565,7 @@ clonekey
 clothes bag
 clothes jacket
 clothes online
+clothes_
 clothes-bag
 clothes-jacket
 clothes-online
@@ -5674,6 +5767,8 @@ colour-nude
 colournude
 colts hat
 colts-hat
+com_install
+com-install
 com.asp
 com.com
 com//
@@ -6043,6 +6138,7 @@ dɑ
 ddavp
 de site
 de-contacto
+de-luxe
 de-site
 deal.bl
 dealonline
@@ -6407,12 +6503,14 @@ drug-buy
 drug-cheap
 drugbuy
 drugcheap
+druggz
 drugs buy
 drugs cheap
 drugs-buy
 drugs-cheap
 drugsbuy
 drugscheap
+drugz
 drupal-temp
 drupal-theme
 dsquared giub
@@ -6999,9 +7097,18 @@ fat-quite
 fat-women
 fatburn
 fatloss
+faux bulgari
+faux bvlgari
 faux coach
+faux hermes
+faux-bulgari
+faux-bvlgari
 faux-coach
+faux-hermes
+fauxbulgari
+fauxbvlgari
 fauxcoach
+fauxhermes
 favorite justif
 favorite website
 favorite-justif
@@ -7064,8 +7171,11 @@ femme-sac
 femmecanadagoose
 femmechaussure
 femmecouche
+femmes imitat
+femmes-imitat
 femmesac
 femmescanadagoose
+femmesimitat
 fendi belt
 fendi donna
 fendi_
@@ -7934,6 +8044,7 @@ google-java
 googlebind
 googleing
 googleusashop
+googoozuza
 goose calgary
 goose canada
 goose chill
@@ -8909,6 +9020,7 @@ i http
 i needs
 i-aint
 i-needs
+i-only-done
 i-will-be
 ï¿½
 i2g
@@ -8958,6 +9070,8 @@ images/table
 images/ugg
 imalook
 imitation hermes
+imitation-hermes
+imitationhermes
 imitaugg
 imitrex
 immediate income
@@ -10984,6 +11098,8 @@ media-palitra
 media/system
 mediapalitra
 medicarefraud
+medicinez
+medicinz
 medieval cost
 medieval-cost
 medievalcost
@@ -11518,7 +11634,16 @@ montblancpen
 montblancrollerball
 montblancsold
 montblancstylo
+montre bulgari
+montre bvlgari
+montre-bulgari
+montre-bvlgari
+montrebulgari
+montrebvlgari
 montrefemme
+montres femmes
+montres-femmes
+montresfemmes
 more eventually
 more-deal
 more-eventually
@@ -12916,6 +13041,7 @@ pharm.ru
 pharm.za
 pharmacy_
 pharmaun
+pharmz
 phentermine
 phlebotomy
 phon-store
@@ -12977,6 +13103,7 @@ pills-cheap
 pills.co
 pillscheap
 pillsonline
+pillz
 pink large
 pink-large
 pinklarge
@@ -14227,6 +14354,7 @@ satchelbag
 satcheldbag
 sauvegarde extern
 sauvegarde-extern
+save-you-time
 sɑ
 sbobet
 scam.asp
@@ -14592,6 +14720,7 @@ sharessite
 sharing site
 sharing-site
 sharingsite
+sharply-wrong
 shate thou
 shate-thou
 shed fat
@@ -15841,10 +15970,14 @@ tongue-retain
 tongueretain
 top article
 top blog
+top bulgari
+top bvlgari
 top stop
 top tier
 top-article
 top-blog
+top-bulgari
+top-bvlgari
 top-forum
 top-list
 top-muscle
@@ -15856,6 +15989,8 @@ top-tier
 topamax
 toparticle
 topblog
+topbulgari
+topbvlgari
 topcontractor
 topforum
 topic.really
@@ -16920,6 +17055,7 @@ webviewconsult
 wedding jewel
 wedding-jewel
 weddingdress
+wedtgh
 weeb
 week.in
 weekly income
@@ -16990,6 +17126,7 @@ wherebuy
 wherecani
 wheretobuy
 wheretoget
+which-will-save
 whichpag
 white nfl
 white-nfl
@@ -17069,6 +17206,7 @@ wikka.php
 wild-star
 will hemp
 will-hemp
+will-save-you
 wille bijoux
 wille solde
 wille-bijoux
@@ -17268,6 +17406,7 @@ wwellness
 www_
 www.0day
 www.1
+www.247
 www.2012
 www.2013
 www.2014
