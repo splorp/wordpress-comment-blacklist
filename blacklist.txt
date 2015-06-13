@@ -5239,6 +5239,7 @@ cheap cheap
 cheap china
 cheap christian
 cheap denver
+cheap ferragamo
 cheap fifa
 cheap footbal
 cheap fotbal
@@ -5269,10 +5270,12 @@ cheap nike
 cheap north
 cheap oakley
 cheap price
+cheap proclip
 cheap ray
 cheap red
 cheap ring
 cheap sale
+cheap salvatore
 cheap sherr
 cheap silver
 cheap soccer
@@ -5305,6 +5308,7 @@ cheap-china
 cheap-christian
 cheap-converse
 cheap-denver
+cheap-ferragamo
 cheap-fifa
 cheap-footbal
 cheap-fotbal
@@ -5337,9 +5341,11 @@ cheap-oakley
 cheap-pandora
 cheap-prada
 cheap-price
+cheap-proclip
 cheap-red
 cheap-ring
 cheap-sale
+cheap-salvatore
 cheap-sex
 cheap-sherr
 cheap-silver
@@ -5381,6 +5387,7 @@ cheapest-ray
 cheapest.co
 cheapesthockey
 cheapestprice
+cheapferragamo
 cheapga
 cheapgold
 cheapgucci
@@ -5407,12 +5414,14 @@ cheapnorth
 cheapoakley
 cheappandora
 cheapprada
+cheapproclip
 cheapray
 cheapred
 cheapring
 cheaps ugg
 cheaps-ugg
 cheapsale
+cheapsalvatore
 cheapsex
 cheapsilver
 cheapsugg
@@ -7060,6 +7069,7 @@ fantastic job!
 fantastic layout
 fantastic page
 fantastic post
+fantastic read!
 fantastic site
 fantastic topic
 fantastic weblog
@@ -7068,6 +7078,7 @@ fantastic-job
 fantastic-layout
 fantastic-page
 fantastic-post
+fantastic-read
 fantastic-site
 fantastic-topic
 fantastic-weblog
@@ -7076,6 +7087,7 @@ fantasticjob
 fantasticlayout
 fantasticpage
 fantasticpost
+fantasticread
 fantasticsite
 fantastictopic
 fantasticweblog
@@ -7244,15 +7256,30 @@ fendidonna
 fenoma
 fenteetum
 ferra-gamo
+ferragamo outlet
 ferragamo sale
 ferragamo tie
 ferragamo_
+ferragamo-outlet
 ferragamo-sale
 ferragamo-tie
 ferragamolove
+ferragamooutlet
 ferragamosale
 ferragamoshop
 ferragamotie
+ff14 shop
+ff14 store
+ff14-shop
+ff14-store
+ff14shop
+ff14store
+ff15 shop
+ff15 store
+ff15-shop
+ff15-store
+ff15shop
+ff15store
 fg xpress
 fg-xpress
 fgxpress
@@ -7535,7 +7562,13 @@ fr/index
 fr/longchamp
 fr/pascher
 fradidas
+frame cheap
+frame-cheap
+framecheap
+frames cheap
+frames-cheap
 frames/index
+framescheap
 francemaillot
 fraudcenter
 frauen puma
@@ -8966,6 +8999,7 @@ horoscopes
 horoskop
 horsesimul
 host seller
+host-file
 host-seller
 host.in
 host.pl
@@ -8974,6 +9008,7 @@ host.ru
 host.za
 hosting community
 hosting-community
+hosts-file
 hostseller
 hot concern
 hot tech
@@ -9233,6 +9268,9 @@ informative-web
 infos-
 infos/
 infusionsoft
+ing puter
+ing-puter
+ingputer
 ington boot
 ington-boot
 ingtonboot
@@ -9837,6 +9875,9 @@ js-wing
 jsadidas
 jswing
 juanjuan
+juice detox
+juice-detox
+juicedetox
 juicycouture
 jumpedup
 junior baby
@@ -14446,6 +14487,9 @@ salomonathletic
 salomoncanada
 salomonfr
 salomonrun
+salvatore outlet
+salvatore-outlet
+salvatoreoutlet
 salvia.
 sameday-loan
 samedayloan
@@ -15630,14 +15674,17 @@ sysadmin
 system pro
 system review
 system web
+system yoga
 system_
 system-pro
 system-review
 system-web
+system-yoga
 systemdb
 systempro
 systemreview
 systemweb
+systemyoga
 sysuser
 sϲ
 sі
