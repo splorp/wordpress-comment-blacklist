@@ -45,6 +45,7 @@ _coup
 _cpa
 _credit
 _data
+_default
 _dior
 _discount
 _display
@@ -2580,6 +2581,8 @@ _zapat
 0ping
 00pips
 0taylor
+0the best
+0the-best
 0title
 00折
 ００歳
@@ -2607,6 +2610,8 @@ _zapat
 1stop
 1taylor
 1test
+1the best
+1the-best
 1title
 1to1
 1you
@@ -2637,6 +2642,8 @@ _zapat
 2sale
 2taylor
 2test
+2the best
+2the-best
 2title
 2u.org
 2you
@@ -2652,6 +2659,8 @@ _zapat
 3purse
 3taylor
 3test
+3the best
+3the-best
 3title
 3ww3
 3you
@@ -2701,6 +2710,8 @@ _zapat
 4sale
 4silver
 4test
+4the best
+4the-best
 4u.co
 4u.in
 4u.pl
@@ -2713,12 +2724,22 @@ _zapat
 5minute
 5purse
 5test
+5the best
+5the-best
 6hand
 6purse
+6the best
+6the-best
 7hand
 7purse
+7the best
+7the-best
 8hand
 8purse
+8the best
+8the-best
+9the best
+9the-best
 １０％
 １０＄
 10折
@@ -4202,7 +4223,10 @@ blog/view
 blog<
 blogbeast
 blogentry
+blogger lover
 blogger_
+blogger-lover
+bloggerlover
 blogging look
 blogging-look
 blogginglook
@@ -6225,6 +6249,7 @@ debthelp
 debthit
 debtrelief
 dedrease
+default_
 default/member
 default1
 default2
@@ -7160,19 +7185,34 @@ fast-cash
 fast-loan
 fast|quick
 fastcash
+fastidious blog
 fastidious data
 fastidious my
+fastidious page
+fastidious post
 fastidious repl
+fastidious site
 fastidious thou
 fastidious urg
+fastidious weblog
 fastidious writ
+fastidious-blog
 fastidious-data
 fastidious-my
+fastidious-post
 fastidious-repl
+fastidious-site
 fastidious-thou
 fastidious-urg
+fastidious-weblog
 fastidious-writ
 fastidious, my
+fastidious=page
+fastidiousblog
+fastidiouspage
+fastidiouspost
+fastidioussite
+fastidiousweblog
 fastloan
 fat loss
 fat men
@@ -9215,6 +9255,7 @@ implanty
 impregnacji
 impressive share
 impressive-share
+imptortant
 in-disguise
 in' tremendous
 in’ tremendous
@@ -9252,7 +9293,9 @@ incredibletopic
 incredibleweblog
 inderal
 indeutsch
-index/css
+index-css
+index-old
+indexcss
 indexold
 indicators.co
 inetry
@@ -9479,23 +9522,43 @@ iphone+
 iphone2me
 iphone2you
 iphone4 case
+iphone4 spy
 iphone4-case
+iphone4-spy
 iphone4case
+iphone4me
 iphone4s case
+iphone4s spy
 iphone4s-case
+iphone4s-spy
 iphone4scase
+iphone4spy
+iphone4sspy
+iphone4you
 iphone5 case
+iphone5 spy
 iphone5-case
+iphone5-spy
 iphone5c case
+iphone5c spy
 iphone5c-case
+iphone5c-spy
 iphone5case
 iphone5ccase
+iphone5cspy
 iphone5s case
+iphone5s spy
 iphone5s-case
+iphone5s-spy
 iphone5scase
+iphone5spy
+iphone5sspy
 iphone6 case
+iphone6 spy
 iphone6-case
+iphone6-spy
 iphone6case
+iphone6spy
 iphonecase
 iphonecrack
 iphonerepair
@@ -10970,6 +11033,8 @@ manor-escort
 manteau karen
 manteau-karen
 manteaukaren
+mar skin
+mar-skin
 maran-train
 marant boot
 marant shoe
@@ -11858,8 +11923,10 @@ mrant sneak
 mrant-sneak
 mrantsneak
 msgnum
+much important
 much-boot
 much-gucci
+much-important
 muchgucci
 mujer timberland
 mujer-timberland
@@ -15473,12 +15540,15 @@ sprinkler tune
 sprinkler-tune
 sprinklertune
 sprzedaz
+spy software
+spy-software
 spyder jack
 spyder ski
 spyder-jack
 spyder-ski
 spyderjack
 spyderski
+spysoftware
 spyware
 squidoo.co
 ssory
