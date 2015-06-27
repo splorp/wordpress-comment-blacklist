@@ -1748,7 +1748,6 @@ _zapat
 /hollister-
 /hollister.
 /hollister/
-/home.
 /homepage-
 /homepage.
 /homepage/
@@ -1776,8 +1775,6 @@ _zapat
 /index-3
 /index-4
 /index-5
-/index.asp
-/index.php
 /index0
 /index1
 /index2
