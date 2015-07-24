@@ -8111,10 +8111,13 @@ getwidget
 getyou.asp
 gfband
 ghd gold
+ghd pascher
 ghd straight
+ghd uk
 ghd-gold
 ghd-pascher
 ghd-straight
+ghd-uk
 ghdgold
 ghdpascher
 ghdstraight
@@ -8790,12 +8793,19 @@ havve a
 hawks-jers
 hawksjers
 hɑ
+hcg boost
 hcg-boost
 hcgboost
+hd muscle
 hd porn
+hd sex
+hd-muscle
 hd-porn
+hd-sex
 hd.hd
+hdmuscle
 hdporn
+hdsex
 headset 2013
 headset 2014
 headset 2015
@@ -8805,6 +8815,7 @@ headset-2015
 headset2013
 headset2014
 headset2015
+healingindu
 health advis
 health how
 health stock
@@ -15246,18 +15257,35 @@ shift-dress
 shiftdress
 shirt cease
 shirt custom
-shirt embroider
+shirt embroid
 shirt online
+shirt print
 shirt-cease
 shirt-custom
-shirt-embroider
+shirt-embroid
 shirt-online
+shirt-print
 shirtandshirt
 shirtandtshirt
 shirtcease
 shirtcustom
-shirtembroider
+shirtembroid
 shirtonline
+shirtprint
+shirts custom
+shirts embroid
+shirts online
+shirts print
+shirts-custom
+shirts-embroid
+shirts-online
+shirts-print
+shirtsandshirt
+shirtsandtshirt
+shirtscustom
+shirtsembroid
+shirtsonline
+shirtsprint
 shoe america
 shoe announce
 shoe cloth
@@ -15432,6 +15460,9 @@ showtopic
 shox turbo
 shox-turbo
 shoxturbo
+shred hd
+shred-hd
+shredhd
 shttp
 sɦ
 si.lv.e.r.w.are
@@ -17568,6 +17599,7 @@ web pharm
 web promo
 web sie
 web sitte
+web therefore
 web website
 web_log
 web-anal
@@ -17585,6 +17617,7 @@ web-sie
 web-site
 web-sitte
 web-solution
+web-therefore
 web-traffic
 web-view
 web-website
@@ -17650,6 +17683,7 @@ websiteusa
 websitevisit
 websitte
 websolution
+webtherefore
 webviewconsult
 wedding jewel
 wedding-jewel
