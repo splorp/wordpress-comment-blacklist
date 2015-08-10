@@ -1068,6 +1068,7 @@ _zapat
 .newbalance-
 .nike-
 .nikeshox
+.nl/nl/
 .on-demand
 .online.pl
 .online.ws
@@ -6068,12 +6069,26 @@ com/vuitton
 com/www
 com/ysl
 com%2c
+com0.php
+com1.php
 com2.php
+com3.php
+com4.php
+com5.php
+com6.php
+com7.php
+com8.php
+com9.php
 comdip
 comedyee
 comhttp
 coming frlm
+coming-frlm
+comment speak
+comment you
 comment-pag
+comment-speak
+comment-you
 comment/bv
 comment/celine
 comment/chanel
@@ -6091,16 +6106,30 @@ comments/chanel
 comments/nike
 comments/north
 comments/rolex
+commentspeak
 commentsyou
+commentyou
+commerce money
 commerce retail
+commerce sale
+commerce wholesale
+commerce-money
 commerce-retail
+commerce-sale
+commerce-wholesale
+commercemoney
+commerceretail
+commercesale
+commercewholesale
+comming from
+comming-from
 community.atom
 commutee
 como ganhar
 como-ganhar
-company coaching
-company-coaching
-companycoaching
+company coach
+company-coach
+companycoach
 compare price
 compare-price
 component/blog
@@ -6135,6 +6164,7 @@ conversejap
 conversejp
 convey her.
 conydot
+cooker ninja
 cooker-ninja
 cookerninja
 cool article
@@ -6158,16 +6188,43 @@ corporategift
 coskobo
 cosm tique
 cosmetic eye
+cosmetic sale
+cosmetic whole
 cosmetic-eye
+cosmetic-sale
+cosmetic-whole
 cosmeticeye
 cosmetics eye
+cosmetics sale
 cosmetics whole
 cosmetics-eye
 cosmetics-out
+cosmetics-sale
 cosmetics-whole
+cosmeticsale
 cosmeticseye
 cosmeticsout
+cosmeticssale
 cosmeticswhole
+cosmeticwhole
+cosmetique eye
+cosmetique sale
+cosmetique whole
+cosmetique-eye
+cosmetique-sale
+cosmetique-whole
+cosmetiqueeye
+cosmetiques eye
+cosmetiques sale
+cosmetiques whole
+cosmetiques-eye
+cosmetiques-sale
+cosmetiques-whole
+cosmetiquesale
+cosmetiqueseye
+cosmetiquessale
+cosmetiqueswhole
+cosmetiquewhole
 cosmtique
 cost-effective
 costume ermen
@@ -9018,8 +9075,11 @@ help.htm
 help.php
 helpcry
 helpessay
+helpful blog
+helpful-blog
 helpful-info
 helpful-method
+helpfulblog
 helplink.asp
 helpoful
 helptax
@@ -9446,6 +9506,7 @@ htmlarticle
 htmllink
 htmlnew
 http://http
+httphttp
 huay-today
 huaytoday
 huge 100%
@@ -11968,6 +12029,7 @@ moncler giub
 moncler hand
 moncler homme
 moncler jack
+moncler jas
 moncler jassen
 moncler jura
 moncler klassiker
@@ -12023,6 +12085,7 @@ moncler-giub
 moncler-hand
 moncler-homme
 moncler-jack
+moncler-jas
 moncler-jassen
 moncler-jura
 moncler-klassiker
@@ -12082,6 +12145,7 @@ monclergiub
 monclerhand
 monclerhomme
 monclerjack
+monclerjas
 monclerjassen
 monclerjura
 monclerklassiker
@@ -16445,9 +16509,9 @@ teams-online
 teamshirt
 teamsonline
 teamtshirt
-teamwork coaching
-teamwork-coaching
-teamworkcoaching
+teamwork coach
+teamwork-coach
+teamworkcoach
 teen cam
 teen female
 teen porn
@@ -16558,6 +16622,9 @@ themes sale
 themes-for-windows
 themes-sale
 themesforwindows
+there admin
+there-admin
+thereadmin
 therealest
 thes good
 these however
