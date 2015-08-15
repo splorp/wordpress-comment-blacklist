@@ -6745,6 +6745,7 @@ does green
 does-green
 doesgreen
 doesn t
+doesnt
 dokumenta
 dokumento
 dokumentó
@@ -12013,6 +12014,7 @@ monclear
 moncler 2013
 moncler 2014
 moncler 2015
+moncler amster
 moncler andorra
 moncler barata
 moncler barato
@@ -12069,6 +12071,7 @@ moncler--
 moncler-2013
 moncler-2014
 moncler-2015
+moncler-amster
 moncler-andorra
 moncler-barata
 moncler-barato
@@ -12129,6 +12132,7 @@ moncler.php
 moncler2013
 moncler2014
 moncler2015
+moncleramster
 monclerandorra
 monclerbarata
 monclerbarato
@@ -17645,16 +17649,30 @@ vigara
 vigrx
 vimax
 vinder burberry
+vinder jakker
 vinder-burberry
+vinder-jakker
 vinderburberry
+vinderjakker
 vinhobrasil-
 vinhobrasil.
+vintage erotic
 vintage-erotic
+vintageerotic
+vinter burberry
+vinter jakker
+vinter-burberry
+vinter-jakker
+vinterburberry
 vinterjakker
 vipgirl
+viral eas
+viral-eas
+viraleas
 viramune
 virtual sex
 virtual-sex
+virtualsex
 virus answer
 virus hoax
 virus infect
@@ -17997,6 +18015,7 @@ wentoutside
 weptwith
 werbegeschenke
 weredouble
+werent
 weste jacken
 weste-jacken
 westejacken
@@ -18065,6 +18084,10 @@ white-hermes
 white-nfl
 whitehermes
 whitenfl
+whoa this
+whoa-this
+whoah this
+whoah-this
 whois tool
 whois-tool
 whoistool
@@ -18189,6 +18212,8 @@ without prescript
 without-invest
 without-prescript
 withthose
+woah this
+woah-this
 woderful
 women+
 womenbikini
@@ -18483,6 +18508,7 @@ you-gucci
 you-ssay
 you-ugg
 you,i
+youd
 yougucci
 youll
 young porn
