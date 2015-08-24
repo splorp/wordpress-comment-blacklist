@@ -684,7 +684,14 @@ _zapat
 -purse/
 -purses.
 -purses/
+-pussie-
+-pussie.
+-pussies-
+-pussies.
 -pussy-
+-pussy.
+-pussys-
+-pussys.
 -r4i-
 -rakuten-
 -rakuten.
@@ -1029,7 +1036,7 @@ _zapat
 .in/page-
 .in/profil
 .in/service
-.in/soldes
+.in/sold
 .in/top
 .in/user
 .in#
@@ -1095,7 +1102,7 @@ _zapat
 .ph/profil
 .ph/pub
 .ph/service
-.ph/soldes
+.ph/sold
 .ph/top
 .ph/user
 .ph#
@@ -1119,13 +1126,21 @@ _zapat
 .pl/pl/
 .pl/profil
 .pl/service
-.pl/soldes
+.pl/sold
 .pl/top
 .pl/user
 .pl#
 .plotexchange.us
 .press-release.
 .pressrelease.
+.pussie-
+.pussie.
+.pussies-
+.pussies.
+.pussy-
+.pussy.
+.pussys-
+.pussys.
 .r.e.d
 .rar.
 .redirects.
@@ -1151,7 +1166,7 @@ _zapat
 .ro/pub
 .ro/ro/
 .ro/service
-.ro/soldes
+.ro/sold
 .ro/top
 .ro/user
 .ro#
@@ -1176,7 +1191,7 @@ _zapat
 .ru/pub
 .ru/ru/
 .ru/service
-.ru/soldes
+.ru/sold
 .ru/top
 .ru/user
 .ru#
@@ -1216,7 +1231,7 @@ _zapat
 .za/profil
 .za/pub
 .za/service
-.za/soldes
+.za/sold
 .za/top
 .za/user
 .za/za/
@@ -2126,6 +2141,18 @@ _zapat
 /pufy
 /pumps-
 /pumps.
+/pussie-
+/pussie.
+/pussie/
+/pussies-
+/pussies.
+/pussies/
+/pussy-
+/pussy.
+/pussy/
+/pussys-
+/pussys.
+/pussys/
 /q.
 /r4i-
 /r4i.
@@ -2979,7 +3006,87 @@ a.pri.l
 a‡
 ä±
 ã¬
+a0.asp
+a00.asp
+a0.cfm
+a00.cfm
+a0.htm
+a00.htm
+a0.php
+a00.php
+a01.asp
+a1.asp
+a01.cfm
+a1.cfm
 a1.co
+a01.htm
+a1.htm
+a01.php
+a1.php
+a02.asp
+a2.asp
+a02.cfm
+a2.cfm
+a02.htm
+a2.htm
+a02.php
+a2.php
+a03.asp
+a3.asp
+a03.cfm
+a3.cfm
+a03.htm
+a3.htm
+a03.php
+a3.php
+a04.asp
+a4.asp
+a04.cfm
+a4.cfm
+a04.htm
+a4.htm
+a04.php
+a4.php
+a05.asp
+a5.asp
+a05.cfm
+a5.cfm
+a05.htm
+a5.htm
+a05.php
+a5.php
+a06.asp
+a6.asp
+a06.cfm
+a6.cfm
+a06.htm
+a6.htm
+a06.php
+a6.php
+a07.asp
+a7.asp
+a07.cfm
+a7.cfm
+a07.htm
+a7.htm
+a07.php
+a7.php
+a08.asp
+a8.asp
+a08.cfm
+a8.cfm
+a08.htm
+a8.htm
+a08.php
+a8.php
+a09.asp
+a9.asp
+a09.cfm
+a9.cfm
+a09.htm
+a9.htm
+a09.php
+a9.php
 â€
 ã¹
 ã²
@@ -3711,6 +3818,86 @@ aь
 b http
 b-ig-event
 b.u.y
+b0.asp
+b00.asp
+b0.cfm
+b00.cfm
+b0.htm
+b00.htm
+b0.php
+b00.php
+b01.asp
+b1.asp
+b01.cfm
+b1.cfm
+b01.htm
+b1.htm
+b01.php
+b1.php
+b02.asp
+b2.asp
+b02.cfm
+b2.cfm
+b02.htm
+b2.htm
+b02.php
+b2.php
+b03.asp
+b3.asp
+b03.cfm
+b3.cfm
+b03.htm
+b3.htm
+b03.php
+b3.php
+b04.asp
+b4.asp
+b04.cfm
+b4.cfm
+b04.htm
+b4.htm
+b04.php
+b4.php
+b05.asp
+b5.asp
+b05.cfm
+b5.cfm
+b05.htm
+b5.htm
+b05.php
+b5.php
+b06.asp
+b6.asp
+b06.cfm
+b6.cfm
+b06.htm
+b6.htm
+b06.php
+b6.php
+b07.asp
+b7.asp
+b07.cfm
+b7.cfm
+b07.htm
+b7.htm
+b07.php
+b7.php
+b08.asp
+b8.asp
+b08.cfm
+b8.cfm
+b08.htm
+b8.htm
+b08.php
+b8.php
+b09.asp
+b9.asp
+b09.cfm
+b9.cfm
+b09.htm
+b9.htm
+b09.php
+b9.php
 babycanread
 babyliss
 backlink
@@ -6354,6 +6541,9 @@ cuir-mean
 cuir-vanessa
 cuirmean
 cuirvanessa
+culo mega
+culo-mega
+culomega
 cultureparis
 cup jers
 cup-jers
@@ -9415,14 +9605,14 @@ homme giorgio
 homme hugo
 homme mariage
 homme rolex
-homme solde
+homme sold
 homme-chaussure
 homme-couche
 homme-giorgio
 homme-hugo
 homme-mariage
 homme-sac
-homme-solde
+homme-sold
 hommecanadagoose
 hommechaussure
 hommecouche
@@ -10175,6 +10365,7 @@ jeremy-scott
 jeremyads
 jeremyscott
 jeremyscottwing
+jerking-my
 jersetblack
 jersey 1
 jersey 2
@@ -10623,6 +10814,9 @@ kreddyt
 kreddyyt
 kredit
 kredyt
+kristi longchamp
+kristi-longchamp
+kristilongchamp
 krossoverov
 ku42.
 kupit
@@ -11040,42 +11234,57 @@ longchamp 2014
 longchamp 2015
 longchamp aus
 longchamp bag
+longchamp doctor
 longchamp hand
 longchamp hobo
+longchamp martin
+longchamp moncler
 longchamp online
 longchamp out
 longchamp pas
 longchamp pliage
 longchamp purse
-longchamp solde
+longchamp sac
+longchamp sold
 longchamp tasche
 longchamp tote
+longchamp tourne
 longchamp uk
+longchamp yama
 longchamp_
 longchamp-2013
 longchamp-2014
 longchamp-2015
 longchamp-aus
+longchamp-doctor
 longchamp-hand
 longchamp-hobo
+longchamp-martin
+longchamp-moncler
 longchamp-online
 longchamp-out
 longchamp-pliage
 longchamp-purse
+longchamp-sac
 longchamp-shop
-longchamp-solde
+longchamp-sold
 longchamp-tasche
 longchamp-tote
+longchamp-tourne
 longchamp-uk
+longchamp-yama
 longchamp.php
 longchamp2013
 longchamp2014
 longchamp2015
 longchampaus
 longchampbag
+longchampdoctor
 longchamphand
 longchamphobo
 longchamplondon
+longchampmartin
+longchampmoncler
 longchampoffici
 longchamponline
 longchampout
@@ -11084,11 +11293,14 @@ longchamppurse
 longchampq
 longchamps_
 longchampsa
+longchampsac
 longchampshop
-longchampsolde
+longchampsold
 longchamptasche
 longchamptote
+longchamptourne
 longchampuk
+longchampyama
 lookeach
 looked on-line
 looked-on-line
@@ -11127,7 +11339,7 @@ louboutin sale
 louboutin schuh
 louboutin shoe
 louboutin sneaker
-louboutin solde
+louboutin sold
 louboutin stiefel
 louboutin uk
 louboutin wedding
@@ -11148,7 +11360,7 @@ louboutin-sale
 louboutin-schuh
 louboutin-shoe
 louboutin-sneaker
-louboutin-solde
+louboutin-sold
 louboutin-stiefel
 louboutin-wedding
 louboutin-wedge
@@ -11167,7 +11379,7 @@ louboutinsale
 louboutinschuh
 louboutinshoe
 louboutinsneaker
-louboutinsolde
+louboutinsold
 louboutinspas
 louboutinstiefel
 louboutinuk
@@ -11242,10 +11454,10 @@ lunarlon
 lunderground
 lunette oakley
 lunette ray
-lunette solde
+lunette sold
 lunette-oakley
 lunette-ray
-lunette-solde
+lunette-sold
 lunetteoakley
 lunetteray
 lunettes oakley
@@ -11253,7 +11465,7 @@ lunettes-de-soleil
 lunettes-oakley
 lunettesdesoleil
 lunettesoakley
-lunettesolde
+lunettesold
 lunettespaschere
 lupusinfo
 lux-replica
@@ -11316,15 +11528,18 @@ madeye30
 magasin asics
 magasin chemise
 magasin hollis
+magasin longchamp
 magasin robe
 magasin-asics
 magasin-chemise
 magasin-hollis
+magasin-longchamp
 magasin-robe
 magasinasics
 magasincanadagoose
 magasinchemise
 magasinhollis
+magasinlongchamp
 magasinrobe
 magazine/page1
 magazine/page2
@@ -11760,6 +11975,18 @@ medikal.co
 medizinische
 medphrase
 medshop
+mega culo
+mega pezone
+mega teta
+mega tetona
+mega-culo
+mega-pezone
+mega-teta
+mega-tetona
+megaculo
+megapezone
+megateta
+megatetona
 meilleur casino
 meilleur cassino
 meilleur-casino
@@ -13750,6 +13977,12 @@ peuterey-giub
 peuterey-roma
 peutereygiub
 peutereyroma
+pezone mega
+pezone-mega
+pezonemega
+pezones mega
+pezones-mega
+pezonesmega
 pflegeversicherung
 pflegezusatzversicherung
 pg concern
@@ -15013,6 +15246,7 @@ sac longchamp
 sac louis
 sac reutilis
 sac réutilis
+sac sold
 sac trail
 sac vanessa
 sac vuitton
@@ -15028,6 +15262,7 @@ sac-longchamp
 sac-louis
 sac-reutilis
 sac-réutilisable
+sac-sold
 sac-trail
 sac-vanessa
 sac-vuitton
@@ -15068,6 +15303,7 @@ sacshermes
 sacslancel
 sacslongchamp
 sacslouis
+sacsold
 sacstrail
 sacsvanessa
 sacsvuitton
@@ -15937,9 +16173,9 @@ smallbusinessplan
 smart-drug
 smartdrug
 smeoone
-smith soldes
-smith-soldes
-smithsoldes
+smith sold
+smith-sold
+smithsold
 smokingnews
 sms grupp
 sms-grupp
@@ -16005,15 +16241,37 @@ softwarehouse
 softwaresecret
 sohbet
 sold-out
+solde botte
 solde canad
+solde lancel
+solde loubou
+solde ralph
+solde_
+solde-botte
 solde-canad
+solde-lancel
+solde-loubou
+solde-ralph
+solde.co
+solde.in
+solde.pl
+solde.ro
+solde.ru
+solde.za
+solde<
+soldebotte
 soldecanad
+soldelancel
+soldeloubou
+solderalph
 soldes botte
+soldes canad
 soldes lancel
 soldes loubou
 soldes ralph
 soldes_
 soldes-botte
+soldes-canad
 soldes-lancel
 soldes-loubou
 soldes-ralph
@@ -16025,7 +16283,10 @@ soldes.ru
 soldes.za
 soldes<
 soldesbotte
+soldescanad
+soldeslancel
 soldesloubou
+soldesralph
 soleil chanel
 soleil ray
 soleil-chanel
@@ -16613,6 +16874,18 @@ test1.
 testosterone-boost
 testrun
 testuser
+teta mega
+teta-mega
+tetamega
+tetas mega
+tetas-mega
+tetasmega
+tetona mega
+tetona-mega
+tetonamega
+tetonas mega
+tetonas-mega
+tetonasmega
 tetracycline
 texans-jers
 texansjers
@@ -18197,6 +18470,7 @@ widyaw
 wife-tube
 wifetube
 wifewith
+wifi jammer
 wifi-jammer
 wifijammer
 wigsrus
@@ -18212,11 +18486,11 @@ will hemp
 will-hemp
 will-save-you
 wille bijoux
-wille solde
+wille sold
 wille-bijoux
-wille-solde
+wille-sold
 willebijoux
-willesolde
+willesold
 willhemp
 wilson jers
 wilson-jers
@@ -18525,8 +18799,21 @@ xx.ru
 xx.za
 xxx
 xyngular
-xzzy.info
+xzzy.co
+xzzy.in
+xzzy.pl
+xzzy.ro
+xzzy.ru
+xzzy.za
+y culo
 y http
+y pezone
+y teta
+y tetona
+y-culo
+y-pezone
+y-teta
+y-tetona
 yahoo spy
 yahoo-spy
 yahoospy
