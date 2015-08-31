@@ -2250,6 +2250,7 @@ _zapat
 /styles/
 /stylesheet/
 /stylesheets/
+/su0.ru
 /suggestions-
 /sunglasses-
 /sunglasses.
