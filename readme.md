@@ -26,7 +26,9 @@ If you prefer a more hands-off approach, there are several plugins that will che
 
 ## Does It Really Work?
 
-I don’t blame you if you’re skeptical about how well this blacklist works compared to a commercial solution like [Akismet](http://akismet.com/). Because I am subjectively including keywords based on comment spam submitted to my own sites, there is a chance that the blacklist will “overclean” your comment queue. Consider that fair warning.
+I don’t blame you if you’re skeptical about how well this blacklist works compared to a commercial solution like [Akismet](http://akismet.com/). Because I am subjectively including keywords based on comment spam submitted to my own sites, there is a chance that the blacklist will “overclean” your comment queue.
+
+Consider that fair warning.
 
 However, [Jason Cosper](https://github.com/boogah) reports that he used an earlier version of the blacklist on a client’s WordPress installation containing 800,000 or so comments. The blacklist flagged 40% of those comments as “spammy”. As a sanity check, he then exported those flagged comments to a local WordPress install and subsequently had Akismet do its thing. According to Jason, there were [“zero false positives.”](https://twitter.com/boogah/status/292031513590128640)
 
@@ -42,11 +44,11 @@ There has been some talk about storing the `blacklist_keys` option in [an entire
 
 **URL Shorteners**
 
-As mentioned above, the keywords in the blacklist are based on spam submitted to my own sites. Spammers often utilize the [obscuring capabilities of URL shorteners](http://www.certmag.com/read.php?in=3863) to hide their nefarious links. Therefore, I have included a handful of [URL shortener domains](https://raw.github.com/splorp/wordpress-comment-blacklist/master/shorteners.txt) in the blacklist. For all practical purposes, there’s no need for a comment to include a shortened URL, as unmodified links can be easily formatted using HTML. If you find that your visitors are using shortened URLs on a regular basis, you may wish to remove [these domains](https://raw.github.com/splorp/wordpress-comment-blacklist/master/shorteners.txt) from the blacklist.
+As mentioned above, the keywords in the blacklist are based on spam submitted to my own sites. Spammers often utilize the [obscuring capabilities of URL shorteners](http://www.certmag.com/read.php?in=3863) to hide their nefarious links. Therefore, I have included a handful of [URL shortener domains](https://raw.github.com/splorp/wordpress-comment-blacklist/master/shorteners.txt) in the blacklist. For all practical purposes, there’s no need for a comment to include a shortened URL, as unmodified links can be easily formatted using HTML. If you find that your visitors are using shortened URLs on a regular basis, you may wish to remove some or all of [these domains](https://raw.github.com/splorp/wordpress-comment-blacklist/master/shorteners.txt) from the blacklist.
 
 **WordPress Links**
 
-Spammers will also utilize links that include URLs that are specific to WordPress installations. These links often point at compromised admin, theme, or plugin files. In most cases, there’s no need to include a URL that deep-links into the bowels of a WordPress site. However, you may want to remove the following keywords from the blacklist if your visitors are commenting on topics related to WordPress site, plugin, or theme development.
+Spammers will also utilize links that include URLs that are specific to WordPress installations. These links often point at compromised admin files, themes, or plugins. In most cases, there’s no need to include a URL that deep-links into the bowels of a WordPress site. However, you may want to remove the following keywords from the blacklist if your visitors are commenting on topics related to WordPress site, plugin, or theme development.
 
 + /wp-admin
 + /wp-content
