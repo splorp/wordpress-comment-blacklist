@@ -1778,10 +1778,6 @@ _zapat
 /functions/
 /futbol-
 /futbol/
-/gagajapan-
-/gagajapan.
-/gagamilano-
-/gagamilano.
 /ge.tt
 /gekiyasu
 /get-free
@@ -4493,6 +4489,7 @@ blancstarwalk
 blazer chaussure
 blazer-chaussure
 blazerchaussure
+blog based
 blog beast
 blog glance
 blog here
@@ -4511,6 +4508,7 @@ blog video
 blog web
 blog world
 blog_
+blog-based
 blog-beast
 blog-entry
 blog-glance
@@ -4540,6 +4538,7 @@ blog/owner
 blog/post
 blog/view
 blog<
+blogbased
 blogbeast
 blogentry
 blogger lover
@@ -6520,8 +6519,10 @@ crave of
 crave-of
 create-own
 create-product
+create-tee
 createown
 createproduct
+createtee
 credit direct
 credit repair
 credit report
@@ -6922,6 +6923,8 @@ discountreebok
 discountt
 discountugg
 discountwheel
+discussion made
+discussion-made
 display_
 diva-com
 divulgaemail
@@ -7621,6 +7624,7 @@ fanaticsshop
 fancyto
 fanshome
 fantastic blog
+fantastic entire
 fantastic job!
 fantastic layout
 fantastic page
@@ -7631,6 +7635,7 @@ fantastic topic
 fantastic weblog
 fantastic website
 fantastic-blog
+fantastic-entire
 fantastic-job
 fantastic-layout
 fantastic-page
@@ -7641,6 +7646,7 @@ fantastic-topic
 fantastic-weblog
 fantastic-website
 fantasticblog
+fantasticentire
 fantasticjob
 fantasticlayout
 fantasticpage
@@ -8389,9 +8395,15 @@ gabbanastore
 gafas ray
 gafas-ray
 gafasray
+gaga jap
+gaga jp
+gaga milan
 gaga-jap
 gaga-jp
-gaga-milano
+gaga-milan
+gagajap
+gagajp
+gagamilan
 gagner
 gain weight
 gain-weight
@@ -9028,7 +9040,7 @@ gucci gucci
 gucci guilt
 gucci hand
 gucci italia
-gucci milano
+gucci milan
 gucci online
 gucci out
 gucci pour
@@ -9051,7 +9063,7 @@ gucci-gucci
 gucci-guilt
 gucci-hand
 gucci-italia
-gucci-milano
+gucci-milan
 gucci-online
 gucci-out
 gucci-pour
@@ -9082,7 +9094,7 @@ gucciitalia
 gucciiuk
 guccij
 guccikan
-guccimilano
+guccimilan
 guccinose
 guccionline
 gucciout
@@ -9579,7 +9591,7 @@ hollister-jean
 hollister-job
 hollister-jp
 hollister-logo
-hollister-milano
+hollister-milan
 hollister-nantes
 hollister-online
 hollister-orig
@@ -9612,7 +9624,7 @@ hollisterjean
 hollisterjob
 hollisterjp
 hollisterlogo
-hollistermilano
+hollistermilan
 hollisternantes
 hollisteronline
 hollisterorig
@@ -10536,7 +10548,7 @@ jordan femme
 jordan fille
 jordan gamma
 jordan grise
-jordan milano
+jordan milan
 jordan noir
 jordan out
 jordan pas
@@ -10554,7 +10566,7 @@ jordan-femme
 jordan-fille
 jordan-gamma
 jordan-grise
-jordan-milano
+jordan-milan
 jordan-noir
 jordan-out
 jordan-pas
@@ -10571,7 +10583,7 @@ jordanbrand
 jordangamma
 jordangrise
 jordankicks
-jordanmilano
+jordanmilan
 jordannoir
 jordanout
 jordanretro
@@ -10811,7 +10823,7 @@ kors hamilton
 kors hand
 kors laptop
 kors messenger
-kors milano
+kors milan
 kors now!
 kors out
 kors puffer
@@ -10841,7 +10853,7 @@ kors-hamilton
 kors-hand
 kors-laptop
 kors-messenger
-kors-milano
+kors-milan
 kors-now
 kors-out
 kors-puffer
@@ -10862,7 +10874,7 @@ korsglass
 korshand
 korslaptop
 korsmessenger
-korsmilano
+korsmilan
 korsout
 korspuffer
 korspurse
@@ -12871,15 +12883,15 @@ needmoney
 needsex
 negozi alviero
 negozi burberry
-negozi milano
+negozi milan
 negozi online
 negozi-alviero
 negozi-burberry
-negozi-milano
+negozi-milan
 negozi-online
 negozialviero
 negoziburberry
-negozimilano
+negozimilan
 negozio-hollis
 negoziohollis
 negozionline
@@ -15898,11 +15910,13 @@ shift dress
 shift-dress
 shiftdress
 shirt cease
+shirt cheap
 shirt custom
 shirt embroid
 shirt online
 shirt print
 shirt-cease
+shirt-cheap
 shirt-custom
 shirt-embroid
 shirt-online
@@ -15910,20 +15924,24 @@ shirt-print
 shirtandshirt
 shirtandtshirt
 shirtcease
+shirtcheap
 shirtcustom
 shirtembroid
 shirtonline
 shirtprint
+shirts cheap
 shirts custom
 shirts embroid
 shirts online
 shirts print
+shirts-cheap
 shirts-custom
 shirts-embroid
 shirts-online
 shirts-print
 shirtsandshirt
 shirtsandtshirt
+shirtscheap
 shirtscustom
 shirtsembroid
 shirtsonline
@@ -16655,10 +16673,24 @@ substancedeal
 succeed online
 succeed-online
 succeedonline
+success article
+success blog
 success online
+success page
+success post
+success site
+success website
 success you
+success-article
+success-blog
 success-online
+success-page
+success-post
+success-site
+success-website
 success-you
+successarticle
+successblog
 successful article
 successful blog
 successful page
@@ -16678,6 +16710,9 @@ successfulpost
 successfulsite
 successfulwebsite
 successonline
+successpage
+successpost
+successsite
 successyou
 sucesso.co
 sucette
@@ -17294,6 +17329,7 @@ top article
 top blog
 top bulgari
 top bvlgari
+top new
 top stop
 top tier
 top viral
@@ -17304,6 +17340,7 @@ top-bvlgari
 top-forum
 top-list
 top-muscle
+top-new
 top-rank
 top-search
 top-site
@@ -17325,6 +17362,7 @@ topiramate
 toplist
 topman123
 topmuscle
+topnew
 topoic
 toprank
 topsearch
