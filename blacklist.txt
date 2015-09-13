@@ -568,6 +568,9 @@ _zapat
 -jersey/
 -jerseys.
 -jerseys/
+-kontakt-
+-kontakt.
+-kontakt/
 -lacoste-
 -le-pliage
 -link.
@@ -1843,6 +1846,11 @@ _zapat
 /index-3
 /index-4
 /index-5
+/index.asp/
+/index.aspx/
+/index.htm/
+/index.jsp/
+/index.php/
 /index0
 /index1
 /index2
@@ -1892,6 +1900,9 @@ _zapat
 /kitchenknives-
 /kitchenknives.
 /kommentar
+/kontakt-
+/kontakt.
+/kontakt/
 /lacoste-
 /lacoste.
 /lang-es/
@@ -6012,6 +6023,10 @@ clboot
 clean clear
 clean-clear
 cleanclear
+clear clarif
+clear clear
+clear-clarif
+clear-clear
 clearance mbt
 clearance michael
 clearance out
@@ -6025,6 +6040,8 @@ clearancembt
 clearancemichael
 clearanceout
 clearancesale
+clearclarif
+clearclear
 clenbuterol
 clentching
 click here
@@ -6407,21 +6424,27 @@ corporategift
 coskobo
 cosm tique
 cosmetic eye
+cosmetic kit
 cosmetic sale
 cosmetic whole
 cosmetic-eye
+cosmetic-kit
 cosmetic-sale
 cosmetic-whole
 cosmeticeye
+cosmetickit
 cosmetics eye
+cosmetics kit
 cosmetics sale
 cosmetics whole
 cosmetics-eye
+cosmetics-kit
 cosmetics-out
 cosmetics-sale
 cosmetics-whole
 cosmeticsale
 cosmeticseye
+cosmeticskit
 cosmeticsout
 cosmeticssale
 cosmeticswhole
@@ -6651,6 +6674,9 @@ damier azur
 damier-azur
 damierazur
 damskie
+dangerous post
+dangerous-post
+dangerouspost
 dannerjp
 dapoxetin
 dapoxetine
@@ -8314,10 +8340,12 @@ fruta planta
 frutaplanta
 fuck down
 fuck hard
+fuck your
 fuck_
 fuck-
 fuck-down
 fuck-hard
+fuck-your
 fuckdown
 fucked_
 fucker_
@@ -8325,11 +8353,15 @@ fuckhard
 fucking_
 fucks down
 fucks hard
+fucks your
 fucks_
 fucks-down
 fucks-hard
+fucks-your
 fucksdown
 fuckshard
+fucksyour
+fuckyour
 ful malware
 ful-malware
 fulmalware
@@ -9371,6 +9403,7 @@ hemp-protein
 hemp-tycoon
 hence choose
 hentai
+heook
 hepcinat
 herbal smok
 herbal tincture
@@ -11329,6 +11362,7 @@ longchamp 2015
 longchamp aus
 longchamp bag
 longchamp doctor
+longchamp fabric
 longchamp hand
 longchamp hobo
 longchamp martin
@@ -11352,6 +11386,7 @@ longchamp-2014
 longchamp-2015
 longchamp-aus
 longchamp-doctor
+longchamp-fabric
 longchamp-hand
 longchamp-hobo
 longchamp-martin
@@ -11376,6 +11411,7 @@ longchamp2015
 longchampaus
 longchampbag
 longchampdoctor
+longchampfabric
 longchamphand
 longchamphobo
 longchamplondon
@@ -15708,6 +15744,9 @@ seikomise
 seks.ro
 seks.ru
 seksual
+self google
+self-google
+selfgoogle
 sell iphone4
 sell iphone5
 sell iphone6
