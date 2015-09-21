@@ -3425,6 +3425,7 @@ air-jorda
 air-max
 air-yeezy
 airjorda
+airmaix
 airmax
 airmax_
 airport--
@@ -3806,9 +3807,14 @@ avvessorie
 avvessory
 away your
 away-your
+awesome article
 awesome blog
+awesome page
 awesome post
+awesome-article
 awesome-blog
+awesome-page
+awesome-post
 awesoome
 awokehim
 awordpress.
@@ -7474,6 +7480,8 @@ everyadvert
 everyinfo
 everyleg
 everylight
+everyone furthermore
+everyone-furthermore
 everypant
 everysock
 everythink
@@ -12729,12 +12737,16 @@ montrerolex
 montres femmes
 montres-femmes
 montresfemmes
+moore about
+moore-about
 more eventually
 more-deal
 more-eventually
 more-lv
 morelv
 morpg
+morre about
+morre-about
 mortgage.asp
 mortgage.cfm
 mortgage.htm
@@ -13122,6 +13134,7 @@ niaspan
 nice annd
 nice article
 nice blog
+nice designed
 nice info
 nice page
 nice paragraph
@@ -13133,6 +13146,7 @@ nice weblog
 nice website
 nice-article
 nice-blog
+nice-designed
 nice-info
 nice-page
 nice-paragraph
@@ -13144,6 +13158,7 @@ nice-weblog
 nice-website
 nicearticle
 niceblog
+nicedesigned
 niceinfo
 nicepage
 niceparagraph
@@ -13175,6 +13190,7 @@ nike shox
 nike store
 nike tn
 nike total
+nike vv
 nike_
 nike-air-force
 nike-and-shoe
@@ -13199,6 +13215,7 @@ nike-sko
 nike-store
 nike-tn
 nike-total
+nike-vv
 nike1
 nike2
 nikeairmax
@@ -13234,6 +13251,7 @@ niketn
 niketokyo
 niketotal
 nikeuk
+nikevv
 ninja sword
 ninja-sword
 ninjasword
@@ -14140,6 +14158,8 @@ penis.za
 penisadv
 penisenlarg
 penmontblanc
+penning this
+penning-this
 penny auction
 penny bid
 penny stock
@@ -17933,7 +17953,8 @@ undeniably believe
 undeniably-believe
 under pant
 under-pant
-underpant
+understood of
+understood-of
 underthe
 une moncler
 une-moncler
@@ -18168,11 +18189,14 @@ very disconcertingly
 very imparted
 very lower
 very oone
+very valid
 very-disconcertingly
 very-imparted
 very-lower
 very-oone
+very-valid
 very}
+veryvalid
 vest belg
 vest moncler
 vest-belg
@@ -18441,6 +18465,9 @@ vuittonuk
 vuittonusa
 vuittonwallet
 vuittonwholesale
+vv free
+vv-free
+vvfree
 vvv
 vе
 w http
@@ -19027,6 +19054,7 @@ www.article
 www.barata
 www.barato
 www.best-
+www.consult
 www.deal-
 www.deels
 www.efinanc
@@ -19560,6 +19588,7 @@ zyvox
 ҟy
 ԛu
 легальные
+ликвидация
 магаз
 маркет
 массажистка
