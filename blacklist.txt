@@ -1045,7 +1045,9 @@ _zapat
 .in/page-
 .in/profil
 .in/service
+.in/shop
 .in/sold
+.in/store
 .in/top
 .in/user
 .in#
@@ -1111,7 +1113,9 @@ _zapat
 .ph/profil
 .ph/pub
 .ph/service
+.ph/shop
 .ph/sold
+.ph/store
 .ph/top
 .ph/user
 .ph#
@@ -1136,7 +1140,9 @@ _zapat
 .pl/pl/
 .pl/profil
 .pl/service
+.pl/shop
 .pl/sold
+.pl/store
 .pl/top
 .pl/user
 .pl#
@@ -1177,7 +1183,9 @@ _zapat
 .ro/pub
 .ro/ro/
 .ro/service
+.ro/shop
 .ro/sold
+.ro/store
 .ro/top
 .ro/user
 .ro#
@@ -1203,7 +1211,9 @@ _zapat
 .ru/pub
 .ru/ru/
 .ru/service
+.ru/shop
 .ru/sold
+.ru/store
 .ru/top
 .ru/user
 .ru#
@@ -1244,7 +1254,9 @@ _zapat
 .za/profil
 .za/pub
 .za/service
+.za/shop
 .za/sold
+.za/store
 .za/top
 .za/user
 .za/za/
@@ -7266,6 +7278,8 @@ ejaculationpharm
 el-gordo.c
 elamale
 elavil
+elementary entry
+elementary-entry
 elite jers
 elite men
 elite model
@@ -19578,7 +19592,18 @@ zyvox
 компьютер
 консультаци
 кредит
-купить
+куп диплом
+куп свидетел
+куп удост
+куп-диплом
+куп-свидетел
+куп-удост
+купить диплом
+купить свидетел
+купить удост
+купить-диплом
+купить-свидетел
+купить-удост
 курс евро
 курс-евро
 ҟa
@@ -19616,6 +19641,7 @@ zyvox
 объявлени
 одежда
 онлайн
+оптом
 отзывы
 отличные
 официальных
@@ -19655,6 +19681,8 @@ zyvox
 сайтов
 самая крупная
 самая-крупная
+самый превосход
+самый-превосход
 свой сайт
 свой-сайт
 секс
