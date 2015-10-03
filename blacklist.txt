@@ -34,9 +34,9 @@ _cartier
 _casino
 _cassino
 _celine
-_chaussure
+_chaus
 _cheap
-_christian
+_christ
 _clear
 _click
 _clothes
@@ -72,7 +72,7 @@ _fausse
 _faux
 _femme
 _fendi
-_ferragamo
+_ferrag
 _fifa
 _football
 _forex
@@ -436,6 +436,8 @@ _zapat
 -doku/
 -dolce-gabbana.
 -dolce-gabbana/
+-dolcegabbana.
+-dolcegabbana/
 -domination-
 -domination.
 -domination/
@@ -482,6 +484,7 @@ _zapat
 -fashion/
 -faux.
 -faux/
+-filmi
 -filmy
 -finance.
 -finance/
@@ -1012,6 +1015,7 @@ _zapat
 .executive-
 .fake-
 .fcgi
+.filmi-
 .filmy-
 .forum.
 .freeforums.org
@@ -1053,6 +1057,8 @@ _zapat
 .in/forum
 .in/image
 .in/in/
+.in/katalog
+.in/load
 .in/member
 .in/page-
 .in/profil
@@ -1119,6 +1125,8 @@ _zapat
 .ph/content
 .ph/forum
 .ph/image
+.ph/katalog
+.ph/load
 .ph/member
 .ph/page-
 .ph/ph/
@@ -1147,6 +1155,8 @@ _zapat
 .pl/content
 .pl/forum
 .pl/image
+.pl/katalog
+.pl/load
 .pl/member
 .pl/page-
 .pl/pl/
@@ -1189,6 +1199,8 @@ _zapat
 .ro/content
 .ro/forum
 .ro/image
+.ro/katalog
+.ro/load
 .ro/member
 .ro/page-
 .ro/profil
@@ -1217,6 +1229,8 @@ _zapat
 .ru/content
 .ru/forum
 .ru/image
+.ru/katalog
+.ru/load
 .ru/member
 .ru/page-
 .ru/profil
@@ -1261,6 +1275,8 @@ _zapat
 .za/content
 .za/forum
 .za/image
+.za/katalog
+.za/load
 .za/member
 .za/page-
 .za/profil
@@ -1729,6 +1745,9 @@ _zapat
 /dolce-gabbana-
 /dolce-gabbana.
 /dolce-gabbana/
+/dolcegabbana-
+/dolcegabbana.
+/dolcegabbana/
 /doudoun-
 /doudoun.
 /doudoune-
@@ -1781,6 +1800,7 @@ _zapat
 /ferragamo.
 /file/
 /files/
+/filmi
 /filmy
 /finance.
 /financing.
@@ -2524,7 +2544,7 @@ _zapat
 +cassino
 +celine
 +cheap
-+christian
++christ
 +clear
 +click
 +coach
@@ -2654,7 +2674,7 @@ _zapat
 =blog
 =brace
 =captcha
-=christian
+=christ
 =com_
 =forex
 =kobe
@@ -4501,9 +4521,9 @@ blanc starwalk
 blanc-pen
 blanc-starwalk
 blancstarwalk
-blazer chaussure
-blazer-chaussure
-blazerchaussure
+blazer chaus
+blazer-chaus
+blazerchaus
 blog based
 blog beast
 blog glance
@@ -4779,33 +4799,33 @@ bottespas
 bottesugg
 boutique balenciaga
 boutique chanel
-boutique chaussure
+boutique chaus
 boutique mbt
 boutique moncler
 boutique ugg
 boutique-balenciaga
 boutique-chanel
-boutique-chaussure
+boutique-chaus
 boutique-mbt
 boutique-moncler
 boutique-ugg
 boutiquebalenciaga
 boutiquechanel
-boutiquechaussure
+boutiquechaus
 boutiquembt
 boutiquemoncler
 boutiques chanel
-boutiques chaussure
+boutiques chaus
 boutiques mbt
 boutiques moncler
 boutiques ugg
 boutiques-chanel
-boutiques-chaussure
+boutiques-chaus
 boutiques-mbt
 boutiques-moncler
 boutiques-ugg
 boutiqueschanel
-boutiqueschaussure
+boutiqueschaus
 boutiquesmbt
 boutiquesmoncler
 boutiquesugg
@@ -5610,7 +5630,7 @@ chaussurenike
 chaussureparis
 chaussures adidas
 chaussures boutique
-chaussures christian
+chaussures christ
 chaussures de
 chaussures femme
 chaussures jorda
@@ -5628,7 +5648,7 @@ chaussures- abil
 chaussures-adidas
 chaussures-asics
 chaussures-boutique
-chaussures-christian
+chaussures-christ
 chaussures-de
 chaussures-femme
 chaussures-habil
@@ -5646,7 +5666,7 @@ chaussures-sport
 chaussures-ugg
 chaussuresadidas
 chaussuresboutique
-chaussureschristian
+chaussureschrist
 chaussuresfemme
 chaussuresfr
 chaussuresloubou
@@ -5671,9 +5691,9 @@ cheap carton
 cheap cheap
 cheap china
 cheap chinese
-cheap christian
+cheap christ
 cheap denver
-cheap ferragamo
+cheap ferrag
 cheap fifa
 cheap footbal
 cheap fotbal
@@ -5741,10 +5761,10 @@ cheap-chanel
 cheap-cheap
 cheap-china
 cheap-chinese
-cheap-christian
+cheap-christ
 cheap-converse
 cheap-denver
-cheap-ferragamo
+cheap-ferrag
 cheap-fifa
 cheap-footbal
 cheap-fotbal
@@ -5826,7 +5846,7 @@ cheapest-ray
 cheapest.co
 cheapesthockey
 cheapestprice
-cheapferragamo
+cheapferrag
 cheapga
 cheapgold
 cheapgucci
@@ -7929,14 +7949,14 @@ femalehand
 females hand
 females-hand
 femaleshand
-femme chaussure
+femme chaus
 femme couche
 femme rolex
-femme-chaussure
+femme-chaus
 femme-couche
 femme-sac
 femmecanadagoose
-femmechaussure
+femmechaus
 femmecouche
 femmes imitat
 femmes-imitat
@@ -9761,14 +9781,14 @@ homeforsale
 homeloan
 homeremed
 homesforsale
-homme chaussure
+homme chaus
 homme couche
 homme giorgio
 homme hugo
 homme mariage
 homme rolex
 homme sold
-homme-chaussure
+homme-chaus
 homme-couche
 homme-giorgio
 homme-hugo
@@ -9776,7 +9796,7 @@ homme-mariage
 homme-sac
 homme-sold
 hommecanadagoose
-hommechaussure
+hommechaus
 hommecouche
 hommesac
 hommescanadagoose
@@ -13349,6 +13369,9 @@ not-fake
 not|
 notdienst
 notfake
+noticias noticia
+noticias-noticia
+noticias, noticia
 notraty
 nouveau maillot
 nouveau-maillot
@@ -14700,11 +14723,11 @@ privateftp
 privatelabel
 privatftp
 privatlabel
-prix chaussure
+prix chaus
 prix ugg
-prix-chaussure
+prix-chaus
 prix-ugg
-prixchaussure
+prixchaus
 prixugg
 pro key
 pro medical
@@ -15077,14 +15100,14 @@ recommended-internet
 records.net
 recovery-now
 recoverynow
-red christian
+red christ
 red ugg
 red-bottom-shoe
-red-christian
+red-christ
 red-ugg
 red+bottom+shoe
 redbottomshoe
-redchristian
+redchrist
 redirect_
 redirect.asp
 redskinsjers
@@ -15456,19 +15479,19 @@ rugs fur
 rugs-fur
 rugsfur
 ruhttp
-run chaussure
+run chaus
 run cpa
 run obuv
 run ppv
 run shoe
 run sneak
-run-chaussure
+run-chaus
 run-cpa
 run-obuv
 run-ppv
 run-shoe
 run-sneak
-runchaussure
+runchaus
 runcpa
 runescape gold
 runescape million
@@ -18015,9 +18038,9 @@ unlock-phone
 unlockiphone
 unlockmobile
 unlockphone
-unono chaussure
-unono-chaussure
-unonochaussure
+unono chaus
+unono-chaus
+unonochaus
 unwanted-hair
 unwantedhair
 uomo adidas
@@ -19104,6 +19127,7 @@ www.efinanc
 www.erotic
 www.escort
 www.fake
+www.filmi
 www.filmy
 www.forum
 www.fot-
@@ -19310,17 +19334,17 @@ yoyo diet
 yoyo-diet
 yoyodiet
 ysl bag
-ysl chaussure
+ysl chaus
 ysl damen
 ysl femme
 ysl schuh
 ysl-bag
-ysl-chaussure
+ysl-chaus
 ysl-damen
 ysl-femme
 ysl-schuh
 yslbag
-yslchaussure
+yslchaus
 ysldamen
 yslfemme
 yslschuh
@@ -19700,6 +19724,8 @@ zyvox
 прошивка
 психоло
 путешествую
+разработать игру
+разработать-игру
 рднк
 регистратор
 рекламное
