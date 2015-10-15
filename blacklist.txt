@@ -3364,30 +3364,38 @@ adwokacka
 adwokat
 adwords
 aff.php
+affiliate click
 affiliate link
+affiliate ppc
 affiliate review
+affiliate-click
 affiliate-link
+affiliate-ppc
 affiliate-review
+affiliateclick
 affiliatelink
+affiliateppc
 affiliatereview
-affliction classic
+affliction class
 affliction jean
 affliction men
 affliction new
 affliction offer
-affliction-classic
+affliction-class
 affliction-jean
 affliction-men
 affliction-new
 affliction-offer
-afflictionclassic
+afflictionclass
 afflictionjean
 afflictionmen
 afflictionnew
 afflictionoffer
 afford afford
+afford-afford
 affordable afford
 affordable hand
+affordable-afford
 affordable-hand
 afl jers
 afl official
@@ -3600,6 +3608,8 @@ article buzz
 article complet
 article content
 article dude
+article many
+article much
 article plus
 article post
 article pow
@@ -3609,6 +3619,8 @@ article-buzz
 article-complet
 article-content
 article-dude
+article-many
+article-much
 article-plus
 article-post
 article-pow
@@ -3618,6 +3630,8 @@ article,i
 article!
 article.co
 article.in
+article.many
+article.much
 article.net
 article.org
 article.php
@@ -6101,12 +6115,18 @@ clearclarif
 clearclear
 clenbuterol
 clentching
+click affiliate
+click compan
 click here
 click_
+click-affiliate
+click-compan
 click-here
 click2
 click4
+clickaffiliate
 clickbank
+clickcompan
 clickforu
 clicks4
 clicksor
@@ -6439,7 +6459,9 @@ commutee
 como ganhar
 como-ganhar
 company coach
+company ppc
 company-coach
+company-ppc
 companycoach
 compare price
 compare-price
@@ -7896,6 +7918,12 @@ fauxfemme
 fauxhermes
 fauxhomme
 fauxmontre
+fav it
+fav the
+fav to
+fav-it
+fav-the
+fav-to
 favorite justif
 favorite website
 favorite-justif
@@ -9826,6 +9854,7 @@ hosting community
 hosting-community
 hosts-file
 hostseller
+hoststo.ru
 hot concern
 hot tech
 hot-babe
@@ -13648,6 +13677,9 @@ one nike
 one-nike
 oneminutesite
 onenike
+ones time
+ones-time
+onestime
 onestrap
 online bag
 online cash
@@ -14605,6 +14637,12 @@ pozycjonowanie
 pozyczka
 pozyczki
 pp-class
+ppc affiliate
+ppc compan
+ppc program
+ppc-affiliate
+ppc-compan
+ppc-program
 ppv camp
 ppv click
 ppv cpa
@@ -14821,6 +14859,8 @@ profit-seek
 profitreview
 profits-
 profitseek
+program ppc
+program-ppc
 prohormone
 proisxozhdenie
 proizvodstvo
@@ -14896,9 +14936,15 @@ przeprowadzki
 przysiegly
 psych-clinic
 psychclinic
+public fuck
+public sex
+public-fuck
+public-sex
 publica foto
 publica-foto
 publicafoto
+publicfuck
+publicsex
 publik acja
 publik foto
 publik seen
@@ -18326,9 +18372,11 @@ videnciacharme
 videnciagratis
 videnciavidente
 video sport
+video tube
 video-magnif
 video-pokie
 video-sport
+video-tube
 video.asp
 video.cfm
 video.htm
@@ -18343,6 +18391,7 @@ videos.cfm
 videos.htm
 videos.php
 videosport
+videotube
 vidios
 viencare
 vietnam-visa
@@ -18546,6 +18595,7 @@ vv free
 vv-free
 vvfree
 vvv
+vzlomat
 vе
 w http
 w.il.lkom.men
@@ -19179,6 +19229,7 @@ www.offerte
 www.onsale
 www.penis
 www.porn
+www.promo
 www.r4i
 www.sadje
 www.scarpe
@@ -19610,6 +19661,14 @@ zyvox
 брелки
 вђ
 веб
+взламывать одно
+взламывать паро
+взламывать-одно
+взламывать-паро
+взломать одно
+взломать паро
+взломать-одно
+взломать-паро
 видео чат
 видео-чат
 г©
@@ -20044,6 +20103,7 @@ zyvox
 真のメリット
 秋冬
 節約
+米小游戏
 素材
 綺麗め
 総合
@@ -20070,6 +20130,7 @@ zyvox
 通販
 配送
 酒嗜
+酷小游戏
 金引換
 金融
 鈥?
