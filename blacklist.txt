@@ -251,15 +251,63 @@ _zapat
 -(
 -+.
 -=
+-0.co
+-0.in
+-0.ro
+-0.ru
+-0.za
 -1.co
+-1.in
+-1.ro
+-1.ru
+-1.za
 -2.co
+-2.in
+-2.ro
+-2.ru
+-2.za
+-3.co
+-3.in
+-3.ro
+-3.ru
+-3.za
 -4-sale
 -4-u-
 -4-u.
 -4-u/
+-4.co
+-4.in
+-4.ro
+-4.ru
+-4.za
 -4u-
 -4u.
 -4u/
+-5.co
+-5.in
+-5.ro
+-5.ru
+-5.za
+-6.co
+-6.in
+-6.ro
+-6.ru
+-6.za
+-7.co
+-7.in
+-7.ro
+-7.ru
+-7.za
+-8.co
+-8.in
+-8.ro
+-8.ru
+-8.za
+-9.co
+-9.in
+-9.ro
+-9.ru
+-9.za
 -24.
 -abercrombie-
 -abercrombie.
@@ -1313,6 +1361,7 @@ _zapat
 @toke.
 @www.
 *@
+/ http
 /_t
 /-_
 /?a
@@ -1880,6 +1929,7 @@ _zapat
 /howto-
 /howto.
 /html/
+/http
 /ii/
 /images-
 /images.
@@ -4981,7 +5031,7 @@ burberry brit
 burberry clear
 burberry coat
 burberry danmark
-burberry factory
+burberry factor
 burberry lad
 burberry negozi
 burberry out
@@ -5271,23 +5321,23 @@ canada loan
 canada-hgh
 canada-loan
 canadagoose-ca
-canadagoose-factory
+canadagoose-factor
 canadagoose-fr
 canadagoose-online
 canadagoose-out
 canadagooseannka
 canadagoosebanff
 canadagooseca
-canadagoosefactory
+canadagoosefactor
 canadagoosejack
 canadagoosemen
 canadagooseonline
 canadagooseout
 canadagoosepark
 canadagooses
-canadagooses-factory
+canadagooses-factor
 canadagooses-out
-canadagoosesfactory
+canadagoosesfactor
 canadagoosesout
 canadahgh
 canadaloan
@@ -5298,13 +5348,25 @@ canadian-hgh
 canadian-loan
 canadianhgh
 canadianloan
+candy crash
+candy-crash
+candy-crush
+candycrash
 candycrush
+cannabis buy
+cannabis grow
 cannabis oil
 cannabis seed
+cannabis-buy
+cannabis-grow
 cannabis-oil
 cannabis-seed
+cannabisbuy
+cannabisgrow
 cannabisoil
 cannabisseed
+capabilities also
+capabilities-also
 capecitabine
 cappelli boston
 cappelli new
@@ -6183,7 +6245,7 @@ coach bay
 coach best
 coach black
 coach emboss
-coach factory
+coach factor
 coach flight
 coach hand
 coach jap
@@ -6218,7 +6280,7 @@ coach-bay
 coach-best
 coach-black
 coach-emboss
-coach-factory
+coach-factor
 coach-flight
 coach-hand
 coach-jap
@@ -6254,7 +6316,7 @@ coachbay
 coachbest
 coachblack
 coachemboss
-coachfactory
+coachfactor
 coachflight
 coachhand
 coachjap
@@ -6681,6 +6743,8 @@ crow-pose
 cruise vacation
 cruise-vacation
 cruisevacation
+crush-candy
+crushcandy
 crystalmall
 csgo free
 csgo-free
@@ -9235,7 +9299,7 @@ gucci bors
 gucci brief
 gucci disc
 gucci envy
-gucci factory
+gucci factor
 gucci gucci
 gucci guilt
 gucci hand
@@ -9257,7 +9321,7 @@ gucci-bors
 gucci-brief
 gucci-disc
 gucci-envy
-gucci-factory
+gucci-factor
 gucci-glass
 gucci-gucci
 gucci-guilt
@@ -9283,7 +9347,7 @@ guccibors
 gucciden
 guccidisc
 guccienvy
-guccifactory
+guccifactor
 guccifr
 gucciglass
 guccigucci
@@ -9587,7 +9651,7 @@ hermes comp
 hermes couch
 hermes enamel
 hermes evelyne
-hermes factory
+hermes factor
 hermes hand
 hermes official
 hermes out
@@ -9609,7 +9673,7 @@ hermes-couch
 hermes-disc
 hermes-enamel
 hermes-evelyne
-hermes-factory
+hermes-factor
 hermes-official
 hermes-out
 hermes-pink
@@ -9628,7 +9692,7 @@ hermescouch
 hermesdisc
 hermesenamel
 hermesevelyne
-hermesfactory
+hermesfactor
 hermeshut
 hermesofficial
 hermesout
@@ -9975,7 +10039,6 @@ htmlarticle
 htmlht
 htmllink
 htmlnew
-http://http
 httphttp
 huay-today
 huaytoday
@@ -11042,7 +11105,7 @@ kors cheap
 kors crossbody
 kors diaper
 kors dillard
-kors factory
+kors factor
 kors france
 kors glass
 kors grayson
@@ -11073,7 +11136,7 @@ kors-cheap
 kors-crossbody
 kors-diaper
 kors-dillard
-kors-factory
+kors-factor
 kors-glass
 kors-grayson
 kors-hamilton
@@ -11192,7 +11255,7 @@ lauren aus
 lauren belg
 lauren cheap
 lauren dame
-lauren factory
+lauren factor
 lauren femme
 lauren heren
 lauren home
@@ -11216,7 +11279,7 @@ lauren-aus
 lauren-belg
 lauren-cheap
 lauren-dame
-lauren-factory
+lauren-factor
 lauren-femme
 lauren-heren
 lauren-home
@@ -11800,7 +11863,7 @@ luxuryreplica
 lv austr
 lv bag
 lv brasil
-lv factory
+lv factor
 lv france
 lv-bag
 lv-disc
@@ -12491,7 +12554,7 @@ millen clear
 millen color
 millen colour
 millen dress
-millen factory
+millen factor
 millen jack
 millen neder
 millen out
@@ -12502,7 +12565,7 @@ millen-clear
 millen-color
 millen-colour
 millen-dress
-millen-factory
+millen-factor
 millen-jack
 millen-neder
 millen-out
@@ -13470,6 +13533,8 @@ not-fake
 not|
 notdienst
 notfake
+noticeably plenty
+noticeably-plenty
 noticias noticia
 noticias-noticia
 noticias, noticia
@@ -15769,7 +15834,7 @@ sale template
 sale-4u
 sale-cheap
 sale-cosmetic
-sale-factory
+sale-factor
 sale-jp
 sale-longchamp
 sale-louis
@@ -15789,7 +15854,7 @@ sale4u
 salecanad
 salecheap
 salecosmetic
-salefactory
+salefactor
 salejp
 salelouis
 salelulu
@@ -15798,13 +15863,13 @@ saleoakley
 saleonline
 saleout
 sales-class
-sales-factory
+sales-factor
 sales-inspir
 sales-train
 sales.co.
 sales+
 salesclass
-salesfactory
+salesfactor
 saleshop
 salesshop
 salestrain
@@ -16642,6 +16707,10 @@ slot-machine
 slotmachine
 slvrenew
 smallbusinessplan
+smaller article
+smaller post
+smaller-article
+smaller-post
 smart-drug
 smartdrug
 smeoone
@@ -18614,7 +18683,7 @@ vuitton cig
 vuitton damier
 vuitton deutsch
 vuitton espa
-vuitton factory
+vuitton factor
 vuitton fanny
 vuitton fashion
 vuitton france
