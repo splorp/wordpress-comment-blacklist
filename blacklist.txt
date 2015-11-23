@@ -1628,6 +1628,8 @@ _zapat
 /boners.
 /bookmark-
 /bookmark.
+/bookmarked-
+/bookmarked.
 /bookmarks-
 /bookmarks.
 /borse-
@@ -4791,9 +4793,20 @@ bontril
 bonus-code
 bonuscode
 book-ot-
+bookmark thank
 bookmark web
+bookmark-thank
 bookmark-web
+bookmarked thank
+bookmarked web
+bookmarked-thank
+bookmarked-web
 bookmarked!
+bookmarks thank
+bookmarks web
+bookmarks-thank
+bookmarks-web
+bookmarksweb
 bookmarkweb
 boost-your
 boostyour
@@ -7020,40 +7033,52 @@ dehttp
 delete_
 deliver result
 deliver-result
+deliverresult
+delivers result
+delivers-result
+deliversresult
 delpha_
 deltasone
 demo0
 demo1
+demo2
+demo3
+demo4
+demo5
+demo6
+demo7
+demo8
+demo9
 demoniakk
 démoniakk
 demontag
 denschlaf
+dental quote
 dental that
 dental-implant
 dental-quote
 dental-that
-depart your site
-depart-your-site
+dental-veneer
+dentalimplant
+dentalquote
+dentalveneer
 depositbank
 depression-symptom
 depressionsymptom
 derm exclus
 derm-exclus
 dermexclus
-derniers mod&egrave;le
 derniers modele
 derniers modèle
-derniers-mod&egrave;le
 derniers-modele
 derniers-modèle
 derniersmodele
 desconto
 design cheap
+design own
 design-cheap
 design-own
 designcheap
-designer bag
-designer jewel
 designer-bag
 designer-brand
 designer-jewel
@@ -7065,10 +7090,6 @@ designerjewel
 designerlabel
 designershoe
 designown
-designownhood
-designowntee
-desktop-client
-desktopclient
 desmomelt
 desmopressin
 despaulsmith
@@ -7750,6 +7771,8 @@ everyone furthermore
 everyone-furthermore
 everypant
 everysock
+everything-dental
+everythingdental
 everythink
 everytight
 evryday
