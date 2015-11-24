@@ -1909,6 +1909,8 @@ _zapat
 /gh0/
 /gh1/
 /glowna.
+/gold-claim.
+/gold-yukon.
 /gold.
 /goo.gl
 /good.
@@ -2541,6 +2543,8 @@ _zapat
 /ya.
 /yabb
 /yours.
+/yukon-claim.
+/yukon-gold.
 /yuwanshe-
 /yuwanshe.
 /z.
@@ -4792,6 +4796,8 @@ bonocassino
 bontril
 bonus-code
 bonuscode
+boobs tumblr
+boobs-tumblr
 book-ot-
 bookmark thank
 bookmark web
@@ -6243,6 +6249,9 @@ cinturegucci
 cintureout
 ciproanti
 cl-men
+claim yukon
+claim-yukon
+claim, yukon
 clans hack
 clans ipad
 clans iphone
@@ -6638,7 +6647,9 @@ compare price
 compare-price
 component/blog
 comprar
+computer pc
 computer-gam
+computer-pc
 computer-perform
 computergam
 computerperform
@@ -8158,6 +8169,7 @@ favourite-website
 fb ads
 fb cash
 fb fans
+fb gold
 fb like
 fb money
 fb sales
@@ -8165,6 +8177,7 @@ fb traffic
 fb-ads
 fb-cash
 fb-fans
+fb-gold
 fb-like
 fb-money
 fb-sales
@@ -8172,6 +8185,7 @@ fb-traffic
 fbads
 fbcash
 fbfans
+fbgold
 fblike
 fbmoney
 fbsales
@@ -8180,14 +8194,26 @@ fckt
 fcukfcuk
 feacute-deacute
 feacutedeacute
+feature christ's
+feature christ’s
+feature christs
+feature-christs
 feature.asp
 feature.cfm
 feature.htm
 feature.php
+features christ's
+features christ’s
+features christs
+features-christs
 features.asp
 features.cfm
 features.htm
 features.php
+featuring christ's
+featuring christ’s
+featuring christs
+featuring-christs
 federl
 feelng
 feichang0
@@ -14623,11 +14649,15 @@ permission-allow
 permonth.co
 person provide
 person-provide
-personal natural
-personal-experience
+personal pc
+personal-exper
 personal-injury
-personal-natural
+personal-natur
+personal-pc
+personalexper
 personalinjury
+personalnatur
+personalpc
 personnalis
 perweek
 petencies
