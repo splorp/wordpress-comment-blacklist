@@ -5884,6 +5884,7 @@ cheap china
 cheap chinese
 cheap christ
 cheap denver
+cheap essay
 cheap ferrag
 cheap fifa
 cheap footbal
@@ -5914,6 +5915,7 @@ cheap nhl
 cheap nike
 cheap north
 cheap oakley
+cheap paper
 cheap price
 cheap proclip
 cheap ray
@@ -5955,6 +5957,7 @@ cheap-chinese
 cheap-christ
 cheap-converse
 cheap-denver
+cheap-essay
 cheap-ferrag
 cheap-fifa
 cheap-footbal
@@ -5986,6 +5989,7 @@ cheap-nike
 cheap-north
 cheap-oakley
 cheap-pandora
+cheap-paper
 cheap-prada
 cheap-price
 cheap-proclip
@@ -6028,6 +6032,7 @@ cheapchina
 cheapchinese
 cheapcoach
 cheapconverse
+cheapessay
 cheapest hockey
 cheapest price
 cheapest ray
@@ -6062,6 +6067,7 @@ cheapnike
 cheapnorth
 cheapoakley
 cheappandora
+cheappaper
 cheapprada
 cheapproclip
 cheapray
@@ -7713,20 +7719,32 @@ espana-online
 españa-online
 espanaonline
 españaonline
-essay help
-essay write
 essay-empire
 essay-help
+essay-intro
 essay-service
 essay-write
 essayempire
 essayer cette
 essayer-cette
+essayhelp
+essayintro
+essays empire
+essays help
+essays intro
+essays service
+essays write
 essays-empire
+essays-help
+essays-intro
 essays-service
+essays-write
 essaysempire
 essayservice
+essayshelp
+essaysintro
 essaysservice
+essayswrite
 essaywrite
 established blog
 established-blog
@@ -10420,6 +10438,7 @@ info/user
 info/view
 infolist
 infonetcom
+informacyjne
 informasjon.asp
 informasjon.cfm
 informasjon.htm
@@ -10738,6 +10757,8 @@ isseo
 istanbul escort
 istanbul-escort
 istanbulescort
+istnieje oficjalna
+istnieje-oficjalna
 it duvetica
 it ordeno
 it ordenó
@@ -13373,11 +13394,14 @@ nailsjap
 nailsjp
 nailupon
 najlepsze
+najsłynniejszym
 naked sex
 naked-sex
 nakedsex
 nakedteen
 naltrexone
+namacalnie zalega
+namacalnie-zalega
 name-brand
 nanogold
 naproxen
@@ -15168,6 +15192,7 @@ pro review
 pro-medical
 pro-review
 proactol
+problemowych
 procedures-for
 proceesing
 produce article
@@ -17595,6 +17620,7 @@ systemreview
 systemweb
 systemyoga
 sysuser
+szambo
 sϲ
 sі
 sо
@@ -19653,7 +19679,15 @@ wpsite
 wpthemegen
 wrinting
 wristpain
+write-essay
+write-paper
+writeessay
+writepaper
+writing-essay
+writing-paper
 writing-service
+writingessay
+writingpaper
 writingservice
 wweb page
 wweb-page
