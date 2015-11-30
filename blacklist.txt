@@ -1522,7 +1522,17 @@ _zapat
 /15.cfm
 /15.htm
 /15.php
+/100-200.
+/100-300.
+/100-400.
+/100-500.
 /100mg
+/200-300.
+/200-400.
+/200-500.
+/300-400.
+/300-500.
+/400-500.
 /a-
 /a#
 /abc-
@@ -4531,6 +4541,7 @@ big 100%
 big bling
 big cock
 big replica
+big site
 big-100%
 big-bling
 big-cock
@@ -4540,6 +4551,7 @@ big.site
 bigbling
 bigcock
 bigreplica
+bigsite
 bijoux best
 bijoux_
 bijoux-best
@@ -4816,10 +4828,13 @@ bookmarksweb
 bookmarkweb
 boost-your
 boostyour
+boot get
 boot online
 boot oxford
+boot queen
 boot sale
 boot schweiz
+boot ugg
 boot uk
 boot-get
 boot-online
@@ -4827,6 +4842,7 @@ boot-oxford
 boot-queen
 boot-sale
 boot-schweiz
+boot-ugg
 boot-uk
 bootcojp
 bootget
@@ -4858,8 +4874,6 @@ bootsoxford
 bootsqueen
 bootsretail
 bootss
-bootssale
-bootsschweiz
 bootsugg
 bootsuk
 boottenngoku
@@ -4916,7 +4930,8 @@ borsemoncler
 borseout
 borseprada
 borseprezzi
-boss.de
+bot cheat
+bot-cheat
 bot's cheat
 bot’s cheat
 bota mujere
@@ -4933,6 +4948,7 @@ botas-ugg
 botasdefutbol
 botasmujere
 botasugg
+botcheat
 both educative
 both-educative
 bots cheat
@@ -5180,10 +5196,12 @@ burch-out
 burch-sale
 burchout
 burchsale
+business catalyst
 business empire
 business know
 business train
 business-boss
+business-catalyst
 business-daily
 business-empire
 business-finder
@@ -5197,6 +5215,7 @@ business-net
 business-network
 business-train
 businessboss
+businesscatalyst
 businessdaily
 businessfinder
 businessfirst
@@ -7603,6 +7622,9 @@ en-ligne-paris
 en-private
 en/formula
 en/oakley
+enceinte rapid
+enceinte-rapid
+enceinterapid
 enchere max
 enchère max
 enchere-max
@@ -8426,6 +8448,8 @@ fitchgilet
 fitchgrenoble
 fitchout
 fitflop
+fiverr method
+fiverr-method
 fivestardoll
 fix credit
 fix-credit
@@ -18074,6 +18098,9 @@ tokengenerat
 tokenhack
 tokyo-lv
 told u?
+tomber enceinte
+tomber-enceinte
+tomberenceinte
 toms price
 toms shoe
 toms women
@@ -19865,6 +19892,7 @@ your submit
 your success
 your traffic
 your ugg
+your weblog
 your_
 your-account
 your-blog
@@ -19881,6 +19909,7 @@ your-site
 your-skin
 your-success
 your-ugg
+your-weblog
 your-windows
 your-your
 youraccount
@@ -19896,6 +19925,7 @@ yourprofile
 yoursite
 yoursuccess
 yourugg
+yourweblog
 yourwebpage
 yourwebsite
 youth jers
