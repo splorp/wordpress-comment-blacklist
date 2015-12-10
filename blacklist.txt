@@ -1139,6 +1139,7 @@ _zapat
 .info/?
 .insanity-
 .internet-
+.it/?it
 .it/t/
 .kr/kr/
 .longchamp-
@@ -1289,6 +1290,9 @@ _zapat
 .ru/2.
 .ru/3-
 .ru/3.
+.ru/aa-
+.ru/ab-
+.ru/ba-
 .ru/catalog
 .ru/content
 .ru/forum
@@ -1967,6 +1971,7 @@ _zapat
 /howto.
 /html/
 /http
+/hyundai.
 /ii/
 /images-
 /images.
@@ -3595,6 +3600,7 @@ alarmingly-grow
 albanian-travel
 albaniantravel
 albuterol
+alcohol-rehab
 alendronate
 alkotla
 all-about-the
@@ -4832,7 +4838,10 @@ bookmarks-thank
 bookmarks-web
 bookmarksweb
 bookmarkweb
+boost you
+boost-you
 boost-your
+boostyou
 boostyour
 boot get
 boot online
@@ -7895,6 +7904,8 @@ exit.asp
 expensive vacation
 expensive-vacation
 expensivevacation
+experience simply
+experience-simply
 expert suggestion
 expert-suggestion
 exploded extensive
@@ -8648,6 +8659,8 @@ frames-cheap
 frames/index
 framescheap
 francemaillot
+frankly it
+frankly-it
 fraudcenter
 frauen puma
 frauen-puma
@@ -10494,7 +10507,10 @@ infected-crash
 infinity-2
 infinity2
 info base
+info-alcohol
 info-base
+info/addict
+info/alcohol
 info/product
 info/tag
 info/user
@@ -10823,11 +10839,13 @@ istanbulescort
 istnieje oficjalna
 istnieje-oficjalna
 it duvetica
+it oakley
 it ordeno
 it ordenó
 it rite
 it truly
 it-duvetica
+it-oakley
 it-ordeno
 it-ordenó
 it-rite
@@ -10845,6 +10863,7 @@ item.cfm
 item.htm
 item.php
 itemnotfound
+itoakley
 its fastidious
 its-fastidious
 itsfastidious
@@ -11877,6 +11896,9 @@ loansonline
 locate-cell-phone
 locatecellphone
 lociraj
+lock prezzi
+lock-prezzi
+lockprezzi
 lodz
 łódź
 log.se.
@@ -12222,8 +12244,11 @@ magazine/page2
 magicmoncler
 magnificent article
 magnificent goods
+magnificent inform
 magnificent-article
 magnificent-goods
+magnificent-inform
+magnificentinform
 mail_
 mail.in
 mail.pl
@@ -13933,6 +13958,7 @@ oakley medusa
 oakley out
 oakley pascher
 oakley polar
+oakley radar
 oakley sale
 oakley store
 oakley straight
@@ -13954,6 +13980,7 @@ oakley-medusa
 oakley-out
 oakley-pascher
 oakley-polar
+oakley-radar
 oakley-ru
 oakley-sale
 oakley-sj
@@ -13977,6 +14004,7 @@ oakleymedusa
 oakleyout
 oakleypascher
 oakleypolar
+oakleyradar
 oakleyru
 oakleys sunglass
 oakleys_
@@ -14259,6 +14287,7 @@ options binaire
 options-binaire
 options-trad
 optionstrad
+opyo
 oral-sex
 order forte
 order generic
@@ -17419,6 +17448,7 @@ stonejap
 stonejp
 stop smok
 stop snor
+stop-addict
 stop-smok
 stop-snor
 stopsmok
@@ -19746,6 +19776,9 @@ worldsex
 worldugg
 worldventure
 worldwideugg
+worth bookmarking
+worth-bookmarking
+worthbookmarking
 wow-gold
 wowo-house
 wowo-sex
@@ -20516,6 +20549,10 @@ zyvox
 คาสิโน
 ต่างหู
 루이비통
+무료쿠폰
+성인자
+야동
+트위터
 アークテリクス
 アイホン
 アウトレット
