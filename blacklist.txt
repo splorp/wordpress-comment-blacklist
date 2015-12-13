@@ -1,4 +1,3 @@
-/adf.ly
 _abercrom
 _account
 _addon
@@ -49,6 +48,7 @@ _cpa
 _credit
 _data
 _default
+_diet
 _dior
 _disc
 _display
@@ -1358,6 +1358,7 @@ _zapat
 .za/user
 .za/za/
 .za#
+。ｃoｍ
 ''
 ’’
 »¿
@@ -1566,6 +1567,7 @@ _zapat
 /addfeed/
 /addon/
 /addons/
+/adf.ly
 /admin/
 /administration/
 /administrator/
@@ -3644,6 +3646,9 @@ aminocare
 amitriptyline
 amorti dynamique
 amorti-dynamique
+amount food
+amount-food
+amountfood
 amour gratuit
 amour-gratuit
 amourgratuit
@@ -5656,10 +5661,16 @@ cavinklein
 cɑ
 ce billet
 ce-billet
+celeb diet
+celeb-diet
+celebdiet
 celebrex
 celebrities-nude
 celebritiesnude
+celebrity diet
+celebrity-diet
 celebrity-nude
+celebritydiet
 celebritynude
 celexa
 celine bag
@@ -7211,6 +7222,7 @@ diet plan
 diet review
 diet solution
 diet suppl
+diet_
 diet-food
 diet-pill
 diet-plan
@@ -7680,6 +7692,7 @@ enhanceyour
 enhttp
 enjoy-more
 enjoymore
+enleverlescernes
 enlightening post
 enlightening-post
 enligneparis
@@ -14153,7 +14166,9 @@ one nike
 one-nike
 oneminutesite
 onenike
+ones size
 ones time
+ones-size
 ones-time
 onestime
 onestrap
@@ -14288,7 +14303,7 @@ options binaire
 options-binaire
 options-trad
 optionstrad
-opyo
+opyo0
 oral-sex
 order forte
 order generic
@@ -14486,10 +14501,13 @@ outstandingwebsite
 ovariancyst
 overall glance
 overall-glance
+own blog
 own blogroll
 own webpage
+own-blog
 own-blogroll
 own-webpage
+ownblog
 owned awn
 owned-awn
 ownersinsur
@@ -14769,10 +14787,13 @@ peopleand
 per-week
 percocet
 perday.co
+perfect diet
 perfect vpn
 perfect writ
+perfect-diet
 perfect-vpn
 perfect-writ
+perfectdiet
 perfectvpn
 perfectwrit
 permission allow
@@ -19572,6 +19593,8 @@ wholesalesoccer
 whttp
 why-would-you
 wɦ
+widespread prescription
+widespread-prescription
 widget_
 widyaw
 wife-tube
