@@ -1,3 +1,4 @@
+/adf.ly
 _abercrom
 _account
 _addon
