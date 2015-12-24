@@ -67,7 +67,7 @@ _entr
 _escort
 _estate
 _event
-_facebook
+_face
 _fake
 _fashion
 _fausse
@@ -94,6 +94,7 @@ _gratis
 _gratuit
 _gucci
 _guest
+_hack
 _hand
 _hard
 _help
@@ -3671,9 +3672,12 @@ andcoupon
 anditan
 andjourn
 andmerciful
+android hack
+android-hack
 android-m4a
 android-mp3
 androidclan
+androidhack
 androidm4a
 androidmp3
 andtheir
@@ -7103,6 +7107,7 @@ defiantly brilliant
 defiantly-brilliant
 defiantlybrilliant
 deficitfight
+definate
 definitelly
 dehttp
 delete_
@@ -7994,21 +7999,18 @@ face-terra
 face-vest
 face-women
 facebok
-facebook ads
-facebook advert
+facebook ad
 facebook cash
 facebook class
 facebook fan
 facebook traffic
 facebook_
-facebook-ads
-facebook-advert
+facebook-ad
 facebook-cash
 facebook-class
 facebook-fan
 facebook-traffic
-facebookads
-facebookadvert
+facebookad
 facebookcash
 facebookclass
 facebookfan
@@ -9082,10 +9084,11 @@ germanylove
 gestione
 get $
 get bitcoin
+get face
 get_rid
 get-bitcoin
 get-boot
-get-facebook
+get-face
 get-hermes
 get-massive
 get-money-for
@@ -9096,6 +9099,7 @@ get-widget
 getaloan
 getastyle
 getbitcoin
+getface
 gethermes
 getjoy
 getmassive
@@ -9711,19 +9715,26 @@ gyslera
 h http
 habitof
 hack cydia
-hack facebook
+hack face
 hack fb
 hack online
+hack tool
+hack_
 hack-cydia
-hack-facebook
+hack-face
 hack-fb
 hack-online
+hack-tool
 hack<
 hackasphalt
 hackcydia
-hackfacebook
+hacker_
+hackface
 hackfb
+hacking_
 hackonline
+hacks_
+hacktool
 hadheard
 hair-again
 hair-grow
@@ -11562,6 +11573,9 @@ lancel-sac
 lancelad
 lancelpas
 lancelsac
+land hack
+land-hack
+landhack
 lap lap
 lap-lap
 laplap
@@ -11669,11 +11683,11 @@ lawoffice.net
 lɑ
 lead-sys
 leaked1
-learn facebook
+learn face
 learn help
-learn-facebook
+learn-face
 learn-help
-learnfacebook
+learnface
 learnhelp
 learningxchange
 learnpianohere
@@ -12514,8 +12528,12 @@ martini-cagliari
 martinicagliari
 marvelous post
 marvelous-post
-mass-facebook
+mass article
+mass face
+mass-article
+mass-face
 massarticle
+massface
 massive-web
 masszaz
 mastablasta
@@ -19528,6 +19546,7 @@ wetting pant
 wetting-pant
 wettingpant
 weusecoin
+wewewe
 what blog
 what-blog
 what-we-know
