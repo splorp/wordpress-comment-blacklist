@@ -9,6 +9,7 @@ _alviero
 _annonce
 _article
 _asics
+_augmentin
 _autentic
 _authentic
 _babe
@@ -232,6 +233,7 @@ _vape
 _viral
 _virus
 _vod
+_voltaren
 _vti
 _vuitton
 _web
@@ -1603,6 +1605,7 @@ _zapat
 /ateffa.ms
 /attachment/
 /attachments/
+/augmentin
 /autentica-
 /autentica.
 /autentico-
@@ -2521,6 +2524,7 @@ _zapat
 /viewstory
 /visit.
 /visite.
+/voltaren
 /vuitton-
 /vuitton.
 /vuittonpascher-
@@ -2856,6 +2860,7 @@ _zapat
 0.5mg
 ００％
 ００＄
+0cigar
 0day
 0gram.ru
 00mail
@@ -2883,6 +2888,7 @@ _zapat
 1big
 1bodog
 1c.in
+1cigar
 1hand
 1health
 1minute
@@ -2913,6 +2919,7 @@ _zapat
 2bj.ru
 2buy
 2c.in
+2cigar
 2global
 2hand
 2health
@@ -2932,6 +2939,7 @@ _zapat
 3@1
 3@2
 3@3
+3cigar
 3hand
 3health
 3j3j3
@@ -2976,6 +2984,7 @@ _zapat
 4all
 4cash
 4cheap
+4cigar
 4ever
 4fire
 4gold
@@ -3000,6 +3009,7 @@ _zapat
 4u.ru
 4u.za
 4you
+5cigar
 5hand
 5health
 5minute
@@ -3007,18 +3017,22 @@ _zapat
 5test
 5the best
 5the-best
+6cigar
 6hand
 6purse
 6the best
 6the-best
+7cigar
 7hand
 7purse
 7the best
 7the-best
+8cigar
 8hand
 8purse
 8the best
 8the-best
+9cigar
 9the best
 9the-best
 １０％
@@ -3046,6 +3060,7 @@ _zapat
 49折
 ５０％
 ５０＄
+50mg.
 50折
 ５０歳
 ６０％
@@ -3932,6 +3947,8 @@ attraction-market
 aufsatz hilfe
 aufsatz-hilfe
 aufsatzhilfe
+augmentin_
+augmentin.
 auspicious repl
 auspicious writ
 auspicious-repl
@@ -5048,6 +5065,7 @@ boutiqueugg
 bow ugg
 bow-ugg
 bowugg
+boxshopping.ru
 bracelet manchette
 bracelet shop
 bracelet store
@@ -6285,10 +6303,12 @@ cigar-store
 cigarcuba
 cigarette online
 cigarette-online
+cigarette.co
 cigarette<
 cigarettebuy
 cigarettes online
 cigarettes-online
+cigarettes.co
 cigarettes<
 cigarettesbuy
 cigaronline
@@ -11120,6 +11140,7 @@ jersey cheap
 jersey free
 jersey from
 jersey nike
+jersey paypal
 jersey soccer
 jersey wholesale
 jersey-1
@@ -11131,6 +11152,7 @@ jersey-for
 jersey-free
 jersey-from
 jersey-nike
+jersey-paypal
 jersey-pro
 jersey-soccer
 jersey-wholesale
@@ -11159,6 +11181,7 @@ jerseys cheap
 jerseys free
 jerseys from
 jerseys nike
+jerseys paypal
 jerseys soccer
 jerseys wholesale
 jerseys-1
@@ -11171,6 +11194,7 @@ jerseys-for-you
 jerseys-free
 jerseys-from
 jerseys-nike
+jerseys-paypal
 jerseys-soccer
 jerseys-wholesale
 jerseys.us
@@ -19295,6 +19319,8 @@ vod_
 vogue toms
 vogue-toms
 voguetoms
+voltaren_
+voltaren.
 von ysl
 von-ysl
 vonysl
@@ -20566,6 +20592,8 @@ zyvox
 кино-позитив
 кинопозитив
 китай
+клипса антихрап
+клипса-антихрап
 клубах
 комисси
 компании
