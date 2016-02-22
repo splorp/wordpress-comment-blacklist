@@ -1374,6 +1374,8 @@ _zapat
 »¿
 (buzzfeed)
 (linkedin)
+(no follow)
+(nofollow)
 (reddit)
 (stumbleupon)
 )-
@@ -2860,7 +2862,9 @@ _zapat
 |yr
 �
 00 pips
+0-easy-way
 00-pips
+0-the-best
 0,5 mg
 0,5mg
 0.5 mg
@@ -2880,6 +2884,8 @@ _zapat
 00折
 ００歳
 1-1.
+1-easy-way
+1-the-best
 1,0 mg
 1,0mg
 1,5 mg
@@ -2910,7 +2916,9 @@ _zapat
 1to1
 1you
 2-buy
+2-easy-way
 2-global
+2-the-best
 2,0 mg
 2,0mg
 2,5 mg
@@ -2942,6 +2950,8 @@ _zapat
 2title
 2u.org
 2you
+3-easy-way
+3-the-best
 3.in
 3@1
 3@2
@@ -2973,6 +2983,7 @@ _zapat
 4-all
 4-cash
 4-cheap
+4-easy-way
 4-ever
 4-fire
 4-gold
@@ -2987,6 +2998,7 @@ _zapat
 4-sale
 4-silver
 4-test
+4-the-best
 4-you
 4all
 4cash
@@ -3016,6 +3028,8 @@ _zapat
 4u.ru
 4u.za
 4you
+5-easy-way
+5-the-best
 5cigar
 5hand
 5health
@@ -3024,21 +3038,29 @@ _zapat
 5test
 5the best
 5the-best
+6-easy-way
+6-the-best
 6cigar
 6hand
 6purse
 6the best
 6the-best
+7-easy-way
+7-the-best
 7cigar
 7hand
 7purse
 7the best
 7the-best
+8-easy-way
+8-the-best
 8cigar
 8hand
 8purse
 8the best
 8the-best
+9-easy-way
+9-the-best
 9cigar
 9the best
 9the-best
@@ -3193,6 +3215,7 @@ a lots
 a-cell-phone
 a-lots
 a-powerful-way
+a-web-designer
 a?a
 a.pri.l
 ã§
@@ -6025,7 +6048,7 @@ cheap ugg
 cheap uk
 cheap warrior
 cheap wed
-cheap wholesale
+cheap wholes
 cheap youth
 cheap_
 cheap-adobe
@@ -6103,7 +6126,7 @@ cheap-uk
 cheap-warrior
 cheap-web
 cheap-wed
-cheap-wholesale
+cheap-wholes
 cheap-youth
 cheap+
 cheap<
@@ -6182,7 +6205,7 @@ cheapugg
 cheapuk
 cheapwarrior
 cheapweb
-cheapwholesale
+cheapwholes
 cheapyouth
 cheat.co
 cheats for
@@ -6229,14 +6252,14 @@ china low
 china scarf
 china scarve
 china shop
-china wholesale
+china wholes
 china-cheap
 china-dress
 china-low
 china-scarf
 china-scarve
 china-shop
-china-wholesale
+china-wholes
 chinacheap
 chinadress
 chinajorda
@@ -6244,28 +6267,28 @@ chinalow
 chinascarf
 chinascarve
 chinashop
-chinawholesale
+chinawholes
 chinese cheap
 chinese dress
 chinese low
 chinese scarf
 chinese scarve
 chinese shop
-chinese wholesale
+chinese wholes
 chinese-cheap
 chinese-dress
 chinese-low
 chinese-scarf
 chinese-scarve
 chinese-shop
-chinese-wholesale
+chinese-wholes
 chinesecheap
 chinesedress
 chineselow
 chinesescarf
 chinesescarve
 chineseshop
-chinesewholesale
+chinesewholes
 chinska
 chlamydia
 chloe boot
@@ -6722,15 +6745,15 @@ commentyou
 commerce money
 commerce retail
 commerce sale
-commerce wholesale
+commerce wholes
 commerce-money
 commerce-retail
 commerce-sale
-commerce-wholesale
+commerce-wholes
 commercemoney
 commerceretail
 commercesale
-commercewholesale
+commercewholes
 comming from
 comming-from
 community.atom
@@ -6744,6 +6767,7 @@ company-ppc
 companycoach
 compare price
 compare-price
+competitors-google
 component/blog
 comprar
 comprasion
@@ -9097,8 +9121,11 @@ gaoland
 gapscent
 garcinia
 gawab.com
+gay redtube
 gay sex
+gay-redtube
 gay-sex
+gayredtube
 gaysex
 gayusa
 gel virage
@@ -9828,7 +9855,7 @@ handbag out
 handbag sale
 handbag store
 handbag uk
-handbag wholesale
+handbag wholes
 handbag wom
 handbag-distrib
 handbag-for
@@ -9836,7 +9863,7 @@ handbag-louis
 handbag-out
 handbag-sale
 handbag-store
-handbag-wholesale
+handbag-wholes
 handbag-wom
 handbag+
 handbagdistrib
@@ -9848,14 +9875,14 @@ handbags louis
 handbags out
 handbags store
 handbags uk
-handbags wholesale
+handbags wholes
 handbags wom
 handbags-distrib
 handbags-for
 handbags-louis
 handbags-out
 handbags-store
-handbags-wholesale
+handbags-wholes
 handbags-wom
 handbags+
 handbagsale
@@ -9867,10 +9894,10 @@ handbagssale
 handbagsstore
 handbagstore
 handbagsu
-handbagswholesale
+handbagswholes
 handbagswom
 handbagu
-handbagwholesale
+handbagwholes
 handbagwom
 handsome gold
 handsome-gold
@@ -10501,11 +10528,13 @@ im grateful
 im happy
 im not
 im please
+im very
 im wonder
 im-grateful
 im-happy
 im-not
 im-please
+im-very
 im-wonder
 image-old
 image/?
@@ -11172,7 +11201,7 @@ jersey from
 jersey nike
 jersey paypal
 jersey soccer
-jersey wholesale
+jersey wholes
 jersey-1
 jersey-2
 jersey-3
@@ -11185,7 +11214,7 @@ jersey-nike
 jersey-paypal
 jersey-pro
 jersey-soccer
-jersey-wholesale
+jersey-wholes
 jersey.asp
 jersey.cfm
 jersey.htm
@@ -11213,7 +11242,7 @@ jerseys from
 jerseys nike
 jerseys paypal
 jerseys soccer
-jerseys wholesale
+jerseys wholes
 jerseys-1
 jerseys-2
 jerseys-3
@@ -11226,7 +11255,7 @@ jerseys-from
 jerseys-nike
 jerseys-paypal
 jerseys-soccer
-jerseys-wholesale
+jerseys-wholes
 jerseys.us
 jerseys+
 jerseys1
@@ -11239,10 +11268,10 @@ jerseysfree
 jerseysfrom
 jerseysnike
 jerseysusa
-jerseyswholesale
+jerseyswholes
 jerseyusa
 jerseywhite
-jerseywholesale
+jerseywholes
 jewelery
 jeweline.
 jewellery.bl
@@ -11470,7 +11499,10 @@ kinopozitiv
 kinoprog
 kinowinterthur
 kitai
+kitchen porn
+kitchen-porn
 kitchen-worktop
+kitchenporn
 kitchenworktop
 kjole salg
 kjole tilbud
@@ -11516,6 +11548,7 @@ knockoff-eyewear
 knockoff-hand
 knockoffhand
 knolckoff
+know-web
 knowledgeable individual
 knowledgeable-individual
 known blog
@@ -14493,6 +14526,8 @@ org/log
 org/rest
 organic hemp
 organic-hemp
+organizovana zlo
+organizovana-zlo
 organogold
 orgazma
 orghttp
@@ -14647,6 +14682,7 @@ outplacement compan
 outplacement-compan
 outplacementcompan
 outplacements
+outrank-competitor
 outsourcing compan
 outsourcing-compan
 outsourcingcompan
@@ -15590,6 +15626,10 @@ project-hemp
 projecthemp
 prokey
 prokeyshop
+prokuror chi
+prokuror či
+prokuror-chi
+prokuror-či
 prom-dress
 promo art
 promo artist
@@ -17717,13 +17757,13 @@ store gucci
 store online
 store out
 store penis
-store wholesale
+store wholes
 store-gucci
 store-online
 store-out
 store-penis
 store-service
-store-wholesale
+store-wholes
 store.bl
 store.htm
 store.org
@@ -18255,6 +18295,7 @@ thhis
 thing way
 thing-way
 things-consume
+things-know
 things-we-love
 thingway
 this gucci
@@ -18413,9 +18454,9 @@ times(with
 timesamsonss
 timeshare
 tingenieur
-tinnitus tinnitus
-tinnitus-tinnitus
-tinnitustinnitus
+tinnitus tin
+tinnitus-tin
+tinnitustin
 tinytowtimmy.co
 tipblog
 tips-for-
@@ -18424,13 +18465,13 @@ tips.info
 tipsblog
 tipsof
 tire-disc
-tire-wholesale
+tire-wholes
 tiredisc
 tires-disc
-tires-wholesale
+tires-wholes
 tiresdisc
-tireswholesale
-tirewholesale
+tireswholes
+tirewholes
 tit-pad
 titans merch
 titans-merch
@@ -18616,7 +18657,9 @@ truly-suppose
 truly-very
 truthabout
 try-these
+tube-zzz
 tubee.tv
+tubezzz
 tucholskie
 tumi ducati
 tumi tumi
@@ -19469,7 +19512,7 @@ vuitton sold
 vuitton speed
 vuitton taschen
 vuitton wallet
-vuitton wholesale
+vuitton wholes
 vuitton women
 vuitton-bag
 vuitton-black
@@ -19491,7 +19534,7 @@ vuitton-speed
 vuitton-uk
 vuitton-usa
 vuitton-wallet
-vuitton-wholesale
+vuitton-wholes
 vuitton-women
 vuitton+
 vuitton<
@@ -19513,7 +19556,7 @@ vuittonspeed
 vuittonuk
 vuittonusa
 vuittonwallet
-vuittonwholesale
+vuittonwholes
 vv free
 vv-free
 vvfree
@@ -20674,6 +20717,8 @@ zyvox
 заказ
 заработ
 зарегистрировать
+змусила на
+змусила-на
 знакомства
 значительный сайт
 значительный-сайт
@@ -20704,6 +20749,8 @@ zyvox
 компании
 компьютер
 консультаци
+контрабандного това
+контрабандного-това
 кредит
 куп диплом
 куп свидетел
