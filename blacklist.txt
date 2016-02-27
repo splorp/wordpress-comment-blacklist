@@ -399,6 +399,9 @@ _zapat
 -boner/
 -boners-
 -boners/
+-boobs-
+-boobs.
+-boobs/
 -breathalyzer-
 -broker.
 -broker/
@@ -895,6 +898,12 @@ _zapat
 -the-greatest-
 -thunderstick-
 -tips/
+-tits-
+-tits.
+-tits/
+-titties-
+-titties.
+-titties/
 -top-info
 -tours.co
 -traffic.
@@ -1660,6 +1669,9 @@ _zapat
 /boner.
 /boners-
 /boners.
+/boobs-
+/boobs.
+/boobs/
 /bookmark-
 /bookmark.
 /bookmarked-
@@ -2480,6 +2492,12 @@ _zapat
 /tinyls.net
 /tinyurl.co
 /title,
+/tits-
+/tits.
+/tits/
+/titties-
+/titties.
+/titties/
 /tmp/
 /to.ly
 /toms-
@@ -4738,9 +4756,11 @@ biztalk
 biztout
 biżuteria
 black tight
+black tits
 black ugg
 black-friday
 black-tight
+black-tits
 black-ugg
 black-www
 blackfriday
@@ -4750,6 +4770,7 @@ blackjack-pit
 blackjackpit
 blacklabelj
 blacktight
+blacktits
 blackugg
 blahnik out
 blahnik replica
@@ -4781,6 +4802,7 @@ blog glance
 blog here
 blog layout
 blog link
+blog loading
 blog look
 blog occasion
 blog platform
@@ -4802,6 +4824,7 @@ blog-glance
 blog-here
 blog-layout
 blog-link
+blog-loading
 blog-look
 blog-occasion
 blog-platform
@@ -4840,6 +4863,7 @@ bloghome
 blogid
 bloglayout
 bloglink
+blogloading
 bloglook
 blogów
 blogplatform
@@ -7710,14 +7734,17 @@ elementary-entry
 elite jers
 elite men
 elite model
+elite sample
 elite wom
 elite-jers
 elite-men
 elite-model
+elite-sample
 elite-wom
 elitejers
 elitemen
 elitemodel
+elitesample
 elitewom
 eloans
 elsa-dress
@@ -9581,6 +9608,9 @@ goyard-online
 goyardbag
 goyardonline
 graduand
+granny porn
+granny-porn
+grannyporn
 gratis sex
 gratis_
 gratis-sex
@@ -15290,8 +15320,10 @@ popular brand
 popular-brand
 popularna
 popularną markę
+porn beer
 porn big
 porn comic
+porn galler
 porn girl
 porn gratuit
 porn hub
@@ -15305,15 +15337,19 @@ porn tube
 porn vid
 porn_
 porn-
+porn-beer
 porn-big
+porn-galler
 porn-girl
 porn-hub
 porn-mobile
 porn-photo
 porn.
 porn@
+pornbeer
 pornbig
 porncomic
+porngaller
 porngirl
 porngratuit
 pornhub
