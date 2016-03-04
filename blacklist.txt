@@ -1475,6 +1475,7 @@ _zapat
 //website
 //webstore
 //wp-
+//xxx
 /0.asp
 /00.asp
 /0.cfm
@@ -4571,6 +4572,7 @@ best suppl
 best tummy
 best website
 best wordpress
+best xxx
 best-cartier
 best-cyber
 best-diet
@@ -4590,6 +4592,7 @@ best-tummy
 best-way-to
 best-website
 best-wordpress
+best-xxx
 best4
 bestad.
 bestads.
@@ -4613,6 +4616,7 @@ bestshop
 bestsuppl
 besttummy
 bestwebsite
+bestxxx
 betes0
 betes1
 betes2
@@ -7212,6 +7216,8 @@ deficitfight
 definate
 definitelly
 dehttp
+dekorativno prikladno
+dekorativno-prikladno
 delete_
 deliver result
 deliver-result
@@ -13254,9 +13260,12 @@ mobi/news
 mobilabonnementer
 mobile porn
 mobile sim
+mobile xxx
 mobile-phone
 mobile-porn
+mobile-xxx
 mobileporn
+mobilexxx
 mobistealth
 moczanowa
 modafinil
@@ -20330,6 +20339,7 @@ www.torrent
 www.unlock
 www.videos
 www.wtf
+www.www.
 www.xx
 www.ysl
 www.zapata
@@ -20382,17 +20392,26 @@ xx.pl
 xx.ro
 xx.ru
 xx.za
+xxx best
+xxx free
 xxx group
+xxx mobile
 xxx party
 xxx sex
 xxx video
 xxx_
+xxx-best
+xxx-free
 xxx-group
+xxx-mobile
 xxx-party
 xxx-sex
 xxx-video
 xxx.
+xxxbest
+xxxfree
 xxxgroup
+xxxmobile
 xxxparty
 xxxsex
 xxxvideo
@@ -20794,6 +20813,8 @@ zyvox
 головные устройс
 головные-устройс
 грузоперевозки
+декоративно прикладно
+декоративно-прикладно
 денег
 дешево
 домены
@@ -20972,6 +20993,10 @@ zyvox
 ссылка
 статей
 статья
+стили деко
+стили проспект
+стили-деко
+стили-проспект
 стилист проспект
 стилист-проспект
 стоимость
