@@ -8987,8 +8987,12 @@ friday 2013
 friday 2014
 friday 2015
 friday michael
+friday mlb
 friday moncler
 friday mulberry
+friday nba
+friday nfl
+friday nhl
 friday sale
 friday ugg
 friday watch
@@ -8996,15 +9000,23 @@ friday-2013
 friday-2014
 friday-2015
 friday-michael
+friday-mlb
 friday-moncler
 friday-mulberry
+friday-nba
+friday-nfl
+friday-nhl
 friday-sale
 friday-ugg
 friday-watch
 friday2013
 friday2014
 friday2015
+fridaymlb
 fridaymoncler
+fridaynba
+fridaynfl
+fridaynhl
 fridaysale
 fridayugg
 frlongchamp
@@ -13327,15 +13339,18 @@ mking-sure
 mkout
 mlb cap
 mlb mlb
+mlb shop
 mlb_
 mlb-cap
 mlb-mlb
+mlb-shop
 mlb.asp
 mlb.cfm
 mlb.htm
 mlb.php
 mlbcap
 mlbmlb
+mlbshop
 mlm business
 mlm lead
 mlm-business
@@ -13901,6 +13916,7 @@ nba cappelli
 nba houston
 nba jers
 nba nba
+nba shop
 nba utah
 nba_
 nba-cappelli
@@ -13908,6 +13924,7 @@ nba-houston
 nba-jers
 nba-men
 nba-nba
+nba-shop
 nba-sko
 nba-utah
 nba.asp
@@ -13918,6 +13935,7 @@ nbahouston
 nbajers
 nbamen
 nbanba
+nbashop
 nbasko
 nbautah
 nbshoe
@@ -14068,6 +14086,7 @@ nfr.php
 nhl jers
 nhl nhl
 nhl replica
+nhl shop
 nhl_
 nhl-jers
 nhl-nhl
@@ -16013,8 +16032,10 @@ qquality
 qry_
 qtrade
 quality article
+quality content
 quality post
 quality-article
+quality-content
 quality-post
 quanto cost
 quanto-cost
@@ -17386,6 +17407,7 @@ shoesus
 shoeuk
 shoot-tequila
 shop boot
+shop coupon
 shop erotic
 shop jap
 shop jp
@@ -17395,6 +17417,7 @@ shop thai
 shop_
 shop-afl
 shop-boot
+shop-coupon
 shop-erotic
 shop-jap
 shop-jp
@@ -17408,6 +17431,7 @@ shop-thai
 shop-to-you
 shop.asia
 shopboot
+shopcoupon
 shopent.ru
 shoperotic
 shopg2bag
