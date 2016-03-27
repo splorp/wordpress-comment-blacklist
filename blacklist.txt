@@ -1163,6 +1163,8 @@ _zapat
 .internet-
 .it/?it
 .it/t/
+.jsp?
+.jsp/?
 .kr/kr/
 .longchamp-
 .louboutin-
@@ -1484,6 +1486,8 @@ _zapat
 /00.cfm
 /0.htm
 /00.htm
+/0.jsp
+/00.jsp
 /0.php
 /00.php
 /01.asp
@@ -1492,6 +1496,8 @@ _zapat
 /1.cfm
 /01.htm
 /1.htm
+/01.jsp
+/1.jsp
 /01.php
 /1.php
 /02.asp
@@ -1500,6 +1506,8 @@ _zapat
 /2.cfm
 /02.htm
 /2.htm
+/02.jsp
+/2.jsp
 /02.php
 /2.php
 /2ipe.tk
@@ -1510,6 +1518,8 @@ _zapat
 /3.cfm
 /03.htm
 /3.htm
+/03.jsp
+/3.jsp
 /03.php
 /3.php
 /4-u-
@@ -1520,6 +1530,8 @@ _zapat
 /4.cfm
 /04.htm
 /4.htm
+/04.jsp
+/4.jsp
 /04.php
 /4.php
 /4ft.me
@@ -1531,31 +1543,39 @@ _zapat
 /5.cfm
 /05.htm
 /5.htm
+/05.jsp
+/5.jsp
 /05.php
 /5.php
 /10.asp
 /10.cfm
 /10.htm
+/10.jsp
 /10.php
 /11.asp
 /11.cfm
 /11.htm
+/11.jsp
 /11.php
 /12.asp
 /12.cfm
 /12.htm
+/12.jsp
 /12.php
 /13.asp
 /13.cfm
 /13.htm
+/13.jsp
 /13.php
 /14.asp
 /14.cfm
 /14.htm
+/14.jsp
 /14.php
 /15.asp
 /15.cfm
 /15.htm
+/15.jsp
 /15.php
 /100-200.
 /100-300.
@@ -2023,6 +2043,7 @@ _zapat
 /index-5
 /index.asp/
 /index.aspx/
+/index.cfm/
 /index.htm/
 /index.jsp/
 /index.php/
@@ -2704,6 +2725,11 @@ _zapat
 ‡a
 ‡o
 +.-
++.asp
++.cfm
++.htm
++.jsp
++.php
 +abercrom
 +account
 +adidas
@@ -3165,6 +3191,7 @@ _zapat
 404.asp
 404.cfm
 404.htm
+404.jsp
 404.php
 911.co
 911.in
@@ -3253,6 +3280,8 @@ a0.cfm
 a00.cfm
 a0.htm
 a00.htm
+a0.jsp
+a00.jsp
 a0.php
 a00.php
 a01.asp
@@ -3262,6 +3291,8 @@ a1.cfm
 a1.co
 a01.htm
 a1.htm
+a01.jsp
+a1.jsp
 a01.php
 a1.php
 a02.asp
@@ -3270,6 +3301,8 @@ a02.cfm
 a2.cfm
 a02.htm
 a2.htm
+a02.jsp
+a2.jsp
 a02.php
 a2.php
 a03.asp
@@ -3278,6 +3311,8 @@ a03.cfm
 a3.cfm
 a03.htm
 a3.htm
+a03.jsp
+a3.jsp
 a03.php
 a3.php
 a04.asp
@@ -3286,6 +3321,8 @@ a04.cfm
 a4.cfm
 a04.htm
 a4.htm
+a04.jsp
+a4.jsp
 a04.php
 a4.php
 a05.asp
@@ -3294,6 +3331,8 @@ a05.cfm
 a5.cfm
 a05.htm
 a5.htm
+a05.jsp
+a5.jsp
 a05.php
 a5.php
 a06.asp
@@ -3302,6 +3341,8 @@ a06.cfm
 a6.cfm
 a06.htm
 a6.htm
+a06.jsp
+a6.jsp
 a06.php
 a6.php
 a07.asp
@@ -3310,6 +3351,8 @@ a07.cfm
 a7.cfm
 a07.htm
 a7.htm
+a07.jsp
+a7.jsp
 a07.php
 a7.php
 a08.asp
@@ -3318,6 +3361,8 @@ a08.cfm
 a8.cfm
 a08.htm
 a8.htm
+a08.jsp
+a8.jsp
 a08.php
 a8.php
 a09.asp
@@ -3326,6 +3371,8 @@ a09.cfm
 a9.cfm
 a09.htm
 a9.htm
+a09.jsp
+a9.jsp
 a09.php
 a9.php
 ã¤
@@ -3524,6 +3571,7 @@ adlive
 admin.asp
 admin.cfm
 admin.htm
+admin.jsp
 admin.php
 admin5
 ados populaire
@@ -3563,6 +3611,7 @@ advanced hemp
 advanced-hemp
 advantages_
 advantages-of
+advantages+of
 advert market
 advert research
 advert-market
@@ -3580,6 +3629,9 @@ adwings
 adwokacka
 adwokat
 adwords
+aff.asp
+aff.cfm
+aff.htm
 aff.php
 affiliate click
 affiliate link
@@ -3625,6 +3677,7 @@ afl-shop
 afl.asp
 afl.cfm
 afl.htm
+afl.jsp
 afl.php
 afljers
 aflofficial
@@ -3718,6 +3771,7 @@ amazon.asp
 amazon.cfm
 amazon.cm
 amazon.htm
+amazon.jsp
 amazon.php
 ambalaje plastic
 ambalaje-plastic
@@ -3807,6 +3861,10 @@ aperfect
 apex bionic
 apex-bionic
 apexbionic
+app.asp
+app.cfm
+app.htm
+app.jsp
 app.lk
 app.php
 apple-unlock
@@ -3870,8 +3928,12 @@ article-sub
 article-tag
 article,i
 article!
+article.asp
+article.cfm
 article.co
+article.htm
 article.in
+article.jsp
 article.many
 article.much
 article.net
@@ -3909,8 +3971,11 @@ articles-sub
 articles-tag
 articles,i
 articles!
+articles.asp
+articles.cfm
 articles.co
 articles.in
+articles.jsp
 articles.net
 articles.org
 articles.php
@@ -4131,6 +4196,8 @@ b0.cfm
 b00.cfm
 b0.htm
 b00.htm
+b0.jsp
+b00.jsp
 b0.php
 b00.php
 b01.asp
@@ -4139,6 +4206,8 @@ b01.cfm
 b1.cfm
 b01.htm
 b1.htm
+b01.jsp
+b1.jsp
 b01.php
 b1.php
 b02.asp
@@ -4147,6 +4216,8 @@ b02.cfm
 b2.cfm
 b02.htm
 b2.htm
+b02.jsp
+b2.jsp
 b02.php
 b2.php
 b03.asp
@@ -4155,6 +4226,8 @@ b03.cfm
 b3.cfm
 b03.htm
 b3.htm
+b03.jsp
+b3.jsp
 b03.php
 b3.php
 b04.asp
@@ -4163,6 +4236,8 @@ b04.cfm
 b4.cfm
 b04.htm
 b4.htm
+b04.jsp
+b4.jsp
 b04.php
 b4.php
 b05.asp
@@ -4171,6 +4246,8 @@ b05.cfm
 b5.cfm
 b05.htm
 b5.htm
+b05.jsp
+b5.jsp
 b05.php
 b5.php
 b06.asp
@@ -4179,6 +4256,8 @@ b06.cfm
 b6.cfm
 b06.htm
 b6.htm
+b06.jsp
+b6.jsp
 b06.php
 b6.php
 b07.asp
@@ -4187,6 +4266,8 @@ b07.cfm
 b7.cfm
 b07.htm
 b7.htm
+b07.jsp
+b7.jsp
 b07.php
 b7.php
 b08.asp
@@ -4195,6 +4276,8 @@ b08.cfm
 b8.cfm
 b08.htm
 b8.htm
+b08.jsp
+b8.jsp
 b08.php
 b8.php
 b09.asp
@@ -4203,6 +4286,8 @@ b09.cfm
 b9.cfm
 b09.htm
 b9.htm
+b09.jsp
+b9.jsp
 b09.php
 b9.php
 babycanread
@@ -4229,6 +4314,7 @@ bag-out
 bag.asp
 bag.cfm
 bag.htm
+bag.jsp
 bag.php
 bagcartier
 bagcheap
@@ -5780,20 +5866,24 @@ casub.co
 catalog.asp
 catalog.cfm
 catalog.htm
+catalog.jsp
 catalog.php
 catalog/preview
 catalogo/preview
 catalogs.asp
 catalogs.cfm
 catalogs.htm
+catalogs.jsp
 catalogs.php
 catalogue.asp
 catalogue.cfm
 catalogue.htm
+catalogue.jsp
 catalogue.php
 catalogues.asp
 catalogues.cfm
 catalogues.htm
+catalogues.jsp
 catalogues.php
 cavin-klein
 cavinklein
@@ -6776,15 +6866,55 @@ com/vuitton
 com/www
 com/ysl
 com%2c
+com0.asp
+com0.cfm
+com0.htm
+com0.jsp
 com0.php
+com1.asp
+com1.cfm
+com1.htm
+com1.jsp
 com1.php
+com2.asp
+com2.cfm
+com2.htm
+com2.jsp
 com2.php
+com3.asp
+com3.cfm
+com3.htm
+com3.jsp
 com3.php
+com4.asp
+com4.cfm
+com4.htm
+com4.jsp
 com4.php
+com5.asp
+com5.cfm
+com5.htm
+com5.jsp
 com5.php
+com6.asp
+com6.cfm
+com6.htm
+com6.jsp
 com6.php
+com7.asp
+com7.cfm
+com7.htm
+com7.jsp
 com7.php
+com8.asp
+com8.cfm
+com8.htm
+com8.jsp
 com8.php
+com9.asp
+com9.cfm
+com9.htm
+com9.jsp
 com9.php
 comdip
 comedyee
@@ -7389,6 +7519,7 @@ diet.asp
 diet.cfm
 diet.co
 diet.htm
+diet.jsp
 diet.php
 dietpill
 dietplan
@@ -7799,6 +7930,7 @@ email-vip
 email.asp
 email.cfm
 email.htm
+email.jsp
 email.php
 email.tst
 emails sometime
@@ -8464,6 +8596,7 @@ feature-christs
 feature.asp
 feature.cfm
 feature.htm
+feature.jsp
 feature.php
 features christ's
 features christ’s
@@ -8472,6 +8605,7 @@ features-christs
 features.asp
 features.cfm
 features.htm
+features.jsp
 features.php
 featuring christ's
 featuring christ’s
@@ -8657,6 +8791,10 @@ firm.in
 firm.pl
 firm.ru
 firm.za
+firma.asp
+firma.cfm
+firma.htm
+firma.jsp
 firma.php
 first-class web
 first-class-web
@@ -8812,7 +8950,9 @@ forum coach
 forum-coach
 forum?func
 forum.asp
+forum.cfm
 forum.htm
+forum.jsp
 forum.php
 forum.really
 forum.thank
@@ -8826,7 +8966,9 @@ forum/user
 forumcoach
 forums?func
 forums.asp
+forums.cfm
 forums.htm
+forums.jsp
 forums.php
 forums.really
 forums.thank
@@ -9070,6 +9212,10 @@ ful-malware
 fulmalware
 fun-sneak
 fun-with-window
+func.asp
+func.cfm
+func.htm
+func.jsp
 func.php
 fund market
 fund trend
@@ -9648,6 +9794,7 @@ goose-youth
 goose.asp
 goose.cfm
 goose.htm
+goose.jsp
 goose.php
 goose<
 gooseca
@@ -10170,6 +10317,7 @@ help-tax
 help.asp
 help.cfm
 help.htm
+help.jsp
 help.php
 helpcry
 helpessay
@@ -10551,6 +10699,7 @@ hot-tech
 hot.asp
 hot.cfm
 hot.htm
+hot.jsp
 hot.php
 hotburberry
 hotel deal
@@ -10825,6 +10974,7 @@ informacyjne
 informasjon.asp
 informasjon.cfm
 informasjon.htm
+informasjon.jsp
 informasjon.php
 informatica-libri
 informaticalibri
@@ -10832,6 +10982,7 @@ informatik
 information.asp
 information.cfm
 information.htm
+information.jsp
 information.php
 informatique enligne
 informatique-enligne
@@ -10897,6 +11048,10 @@ insanity journal
 insanity workout
 insanity-journal
 insanity-workout
+insanity.asp
+insanity.cfm
+insanity.htm
+insanity.jsp
 insanity.php
 insanityjournal
 insanityworkout
@@ -11073,6 +11228,7 @@ iphone-suppl
 iphone.asp
 iphone.cfm
 iphone.htm
+iphone.jsp
 iphone.php
 iphone/iphone
 iphone+
@@ -11172,6 +11328,7 @@ italystore
 item.asp
 item.cfm
 item.htm
+item.jsp
 item.php
 itemnotfound
 itoakley
@@ -11379,6 +11536,7 @@ jersey-wholes
 jersey.asp
 jersey.cfm
 jersey.htm
+jersey.jsp
 jersey.php
 jersey.us
 jersey+
@@ -11982,7 +12140,9 @@ leaked1
 learn face
 learn help
 learn-face
+learn-health
 learn-help
+learn+health
 learnface
 learnhelp
 learningxchange
@@ -12086,14 +12246,17 @@ liabaleles
 libraries.asp
 libraries.cfm
 libraries.htm
+libraries.jsp
 libraries.php
 library.asp
 library.cfm
 library.htm
+library.jsp
 library.php
 librarys.asp
 librarys.cfm
 librarys.htm
+librarys.jsp
 librarys.php
 librium
 licenzija
@@ -12253,6 +12416,10 @@ log/?
 logcabins
 login widget
 login-widget
+login.asp
+login.cfm
+login.htm
+login.jsp
 login.php
 loginwidget
 logotipo hollis
@@ -12317,6 +12484,10 @@ longchamp-tote
 longchamp-tourne
 longchamp-uk
 longchamp-yama
+longchamp.asp
+longchamp.cfm
+longchamp.htm
+longchamp.jsp
 longchamp.php
 longchamp2013
 longchamp2014
@@ -12652,6 +12823,7 @@ main-longchamp
 main.asp
 main.cfm
 main.htm
+main.jsp
 main.php
 main/main
 mainlongchamp
@@ -13086,11 +13258,23 @@ meizitang
 melatonin
 meloxicam
 member_
+member.asp
+member.cfm
+member.htm
+member.jsp
 member.php
+memberlist.asp
+memberlist.cfm
+memberlist.htm
+memberlist.jsp
 memberlist.php
 members_
 membership hack
 membership-hack
+membership.asp
+membership.cfm
+membership.htm
+membership.jsp
 membership.php
 membershiphack
 men barbour
@@ -13347,6 +13531,7 @@ mlb-shop
 mlb.asp
 mlb.cfm
 mlb.htm
+mlb.jsp
 mlb.php
 mlbcap
 mlbmlb
@@ -13380,6 +13565,10 @@ models.in
 modelsoffrance
 moderowany
 moduleinstance
+modules.asp
+modules.cfm
+modules.htm
+modules.jsp
 modules.php
 moldremov
 moncle site
@@ -13504,6 +13693,7 @@ moncler.arkis
 moncler.asp
 moncler.cfm
 moncler.htm
+moncler.jsp
 moncler.php
 moncler2013
 moncler2014
@@ -13590,6 +13780,7 @@ money-with
 money.asp
 money.cfm
 money.htm
+money.jsp
 money.php
 moneybuzz
 moneyfast
@@ -13696,6 +13887,7 @@ morre-about
 mortgage.asp
 mortgage.cfm
 mortgage.htm
+mortgage.jsp
 mortgage.php
 mortgagecalc
 moscow model
@@ -13930,6 +14122,7 @@ nba-utah
 nba.asp
 nba.cfm
 nba.htm
+nba.jsp
 nba.php
 nbahouston
 nbajers
@@ -14072,6 +14265,7 @@ nfl-shop
 nfl.asp
 nfl.cfm
 nfl.htm
+nfl.jsp
 nfl.php
 nfl+
 nfljers
@@ -14082,6 +14276,7 @@ nflshop
 nfr.asp
 nfr.cfm
 nfr.htm
+nfr.jsp
 nfr.php
 nhl jers
 nhl nhl
@@ -14095,6 +14290,7 @@ nhl-shop
 nhl.asp
 nhl.cfm
 nhl.htm
+nhl.jsp
 nhl.php
 nhljers
 nhlnhl
@@ -14321,6 +14517,7 @@ nude-vid
 nude.asp
 nude.cfm
 nude.htm
+nude.jsp
 nude.php
 nudeass
 nudegirl
@@ -14634,6 +14831,7 @@ online.com
 online.de
 online.htm
 online.in
+online.jsp
 online.php
 online.web
 onlinebackup
@@ -14682,6 +14880,7 @@ onsale.asp
 onsale.cfm
 onsale.co
 onsale.htm
+onsale.jsp
 onsale.php
 onsales.co
 ontheir
@@ -15722,11 +15921,17 @@ prepaidcredit
 preparation wise
 preparation-wise
 preparationwise
+prescript.asp
+prescript.cfm
+prescript.htm
+prescript.jsp
+prescript.php
 prescription acne
 prescription-acne
 prescription.asp
 prescription.cfm
 prescription.htm
+prescription.jsp
 prescription.php
 prescriptionacne
 presentation subsequent
@@ -16451,6 +16656,10 @@ replique-homme
 repliquechanel
 repliquefemme
 repliquehomme
+reports.asp
+reports.cfm
+reports.htm
+reports.jsp
 reports.php
 resist comment
 resist-comment
@@ -16484,6 +16693,7 @@ review.bl
 review.cfm
 review.htm
 review.in
+review.jsp
 review.php
 reviewbest
 reviewon
@@ -16495,6 +16705,7 @@ reviews.bl
 reviews.cfm
 reviews.htm
 reviews.in
+reviews.jsp
 reviews.net
 reviews.org
 reviews.php
@@ -16584,6 +16795,7 @@ rpgonline
 rss.asp
 rss.cfm
 rss.htm
+rss.jsp
 rss.php
 rug fur
 rug-fur
@@ -16814,6 +17026,7 @@ salomon-run
 salomon.asp
 salomon.cfm
 salomon.htm
+salomon.jsp
 salomon.php
 salomonathletic
 salomoncanada
@@ -16847,6 +17060,7 @@ scam.asp
 scam.cfm
 scam.htm
 scam.in
+scam.jsp
 scam.net
 scam.org
 scam.php
@@ -17177,6 +17391,7 @@ sex-xxx
 sex.asp
 sex.cfm
 sex.htm
+sex.jsp
 sex.php
 sexadvice
 sexblog
@@ -17220,6 +17435,7 @@ sexy.asp
 sexy.cfm
 sexy.co
 sexy.htm
+sexy.jsp
 sexy.php
 sexyfantas
 sexygirl
@@ -17339,6 +17555,7 @@ shoe-uk
 shoe.asp
 shoe.cfm
 shoe.htm
+shoe.jsp
 shoe.mobi
 shoe.name
 shoe.php
@@ -17549,6 +17766,7 @@ sinequan
 singapore.asp
 singapore.cfm
 singapore.htm
+singapore.jsp
 singapore.php
 sistershit
 site asian
@@ -17890,6 +18108,10 @@ spilivanie derev'yev
 spilivanie derev’yev
 spilivanie derevev
 spilivanie-derevev
+spip.asp
+spip.cfm
+spip.htm
+spip.jsp
 spip.php
 splendid depart
 splendid tiffany
@@ -18571,6 +18793,7 @@ thjng
 thm.asp
 thm.cfm
 thm.htm
+thm.jsp
 thm.php
 thnnik
 thnx u
@@ -18597,6 +18820,7 @@ thumb.gif
 thumb.htm
 thumb.jpeg
 thumb.jpg
+thumb.jsp
 thumb.php
 thumb.png
 thumbs.asp
@@ -18605,6 +18829,7 @@ thumbs.gif
 thumbs.htm
 thumbs.jpeg
 thumbs.jpg
+thumbs.jsp
 thumbs.php
 thumbs.png
 thus where
@@ -18948,6 +19173,7 @@ turystyka
 tutorial.asp
 tutorial.cfm
 tutorial.htm
+tutorial.jsp
 tutorial.php
 tutoringand
 tvturn
@@ -19090,6 +19316,7 @@ ugg-wom
 ugg.asp
 ugg.cfm
 ugg.htm
+ugg.jsp
 ugg.php
 ugg+
 ugg=
@@ -19618,6 +19845,7 @@ video-xxx
 video.asp
 video.cfm
 video.htm
+video.jsp
 video.php
 videochat
 videogamedesign
@@ -19627,6 +19855,7 @@ videopop
 videos.asp
 videos.cfm
 videos.htm
+videos.jsp
 videos.php
 videosport
 videotube
@@ -20227,6 +20456,10 @@ wiki/%
 wiki/index
 wiki/u%
 wiki/user
+wikka.asp
+wikka.cfm
+wikka.htm
+wikka.jsp
 wikka.php
 wild-star
 will hemp
@@ -20834,6 +21067,10 @@ zapatosjorda
 zapraszam
 zarabotk
 zawieszki
+zboard.asp
+zboard.cfm
+zboard.htm
+zboard.jsp
 zboard.php
 zcode
 zdrowie
