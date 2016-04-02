@@ -919,6 +919,12 @@ _zapat
 -uggs/
 -uk.net
 -vaginal-
+-valkiriarf-
+-valkiriarf.
+-valkiriarf/
+-vasion-
+-vasion.
+-vasion/
 -vendita-
 -vuitton-
 -want-it
@@ -2570,8 +2576,12 @@ _zapat
 /userprofiles/
 /userupload/
 /useruploads/
+/valkiriarf-
+/valkiriarf.
+/valkiriarf/
 /vasion-
 /vasion.
+/vasion/
 /vb/
 /viewstory
 /visit.
@@ -3822,6 +3832,8 @@ anellicartier
 anellioro
 aneswr
 angebote
+anilinovyye kraski
+anilinovyye-kraski
 animalbased
 ankle bootie
 ankle-bootie
@@ -21206,6 +21218,8 @@ zyvox
 алкогольные
 альтернатива
 андроид
+анилиновые краси
+анилиновые-краси
 аренды авто
 аренды-авто
 байкал озеро
