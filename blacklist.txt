@@ -4095,13 +4095,19 @@ auspicious-repl
 auspicious-writ
 australia boot
 australia clearance
+australia jersey
 australia out
 australia-boot
 australia-clearance
+australia-jersey
 australiaboot
 australiaclearance
+australian poker
 australian pokie
+australian slot
+australian-poker
 australian-pokie
+australian-slot
 austria asics
 austria-asics
 austriaasics
@@ -5334,6 +5340,8 @@ broncoshat
 broncosjers
 broncosofficial
 brothershit
+browns jersey
+browns-jersey
 brrip
 brugte mulberry
 brugte-mulberry
@@ -6593,6 +6601,8 @@ clearclarif
 clearclear
 clenbuterol
 clentching
+cleveland jersey
+cleveland-jersey
 click affiliate
 click compan
 click here
@@ -7231,10 +7241,12 @@ currencytrad
 curry jersey
 curry-jersey
 curryjersey
+custom jersey
 custom nike
 custom rim
 custom wheel
 custom-control
+custom-jersey
 custom-nike
 custom-rim
 custom-wheel
@@ -11020,6 +11032,7 @@ infos/
 infusionsoft
 ing puter
 ing-puter
+ing/bak/
 ingputer
 ington boot
 ington-boot
@@ -14883,8 +14896,10 @@ onlineshop
 onlinestore
 onlinezapatilla
 onlpy
+only poker
 only pokie
 only-deal
+only-poker
 only-pokie
 onlyway
 onsale-
@@ -15647,17 +15662,23 @@ pointsgenerat
 poished
 pojap
 poker chip
+poker machine
 poker money
+poker online
 poker strateg
 poker without
 poker_
 poker-chip
+poker-machine
 poker-money
+poker-online
 poker-strateg
 poker-without
 pokera
 pokerchip
+pokermachine
 pokermoney
+pokeronline
 pokerstrateg
 pokie machine
 pokie online
@@ -18735,23 +18756,15 @@ thatover
 thatprofit
 thatrapid
 thatthe
-the -notify
+the notify
 the pokie
-the refire
-the the
-the threading
 the_best
 the-benefits-of
 the-best-treatment
-the-diet
 the-hypothyroid
 the-latest-
-the-most-common
-the-most-detail
+the-notify
 the-pokie
-the-refire
-the-right-way
-the-threading
 theattempt
 theaverage
 thebest
@@ -19846,11 +19859,21 @@ videncia-vidente
 videnciacharme
 videnciagratis
 videnciavidente
+video magnif
+video poker
+video pokie
+video pop
+video porn
+video sex
 video sport
 video tube
 video xxx
 video-magnif
+video-poker
 video-pokie
+video-pop
+video-porn
+video-sex
 video-sport
 video-tube
 video-xxx
@@ -19862,13 +19885,16 @@ video.php
 videochat
 videogamedesign
 videomagnif
+videopoker
 videopokie
 videopop
+videoporn
 videos.asp
 videos.cfm
 videos.htm
 videos.jsp
 videos.php
+videosex
 videosport
 videotube
 videoxxx
