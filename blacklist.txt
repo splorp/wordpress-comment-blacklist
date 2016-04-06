@@ -3487,9 +3487,11 @@ activity/p/
 actonel
 actual celebrity
 actual effort
+actual submit
 actual thank
 actual-celebrity
 actual-effort
+actual-submit
 actual-thank
 actualcelebrity
 actually dont
@@ -4051,6 +4053,8 @@ asphalt8hack
 aspiring blog
 aspiring-blog
 aspnet_client
+ass small
+ass-small
 asset grow
 asset-grow
 assets grow
@@ -8070,6 +8074,8 @@ erettile
 erinvestor
 erjersey.co
 erjersey.net
+erogenous picture
+erogenous-picture
 erolove
 erotic erotic
 erotic love
@@ -9456,8 +9462,16 @@ genuinely fruit
 genuinely-fast
 genuinely-fruit
 genuinepandora
+german jers
+german lesbian
+german-jers
+german-lesbian
+german-love
+germanlove
 germany jers
+germany lesbian
 germany-jers
+germany-lesbian
 germanylove
 gestione
 get $
@@ -12248,6 +12262,13 @@ lenddirect
 lendsomemoney
 lenjerie
 lesben-
+lesbian bdsm
+lesbian school
+lesbian-bdsm
+lesbian-school
+lesbianbdsm
+lesbianschool
+lesbos-
 lesbos.
 lespaulsmith
 less dress
@@ -15555,6 +15576,10 @@ phync
 phytoceramide
 pics-expensive
 pics, expensive
+picture blog
+picture-blog
+pictures blog
+pictures-blog
 pidarashechk
 pignee
 pill cheap
@@ -17761,6 +17786,8 @@ signed-jers
 signifiant
 significant infos
 significant-infos
+significantly post
+significantly-post
 signin widget
 signin_password
 signin-widget
@@ -19695,6 +19722,18 @@ valtrex
 valuable opt-in
 valuable-opt-in
 valuble
+value blog
+value comment
+value page
+value post
+value site
+value web
+value-blog
+value-comment
+value-page
+value-post
+value-site
+value-web
 valueble
 vape cloud
 vape pen
