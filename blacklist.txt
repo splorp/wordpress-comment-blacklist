@@ -3908,6 +3908,9 @@ appro-chait
 appyourself
 apr.i.l
 aquarius-compat
+arab-girl
+arab.girl
+arabgirl
 arcteryx-jap
 arcteryx-jp
 arcteryx-sale
@@ -5912,12 +5915,14 @@ cassinos_
 cassinos-
 câsuâl
 casub.co
+catalog-tabak
 catalog.asp
 catalog.cfm
 catalog.htm
 catalog.jsp
 catalog.php
 catalog/preview
+catalog/tabak
 catalogo/preview
 catalogs.asp
 catalogs.cfm
@@ -10180,7 +10185,9 @@ hack-cydia
 hack-face
 hack-fb
 hack-online
+hack-pass
 hack-tool
+hack-zip
 hack<
 hackasphalt
 hackcydia
@@ -15789,6 +15796,7 @@ porn live
 porn mobile
 porn photo
 porn pic
+porn post
 porn sex
 porn stream
 porn tube
@@ -15802,6 +15810,7 @@ porn-girl
 porn-hub
 porn-mobile
 porn-photo
+porn-post
 porn.
 porn@
 pornbeer
@@ -15843,6 +15852,7 @@ pornotube
 pornovid
 pornphoto
 pornpic
+pornpost
 pornsex
 pornstream
 porntube
@@ -18635,6 +18645,10 @@ t.all
 t.for
 t.the
 t.two
+tabak fumar
+tabak tanzh
+tabak-fumar
+tabak-tanzh
 tabaki
 tabletz
 tadalafil
@@ -19274,6 +19288,7 @@ tvturn
 twenty sunglass
 twenty-sunglass
 twentysunglass
+twitter-hack
 tworzenie
 tʏ
 tе
@@ -21258,6 +21273,7 @@ zinger baseball
 zinger bat
 zinger-baseball
 zinger-bat
+zip-password
 zippo feuerzeuge
 zippo zubehor
 zippo zubehör
@@ -21575,6 +21591,8 @@ zyvox
 супер
 схемы
 съемка
+табак танж
+табак-танж
 такси
 татуаж
 трудоустройства
