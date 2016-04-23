@@ -1057,6 +1057,7 @@ _zapat
 .acgi
 .adboard
 .adsboard
+.adultnet.
 .armani-
 .asp/
 .azmya.
@@ -1346,6 +1347,7 @@ _zapat
 .s.a.k
 .secret-
 .secrets-
+.sexy.
 .sirenos.in
 .smiley
 .sunglasses-
@@ -3631,6 +3633,7 @@ adult toy
 adult-base
 adult-dat
 adult-girl
+adult-net
 adult-sex
 adult-story
 adult-toy
@@ -3657,6 +3660,8 @@ advertising market
 advertising research
 advertising-market
 advertising-research
+advice-adult
+advice.adult
 advok
 adwings
 adwokacka
@@ -3911,7 +3916,9 @@ appyourself
 apr.i.l
 aquarius-compat
 arab-girl
+arab-sex
 arab.girl
+arab.sex
 arabgirl
 arcteryx-jap
 arcteryx-jp
@@ -7388,9 +7395,11 @@ dataz
 dating direct
 dating guide
 dating site
+dating-advice
 dating-direct
 dating-guide
 dating-site
+dating.advice
 datingdirect
 datingguide
 datingsite
@@ -17567,6 +17576,7 @@ sexy-women
 sexy.asp
 sexy.cfm
 sexy.co
+sexy.girl
 sexy.htm
 sexy.jsp
 sexy.php
