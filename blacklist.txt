@@ -364,6 +364,10 @@ _zapat
 -authentic-
 -authentic.
 -authentic/
+-auto.in
+-auto.ro
+-auto.ru
+-auto.za
 -avto-
 -avto.
 -avto/
@@ -6538,6 +6542,8 @@ choo sale
 choo-boot
 choo-sale
 chooboot
+choose calorie
+choose-calorie
 chrismas.asp
 christian_
 christian-loubou
@@ -17376,6 +17382,8 @@ send-earn
 sendflowers
 sensual massage
 sensual-massage
+sentence word
+sentence-word
 sentient-health
 sentienthealth
 senuke vps
@@ -19125,11 +19133,15 @@ tmsshoe
 tnf-sale
 tnfsale
 to commenting
+to daylight
 to gget
 to operates
+to truly
 to-commenting
+to-daylight
 to-gget
 to-operates
+to-truly
 toasterovensnow
 today/article
 todescribe
@@ -21505,6 +21517,9 @@ zyvox
 легальные
 ликвида
 лицензия
+ломают машин
+ломают-машин
+ломаютмашин
 магаз
 маркет
 массажистка
@@ -21553,6 +21568,14 @@ zyvox
 перманентный-макияж
 персональный
 плата
+платки батик
+платки купить
+платки-батик
+платки-купить
+платок батик
+платок купить
+платок-батик
+платок-купить
 под ключ
 под-ключ
 подарки
@@ -21662,6 +21685,10 @@ zyvox
 һy
 цена
 шапка
+шёлковый палант
+шёлковый платок
+шёлковый-палант
+шёлковый-платок
 шкуры животных
 шкуры-животных
 щзп
