@@ -1347,6 +1347,7 @@ _zapat
 .ru/top
 .ru/user
 .ru/uslug
+.ru/vip
 .ru#
 .s.a.k
 .secret-
@@ -2591,6 +2592,7 @@ _zapat
 /vasion/
 /vb/
 /viewstory
+/vip.
 /visit.
 /visite.
 /voltaren
@@ -3465,7 +3467,10 @@ abouther
 abssice 360
 abssice-360
 abssice360
+acai diet
 acai-
+acai-diet
+acai.diet
 acaiberry
 according your
 according-your
@@ -7266,8 +7271,12 @@ cruisevacation
 crush-candy
 crushcandy
 crystalmall
+csgo ak47
 csgo free
+csgo skin
+csgo-ak47
 csgo-free
+csgo-skin
 csgofree
 css.asp
 cszwyojl
@@ -8750,6 +8759,9 @@ ferragamooutlet
 ferragamosale
 ferragamoshop
 ferragamotie
+fetish xxx
+fetish-xxx
+fetishxxx
 ff14 shop
 ff14 store
 ff14-shop
@@ -11394,6 +11406,8 @@ ira kit
 ira-kit
 irakit
 irc-chat
+irresistible website
+irresistible-website
 is seo
 is-now-available
 is-seo
@@ -11541,6 +11555,8 @@ jacobsjap
 jacobsjp
 jacobspurse
 jacobsuk
+jagody acai
+jagody-acai
 jagowho
 jam jorda
 jam-jorda
@@ -14794,9 +14810,11 @@ occhialiray
 occhialisol
 oceanes-immo
 oceanesimmo
+ochudzanie
 oculosfeminino
 oczyszczalnia przydomow
 oczyszczalnia-przydomow
+odchudzanie
 odszkodowania
 odziez
 oem-software
@@ -15767,6 +15785,7 @@ points generat
 points-generat
 pointsgenerat
 poished
+poisk-nomera-tele
 pojap
 poker chip
 poker machine
@@ -18006,6 +18025,8 @@ skincarework
 skinnys review
 skinnys-review
 skinnysreview
+skins bet
+skins-bet
 skip-trac
 skjonnhetsprodukter
 skjønnhetsprodukter
@@ -18316,6 +18337,8 @@ stag-weekend
 stag.weekend
 stagparty
 stagweekend
+standing website
+standing-website
 standingof
 star sunglass
 star-item
@@ -18580,7 +18603,9 @@ super-compan
 super-real
 superarticle
 superb blog
+superb data
 superb-blog
+superb-data
 supercompan
 superdry outlet
 superdry-outlet
@@ -18693,6 +18718,8 @@ tabak tanzh
 tabak-fumar
 tabak-tanzh
 tabaki
+tabletki odchudz
+tabletki-odchudz
 tabletz
 tadalafil
 tadapox
@@ -20093,6 +20120,8 @@ vintovoy nas
 vintovoy-nas
 vintovyye nas
 vintovyye-nas
+vip девочк
+vip-девочк
 vipgirl
 viral eas
 viral storie
@@ -21007,6 +21036,7 @@ xxx group
 xxx mobile
 xxx party
 xxx sex
+xxx tube
 xxx video
 xxx_
 xxx-best
@@ -21015,6 +21045,7 @@ xxx-group
 xxx-mobile
 xxx-party
 xxx-sex
+xxx-tube
 xxx-video
 xxx.
 xxxbest
@@ -21023,6 +21054,7 @@ xxxgroup
 xxxmobile
 xxxparty
 xxxsex
+xxxtube
 xxxvideo
 xyngular
 xzzy.co
@@ -21505,6 +21537,8 @@ zyvox
 куп-свидетел
 куп-удост
 купить
+купить элитн
+купить-элитн
 курс евро
 курс-евро
 ҟa
@@ -21561,6 +21595,8 @@ zyvox
 отзывы
 отличные
 официальных
+оформить груз
+оформить-груз
 партнерская
 партнерских програм
 партнерских-програм
@@ -21582,6 +21618,7 @@ zyvox
 подарков
 подешевле
 пожаловать
+поиск-номера-теле
 поисковик
 покер
 порно
@@ -21659,6 +21696,8 @@ zyvox
 табак-танж
 такси
 татуаж
+телефона узнать
+телефона-узнать
 трудоустройства
 уa
 уe
@@ -21693,6 +21732,8 @@ zyvox
 шкуры-животных
 щзп
 эвакуатор
+элитную мебель
+элитную-мебель
 элитныеноутбуки
 юридической
 яндekc
@@ -21928,6 +21969,7 @@ zyvox
 素材
 綺麗め
 総合
+考，
 脳症
 脿
 腕時計
@@ -21941,6 +21983,7 @@ zyvox
 行動電源
 装着
 評価
+試，
 谋t
 財布
 貿易
