@@ -2080,6 +2080,7 @@ _zapat
 /iphone-case
 /is.gd
 /iss.
+/j.mp
 /jacket-
 /jacket.
 /jbs-

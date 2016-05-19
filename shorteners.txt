@@ -15,6 +15,7 @@
 /goo.gl
 /hfg.cc
 /is.gd
+/j.mp
 /just.as
 /loorg.de
 /onip.it
