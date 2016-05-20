@@ -1144,6 +1144,7 @@ _zapat
 .in,
 .in?
 .in/,
+.in/?
 .in/1-
 .in/1.
 .in/2-
@@ -1216,6 +1217,7 @@ _zapat
 .ph,
 .ph?
 .ph/,
+.ph/?
 .ph/#
 .ph/1-
 .ph/1.
@@ -1245,6 +1247,7 @@ _zapat
 .pl,
 .pl?
 .pl/,
+.pl/?
 .pl/#
 .pl/1-
 .pl/1.
@@ -1289,6 +1292,7 @@ _zapat
 .ro,
 .ro?
 .ro/,
+.ro/?
 .ro/#
 .ro/1-
 .ro/1.
@@ -1319,6 +1323,7 @@ _zapat
 .ru,
 .ru?
 .ru/,
+.ru/?
 .ru/#
 .ru/1-
 .ru/1.
@@ -1371,6 +1376,7 @@ _zapat
 .za,
 .za?
 .za/,
+.za/?
 .za/#
 .za/1-
 .za/1.
@@ -3693,17 +3699,14 @@ affiliateclick
 affiliatelink
 affiliateppc
 affiliatereview
-affliction class
 affliction jean
 affliction men
 affliction new
 affliction offer
-affliction-class
 affliction-jean
 affliction-men
 affliction-new
 affliction-offer
-afflictionclass
 afflictionjean
 afflictionmen
 afflictionnew
@@ -3900,6 +3903,8 @@ antiaging
 antispam
 antivirus/index
 antivirussen
+antykorozje beton
+antykorozje-beton
 anuncios
 anus live
 anus online
@@ -7348,6 +7353,8 @@ d http
 d.the
 da man!
 dabloggs
+daddy site
+daddy-site
 dafeult
 dailly
 daily.bl
@@ -7410,10 +7417,14 @@ database.co
 datarecovery.co
 datarecoveryhospital
 dataz
+date class
+date-class
+dating class
 dating direct
 dating guide
 dating site
 dating-advice
+dating-class
 dating-direct
 dating-guide
 dating-site
@@ -7548,6 +7559,8 @@ detail/www
 details though
 details-though
 detektiv
+detskie diskotek
+detskie-diskotek
 deutschland-online
 deutschlandonline
 devenir trade
@@ -8406,18 +8419,15 @@ face-women
 facebok
 facebook ad
 facebook cash
-facebook class
 facebook fan
 facebook traffic
 facebook_
 facebook-ad
 facebook-cash
-facebook-class
 facebook-fan
 facebook-traffic
 facebookad
 facebookcash
-facebookclass
 facebookfan
 facebooklike
 facebooku
@@ -8529,7 +8539,6 @@ farmingsecret
 fashion apparel
 fashion boot
 fashion brace
-fashion class
 fashion compan
 fashion hair
 fashion list
@@ -8541,7 +8550,6 @@ fashion_
 fashion-apparel
 fashion-boot
 fashion-brace
-fashion-class
 fashion-compan
 fashion-hair
 fashion-list
@@ -8552,7 +8560,6 @@ fashion-women
 fashionapparel
 fashionboot
 fashionbrace
-fashionclass
 fashioncompan
 fashionhair
 fashionist blog
@@ -8896,11 +8903,15 @@ firm.in
 firm.pl
 firm.ru
 firm.za
+firma sprzata
+firma-sprzata
 firma.asp
 firma.cfm
 firma.htm
 firma.jsp
 firma.php
+firme sprzata
+firme-sprzata
 first-class web
 first-class-web
 firstclass-web
@@ -9121,7 +9132,6 @@ frebvic.za
 free casino
 free cassino
 free chat
-free class
 free csgo
 free download
 free gay
@@ -9143,7 +9153,6 @@ free-brows
 free-casino
 free-cassino
 free-chat
-free-class
 free-csgo
 free-download
 free-gay
@@ -9177,7 +9186,6 @@ freebrows
 freecasino
 freecassino
 freechat
-freeclass
 freecsgo
 freedat
 freedownload
@@ -12665,6 +12673,8 @@ longchampyama
 lookeach
 looked on-line
 looked-on-line
+lookin for
+lookin-for
 lookingfor
 lookk
 lorazepam
@@ -14181,6 +14191,8 @@ myfashion
 myfitness
 mygiftcard
 myhermes
+myjke wysokocis
+myjke-wysokocis
 myknee
 myleadsys
 mylupus
@@ -14923,7 +14935,6 @@ online cash
 online casino
 online cassino
 online cheap
-online class
 online dat
 online espa
 online gambl
@@ -14950,7 +14961,6 @@ online-casino
 online-cassino
 online-cert
 online-cheap
-online-class
 online-dat
 online-espa
 online-gambl
@@ -15776,6 +15786,8 @@ plombierparis
 plreause
 plugin_
 plumbingservice
+plus dating
+plus-dating
 plus-my
 plus-size
 plussize
@@ -15846,6 +15858,8 @@ polos ralph
 polos-ralph
 poloshoe
 polosralph
+pool dating
+pool-dating
 popular brand
 popular-brand
 popularna
@@ -18245,6 +18259,8 @@ songs reaches
 songs-reaches
 sonicsearch
 sooemne
+soon:-
+soon:)
 sovaldi
 sozedde.co
 sozedde.in
@@ -18327,6 +18343,8 @@ spravochnik
 sprinkler tune
 sprinkler-tune
 sprinklertune
+sprzataniu powier
+sprzataniu-powier
 sprzedaz
 spy software
 spy-software
@@ -19380,6 +19398,9 @@ tvturn
 twenty sunglass
 twenty-sunglass
 twentysunglass
+twerk fitness
+twerk-fitness
+twerk.fitness
 twitter-hack
 tworzenie
 tʏ
@@ -20949,6 +20970,7 @@ www.best-
 www.consult
 www.deal-
 www.deels
+www.e-market
 www.efinanc
 www.erotic
 www.escort
@@ -21127,6 +21149,8 @@ you-ugg
 you-write-up
 you-writeup
 you,i
+you:-
+you:)
 youd
 yougucci
 youll
@@ -21406,6 +21430,8 @@ zovirax
 zsurgical
 zumbah
 zvideo
+zwrot podatku
+zwrot-podatku
 zx's
 zx’s
 zxog
@@ -21457,9 +21483,13 @@ zyvox
 анилиновые-краси
 аренда бесшо
 аренда видос
+аренда пенна
+аренда пенно
 аренда свето
 аренда-бесшо
 аренда-видос
+аренда-пенна
+аренда-пенно
 аренда-свето
 аренды авто
 аренды-авто
@@ -21509,6 +21539,8 @@ zyvox
 декоративно прикладно
 декоративно-прикладно
 денег
+детские дискотек
+детские-дискотек
 дешево
 домены
 доставка
@@ -21635,6 +21667,14 @@ zyvox
 партнерская
 партнерских програм
 партнерских-програм
+пенная вечери
+пенная шоу
+пенная-вечери
+пенная-шоу
+пенное вечери
+пенное шоу
+пенное-вечери
+пенное-шоу
 перманентный макияж
 перманентный-макияж
 персональный
