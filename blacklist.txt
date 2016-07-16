@@ -2320,6 +2320,7 @@ _zapat
 /outils
 /outlet/
 /ow.ly
+/p-laid-
 /p/
 /page1.
 /page2.
@@ -5651,6 +5652,7 @@ buy-soma
 buy-toms
 buy-traffic
 buy-women
+buy.top
 buycanadagoose
 buycheap
 buycig
@@ -5661,13 +5663,27 @@ buygold
 buyhair
 buyhermes
 buying face
-buying runescape
+buying fifa
+buying insta
+buying likes
+buying rune
+buying traffic
 buying-face
-buying-runescape
+buying-fifa
+buying-insta
+buying-likes
+buying-rune
+buying-traffic
 buyingface
+buyingfifa
+buyinginsta
+buyinglikes
+buyingrune
+buyingtraffic
 buyjap
 buyjorda
 buyjp
+buylikes
 buylouis
 buymovie
 buyonline
@@ -5678,6 +5694,7 @@ buyplus
 buysilver
 buysoma
 buytoms
+buytraffic
 buywomen
 bvlgari bague
 bvlgari bijoux
@@ -9094,6 +9111,7 @@ for-the-most
 for-windows-8
 for-your-need
 for|
+forball.top
 forboot
 forcheap
 forex_
@@ -18179,6 +18197,8 @@ site-provid
 site-theme
 site-traffic
 site-ufficial
+site:-
+site:)
 site!
 site.co
 site.in
@@ -18529,6 +18549,12 @@ sportsgear
 sportsjers
 sporttronch
 spravochnik
+sprawdzone narzedzia
+sprawdzone narzędzia
+sprawdzone-narzedzia
+sprawdzone-narzędzia
+sprawdzonenarzedzia
+sprawdzonenarzędzia
 sprinkler tune
 sprinkler-tune
 sprinklertune
