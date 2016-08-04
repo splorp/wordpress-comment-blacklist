@@ -3869,6 +3869,8 @@ amour-gratuit
 amourgratuit
 amoxicil
 amoxil
+amulet coin
+amulet-coin
 amusement account
 amzon.co
 anabolic
@@ -4007,6 +4009,7 @@ article much
 article plus
 article post
 article pow
+article rewriter
 article sub
 article tag
 article-buzz
@@ -4018,6 +4021,7 @@ article-much
 article-plus
 article-post
 article-pow
+article-rewriter
 article-sub
 article-tag
 article,i
@@ -6940,12 +6944,15 @@ coinfut
 coingame
 coins foot
 coins fut
+coins game
 coins xbox
 coins-foot
 coins-fut
+coins-game
 coins-xbox
 coinsfoot
 coinsfut
+coinsgame
 coinss
 coinsxbox
 coinxbox
@@ -9676,6 +9683,7 @@ get-face
 get-hermes
 get-massive
 get-money-for
+get-pokego
 get-rid-of
 get-the-answer
 get-translate
@@ -9687,6 +9695,7 @@ getface
 gethermes
 getjoy
 getmassive
+getpokego
 getridof
 getting $
 getting knowledge
@@ -9968,6 +9977,7 @@ googlejava
 googlerank
 googleus
 googoozuza
+gooogle
 goose calgary
 goose canada
 goose chill
@@ -12033,6 +12043,17 @@ just-wanna
 justcloud
 justness
 k http
+k.a.thleen
+k.at.hleen
+k.ath.leen
+k.athl.een
+k.athle.en
+k.athlee.n
+ka.t.hleen
+ka.th.leen
+ka.thl.een
+ka.thle.en
+ka.thlee.n
 kaepernick jers
 kaepernick wom
 kaepernick youth
@@ -12055,8 +12076,17 @@ karenmillenau
 karpaczwsieci
 karuteie
 kasino
+kat.h.leen
+kat.hl.een
+kat.hle.en
+kat.hlee.n
 katalog
 katespadese
+kath.l.een
+kath.le.en
+kath.lee.n
+kathl.e.en
+kathle.e.n
 kaufen
 kawa strefa
 kawa-strefa
@@ -14782,6 +14812,8 @@ ninjasword
 niselv.co
 nitraazepam
 nitrazepam
+niue pokemon
+niue-pokemon
 nizoral
 nm.ru
 nneed-from
@@ -16030,6 +16062,21 @@ pointsgenerat
 poished
 poisk-nomera-tele
 pojap
+poke amulet
+poke coin
+poke-amulet
+poke-coin
+pokeamulet
+pokecoin
+pokego-coin
+pokegocoin
+pokemon amulet
+pokemon coin
+pokemon-amulet
+pokemon-coin
+pokemonamulet
+pokemoncoin
+pokemongocoin
 poker chip
 poker machine
 poker money
@@ -18789,6 +18836,8 @@ stumpmaster
 stunningq
 style mbt
 style-mbt
+style:-
+style:)
 styledkitchen
 stylembt
 styleshq
@@ -21245,7 +21294,9 @@ write-essay
 write-paper
 writeessay
 writepaper
+writing manually
 writing-essay
+writing-manually
 writing-paper
 writing-service
 writingessay
