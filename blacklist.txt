@@ -269,21 +269,25 @@ _zapat
 -0.in
 -0.ro
 -0.ru
+-0.su
 -0.za
 -1.co
 -1.in
 -1.ro
 -1.ru
+-1.su
 -1.za
 -2.co
 -2.in
 -2.ro
 -2.ru
+-2.su
 -2.za
 -3.co
 -3.in
 -3.ro
 -3.ru
+-3.su
 -3.za
 -4-sale
 -4-u-
@@ -293,6 +297,7 @@ _zapat
 -4.in
 -4.ro
 -4.ru
+-4.su
 -4.za
 -4u-
 -4u.
@@ -301,26 +306,31 @@ _zapat
 -5.in
 -5.ro
 -5.ru
+-5.su
 -5.za
 -6.co
 -6.in
 -6.ro
 -6.ru
+-6.su
 -6.za
 -7.co
 -7.in
 -7.ro
 -7.ru
+-7.su
 -7.za
 -8.co
 -8.in
 -8.ro
 -8.ru
+-8.su
 -8.za
 -9.co
 -9.in
 -9.ro
 -9.ru
+-9.su
 -9.za
 -24.
 -abercrombie-
@@ -370,6 +380,7 @@ _zapat
 -auto.in
 -auto.ro
 -auto.ru
+-auto.su
 -auto.za
 -avto-
 -avto.
@@ -709,12 +720,14 @@ _zapat
 -model.pl
 -model.ro
 -model.ru
+-model.su
 -model.za
 -models.co
 -models.in
 -models.pl
 -models.ro
 -models.ru
+-models.su
 -models.za
 -moncler.
 -money.
@@ -804,6 +817,7 @@ _zapat
 -pussys-
 -pussys.
 -r.ru
+-r.su
 -r4i-
 -rakuten-
 -rakuten.
@@ -901,6 +915,7 @@ _zapat
 -systems.pl
 -systems.ro
 -systems.ru
+-systems.su
 -systems.za
 -tattoo-
 -tattoo.
@@ -1145,6 +1160,7 @@ _zapat
 .games.pl
 .games.ro
 .games.ru
+.games.su
 .games.za
 .gucci-
 .hard-
@@ -1374,6 +1390,39 @@ _zapat
 .sexy.
 .sirenos.in
 .smiley
+.su,
+.su?
+.su/,
+.su/?
+.su/#
+.su/1-
+.su/1.
+.su/2-
+.su/2.
+.su/3-
+.su/3.
+.su/aa-
+.su/ab-
+.su/ba-
+.su/catalog
+.su/content
+.su/forum
+.su/image
+.su/katalog
+.su/load
+.su/member
+.su/page-
+.su/profil
+.su/pub
+.su/ru/
+.su/service
+.su/shop
+.su/sold
+.su/store
+.su/top
+.su/user
+.su/vip
+.su#
 .sunglasses-
 .supreme-
 .t.a.p
@@ -2657,6 +2706,7 @@ _zapat
 /www.in/
 /www.net/
 /www.ru/
+/www.su/
 /www/
 /x.co
 /xchange
@@ -3127,6 +3177,7 @@ _zapat
 4u.pl
 4u.ro
 4u.ru
+4u.su
 4u.za
 4you
 5-easy-way
@@ -3230,6 +3281,7 @@ _zapat
 111.pl
 111.ro
 111.ru
+111.su
 111.za
 111@
 123.co
@@ -3237,6 +3289,7 @@ _zapat
 123.pl
 123.ro
 123.ru
+123.su
 123.za
 123@
 222.co
@@ -3244,12 +3297,14 @@ _zapat
 222.pl
 222.ro
 222.ru
+222.su
 222.za
 365.co
 365.in
 365.pl
 365.ro
 365.ru
+365.su
 365.za
 404.asp
 404.cfm
@@ -3261,6 +3316,7 @@ _zapat
 911.pl
 911.ro
 911.ru
+911.su
 911.za
 2012 longchamp
 2012 prospect
@@ -4041,6 +4097,7 @@ article.pl
 article.really
 article.ro
 article.ru
+article.su
 article.thank
 article.za
 article/post
@@ -4081,6 +4138,7 @@ articles.pl
 articles.really
 articles.ro
 articles.ru
+articles.su
 articles.thank
 articles.za
 articles/post
@@ -4538,6 +4596,8 @@ bangkokcosplay
 banjack
 bank credit
 bank-credit
+bank24.ru
+bank24.su
 bankbybank
 bankcredit
 bankowoz
@@ -4972,6 +5032,7 @@ biuro-solido
 biz.in
 biz.pl
 biz.ru
+biz.su
 biz.za
 biznes
 bizstore
@@ -8431,6 +8492,7 @@ exclusive-rendez
 exclusive.in
 exclusive.pl
 exclusive.ru
+exclusive.su
 exclusive.za
 executive coach
 executive search
@@ -9008,6 +9070,7 @@ firefoxsetting
 firm.in
 firm.pl
 firm.ru
+firm.su
 firm.za
 firma sprzata
 firma-sprzata
@@ -9452,15 +9515,18 @@ fund-trend
 fund.in
 fund.pl
 fund.ru
+fund.su
 fund.za
 funding.in
 funding.pl
 funding.ru
+funding.su
 funding.za
 fundmarket
 funds.in
 funds.pl
 funds.ru
+funds.su
 funds.za
 funsneak
 funwithwindow
@@ -9485,7 +9551,10 @@ furlaout
 furlasac
 furnituresale
 furosemide
+further former
+further-former
 furworld.ru
+furworld.su
 futbol barcelona
 futbol-barcelona
 futbolbarcelona
@@ -9906,6 +9975,7 @@ gold-seiko
 gold.in
 gold.pl
 gold.ru
+gold.su
 gold.za
 goldbarren
 goldcoin
@@ -10950,6 +11020,7 @@ host.in
 host.pl
 host.ro
 host.ru
+host.su
 host.za
 hosting community
 hosting deutsch
@@ -10959,6 +11030,7 @@ hostingdeutsch
 hosts-file
 hostseller
 hoststo.ru
+hoststo.su
 hot concern
 hot tech
 hot-babe
@@ -11472,6 +11544,7 @@ invest.net
 invest.pl
 invest.ro
 invest.ru
+invest.su
 invest.za
 invest/stock
 invest+
@@ -11485,11 +11558,13 @@ investor.in
 investor.pl
 investor.ro
 investor.ru
+investor.su
 investor.za
 investors.in
 investors.pl
 investors.ro
 investors.ru
+investors.su
 investors.za
 inzest
 ip.ideal
@@ -12223,6 +12298,7 @@ klub.in
 klub.pl
 klub.ro
 klub.ru
+klub.su
 klub.za
 knee-joint
 knee-pain
@@ -13178,6 +13254,7 @@ mail.in
 mail.pl
 mail.ro
 mail.ru
+mail.su
 mail.za
 maillot bundes
 maillot de
@@ -13421,6 +13498,7 @@ mastablasta
 master.in
 master.pl
 master.ru
+master.su
 master.za
 mastermind-team
 mastermindteam
@@ -13428,8 +13506,11 @@ masters.in
 masters.pl
 masters.ro
 masters.ru
+masters.su
 masters.za
 matchcash
+material stylish
+material-stylish
 matthewsjers
 matural
 max griffey
@@ -14327,6 +14408,8 @@ movieszone
 moviezone
 mp3-download
 mp3-player
+mp3.ru
+mp3.su
 mp3la.ru
 mp3player
 mp4 sex
@@ -14862,6 +14945,7 @@ niue pokemon
 niue-pokemon
 nizoral
 nm.ru
+nm.su
 nneed-from
 nnuauec
 no collateral
@@ -15773,6 +15857,7 @@ payday.in
 payday.pl
 payday.ro
 payday.ru
+payday.su
 payday.za
 paydayloan
 paydaynote
@@ -15841,6 +15926,7 @@ penis.in
 penis.pl
 penis.ro
 penis.ru
+penis.su
 penis.za
 penisadv
 penisblog
@@ -17285,6 +17371,7 @@ roger vivier
 roger-vivier
 rogervivier
 rok.ru
+rok.su
 rokettube
 roleplay
 rolex prix
@@ -17745,6 +17832,7 @@ seeming-vexation
 seikomise
 seks.ro
 seks.ru
+seks.su
 seksual
 self google
 self-google
@@ -18201,6 +18289,7 @@ shop.asia
 shopboot
 shopcoupon
 shopent.ru
+shopent.su
 shoperotic
 shopg2bag
 shopjap
@@ -18552,6 +18641,7 @@ software.in
 software.pl
 software.ro
 software.ru
+software.su
 software.za
 softwarehouse
 softwaresecret
@@ -18573,6 +18663,7 @@ solde.in
 solde.pl
 solde.ro
 solde.ru
+solde.su
 solde.za
 solde<
 soldebotte
@@ -18596,6 +18687,7 @@ soldes.in
 soldes.pl
 soldes.ro
 soldes.ru
+soldes.su
 soldes.za
 soldes<
 soldesbotte
@@ -20147,6 +20239,7 @@ unknown.in
 unknown.pl
 unknown.ro
 unknown.ru
+unknown.su
 unknown.za
 unknown@
 unlock iphone
@@ -20767,6 +20860,7 @@ warehouse.org
 warehouse.pl
 warehouse.ro
 warehouse.ru
+warehouse.su
 warehouse.us
 warehouse.za
 warepics
@@ -21474,6 +21568,7 @@ xx.in
 xx.pl
 xx.ro
 xx.ru
+xx.su
 xx.za
 xxx best
 xxx free
@@ -21507,6 +21602,7 @@ xzzy.in
 xzzy.pl
 xzzy.ro
 xzzy.ru
+xzzy.su
 xzzy.za
 y culo
 y http
