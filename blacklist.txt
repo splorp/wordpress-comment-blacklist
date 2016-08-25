@@ -601,7 +601,10 @@ _zapat
 -fotograf/
 -fotografia.
 -fotografia/
+-free-full-
+-free-movie-
 -fuck
+-full-movie-
 -fund-
 -fund.
 -fund/
@@ -763,6 +766,7 @@ _zapat
 -online-7-
 -online-8-
 -online-9-
+-online-free-
 -online.
 -online/
 -order-at-
@@ -9161,6 +9165,10 @@ fobur.in
 foglio prada
 foglio-prada
 foglioprada
+follower love
+follower-love
+followers love
+followers-love
 foncier assurance
 foncier-assurance
 foncierassurance
@@ -10336,6 +10344,7 @@ guarantee_
 guarantee-uptime
 guaranteed_
 guaranteed-uptime
+gubdaily
 gucchi
 gucci bag
 gucci bors
@@ -12271,6 +12280,16 @@ kids-baby
 kids-nike
 kids-ugg
 kidsnike
+killer blog
+killer page
+killer post
+killer site
+killer weblog
+killer-blog
+killer-page
+killer-post
+killer-site
+killer-weblog
 kinder moncler
 kinder-moncler
 kindermoncler
@@ -14631,6 +14650,7 @@ natürlich
 naturlig penis
 naturlig-penis
 naturligpenis
+nba 2k
 nba apparel
 nba cappelli
 nba home
@@ -14640,6 +14660,7 @@ nba nba
 nba shop
 nba utah
 nba_
+nba-2k
 nba-apparel
 nba-cappelli
 nba-home
@@ -14655,6 +14676,8 @@ nba.cfm
 nba.htm
 nba.jsp
 nba.php
+nba%202k
+nba2k
 nbahouston
 nbajers
 nbamen
@@ -17051,6 +17074,8 @@ rebecka charger
 rebecka-charger
 reccomend this
 reccomend-this
+receive carried
+receive-carried
 recent seo
 recent-seo
 recentseo
@@ -17450,6 +17475,8 @@ rss.cfm
 rss.htm
 rss.jsp
 rss.php
+ru-blacklist
+rublacklist
 rug fur
 rug-fur
 rugfur
@@ -18455,6 +18482,7 @@ site link
 site offer
 site official
 site officiel
+site owner
 site platform
 site position
 site post
@@ -18469,6 +18497,7 @@ site-link
 site-offer
 site-official
 site-officiel
+site-owner
 site-platform
 site-position
 site-post
@@ -19145,7 +19174,9 @@ superdry-outlet
 superdryoutlet
 superheroz
 superior compan
+superior resource
 superior-compan
+superior-resource
 superiorcompan
 superstar class
 superstar status
@@ -19921,6 +19952,7 @@ tу
 tү
 tօ
 u http
+u4nba
 uauaua
 ubezpieczenia
 ubirkin
@@ -20340,11 +20372,13 @@ urbain football
 urbain-football
 url fx
 url-fx
+url-query
 url-status
 urlacher jers
 urlacher-jers
 urlacherjers
 urlfx
+urlquery
 urls fx
 urls-fx
 urls2
@@ -22580,6 +22614,7 @@ zyvox
 手机
 把药
 摔死女
+攜心山
 最安値
 服务
 札入れ
