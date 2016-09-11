@@ -134,6 +134,4 @@ See the [license.txt](https://raw.github.com/splorp/wordpress-comment-blacklist/
 
 ## Questions?
 
-Contact me on Twitter.
-
-[@splorp](https://twitter.com/splorp)
+Contact me via [email](mailto:grant@splorp.com) or [Twitter](https://twitter.com/splorp).
