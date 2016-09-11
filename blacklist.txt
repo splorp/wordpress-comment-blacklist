@@ -1212,6 +1212,7 @@ _zapat
 .internet-
 .it/?it
 .it/t/
+.jpg.php
 .jsp?
 .jsp/?
 .kr/kr/
@@ -7642,6 +7643,16 @@ debt-solution
 debthelp
 debthit
 debtrelief
+decent blog
+decent page
+decent post
+decent site
+decent web
+decent-blog
+decent-page
+decent-post
+decent-site
+decent-web
 dedans longchamp
 dedans-longchamp
 dedanslongchamp
@@ -12497,6 +12508,7 @@ kristi-longchamp
 kristilongchamp
 krossoverov
 ku42.
+kugelbahn
 kupit
 kurs yevro
 kurs-yevro
@@ -14553,18 +14565,24 @@ muzyczny
 my bebo
 my bitcoin
 my blog
+my blog:
 my fashion
 my hermes
 my homepag
 my myspace
 my online
+my page:
 my site;
 my site:
 my sitte
 my ssite
+my web:
 my weblog
+my weblog:
 my webpage
+my webpage:
 my website
+my website:
 my wweb
 my-bebo
 my-bitcoin
@@ -18568,6 +18586,14 @@ skapa-grupp
 skapagrupp
 skelaxin
 skhemy
+skidki bilet
+skidki na
+skidki otel
+skidki tur
+skidki-bilet
+skidki-na
+skidki-otel
+skidki-tur
 skilled blog
 skilled-blog
 skilledblog
@@ -19080,6 +19106,8 @@ subscription link
 subscription_
 subscription-link
 subscriptionlink
+subsequent publish
+subsequent-publish
 substance deal
 substance-deal
 substancedeal
@@ -22090,10 +22118,14 @@ zyvox
 без
 бензогенератор
 бесплатн
+бесплатная диагностика
+бесплатная-диагностика
 блог
 брелки
 валка деревьев
 валка-деревьев
+вашего бизнеса
+вашего-бизнеса
 вђ
 веб
 вещевой кардинг
@@ -22185,6 +22217,8 @@ zyvox
 клипса-антихрап
 клубах
 комисси
+коммерческих трудност
+коммерческих-трудност
 компании
 компьютер
 консультаци
@@ -22236,6 +22270,8 @@ zyvox
 москве устройс
 москве-устройс
 найти человека
+направления роста
+направления-роста
 недорого
 низкие цен
 новинки
@@ -22355,6 +22391,14 @@ zyvox
 симпатичная
 симптом
 скачать
+скидки билеты
+скидки на
+скидки отели
+скидки туры
+скидки-билеты
+скидки-на
+скидки-отели
+скидки-туры
 слот
 спам
 спама
