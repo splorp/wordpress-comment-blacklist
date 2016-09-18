@@ -8566,6 +8566,18 @@ express-index
 expressindex
 extended essay
 extended-essay
+extensive article
+extensive blog
+extensive internet
+extensive page
+extensive site
+extensive web
+extensive-article
+extensive-blog
+extensive-internet
+extensive-page
+extensive-site
+extensive-web
 extra gry
 extreme-sport
 extremely}
@@ -8869,10 +8881,29 @@ fav to
 fav-it
 fav-the
 fav-to
+favorable article
+favorable blog
+favorable page
+favorable web
+favorable-article
+favorable-blog
+favorable-page
+favorable-single
+favorable-web
 favorite justif
 favorite website
 favorite-justif
 favorite-website
+favourable article
+favourable blog
+favourable page
+favourable single
+favourable web
+favourable-article
+favourable-blog
+favourable-page
+favourable-single
+favourable-web
 favourite justif
 favourite website
 favourite-justif
@@ -10688,6 +10719,7 @@ hello-dress
 hello-sex
 hello-that
 hello-this
+hello!my
 helloadmin
 hellodress
 hellosex
@@ -11555,6 +11587,7 @@ internet blog
 internet gambl
 internet lifestyle
 internet link
+internet lookup
 internet owe
 internet pag
 internet page
@@ -11569,6 +11602,7 @@ internet-blog
 internet-gambl
 internet-lifestyle
 internet-link
+internet-lookup
 internet-market
 internet-owe
 internet-page
@@ -12538,6 +12572,8 @@ lacoste_
 lacoste-out
 lacosteout
 lady_top
+lamborghini hover
+lamborghini-hover
 lamictal
 lamisil
 lancel ad
@@ -17681,6 +17717,7 @@ saldi-footwear
 saldi-online
 saldifootwear
 saldionline
+sale bestsell
 sale cosmetic
 sale louis
 sale lulu
@@ -17690,6 +17727,7 @@ sale oakley
 sale online
 sale template
 sale-4u
+sale-bestsell
 sale-cheap
 sale-cosmetic
 sale-factor
@@ -18678,8 +18716,11 @@ smaller post
 smaller-article
 smaller-content
 smaller-post
+smart hoverboard
 smart-drug
+smart-hoverboard
 smartdrug
+smarthoverboard
 smeoone
 smith sold
 smith-sold
@@ -18983,6 +19024,7 @@ stivali-pioggia
 stivali-timber
 stivalipioggia
 stivalitimber
+stobuys
 stock screener
 stock-screener
 stock-ticker
@@ -19318,6 +19360,13 @@ sօ
 t http
 t_/
 t.all
+t.e.mptest
+t.em.ptest
+t.emp.test
+t.empt.est
+t.empte.st
+t.emptes.t
+t.emptest
 t.for
 t.the
 t.two
@@ -19416,6 +19465,12 @@ taxbook
 taxdebt
 taylormade_
 tɑ
+te.m.ptest
+te.mp.test
+te.mpt.est
+te.mpte.st
+te.mptes.t
+te.mptest
 teach-you-every
 team shirt
 team tshirt
@@ -19467,10 +19522,27 @@ tele gratuit
 tele-gratuit
 telegratuit
 telepon-
+tem.p.test
+tem.pt.est
+tem.pte.st
+tem.ptes.t
+tem.ptest
+temp-test
+temp.t.est
+temp.te.st
+temp.tes.t
+temp.test
 template.co
 templates.co
 templerun-
 templerun1
+tempt.e.st
+tempt.es.t
+tempt.est
+tempte.s.t
+tempte.st
+temptes.t
+temptest
 tenormin
 term dinner
 term loan
@@ -21734,6 +21806,12 @@ yahoo-spy
 yahoospy
 yanswer
 yearold
+yeezy boost
+yeezy-boost
+yeezy1
+yeezy2
+yeezy3
+yeezyboost
 yhttp
 ynimb
 yo-dick
@@ -22236,6 +22314,8 @@ zyvox
 купить-элитн
 курс евро
 курс-евро
+куртка мужская
+куртка-мужская
 ҟa
 ҟe
 ҟi
@@ -22269,6 +22349,8 @@ zyvox
 монтаж-элект
 москве устройс
 москве-устройс
+мужские пальто
+мужские-пальто
 найти человека
 направления роста
 направления-роста
