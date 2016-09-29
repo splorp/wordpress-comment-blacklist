@@ -603,6 +603,9 @@ _zapat
 -fotografia/
 -free-full-
 -free-movie-
+-free-shipping-
+-free-shipping.
+-free-shipping/
 -fuck
 -full-movie-
 -fund-
@@ -624,6 +627,9 @@ _zapat
 -handbags/
 -harley-davidson-
 -haziran-
+-health-related-
+-health-related.
+-health-related/
 -herbal-
 -herbal.
 -herbal/
@@ -739,6 +745,12 @@ _zapat
 -montblanc.
 -montblanc/
 -mortgage-
+-most-effective-
+-most-effective.
+-most-effective/
+-most-expensive-
+-most-expensive.
+-most-expensive/
 -new-car-
 -newports/
 -npn.
@@ -2057,6 +2069,9 @@ _zapat
 /fotka.
 /foto.
 /fpdb/
+/free-shipping-
+/free-shipping.
+/free-shipping/
 /free/
 /fuck
 /function/
@@ -2091,6 +2106,9 @@ _zapat
 /handle/
 /hats/
 /headlines/
+/health-related-
+/health-related.
+/health-related/
 /hentai
 /hermes-
 /hermes.
@@ -2298,6 +2316,12 @@ _zapat
 /montblanc.
 /montblanc/
 /mortgage
+/most-effective-
+/most-effective.
+/most-effective/
+/most-expensive-
+/most-expensive.
+/most-expensive/
 /mulberry-
 /mulberry.
 /mypage-
@@ -10695,6 +10719,7 @@ healthcarehow
 healthcarestock
 healthcaresuppl
 healthhow
+healthrelated
 healthstock
 healthsuppl
 heart site
@@ -14492,7 +14517,8 @@ mortgagecalc
 moscow model
 moscow-model
 moscowmodel
-most-effective
+mosteffective
+mostexpensive
 mostra video
 mostra-video
 mostravideo
@@ -16130,8 +16156,10 @@ pharmacy 24
 pharmacy online
 pharmacy_
 pharmacy-24
+pharmacy-at
 pharmacy-online
 pharmacy24
+pharmacyat
 pharmacyonline
 pharmaun
 pharmi
@@ -18400,6 +18428,7 @@ shoesus
 shoeuk
 shoot-tequila
 shop boot
+shop bought
 shop coupon
 shop erotic
 shop jap
@@ -18410,6 +18439,7 @@ shop thai
 shop_
 shop-afl
 shop-boot
+shop-bought
 shop-coupon
 shop-erotic
 shop-jap
