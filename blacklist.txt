@@ -3723,6 +3723,8 @@ adidasuomo
 adidaswing
 adidaz
 adipex
+adjust handbag
+adjust-handbag
 adlive
 admin.asp
 admin.cfm
@@ -6893,9 +6895,9 @@ clsale
 clshoe
 club-boy
 clubboy
-clusive vacation
-clusive-vacation
-clusivevacation
+clusive vaca
+clusive-vaca
+clusivevaca
 clyel
 cms-temp
 cms-theme
@@ -7471,9 +7473,9 @@ cristmas-
 crossof
 crow pose
 crow-pose
-cruise vacation
-cruise-vacation
-cruisevacation
+cruise vaca
+cruise-vaca
+cruisevaca
 crush-candy
 crushcandy
 crystalmall
@@ -8574,9 +8576,12 @@ exelon
 exercice
 exgirlfriend
 exit.asp
-expensive vacation
-expensive-vacation
-expensivevacation
+expensive haver
+expensive vaca
+expensive-haver
+expensive-vaca
+expensivehaver
+expensivevaca
 experience simply
 experience-simply
 expert suggestion
@@ -9284,6 +9289,7 @@ footwearjorda
 footwearmbt
 footwears
 for cheap
+for download.
 for gucci
 for interact
 for-cheap
@@ -13901,6 +13907,7 @@ men makeup
 men mbt
 men mizuno
 men nike
+men timber
 men-barbour
 men-bikini
 men-boost
@@ -13912,6 +13919,8 @@ men-makeup
 men-mbt
 men-mizuno
 men-nike
+men-sneaker
+men-timber
 men's timber
 men’s timber
 men+
@@ -13966,6 +13975,7 @@ menstimber
 mentalprocess
 menthol dunhill
 menthol-dunhill
+mentimber
 menu/menu
 mequinol
 meratol
