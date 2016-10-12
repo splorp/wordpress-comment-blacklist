@@ -528,6 +528,9 @@ _zapat
 -domination-
 -domination.
 -domination/
+-doorblog-
+-doorblog.
+-doorblog/
 -download.
 -download/
 -dre.
@@ -1154,7 +1157,9 @@ _zapat
 .d.e.r
 .disposable-
 .disposable/
-.doorblog.jp
+.doorblog-
+.doorblog.
+.doorblog/
 .ee/ee/
 .equal-
 .executive-
@@ -1997,6 +2002,8 @@ _zapat
 /dolcegabbana-
 /dolcegabbana.
 /dolcegabbana/
+/doorblog-
+/doorblog.
 /doudoun-
 /doudoun.
 /doudoune-
@@ -4875,6 +4882,7 @@ best cc
 best cyber
 best dumps
 best evance
+best forex
 best jers
 best mcm
 best online
@@ -4894,6 +4902,7 @@ best-disc
 best-dumps
 best-evance
 best-fake
+best-forex
 best-home-cinema
 best-jers
 best-mcm
@@ -4921,6 +4930,7 @@ bestdrug
 bestevance
 bestfake
 bestfit
+bestforex
 bestgasmileage
 bestjers
 bestlaptop
@@ -5589,6 +5599,12 @@ bulgariserpent
 bulgarishop
 bulgarisshop
 bulgaristore
+bulk email
+bulk mail
+bulk-email
+bulk-mail
+bulkemail
+bulkmail
 bulletproof merced
 bulletproof-merced
 bullion-account
@@ -8010,10 +8026,13 @@ donnedonn
 dont know
 dont-fit-me
 dont-know
+door-blog
 dopamine
 dos-seios
 dostenex
 dostinex
+dosug intim
+dosug-intim
 dotcomsecret
 douching teen
 douching-teen
@@ -9197,6 +9216,8 @@ firstclassweb
 fish casino
 fish-casino
 fishcasino
+fit website
+fit-website
 fitch gilet
 fitch grenoble
 fitch out
@@ -9304,7 +9325,13 @@ for|
 forball.top
 forboot
 forcheap
+forex rev
+forex sign
 forex_
+forex-rev
+forex-sign
+forexrev
+forexsign
 forfree
 forgucci
 forhandlere
@@ -9587,12 +9614,14 @@ fruta planta
 frutaplanta
 fuck down
 fuck hard
+fuck pic
 fuck video
 fuck your
 fuck_
 fuck-
 fuck-down
 fuck-hard
+fuck-pic
 fuck-video
 fuck-your
 fuckdown
@@ -9600,6 +9629,7 @@ fucked_
 fucker_
 fuckhard
 fucking_
+fuckpic
 fucks down
 fucks hard
 fucks your
@@ -10730,6 +10760,8 @@ healthstock
 healthsuppl
 heart site
 heart-site
+hearted web
+hearted-web
 heartsite
 hedge fund
 hedge-fund
@@ -11508,7 +11540,7 @@ injurieslawyer
 injury lawyer
 injury-lawyer
 injurylawyer
-inndex 
+inndex
 inotfmarion
 inportant
 inrtomaf
@@ -12817,10 +12849,13 @@ lendsomemoney
 lenjerie
 lesben-
 lesbian bdsm
+lesbian fuck
 lesbian school
 lesbian-bdsm
+lesbian-fuck
 lesbian-school
 lesbianbdsm
+lesbianfuck
 lesbianschool
 lesbos-
 lesbos.
@@ -14547,6 +14582,7 @@ moviesdl
 moviesonline
 movieszone
 moviezone
+mp-escort
 mp3-download
 mp3-player
 mp3.ru
@@ -14556,6 +14592,7 @@ mp3player
 mp4 sex
 mp4-sex
 mp4sex
+mpescort
 mpnth
 mrant sneak
 mrant-sneak
@@ -16869,6 +16906,9 @@ promocode
 promoshop
 promostore
 promosys
+promote campaign
+promote-campaign
+promotecampaign
 promotion bag
 promotion shop
 promotion store
@@ -16971,8 +17011,11 @@ pumapaidat
 pumaschuh
 pumasneak
 pumasverige
+purchase generic
 purchase tiffany
+purchase-generic
 purchase-tiffany
+purchasegeneric
 pure-jobs
 purple longchamp
 purple-longchamp
@@ -19418,6 +19461,10 @@ tabaki
 tabletki odchudz
 tabletki-odchudz
 tabletz
+taboo matter
+taboo topic
+taboo-matter
+taboo-topic
 tadalafil
 tadapox
 tag/event
@@ -21621,12 +21668,17 @@ work-review
 workout-sale
 workoutsale
 workreview
+world fuck
 world porn
 world sex
+world xxx
 world-capital-advis
+world-fuck
 world-porn
 world-sex
 world-venture
+world-xxx
+worldfuck
 worldporn
 worlds most
 worlds-most
@@ -21635,8 +21687,11 @@ worldsex
 worldugg
 worldventure
 worldwideugg
+worldxxx
 worth bookmarking
+worth comment
 worth-bookmarking
+worth-comment
 worthbookmarking
 wow-gold
 wowo-house
@@ -21801,27 +21856,33 @@ xx.su
 xx.za
 xxx best
 xxx free
+xxx fuck
 xxx group
 xxx mobile
 xxx party
+xxx pic
 xxx sex
 xxx tube
 xxx video
 xxx_
 xxx-best
 xxx-free
+xxx-fuck
 xxx-group
 xxx-mobile
 xxx-party
+xxx-pic
 xxx-sex
 xxx-tube
 xxx-video
 xxx.
 xxxbest
 xxxfree
+xxxfuck
 xxxgroup
 xxxmobile
 xxxparty
+xxxpic
 xxxsex
 xxxtube
 xxxvideo
@@ -21846,6 +21907,7 @@ yahoo spy
 yahoo-spy
 yahoospy
 yanswer
+yarosl
 yearold
 yeezy boost
 yeezy-boost
@@ -22212,6 +22274,7 @@ zyvox
 авиабилет
 автотерморегулятор
 агенств
+адгуард
 админу
 алкогольные
 альтернатива
@@ -22279,6 +22342,10 @@ zyvox
 двери-гарди
 двери-сдвиж
 двери-форп
+девушка сопровождение
+девушка-сопровождение
+девушки сопровождение
+девушки-сопровождение
 декоративно прикладно
 декоративно-прикладно
 денег
@@ -22351,7 +22418,11 @@ zyvox
 куп-свидетел
 куп-удост
 купить
+купить диплом
+купить свидетел
 купить элитн
+купить-диплом
+купить-свидетел
 купить-элитн
 курс евро
 курс-евро
@@ -22395,6 +22466,8 @@ zyvox
 найти человека
 направления роста
 направления-роста
+начинающих алматы
+начинающих-алматы
 недорого
 низкие цен
 новинки
@@ -22460,6 +22533,8 @@ zyvox
 посетител
 похудению
 предла
+прелестный сайт
+прелестный-сайт
 преобрести
 прибыль
 приветствует сайт
@@ -22486,7 +22561,9 @@ zyvox
 реальный кардинг
 реальный-кардинг
 регистратор
+реклама
 рекламное
+рекламу
 ремонт автомат
 ремонт ворот
 ремонт-автомат
@@ -22523,6 +22600,10 @@ zyvox
 скидки-отели
 скидки-туры
 слот
+сопровождение девушка
+сопровождение девушки
+сопровождение-девушка
+сопровождение-девушки
 спам
 спама
 спиливание деревьев
@@ -22594,6 +22675,10 @@ zyvox
 элитную-мебель
 элитныеноутбуки
 юридической
+язык алматы
+язык-алматы
+языка алматы
+языка-алматы
 яндekc
 ԝa
 ԝe
