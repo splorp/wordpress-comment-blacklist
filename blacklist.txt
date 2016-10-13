@@ -858,6 +858,9 @@ _zapat
 -review.co
 -review/
 -rims-
+-roulette-
+-roulette.
+-roulette/
 -rozwod-
 -ru.
 -sale.
@@ -1372,6 +1375,9 @@ _zapat
 .ro/top
 .ro/user
 .ro#
+.roulette-
+.roulette.
+.roulette/
 .royal-
 .rshacks.
 .ru,
@@ -2520,6 +2526,9 @@ _zapat
 /res/
 /resize/
 /ri.ms
+/roulette-
+/roulette.
+/roulette/
 /rozwod
 /ru/news/
 /sac-
@@ -4000,6 +4009,9 @@ anellicartier
 anellioro
 aneswr
 angebote
+angel porn
+angel-porn
+angelporn
 anilinovyye kraski
 anilinovyye-kraski
 animalbased
@@ -8215,6 +8227,9 @@ eating-hemp
 eatinghemp
 eaudiovideo
 ebaypic
+ebony porn
+ebony-porn
+ebonyporn
 ebook-reader-test
 ebook-test
 ebookreadertest
@@ -8630,11 +8645,17 @@ extra gry
 extreme-sport
 extremely}
 extremley
+eye porn
+eye-porn
 eyeglass sale
 eyeglass-sale
 eyeglasses sale
 eyeglasses-sale
 eyeglasssale
+eyeporn
+eyes porn
+eyes-porn
+eyesporn
 eyewear present
 eyewear-present
 eρ
@@ -9760,8 +9781,14 @@ galerie world
 galerie-world
 galerieworld
 gallergrind
+galleries porn
+galleries-porn
+galleriesporn
+gallery porn
 gallery world
+gallery-porn
 gallery-world
+galleryporn
 galleryworld
 gamble online
 gamble-online
@@ -9878,15 +9905,17 @@ genuinely-fast
 genuinely-fruit
 genuinepandora
 german jers
-german lesbian
+german lesb
 german-jers
-german-lesbian
+german-lesb
 german-love
+germanlesb
 germanlove
 germany jers
-germany lesbian
+germany lesb
 germany-jers
-germany-lesbian
+germany-lesb
+germanylesb
 germanylove
 gestione
 get $
@@ -12850,12 +12879,15 @@ lenjerie
 lesben-
 lesbian bdsm
 lesbian fuck
+lesbian porn
 lesbian school
 lesbian-bdsm
 lesbian-fuck
+lesbian-porn
 lesbian-school
 lesbianbdsm
 lesbianfuck
+lesbianporn
 lesbianschool
 lesbos-
 lesbos.
@@ -13063,6 +13095,9 @@ logotipohollis
 logout widget
 logout-widget
 logoutwidget
+lohan porn
+lohan-porn
+lohanporn
 loiknog
 loiusvuitton
 loknoig
@@ -16467,21 +16502,27 @@ popular brand
 popular-brand
 popularna
 popularną markę
+porn angel
 porn beer
 porn big
 porn comic
+porn ebony
+porn eye
 porn free
 porn galler
 porn girl
 porn gratuit
 porn hub
+porn lesb
 porn live
+porn lohan
 porn mobile
 porn photo
 porn pic
 porn post
 porn pour
 porn prev
+porn search
 porn serch
 porn sex
 porn stream
@@ -16490,12 +16531,17 @@ porn tube
 porn vid
 porn_
 porn-
+porn-angel
 porn-beer
 porn-big
+porn-ebony
+porn-eye
 porn-free
 porn-galler
 porn-girl
 porn-hub
+porn-lesb
+porn-lohan
 porn-mobile
 porn-photo
 porn-post
@@ -16505,14 +16551,19 @@ porn-search
 porn-tickl
 porn.
 porn@
+pornangel
 pornbeer
 pornbig
 porncomic
+pornebony
+porneye
 porngaller
 porngirl
 porngratuit
 pornhub
+pornlesb
 pornlive
+pornlohan
 pornmobile
 porno comic
 porno girl
@@ -16547,6 +16598,7 @@ pornovid
 pornphoto
 pornpic
 pornpost
+pornsearch
 pornsex
 pornstream
 porntube
@@ -17999,13 +18051,16 @@ seahawks-jers
 seahawksjers
 search gogle
 search optim
+search porn
 search-engine-opt
 search-gogle
 search-optim
+search-porn
 searchengine-opt
 searchengine.
 searchengineopt
 searchoptim
+searchporn
 seawaypab
 secondgrade
 secret advant
@@ -20814,6 +20869,10 @@ via-internet
 viagara
 viagera
 viagra
+vibro love
+vibro-love
+vibro.love
+vibrolove
 vicodin
 videncia charme
 videncia gratis
