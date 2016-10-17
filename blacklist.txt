@@ -3388,19 +3388,25 @@ _zapat
 2014longchamp
 2014x.
 2015 longchamp
+2015 popular
 2015 prospect
 2015-longchamp
+2015-popular
 2015-prospect
 2015baby
 2015longchamp
 2015x.
 2016 longchamp
+2016 popular
 2016 prospect
 2016-longchamp
+2016-popular
 2016-prospect
 2016baby
 2016longchamp
 2016x.
+2017 popular
+2017-popular
 123456789
 ¤¤
 ＄００
@@ -4063,6 +4069,8 @@ app.htm
 app.jsp
 app.lk
 app.php
+appear conseq
+appear-conseq
 apple-unlock
 appleunlock
 appro-chait
@@ -7300,6 +7308,8 @@ conficker-worm
 consalt-
 consent with
 consent-with
+consequently styl
+consequently-styl
 consolidation loan
 consolidation-loan
 constructionn
@@ -8159,6 +8169,9 @@ dsquaredonline
 dsquaredout
 dsquaredshoe
 dsquareduomo
+dtech affiliate
+dtech-affiliate
+dtechaffiliate
 dubai-princess
 dubturbo
 ducati tumi
@@ -18441,7 +18454,9 @@ shoe dior
 shoe flat
 shoe jap
 shoe jp
+shoe man
 shoe mbt
+shoe men
 shoe mizuno
 shoe online
 shoe out
@@ -18449,6 +18464,8 @@ shoe promo
 shoe sale
 shoe sol
 shoe uk
+shoe woman
+shoe women
 shoe_
 shoe-america
 shoe-cloth
@@ -18456,7 +18473,9 @@ shoe-dior
 shoe-flat
 shoe-jap
 shoe-jp
+shoe-man
 shoe-mbt
+shoe-men
 shoe-mizuno
 shoe-online
 shoe-out
@@ -18464,6 +18483,8 @@ shoe-promo
 shoe-sale
 shoe-sol
 shoe-uk
+shoe-woman
+shoe-women
 shoe.asp
 shoe.cfm
 shoe.htm
@@ -18491,10 +18512,14 @@ shoes announce
 shoes dior
 shoes jap
 shoes jp
+shoes man
 shoes mbt
+shoes men
 shoes online
 shoes out
 shoes uk
+shoes woman
+shoes women
 shoes_
 shoes-2013
 shoes-2014
@@ -18505,11 +18530,15 @@ shoes-cloth
 shoes-dior
 shoes-jap
 shoes-jp
+shoes-man
 shoes-mbt
+shoes-men
 shoes-on-sale
 shoes-online
 shoes-out
 shoes-uk
+shoes-woman
+shoes-women
 shoes.asp
 shoes.mobi
 shoes.name
