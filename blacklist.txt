@@ -907,6 +907,9 @@ _zapat
 -sigarety/
 -sims-3.
 -sims-3/
+-skque-
+-skque.
+-skque/
 -sluts-
 -sluts.
 -sluts/
@@ -1419,6 +1422,9 @@ _zapat
 .secrets-
 .sexy.
 .sirenos.in
+.skque-
+.skque.
+.skque/
 .smiley
 .su,
 .su?
@@ -2568,6 +2574,9 @@ _zapat
 /sitemap-
 /sitemap.
 /siteold/
+/skque-
+/skque.
+/skque/
 /sluts-
 /sluts.
 /sluts/
@@ -3944,6 +3953,8 @@ alluring-escort
 allworkhome
 alone place
 alone-place
+alpha-hoverboard
+alphahoverboard
 alprazolam
 also eable
 also-eable
@@ -4606,7 +4617,9 @@ baileyugg
 bajardepeso
 balance espa
 balance-espa
+balance-wheel
 balanceespa
+balancewheel
 balenciagasingapore
 ballgowns dress
 ballgowns-dress
@@ -11270,6 +11283,8 @@ hottest-update
 hourpayday
 houseforsale
 housesforsale
+hoverboard-360
+hoverboard360
 how_do
 how-do-you
 how-to-buy
@@ -18903,8 +18918,10 @@ smaller-article
 smaller-content
 smaller-post
 smart hoverboard
+smart-balance
 smart-drug
 smart-hoverboard
+smartbalance
 smartdrug
 smarthoverboard
 smeoone
@@ -19789,6 +19806,7 @@ the pokie
 the_best
 the-benefits-of
 the-best-treatment
+the-hoverboard
 the-hypothyroid
 the-latest-
 the-notify
@@ -19800,6 +19818,7 @@ thedevelop
 thedirect
 theeasy
 theguest
+thehoverboard
 thehypothyroid
 theme generat
 theme sale
