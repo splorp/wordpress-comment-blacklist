@@ -237,6 +237,7 @@ _user
 _usuario
 _util
 _vape
+_vecaro
 _viral
 _virus
 _vod
@@ -792,6 +793,12 @@ _zapat
 -parafon/
 -payday-
 -pictures.
+-plus.in
+-plus.pl
+-plus.ro
+-plus.ru
+-plus.su
+-plus.za
 -poker-
 -poker.
 -poker/
@@ -986,6 +993,9 @@ _zapat
 -vasion-
 -vasion.
 -vasion/
+-vecaro-
+-vecaro.
+-vecaro/
 -vendita-
 -vuitton-
 -want-it
@@ -2719,6 +2729,8 @@ _zapat
 /vasion.
 /vasion/
 /vb/
+/vecaro-
+/vecaro.
 /viewstory
 /vip.
 /visit.
@@ -3935,6 +3947,8 @@ alcohol-rehab
 alcohool
 alcoohol
 alendronate
+alien-wheel
+alienwheel
 alkotla
 all ahout
 all-about-the
@@ -9312,6 +9326,8 @@ flirt fever
 flirt-fever
 flirtfever
 flixya
+floating-board
+floatingboard
 floridaflee
 floxacin
 fluccun
@@ -11283,8 +11299,18 @@ hottest-update
 hourpayday
 houseforsale
 housesforsale
+hoverboard king
+hoverboard scoot
 hoverboard-360
+hoverboard-king
+hoverboard-safe
+hoverboard-scoot
+hoverboard-stop
 hoverboard360
+hoverboardking
+hoverboardsafe
+hoverboardscoot
+hoverboardstop
 how_do
 how-do-you
 how-to-buy
@@ -19301,6 +19327,8 @@ strategy-for
 stratificat.
 strattera
 stream2watch
+street-saw
+streetsaw
 strength harmony
 strength-harmony
 strick jack
@@ -19806,6 +19834,7 @@ the pokie
 the_best
 the-benefits-of
 the-best-treatment
+the-flashboard
 the-hoverboard
 the-hypothyroid
 the-latest-
@@ -19817,6 +19846,7 @@ thebest
 thedevelop
 thedirect
 theeasy
+theflashboard
 theguest
 thehoverboard
 thehypothyroid
@@ -20829,6 +20859,10 @@ vapourx
 varabella
 vardenafil
 vbyj
+vecaro lifestyle
+vecaro_
+vecaro-lifestyle
+vecarolifestyle
 vegas hotel
 vegas show
 vegas social
@@ -21502,6 +21536,8 @@ whats up,
 whats-blog
 whatsapp
 whatsblog
+wheel.es
+wheeles
 wheels.co
 wheels.net
 wheels.org
@@ -22781,7 +22817,9 @@ zyvox
 ура наконецто
 ура-наконецто
 услуг
+установка забор
 установка канали
+установка-забор
 установка-канали
 утепление
 фабрика меха
