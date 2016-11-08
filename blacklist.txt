@@ -3833,6 +3833,7 @@ adwings
 adwokacka
 adwokat
 adwords
+æ÷
 aff.asp
 aff.cfm
 aff.htm
@@ -5782,6 +5783,7 @@ buy gig
 buy gold
 buy hair
 buy hermes
+buy hoverboard
 buy insta
 buy jap
 buy jorda
@@ -5810,6 +5812,7 @@ buy-gig
 buy-gold
 buy-gucci
 buy-hair
+buy-hoverboard
 buy-insta
 buy-jap
 buy-jorda
@@ -5839,6 +5842,7 @@ buygeneric
 buygold
 buyhair
 buyhermes
+buyhoverboard
 buying face
 buying fifa
 buying insta
@@ -11299,18 +11303,26 @@ hottest-update
 hourpayday
 houseforsale
 housesforsale
+hover-shop
+hoverboard buy
 hoverboard king
 hoverboard scoot
+hoverboard shop
 hoverboard-360
+hoverboard-buy
 hoverboard-king
 hoverboard-safe
 hoverboard-scoot
+hoverboard-shop
 hoverboard-stop
 hoverboard360
+hoverboardbuy
 hoverboardking
 hoverboardsafe
 hoverboardscoot
+hoverboardshop
 hoverboardstop
+hovershop
 how_do
 how-do-you
 how-to-buy
