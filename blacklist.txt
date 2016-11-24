@@ -894,6 +894,9 @@ _zapat
 -shoe/
 -shoes.
 -shoes/
+-shop-for-
+-shop-for.
+-shop-for/
 -shop.
 -shop/
 -shoppe.
@@ -2568,6 +2571,9 @@ _zapat
 /seo
 /sex
 /sheet/
+/shop-for-
+/shop-for.
+/shop-for/
 /shortcode-
 /shortcode/
 /shortcodes-
@@ -8149,6 +8155,8 @@ dresslink
 dressonline
 dresssale
 dressshop
+drink iconic
+drink-iconic
 drivewayservice
 drmarten jap
 drmarten jp
@@ -11097,6 +11105,8 @@ hoganuomo
 hogaout
 holdinga
 holdning
+holistic health
+holistic-health
 hollister berlin
 hollister bolsos
 hollister bras
@@ -13277,6 +13287,8 @@ losers-beat
 losers-outnumbered
 loseweight
 losreplica
+lot its
+lot-its
 loteprednol
 lottie maxi
 lottie-maxi
@@ -15986,6 +15998,8 @@ page/pag
 page/page
 page/pg
 page/view
+pageed
+pageeed
 pages scrape
 pages_
 pages-scrape
@@ -18179,6 +18193,8 @@ seekmen
 seekwom
 seeming vexation
 seeming-vexation
+seg-board
+segboard
 seikomise
 seks.ro
 seks.ru
@@ -20649,6 +20665,9 @@ ultimate-tab
 ultimatemicrosoft
 ultimatestag
 ultimatetab
+ultra hoverboard
+ultra-hoverboard
+ultrahoverboard
 ultram
 umschuldung
 undeniably believe
