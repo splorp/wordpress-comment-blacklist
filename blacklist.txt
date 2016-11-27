@@ -488,6 +488,9 @@ _zapat
 -click-
 -click.
 -click/
+-clit-
+-clit.
+-clit/
 -co-jap
 -co-jp
 -co.jp
@@ -1147,6 +1150,9 @@ _zapat
 .cfmx
 .cgi
 .chanel-
+.clit-
+.clit.
+.clit/
 .coach-
 .com wild
 .com,
@@ -1948,6 +1954,7 @@ _zapat
 /cld-
 /cld.
 /clearance/
+/clit.
 /clrb-
 /clrb.
 /coach-
@@ -5275,6 +5282,8 @@ blu-cig
 blucig
 blue ugg
 blue-ugg
+bluefin-trad
+bluefintrad
 bluehost-review
 bluehostreview
 bluetooth jammer
@@ -9397,6 +9406,7 @@ for-gucci
 for-interact
 for-men
 for-money
+for-sale-direct
 for-the-most
 for-windows-8
 for-your-need
@@ -9431,6 +9441,7 @@ forsale-go
 forsale-jap
 forsale-jp
 forsale-uk
+forsaledirect
 forsalego
 forsalejap
 forsalejp
@@ -11320,6 +11331,7 @@ hoverboard scoot
 hoverboard shop
 hoverboard-360
 hoverboard-buy
+hoverboard-for
 hoverboard-king
 hoverboard-safe
 hoverboard-scoot
@@ -11327,6 +11339,7 @@ hoverboard-shop
 hoverboard-stop
 hoverboard360
 hoverboardbuy
+hoverboardfor
 hoverboardking
 hoverboardsafe
 hoverboardscoot
@@ -19579,6 +19592,7 @@ sweet-site
 sweetblog
 sweetpage
 sweetsite
+swegway
 swiss replica
 swiss-replica
 swissreplica
