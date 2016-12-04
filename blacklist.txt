@@ -649,6 +649,9 @@ _zapat
 -homepage-
 -homepage.
 -homepage/
+-ihover-
+-ihover.
+-ihover/
 -income-
 -income.
 -income/
@@ -2172,6 +2175,9 @@ _zapat
 /html/
 /http
 /hyundai.
+/ihover-
+/ihover.
+/ihover/
 /ii/
 /images-
 /images.
@@ -17884,6 +17890,13 @@ rusztowania
 rе
 rі
 rу
+ɍa
+ɍe
+ɍi
+ɍn
+ɍo
+ɍu
+ɍy
 s http
 s.all
 s.for
@@ -22966,6 +22979,13 @@ zyvox
 ԝe
 ԝi
 ԝo
+աa
+աɑ
+աe
+աi
+աn
+աo
+աu
 ոa
 ոe
 ոi
