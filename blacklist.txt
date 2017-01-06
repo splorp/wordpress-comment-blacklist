@@ -2018,6 +2018,7 @@ _zapat
 /customer-care/
 /customercare-
 /customercare.
+/cutt.us
 /dat/
 /data/
 /datebase-
@@ -2151,6 +2152,7 @@ _zapat
 /gucci-
 /gucci.
 /guide-
+/gul.ly
 /haglofs-
 /haglofs.
 /handle/
@@ -2569,6 +2571,7 @@ _zapat
 /res/
 /resize/
 /ri.ms
+/rlu.ru
 /roulette-
 /roulette.
 /roulette/

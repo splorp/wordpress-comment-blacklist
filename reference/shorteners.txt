@@ -10,9 +10,11 @@
 /cek.li
 /clck.ru
 /cort.as
+/cutt.us
 /fc.cx
 /ge.tt
 /goo.gl
+/gul.ly
 /hfg.cc
 /is.gd
 /j.mp
@@ -21,6 +23,7 @@
 /onip.it
 /ow.ly
 /past.is
+/rlu.ru
 /smsh.me
 /sn.im
 /snipurl.co
