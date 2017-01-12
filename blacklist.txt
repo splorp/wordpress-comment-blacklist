@@ -2025,6 +2025,7 @@ _zapat
 /datebase.
 /db/
 /dbase/
+/ddrss.at
 /dg-
 /dg.
 /diary-
