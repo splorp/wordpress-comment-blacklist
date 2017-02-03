@@ -762,6 +762,9 @@ _zapat
 -most-expensive-
 -most-expensive.
 -most-expensive/
+-mrwhite-
+-mrwhite.
+-mrwhite/
 -new-car-
 -newports/
 -npn.
@@ -1274,6 +1277,9 @@ _zapat
 .mobi?
 .mobi/?
 .moncler-
+.mrwhite-
+.mrwhite.
+.mrwhite/
 .mulberry-
 .name?
 .name/?
@@ -2378,6 +2384,9 @@ _zapat
 /most-expensive-
 /most-expensive.
 /most-expensive/
+/mrwhite-
+/mrwhite.
+/mrwhite/
 /mulberry-
 /mulberry.
 /mypage-
@@ -4034,7 +4043,10 @@ amateurhomemade
 amateurs.
 amatuer
 amazing post
+amazing sex
 amazing-post
+amazing-sex
+amazingsex
 amazn.co
 amazon.asp
 amazon.cfm
@@ -17865,6 +17877,7 @@ reports.cfm
 reports.htm
 reports.jsp
 reports.php
+rescator
 reseaux sociaux
 réseaux sociaux
 reseaux-sociaux
@@ -18624,6 +18637,7 @@ sex shop
 sex tape
 sex toy
 sex tube
+sex video
 sex web
 sex xxx
 sex-advice
@@ -18646,6 +18660,7 @@ sex-shop
 sex-tape
 sex-toy
 sex-tube
+sex-video
 sex-web
 sex-xxx
 sex.asp
@@ -18685,6 +18700,7 @@ sexual-fantas
 sexual-moment
 sexualfantas
 sexualmoment
+sexvideo
 sexweb
 sexxx
 sexy fantas
@@ -21829,6 +21845,7 @@ weightloss
 weightnatur
 weightwork
 welcometonginx
+well written!
 wellbutrin
 wentoutside
 weptwith
