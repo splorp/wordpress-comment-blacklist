@@ -1149,6 +1149,7 @@ _zapat
 .asp/
 .azmya.
 .baidu
+.be/,
 .bioactive
 .blogbox.
 .blogspace.
@@ -1191,6 +1192,7 @@ _zapat
 .coupon
 .credopa.in
 .d.e.r
+.de/,
 .disposable-
 .disposable/
 .doorblog-
@@ -1204,6 +1206,7 @@ _zapat
 .filmi-
 .filmy-
 .forum.
+.fr/,
 .freeforums.org
 .freeoda.com/0
 .freeoda.com/1
@@ -5131,6 +5134,8 @@ bijoux-best
 bijoux-fr
 bijouxbest
 bijouxfr
+bijsluiter tablet
+bijsluiter-tablet
 bikini outlet
 bikini sale
 bikini salg
@@ -5150,6 +5155,8 @@ billig
 billion yuan
 billion-yuan
 billionyuan
+binarnykh optsion
+binarnykh-optsion
 bio bronz
 bio skin
 bio-bronz
@@ -8563,6 +8570,8 @@ ephedra
 ephedrine
 epica watch
 epica-watch
+epilare laser
+epilare-laser
 epo doping
 epo-doping
 epodoping
@@ -14449,6 +14458,8 @@ mirror-femme
 mirrorfemme
 mister-design
 misterboy
+mit rezept
+mit-rezept
 mittelx
 miu miu
 miu sunglass
@@ -16705,6 +16716,8 @@ pmu-poker
 pmupoker
 poco prezzo
 poco-prezzo
+podarochnoy korobk
+podarochnoy-korobk
 point generat
 point-generat
 point|
@@ -18603,6 +18616,8 @@ server2014
 server2015
 servicedoc
 services/services
+servicii profes
+servicii-profes
 serwis
 sessuale
 sessuali
@@ -19632,6 +19647,8 @@ strapless tiered
 strapless-tiered
 straplesstiered
 strategies-for
+strategii binarny
+strategii-binarny
 strategy-for
 stratificat.
 strattera
@@ -20516,6 +20533,8 @@ topvideocon
 topviral
 tor puter
 tor-puter
+torgovye strategii
+torgovye-strategii
 torrent-movie
 torrentmovie
 torrents
@@ -20557,6 +20576,10 @@ tramadol
 transform-vhs
 trashma1l
 trashmai1
+tratamente corpor
+tratamente faci
+tratamente-corpor
+tratamente-faci
 travel.pl
 traveltrip
 trazodone
@@ -22840,6 +22863,8 @@ zyvox
 бесплатн
 бесплатная диагностика
 бесплатная-диагностика
+бинарных опцион
+бинарных-опцион
 блог
 брелки
 валка деревьев
@@ -22892,6 +22917,9 @@ zyvox
 дешево
 джекпот лотерея
 джекпот-лотерея
+дизайн дизайн
+дизайн-дизайн
+дизайн, дизайн
 домены
 доставка
 доход
@@ -22964,6 +22992,8 @@ zyvox
 купить-элитн
 курс евро
 курс-евро
+курсов кассиров
+курсов-кассиров
 куртка мужская
 куртка-мужская
 ҟa
@@ -23061,6 +23091,8 @@ zyvox
 под-ключ
 подарки
 подарков
+подарочной коробк
+подарочной-коробк
 подешевле
 пожаловать
 поиск-номера-теле
@@ -23175,6 +23207,8 @@ zyvox
 татуаж
 телефона узнать
 телефона-узнать
+торговля бинар
+торговля-бинар
 трудоустройства
 уa
 уe
