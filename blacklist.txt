@@ -1082,6 +1082,7 @@ _zapat
 !!\
 !?'
 !?’
+!..
 !}
 !@#
 ????
@@ -1272,6 +1273,7 @@ _zapat
 .jsp?
 .jsp/?
 .kr/kr/
+.lipoly.ru
 .longchamp-
 .louboutin-
 .m88-
@@ -7735,6 +7737,9 @@ cyprus-payment
 cypruspayment
 cytotec
 cz/love
+czesci skody
+czesci-skody
+czesciskody
 cг
 cе
 cҟ
@@ -9030,6 +9035,18 @@ fashion-men
 fashion-store
 fashion-trend
 fashion-women
+fashionable blog
+fashionable comment
+fashionable page
+fashionable post
+fashionable site
+fashionable web
+fashionable-blog
+fashionable-comment
+fashionable-page
+fashionable-post
+fashionable-site
+fashionable-web
 fashionapparel
 fashionboot
 fashionbrace
@@ -14177,6 +14194,7 @@ medikal.co
 medizinische
 medphrase
 medshop
+meendo
 mega culo
 mega pezone
 mega teta
@@ -18650,9 +18668,11 @@ sex search
 sex sex
 sex shop
 sex tape
+sex teen
 sex toy
 sex tube
 sex video
+sex virgin
 sex web
 sex xxx
 sex-advice
@@ -18673,9 +18693,11 @@ sex-search
 sex-sex
 sex-shop
 sex-tape
+sex-teen
 sex-toy
 sex-tube
 sex-video
+sex-virgin
 sex-web
 sex-xxx
 sex.asp
@@ -18707,6 +18729,7 @@ sexsearch
 sexsex
 sexshop
 sextape
+sexteen
 sextoy
 sextube
 sexual fantas
@@ -18716,12 +18739,15 @@ sexual-moment
 sexualfantas
 sexualmoment
 sexvideo
+sexvirgin
 sexweb
 sexxx
 sexy fantas
 sexy girl
 sexy moment
 sexy sex
+sexy teen
+sexy virgin
 sexy web
 sexy woman
 sexy women
@@ -18729,6 +18755,8 @@ sexy-fantas
 sexy-girl
 sexy-moment
 sexy-sex
+sexy-teen
+sexy-virgin
 sexy-web
 sexy-woman
 sexy-women
@@ -18743,6 +18771,8 @@ sexyfantas
 sexygirl
 sexymoment
 sexysex
+sexyteen
+sexyvirgin
 sexyweb
 sexywoman
 sexywomen
@@ -18985,11 +19015,13 @@ shoppe_
 shopper_
 shoppers_
 shoppes_
+shopping getaway
 shopping harmony
 shopping online
 shopping site
 shopping ugg
 shopping_
+shopping-getaway
 shopping-harmony
 shopping-online
 shopping-site
@@ -19611,6 +19643,7 @@ store online
 store out
 store penis
 store purchased
+store shopping
 store wholes
 store-caldle
 store-gucci
@@ -19619,6 +19652,7 @@ store-out
 store-penis
 store-purchased
 store-service
+store-shopping
 store-wholes
 store.bl
 store.htm
@@ -20061,11 +20095,13 @@ teen cam
 teen female
 teen porn
 teen sex
+teen virgin
 teen webcam
 teen-cam
 teen-female
 teen-porn
 teen-sex
+teen-virgin
 teen-webcam
 teen.sex
 teenage female
@@ -20085,6 +20121,7 @@ teenscam
 teensex
 teensporn
 teenswebcam
+teenvirgin
 teenwebcam
 tees hollis
 tees-hollis
@@ -22692,6 +22729,8 @@ zapatos-jorda
 zapatosasics
 zapatosdc
 zapatosjorda
+zapewniaja bezpiecz
+zapewniaja-bezpiecz
 zapraszam
 zarabotk
 zawieszki
