@@ -1827,6 +1827,7 @@ _zapat
 /banners.
 /bazar-
 /bazar.
+/bbqr.me
 /bbs/
 /best-
 /best.
