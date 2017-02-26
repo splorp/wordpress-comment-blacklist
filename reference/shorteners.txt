@@ -15,6 +15,7 @@
 /fc.cx
 /ge.tt
 /goo.gl
+/got.by
 /gul.ly
 /hfg.cc
 /is.gd

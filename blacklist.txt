@@ -2155,6 +2155,7 @@ _zapat
 /goo.gl
 /good.
 /goose/
+/got.by
 /graphics/
 /group1
 /group2
