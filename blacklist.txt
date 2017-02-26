@@ -1076,6 +1076,7 @@ _zapat
 ! ,
 ! !
 ! .
+!,i
 !! you
 !!!
 !!}
@@ -1456,6 +1457,7 @@ _zapat
 .ru/top
 .ru/user
 .ru/uslug
+.ru/vid
 .ru/vip
 .ru#
 .s.a.k
@@ -6070,6 +6072,8 @@ cagoose-jack
 cagoose-sale
 cagoosejack
 cagoosesale
+calitate super
+calitate-super
 callgirl
 calvin mujer
 calvin-mujer
@@ -6265,6 +6269,7 @@ casino online
 casino only
 casino phish
 casino_
+casino-1
 casino-bonus
 casino-enligne
 casino-fish
@@ -6274,6 +6279,7 @@ casino-online
 casino-only
 casino-phish
 casino.co
+casino1
 casinobonus
 casinoenligne
 casinoer
@@ -8229,6 +8235,7 @@ dominationsecret
 dominationseo
 don think
 don-think
+dondash
 donna donn
 donna-donn
 donnadonn
@@ -8455,6 +8462,7 @@ eemai1
 eemail
 eevance
 effexor
+egemtr
 egoodshop
 egypt jersey
 egypt-jersey
@@ -8632,6 +8640,7 @@ erogenous-picture
 erolove
 erotic erotic
 erotic love
+erotic pro
 erotic series
 erotic thrill
 erotic toy
@@ -8639,6 +8648,7 @@ erotic workout
 erotic_
 erotic-erotic
 erotic-love
+erotic-pro
 erotic-series
 erotic-thrill
 erotic-toy
@@ -8647,6 +8657,7 @@ eroticerotic
 eroticke
 erotické
 eroticlove
+eroticpro
 eroticseries
 eroticthrill
 erotictoy
@@ -11127,6 +11138,7 @@ herbaltincture
 heren timber
 heren-timber
 herentimber
+herhrh
 hermes abrasif
 hermes austr
 hermes bag
@@ -12055,10 +12067,12 @@ ipad2
 ipad3
 ipadrepair
 ipadsuppl
+iphone apple
 iphone case
 iphone crack
 iphone repair
 iphone suppl
+iphone-apple
 iphone-case
 iphone-crack
 iphone-repair
@@ -12113,6 +12127,8 @@ iphone6spy
 iphonecase
 iphonecrack
 iphonerepair
+iphones apple
+iphones-apple
 iphonesuppl
 ipod-repair
 ipod-suppl
@@ -12559,6 +12575,8 @@ joselyn sleeve
 joselyn-sleeve
 joselynsleeve
 journal/item
+jovial salon
+jovial-salon
 jp-bag
 jp-best
 jp-sale
@@ -12916,6 +12934,8 @@ kosmetyc
 kosmetyki
 kosze
 kpkfprbrq
+krasivaya devushka
+krasivaya-devushka
 kreddit
 kreddyt
 kreddyyt
@@ -16747,6 +16767,7 @@ plus dating
 plus-dating
 plus-my
 plus-size
+plusforsale
 plussize
 plytki
 plz assist
@@ -17759,6 +17780,8 @@ relax private
 relax-private
 relaxation therefore
 relaxation-therefore
+reliable-rx
+reliablerx
 relief secret
 relief-secret
 reliefsecret
@@ -18133,6 +18156,8 @@ russianmr
 russianms
 russianmulberry
 rusztowania
+rx-pharm
+rxpharm
 rе
 rі
 rу
@@ -21198,7 +21223,9 @@ uѕ
 v http
 v.@
 va ballgown
+va garanteaza
 va-ballgown
+va-garanteaza
 vaballgown
 vagina live
 vagina online
@@ -22029,6 +22056,7 @@ wholesale coach
 wholesale copy
 wholesale free
 wholesale hand
+wholesale iphone
 wholesale jers
 wholesale jersey
 wholesale jorda
@@ -22047,6 +22075,7 @@ wholesale-coach
 wholesale-copy
 wholesale-free
 wholesale-hand
+wholesale-iphone
 wholesale-jers
 wholesale-jersey
 wholesale-jorda
@@ -23045,6 +23074,8 @@ zyvox
 консультаци
 контрабандного това
 контрабандного-това
+красивая девушка
+красивая-девушка
 кредит
 куп диплом
 куп свидетел
@@ -23317,6 +23348,7 @@ zyvox
 элитную мебель
 элитную-мебель
 элитныеноутбуки
+эротика
 юридической
 язык алматы
 язык-алматы
