@@ -74,6 +74,7 @@ _estate
 _event
 _face
 _fake
+_farmacia
 _fashion
 _fausse
 _faux
@@ -574,6 +575,9 @@ _zapat
 -fantasy-
 -fantasy.
 -fantasy/
+-farmacia-
+-farmacia.
+-farmacia/
 -fashion-
 -fashion.
 -fashion/
@@ -802,6 +806,9 @@ _zapat
 -parafon.
 -parafon/
 -payday-
+-pharmacy-
+-pharmacy.
+-pharmacy/
 -pictures.
 -plus.in
 -plus.pl
@@ -1204,6 +1211,9 @@ _zapat
 .equal-
 .executive-
 .fake-
+.farmacia-
+.farmacia.
+.farmacia/
 .fcgi
 .filmi-
 .filmy-
@@ -1341,6 +1351,9 @@ _zapat
 .ph/top
 .ph/user
 .ph#
+.pharmacy-
+.pharmacy.
+.pharmacy/
 .php?
 .php/?
 .pl,
@@ -1505,6 +1518,7 @@ _zapat
 .sunglasses-
 .supreme-
 .t.a.p
+.t.wit
 .thearticle
 .travel.pl
 .twilight-
@@ -2103,6 +2117,9 @@ _zapat
 /f_3/
 /f_4/
 /f_5/
+/farmacia-
+/farmacia.
+/farmacia/
 /fashion-
 /faux-
 /faux.
@@ -2496,6 +2513,9 @@ _zapat
 /parafon.
 /parafon/
 /past.is
+/pharmacy-
+/pharmacy.
+/pharmacy/
 /php.
 /piece-
 /piece.
@@ -9048,6 +9068,7 @@ fantasticsite
 fantastictopic
 fantasticweblog
 fantasticwebsite
+farmacia_
 farmacias
 farming-secret
 farmingsecret
@@ -17672,6 +17693,8 @@ read-smaller
 readers-base
 readers' base
 readers’ base
+reading taste
+reading-taste
 readyto
 real xxx
 real-estate-web
@@ -20038,6 +20061,11 @@ t.emptest
 t.for
 t.the
 t.two
+t.w.i.t
+t.w.it
+t.wi.t
+t.wit.
+t.witt.
 tabak fumar
 tabak tanzh
 tabak-fumar
@@ -20739,6 +20767,8 @@ tutorial.jsp
 tutorial.php
 tutoringand
 tvturn
+tw.i.t
+tw.itt.
 twenty sunglass
 twenty-sunglass
 twentysunglass
@@ -20751,6 +20781,7 @@ twerking video
 twerking-video
 twerkingvideo
 twerkvideo
+twit.t.
 twitter-hack
 tworzenie
 tʏ
@@ -22374,10 +22405,12 @@ write-paper
 writeessay
 writepaper
 writing manually
+writing taste
 writing-essay
 writing-manually
 writing-paper
 writing-service
+writing-taste
 writingessay
 writingpaper
 writingservice
@@ -23008,6 +23041,14 @@ zyvox
 гe
 гo
 гy
+говорим гово
+говорим-гово
+говорить гово
+говорить-гово
+говоришь гово
+говоришь-гово
+говорю гово
+говорю-гово
 головные устройс
 головные-устройс
 грузоперевозки
@@ -23131,6 +23172,8 @@ zyvox
 материал
 мебель
 медиа палитра
+месяц назад
+месяц-назад
 метал
 меховые
 миллион
