@@ -1562,6 +1562,8 @@ _zapat
 ''
 ’’
 »¿
+»z
+»ż
 (buzzfeed)
 (linkedin)
 (no follow)
@@ -4020,6 +4022,8 @@ akad-hilfe
 akadhilfe
 akkuschrauber
 aklotr
+akril-panel
+akrilpanel
 aksudmias
 alarmingly grow
 alarmingly-grow
@@ -4054,6 +4058,7 @@ allpay
 allright
 allso visit
 allso-visit
+alltheholi
 alluring escort
 alluring-escort
 allworkhome
@@ -4256,6 +4261,7 @@ article dude
 article many
 article much
 article plus
+article pocket
 article post
 article pow
 article rewriter
@@ -4268,6 +4274,7 @@ article-dude
 article-many
 article-much
 article-plus
+article-pocket
 article-post
 article-pow
 article-rewriter
@@ -7491,6 +7498,8 @@ competitors-google
 component/blog
 comprar
 comprasion
+compresion b
+compresion-b
 computer pc
 computer-gam
 computer-pc
@@ -7801,6 +7810,8 @@ cօ
 d http
 d.@
 d.the
+d»
+ď»
 da man!
 dabloggs
 daddy site
@@ -13269,6 +13280,8 @@ librarys.jsp
 librarys.php
 librium
 licenzija
+lid pants
+lid-pants
 lifeinsur
 lifelock
 ligne medicament
