@@ -2023,8 +2023,6 @@ _zapat
 /configure-
 /configure.
 /configure/
-/contact-
-/contact.
 /content/
 /control/
 /converse-
@@ -15077,41 +15075,23 @@ muzyczna
 muzyczny
 my bebo
 my bitcoin
-my blog
-my blog:
-my fashion
 my hermes
-my homepag
 my myspace
 my online
-my page:
-my site;
-my site:
 my sitte
 my ssite
 my web:
-my weblog
-my weblog:
-my webpage
-my webpage:
-my website
-my website:
 my wweb
 my-bebo
 my-bitcoin
-my-blog
 my-fashion
 my-hermes
-my-homepag
 my-my
 my-new-ip
 my-online
 my-sitte
 my-ssite
 my-virus
-my-weblog
-my-webpage
-my-website
 my-wweb
 mybitcoin
 mydead-
@@ -15338,10 +15318,7 @@ newoakley
 newport 100s
 newport-100s
 newport100s
-news-article
 news.in
-news/article
-newsarticle
 newseo
 newsletter service
 newsletter-service
@@ -16560,9 +16537,7 @@ pens montblanc
 pens-montblanc
 pensmontblanc
 peopleand
-per-week
 percocet
-perday.co
 perfect diet
 perfect vpn
 perfect writ
@@ -16587,7 +16562,6 @@ personalinjury
 personalnatur
 personalpc
 personnalis
-perweek
 petencies
 petite dress
 petite-dress
