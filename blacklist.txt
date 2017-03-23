@@ -1387,6 +1387,7 @@ _zapat
 .plotexchange.us
 .press-release.
 .pressrelease.
+.ps:
 .pussie-
 .pussie.
 .pussies-
@@ -3159,6 +3160,12 @@ _zapat
 0generic
 0gram.ru
 00mail
+00mg buy
+00mg cheap
+00mg-buy
+00mg-cheap
+00mgbuy
+00mgcheap
 0ping
 00pips
 0taylor
@@ -3194,6 +3201,8 @@ _zapat
 1minute
 1ping
 1purse
+1st-best
+1stbest
 1stop
 1taylor
 1test
@@ -3382,18 +3391,46 @@ _zapat
 9the-best
 １０％
 １０＄
+10mg buy
+10mg cheap
+10mg-buy
+10mg-cheap
+10mg.
+10mgbuy
+10mgcheap
 10折
 １０歳
 ２０％
 ２０＄
+20mg buy
+20mg cheap
+20mg-buy
+20mg-cheap
+20mg.
+20mgbuy
+20mgcheap
 20折
 ２０歳
 ３０％
 ３０＄
+30mg buy
+30mg cheap
+30mg-buy
+30mg-cheap
+30mg.
+30mgbuy
+30mgcheap
 30折
 ３０歳
 ４０％
 ４０＄
+40mg buy
+40mg cheap
+40mg-buy
+40mg-cheap
+40mg.
+40mgbuy
+40mgcheap
 40折
 ４０歳
 49ers jers
@@ -3405,7 +3442,13 @@ _zapat
 49折
 ５０％
 ５０＄
+50mg buy
+50mg cheap
+50mg-buy
+50mg-cheap
 50mg.
+50mgbuy
+50mgcheap
 50折
 ５０歳
 ６０％
@@ -15081,6 +15124,7 @@ my online
 my sitte
 my ssite
 my web:
+my webb
 my wweb
 my-bebo
 my-bitcoin
@@ -15092,6 +15136,7 @@ my-online
 my-sitte
 my-ssite
 my-virus
+my-webb
 my-wweb
 mybitcoin
 mydead-
@@ -15116,6 +15161,7 @@ myssite
 mytest
 myvirus
 myweb
+mywebb
 mywebsite
 mywweb
 myy
@@ -16708,6 +16754,7 @@ pips hunter
 pips-daily
 pips-hunter
 pipshunter
+piroxicam
 piscine
 piumini moncler
 piumini woolrich
@@ -18405,8 +18452,12 @@ satcheldbag
 sauvegarde extern
 sauvegarde-extern
 save-you-time
+sayt vizitk
+sayt-vizitk
 sɑ
 sbobet
+scam store
+scam-store
 scam.asp
 scam.cfm
 scam.htm
@@ -21336,6 +21387,9 @@ vapourstick
 vapourx
 varabella
 vardenafil
+variant1
+variant2
+variant3
 vbyj
 vecaro lifestyle
 vecaro_
@@ -23017,6 +23071,7 @@ zyvox
 виагра
 видео чат
 видео-чат
+визиток сайт
 винтовой нас
 винтовой-нас
 вклады сбербанк
@@ -23082,6 +23137,8 @@ zyvox
 заказ
 заработ
 зарегистрировать
+здоровье сайт
+здоровье-сайт
 змусила на
 змусила-на
 знакомства
@@ -23164,6 +23221,7 @@ zyvox
 метал
 меховые
 миллион
+мир визиток
 молочной
 монтаж ауп
 монтаж канали
@@ -23209,7 +23267,9 @@ zyvox
 отличные
 официальных
 оформить груз
+оформить сайт
 оформить-груз
+оформить-сайт
 партнерская
 партнерских програм
 партнерских-програм
@@ -23294,7 +23354,9 @@ zyvox
 рулетка-джекпот
 рулетка-для
 рф
+сайт визитк
 сайт рассылки
+сайт-визитк
 сайт-рассылки
 сайте
 сайтов
@@ -23318,6 +23380,8 @@ zyvox
 скидки-отели
 скидки-туры
 слот
+создать сайта
+создать-сайта
 сопровождение девушка
 сопровождение девушки
 сопровождение-девушка
