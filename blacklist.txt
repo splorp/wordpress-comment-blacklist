@@ -771,6 +771,7 @@ _zapat
 -mrwhite/
 -new-car-
 -newports/
+-news-explained-
 -npn.
 -npn/
 -nude-
@@ -6093,6 +6094,7 @@ bvlgarishop
 bvlgarisshop
 bvlgaristore
 bvlgariuk
+bxox.in
 by-dr-dre
 bymean
 byo.co
@@ -8455,13 +8457,17 @@ duchesssatin
 dude.de
 dudes.de
 dummytest
+dump seller
+dump-seller
 dumps forum
 dumps online
+dumps seller
 dumps shop
 dumps track
 dumps with
 dumps-forum
 dumps-online
+dumps-seller
 dumps-shop
 dumps-track
 dumps-with
@@ -11586,6 +11592,9 @@ hotel-deal
 hotel-hermes
 hotelbritannia
 hoteldeal
+hoteles madrid
+hoteles-madrid
+hotelesmadrid
 hotelhermes
 hoteli
 hotelmanchester
@@ -11819,6 +11828,7 @@ in-gogle
 in' tremendous
 in’ tremendous
 inbeing
+inbox.ru
 inbto
 include priceless
 includeeng
@@ -21703,6 +21713,7 @@ vivierballerine
 vivierital
 vivierpompe
 vivotab
+vk.cc
 vkgnfx
 vod_
 vogue toms
