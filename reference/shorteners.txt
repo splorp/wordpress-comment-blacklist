@@ -38,3 +38,4 @@
 /to.ly
 /tr.im
 /urlms.co
+/xurl.es
