@@ -2911,9 +2911,9 @@ _zapat
 #/a
 #file
 #random
+%$%
 %5b%5d
 %7c
-%$%
 %anchor%
 %blogurl%
 %d0%b0
@@ -3143,7 +3143,29 @@ _zapat
 |porn
 |year
 |yr
-�
+¤¤
+＄００
+＄１０
+＄２０
+＄３０
+＄４０
+＄５０
+＄６０
+＄７０
+＄８０
+＄９０
+¥·
+¥°
+¥¦
+¥¤
+¥¢
+¥³
+¥ã
+¥é
+¥è
+¥ì
+¥ó
+¥ö
 00 pips
 0-easy-way
 0-generic
@@ -3558,32 +3580,8 @@ _zapat
 2017 popular
 2017-popular
 123456789
-¤¤
-＄００
-＄１０
-＄２０
-＄３０
-＄４０
-＄５０
-＄６０
-＄７０
-＄８０
-＄９０
-¥·
-¥°
-¥¦
-¥¤
-¥¢
-¥³
-¥ã
-¥é
-¥è
-¥ì
-¥ó
-¥ö
 a http
 a lots
-ã¨
 a-cell-phone
 a-lots
 a-powerful-way
@@ -3593,11 +3591,17 @@ a.@
 a.pri.l
 ã§
 ã¶
-ã©
 ã‰
 a‡
+ã¨
+ã©
 ä±
 ã¬
+ã¤
+ã¢
+ã£
+ã¥
+â€
 a0.asp
 a00.asp
 a0.cfm
@@ -3699,11 +3703,6 @@ a09.jsp
 a9.jsp
 a09.php
 a9.php
-ã¤
-ã¢
-ã£
-ã¥
-â€
 ã¹
 ã²
 ãª
@@ -7116,6 +7115,7 @@ clearance out
 clearance sale
 clearance-mbt
 clearance-michael
+clearance-on
 clearance-out
 clearance-sale
 clearance+
@@ -10538,8 +10538,11 @@ good blog
 good click
 good free
 good hemp
+good page
 good post
+good site:
 good template
+good website
 good-article
 good-blog
 good-click
@@ -10548,7 +10551,9 @@ good-free
 good-game
 good-hemp
 good-post
+good-site
 good-template
+good-website
 good}
 goodbye.asp
 goodfree
@@ -23656,6 +23661,7 @@ zyvox
 倒
 全球华人
 公式
+最安値
 冷静化处理
 割引
 务部
@@ -23688,7 +23694,6 @@ zyvox
 把药
 摔死女
 攜心山
-最安値
 服务
 札入れ
 样死
