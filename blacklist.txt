@@ -1070,6 +1070,7 @@ _zapat
 ,ti
 ,we
 ､､
+;; http
 ;&#x
 ;#
 :)!
@@ -2857,6 +2858,7 @@ _zapat
 /xe/
 /xml/
 /xmlrpc/
+/xurl.es
 /ya.
 /yabb
 /yours.
