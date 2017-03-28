@@ -228,7 +228,7 @@ _theme
 _timber
 _title
 _track
-_traffic
+_traff
 _tumi
 _ugg
 _uomo
@@ -1179,7 +1179,6 @@ _zapat
 .coach-
 .com wild
 .com,
-.com?
 .com/,
 .com/%
 .com/1-
@@ -1242,15 +1241,11 @@ _zapat
 .hard-
 .hermes-
 .herveleger-
-.htm?
 .htm/
-.html?
 .html/
 .htn
 .in,
-.in?
 .in/,
-.in/?
 .in/1-
 .in/1.
 .in/2-
@@ -1274,17 +1269,13 @@ _zapat
 .in/top
 .in/user
 .in#
-.info?
 .info.
 .info/,
-.info/?
 .insanity-
 .internet-
 .it/?it
 .it/t/
 .jpg.php
-.jsp?
-.jsp/?
 .kr/kr/
 .lipoly.ru
 .longchamp-
@@ -1292,17 +1283,12 @@ _zapat
 .m88-
 .magix.net
 .marant-
-.mobi?
-.mobi/?
 .moncler-
 .mrwhite-
 .mrwhite.
 .mrwhite/
 .mulberry-
-.name?
-.name/?
 .net,
-.net?
 .net/,
 .net/%
 .net/1-
@@ -1326,9 +1312,7 @@ _zapat
 .org/user
 .outlet.co
 .ph,
-.ph?
 .ph/,
-.ph/?
 .ph/#
 .ph/1-
 .ph/1.
@@ -1356,12 +1340,8 @@ _zapat
 .pharmacy-
 .pharmacy.
 .pharmacy/
-.php?
-.php/?
 .pl,
-.pl?
 .pl/,
-.pl/?
 .pl/#
 .pl/1-
 .pl/1.
@@ -1408,9 +1388,7 @@ _zapat
 .remote-desktop
 .remotedesktop
 .ro,
-.ro?
 .ro/,
-.ro/?
 .ro/#
 .ro/1-
 .ro/1.
@@ -1442,9 +1420,7 @@ _zapat
 .royal-
 .rshacks.
 .ru,
-.ru?
 .ru/,
-.ru/?
 .ru/#
 .ru/1-
 .ru/1.
@@ -1486,9 +1462,7 @@ _zapat
 .skque/
 .smiley
 .su,
-.su?
 .su/,
-.su/?
 .su/#
 .su/1-
 .su/1.
@@ -1533,9 +1507,7 @@ _zapat
 .yuwanshe.
 .yves
 .za,
-.za?
 .za/,
-.za/?
 .za/#
 .za/1-
 .za/1.
@@ -2913,9 +2885,9 @@ _zapat
 #/a
 #file
 #random
-%$%
 %5b%5d
 %7c
+%$%
 %anchor%
 %blogurl%
 %d0%b0
@@ -3145,29 +3117,6 @@ _zapat
 |porn
 |year
 |yr
-¤¤
-＄００
-＄１０
-＄２０
-＄３０
-＄４０
-＄５０
-＄６０
-＄７０
-＄８０
-＄９０
-¥·
-¥°
-¥¦
-¥¤
-¥¢
-¥³
-¥ã
-¥é
-¥è
-¥ì
-¥ó
-¥ö
 00 pips
 0-easy-way
 0-generic
@@ -3582,8 +3531,32 @@ _zapat
 2017 popular
 2017-popular
 123456789
+¤¤
+＄００
+＄１０
+＄２０
+＄３０
+＄４０
+＄５０
+＄６０
+＄７０
+＄８０
+＄９０
+¥·
+¥°
+¥¦
+¥¤
+¥¢
+¥³
+¥ã
+¥é
+¥è
+¥ì
+¥ó
+¥ö
 a http
 a lots
+ã¨
 a-cell-phone
 a-lots
 a-powerful-way
@@ -3593,17 +3566,11 @@ a.@
 a.pri.l
 ã§
 ã¶
+ã©
 ã‰
 a‡
-ã¨
-ã©
 ä±
 ã¬
-ã¤
-ã¢
-ã£
-ã¥
-â€
 a0.asp
 a00.asp
 a0.cfm
@@ -3705,6 +3672,11 @@ a09.jsp
 a9.jsp
 a09.php
 a9.php
+ã¤
+ã¢
+ã£
+ã¥
+â€
 ã¹
 ã²
 ãª
@@ -4219,9 +4191,9 @@ anonymity!
 anonymize your
 anonymous-download
 anonymousvpn
-another chernobyl?
+another chernobyl
 another-chernobyl
-answertraffic
+answertraff
 anti-aging
 antiage
 antiaging
@@ -5973,7 +5945,7 @@ buy privat
 buy qsymia
 buy silver
 buy toms
-buy traffic
+buy traff
 buy women
 buy-acrylic
 buy-blade
@@ -6009,7 +5981,7 @@ buy-silver
 buy-soma
 buy-toms
 buy-top
-buy-traffic
+buy-traff
 buy-women
 buy.top
 buycanadagoose
@@ -6027,19 +5999,19 @@ buying fifa
 buying insta
 buying likes
 buying rune
-buying traffic
+buying traff
 buying-face
 buying-fifa
 buying-insta
 buying-likes
 buying-rune
-buying-traffic
+buying-traff
 buyingface
 buyingfifa
 buyinginsta
 buyinglikes
 buyingrune
-buyingtraffic
+buyingtraff
 buyjap
 buyjorda
 buyjp
@@ -6055,7 +6027,7 @@ buyrun
 buysilver
 buysoma
 buytoms
-buytraffic
+buytraff
 buywomen
 bvlgari bague
 bvlgari bijoux
@@ -7719,15 +7691,15 @@ cozyugg
 cpa camp
 cpa click
 cpa ppv
-cpa traffic
+cpa traff
 cpa-camp
 cpa-click
 cpa-ppv
-cpa-traffic
+cpa-traff
 cpacamp
 cpaclick
 cpappv
-cpatraffic
+cpatraff
 cr.e.a.s.e
 cr.e.a.se
 cr.e.as.e
@@ -8319,7 +8291,9 @@ donnadonn
 donne donn
 donne-donn
 donnedonn
+dont cease
 dont know
+dont-cease
 dont-fit-me
 dont-know
 door-blog
@@ -9013,12 +8987,14 @@ facebok
 facebook ad
 facebook cash
 facebook fan
-facebook traffic
+facebook lawful
+facebook traff
 facebook_
 facebook-ad
 facebook-cash
 facebook-fan
-facebook-traffic
+facebook-lawful
+facebook-traff
 facebookad
 facebookcash
 facebookfan
@@ -9091,6 +9067,8 @@ fanatics shop
 fanatics-shop
 fanaticshop
 fanaticsshop
+fanciful belly
+fanciful-belly
 fancyto
 fanshome
 fantastic blog
@@ -9306,7 +9284,7 @@ fb gold
 fb like
 fb money
 fb sales
-fb traffic
+fb traff
 fb-ads
 fb-cash
 fb-fans
@@ -9314,7 +9292,7 @@ fb-gold
 fb-like
 fb-money
 fb-sales
-fb-traffic
+fb-traff
 fbads
 fbcash
 fbfans
@@ -9322,7 +9300,7 @@ fbgold
 fblike
 fbmoney
 fbsales
-fbtraffic
+fbtraff
 fckt
 fcukfcuk
 feacute-deacute
@@ -11728,6 +11706,9 @@ i-only-done
 i-will-be
 ï¿½
 i.@
+i.g.o.r
+i.g.or
+i.go.r
 i'v got
 i’v got
 i2g
@@ -11738,6 +11719,7 @@ icons/set
 idanmark
 ideea
 ifyou
+ig.o.r
 ihttp
 illions4u
 illusion origami
@@ -11829,9 +11811,11 @@ imptortant
 imtmdiae
 in delicious
 in gogle
+in youtube
 in-delicious
 in-disguise
 in-gogle
+in-youtube
 in' tremendous
 in’ tremendous
 inbeing
@@ -11842,9 +11826,9 @@ includeeng
 includes priceless
 income_
 income.in
-increase traffic
-increase-traffic
-increasetraffic
+increase traff
+increase-traff
+increasetraff
 incredible article
 incredible blog
 incredible layout
@@ -12012,7 +11996,7 @@ instant cash
 instant loan
 instant pay
 instant paysafecard
-instant traffic
+instant traff
 instant web
 instant week
 instant_
@@ -12022,7 +12006,7 @@ instant-cash
 instant-loan
 instant-pay
 instant-paysafecard
-instant-traffic
+instant-traff
 instant-web
 instant-week
 instantappraisal
@@ -12030,7 +12014,7 @@ instantblog
 instantcash
 instantloan
 instantpay
-instanttraffic
+instanttraff
 instantweb
 instantweek
 instappraisal
@@ -13198,6 +13182,8 @@ laurent-sandal
 laurentfemme
 laurentsandal
 laurenuk
+lawful page
+lawful-page
 lawoffice.net
 lɑ
 lead-sys
@@ -17140,15 +17126,15 @@ ppc-program
 ppv camp
 ppv click
 ppv cpa
-ppv traffic
+ppv traff
 ppv-camp
 ppv-click
 ppv-cpa
-ppv-traffic
+ppv-traff
 ppvcamp
 ppvclick
 ppvcpa
-ppvtraffic
+ppvtraff
 prada bag
 prada cell
 prada cheap
@@ -17354,6 +17340,7 @@ produithermes
 produkc
 produkcja
 profesjonal
+professianal
 professional 2005
 professional 2006
 professional 2007
@@ -19281,7 +19268,7 @@ site position
 site post
 site provid
 site theme
-site traffic
+site traff
 site ufficial
 site-asian
 site-backup
@@ -19296,7 +19283,7 @@ site-position
 site-post
 site-provid
 site-theme
-site-traffic
+site-traff
 site-ufficial
 site:-
 site:)
@@ -20169,17 +20156,17 @@ tamsulosin
 tanger out
 tanger-out
 tapicerowane
-targeted traffic
+targeted traff
 targeted visit
-targeted-traffic
+targeted-traff
 targeted-visit
-targetedtraffic
+targetedtraff
 targetedvisit
-targetted traffic
+targetted traff
 targetted visit
-targetted-traffic
+targetted-traff
 targetted-visit
-targettedtraffic
+targettedtraff
 targettedvisit
 tarif-malin
 tarifmalin
@@ -21954,7 +21941,7 @@ web-site
 web-sitte
 web-solution
 web-therefore
-web-traffic
+web-traff
 web-viewer
 web-website
 web/icon
@@ -21998,7 +21985,7 @@ website look
 website online
 website post
 website style
-website traffic
+website traff
 website usa
 website visit
 website we
@@ -22029,7 +22016,7 @@ websitesdesign
 websitesonline
 websitestyle
 websitesvisit
-websitetraffic
+websitetraff
 websiteusa
 websitevisit
 websitte
@@ -22714,7 +22701,7 @@ your porn
 your sijte
 your submit
 your success
-your traffic
+your traff
 your ugg
 your weblog
 your_
@@ -23065,14 +23052,14 @@ zyvox
 банкрот
 без
 бензогенератор
-бесплатная диагностика
-бесплатная-диагностика
-бесплатной-диагностика
-бесплатной диагностика
 бесплатная демо
+бесплатная диаг
 бесплатная-демо
+бесплатная-диаг
 бесплатной демо
+бесплатной диаг
 бесплатной-демо
+бесплатной-диаг
 бинарных опцион
 бинарных-опцион
 блог
@@ -23373,6 +23360,9 @@ zyvox
 ремонт-ворот
 ресниц
 ресурс
+руб вста
+руб гарп
+руб коль
 рублей
 рулетка джекпот
 рулетка для
@@ -23672,7 +23662,6 @@ zyvox
 倒
 全球华人
 公式
-最安値
 冷静化处理
 割引
 务部
@@ -23705,6 +23694,7 @@ zyvox
 把药
 摔死女
 攜心山
+最安値
 服务
 札入れ
 样死
