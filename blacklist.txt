@@ -968,6 +968,9 @@ _zapat
 -supplements-
 -supplements.
 -supplements/
+-supremacy-
+-supremacy.
+-supremacy/
 -symptoms-
 -systems.in
 -systems.ph
@@ -1160,6 +1163,7 @@ _zapat
 .asp/
 .azmya.
 .baidu
+.bbls.pl
 .be/,
 .bioactive
 .blogbox.
@@ -1246,6 +1250,7 @@ _zapat
 .htn
 .in,
 .in/,
+.in/?entry.
 .in/1-
 .in/1.
 .in/2-
@@ -1313,6 +1318,7 @@ _zapat
 .outlet.co
 .ph,
 .ph/,
+.ph/?entry.
 .ph/#
 .ph/1-
 .ph/1.
@@ -1342,6 +1348,7 @@ _zapat
 .pharmacy/
 .pl,
 .pl/,
+.pl/?entry.
 .pl/#
 .pl/1-
 .pl/1.
@@ -1389,6 +1396,7 @@ _zapat
 .remotedesktop
 .ro,
 .ro/,
+.ro/?entry.
 .ro/#
 .ro/1-
 .ro/1.
@@ -1421,6 +1429,7 @@ _zapat
 .rshacks.
 .ru,
 .ru/,
+.ru/?entry.
 .ru/#
 .ru/1-
 .ru/1.
@@ -1463,6 +1472,7 @@ _zapat
 .smiley
 .su,
 .su/,
+.su/?entry.
 .su/#
 .su/1-
 .su/1.
@@ -1493,6 +1503,9 @@ _zapat
 .su/vip
 .su#
 .sunglasses-
+.supremacy-
+.supremacy.
+.supremacy/
 .supreme-
 .t.a.p
 .t.wit
@@ -1508,6 +1521,7 @@ _zapat
 .yves
 .za,
 .za/,
+.za/?entry.
 .za/#
 .za/1-
 .za/1.
@@ -2676,6 +2690,9 @@ _zapat
 /suplementy-
 /suplementy.
 /suplementy/
+/supremacy-
+/supremacy.
+/supremacy/
 /swf/
 /syaneru
 /system/
@@ -4010,6 +4027,9 @@ ageless-female
 ageless-male
 ageless-men
 ageless-women
+agen bola
+agen-bola
+agenbola
 agencje-
 agent denim
 agent direct
@@ -5437,6 +5457,7 @@ bobet link
 bobet-link
 bobetlink
 bodog8
+bola terpercaya
 bolsos marc
 bolsos-marc
 bolsosmarc
@@ -8068,6 +8089,7 @@ dg-shoe
 dhttp
 di droga
 di-droga
+dia-tips
 diablo3
 diamanti cartier
 diamanti-cartier
@@ -8316,6 +8338,7 @@ download_
 download-apk
 download-brace
 downloadbrace
+downloadism
 downloads_
 doxycycline
 dragon avail
@@ -18593,6 +18616,8 @@ secretadvert
 secretbeautiful
 secretgenerous
 secretreview
+secured result
+secured-result
 security-for
 seek man
 seek men
@@ -20560,6 +20585,7 @@ tinnitustin
 tinytowtimmy.co
 tipblog
 tips-for-
+tips-meny
 tips-to-start
 tips.info
 tipsblog
@@ -21197,6 +21223,12 @@ unknown.ru
 unknown.su
 unknown.za
 unknown@
+unlim pay
+unlim-pay
+unlimited pay
+unlimited-pay
+unlimitedpay
+unlimpay
 unlock iphone
 unlock-iphone
 unlock-mobile
