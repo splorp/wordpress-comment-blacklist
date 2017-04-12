@@ -5951,6 +5951,8 @@ button ugg
 button-ugg
 buttonugg
 butwho
+bux cheap
+bux-cheap
 buy acrylic
 buy ageless
 buy blade
@@ -6735,6 +6737,7 @@ cheap nike
 cheap north
 cheap oakley
 cheap paper
+cheap pokemon
 cheap price
 cheap proclip
 cheap ray
@@ -6810,6 +6813,7 @@ cheap-north
 cheap-oakley
 cheap-pandora
 cheap-paper
+cheap-pokemon
 cheap-prada
 cheap-price
 cheap-proclip
@@ -6855,9 +6859,11 @@ cheapcoach
 cheapconverse
 cheapessay
 cheapest hockey
+cheapest pokemon
 cheapest price
 cheapest ray
 cheapest-hockey
+cheapest-pokemon
 cheapest-price
 cheapest-ray
 cheapest.co
@@ -9053,6 +9059,8 @@ faceterra
 facevest
 facial-hair
 facialhair
+fact awesome
+fact-awesome
 factory coach
 factory out
 factory-coach
@@ -10480,6 +10488,7 @@ glyburide
 gma1l
 gmai1
 gmaiil
+gmaills
 gmailmirror
 gneuienly
 gnlaser
@@ -14012,6 +14021,7 @@ manchette hermes
 manchette-hermes
 manchettehermes
 mangaga
+mangoosteen
 manicshop
 manner puma
 månner puma
@@ -16919,14 +16929,21 @@ pokego-coin
 pokegocheat
 pokegocoin
 pokemon amulet
+pokemon bux
+pokemon cheap
 pokemon cheat
 pokemon coin
+pokemon suppl
 pokemon tcg
 pokemon-amulet
+pokemon-bux
+pokemon-cheap
 pokemon-cheat
 pokemon-coin
+pokemon-suppl
 pokemon-tcg
 pokemonamulet
+pokemonbux
 pokemoncheat
 pokemoncoin
 pokemongocheat
@@ -17620,8 +17637,11 @@ purses-out
 purses-sale
 pursescheap
 pursesout
+pussy porn
 pussy wet
+pussy-porn
 pussy-wet
+pussyporn
 pussywet
 puzzle maker
 puzzle-maker
@@ -19323,6 +19343,8 @@ singapore.cfm
 singapore.htm
 singapore.jsp
 singapore.php
+sirop mangustin
+sirop-mangustin
 sistershit
 site asian
 site backup
@@ -23354,6 +23376,8 @@ zyvox
 ожерелье
 онлайн
 оптом
+от ожирения
+от-ожирения
 отделка балкона
 отделка-балкона
 отзывы
@@ -23468,6 +23492,8 @@ zyvox
 селитра
 симпатичная
 симптом
+сироп мангустина
+сироп-мангустина
 скандал жк
 скандал-жк
 скачать
@@ -23482,6 +23508,8 @@ zyvox
 слот
 создать сайта
 создать-сайта
+сократите риск
+сократите-риск
 сопровождение девушка
 сопровождение девушки
 сопровождение-девушка
