@@ -654,6 +654,9 @@ _zapat
 -homepage-
 -homepage.
 -homepage/
+-iapple-
+-iapple.
+-iapple/
 -ihover-
 -ihover.
 -ihover/
@@ -1248,6 +1251,9 @@ _zapat
 .htm/
 .html/
 .htn
+.iapple-
+.iapple.
+.iapple/
 .in,
 .in/,
 .in/?entry.
@@ -2209,6 +2215,9 @@ _zapat
 /html/
 /http
 /hyundai.
+/iapple-
+/iapple.
+/iapple/
 /ihover-
 /ihover.
 /ihover/
@@ -4250,8 +4259,11 @@ app.lk
 app.php
 appear conseq
 appear-conseq
+apple wedding
 apple-unlock
+apple-wedding
 appleunlock
+applewedding
 appro-chait
 appyourself
 apr.i.l
@@ -8250,6 +8262,7 @@ discountwheel
 discussion made
 discussion-made
 display_
+disulfiram
 diva-com
 divulgaemail
 djstool
@@ -11167,6 +11180,7 @@ health stock
 health suppl
 health-advis
 health-how
+health-recipe
 health-stock
 health-suppl
 healthadvis
@@ -11183,6 +11197,7 @@ healthcarehow
 healthcarestock
 healthcaresuppl
 healthhow
+healthrecipe
 healthrelated
 healthstock
 healthsuppl
@@ -22394,6 +22409,7 @@ woman+
 womanbikini
 women bikini
 women-bikini
+women.ru/pict
 women+
 womenbikini
 won blog
@@ -23427,6 +23443,8 @@ zyvox
 пожаловать
 поиск-номера-теле
 поисковик
+поисск відео
+поисск-відео
 покер
 порно
 портал
@@ -23588,6 +23606,8 @@ zyvox
 целевые клиентские
 целевые-клиентские
 цена
+через поисск
+через-поисск
 шапка
 шёлковый палант
 шёлковый платок
