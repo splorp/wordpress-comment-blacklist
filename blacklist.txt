@@ -1,3 +1,4 @@
+_123_
 _abercrom
 _account
 _addon
@@ -9,7 +10,7 @@ _albion
 _alviero
 _annonce
 _article
-_asics
+_asic
 _augmentin
 _autentic
 _authentic
@@ -120,7 +121,7 @@ _instant
 _jack
 _java
 _jers
-_jorda
+_jord
 _key
 _kino
 _kit
@@ -689,6 +690,15 @@ _zapat
 -kabriolet-
 -kabriolet.
 -kabriolet/
+-kartridj-
+-kartridj.
+-kartridj/
+-kartridja-
+-kartridja.
+-kartridja/
+-kartridzhej-
+-kartridzhej.
+-kartridzhej/
 -kontakt-
 -kontakt.
 -kontakt/
@@ -1287,6 +1297,15 @@ _zapat
 .it/?it
 .it/t/
 .jpg.php
+.kartridj-
+.kartridj.
+.kartridj/
+.kartridja-
+.kartridja.
+.kartridja/
+.kartridzhej-
+.kartridzhej.
+.kartridzhej/
 .kr/kr/
 .lipoly.ru
 .longchamp-
@@ -1436,6 +1455,7 @@ _zapat
 .rshacks.
 .ru,
 .ru/,
+.ru/?
 .ru/?entry.
 .ru/#
 .ru/1-
@@ -1462,6 +1482,7 @@ _zapat
 .ru/shop
 .ru/sold
 .ru/store
+.ru/thumb
 .ru/top
 .ru/user
 .ru/uslug
@@ -1517,8 +1538,12 @@ _zapat
 .t.a.p
 .t.wit
 .thearticle
+.top/?
+.top/thumb
 .travel.pl
 .twilight-
+.ua/?
+.ua/thumb
 .univer.
 .us/user
 .webs.co
@@ -1992,6 +2017,7 @@ _zapat
 /cld-
 /cld.
 /clearance/
+/clit-
 /clit.
 /clrb-
 /clrb.
@@ -2289,6 +2315,15 @@ _zapat
 /just.
 /kabriolet-
 /kabriolet.
+/kartridj-
+/kartridj.
+/kartridj/
+/kartridja-
+/kartridja.
+/kartridja/
+/kartridzhej-
+/kartridzhej.
+/kartridzhej/
 /kat,
 /kd6
 /kitchenknife-
@@ -2971,7 +3006,7 @@ _zapat
 +adidas
 +alviero
 +article
-+asics
++asic
 +babe
 +backup
 +bene
@@ -3029,7 +3064,7 @@ _zapat
 +iphone
 +java
 +jers
-+jorda
++jord
 +key
 +kino
 +kit
@@ -4058,10 +4093,10 @@ ahttp
 aint goin
 aint-goin
 air max
-air-jorda
+air-jord
 air-max
 air-yeezy
-airjorda
+airjord
 airmaix
 airmax
 airmax_
@@ -4466,6 +4501,7 @@ aspiring blog
 aspiring-blog
 aspnet_client
 ass small
+ass-lick
 ass-small
 asset grow
 asset-grow
@@ -4476,6 +4512,7 @@ asshole-
 assistance informatique
 assistance-inform
 assistance-informatique
+asslick
 associate link
 associate-link
 assortiment
@@ -4530,43 +4567,43 @@ australian slot
 australian-poker
 australian-pokie
 australian-slot
-austria asics
-austria-asics
-austriaasics
+austria asic
+austria-asic
+austriaasic
 autentica cheap
 autentica hermes
-autentica jorda
+autentica jord
 autentica_
 autentica-cheap
-autentica-jorda
+autentica-jord
 autentica-ugg
 autenticahermes
-autenticajorda
+autenticajord
 autenticaugg
 autentico cheap
 autentico hermes
-autentico jorda
+autentico jord
 autentico_
 autentico-cheap
-autentico-jorda
+autentico-jord
 autentico-ugg
 autenticohermes
-autenticojorda
+autenticojord
 autenticougg
 auteur nike
 auteur-nike
 auteurnike
 authentic cheap
 authentic hermes
-authentic jorda
+authentic jord
 authentic stephen
 authentic_
 authentic-cheap
-authentic-jorda
+authentic-jord
 authentic-stephen
 authentic-ugg
 authentichermes
-authenticjorda
+authenticjord
 authenticstephen
 authenticugg
 authored subject
@@ -4947,25 +4984,25 @@ barn-timber
 barntimber
 basket chanel
 basket isabel
-basket jorda
+basket jord
 basket mbt
 basket shoe
 basket-chanel
 basket-isabel
-basket-jorda
+basket-jord
 basket-mbt
 basket-shoe
-basketball jorda
+basketball jord
 basketball word
-basketball-jorda
+basketball-jord
 basketball-shoe
 basketball-word
-basketballjorda
+basketballjord
 basketballshoe
 basketballword
 basketchanel
 basketisabel
-basketjorda
+basketjord
 basketmbt
 basketshoe
 bat-pro
@@ -5991,7 +6028,7 @@ buy hermes
 buy hoverboard
 buy insta
 buy jap
-buy jorda
+buy jord
 buy jp
 buy likes
 buy louis
@@ -6021,7 +6058,7 @@ buy-hair
 buy-hoverboard
 buy-insta
 buy-jap
-buy-jorda
+buy-jord
 buy-jp
 buy-likes
 buy-louis
@@ -6069,7 +6106,7 @@ buyinglikes
 buyingrune
 buyingtraff
 buyjap
-buyjorda
+buyjord
 buyjp
 buylikes
 buylouis
@@ -6633,7 +6670,7 @@ chaussrespascher
 chaussure adidas
 chaussure botte
 chaussure boutique
-chaussure jorda
+chaussure jord
 chaussure loubou
 chaussure mbt
 chaussure nike
@@ -6641,12 +6678,12 @@ chaussure paris
 chaussure supra
 chaussure_
 chaussure-adidas
-chaussure-asics
+chaussure-asic
 chaussure-botte
 chaussure-boutique
 chaussure-femme
 chaussure-homme
-chaussure-jorda
+chaussure-jord
 chaussure-loubou
 chaussure-mbt
 chaussure-nike
@@ -6664,7 +6701,7 @@ chaussures boutique
 chaussures christ
 chaussures de
 chaussures femme
-chaussures jorda
+chaussures jord
 chaussures loubou
 chaussures mbt
 chaussures nike
@@ -6677,14 +6714,14 @@ chaussures ugg
 chaussures_
 chaussures- abil
 chaussures-adidas
-chaussures-asics
+chaussures-asic
 chaussures-boutique
 chaussures-christ
 chaussures-de
 chaussures-femme
 chaussures-habil
 chaussures-homme
-chaussures-jorda
+chaussures-jord
 chaussures-loubou
 chaussures-mbt
 chaussures-nike
@@ -6740,7 +6777,7 @@ cheap iphone
 cheap jack
 cheap jers
 cheap jersey
-cheap jorda
+cheap jord
 cheap lebron
 cheap longchamp
 cheap loubou
@@ -6816,7 +6853,7 @@ cheap-hotel
 cheap-jack
 cheap-jers
 cheap-jersey
-cheap-jorda
+cheap-jord
 cheap-kobe
 cheap-lebron
 cheap-loubou
@@ -6900,7 +6937,7 @@ cheapiphone
 cheapjack
 cheapjers
 cheapjersey
-cheapjorda
+cheapjord
 cheapkobe
 cheaplebron
 cheaploubou
@@ -7000,7 +7037,7 @@ china-shop
 china-wholes
 chinacheap
 chinadress
-chinajorda
+chinajord
 chinalow
 chinascarf
 chinascarve
@@ -7110,6 +7147,9 @@ cinture-out
 cinturegucci
 cintureout
 ciproanti
+city chung
+city-chung
+citychung
 cl-men
 claim yukon
 claim-yukon
@@ -8233,7 +8273,7 @@ dirt-bike
 disclaim.asp
 discount afl
 discount bag
-discount jorda
+discount jord
 discount mbt
 discount mulberry
 discount nba
@@ -8247,7 +8287,7 @@ discount-
 discount-afl
 discount-bag
 discount-cig
-discount-jorda
+discount-jord
 discount-mbt
 discount-north
 discount-reebok
@@ -9715,13 +9755,13 @@ footdisc
 footmanche
 footnike
 footwear disc
-footwear jorda
+footwear jord
 footwear mbt
 footwear-disc
-footwear-jorda
+footwear-jord
 footwear-mbt
 footweardisc
-footwearjorda
+footwearjord
 footwearmbt
 footwears
 for cheap
@@ -10402,7 +10442,7 @@ girl blog
 girl eblog
 girl escort
 girl jap
-girl jorda
+girl jord
 girl jp
 girl spouse
 girl-blog
@@ -10410,7 +10450,7 @@ girl-day-dress
 girl-eblog
 girl-escort
 girl-jap
-girl-jorda
+girl-jord
 girl-jp
 girl-spouse
 girlblog
@@ -10420,7 +10460,7 @@ girlescort
 girlie spouse
 girlie-spouse
 girliespouse
-girljorda
+girljord
 girljp
 girls blog
 girls eblog
@@ -11589,7 +11629,10 @@ homebased
 homeforsale
 homeloan
 homeremed
+homes smart
+homes-smart
 homesforsale
+homessmart
 homme chaus
 homme couche
 homme giorgio
@@ -12469,8 +12512,8 @@ jacobsuk
 jagody acai
 jagody-acai
 jagowho
-jam jorda
-jam-jorda
+jam jord
+jam-jord
 japan converse
 japan dr
 japan marc
@@ -12660,9 +12703,9 @@ jimla.r.d
 jimmy-choo
 jimmychoo
 jjl
-jogging jorda
-jogging-jorda
-joggingjorda
+jogging jord
+jogging-jord
+joggingjord
 joggingstroll
 jogos
 john-varvatos
@@ -12762,7 +12805,7 @@ jpconverse
 jpmarcjacob
 jpmonster
 jpsale
-jpsasics
+jpsasic
 js wing
 js-wing
 jsadidas
@@ -13927,17 +13970,17 @@ made-milf
 madeknown
 mademilf
 madeye30
-magasin asics
+magasin asic
 magasin chemise
 magasin hollis
 magasin longchamp
 magasin robe
-magasin-asics
+magasin-asic
 magasin-chemise
 magasin-hollis
 magasin-longchamp
 magasin-robe
-magasinasics
+magasinasic
 magasincanadagoose
 magasinchemise
 magasinhollis
@@ -15438,14 +15481,14 @@ neurontin
 nevertheless just
 nevertheless-just
 new gucci
-new jorda
+new jord
 new manolo
 new seo
 new-article
 new-balance
 new-era-hat
 new-gucci
-new-jorda
+new-jord
 new-manolo
 new-oakley
 new-seo
@@ -15464,7 +15507,7 @@ newest news
 newest-news
 newgucci
 newhong
-newjorda
+newjord
 newmanolo
 newoakley
 newport 100s
@@ -15584,7 +15627,7 @@ nike andy
 nike designa
 nike free
 nike jers
-nike jorda
+nike jord
 nike kd
 nike mercurial
 nike roshe
@@ -15607,7 +15650,7 @@ nike-dunk
 nike-free
 nike-freerun
 nike-jers
-nike-jorda
+nike-jord
 nike-kd
 nike-main
 nike-mercurial
@@ -15638,7 +15681,7 @@ nikefree
 nikefreerun
 nikegb
 nikejers
-nikejorda
+nikejord
 nikemain
 nikemercurial
 nikepasch
@@ -17070,6 +17113,7 @@ porn model
 porn movie
 porn photo
 porn pic
+porn porn
 porn post
 porn pour
 porn prev
@@ -17102,6 +17146,7 @@ porn-mobile
 porn-model
 porn-movie
 porn-photo
+porn-porn
 porn-post
 porn-pour
 porn-prev
@@ -17168,6 +17213,7 @@ pornotube
 pornovid
 pornphoto
 pornpic
+pornporn
 pornpost
 pornsearch
 pornsex
@@ -18176,9 +18222,9 @@ results.htm
 retail-store
 retailstore
 retin-a
-retro jorda
-retro-jorda
-retrojorda
+retro jord
+retro-jord
+retrojord
 reverse lookup
 reverse-lookup
 reverse-phone
@@ -20175,9 +20221,11 @@ swarovski_
 swarovskijap
 swarovskijp
 sweet blog
+sweet cum
 sweet page
 sweet site
 sweet-blog
+sweet-cum
 sweet-page
 sweet-site
 sweetblog
@@ -22297,7 +22345,7 @@ wholesale hand
 wholesale iphone
 wholesale jers
 wholesale jersey
-wholesale jorda
+wholesale jord
 wholesale led
 wholesale nba
 wholesale north
@@ -22316,7 +22364,7 @@ wholesale-hand
 wholesale-iphone
 wholesale-jers
 wholesale-jersey
-wholesale-jorda
+wholesale-jord
 wholesale-led
 wholesale-mac
 wholesale-nba
@@ -22333,7 +22381,7 @@ wholesalefree
 wholesalehand
 wholesalejers
 wholesalejersey
-wholesalejorda
+wholesalejord
 wholesaleled
 wholesalemac
 wholesalenba
@@ -22842,6 +22890,7 @@ young-porn
 youngporn
 your blog
 your budget
+your dick
 your penis
 your porn
 your sijte
@@ -22855,6 +22904,7 @@ your-account
 your-blog
 your-budget
 your-credit
+your-dick
 your-ex
 your-free
 your-loan
@@ -22876,6 +22926,7 @@ youraccount
 yourblog
 yourbudget
 yourcredit
+yourdick
 yourdui
 yourfree
 yourloan
@@ -22974,19 +23025,19 @@ zapata-mbt
 zapatadc
 zapatadembt
 zapatambt
-zapatas asics
+zapatas asic
 zapatas dc
-zapatas jorda
+zapatas jord
 zapatas mbt
 zapatas_
-zapatas-asics
+zapatas-asic
 zapatas-dc
-zapatas-jorda
+zapatas-jord
 zapatas-mbt
-zapatasasics
+zapatasasic
 zapatasdc
 zapatasdembt
-zapatasjorda
+zapatasjord
 zapatasmbt
 zapatilla dc
 zapatilla mbt
@@ -22996,19 +23047,19 @@ zapatilla-mbt
 zapatilladc
 zapatilladembt
 zapatillambt
-zapatillas asics
+zapatillas asic
 zapatillas dc
-zapatillas jorda
+zapatillas jord
 zapatillas mbt
 zapatillas_
-zapatillas-asics
+zapatillas-asic
 zapatillas-dc
-zapatillas-jorda
+zapatillas-jord
 zapatillas-mbt
-zapatillasasics
+zapatillasasic
 zapatillasdc
 zapatillasdembt
-zapatillasjorda
+zapatillasjord
 zapatillasmbt
 zapato dc
 zapato_
@@ -23016,19 +23067,21 @@ zapato-dc
 zapato-de-new
 zapatodc
 zapatodenew
-zapatos asics
+zapatos asic
 zapatos dc
-zapatos jorda
+zapatos jord
 zapatos_
-zapatos-asics
+zapatos-asic
 zapatos-dc
-zapatos-jorda
-zapatosasics
+zapatos-jord
+zapatosasic
 zapatosdc
-zapatosjorda
+zapatosjord
 zapewniaja bezpiecz
 zapewniaja-bezpiecz
 zapraszam
+zapravka kartrid
+zapravka-kartrid
 zarabotk
 zawieszki
 zboard.asp
@@ -23301,6 +23354,8 @@ zyvox
 загородный дом
 загородный-дом
 заказ
+заправка картридж
+заправка-картридж
 заработ
 зарегистрировать
 здоровье сайт
@@ -23577,7 +23632,6 @@ zyvox
 сопровождение-девушка
 сопровождение-девушки
 спам
-спама
 спиливание деревьев
 спиливание-деревьев
 спорт на
