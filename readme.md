@@ -98,6 +98,7 @@ See the [license.txt](https://raw.github.com/splorp/wordpress-comment-blacklist/
 
 ## History
 
++ 20170422 — 24,000 entries
 + 20170111 — Fixed bug that affected comments containing the common term “port”
 + 20161013 — 23,000 entries
 + 20160518 — 22,000 entries
