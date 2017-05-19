@@ -1,4 +1,4 @@
-_123_
+ _123_
 _abercrom
 _account
 _addon
@@ -351,6 +351,7 @@ _zapat
 -adsense-
 -adsense.
 -adsense/
+-all.ru
 -amateur-
 -amateur.
 -amateur/
@@ -554,6 +555,7 @@ _zapat
 -easily-
 -ebay
 -eguide-
+-elisa.ru
 -enlargement.
 -enlargement/
 -entries/
@@ -661,6 +663,7 @@ _zapat
 -ihover-
 -ihover.
 -ihover/
+-imap.to
 -income-
 -income.
 -income/
@@ -878,6 +881,9 @@ _zapat
 -qsymia-
 -qsymia.
 -qsymia/
+-quitsmoking-
+-quitsmoking.
+-quitsmoking/
 -r.ru
 -r.su
 -r4i-
@@ -1416,6 +1422,9 @@ _zapat
 .qsymia-
 .qsymia.
 .qsymia/
+.quitsmoking-
+.quitsmoking.
+.quitsmoking/
 .r.e.d
 .rar.
 .redirects.
@@ -1458,7 +1467,6 @@ _zapat
 .ru,
 .ru/,
 .ru/?
-.ru/?entry.
 .ru/#
 .ru/1-
 .ru/1.
@@ -1622,6 +1630,8 @@ _zapat
 /?cat
 /?cl
 /?doc
+/?entry-
+/?entry.
 /?gid
 /?hid
 /?l1
@@ -1893,6 +1903,7 @@ _zapat
 /blogspot0.
 /blogspot1.
 /blogspot2.
+/board_
 /board/
 /boner-
 /boner.
@@ -2622,6 +2633,9 @@ _zapat
 /qsymia-
 /qsymia.
 /qsymia/
+/quitsmoking-
+/quitsmoking.
+/quitsmoking/
 /r4i-
 /r4i.
 /ra.
@@ -3879,7 +3893,13 @@ addarticle
 added agreeable
 adderall
 adderoll
+addict xxx
+addict-xxx
 addicted-to
+addiction xxx
+addiction-xxx
+addictionxxx
+addictxxx
 addidas
 additionally fly
 additionay
@@ -3954,6 +3974,7 @@ adospopulaire
 adremus viral
 adremus-viral
 adremusviral
+adrenaline.us
 ads ad
 ads crack
 ads live
@@ -4466,6 +4487,7 @@ asian-pic
 asian-porn
 asian-sex
 asian-teen
+asian.hot
 asian.sex
 asian.teen
 asianpic
@@ -5056,6 +5078,9 @@ bcbgrunway
 bcbgsleeve
 bcbgstrapless
 bddv
+bdsm sex
+bdsm-sex
+bdsmsex
 be benefited
 beamten
 beanies1
@@ -6379,6 +6404,9 @@ cartierfidanza
 cartierlove
 cartierreplica
 cartieruomo
+cartoon porn
+cartoon-porn
+cartoonporn
 cartuchos
 casaemail
 casebycase
@@ -7738,12 +7766,14 @@ cosmetiqueswhole
 cosmetiquewhole
 cosmtique
 cost-effective
+costume aged
 costume ermen
 costume homme
 costume mari
 costume medi
 costume tendance
 costume versace
+costume- aged
 costume-ermen
 costume-homme
 costume-mari
@@ -7754,7 +7784,9 @@ costumeermen
 costumehomme
 costumemari
 costumemedi
+costumes aged
 costumes homme
+costumes-aged
 costumes-homme
 costumeshomme
 costumetendance
@@ -7880,6 +7912,12 @@ culomega
 cultureparis
 cup jers
 cup-jers
+curcumin capsule
+curcumin dose
+curcumin-capsule
+curcumin-dose
+curcumincapsule
+curcumindose
 cure herpes
 cure-herpes
 cure.co.
@@ -8143,6 +8181,7 @@ desconto
 design cheap
 design own
 design-cheap
+design-cover-letter
 design-own
 designcheap
 designer-bag
@@ -8880,7 +8919,9 @@ espana-online
 españa-online
 espanaonline
 españaonline
+essay erudite
 essay-empire
+essay-erudite
 essay-help
 essay-intro
 essay-service
@@ -8888,6 +8929,7 @@ essay-write
 essayempire
 essayer cette
 essayer-cette
+essayerudite
 essayhelp
 essayintro
 essays empire
@@ -9253,6 +9295,8 @@ farmacia_
 farmacias
 farming-secret
 farmingsecret
+farther high
+farther-high
 fashion apparel
 fashion boot
 fashion brace
@@ -9641,6 +9685,7 @@ find-sex
 find-the-answer
 findarticle
 findmewom
+findon247
 findsex
 fine blog
 fine wive
@@ -10312,13 +10357,22 @@ gaoland
 gapscent
 garcinia
 gawab.com
+gay cartoon 
+gay porn
 gay redtube
 gay sex
+gay xxx
+gay-cartoon-
+gay-porn
 gay-redtube
 gay-sex
+gay-xxx
+gaycartoon
+gayporn
 gayredtube
 gaysex
 gayusa
+gayxxx
 gel virage
 gel-virage
 gelatine free
@@ -10959,6 +11013,8 @@ gruzowe
 gruzu
 gry flesh
 gry online
+gsm сигнал
+gsm-сигнал
 gstar jean
 gstar-jean
 gstarjean
@@ -11718,6 +11774,7 @@ hot-tags
 hot-tech
 hot.asp
 hot.cfm
+hot.hot
 hot.htm
 hot.jsp
 hot.php
@@ -15731,14 +15788,18 @@ nm.su
 nneed-from
 nnuauec
 no collateral
+no continu
 no guarant
+no remov
 no-cache
 no-collateral
+no-continu
 no-credit
 no-fuss
 no-guarant
 no-hassle
 no-prescript
+no-remov
 no1.co
 nobis yatesy
 nobis-yatesy
@@ -16843,12 +16904,14 @@ phon-store
 phone advert
 phone free
 phone gratuit
+phone poker
 phone-advert
 phone-free
 phone-gratuit
 phone-jammer
 phone-lookup
 phone-number-lookup
+phone-poker
 phone-store
 phoneadvert
 phoneforsale
@@ -16856,6 +16919,7 @@ phonefree
 phonegratuit
 phonejammer
 phonelookup
+phonepoker
 phonescanad
 phonesforsale
 phonestore
@@ -17058,6 +17122,7 @@ poker machine
 poker money
 poker online
 poker strateg
+poker texas
 poker without
 poker_
 poker-chip
@@ -17065,6 +17130,7 @@ poker-machine
 poker-money
 poker-online
 poker-strateg
+poker-texas
 poker-without
 pokera
 pokerchip
@@ -17072,6 +17138,7 @@ pokermachine
 pokermoney
 pokeronline
 pokerstrateg
+pokertexas
 poketcg
 pokie machine
 pokie online
@@ -17118,6 +17185,7 @@ porn ebony
 porn eye
 porn free
 porn galler
+porn gay
 porn girl
 porn gratuit
 porn hot
@@ -17133,10 +17201,13 @@ porn pic
 porn porn
 porn post
 porn pour
+porn preach
 porn prev
+porn scan
 porn search
 porn serch
 porn sex
+porn star
 porn stream
 porn tickl
 porn tube
@@ -17154,6 +17225,7 @@ porn-ebony
 porn-eye
 porn-free
 porn-galler
+porn-gay
 porn-girl
 porn-hot
 porn-hub
@@ -17166,8 +17238,11 @@ porn-photo
 porn-porn
 porn-post
 porn-pour
+porn-preach
 porn-prev
+porn-scan
 porn-search
+porn-star
 porn-tickl
 porn-vergin
 porn-virgin
@@ -17188,6 +17263,7 @@ porndiary
 pornebony
 porneye
 porngaller
+porngay
 porngirl
 porngratuit
 pornhot
@@ -17232,8 +17308,11 @@ pornphoto
 pornpic
 pornporn
 pornpost
+pornpreach
+pornscan
 pornsearch
 pornsex
+pornstar
 pornstream
 porntube
 pornvergin
@@ -17272,6 +17351,10 @@ posts.pw
 posts.really
 posts.thank
 posttestimonial
+posylka-iz-kitaya
+posylka-izkitaya
+posylka.izkitaya
+posylkaizkitaya
 potngsi
 powder bene
 powder review
@@ -17641,6 +17724,7 @@ propertypro
 properugg
 propip
 propranolol
+proshop.ru
 prostitutki
 protandim
 protein bene
@@ -18367,6 +18451,8 @@ rss.htm
 rss.jsp
 rss.php
 ru-blacklist
+ru-proshop
+ru-wordpress
 rublacklist
 rug fur
 rug-fur
@@ -18410,6 +18496,7 @@ runway-dress
 runway-sita
 runwaydress
 runwaysita
+ruproshop
 russian mis
 russian mr
 russian ms
@@ -18423,6 +18510,7 @@ russianmr
 russianms
 russianmulberry
 rusztowania
+ruwordpress
 rx-pharm
 rxpharm
 rе
@@ -19461,6 +19549,7 @@ sirop-mangustin
 sistershit
 site asian
 site backup
+site however
 site link
 site offer
 site official
@@ -19476,6 +19565,7 @@ site ufficial
 site-asian
 site-backup
 site-google
+site-however
 site-link
 site-offer
 site-official
@@ -19848,10 +19938,12 @@ sponsoring secret
 sponsoring-secret
 sponsoringsecret
 sport tronch
+sport-analysis.
 sport-tronch
 sportbikepart
 sportbook
 sportivo_
+sports-analysis.
 sportsbet
 sportsbook
 sportsfanshop
@@ -20989,6 +21081,8 @@ truly-peaked
 truly-suppose
 truly-thk
 truly-very
+truth however
+truth-however
 truthabout
 try-these
 tube-zzz
@@ -22166,8 +22260,11 @@ web/icon
 web/index
 webanal
 webblog
+webcam site
+webcam-site
 webcambabe
 webcamsex
+webcamsite
 webcontent
 webdesign.co
 webexplore
@@ -22812,9 +22909,11 @@ xx.ro
 xx.ru
 xx.su
 xx.za
+xxx addict
 xxx best
 xxx free
 xxx fuck
+xxx gay
 xxx group
 xxx mobile
 xxx party
@@ -22823,9 +22922,11 @@ xxx sex
 xxx tube
 xxx video
 xxx_
+xxx-addict
 xxx-best
 xxx-free
 xxx-fuck
+xxx-gay
 xxx-group
 xxx-mobile
 xxx-party
@@ -22834,9 +22935,11 @@ xxx-sex
 xxx-tube
 xxx-video
 xxx.
+xxxaddict
 xxxbest
 xxxfree
 xxxfuck
+xxxgay
 xxxgroup
 xxxmobile
 xxxparty
@@ -22893,6 +22996,7 @@ york-sportiv
 yorksportiv
 you article
 you gucci
+you sees
 you ssay
 you ugg
 you viral
@@ -22900,6 +23004,7 @@ you write-up
 you writeup
 you-article
 you-gucci
+you-sees
 you-ssay
 you-ugg
 you-viral
@@ -23640,6 +23745,8 @@ zyvox
 скандал жк
 скандал-жк
 скачать
+скачать бесплатно
+скачать-бесплатно
 скидки билеты
 скидки на
 скидки отели
@@ -23722,6 +23829,14 @@ zyvox
 цена
 через поисск
 через-поисск
+шаблон wordpress
+шаблон вордпресс
+шаблон-wordpress
+шаблон-вордпресс
+шаблоны wordpress
+шаблоны вордпресс
+шаблоны-wordpress
+шаблоны-вордпресс
 шапка
 шёлковый палант
 шёлковый платок
@@ -24006,6 +24121,7 @@ zyvox
 返品
 通信販売
 通販
+運彩分析辛酸
 配送
 酒嗜
 酷小游戏
