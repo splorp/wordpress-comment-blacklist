@@ -1,6 +1,6 @@
 # Comment Blacklist for WordPress
 
-#### Sometimes simple is better.
+**Sometimes simple is better.**
 
 Since 2011, I have painstakingly identified and compiled over 23,000 phrases, patterns, and keywords commonly used by spammers and comment bots in usernames, email addresses, link text, and URIs. As with all compilations, this blacklist is a work in progress and there will always be room for improvement and optimization.
 
@@ -8,7 +8,7 @@ Suggestions and bug reports are certainly appreciated. Please use the [issue tra
 
 ## How Do I Use It?
 
-#### Manual Installation
+**Manual Installation**
 
 Copy the list of keywords found in the [blacklist.txt](https://raw.github.com/splorp/wordpress-comment-blacklist/master/blacklist.txt) file, paste it into the [Comment Blacklist](http://codex.wordpress.org/Combating_Comment_Spam#Comment_Blacklist) field of your WordPress [Discussion Settings](http://codex.wordpress.org/Settings_Discussion_Screen) panel, and click the “Save Changes” button.
 
@@ -16,7 +16,7 @@ That’s it.
 
 Repeat this procedure each time you want to install an updated version of the blacklist.
 
-#### Automatic Updates Via Plugin
+**Automatic Updates Via Plugin**
 
 If you prefer a more hands-off approach, there are several plugins that will check whether the [master blacklist](https://raw.github.com/splorp/wordpress-comment-blacklist/master/blacklist.txt) has changed and then automatically install the most recent version. How handy is that?
 
