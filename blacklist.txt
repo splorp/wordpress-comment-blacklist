@@ -219,6 +219,7 @@ _special
 _sportiv
 _store
 _strat
+_suhagra
 _swaro
 _sys
 _tape
@@ -1009,6 +1010,7 @@ _zapat
 -tax-relief
 -tax-settlement
 -teen-in-
+-test.de
 -the-best-
 -the-best.
 -the-best/
@@ -2558,6 +2560,8 @@ _zapat
 /panties.
 /panty-
 /panty.
+/pantys-
+/pantys.
 /parafon-
 /parafon.
 /parafon/
@@ -3572,23 +3576,35 @@ _zapat
 911.su
 911.za
 2012 longchamp
+2012 popular
 2012 prospect
+2012 seo
 2012-longchamp
+2012-popular
 2012-prospect
+2012-seo
 2012baby
 2012longchamp
 2012x.
 2013 longchamp
+2013 popular
 2013 prospect
+2013 seo
 2013-longchamp
+2013-popular
 2013-prospect
+2013-seo
 2013baby
 2013longchamp
 2013x.
 2014 longchamp
+2014 popular
 2014 prospect
+2014 seo
 2014-longchamp
+2014-popular
 2014-prospect
+2014-seo
 2014baby
 2014longchamp
 2014x.
@@ -3614,10 +3630,17 @@ _zapat
 2016baby
 2016longchamp
 2016x.
+2017 longchamp
 2017 popular
+2017 prospect
 2017 seo
+2017-longchamp
 2017-popular
+2017-prospect
 2017-seo
+2017baby
+2017longchamp
+2017x.
 123456789
 ¤¤
 ＄００
@@ -3837,6 +3860,10 @@ acel-google
 acellphone
 acertemail
 acetazolamide
+achat medica
+achat médica
+achat-medica
+achat-médica
 acheter air
 acheter dolce
 acheter sac
@@ -5803,6 +5830,12 @@ bowling footwear
 bowling-footwear
 bowugg
 boxshopping.ru
+boy pantie
+boy panty
+boy-pantie
+boy-panty
+boypantie
+boypanty
 bracelet manchette
 bracelet shop
 bracelet store
@@ -7076,6 +7109,12 @@ chik-casino
 chik-cassino
 chikcasino
 chikcassino
+child pantie
+child panty
+child-pantie
+child-panty
+childpantie
+childpanty
 china cheap
 china dress
 china low
@@ -7689,6 +7728,8 @@ consent with
 consent-with
 consequently styl
 consequently-styl
+consideration-prior-to
+considerations-prior-to
 consolidation loan
 consolidation-loan
 constructionn
@@ -7810,9 +7851,12 @@ costumes-homme
 costumeshomme
 costumetendance
 costumeversace
+couch sofa
+couch-sofa
 couchey fr
 couchey-fr
 coucheyfr
+couchsofa
 coumadin
 counter sex
 counter-sex
@@ -10042,6 +10086,7 @@ free-private
 free-prog
 free-proxy
 free-real
+free-server
 free-simple
 free-weblog
 free-website
@@ -10081,6 +10126,7 @@ freeproxy
 freereal
 freesale
 freesalg
+freeserver
 freesimcard
 freeslotmachine
 freevideo
@@ -10110,6 +10156,8 @@ freshwaterpearl
 friday 2013
 friday 2014
 friday 2015
+friday 2016
+friday 2017
 friday michael
 friday mlb
 friday moncler
@@ -10123,6 +10171,8 @@ friday watch
 friday-2013
 friday-2014
 friday-2015
+friday-2016
+friday-2017
 friday-michael
 friday-mlb
 friday-moncler
@@ -10136,6 +10186,8 @@ friday-watch
 friday2013
 friday2014
 friday2015
+friday2016
+friday2017
 fridaymlb
 fridaymoncler
 fridaynba
@@ -10384,7 +10436,7 @@ gaoland
 gapscent
 garcinia
 gawab.com
-gay cartoon 
+gay cartoon
 gay porn
 gay redtube
 gay sex
@@ -10432,12 +10484,18 @@ generation-algorithm
 generator 2013
 generator 2014
 generator 2015
+generator 2016
+generator 2017
 generator-2013
 generator-2014
 generator-2015
+generator-2016
+generator-2017
 generator2013
 generator2014
 generator2015
+generator2016
+generator2017
 generatorpro
 generic_
 genital herpes
@@ -10539,6 +10597,8 @@ girl escort
 girl jap
 girl jord
 girl jp
+girl pantie
+girl panty
 girl spouse
 girl-blog
 girl-day-dress
@@ -10547,6 +10607,8 @@ girl-escort
 girl-jap
 girl-jord
 girl-jp
+girl-pantie
+girl-panty
 girl-spouse
 girlblog
 girldaydress
@@ -10557,6 +10619,8 @@ girlie-spouse
 girliespouse
 girljord
 girljp
+girlpantie
+girlpanty
 girls blog
 girls eblog
 girls escort
@@ -11322,12 +11386,18 @@ hdsex
 headset 2013
 headset 2014
 headset 2015
+headset 2016
+headset 2017
 headset-2013
 headset-2014
 headset-2015
+headset-2016
+headset-2017
 headset2013
 headset2014
 headset2015
+headset2016
+headset2017
 healingindu
 health advis
 health how
@@ -12536,6 +12606,8 @@ jackeonline
 jacket 2013
 jacket 2014
 jacket 2015
+jacket 2016
+jacket 2017
 jacket canad
 jacket jap
 jacket jp
@@ -12546,6 +12618,8 @@ jacket_
 jacket-2013
 jacket-2014
 jacket-2015
+jacket-2016
+jacket-2017
 jacket-canad
 jacket-jap
 jacket-jp
@@ -12555,11 +12629,15 @@ jacket-sunglass
 jacket2013
 jacket2014
 jacket2015
+jacket2016
+jacket2017
 jacketcanad
 jacketout
 jackets 2013
 jackets 2014
 jackets 2015
+jackets 2016
+jackets 2017
 jackets jap
 jackets jp
 jackets out
@@ -12568,6 +12646,8 @@ jackets_
 jackets-2013
 jackets-2014
 jackets-2015
+jackets-2016
+jackets-2017
 jackets-for-kids
 jackets-for-men
 jackets-for-wom
@@ -12578,6 +12658,8 @@ jackets-sale
 jackets2013
 jackets2014
 jackets2015
+jackets2016
+jackets2017
 jacketsale
 jacketsforkids
 jacketsformen
@@ -13055,7 +13137,13 @@ khttp
 khumbu north
 khumbu-north
 kid baby
+kid pantie
+kid panty
 kid-baby
+kid-pantie
+kid-panty
+kidpantie
+kidpanty
 kids baby
 kids nike
 kids out
@@ -13542,6 +13630,11 @@ lessdress
 lesson1
 lesspeplum
 letrozole
+letter-template.asp
+letter-template.cfm
+letter-template.htm
+letter-template.jsp
+letter-template.psp
 levaquin
 level 50
 level market
@@ -13757,6 +13850,8 @@ longafter
 longchamp 2013
 longchamp 2014
 longchamp 2015
+longchamp 2016
+longchamp 2017
 longchamp aus
 longchamp bag
 longchamp doctor
@@ -13782,6 +13877,8 @@ longchamp_
 longchamp-2013
 longchamp-2014
 longchamp-2015
+longchamp-2016
+longchamp-2017
 longchamp-aus
 longchamp-doctor
 longchamp-fabric
@@ -13810,6 +13907,8 @@ longchamp.php
 longchamp2013
 longchamp2014
 longchamp2015
+longchamp2016
+longchamp2017
 longchampaus
 longchampbag
 longchampdoctor
@@ -14595,6 +14694,8 @@ meilleurs-casino
 meilleurs-cassino
 meilleurscasino
 meilleurscassino
+mein sofa
+mein-sofa
 meisterstuck pen
 meisterstuck-pen
 meisterstuckpen
@@ -14713,14 +14814,20 @@ mercenary.co
 mercurial 2013
 mercurial 2014
 mercurial 2015
+mercurial 2016
+mercurial 2017
 mercurial vapo
 mercurial-2013
 mercurial-2014
 mercurial-2015
+mercurial-2016
+mercurial-2017
 mercurial-vapo
 mercurial2013
 mercurial2014
 mercurial2015
+mercurial2016
+mercurial2017
 mercurialvapo
 merely wanna
 merely-wanna
@@ -14942,6 +15049,8 @@ monclear
 moncler 2013
 moncler 2014
 moncler 2015
+moncler 2016
+moncler 2017
 moncler amster
 moncler andorra
 moncler barata
@@ -14999,6 +15108,8 @@ moncler--
 moncler-2013
 moncler-2014
 moncler-2015
+moncler-2016
+moncler-2017
 moncler-amster
 moncler-andorra
 moncler-barata
@@ -15061,6 +15172,8 @@ moncler.php
 moncler2013
 moncler2014
 moncler2015
+moncler2016
+moncler2017
 moncleramster
 monclerandorra
 monclerbarata
@@ -16180,6 +16293,7 @@ online dump
 online espa
 online free
 online gambl
+online gefunden
 online gry
 online internet
 online journ
@@ -16209,6 +16323,7 @@ online-dump
 online-espa
 online-free
 online-gambl
+online-gefunden
 online-gry
 online-guide-of
 online-internet
@@ -16385,6 +16500,8 @@ outlet 4
 outlet 2013
 outlet 2014
 outlet 2015
+outlet 2016
+outlet 2017
 outlet bag
 outlet canad
 outlet cheap
@@ -16414,6 +16531,8 @@ outlet-4
 outlet-2013
 outlet-2014
 outlet-2015
+outlet-2016
+outlet-2017
 outlet-austr
 outlet-canad
 outlet-cheap
@@ -16458,6 +16577,8 @@ outlet1
 outlet2
 outlet3
 outlet4
+outlet2016
+outlet2017
 outletaustr
 outletbag
 outletcanad
@@ -16637,15 +16758,102 @@ panthers-merch
 panthers-store
 panthersmerch
 panthersstore
+pantie boy
+pantie child
+pantie girl
+pantie kid
+pantie mania
+pantie pic
+pantie play
+pantie sex
+pantie-boy
+pantie-child
+pantie-girl
+pantie-kid
+pantie-mania
+pantie-pic
+pantie-play
+pantie-sex
+pantieboy
+pantiechild
+pantiegirl
+pantiekid
+pantiemania
+pantiepic
+pantieplay
+panties boy
+panties child
+panties girl
+panties kid
+panties mania
+panties pic
+panties play
+panties sex
+panties-boy
+panties-child
+panties-girl
+panties-kid
+panties-mania
+panties-pic
+panties-play
+panties-sex
+pantiesboy
+pantieschild
+pantiesex
+pantiesgirl
+pantieskid
+pantiesmania
+pantiespic
+pantiesplay
+pantiessex
+panty boy
+panty child
+panty girl
+panty kid
+panty mania
 panty pic
 panty play
 panty sex
+panty-boy
+panty-child
+panty-girl
+panty-kid
+panty-mania
 panty-pic
 panty-play
 panty-sex
+pantyboy
+pantychild
+pantygirl
+pantykid
 pantymania
 pantypic
 pantyplay
+pantys boy
+pantys child
+pantys girl
+pantys kid
+pantys mania
+pantys pic
+pantys play
+pantys sex
+pantys-boy
+pantys-child
+pantys-girl
+pantys-kid
+pantys-mania
+pantys-pic
+pantys-play
+pantys-sex
+pantysboy
+pantyschild
+pantysex
+pantysgirl
+pantyskid
+pantysmania
+pantyspic
+pantysplay
+pantyssex
 par/index
 paradisiaque
 parafon forte
@@ -17648,12 +17856,22 @@ professional 2012
 professional 2013
 professional 2014
 professional 2015
+professional 2016
+professional 2017
 professional ugg
 professional-2005
 professional-2006
 professional-2007
 professional-2008
 professional-2009
+professional-2010
+professional-2011
+professional-2012
+professional-2013
+professional-2014
+professional-2015
+professional-2016
+professional-2017
 professional-ugg
 professional2005
 professional2006
@@ -17666,6 +17884,8 @@ professional2012
 professional2013
 professional2014
 professional2015
+professional2016
+professional2017
 professionals.co
 professionalugg
 profil_
@@ -19064,6 +19284,9 @@ server 2012
 server 2013
 server 2014
 server 2015
+server 2016
+server 2017
+server download
 server-2005
 server-2006
 server-2007
@@ -19075,6 +19298,10 @@ server-2012
 server-2013
 server-2014
 server-2015
+server-2016
+server-2017
+server-download
+server.download
 server2005
 server2006
 server2007
@@ -19086,6 +19313,8 @@ server2012
 server2013
 server2014
 server2015
+server2016
+server2017
 servicedoc
 services/services
 servicii profes
@@ -19371,6 +19600,8 @@ shoepromo
 shoes 2013
 shoes 2014
 shoes 2015
+shoes 2016
+shoes 2017
 shoes america
 shoes announce
 shoes dior
@@ -19388,6 +19619,8 @@ shoes_
 shoes-2013
 shoes-2014
 shoes-2015
+shoes-2016
+shoes-2017
 shoes-america
 shoes-cheap
 shoes-cloth
@@ -19410,6 +19643,8 @@ shoes+
 shoes2013
 shoes2014
 shoes2015
+shoes2016
+shoes2017
 shoesale
 shoesamerica
 shoescloth
@@ -19819,6 +20054,9 @@ socialite.
 socialmarketing
 societys
 soeasy
+sofa test
+sofa-test
+sofatest
 sofosbuvir
 soft_
 soft-secret
@@ -20284,6 +20522,11 @@ suggestedpage
 suggestedpost
 suggestedsite
 suggestedwebsite
+suhagra_
+suhagra-24
+suhagra-100
+suhagra24
+suhagra100
 sumatriptan
 summer coach
 summer-coach
@@ -22826,10 +23069,6 @@ wwellness
 www_
 www.1
 www.247
-www.2012
-www.2013
-www.2014
-www.2015
 www.adults
 www.article
 www.barata
@@ -23927,6 +24166,7 @@ zyvox
 օx
 օy
 ויקיפדיה
+السياحة العلاجي
 ߋ
 ขายเสื้อผ้าเด็ก
 คาสิโน
