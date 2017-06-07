@@ -474,6 +474,7 @@ _zapat
 -cheat-
 -cheat.
 -cheat/
+-chung-cu-
 -cia.co
 -cigar-
 -cigar.
@@ -2014,6 +2015,7 @@ _zapat
 /chinese.
 /chrome/
 /chrome=
+/chung-cu-
 /cigar-
 /cigar.
 /cigarette-
@@ -7186,7 +7188,9 @@ chronic edge
 chronic-edge
 chrr-llc
 chttp
+chung cư
 chung hightop
+chung-cư
 chung-hightop
 cɦ
 cialis
@@ -14668,6 +14672,24 @@ medigital
 medikal.co
 medizinische
 medphrase
+medrol-2mg
+medrol-4mg
+medrol-8mg
+medrol-16mg
+medrol-24mg
+medrol-32mg
+medrol2.
+medrol2mg
+medrol4.
+medrol4mg
+medrol8.
+medrol8mg
+medrol16.
+medrol16mg
+medrol24.
+medrol24mg
+medrol32.
+medrol32mg
 medshop
 meendo
 mega culo
@@ -17193,6 +17215,8 @@ phpoakley
 phttp
 phync
 phytoceramide
+pɦân phối
+pɦân-phối
 pics-expensive
 pics, expensive
 picture blog
@@ -17731,6 +17755,7 @@ premium-cig
 premium-dignity
 premium-key
 premium-out
+premium.ru
 premiumcig
 premiumdignity
 premiumkey
@@ -22308,6 +22333,7 @@ vogue-toms
 voguetoms
 voltaren_
 voltaren.
+volvo-volvo
 von ysl
 von-ysl
 vonysl
@@ -23701,6 +23727,8 @@ zyvox
 винтовой-нас
 вклады сбербанк
 вклады-сбербанк
+вольво (volvo
+вольво-вольво
 вырубка деревьев
 вырубка-деревьев
 г©
@@ -23808,6 +23836,8 @@ zyvox
 консультаци
 контрабандного това
 контрабандного-това
+коробку вольво
+коробку-вольво
 красивая девушка
 красивая-девушка
 кредит
@@ -23942,6 +23972,8 @@ zyvox
 подарочной-коробк
 подешевле
 пожаловать
+поиск лекар
+поиск-лекар
 поиск-номера-теле
 поисковик
 поисск відео
@@ -23952,6 +23984,10 @@ zyvox
 посетител
 похудению
 предла
+представляем новы
+представляем сайт
+представляем-новы
+представляем-сайт
 прелестный сайт
 прелестный-сайт
 преобрести
