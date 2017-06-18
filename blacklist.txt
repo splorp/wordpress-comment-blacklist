@@ -845,6 +845,7 @@ _zapat
 -pokies-
 -pokies.
 -pokies/
+-popular-under-
 -post-1.
 -post-2.
 -pozew-
@@ -1666,6 +1667,7 @@ _zapat
 //compare
 //contact
 //eee
+//encrypted-
 //escort
 //forum
 //free
@@ -2582,6 +2584,7 @@ _zapat
 /plugin/
 /plugins/
 /plus.
+/popular-under-
 /popup
 /porn
 /postinfo-
@@ -3190,6 +3193,7 @@ _zapat
 =salomon
 =seo
 =space
+=tbn:
 =thread
 =utf8
 =view
@@ -8026,6 +8030,8 @@ cut-menthol
 cutting-machine
 cuttingmachine
 cuurent
+cv meaning
+cv-meaning
 cyber monday
 cyber-monday
 cybermonday
@@ -9064,6 +9070,7 @@ everthing at
 everthing-at
 every advert
 every info
+every wearer
 every-advert
 every-info
 every-leg
@@ -9072,6 +9079,7 @@ every-pant
 every-sock
 every-think
 every-tight
+every-wearer
 every1bet
 everyadvert
 everyinfo
@@ -10343,6 +10351,7 @@ gabbanastore
 gafas ray
 gafas-ray
 gafasray
+gag-princess
 gaga jap
 gaga jp
 gaga milan
@@ -10356,6 +10365,7 @@ gagajp
 gagamilan
 gagauk
 gagner
+gagprincess
 gain weight
 gain-weight
 gainers beat
@@ -10812,6 +10822,7 @@ good article
 good blog
 good click
 good free
+good goodie
 good hemp
 good page
 good post
@@ -10824,6 +10835,7 @@ good-click
 good-for-
 good-free
 good-game
+good-goodie
 good-hemp
 good-post
 good-site
@@ -15472,6 +15484,8 @@ mulberryhobo
 mulberrypurse
 mulberrytask
 mulberrytop
+munch measure
+munch-measure
 muscle-suppl
 muscles exercis
 muscles-exercis
@@ -16286,6 +16300,7 @@ ok-sex
 okanyway
 okcanadagoose
 okcheap
+okfreeshipping
 okpay
 oksex
 oksunglass
@@ -16919,7 +16934,9 @@ parkiety
 part mariage
 part-mariage
 particular article
+particular wearer
 particular-article
+particular-wearer
 party poker
 party shirt
 party tshirt
@@ -19834,6 +19851,7 @@ simply extremely
 simply shared
 simply-extremely
 simply-shared
+simultanious
 sincere understand
 sincere-understand
 sinequan
@@ -19952,6 +19970,8 @@ skjonnhetsprodukter
 skjønnhetsprodukter
 sklep
 sklepy
+skool shoe
+skool-shoe
 skor online
 skor timber
 skor-online
@@ -22352,6 +22372,8 @@ voyancecouple
 voyancegratuit
 voynich code
 voynich-code
+vpn-4-free
+vpn4free
 vtx-fair
 vtxfair
 vuitton austr
@@ -24061,6 +24083,8 @@ zyvox
 сироп-мангустина
 скандал жк
 скандал-жк
+скандальных путе
+скандальных-путе
 скачать
 скачать бесплатно
 скачать-бесплатно
@@ -24073,6 +24097,8 @@ zyvox
 скидки-отели
 скидки-туры
 слот
+служба знакомств
+служба-знакомств
 создать сайта
 создать-сайта
 сократите риск
