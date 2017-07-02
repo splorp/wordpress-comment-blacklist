@@ -1598,9 +1598,6 @@ _zapat
 。ｃoｍ
 ''
 ’’
-»¿
-»z
-»ż
 (buzzfeed)
 (linkedin)
 (no follow)
@@ -4332,9 +4329,12 @@ anonymousvpn
 another chernobyl
 another-chernobyl
 answertraff
+anti psori
 anti-aging
+anti-psori
 antiage
 antiaging
+antipsori
 antispam
 antivirus/index
 antivirussen
@@ -5304,6 +5304,10 @@ betes9
 betlist
 betterjudg
 betterserve
+betting article
+betting news
+betting-article
+betting-news
 betweenex
 bhttp
 bianca black
@@ -8055,9 +8059,6 @@ d http
 ð¿
 d.@
 d.the
-d»
-ď»
-ð»
 ð½
 ð¾
 da man!
@@ -12178,6 +12179,8 @@ incrediblewebsite
 indelicious
 inderal
 indeutsch
+index betting
+index-betting
 index-css
 index-old
 indexcss
@@ -16328,6 +16331,7 @@ online cheap
 online dat
 online dump
 online espa
+online eurax
 online free
 online gambl
 online gefunden
@@ -16358,6 +16362,7 @@ online-cheap
 online-dat
 online-dump
 online-espa
+online-eurax
 online-free
 online-gambl
 online-gefunden
@@ -16408,6 +16413,7 @@ onlinecheap
 onlinedat
 onlinede.
 onlineespa
+onlineeurax
 onlinefree
 onlinegambl
 onlineinternet
@@ -16720,6 +16726,7 @@ oь
 oս
 p http
 p.@
+p‰
 p90x
 package printing
 package-printing
@@ -18042,6 +18049,9 @@ prywatne
 przepisane
 przeprowadzki
 przysiegly
+psori nano
+psori-nano
+psorinano
 psych-clinic
 psychclinic
 public fuck
@@ -18139,7 +18149,10 @@ puzzlemaker
 pu貌
 pytanie
 pρ
+pђ
+pѓ
 pо
+pџ
 q http
 q.@
 qampuz
@@ -23723,6 +23736,8 @@ zyvox
 бесплатной-диаг
 бинарных опцион
 бинарных-опцион
+благодаря ламинину
+благодаря-ламинину
 блог
 брелки
 валка деревьев
@@ -23911,6 +23926,8 @@ zyvox
 мир визиток
 многое другое
 многое-другое
+мойка авто
+мойка-авто
 молочной
 монтаж ауп
 монтаж канали
@@ -23932,6 +23949,8 @@ zyvox
 начинающих алматы
 начинающих-алматы
 недорого
+неизлечимых медициной
+неизлечимых-медициной
 низкие цен
 новинки
 новых автомоби
@@ -24001,6 +24020,8 @@ zyvox
 поисск відео
 поисск-відео
 покер
+помыть машин
+помыть-машин
 порно
 портал
 посетител
@@ -24034,8 +24055,11 @@ zyvox
 прошивка
 психоло
 путешествую
-р¶р
-рµр
+р¶
+р°
+р±
+р№
+рµ
 разработать игру
 разработать-игру
 рассылки сайт
@@ -24063,6 +24087,12 @@ zyvox
 рулетка-джекпот
 рулетка-для
 рф
+с¶
+с‰
+с°
+с±
+с№
+сµ
 сайт визитк
 сайт рассылки
 сайт-визитк
@@ -24075,6 +24105,8 @@ zyvox
 самый-превосход
 свой сайт
 свой-сайт
+сђ
+сѓ
 секс
 селитра
 симпатичная
@@ -24132,6 +24164,7 @@ zyvox
 стратегия-продвиж
 супер
 схемы
+сџ
 съемка
 табак танж
 табак-танж
