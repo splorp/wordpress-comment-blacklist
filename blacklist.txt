@@ -1883,6 +1883,7 @@ _zapat
 /babydoll.
 /bag.sh/
 /bags/
+/baidu.
 /banner-
 /banner.
 /banners-
@@ -1901,7 +1902,6 @@ _zapat
 /birkenstocks.
 /birkin-
 /birkin.
-/bit.ly
 /bitcoin-
 /blackjack-
 /blackjack.
@@ -4977,8 +4977,10 @@ banbarato
 bancshare
 bang bros
 bang buddy
+bang me
 bang-bros
 bang-buddy
+bang-me
 bangbros
 bangbuddy
 bangkok cosplay
@@ -5424,6 +5426,7 @@ birkin bag
 birkin-bag
 birkinbag
 bisapp
+bit.ly/
 bitartrate
 bitcoin acc
 bitcoin add
@@ -10248,6 +10251,7 @@ fruta planta
 frutaplanta
 fuck down
 fuck hard
+fuck my
 fuck pic
 fuck video
 fuck your
@@ -10255,6 +10259,7 @@ fuck_
 fuck-
 fuck-down
 fuck-hard
+fuck-my
 fuck-pic
 fuck-video
 fuck-your
@@ -10263,6 +10268,7 @@ fucked_
 fucker_
 fuckhard
 fucking_
+fuckmy
 fuckpic
 fucks down
 fucks hard
@@ -17133,6 +17139,8 @@ perfect-writ
 perfectdiet
 perfectvpn
 perfectwrit
+perhaps earring
+perhaps-earring
 permission allow
 permission-allow
 permonth.co
@@ -18196,6 +18204,7 @@ quality article
 quality blog
 quality content
 quality page
+quality porn
 quality post
 quality site
 quality weblog
@@ -18203,6 +18212,7 @@ quality-article
 quality-blog
 quality-content
 quality-page
+quality-porn
 quality-post
 quality-site
 quality-weblog
@@ -21517,6 +21527,7 @@ tօ
 u http
 u.@
 u4nba
+ua-eqt-sup
 uauaua
 ubezpieczenia
 ubirkin
@@ -23742,6 +23753,7 @@ zyvox
 админу
 активной продаж
 активной-продаж
+алкогольн
 алкогольные
 альтернатива
 андроид
@@ -23994,12 +24006,16 @@ zyvox
 накрутка-подписчик
 направления роста
 направления-роста
+наркозависи
+наркотичес
 начинающих алматы
 начинающих-алматы
 недорого
 неизлечимых медициной
 неизлечимых-медициной
 низкие цен
+новейшую дам
+новейшую-дам
 новинки
 новых автомоби
 оa
@@ -24114,7 +24130,9 @@ zyvox
 рассылки-сайт
 рднк
 реальный кардинг
+реальный муж
 реальный-кардинг
+реальный-муж
 регистратор
 реклама
 рекламное
