@@ -906,6 +906,9 @@ _zapat
 -remote-access
 -remote-desktop
 -repair.co
+-retina247-
+-retina247.
+-retina247/
 -review.co
 -review/
 -rims-
@@ -1439,6 +1442,9 @@ _zapat
 .rekla
 .remote-desktop
 .remotedesktop
+.retina247-
+.retina247.
+.retina247/
 .ro,
 .ro/,
 .ro/?entry.
@@ -2674,6 +2680,9 @@ _zapat
 /remotedesktop
 /res/
 /resize/
+/retina247-
+/retina247.
+/retina247/
 /ri.ms
 /rlu.ru
 /roulette-
@@ -2981,9 +2990,9 @@ _zapat
 #&amp;
 #file
 #random
+%$%
 %5b%5d
 %7c
-%$%
 %anchor%
 %blogurl%
 %d0%b0
@@ -3215,6 +3224,29 @@ _zapat
 |porn
 |year
 |yr
+¤¤
+＄００
+＄１０
+＄２０
+＄３０
+＄４０
+＄５０
+＄６０
+＄７０
+＄８０
+＄９０
+¥·
+¥°
+¥¦
+¥¤
+¥¢
+¥³
+¥ã
+¥é
+¥è
+¥ì
+¥ó
+¥ö
 00 pips
 0-easy-way
 0-generic
@@ -3654,32 +3686,8 @@ _zapat
 2017longchamp
 2017x.
 123456789
-¤¤
-＄００
-＄１０
-＄２０
-＄３０
-＄４０
-＄５０
-＄６０
-＄７０
-＄８０
-＄９０
-¥·
-¥°
-¥¦
-¥¤
-¥¢
-¥³
-¥ã
-¥é
-¥è
-¥ì
-¥ó
-¥ö
 a http
 a lots
-ã¨
 a-cell-phone
 a-lots
 a-powerful-way
@@ -3689,12 +3697,18 @@ a.@
 a.pri.l
 ã§
 ã¶
-ã©
 ã‰
 a‡
+ã¨
+ã©
 ä±
 ã±
 ã¬
+ã¤
+ã¢
+ã£
+ã¥
+â€
 a0.asp
 a00.asp
 a0.cfm
@@ -3796,11 +3810,6 @@ a09.jsp
 a9.jsp
 a09.php
 a9.php
-ã¤
-ã¢
-ã£
-ã¥
-â€
 ã¹
 ã²
 ãª
@@ -18185,8 +18194,8 @@ puzzlemaker
 pu貌
 pytanie
 pρ
-pђ
 pѓ
+pђ
 pо
 pџ
 q http
@@ -18683,6 +18692,7 @@ results.htm
 retail-store
 retailstore
 retin-a
+retina-247
 retro jord
 retro-jord
 retrojord
@@ -19234,8 +19244,10 @@ secretadvert
 secretbeautiful
 secretgenerous
 secretreview
+secure-smtp
 secured result
 secured-result
+securesmtp
 security-for
 seek man
 seek men
@@ -24171,8 +24183,8 @@ zyvox
 самый-превосход
 свой сайт
 свой-сайт
-сђ
 сѓ
+сђ
 секс
 селитра
 симпатичная
@@ -24478,6 +24490,7 @@ zyvox
 全球华人
 公式
 公館染髮
+最安値
 冷静化处理
 割引
 务部
@@ -24511,7 +24524,6 @@ zyvox
 把药
 摔死女
 攜心山
-最安値
 服务
 札入れ
 样死
