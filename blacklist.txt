@@ -353,6 +353,9 @@ _zapat
 -adsense.
 -adsense/
 -all.ru
+-allocating-
+-allocating.
+-allocating/
 -amateur-
 -amateur.
 -amateur/
@@ -1191,6 +1194,9 @@ _zapat
 .adboard
 .adsboard
 .adultnet.
+.allocating-
+.allocating.
+.allocating/
 .armani-
 .asp/
 .azmya.
@@ -1856,6 +1862,9 @@ _zapat
 /airmax.
 /alimenty/
 /allimage/
+/allocating-
+/allocating.
+/allocating/
 /an0n.me
 /ano.gd
 /anonymous-
@@ -2991,9 +3000,9 @@ _zapat
 #&amp;
 #file
 #random
-%$%
 %5b%5d
 %7c
+%$%
 %anchor%
 %blogurl%
 %d0%b0
@@ -3225,29 +3234,6 @@ _zapat
 |porn
 |year
 |yr
-¤¤
-＄００
-＄１０
-＄２０
-＄３０
-＄４０
-＄５０
-＄６０
-＄７０
-＄８０
-＄９０
-¥·
-¥°
-¥¦
-¥¤
-¥¢
-¥³
-¥ã
-¥é
-¥è
-¥ì
-¥ó
-¥ö
 00 pips
 0-easy-way
 0-generic
@@ -3687,8 +3673,32 @@ _zapat
 2017longchamp
 2017x.
 123456789
+¤¤
+＄００
+＄１０
+＄２０
+＄３０
+＄４０
+＄５０
+＄６０
+＄７０
+＄８０
+＄９０
+¥·
+¥°
+¥¦
+¥¤
+¥¢
+¥³
+¥ã
+¥é
+¥è
+¥ì
+¥ó
+¥ö
 a http
 a lots
+ã¨
 a-cell-phone
 a-lots
 a-powerful-way
@@ -3698,18 +3708,12 @@ a.@
 a.pri.l
 ã§
 ã¶
+ã©
 ã‰
 a‡
-ã¨
-ã©
 ä±
 ã±
 ã¬
-ã¤
-ã¢
-ã£
-ã¥
-â€
 a0.asp
 a00.asp
 a0.cfm
@@ -3811,6 +3815,11 @@ a09.jsp
 a9.jsp
 a09.php
 a9.php
+ã¤
+ã¢
+ã£
+ã¥
+â€
 ã¹
 ã²
 ãª
@@ -7957,6 +7966,8 @@ cre.a.s.e
 cre.a.se
 cre.as.e
 crea.s.e
+create article
+create-article
 create-own
 create-product
 create-tee
@@ -18195,8 +18206,8 @@ puzzlemaker
 pu貌
 pytanie
 pρ
-pѓ
 pђ
+pѓ
 pо
 pџ
 q http
@@ -21022,7 +21033,9 @@ texansjers
 textile urbain
 textile-urbain
 tgf@
+thai camp
 thai massage
+thai-camp
 thai-massage
 thailand m88
 thailand-m88
@@ -24184,8 +24197,8 @@ zyvox
 самый-превосход
 свой сайт
 свой-сайт
-сѓ
 сђ
+сѓ
 секс
 селитра
 симпатичная
@@ -24241,6 +24254,8 @@ zyvox
 страпон
 стратегия продвиж
 стратегия-продвиж
+страшный диагноз
+страшный-диагноз
 супер
 схемы
 сџ
@@ -24491,7 +24506,6 @@ zyvox
 全球华人
 公式
 公館染髮
-最安値
 冷静化处理
 割引
 务部
@@ -24525,6 +24539,7 @@ zyvox
 把药
 摔死女
 攜心山
+最安値
 服务
 札入れ
 样死
