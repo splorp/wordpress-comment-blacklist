@@ -650,6 +650,9 @@ _zapat
 -health-related-
 -health-related.
 -health-related/
+-hello-people-
+-hello-people.
+-hello-people/
 -herbal-
 -herbal.
 -herbal/
@@ -1121,6 +1124,7 @@ _zapat
 ! ,
 ! !
 ! .
+!--
 !,i
 !! you
 !!!
@@ -1281,6 +1285,9 @@ _zapat
 .games.za
 .gucci-
 .hard-
+.hello-people-
+.hello-people.
+.hello-people/
 .hermes-
 .herveleger-
 .htm/
@@ -1573,6 +1580,7 @@ _zapat
 .t.wit
 .thearticle
 .top/?
+.top/gal
 .top/thumb
 .travel.pl
 .twilight-
@@ -2256,6 +2264,9 @@ _zapat
 /health-related-
 /health-related.
 /health-related/
+/hello-people-
+/hello-people.
+/hello-people/
 /hentai
 /hermes-
 /hermes.
@@ -2994,6 +3005,9 @@ _zapat
 &#37329;
 &~
 &amp;amp
+&gt;&lt;
+&lt;!-
+&lt;&gt;
 &x6
 &x7
 #/a
@@ -9865,6 +9879,9 @@ fitchgilet
 fitchgrenoble
 fitchout
 fitflop
+fitness_gym
+fitness-gym
+fitness.gym
 fiverr method
 fiverr-method
 fivestardoll
@@ -22958,6 +22975,9 @@ wholesalepolo
 wholesaler-mac
 wholesalermac
 wholesalesoccer
+whore butt
+whore-butt
+whorebutt
 whttp
 why-would-you
 wɦ
@@ -23984,6 +24004,8 @@ zyvox
 копируйте-ссылку
 коробку вольво
 коробку-вольво
+коррупци
+корупці
 красивая девушка
 красивая-девушка
 красоты тела
