@@ -1285,6 +1285,7 @@ _zapat
 .games.za
 .gucci-
 .hard-
+.header.us
 .hello-people-
 .hello-people.
 .hello-people/
@@ -2262,6 +2263,7 @@ _zapat
 /haglofs.
 /handle/
 /hats/
+/header.us
 /headlines/
 /health-related-
 /health-related.
@@ -4786,6 +4788,9 @@ aь
 b http
 b-ig-event
 b.@
+b.a.g.s
+b.a.gs
+b.ag.s
 b.u.y
 b0.asp
 b00.asp
@@ -4887,6 +4892,7 @@ b09.jsp
 b9.jsp
 b09.php
 b9.php
+ba.g.s
 babycanread
 babyliss
 backlink
@@ -23386,6 +23392,7 @@ xelerated
 xeloda
 xenical
 xgaller
+xgmasa
 xhttp
 xl paket
 xl-paket
@@ -23858,8 +23865,6 @@ zyvox
 агенств
 адгуард
 админу
-активной продаж
-активной-продаж
 алкогольн
 алкогольные
 альтернатива
@@ -24241,8 +24246,6 @@ zyvox
 приобрести недви
 приобрести-недви
 продаж
-продажа туалетных
-продажа-туалетных
 продвижение аккау
 продвижение-аккау
 производство
