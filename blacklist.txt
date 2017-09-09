@@ -835,6 +835,12 @@ _zapat
 -pharmacy-
 -pharmacy.
 -pharmacy/
+-picload-
+-picload.
+-picload/
+-picloader-
+-picloader.
+-picloader/
 -pictures.
 -plus.in
 -plus.pl
@@ -1329,6 +1335,10 @@ _zapat
 .internet-
 .it/?it
 .it/t/
+.jpg.asp
+.jpg.cfm
+.jpg.htm
+.jpg.jsp
 .jpg.php
 .kartridj-
 .kartridj.
@@ -1405,6 +1415,12 @@ _zapat
 .pharmacy-
 .pharmacy.
 .pharmacy/
+.picload-
+.picload.
+.picload/
+.picloader-
+.picloader.
+.picloader/
 .pl,
 .pl/,
 .pl/?entry.
@@ -2607,6 +2623,12 @@ _zapat
 /pharmacy.
 /pharmacy/
 /php.
+/picload-
+/picload.
+/picload/
+/picloader-
+/picloader.
+/picloader/
 /piece-
 /piece.
 /pierr-
@@ -3624,6 +3646,7 @@ _zapat
 911.ru
 911.su
 911.za
+1000$
 2012 longchamp
 2012 popular
 2012 prospect
@@ -3690,6 +3713,9 @@ _zapat
 2017baby
 2017longchamp
 2017x.
+10000$
+100000$
+1000000$
 123456789
 ¤¤
 ＄００
@@ -5468,8 +5494,11 @@ birkenstocksandal
 birkenstockshop
 birkenstockstore
 birkin bag
+birkin cheap
 birkin-bag
+birkin-cheap
 birkinbag
+birkincheap
 bisapp
 bit.ly/
 bitartrate
@@ -6959,6 +6988,7 @@ cheap price
 cheap proclip
 cheap ray
 cheap red
+cheap replica
 cheap ring
 cheap sale
 cheap salvatore
@@ -7036,6 +7066,7 @@ cheap-prada
 cheap-price
 cheap-proclip
 cheap-red
+cheap-replica
 cheap-ring
 cheap-sale
 cheap-salvatore
@@ -7117,6 +7148,7 @@ cheapprada
 cheapproclip
 cheapray
 cheapred
+cheapreplica
 cheapring
 cheaps ugg
 cheaps-ugg
@@ -8030,6 +8062,7 @@ cruise-vaca
 cruisevaca
 crush-candy
 crushcandy
+cryp.trade
 crystalmall
 csgo ak47
 csgo free
@@ -18661,6 +18694,7 @@ replica louis
 replica michael
 replica nba
 replica oakley
+replica online
 replica ray
 replica relogio
 réplica relogio
@@ -18693,6 +18727,7 @@ replica-louis
 replica-michael
 replica-nba
 replica-oakley
+replica-online
 replica-prada
 replica-ray
 replica-relogio
@@ -18728,6 +18763,7 @@ replicalouis
 replicamichael
 replicanba
 replicaoakley
+replicaonline
 replicaprad
 replicaray
 replicarelogio
@@ -20941,6 +20977,7 @@ tamoxifen
 tamsulosin
 tanger out
 tanger-out
+tapeworm.us
 tapicerowane
 targeted traff
 targeted visit
@@ -23257,6 +23294,7 @@ wowo-site
 wowohouse
 wowosex
 wowosite
+woxok
 wp robot
 wp-pad
 wp-phone
@@ -23362,6 +23400,8 @@ www.zapata
 www.zapato
 www<
 wwwpctool
+wx1.ru
+wx2.ru
 wypoczynku
 wyposazenie
 wywóz
@@ -24022,6 +24062,7 @@ zyvox
 инстаграм
 интересн
 интернет
+исповедь
 іl
 іn
 іs
