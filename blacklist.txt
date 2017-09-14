@@ -2939,6 +2939,7 @@ _zapat
 /vuitton.
 /vuittonpascher-
 /vuittonpascher.
+/w.w/
 /wayfarer-
 /wayfarer.
 /web-design/
@@ -9338,6 +9339,7 @@ fabulous-drug
 fabulousdrug
 fac visit
 fac-visit
+face coming
 face denali
 face jack
 face out
@@ -9346,6 +9348,7 @@ face store
 face terra
 face vest
 face women
+face-coming
 face-denali
 face-jack
 face-out
@@ -9732,6 +9735,10 @@ femmes-imitat
 femmesac
 femmescanadagoose
 femmesimitat
+fence produce
+fence-produce
+fencing produce
+fencing-produce
 fendi belt
 fendi donna
 fendi_
@@ -13909,6 +13916,8 @@ linkvault
 linkz
 lionsfan
 lionsjers
+lious exact
+lious-exact
 lipitor
 lisinopril
 lisseur-pascher
@@ -23930,6 +23939,7 @@ zyvox
 аренды-авто
 базу данны
 базу-данны
+базыдaнны
 байкал озеро
 байкал отдых
 банков
