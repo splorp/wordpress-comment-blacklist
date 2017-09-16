@@ -1520,6 +1520,8 @@ _zapat
 .ru/3.
 .ru/aa-
 .ru/ab-
+.ru/artic
+.ru/artik
 .ru/ba-
 .ru/catalog
 .ru/content
@@ -5505,6 +5507,8 @@ bit.ly/
 bitartrate
 bitcoin acc
 bitcoin add
+bitcoin casino
+bitcoin cassino
 bitcoin depos
 bitcoin donat
 bitcoin mining
@@ -5513,6 +5517,8 @@ bitcoin wallet
 bitcoin_
 bitcoin-acc
 bitcoin-add
+bitcoin-casino
+bitcoin-cassino
 bitcoin-depos
 bitcoin-donat
 bitcoin-mining
@@ -5520,6 +5526,7 @@ bitcoin-talk
 bitcoin-wallet
 bitcoinacc
 bitcoinadd
+bitcoincas
 bitcoindepos
 bitcoindonat
 bitcointalk
@@ -6992,7 +6999,7 @@ cheap red
 cheap replica
 cheap ring
 cheap sale
-cheap salvatore
+cheap salv
 cheap sherr
 cheap silver
 cheap soccer
@@ -7019,6 +7026,7 @@ cheap-basket
 cheap-beat
 cheap-bike
 cheap-boot
+cheap-buy
 cheap-carolina
 cheap-carton
 cheap-chanel
@@ -7070,7 +7078,7 @@ cheap-red
 cheap-replica
 cheap-ring
 cheap-sale
-cheap-salvatore
+cheap-salv
 cheap-sex
 cheap-sherr
 cheap-silver
@@ -7102,6 +7110,7 @@ cheapbeat
 cheapbeatsbydre
 cheapbike
 cheapboot
+cheapbuy
 cheapchanel
 cheapchina
 cheapchinese
@@ -7154,7 +7163,7 @@ cheapring
 cheaps ugg
 cheaps-ugg
 cheapsale
-cheapsalvatore
+cheapsalv
 cheapsex
 cheapsilver
 cheapstephen
@@ -13550,6 +13559,8 @@ ladyporn
 lamborghini hover
 lamborghini-hover
 lamictal
+laminin lpgn
+laminin-lpgn
 laminina lpgn
 laminina-lpgn
 laminine lpgn
@@ -15556,8 +15567,10 @@ montres-femmes
 montresfemmes
 moore about
 moore-about
+more effective!
 more eventually
 more-deal
+more-effective!
 more-eventually
 more-lv
 morelv
@@ -24049,6 +24062,8 @@ zyvox
 еt
 еv
 еw
+есть скидка
+есть-скидка
 жк центральны
 жк-центральны
 за таблетку
@@ -24120,10 +24135,12 @@ zyvox
 купить
 купить ckaйп
 купить диплом
+купить ламинин
 купить свидетел
 купить элитн
 купить-ckaйп
 купить-диплом
+купить-ламинин
 купить-свидетел
 купить-элитн
 курс евро
