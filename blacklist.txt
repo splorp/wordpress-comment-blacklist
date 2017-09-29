@@ -1533,6 +1533,9 @@ _zapat
 .ru/image
 .ru/katalog
 .ru/load
+.ru/lol-
+.ru/lol.
+.ru/lol/
 .ru/member
 .ru/page-
 .ru/profil
@@ -3616,7 +3619,9 @@ _zapat
 100% authentic
 100% copy
 100% legit
+100% plagiaris
 100% real
+100%-plagiaris
 100mg.
 111.co
 111.in
@@ -3991,10 +3996,15 @@ actual-effort
 actual-submit
 actual-thank
 actualcelebrity
+actualeffort
 actually dont
 actually thank
 actually-dont
 actually-thank
+actuallydont
+actuallythank
+actualsubmit
+actualthank
 acutual
 acyclovir
 ad crack
@@ -4261,6 +4271,33 @@ aklotr
 akril-panel
 akrilpanel
 aksudmias
+aktuel nachricht
+aktuel news
+aktuel press
+aktuel-nachricht
+aktuel-news
+aktuel-press
+aktuell nachricht
+aktuell news
+aktuell press
+aktuell-nachricht
+aktuell-news
+aktuell-press
+aktuelle nachricht
+aktuelle news
+aktuelle press
+aktuelle-nachricht
+aktuelle-news
+aktuelle-press
+aktuellenachricht
+aktuellenews
+aktuellepress
+aktuellnachricht
+aktuellnews
+aktuellpress
+aktuelnachricht
+aktuelnews
+aktuelpress
 alarmingly grow
 alarmingly-grow
 albanian-travel
@@ -4778,7 +4815,9 @@ autre artic
 autre-artic
 autres equip
 autres-equip
+available bargain
 available proper
+available-bargain
 available-proper
 avatar-live
 avvessorie
@@ -5142,6 +5181,8 @@ barcelonasunglass
 bardot lancel
 bardot-lancel
 bardotlancel
+bargain essay
+bargain-essay
 barn timber
 barn-timber
 barntimber
@@ -6859,6 +6900,8 @@ chaquetas-oferta
 chaquetasbelstaff
 chaquetascuero
 chaquetasoferta
+charge essay
+charge-essay
 charger drazen
 charger-drazen
 charlescave
@@ -9127,7 +9170,9 @@ espana-online
 españa-online
 espanaonline
 españaonline
+essay creat
 essay erudite
+essay-creat
 essay-empire
 essay-erudite
 essay-help
@@ -14032,6 +14077,8 @@ loiknog
 loiusvuitton
 loknoig
 lol i
+lol life
+lol-life
 london genuine
 london-genuine
 londongenuine
@@ -18449,8 +18496,12 @@ rapid-pay
 rapidpay
 rasalinga
 rastreadores
+rater-24
+rater24
 rather enlightening
 rather-enlightening
+rating-24
+rating24
 ravensfan
 ray_ban
 ray-ban-aviator
@@ -18836,6 +18887,8 @@ reports.cfm
 reports.htm
 reports.jsp
 reports.php
+requests swiftly
+requests-swiftly
 rescator
 reseaux sociaux
 réseaux sociaux
@@ -24193,6 +24246,8 @@ zyvox
 лайткоин
 ламинин
 легальные
+лига легенд
+лига-легенд
 ликвида
 лицензия
 ломают машин
@@ -24231,6 +24286,7 @@ zyvox
 монтаж-элект
 москве устройс
 москве-устройс
+мошенник
 мою анкету
 мою-анкету
 мужские пальто
@@ -24269,6 +24325,8 @@ zyvox
 обрезка-деревьев
 обучение
 объявлени
+огромный выи
+огромный-выи
 одежда
 ожерелье
 онлайн
@@ -24364,6 +24422,8 @@ zyvox
 р±
 р№
 рµ
+работают сайт
+работают-сайт
 разработать игру
 разработать-игру
 рассылки сайт
@@ -24417,6 +24477,8 @@ zyvox
 сѓ
 секс
 селитра
+сети работ
+сети-работ
 симпатичная
 симптом
 сироп мангустина
