@@ -1326,7 +1326,7 @@ _zapat
 .in/member
 .in/page-
 .in/profil
-.in/service
+.in/serv
 .in/shop
 .in/sold
 .in/store
@@ -1409,7 +1409,7 @@ _zapat
 .ph/ph/
 .ph/profil
 .ph/pub
-.ph/service
+.ph/serv
 .ph/shop
 .ph/sold
 .ph/store
@@ -1445,7 +1445,7 @@ _zapat
 .pl/page-
 .pl/pl/
 .pl/profil
-.pl/service
+.pl/serv
 .pl/shop
 .pl/sold
 .pl/store
@@ -1500,7 +1500,7 @@ _zapat
 .ro/profil
 .ro/pub
 .ro/ro/
-.ro/service
+.ro/serv
 .ro/shop
 .ro/sold
 .ro/store
@@ -1542,7 +1542,7 @@ _zapat
 .ru/pub
 .ru/ru/
 .ru/serial
-.ru/service
+.ru/serv
 .ru/shop
 .ru/sold
 .ru/store
@@ -1552,6 +1552,7 @@ _zapat
 .ru/uslug
 .ru/vid
 .ru/vip
+.ru/word
 .ru#
 .rusex-
 .rusex.
@@ -1592,7 +1593,7 @@ _zapat
 .su/profil
 .su/pub
 .su/ru/
-.su/service
+.su/serv
 .su/shop
 .su/sold
 .su/store
@@ -1642,7 +1643,7 @@ _zapat
 .za/page-
 .za/profil
 .za/pub
-.za/service
+.za/serv
 .za/shop
 .za/sold
 .za/store
@@ -5437,8 +5438,9 @@ betes7
 betes8
 betes9
 betlist
+better-serv
 betterjudg
-betterserve
+betterserv
 betting article
 betting news
 betting-article
@@ -8668,10 +8670,10 @@ dolce bag
 dolce-bag
 dolcebag
 dollar jackpot
-dollar service
+dollar serv
 dollar-jackpot
-dollar-service
-dollarservice
+dollar-serv
+dollarserv
 dolphins jers
 dolphins-jers
 dolphinsjers
@@ -8778,7 +8780,7 @@ dresssale
 dressshop
 drink iconic
 drink-iconic
-drivewayservice
+drivewayserv
 drmarten jap
 drmarten jp
 drmarten uk
@@ -8900,8 +8902,6 @@ e http
 e-biz
 e-cig
 e-evance
-e-newsletter service
-e-newsletter-service
 e.@
 e2by.in
 eâcute
@@ -8921,8 +8921,11 @@ ebaypic
 ebony porn
 ebony-porn
 ebonyporn
+ebook porn
+ebook-porn
 ebook-reader-test
 ebook-test
+ebookporn
 ebookreadertest
 ebooktest
 ecco out
@@ -9036,8 +9039,6 @@ energetic post
 energetic-post
 energeticpost
 eneugh
-enewsletter service
-enewsletter-service
 eng private
 eng-faq
 eng-index
@@ -9172,12 +9173,13 @@ espanaonline
 españaonline
 essay creat
 essay erudite
+essay serv
 essay-creat
 essay-empire
 essay-erudite
 essay-help
 essay-intro
-essay-service
+essay-serv
 essay-write
 essayempire
 essayer cette
@@ -9188,18 +9190,18 @@ essayintro
 essays empire
 essays help
 essays intro
-essays service
+essays serv
 essays write
 essays-empire
 essays-help
 essays-intro
-essays-service
+essays-serv
 essays-write
 essaysempire
-essayservice
+essayserv
 essayshelp
 essaysintro
-essaysservice
+essaysserv
 essayswrite
 essaywrite
 established blog
@@ -9905,39 +9907,39 @@ finance blog
 finance cash
 finance debt
 finance emerg
-finance service
+finance serv
 finance solution
 finance-
 finance-blog
 finance-cash
 finance-debt
 finance-emerg
-finance-service
+finance-serv
 finance-solution
 financeblog
 financecash
 financedebt
 financeemerg
-financeservice
+financeserv
 financesolution
 financial blog
 financial cash
 financial debt
 financial emerg
-financial service
+financial serv
 financial solution
 financial_
 financial-blog
 financial-cash
 financial-debt
 financial-emerg
-financial-service
+financial-serv
 financial-solution
 financialblog
 financialcash
 financialdebt
 financialemerg
-financialservice
+financialserv
 financialsolution
 finanse
 finansow
@@ -10284,7 +10286,7 @@ free-private
 free-prog
 free-proxy
 free-real
-free-server
+free-serv
 free-simple
 free-weblog
 free-website
@@ -10324,7 +10326,7 @@ freeproxy
 freereal
 freesale
 freesalg
-freeserver
+freeserv
 freesimcard
 freeslotmachine
 freevideo
@@ -11227,6 +11229,7 @@ great essay
 great good
 great keep
 great layout
+great low
 great post
 great publish
 great thing
@@ -11242,6 +11245,7 @@ great-essay
 great-good
 great-keep
 great-layout
+great-low
 great-post
 great-publish
 great-thing
@@ -12096,9 +12100,12 @@ hot.jsp
 hot.php
 hotburberry
 hotel deal
+hotel egypt
 hotel hermes
 hotel-deal
+hotel-egypt
 hotel-hermes
+hotel.egypt
 hotelbritannia
 hoteldeal
 hoteles madrid
@@ -12107,6 +12114,9 @@ hotelesmadrid
 hotelhermes
 hoteli
 hotelmanchester
+hotels egypt
+hotels-egypt
+hotels.egypt
 hotgirl
 hotlove
 hotpantie
@@ -13904,7 +13914,7 @@ ligne-médicament
 limited jers
 limited-jers
 limitedjers
-limo-service
+limo-serv
 linguim.co
 link bait
 link build
@@ -14639,7 +14649,7 @@ marketing mark
 marketing online
 marketing prof
 marketing samu
-marketing service
+marketing serv
 marketing tip
 marketing xchange
 marketing-blog
@@ -14650,7 +14660,7 @@ marketing-mark
 marketing-online
 marketing-prof
 marketing-samu
-marketing-service
+marketing-serv
 marketing-tip
 marketing-xchange
 marketing.in
@@ -14662,7 +14672,7 @@ marketingmark
 marketingonline
 marketingprof
 marketingsamu
-marketingservice
+marketingserv
 marketingtip
 marketingxchange
 marketnn
@@ -16015,8 +16025,8 @@ newport-100s
 newport100s
 news.in
 newseo
-newsletter service
-newsletter-service
+newsletter serv
+newsletter-serv
 newss.
 newvibram
 newwebsite
@@ -16590,6 +16600,7 @@ online schuh
 online shoe
 online shop
 online usa
+online бесплатно
 online-bag
 online-blog
 online-business
@@ -16630,6 +16641,7 @@ online-shop
 online-store
 online-usa
 online-zapatilla
+online-бесплатно
 online.asp
 online.cfm
 online.com
@@ -17591,7 +17603,8 @@ plombier-paris
 plombierparis
 plreause
 plugin_
-plumbingservice
+plumbing-serv
+plumbingserv
 plus dating
 plus-dating
 plus-my
@@ -17866,7 +17879,7 @@ post post
 post_
 post-extreme
 post-post
-post-service
+post-serv
 post:
 post!
 post.best
@@ -18789,7 +18802,7 @@ replica ray
 replica relogio
 réplica relogio
 replica rolex
-replica service
+replica serv
 replica top
 replica ugg
 replica watch
@@ -18823,7 +18836,7 @@ replica-ray
 replica-relogio
 réplica-relogio
 replica-rolex
-replica-service
+replica-serv
 replica-store
 replica-top
 replica-ugg
@@ -18866,7 +18879,7 @@ réplicas-de-
 replicas-relogio
 réplicas-relogio
 replicasde
-replicaservice
+replicaserv
 replicasrelogio
 replicastore
 replicatop
@@ -19651,7 +19664,7 @@ server2015
 server2016
 server2017
 servicedoc
-services/services
+services/serv
 servicii profes
 servicii-profes
 serwis
@@ -20686,6 +20699,7 @@ store online
 store out
 store penis
 store purchased
+store serv
 store shopping
 store wholes
 store-caldle
@@ -20694,7 +20708,7 @@ store-online
 store-out
 store-penis
 store-purchased
-store-service
+store-serv
 store-shopping
 store-wholes
 store.bl
@@ -20706,6 +20720,7 @@ storeonline
 storeout
 storepenis
 stores.bl
+storeserv
 stories funny
 stories-funny
 storiesfunny
@@ -21659,8 +21674,12 @@ tote hand
 tote-hand
 totehand
 town|
-trace-service
-tracing-service
+trace serv
+trace-serv
+traceserv
+tracing serv
+tracing-serv
+tracingserv
 track-back
 track-phone-location
 track2 dump
@@ -23421,11 +23440,11 @@ writing taste
 writing-essay
 writing-manually
 writing-paper
-writing-service
+writing-serv
 writing-taste
 writingessay
 writingpaper
-writingservice
+writingserv
 wto brand
 wto-brand
 wtobrand
@@ -24088,6 +24107,8 @@ zyvox
 гe
 гo
 гy
+гадание online
+гадание-online
 гей питер
 гей-питер
 глубокое глот
