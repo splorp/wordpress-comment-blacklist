@@ -37,6 +37,7 @@ _campaign
 _cartier
 _casino
 _cassino
+_cazino
 _celine
 _chaus
 _cheap
@@ -400,6 +401,9 @@ _zapat
 -backpain-
 -backpain.
 -backpain/
+-bdsm-
+-bdsm.
+-bdsm/
 -beneficial-
 -beneficial.
 -beneficial/
@@ -461,6 +465,9 @@ _zapat
 -casino/
 -cassino.
 -cassino/
+-cazino-
+-cazino.
+-cazino/
 -cell-phone-
 -cell-phone.
 -cell-phone/
@@ -594,6 +601,9 @@ _zapat
 -faux/
 -filmi
 -filmy
+-filosov-
+-filosov.
+-filosov/
 -finance.
 -finance/
 -financing.
@@ -1217,6 +1227,9 @@ _zapat
 .azmya.
 .baidu
 .bbls.pl
+.bdsm-
+.bdsm.
+.bdsm/
 .be/,
 .bioactive
 .blogbox.
@@ -1227,6 +1240,9 @@ _zapat
 .cartier-
 .cause-
 .causes-
+.cazino-
+.cazino.
+.cazino/
 .cfmx
 .cgi
 .chanel-
@@ -1275,6 +1291,9 @@ _zapat
 .fcgi
 .filmi-
 .filmy-
+.filosov-
+.filosov.
+.filosov/
 .forum.
 .fr/,
 .fragmenting.us
@@ -1951,6 +1970,9 @@ _zapat
 /bazar.
 /bbqr.me
 /bbs/
+/bdsm-
+/bdsm.
+/bdsm/
 /best-
 /best.
 /better-
@@ -2059,6 +2081,9 @@ _zapat
 /cassino.
 /categories-
 /category-
+/cazino-
+/cazino.
+/cazino/
 /cek.li
 /celine/
 /cell-phone-
@@ -2240,6 +2265,9 @@ _zapat
 /files/
 /filmi
 /filmy
+/filosov-
+/filosov.
+/filosov/
 /finance.
 /financing.
 /flash/
@@ -3285,6 +3313,7 @@ _zapat
 =view
 =youtube
 >.}
+>]
 | |
 ||
 |chi
@@ -4325,11 +4354,14 @@ alien-wheel
 alienwheel
 alkotla
 all ahout
+all incluzive
 all-about-the
 all-ahout
+all-incluzive
 allbestedmed
 allbestmed
 allianz/
+allincluzive
 allinone
 allowd
 allpay
@@ -5448,6 +5480,8 @@ betes7
 betes8
 betes9
 betlist
+betor.biz
+betor.ru
 better-serv
 betterjudg
 betterserv
@@ -5697,6 +5731,8 @@ blog-web
 blog-world
 blog:
 blog.best
+blog's post
+blog’s post
 blog/blog
 blog/comment
 blog/index
@@ -5725,7 +5761,9 @@ bloglook
 blogów
 blogplatform
 blogrtui.ru
+blogs post
 blogs_
+blogs-post
 blogs-trick
 blogs.bl
 blogs/entry
@@ -6667,6 +6705,7 @@ casino only
 casino phish
 casino_
 casino-1
+casino-24
 casino-bonus
 casino-enligne
 casino-fish
@@ -6677,6 +6716,7 @@ casino-only
 casino-phish
 casino.co
 casino1
+casino24
 casinobonus
 casinoenligne
 casinoer
@@ -6700,12 +6740,14 @@ cassino game
 cassino online
 cassino only
 cassino_
+cassino-24
 cassino-bonus
 cassino-enligne
 cassino-game
 cassino-online
 cassino-only
 cassino.co
+cassino24
 cassinobonus
 cassinoenligne
 cassinoer
@@ -6745,6 +6787,9 @@ catalogues.jsp
 catalogues.php
 cavin-klein
 cavinklein
+cazino_
+cazino-24
+cazino24
 cɑ
 cc shop
 cc-shop
@@ -9993,7 +10038,9 @@ firm.pl
 firm.ru
 firm.su
 firm.za
+firma betor
 firma sprzata
+firma-betor
 firma-sprzata
 firma.asp
 firma.cfm
@@ -13421,6 +13468,7 @@ killer-weblog
 kinder moncler
 kinder-moncler
 kindermoncler
+kinky.alt
 kino online
 kino pozitiv
 kino prog
@@ -15815,6 +15863,7 @@ my web:
 my webb
 my wweb
 my-bebo
+my-betor
 my-bitcoin
 my-fashion
 my-hermes
@@ -15826,6 +15875,7 @@ my-ssite
 my-virus
 my-webb
 my-wweb
+mybetor
 mybitcoin
 mydead-
 mydomain
@@ -18612,6 +18662,9 @@ raybansunglass
 raybantokyo
 raybanuk
 razadyne
+rb-str.ru
+rbstr.ru
+rbstrru
 read everthing
 read smaller
 read-everthing
@@ -19513,9 +19566,11 @@ secretadvert
 secretbeautiful
 secretgenerous
 secretreview
+secure-image
 secure-smtp
 secured result
 secured-result
+secureimage
 securesmtp
 security-for
 seek man
@@ -24129,6 +24184,9 @@ zyvox
 бесплатной диаг
 бесплатной-демо
 бесплатной-диаг
+бетор фирма
+бетор-фирма
+беторфирма
 бинарных опцион
 бинарных-опцион
 благодаря ламинину
@@ -24213,6 +24271,8 @@ zyvox
 декоративно прикладно
 декоративно-прикладно
 денег
+денежная лотерея
+денежная-лотерея
 детские дискотек
 детские-дискотек
 дешево
@@ -24264,7 +24324,11 @@ zyvox
 знающие люди
 знающие-люди
 ѕs
+игровом клубе
+игровом-клубе
 игровые
+игровые автом
+игровые-автом
 изготовлен
 инете
 инстаграм
@@ -24351,6 +24415,8 @@ zyvox
 ломают машин
 ломают-машин
 ломаютмашин
+любимые игры
+любимые-игры
 любит глубокое
 любит-глубокое
 магаз
@@ -24404,6 +24470,8 @@ zyvox
 недорого
 неизлечимых медициной
 неизлечимых-медициной
+ниже сайт
+ниже-сайт
 низкие цен
 низкой цене 
 низкой-цене 
@@ -24489,6 +24557,8 @@ zyvox
 порно
 портал
 посетител
+последние новости
+последние-новости
 похудение живота
 похудение-живота
 похудению
@@ -24519,6 +24589,8 @@ zyvox
 производство
 промо
 проститутки
+просыпаются филосо
+просыпаются-филосо
 професси
 прошивка
 психоло
@@ -24535,6 +24607,8 @@ zyvox
 рассылки сайт
 рассылки-сайт
 рднк
+реальные деньги
+реальные-деньги
 реальный кардинг
 реальный муж
 реальный-кардинг
@@ -24577,6 +24651,8 @@ zyvox
 сайтов
 самая крупная
 самая-крупная
+самое свежее
+самое-свежее
 самый превосход
 самый-превосход
 свой сайт
@@ -24676,8 +24752,13 @@ zyvox
 установка-канали
 утепление
 фабрика меха
+филосовские мысли
+филосовские-мысли
 фильмов
 финансовую
+фирма бетор
+фирма-бетор
+фирмабетор
 фирму
 фитнес клуб
 фитнес туры
@@ -24707,6 +24788,8 @@ zyvox
 шаблоны вордпресс
 шаблоны-wordpress
 шаблоны-вордпресс
+шанс выиграть
+шанс-выиграть
 шапка
 шёлковый палант
 шёлковый платок
