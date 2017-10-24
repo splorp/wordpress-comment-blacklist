@@ -1213,6 +1213,8 @@ _zapat
 .()
 .[]
 .%
+.1com
+.2com
 .2u4.us
 .acgi
 .adboard
@@ -3294,6 +3296,7 @@ _zapat
 =christ
 =com_
 =forex
+=http
 =kobe
 =longchamp
 =loubou
@@ -3381,6 +3384,7 @@ _zapat
 1hand
 1health
 1minute
+1minuts
 1ping
 1purse
 1st-best
@@ -3499,6 +3503,8 @@ _zapat
 4hand
 4health
 4juice
+4k polecacie
+4k-polecacie
 4less
 4minute
 4plus
@@ -3529,6 +3535,7 @@ _zapat
 5hand
 5health
 5minute
+5minuts
 5purse
 5test
 5the best
@@ -3580,6 +3587,8 @@ _zapat
 10mg.
 10mgbuy
 10mgcheap
+10minute
+10minuts
 10折
 １０歳
 ２０％
@@ -5401,6 +5410,7 @@ berlin-moncler
 berlinmoncler
 berracom.ph
 besstet
+best blogging
 best cartier
 best cc
 best cyber
@@ -5417,6 +5427,7 @@ best tummy
 best website
 best wordpress
 best xxx
+best-blogging
 best-cartier
 best-cc
 best-cyber
@@ -8687,6 +8698,10 @@ dnjurh
 doable prog
 doable-prog
 doableprog
+dobra kamera
+dobra kamere
+dobra-kamera
+dobra-kamere
 dobrucki.co
 dobrucki.pl
 doc/soap
@@ -9569,6 +9584,8 @@ false-doc
 false-passport
 falsedoc
 falsepassport
+famous blog
+famous-blog
 fanalert
 fanatic shop
 fanatic-shop
@@ -12852,12 +12869,14 @@ it duvetica
 it oakley
 it ordeno
 it ordenó
+it potency
 it rite
 it truly
 it-duvetica
 it-oakley
 it-ordeno
 it-ordenó
+it-potency
 it-rite
 it-truly
 it''s
@@ -13378,6 +13397,10 @@ kaepernickyouth
 kaffee-maschine
 kaffeemaschine
 kamagra
+kamera 4k
+kamera-4k
+kamere 4k
+kamere-4k
 kameri
 kanadakommen
 kanalizacyjne
@@ -17811,6 +17834,7 @@ popular-brand
 popularna
 popularną markę
 porn angel
+porn app
 porn beer
 porn big
 porn comic
@@ -17852,6 +17876,7 @@ porn virgin
 porn_
 porn-
 porn-angel
+porn-app
 porn-beer
 porn-big
 porn-dairy
@@ -18665,6 +18690,7 @@ razadyne
 rb-str.ru
 rbstr.ru
 rbstrru
+reach-me-down
 read everthing
 read smaller
 read-everthing
@@ -20724,6 +20750,7 @@ spysoftware
 spyware
 squidoo.co
 ssory
+ssss
 ssylka
 sta'sean
 sta’sean
