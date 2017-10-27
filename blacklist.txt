@@ -1798,6 +1798,7 @@ _zapat
 /1.jsp
 /01.php
 /1.php
+/1i1.me
 /02.asp
 /2.asp
 /02.cfm
