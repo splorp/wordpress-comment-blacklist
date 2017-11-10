@@ -135,7 +135,6 @@ See the [license.txt](https://raw.github.com/splorp/wordpress-comment-blacklist/
 + 20120217 — 1,000 entries
 + 20111122 — Released as a [Gist](https://gist.github.com/splorp/1385930) with just over 140 entries
 
-
 ## Questions?
 
 Contact me via [email](mailto:grant@splorp.com) or [Twitter](https://twitter.com/splorp).
