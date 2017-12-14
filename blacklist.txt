@@ -377,6 +377,9 @@ _zapat
 -asics.
 -asics/
 -asshole
+-assjob-
+-assjob.
+-assjob/
 -auction-
 -auction.
 -auction/
@@ -1100,6 +1103,9 @@ _zapat
 -wedding-dress
 -wedding-photo
 -wheels-
+-whipme-
+-whipme.
+-whipme/
 -wholesale.
 -wizard.co
 -women-jers
@@ -1230,6 +1236,9 @@ _zapat
 .armani-
 .armpit.
 .asp/
+.assjob-
+.assjob.
+.assjob/
 .azmya.
 .baidu
 .bbls.pl
@@ -1557,6 +1566,7 @@ _zapat
 .ru/artic
 .ru/artik
 .ru/ba-
+.ru/blog
 .ru/catalog
 .ru/content
 .ru/forum
@@ -1568,6 +1578,7 @@ _zapat
 .ru/lol/
 .ru/member
 .ru/page-
+.ru/pict
 .ru/profil
 .ru/progs.
 .ru/pub
@@ -1650,6 +1661,9 @@ _zapat
 .univer.
 .us/user
 .webs.co
+.whipme-
+.whipme.
+.whipme/
 .worktop.
 .worktops.
 .yuwanshe.
@@ -1953,6 +1967,9 @@ _zapat
 /asics-
 /asics.
 /asp/
+/assjob-
+/assjob.
+/assjob/
 /asthma-
 /asthma.
 /ateffa.ms
@@ -3020,6 +3037,9 @@ _zapat
 /wedding.
 /weddingreception-
 /weddingreception.
+/whipme-
+/whipme.
+/whipme/
 /wholesale-
 /wholesale.
 /widget/
@@ -8195,6 +8215,9 @@ cr.ea.se
 cr.eas.e
 cracked-pro
 crackedpro
+craig list
+craig-list
+craiglist
 crane-hire
 cranehire
 crave of
@@ -9250,6 +9273,7 @@ erotic love
 erotic nude
 erotic photo
 erotic pro
+erotic screen
 erotic series
 erotic text
 erotic thrill
@@ -9266,6 +9290,7 @@ erotic-love
 erotic-nude
 erotic-photo
 erotic-pro
+erotic-screen
 erotic-series
 erotic-text
 erotic-thrill
@@ -11086,6 +11111,8 @@ gmail-prox
 gmaills
 gmailmirror
 gmailprox
+gmod stalker
+gmod-stalker
 gneuienly
 gnlaser
 go viral,
@@ -11170,6 +11197,7 @@ gomibet
 good article
 good blog
 good click
+good erotic
 good free
 good goodie
 good hemp
@@ -11181,6 +11209,7 @@ good website
 good-article
 good-blog
 good-click
+good-erotic
 good-for-
 good-free
 good-game
@@ -14166,6 +14195,8 @@ lipitor
 lisinopril
 lisseur-pascher
 lisseurpascher
+list erotic
+list-erotic
 listajp
 listasegment
 litte more
@@ -16943,7 +16974,9 @@ origami origami
 origami-origami
 origamilesson origami
 origamilesson-origami
+original devise
 original_
+original-devise
 orlistat
 orologi uomo
 orologi-uomo
@@ -19291,10 +19324,12 @@ russian mis
 russian mr
 russian ms
 russian mulberry
+russian stalker
 russian-mis
 russian-mr
 russian-ms
 russian-mulberry
+russian-stalker
 russianmis
 russianmr
 russianms
@@ -20849,6 +20884,9 @@ stag-weekend
 stag.weekend
 stagparty
 stagweekend
+stalker rp
+stalker-rp
+stalkerrp
 standing website
 standing-website
 standingof
@@ -21785,6 +21823,7 @@ to-gget
 to-operates
 to-truly
 toasterovensnow
+tobuy.in
 today/article
 todescribe
 tods jap
@@ -23044,6 +23083,7 @@ vе
 w http
 w.@
 w.il.lkom.men
+w88w
 wakka=
 wallet out
 wallet-out
@@ -23527,7 +23567,6 @@ woman+
 womanbikini
 women bikini
 women-bikini
-women.ru/pict
 women+
 womenbikini
 won blog
@@ -24803,6 +24842,8 @@ zyvox
 рулетка для
 рулетка-джекпот
 рулетка-для
+русский stalker
+русский-stalker
 рф
 с¶
 с‰
