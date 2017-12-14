@@ -372,7 +372,9 @@ _zapat
 -armani-
 -armani.
 -armani/
+-armpit-
 -armpit.
+-armpit/
 -asics-
 -asics.
 -asics/
@@ -1144,6 +1146,7 @@ _zapat
 ;#
 :)!
 :///
+://a/
 :adidas
 :blog
 :nike
@@ -1234,7 +1237,11 @@ _zapat
 .allocating.
 .allocating/
 .armani-
+.armani/
+.armpit-
 .armpit.
+.armpit/
+.asia/?
 .asp/
 .assjob-
 .assjob.
@@ -1600,6 +1607,7 @@ _zapat
 .rusex.
 .rusex/
 .s.a.k
+.sallow.co
 .secret-
 .secrets-
 .sensual-
@@ -1960,7 +1968,6 @@ _zapat
 /answer-
 /answer.
 /armani-
-/armani.
 /armpit-
 /armpit.
 /around.
@@ -17523,6 +17530,22 @@ pdf/celine
 pdf/chanel
 pdf/prada
 pdf/rolex
+pedophile gratuit
+pédophile gratuit
+pedophile notoire
+pédophile notoire
+pedophile-gratuit
+pédophile-gratuit
+pedophile-notoire
+pédophile-notoire
+pedophillie gratuit
+pédophillie gratuit
+pedophillie notoire
+pédophillie notoire
+pedophillie-gratuit
+pédophillie-gratuit
+pedophillie-notoire
+pédophillie-notoire
 peer extra
 peer your
 peer-extra
@@ -19140,10 +19163,18 @@ resist-comment
 resources/styles
 restoremen
 restoril
+result choquant
+résult choquant
+result-choquant
+résult-choquant
 resultat pmu
 résultat pmu
 resultat-pmu
 résultat-pmu
+resultats choquant
+résultats choquant
+resultats-choquant
+résultats-choquant
 results.htm
 retail-store
 retailstore
