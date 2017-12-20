@@ -731,6 +731,9 @@ _zapat
 -kontakt/
 -lacoste-
 -le-pliage
+-lesbian-
+-lesbian.
+-lesbian/
 -link.
 -link/
 -loan-
@@ -1043,6 +1046,9 @@ _zapat
 -systems.ru
 -systems.su
 -systems.za
+-tafil-
+-tafil.
+-tafil/
 -tattoo-
 -tattoo.
 -tattoo/
@@ -1397,6 +1403,9 @@ _zapat
 .kartridzhej.
 .kartridzhej/
 .kr/kr/
+.lesbian-
+.lesbian.
+.lesbian/
 .lipoly.ru
 .longchamp-
 .louboutin-
@@ -1525,6 +1534,7 @@ _zapat
 .retina247-
 .retina247.
 .retina247/
+.rivulet.co
 .ro,
 .ro/,
 .ro/?entry.
@@ -1658,6 +1668,9 @@ _zapat
 .supreme-
 .t.a.p
 .t.wit
+.tafil-
+.tafil.
+.tafil/
 .thearticle
 .top/?
 .top/gal
@@ -2494,6 +2507,9 @@ _zapat
 /layout1/
 /layout2/
 /legal/
+/lesbian-
+/lesbian.
+/lesbian/
 /lib/
 /libraries/
 /library/
@@ -2920,6 +2936,9 @@ _zapat
 /system/
 /t.co
 /tabid/
+/tafil-
+/tafil.
+/tafil/
 /tagged/
 /tattoo-
 /tattoo.
@@ -6167,7 +6186,12 @@ brazilbikini
 brazzer
 breakfast coming
 breakfast-coming
+breast porn
+breast-porn
 breastactive
+breastporn
+breasts porn
+breasts-porn
 bridal-gown
 bridalgown
 bridalshop
@@ -14047,14 +14071,17 @@ lenjerie
 lesben-
 lesbian bdsm
 lesbian fuck
+lesbian milf
 lesbian porn
 lesbian school
 lesbian-bdsm
 lesbian-fuck
+lesbian-milf
 lesbian-porn
 lesbian-school
 lesbianbdsm
 lesbianfuck
+lesbianmilf
 lesbianporn
 lesbianschool
 lesbos-
@@ -16436,6 +16463,7 @@ nizoral
 nm.ru
 nm.su
 nneed-from
+nngid.ru
 nnuauec
 no collateral
 no continu
@@ -17744,11 +17772,15 @@ pignee
 pigus kvepalai
 pigus-kvepalai
 pill cheap
+pill review
 pill-cheap
+pill-review
 pillcheap
 pillonline
 pills cheap
+pills review
 pills-cheap
+pills-review
 pills.co
 pillscheap
 pillsonline
@@ -18011,6 +18043,7 @@ porn-angel
 porn-app
 porn-beer
 porn-big
+porn-comic
 porn-dairy
 porn-diary
 porn-ebony
@@ -19831,6 +19864,7 @@ seo plug
 seo rank
 seo soluton
 seo source
+seo toil
 seo tool
 seo vps
 seo widget
@@ -19851,6 +19885,7 @@ seo-plug
 seo-rank
 seo-soluton
 seo-source
+seo-toil
 seo-tool
 seo-vps
 seo-widget
@@ -19872,6 +19907,7 @@ seoplug
 seorank
 seosoluton
 seosource
+seotoil
 seotool
 seovps
 seowidget
@@ -24441,6 +24477,8 @@ zyvox
 вклады-сбербанк
 вольво (volvo
 вольво-вольво
+все подробно
+все-подробно
 всем привет
 всем-привет
 выбрать лучшие
@@ -24728,6 +24766,8 @@ zyvox
 одежда
 ожерелье
 онлайн
+оптимизаторы удале
+оптимизаторы-удале
 оптом
 от ожирения
 от-ожирения
