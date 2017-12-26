@@ -1688,6 +1688,7 @@ _zapat
 .whipme/
 .worktop.
 .worktops.
+.ytimg.
 .yuwanshe.
 .yves
 .za,
@@ -21397,6 +21398,8 @@ t.empte.st
 t.emptes.t
 t.emptest
 t.for
+t.o.pic
+t.opi.c
 t.the
 t.two
 t.w.i.t
@@ -21910,6 +21913,8 @@ to-daylight
 to-gget
 to-operates
 to-truly
+to.p.ic
+to.pi.c
 toasterovensnow
 tobuy.in
 today/article
@@ -21989,6 +21994,8 @@ top-stop
 top-tai
 top-tier
 top-viral
+top.c.i
+top.i.c
 topamax
 toparticle
 topblog
@@ -25056,6 +25063,9 @@ zyvox
 установка-забор
 установка-канали
 утепление
+ух ты
+ух-ты
+ухты
 фабрика меха
 филосовские мысли
 филосовские-мысли
@@ -25085,6 +25095,7 @@ zyvox
 целевые клиентские
 целевые-клиентские
 цена
+цены
 через поисск
 через-поисск
 шаблон wordpress
