@@ -1688,6 +1688,7 @@ _zapat
 .whipme/
 .worktop.
 .worktops.
+.xblog.in
 .ytimg.
 .yuwanshe.
 .yves
@@ -5728,11 +5729,13 @@ biztalk
 biztout
 biżuteria
 black gay
+black lesbian
 black tight
 black tits
 black ugg
 black-friday
 black-gay
+black-lesbian
 black-tight
 black-tits
 black-ugg
@@ -5744,6 +5747,7 @@ blackjack_
 blackjack-pit
 blackjackpit
 blacklabelj
+blacklesbian
 blacktight
 blacktits
 blackugg
@@ -8629,6 +8633,8 @@ desires-erotic
 desmomelt
 desmopressin
 despaulsmith
+desserts-factory
+dessertsfactory
 destenex
 destinex
 destiny power
@@ -19656,6 +19662,7 @@ satcheldbag
 sauvegarde extern
 sauvegarde-extern
 save-you-time
+sawfwaf
 sayt vizitk
 sayt-vizitk
 sɑ
@@ -23282,6 +23289,7 @@ web owner
 web people
 web pharm
 web promo
+web scheme
 web sie
 web site's
 web site’s
@@ -23302,6 +23310,7 @@ web-owner
 web-people
 web-pharm
 web-promo
+web-scheme
 web-sie
 web-site
 web-sitte
@@ -23344,6 +23353,7 @@ webowner
 webpeople
 webpharm
 webpromo
+webscheme
 websex
 webshop/image
 websiite
