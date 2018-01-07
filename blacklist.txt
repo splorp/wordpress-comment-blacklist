@@ -1605,6 +1605,7 @@ _zapat
 .ru/serv
 .ru/shop
 .ru/sold
+.ru/stati
 .ru/store
 .ru/thumb
 .ru/top
@@ -5883,6 +5884,8 @@ bluetooth-jammer
 bluetoothhead
 bluetoothjammer
 blueugg
+boa qualidade
+boa-qualidade
 boaby
 board sale
 board-sale
@@ -11522,11 +11525,14 @@ großen-ray
 grössen-ray
 größen-ray
 grossrx
+group sex
 group xxx
 group_
 group-home
 group-review
+group-sex
 group-xxx
+groupsex
 groupxxx
 grow marijuana
 grow-cannabis
@@ -17917,6 +17923,7 @@ poco prezzo
 poco-prezzo
 podarochnoy korobk
 podarochnoy-korobk
+pohudenie
 point generat
 point-generat
 point|
@@ -18617,6 +18624,9 @@ psori-nano
 psorinano
 psych-clinic
 psychclinic
+psychedelic parent
+psychedelic-parent
+psychedelicparent
 public fuck
 public sex
 public-fuck
@@ -20032,8 +20042,10 @@ sex game
 sex gratis
 sex hook
 sex hub
+sex mama
 sex movie
 sex mp
+sex papa
 sex pc
 sex porn
 sex scan
@@ -20057,8 +20069,10 @@ sex-game
 sex-gratis
 sex-hook
 sex-hub
+sex-mama
 sex-movie
 sex-mp
+sex-papa
 sex-pc
 sex-porn
 sex-scan
@@ -20090,11 +20104,13 @@ sexgame
 sexgratis
 sexhook
 sexhub
+sexmama
 sexmovie
 sexmp
 sexo mon
 sexo-mon
 sexomon
+sexpapa
 sexpc
 sexporn
 sexscan
@@ -22812,11 +22828,13 @@ versaceuk
 versicherungsmakler
 verspiegelte ray
 very disconcertingly
+very hypo
 very imparted
 very lower
 very oone
 very valid
 very-disconcertingly
+very-hypo
 very-imparted
 very-lower
 very-oone
@@ -24576,6 +24594,7 @@ zyvox
 дешево
 джекпот лотерея
 джекпот-лотерея
+диеты
 дизайн дизайн
 дизайн-дизайн
 дизайн, дизайн
@@ -24667,6 +24686,9 @@ zyvox
 контрабандного-това
 копируйте ссылку
 копируйте-ссылку
+кормлении грудь
+кормлении-грудь
+кормлениигрудь
 коробку вольво
 коробку-вольво
 коррупци
@@ -24875,6 +24897,7 @@ zyvox
 посетител
 последние новости
 последние-новости
+похудела
 похудение живота
 похудение-живота
 похудению
@@ -25096,6 +25119,7 @@ zyvox
 футбол
 хочется уз
 хочется-уз
+худеть
 һa
 һe
 һi
