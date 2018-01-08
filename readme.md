@@ -90,7 +90,7 @@ I’d also like to acknowledge [Paul Taubman](http://ineedhelpwithwordpress.com/
 
 ## License
 
-Copyright © 2011–2017 Grant Hutchinson
+Copyright © 2011–2018 Grant Hutchinson
 
 This project is licensed under the short and sweet [MIT License](http://opensource.org/licenses/MIT). This license allows you to do anything pretty much anything you want with the contents of the repository, as long as you provide proper attribution and don’t hold anyone liable.
 
