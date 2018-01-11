@@ -4144,6 +4144,10 @@ addiction-xxx
 addictionxxx
 addictxxx
 addidas
+addition best
+addition reason
+addition-best
+addition-reason
 additionally fly
 additionay
 addon_
@@ -4935,8 +4939,10 @@ autre-artic
 autres equip
 autres-equip
 available bargain
+available best
 available proper
 available-bargain
+available-best
 available-proper
 avatar-live
 avvessorie
@@ -7643,18 +7649,24 @@ clentching
 cleveland jersey
 cleveland-jersey
 click affiliate
+click bank
 click compan
 click here
+click now
 click_
 click-affiliate
+click-bank
 click-compan
 click-here
+click-now
 click2
 click4
 clickaffiliate
 clickbank
 clickcompan
 clickforu
+clicknow
+clicks2
 clicks4
 clicksor
 clientarea
@@ -8105,7 +8117,9 @@ cooker ninja
 cooker-ninja
 cookerninja
 cool article
+cool post
 cool-article
+cool-post
 coolarticle
 coordintaing
 copie ugg
@@ -9457,6 +9471,7 @@ everthing at
 everthing-at
 every advert
 every info
+every stuff
 every wearer
 every-advert
 every-info
@@ -9464,6 +9479,7 @@ every-leg
 every-light
 every-pant
 every-sock
+every-stuff
 every-think
 every-tight
 every-wearer
@@ -16078,6 +16094,7 @@ mynfl
 myonline
 myowndomain
 myqrop
+myresume
 myreview.co
 myspacee
 myssite
@@ -17836,6 +17853,9 @@ pips-hunter
 pipshunter
 piroxicam
 piscine
+pit burner
+pit-burner
+pitburner
 piumini moncler
 piumini woolrich
 piumini-moncler
@@ -18390,11 +18410,14 @@ prezzi-bors
 prezzi-giub
 prezzibors
 prezzigiub
+price now!
 price replica
 price-of-gold
 price-replica
 price-to-book
+priced now!
 pricereplica
+prices now!
 pricetobook
 priligy
 primary-change
@@ -18738,6 +18761,7 @@ qsymia_
 qsymia-india
 qtrade
 quality article
+quality based
 quality blog
 quality content
 quality page
@@ -18746,6 +18770,7 @@ quality post
 quality site
 quality weblog
 quality-article
+quality-based
 quality-blog
 quality-content
 quality-page
@@ -19576,6 +19601,7 @@ sale louis
 sale lulu
 sale miami
 sale nederland
+sale now!
 sale oakley
 sale online
 sale template
@@ -19616,6 +19642,7 @@ salemiami
 saleoakley
 saleonline
 saleout
+sales now!
 sales-class
 sales-factor
 sales-inspir
@@ -21049,7 +21076,9 @@ stivali-timber
 stivalipioggia
 stivalitimber
 stobuys
+stock plus
 stock screener
+stock-plus
 stock-screener
 stock-ticker
 stockscreener
@@ -21993,6 +22022,7 @@ tongueretain
 too thun
 too-thun
 top article
+top available
 top blog
 top bulgari
 top bvlgari
@@ -22002,6 +22032,7 @@ top tier
 top viral
 top_bank
 top-article
+top-available
 top-blog
 top-bulgari
 top-bvlgari
