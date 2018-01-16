@@ -1267,6 +1267,8 @@ _zapat
 .bdsm/
 .be/,
 .bioactive
+.blog1
+.blog2
 .blogbox.
 .blogspace.
 .bluray-
@@ -4317,14 +4319,20 @@ aff.asp
 aff.cfm
 aff.htm
 aff.php
+affiliat blog
+affiliat-blog
+affiliatblog
+affiliate blog
 affiliate click
 affiliate link
 affiliate ppc
 affiliate review
+affiliate-blog
 affiliate-click
 affiliate-link
 affiliate-ppc
 affiliate-review
+affiliateblog
 affiliateclick
 affiliatelink
 affiliateppc
@@ -4525,6 +4533,9 @@ amour-gratuit
 amourgratuit
 amoxicil
 amoxil
+amped page
+amped-page
+ampedpage
 amulet coin
 amulet-coin
 amusement account
@@ -4615,6 +4626,8 @@ anus online
 anus-live
 anus-online
 anynihtg
+anyone supply
+anyone-supply
 ãœ
 apartamentow
 aperfect
@@ -7713,7 +7726,11 @@ clicks4
 clicksor
 clientarea
 climacool
+clinica-psihologie.ro
 cliquant
+clock_dial
+clock_face
+clock_part
 clock-dial
 clock-kit
 clock-movement
@@ -8884,6 +8901,8 @@ discountwheel
 discussion made
 discussion-made
 display_
+distinct website
+distinct-website
 disulfiram
 diva-com
 divulgaemail
@@ -9828,6 +9847,7 @@ fantastic post
 fantastic read!
 fantastic site
 fantastic topic
+fantastic understand
 fantastic weblog
 fantastic website
 fantastic-blog
@@ -9840,6 +9860,7 @@ fantastic-post
 fantastic-read
 fantastic-site
 fantastic-topic
+fantastic-understand
 fantastic-weblog
 fantastic-website
 fantasticblog
@@ -11539,12 +11560,14 @@ great acknow
 great article
 great bet
 great blog
+great blogroll
 great doc
 great essay
 great good
 great keep
 great layout
 great low
+great performs
 great post
 great publish
 great thing
@@ -11555,12 +11578,14 @@ great-acknow
 great-article
 great-bet
 great-blog
+great-blogroll
 great-doc
 great-essay
 great-good
 great-keep
 great-layout
 great-low
+great-performs
 great-post
 great-publish
 great-thing
@@ -17119,7 +17144,10 @@ optimize_
 optimize-enhance
 optimizing_
 option binaire
+option broker
 option-binaire
+option-broker
+optionbroker
 options binaire
 options-binaire
 options-trad
@@ -17171,7 +17199,9 @@ otvety
 oulet online
 oulet-online
 ouletonline
+our blogroll
 our link
+our-blogroll
 our-link
 ourlink
 out assim
@@ -17772,6 +17802,8 @@ perfect-writ
 perfectdiet
 perfectvpn
 perfectwrit
+performs folk
+performs-folk
 perhaps earring
 perhaps-earring
 permission allow
@@ -18932,6 +18964,16 @@ r.the
 r.two
 r4i-gold
 r4igold
+raahe0
+raahe1
+raahe2
+raahe3
+raahe4
+raahe5
+raahe6
+raahe7
+raahe8
+raahe9
 radikal.ru
 radiocarpea
 raiders hat
@@ -21076,8 +21118,10 @@ spip.htm
 spip.jsp
 spip.php
 splendid depart
+splendid placing!
 splendid tiffany
 splendid-depart
+splendid-placing!
 splendid-tiffany
 splendiddepart
 splendidtiffany
@@ -22858,7 +22902,9 @@ valka derevev
 valka-derevev
 valtrex
 valuable opt-in
+valuable website
 valuable-opt-in
+valuable-website
 valuble
 value blog
 value comment
@@ -23830,15 +23876,19 @@ winterjassen
 wise quote
 wise-quote
 witgh
+with declare
 with pics
+with-declare
 with-pics
 withdrawal!
 withher
 withhim
 without invest
 without prescript
+without ya!
 without-invest
 without-prescript
+without-ya!
 withthose
 woah this
 woah-this
