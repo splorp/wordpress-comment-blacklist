@@ -1019,6 +1019,9 @@ _zapat
 -sluts-
 -sluts.
 -sluts/
+-soft-ware-
+-soft-ware.
+-soft-ware/
 -soma.
 -soma/
 -speed-up-
@@ -1646,6 +1649,9 @@ _zapat
 .skque.
 .skque/
 .smiley
+.soft-ware-
+.soft-ware.
+.soft-ware/
 .su,
 .su/,
 .su/?entry.
@@ -2927,6 +2933,9 @@ _zapat
 /snowboots-
 /snowboots.
 /social-media/
+/soft-ware-
+/soft-ware.
+/soft-ware/
 /soft/
 /soma-
 /soma.
@@ -25556,6 +25565,7 @@ zyvox
 保存
 保証
 倒
+光碟破解
 全球华人
 公式
 公館染髮
@@ -25652,6 +25662,7 @@ zyvox
 財布
 貿易
 赌场
+軟體補給
 輸入
 返品
 通信販売
