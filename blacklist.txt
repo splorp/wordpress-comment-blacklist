@@ -542,6 +542,9 @@ _zapat
 -coupon-
 -data-recovery-
 -de-mbt
+-del-pene-
+-del-pene.
+-del-pene/
 -deluxe-
 -diagnostic-
 -dieta-
@@ -1271,11 +1274,17 @@ _zapat
 .be/,
 .bioactive
 .blog1
+.blog1.
 .blog2
+.blog2.
+.blog3.
+.blog4.
+.blog5.
 .blogbox.
 .blogolize.
 .blogspace.
 .bloguetechno.
+.blogzag.
 .bluray-
 .bluray.
 .bot1.
@@ -1325,6 +1334,10 @@ _zapat
 .credopa.in
 .d.e.r
 .de/,
+.del-pene-
+.del-pene.
+.del-pene/
+.diowebhost.
 .disposable-
 .disposable/
 .doorblog-
@@ -1357,6 +1370,7 @@ _zapat
 .freeoda.com/7
 .freeoda.com/8
 .freeoda.com/9
+.full-design.very internet
 .games.in
 .games.pl
 .games.ro
@@ -1459,6 +1473,7 @@ _zapat
 .noreferer.
 .noreferer/
 .on-demand
+.onesmablog.
 .online.pl
 .online.ws
 .or.kr
@@ -1529,6 +1544,7 @@ _zapat
 .pl/user
 .pl#
 .plotexchange.us
+.pointblog.
 .press-release.
 .pressrelease.
 .ps:
@@ -2269,6 +2285,9 @@ _zapat
 /db/
 /dbase/
 /ddrss.
+/del-pene-
+/del-pene.
+/del-pene/
 /dg-
 /dg.
 /diary-
@@ -3757,6 +3776,9 @@ _zapat
 ９０＄
 90折
 ９０歳
+99 online
+99-online
+99online
 100% autentic
 100% authentic
 100% copy
@@ -4486,6 +4508,7 @@ all incluzive
 all-about-the
 all-ahout
 all-incluzive
+all4web
 allbestedmed
 allbestmed
 allianz/
@@ -7745,11 +7768,9 @@ clinica-psihologie.ro
 cliquant
 clock_dial
 clock_face
+clock_kit
 clock_part
-clock-dial
-clock-kit
-clock-movement
-clock-part
+clock_replace
 clockdial
 clockkit
 clockmovement
@@ -8657,6 +8678,8 @@ dedans longchamp
 dedans-longchamp
 dedanslongchamp
 dedrease
+defammatory post
+defammatory-post
 default_
 default/member
 default1
@@ -8780,9 +8803,7 @@ di-droga
 dia-tips
 diablo3
 dial-face
-dial-replace
 dialface
-dialreplace
 dials-replace
 dialsreplace
 diamanti cartier
@@ -9061,8 +9082,14 @@ dre-head
 dre-phone
 dre<
 dream erotic
+dream proxi
+dream proxy
 dream-erotic
+dream-proxi
+dream-proxy
 dreamerotic
+dreamproxi
+dreamproxy
 drebeat
 drecheap
 drehead
@@ -9962,7 +9989,7 @@ fast|quick
 fastcash
 fastidious blog
 fastidious data
-fastidious dialog
+fastidious dial
 fastidious my
 fastidious page
 fastidious post
@@ -9975,7 +10002,7 @@ fastidious website
 fastidious writ
 fastidious-blog
 fastidious-data
-fastidious-dialog
+fastidious-dial
 fastidious-my
 fastidious-post
 fastidious-repl
@@ -9988,7 +10015,7 @@ fastidious-writ
 fastidious, my
 fastidious=
 fastidiousblog
-fastidiousdialog
+fastidiousdial
 fastidiouspage
 fastidiouspost
 fastidioussite
@@ -11076,6 +11103,7 @@ gestione
 get $
 get bitcoin
 get face
+get private
 get_rid
 get-bitcoin
 get-boot
@@ -11084,6 +11112,7 @@ get-hermes
 get-massive
 get-money-for
 get-pokego
+get-private
 get-rid-of
 get-the-answer
 get-translate
@@ -14691,8 +14720,10 @@ loved onein
 loved-onein
 lovelv
 lovely just
+lovely portal
 lovely thong
 lovely-just
+lovely-portal
 lovely-thong
 lovelythong
 lovelyto
@@ -18934,6 +18965,7 @@ quality option
 quality page
 quality porn
 quality post
+quality quartz
 quality site
 quality weblog
 quality-article
@@ -18946,6 +18978,7 @@ quality-option
 quality-page
 quality-porn
 quality-post
+quality-quartz
 quality-site
 quality-weblog
 quanto cost
@@ -19305,15 +19338,14 @@ reockn
 reparatii-masini-spa
 repeated galdi
 repeated-galdi
-replacement dial
-replacement-dial
-replacementdial
 replica bag
 replica birk
 replica cartier
 replica chanel
 replica china
 replica chinese
+replica dial
+replica face
 replica femme
 replica hand
 replica herve
@@ -19347,6 +19379,8 @@ replica-chinese
 replica-de-
 réplica-de-
 replica-design
+replica-dial
+replica-face
 replica-femme
 replica-gucci
 replica-hand
@@ -19384,6 +19418,8 @@ replicachina
 replicachinese
 replicade
 replicadesign
+replicadial
+replicaface
 replicafemme
 replicagucci
 replicahand
@@ -21141,8 +21177,14 @@ specialtytransfer
 specific gift
 specific-gift
 spedified
+speed proxi
+speed proxy
 speed-loan
+speed-proxi
+speed-proxy
 speedloan
+speedproxi
+speedproxy
 speedy-product
 spicy bbw
 spicy-bbw
@@ -21157,9 +21199,11 @@ spip.jsp
 spip.php
 splendid depart
 splendid placing!
+splendid submit
 splendid tiffany
 splendid-depart
 splendid-placing!
+splendid-submit
 splendid-tiffany
 splendiddepart
 splendidtiffany
@@ -23077,6 +23121,7 @@ very valid
 very-disconcertingly
 very-hypo
 very-imparted
+very-internet
 very-lower
 very-oone
 very-valid
