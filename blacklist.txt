@@ -1281,6 +1281,8 @@ _zapat
 .blog4.
 .blog5.
 .blogbox.
+.blogdon.
+.blogminds.
 .blogolize.
 .blogspace.
 .bloguetechno.
@@ -1423,6 +1425,7 @@ _zapat
 .internet-
 .it/?it
 .it/t/
+.jiliblog.
 .jpg.asp
 .jpg.cfm
 .jpg.htm
@@ -1547,6 +1550,7 @@ _zapat
 .pointblog.
 .press-release.
 .pressrelease.
+.proxy-connect.
 .ps:
 .pussie-
 .pussie.
@@ -1556,6 +1560,7 @@ _zapat
 .pussy.
 .pussys-
 .pussys.
+.qowap.
 .qsymia-
 .qsymia.
 .qsymia/
@@ -1713,6 +1718,7 @@ _zapat
 .tafil.
 .tafil/
 .thearticle
+.thezenweb.
 .top/?
 .top/gal
 .top/thumb
@@ -1722,6 +1728,7 @@ _zapat
 .ua/thumb
 .univer.
 .us/user
+.uzblog.
 .webs.co
 .whipme-
 .whipme.
@@ -1729,6 +1736,7 @@ _zapat
 .worktop.
 .worktops.
 .xblog.in
+.xzblogs.
 .ytimg.
 .yuwanshe.
 .yves
@@ -5960,6 +5968,8 @@ blogs/item
 blogs/post
 blogsite
 blogsoon
+blogspot have
+blogspot-have
 blogsys
 blogtitle
 blogviewer
@@ -8863,6 +8873,8 @@ dietplan
 dietreview
 dietsolution
 dietsuppl
+different wordpress
+different-wordpress
 differin
 difficulties thus
 difficulties-thus
@@ -9029,6 +9041,8 @@ domination-secret
 domination-seo
 dominationsecret
 dominationseo
+domino poker
+domino-poker
 don think
 don-think
 dondash
@@ -9060,9 +9074,11 @@ down-jack
 downjack
 download apk
 download brace
+download joomla
 download_
 download-apk
 download-brace
+download-joomla
 downloadbrace
 downloadism
 downloads_
@@ -10508,7 +10524,9 @@ formaldress
 formidable act
 formidable-act
 formoney
+formula blog
 formula replica
+formula-blog
 formula-replica
 formulareplica
 forsale go
@@ -12473,6 +12491,8 @@ host.ro
 host.ru
 host.su
 host.za
+hosted blog
+hosted-blog
 hosting community
 hosting deutsch
 hosting-community
@@ -13547,6 +13567,8 @@ jogos
 john-varvatos
 joint-pain
 jointpain
+joomla make
+joomla-make
 jordan 1
 jordan 2
 jordan 3
@@ -14095,7 +14117,9 @@ last looker
 last-looker
 lastlooker
 latest blog
+latest weblog
 latest-blog
+latest-weblog
 latestblog
 latisse generic
 latisse_
@@ -14180,6 +14204,8 @@ laurenuk
 lawful page
 lawful-page
 lawoffice.net
+laws symbol
+laws-symbol
 lɑ
 lead-sys
 leaked1
@@ -18180,6 +18206,7 @@ pokemoncoin
 pokemongocheat
 pokemongocoin
 pokemontcg
+poker 99
 poker chip
 poker machine
 poker money
@@ -18188,6 +18215,16 @@ poker strateg
 poker texas
 poker without
 poker_
+poker-0
+poker-1
+poker-2
+poker-3
+poker-4
+poker-5
+poker-6
+poker-7
+poker-8
+poker-9
 poker-chip
 poker-machine
 poker-money
@@ -18195,6 +18232,16 @@ poker-online
 poker-strateg
 poker-texas
 poker-without
+poker0
+poker1
+poker2
+poker3
+poker4
+poker5
+poker6
+poker7
+poker8
+poker9
 pokera
 pokerchip
 pokermachine
@@ -20106,6 +20153,8 @@ seks.ro
 seks.ru
 seks.su
 seksual
+selalu menang
+selalu-menang
 self google
 self-google
 selfgoogle
@@ -20866,7 +20915,9 @@ sitoofficiel
 sitoufficial
 sitougg
 situs poker
+situs togel
 situs-poker
+situs-togel
 siutpd
 size-genetic
 sizegenetic
@@ -22405,6 +22456,8 @@ trening
 tresore
 tretinoin
 trickphoto
+trik selalu
+trik-selalu
 trimethoprim
 triviatrivia
 trollapp
@@ -25100,8 +25153,8 @@ zyvox
 ниже сайт
 ниже-сайт
 низкие цен
-низкой цене 
-низкой-цене 
+низкой цене
+низкой-цене
 новейшую дам
 новейшую-дам
 новинки
