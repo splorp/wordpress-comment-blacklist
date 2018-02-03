@@ -6880,6 +6880,10 @@ cardyboot
 care cream
 care-cream
 carecream
+carfiac arrest
+carfiac muscle
+carfiac-arrest
+carfiac-muscle
 carinsur
 carisoprodol
 carrera bat
@@ -8673,6 +8677,7 @@ dating-direct
 dating-guide
 dating-site
 dating.advice
+datingadvice
 datingcasual
 datingdirect
 datingguide
@@ -17034,6 +17039,8 @@ oemsoftware
 of deemed
 of herpes
 of internet
+of tthe
+of tthis
 of-deemed
 of-herpes
 of-internet
@@ -17246,6 +17253,8 @@ only-deal
 only-poker
 only-pokie
 onlyway
+onn the
+onn this
 onsale-
 onsale.asp
 onsale.cfm
@@ -21557,6 +21566,7 @@ stylo montblanc
 stylo-montblanc
 stylomontblanc
 stylowe
+subjdct
 subject_
 subject=
 submissive porn
@@ -21567,10 +21577,12 @@ submit web
 submit-web
 submitweb
 subscribe link
+subscribe now!
 subscribe_
 subscribe-link
 subscribelink
 subscription link
+subscription now!
 subscription_
 subscription-link
 subscriptionlink
@@ -22057,11 +22069,13 @@ thatover
 thatprofit
 thatrapid
 thatthe
+the carfiac
 the notify
 the pokie
 the_best
 the-benefits-of
 the-best-treatment
+the-carfiac
 the-flashboard
 the-hoverboard
 the-hypothyroid
