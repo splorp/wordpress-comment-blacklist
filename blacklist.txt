@@ -380,6 +380,9 @@ _zapat
 -asics-
 -asics.
 -asics/
+-asses-
+-asses.
+-asses/
 -asshole
 -assjob-
 -assjob.
@@ -1269,6 +1272,9 @@ _zapat
 .armpit/
 .asia/?
 .asp/
+.asses-
+.asses.
+.asses/
 .assjob-
 .assjob.
 .assjob/
@@ -2054,6 +2060,9 @@ _zapat
 /asics-
 /asics.
 /asp/
+/asses-
+/asses.
+/asses/
 /assjob-
 /assjob.
 /assjob/
@@ -3728,6 +3737,8 @@ _zapat
 9generic
 9the best
 9the-best
+10 most
+10-most
 １０％
 １０＄
 10mg buy
@@ -3811,6 +3822,8 @@ _zapat
 99 online
 99-online
 99online
+100 most
+100-most
 100% autentic
 100% authentic
 100% copy
@@ -7127,6 +7140,7 @@ cgibin
 cgsaleca
 ch.e.ap
 ch.ea.p
+chaacterist
 chack-tip
 chacktip
 chanclas hollis
@@ -8235,6 +8249,7 @@ comprasion
 compresion b
 compresion-b
 computer pc
+computer-assess
 computer-gam
 computer-pc
 computer-perform
@@ -8914,6 +8929,8 @@ diet.co
 diet.htm
 diet.jsp
 diet.php
+dietary status
+dietary-status
 dietpill
 dietplan
 dietreview
@@ -9054,6 +9071,8 @@ does-green
 doesgreen
 doesn t
 doesnt
+dog proprietor
+dog-proprietor
 dokumenta
 dokumento
 dokumentó
@@ -9700,6 +9719,7 @@ evryday
 evvery
 exactly web
 exactly-web
+examjple
 exboyfriend
 exceel
 excelent
@@ -9891,7 +9911,9 @@ factory-coach
 factory-out
 factorycoach
 factoryout
+facts door
 facts-about
+facts-door
 factthat
 fagance
 fail drug
@@ -10226,6 +10248,9 @@ femalehand
 females hand
 females-hand
 femaleshand
+femdom galler
+femdom-galler
+femdomgaller
 femme chaus
 femme couche
 femme rolex
@@ -10570,6 +10595,7 @@ forgucci
 forhandlere
 forinteract
 forjp.co
+forless.co
 formaldress
 formidable act
 formidable-act
@@ -11100,6 +11126,7 @@ gayredtube
 gaysex
 gayusa
 gayxxx
+geekbb
 gel virage
 gel-virage
 gelatine free
@@ -12021,6 +12048,8 @@ hardy-huppari
 hardy-jean
 hardyhuppari
 hardyjean
+harga plakat
+harga-plakat
 harnessedthem
 hartmann repeated
 hartmann-repeated
@@ -16317,6 +16346,7 @@ my sitte
 my ssite
 my web:
 my webb
+my webpage
 my wweb
 my-bebo
 my-betor
@@ -16330,6 +16360,7 @@ my-sitte
 my-ssite
 my-virus
 my-webb
+my-webpage
 my-wweb
 mybetor
 mybitcoin
@@ -17116,8 +17147,12 @@ oksunglass
 okycupid
 old/dress
 old|
+on-line certif
+on-line-certif
 once-in-a-lifetime
+one hundred%
 one nike
+one-hundred%
 one-nike
 one:-
 one:)
@@ -17789,8 +17824,10 @@ pass generat
 pass prefix
 pass-generat
 pass-prefix
+pass-recovery
 passgenerat
 passprefix
+passrecovery
 password generat
 password prefix
 password-generat
@@ -17960,11 +17997,13 @@ person provide
 person-provide
 personal blogroll
 personal pc
+personal personal
 personal-blogroll
 personal-exper
 personal-injury
 personal-natur
 personal-pc
+personal-personal
 personalexper
 personalinjury
 personalnatur
@@ -22092,6 +22131,8 @@ theflashboard
 theguest
 thehoverboard
 thehypothyroid
+them inaccurate
+them-inaccurate
 theme generat
 theme sale
 theme-basic
@@ -22103,6 +22144,7 @@ themes sale
 themes-for-windows
 themes-sale
 themesforwindows
+theraapy
 there admin
 there-admin
 thereadmin
@@ -23735,6 +23777,7 @@ web sie
 web site's
 web site’s
 web sitte
+web sute
 web therefore
 web viewer
 web website
@@ -23791,6 +23834,8 @@ webog post
 webog-post
 weboptim
 webowner
+webpage from
+webpage-from
 webpeople
 webpharm
 webpromo
@@ -23843,6 +23888,7 @@ websitevisit
 websitte
 websolution
 webste
+websute
 webtherefore
 webviewconsult
 webviewer
