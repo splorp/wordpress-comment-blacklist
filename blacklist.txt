@@ -1589,6 +1589,9 @@ _zapat
 .quitsmoking/
 .r.e.d
 .rar.
+.redirect.
+.redirecter.
+.redirector.
 .redirects.
 .rekla
 .remote-desktop
@@ -2914,6 +2917,10 @@ _zapat
 /readme.
 /readnews.
 /recap/
+/redirect/
+/redirecter/
+/redirector/
+/redirects/
 /refreshers.
 /rejuvenate-
 /rejuvenate.
@@ -11939,6 +11946,8 @@ guestgoo
 guestpost
 guesttest
 guiltfree
+gun bisnis
+gun-bisnis
 gunstig kaufen
 günstig kaufen
 gunstig-kaufen
@@ -14458,6 +14467,8 @@ ligne medicament
 ligne médicament
 ligne-medicament
 ligne-médicament
+liht therap
+liht-therap
 limited jers
 limited-jers
 limitedjers
@@ -18515,6 +18526,7 @@ porno gratuit
 porno lady
 porno live
 porno pic
+porno pop
 porno pour
 porno sex
 porno stream
@@ -18523,6 +18535,7 @@ porno vid
 porno_
 porno-
 porno-girl
+porno-pop
 porno-pour
 porno.
 porno@
@@ -18532,6 +18545,7 @@ pornogratuit
 pornolady
 pornolive
 pornopic
+pornopop
 pornos_
 pornos-
 pornos.
@@ -18592,6 +18606,9 @@ posylka-izkitaya
 posylka.izkitaya
 posylkaizkitaya
 potngsi
+poto therapy
+poto-therapy
+pototherapy
 powder bene
 powder review
 powder-bene
@@ -19380,6 +19397,22 @@ redbottomshoe
 redchrist
 redirect_
 redirect.asp
+redirect.cfm
+redirect.htm
+redirect.jsp
+redirect.php
+redirector_
+redirector.asp
+redirector.cfm
+redirector.htm
+redirector.jsp
+redirector.php
+redirects_
+redirects.asp
+redirects.cfm
+redirects.htm
+redirects.jsp
+redirects.php
 redskinsjers
 redsoleshoe
 reductil
