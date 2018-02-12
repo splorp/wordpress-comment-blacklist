@@ -1281,6 +1281,7 @@ _zapat
 .azmya.
 .baidu
 .bbls.pl
+.bcz.co
 .bdsm-
 .bdsm.
 .bdsm/
@@ -1470,6 +1471,7 @@ _zapat
 .mrwhite.
 .mrwhite/
 .mulberry-
+.myblog.de
 .net,
 .net/,
 .net/%
@@ -11523,6 +11525,7 @@ good erotic
 good free
 good goodie
 good hemp
+good homepage
 good page
 good post
 good site:
@@ -11537,6 +11540,7 @@ good-free
 good-game
 good-goodie
 good-hemp
+good-homepage
 good-post
 good-site
 good-template
@@ -11728,6 +11732,7 @@ great doc
 great e-book
 great ebook
 great good
+great homepage
 great keep
 great low
 great operates
@@ -11745,6 +11750,7 @@ great-doc
 great-e-book
 great-ebook
 great-good
+great-homepage
 great-keep
 great-low
 great-operates
@@ -16364,8 +16370,10 @@ muzyczny
 my bebo
 my bitcoin
 my hermes
+my homepage
 my myspace
 my online
+my site:
 my sitte
 my ssite
 my web:
@@ -16377,6 +16385,7 @@ my-betor
 my-bitcoin
 my-fashion
 my-hermes
+my-homepage
 my-my
 my-new-ip
 my-online
@@ -24509,6 +24518,7 @@ xl paket
 xl-paket
 xlpaket
 xn--
+xomizz
 xopenex
 xportant
 xrumer
@@ -24897,6 +24907,7 @@ zerocalorie
 zfymail
 zhavy
 žhavý
+zhottie
 zhttp
 zielona kawa
 zielona-kawa
