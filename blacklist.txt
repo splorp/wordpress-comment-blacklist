@@ -618,6 +618,9 @@ _zapat
 -fashion/
 -faux.
 -faux/
+-femdom-
+-femdom.
+-femdom/
 -filmi
 -filmy
 -filosov-
@@ -1367,6 +1370,9 @@ _zapat
 .farmacia.
 .farmacia/
 .fcgi
+.femdom-
+.femdom.
+.femdom/
 .filmi-
 .filmy-
 .filosov-
@@ -2397,6 +2403,9 @@ _zapat
 /features-
 /feed/
 /feeds/
+/femdom-
+/femdom.
+/femdom/
 /fendi-
 /fendi.
 /ferragamo-
@@ -16373,6 +16382,7 @@ my hermes
 my homepage
 my myspace
 my online
+my site;
 my site:
 my sitte
 my ssite
@@ -17105,6 +17115,7 @@ oemsoftware
 of deemed
 of herpes
 of internet
+of tgese
 of tthe
 of tthis
 of-deemed
@@ -22220,6 +22231,7 @@ thetwo
 theuniversity
 theyll
 theywe
+thhat might
 thhis
 thing way
 thing-way
@@ -24608,6 +24620,7 @@ yeezy2
 yeezy3
 yeezyboost
 yhttp
+ylur business
 ynimb
 yo-dick
 yo-penis
