@@ -1176,6 +1176,7 @@ _zapat
 ;; http
 ;&#x
 ;#
+:: webpage
 :)!
 :///
 ://a/
@@ -1261,6 +1262,7 @@ _zapat
 .1com
 .2com
 .2u4.us
+.7x.cz
 .acgi
 .adboard
 .adsboard
@@ -1382,17 +1384,8 @@ _zapat
 .fr/,
 .fragmenting.us
 .freeforums.org
-.freeoda.com/0
-.freeoda.com/1
-.freeoda.com/2
-.freeoda.com/3
-.freeoda.com/4
-.freeoda.com/5
-.freeoda.com/6
-.freeoda.com/7
-.freeoda.com/8
-.freeoda.com/9
-.full-design.very internet
+.freeoda.co
+.full-design.
 .games.in
 .games.pl
 .games.ro
@@ -1760,7 +1753,10 @@ _zapat
 .univer.
 .us/user
 .uzblog.
+.webgarden.at
+.webgarden.cz
 .webs.co
+.wgz.cz
 .whipme-
 .whipme.
 .whipme/
@@ -4982,6 +4978,7 @@ assistance-informatique
 asslick
 associate link
 associate-link
+associateded
 assortiment
 assured storm
 assured-storm
@@ -5947,6 +5944,7 @@ blancstarwalk
 blazer chaus
 blazer-chaus
 blazerchaus
+blog … site
 blog based
 blog beast
 blog glance
@@ -9805,6 +9803,7 @@ exelon
 exercice
 exgirlfriend
 exit.asp
+expecteded
 expensive haver
 expensive vaca
 expensive-haver
@@ -14484,6 +14483,8 @@ ligne-medicament
 ligne-médicament
 liht therap
 liht-therap
+likewise pick
+likewise-pick
 limited jers
 limited-jers
 limitedjers
@@ -16386,6 +16387,7 @@ my site;
 my site:
 my sitte
 my ssite
+my web-site
 my web:
 my webb
 my webpage
@@ -16912,7 +16914,9 @@ noticias-noticia
 noticias, noticia
 notraty
 nourishment societ
+nourishment treat
 nourishment-societ
+nourishment-treat
 nouveau maillot
 nouveau-maillot
 nouveaumaillot
@@ -17635,6 +17639,7 @@ packaging-printing
 packers jers
 packers-jers
 packersjers
+page ::
 page regularly
 page scrape
 page_
@@ -19241,6 +19246,7 @@ raahe6
 raahe7
 raahe8
 raahe9
+racing-gaming
 radikal.ru
 radiocarpea
 raiders hat
@@ -21027,6 +21033,7 @@ singapore.php
 sirop mangustin
 sirop-mangustin
 sistershit
+site -
 site ::
 site asian
 site backup
@@ -23365,6 +23372,7 @@ verspiegelte ray
 very disconcertingly
 very hypo
 very imparted
+very internet
 very lower
 very oone
 very valid
@@ -23890,7 +23898,6 @@ webcontent
 webdesign.co
 webexplore
 webfarm
-webgarden.at
 weblink
 weblog!
 weblog}
@@ -23908,6 +23915,7 @@ webog post
 webog-post
 weboptim
 webowner
+webpage (
 webpage from
 webpage-from
 webpeople
@@ -23995,6 +24003,8 @@ weightwork
 welcometonginx
 well written!
 wellbutrin
+wellness ailment
+wellness-ailment
 wentoutside
 weptwith
 werbegeschenke
