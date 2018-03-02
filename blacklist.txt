@@ -1305,6 +1305,7 @@ _zapat
 .blogminds.
 .blogolize.
 .blogspace.
+.blogster.
 .bloguetechno.
 .blogzag.
 .bluray-
@@ -3505,10 +3506,12 @@ _zapat
 |year
 |yr
 00 pips
+00 preparing
 00 virtual
 0-easy-way
 0-generic
 00-pips
+00-preparing
 0-the-best
 00-virtual
 0,5 mg
@@ -4241,8 +4244,10 @@ actual-submit
 actual-thank
 actualcelebrity
 actualeffort
+actually certainly
 actually dont
 actually thank
+actually-certainly
 actually-dont
 actually-thank
 actuallydont
@@ -4413,6 +4418,7 @@ advertise-market
 advertise-your
 advertising market
 advertising research
+advertising-and-marketing
 advertising-market
 advertising-research
 advice-adult
@@ -6275,6 +6281,8 @@ bottesfemme
 bottesparis
 bottespas
 bottesugg
+bountiful with
+bountiful-with
 boutique balenciaga
 boutique chanel
 boutique chaus
@@ -6698,6 +6706,12 @@ buysoma
 buytoms
 buytraff
 buywomen
+buzz video
+buzz vidéo
+buzz-video
+buzz-vidéo
+buzzvideo
+buzzvidéo
 bvlgari bague
 bvlgari bijoux
 bvlgari brand
@@ -7163,6 +7177,7 @@ celular
 cent whenever
 cent-whenever
 cent|
+cerpolo.com.br
 cert line
 cert-line
 certain pronoun
@@ -7715,6 +7730,7 @@ choo sale
 choo-boot
 choo-sale
 chooboot
+choolesterol
 choose calorie
 choose-calorie
 chrismas.asp
@@ -8743,8 +8759,10 @@ datingsite
 daunen weste
 daunen-weste
 daunenweste
+day bountiful
 day loan
 day loubou
+day-bountiful
 day-diet
 day-loubou
 day.did
@@ -9409,6 +9427,8 @@ eemai1
 eemail
 eevance
 effexor
+efficiency customer
+efficiency-customer
 egemtr
 egoodshop
 egypt jersey
@@ -11157,6 +11177,10 @@ gammablue
 gamme reacute
 gamme-reacute
 gamyba
+ganadora clasica
+ganadora clásica
+ganadora-clasica
+ganadora-clásica
 gang-bang
 gangbang
 gangprofil
@@ -12925,7 +12949,9 @@ inbto
 include priceless
 includeeng
 includes priceless
+income masterclass
 income_
+income-masterclass
 income.in
 inconvenience comprehens
 inconvenience-comprehens
@@ -14277,6 +14303,8 @@ lasix
 last looker
 last-looker
 lastlooker
+latelier give
+latelier-give
 latest blog
 latest weblog
 latest-blog
@@ -15223,6 +15251,8 @@ marantboot
 marantrain
 marantshoe
 marantsneak
+mare steady
+mare-steady
 margreet.
 mariage hugo
 mariage orig
@@ -15281,6 +15311,7 @@ marketing samu
 marketing serv
 marketing tip
 marketing xchange
+marketing-and-advertising
 marketing-blog
 marketing-book
 marketing-exchange
@@ -15348,6 +15379,8 @@ master.pl
 master.ru
 master.su
 master.za
+masterclass through
+masterclass-through
 mastermind-team
 mastermindteam
 masters.in
@@ -16428,6 +16461,8 @@ muzyczna
 muzyczny
 my bebo
 my bitcoin
+my blog;
+my blog:
 my hermes
 my homepage
 my myspace
@@ -16437,8 +16472,11 @@ my site:
 my sitte
 my ssite
 my web-site
+my web;
 my web:
 my webb
+my weblog;
+my weblog:
 my webpage
 my wweb
 my-bebo
@@ -16660,6 +16698,7 @@ networktruth
 neurontin
 nevertheless just
 nevertheless-just
+new buzz
 new gucci
 new jord
 new large
@@ -16667,6 +16706,7 @@ new manolo
 new seo
 new-article
 new-balance
+new-buzz
 new-era-hat
 new-gucci
 new-jord
@@ -17021,6 +17061,8 @@ numerousnumer
 nuovo hogan
 nuovo-hogan
 nuovohogan
+nurse job
+nurse-job
 nxvid
 nе
 nу
@@ -18320,12 +18362,14 @@ pleasant designed
 pleasant good
 pleasant post
 pleasant understand
+pleasant vehicle
 pleasant-article
 pleasant-blog
 pleasant-designed
 pleasant-good
 pleasant-post
 pleasant-understand
+pleasant-vehicle
 please click
 please-click
 pleassant
@@ -18696,7 +18740,9 @@ powder-bene
 powder-review
 powderbene
 power level
+power proficien
 power-level
+power-proficien
 powerball
 powerbank
 powerful scrape
@@ -18989,6 +19035,12 @@ professional2016
 professional2017
 professionals.co
 professionalugg
+proficiency badge
+proficiency discover
+proficiency showed
+proficiency-badge
+proficiency-discover
+proficiency-showed
 profil_
 profil/profil
 profile_
@@ -19009,7 +19061,9 @@ profit-review
 profit-seek
 profitpro
 profitreview
+profits stream
 profits-
+profits-stream
 profitseek
 program ppc
 program-ppc
@@ -19168,14 +19222,20 @@ pumaschuh
 pumasneak
 pumasverige
 purchase generic
+purchase pitch
 purchase tiffany
 purchase-generic
+purchase-pitch
 purchase-tiffany
 purchasegeneric
+purchases pitch
+purchases-pitch
 pure-jobs
 purple longchamp
 purple-longchamp
 purplelongchamp
+purposeful wonder
+purposeful-wonder
 purse cheap
 purse forum
 purse online
@@ -21322,13 +21382,18 @@ snoring-mouth
 snoringexpert
 snoringmouth
 social butler
+social buzz
 social marketing
 social-bookmark
 social-butler
+social-buzz
 social-marketing
 social-media-manage
+social-network-site
+social-networking-site
 socialbookmark
 socialbutler
+socialbuzz
 socialengine
 socialite.
 socialmarketing
@@ -21710,6 +21775,10 @@ strickjack
 stride jack
 stride-jack
 stridejack
+stripper newcastle
+stripper-newcastle
+strippers newcastle
+strippers-newcastle
 stromectol
 strona blu
 strona-autora
@@ -22785,6 +22854,8 @@ twerkingvid
 twerkvid
 twit.t.
 twitter-hack
+twoo minute
+twoo-minute
 tworzenie
 tʏ
 tе
@@ -23516,8 +23587,14 @@ vidéo porn
 video sex
 video sport
 video tube
+video view
+vidéo view
+video vue
+vidéo vue
 video xblog
 video xxx
+video youtube
+vidéo youtube
 video-asphyx
 video-erotic
 video-magnif
@@ -23529,8 +23606,14 @@ vidéo-porn
 video-sex
 video-sport
 video-tube
+video-view
+vidéo-view
+video-vue
+vidéo-vue
 video-xblog
 video-xxx
+video-youtube
+vidéo-youtube
 video.asp
 video.cfm
 video.htm
@@ -23546,10 +23629,21 @@ videoporn
 vidéoporn
 videos porn
 vidéos porn
+videos view
+vidéos view
+videos vue
+vidéos vue
 videos xblog
+videos youtube
 videos-porn
 vidéos-porn
+videos-view
+vidéos-view
+videos-vue
+vidéos-vue
 videos-xblog
+videos-youtube
+vidéos-youtube
 videos.asp
 videos.cfm
 videos.htm
@@ -23559,10 +23653,22 @@ videosex
 videosporn
 vidéosporn
 videosport
+videosview
+vidéosview
+videosvue
+vidéosvue
 videosxblog
+videosyoutube
+vidéosyoutube
 videotube
+videoview
+vidéoview
+videovue
+vidéovue
 videoxblog
 videoxxx
+videoyoutube
+vidéoyoutube
 vidios
 viencare
 vietnam-visa
@@ -24702,6 +24808,8 @@ yoga out
 yoga-out
 yogaout
 yoigucci
+yoou have
+yoou-have
 yoour
 yopenis
 york sportiv
