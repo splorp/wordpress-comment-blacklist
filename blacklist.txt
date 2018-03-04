@@ -1316,6 +1316,7 @@ _zapat
 .bots1.
 .bots2.
 .bots3.
+.bravesites.
 .canadagoose-
 .cartier-
 .cause-
@@ -1568,6 +1569,7 @@ _zapat
 .pl#
 .plotexchange.us
 .pointblog.
+.postbit.
 .press-release.
 .pressrelease.
 .property-sales-
@@ -1659,6 +1661,7 @@ _zapat
 .ru/content
 .ru/forum
 .ru/image
+.ru/karta
 .ru/katalog
 .ru/load
 .ru/lol-
@@ -1696,6 +1699,7 @@ _zapat
 .sensual.
 .sensual/
 .sexy.
+.shop1.
 .simpsite.
 .sirenos.in
 .skque-
@@ -4417,9 +4421,11 @@ advertise your
 advertise-market
 advertise-your
 advertising market
+advertising method
 advertising research
 advertising-and-marketing
 advertising-market
+advertising-method
 advertising-research
 advice-adult
 advice.adult
@@ -4804,6 +4810,7 @@ armani-cloth
 armani-cost
 armanicloth
 armanicost
+armaniqq
 armanito
 aroma paradise
 aroma-paradise
@@ -5726,6 +5733,7 @@ bestmcm
 bestpant
 bestpayment
 bestphone
+bestsalesell
 bestsellerbag
 bestsellersbag
 bestshop
@@ -8822,6 +8830,8 @@ defiantlybrilliant
 deficitfight
 definate
 definitelly
+degree twenty
+degree-twenty
 dehttp
 dekorativno prikladno
 dekorativno-prikladno
@@ -9586,6 +9596,8 @@ epo doping
 epo-doping
 epodoping
 eqbandz
+equibase velocity
+equibase-velocity
 equipement manufact
 equipement-manufact
 equipment manufact
@@ -10318,6 +10330,7 @@ felpe-moncler
 felpemoncler
 female hand
 female-hand
+female-rus
 femalehand
 females hand
 females-hand
@@ -10997,6 +11010,10 @@ fuckvid
 fuckyour
 ful malware
 ful-malware
+fulgor fantastic
+fulgor fantástic
+fulgor-fantastic
+fulgor-fantástic
 fulmalware
 fun-sneak
 fun-with-window
@@ -14550,6 +14567,8 @@ lifeinsur
 lifelock
 lifepharm laminin
 lifepharm-laminin
+lifestyle proficiency
+lifestyle-proficiency
 lights-crystal
 ligne medicament
 ligne médicament
@@ -14632,6 +14651,7 @@ links_
 links-exchange
 links-sale
 links-seller
+links: prof
 linksale
 linkseller
 linkseo
@@ -15312,6 +15332,7 @@ marketing serv
 marketing tip
 marketing xchange
 marketing-and-advertising
+marketing-approach
 marketing-blog
 marketing-book
 marketing-exchange
@@ -16998,6 +17019,8 @@ not fake
 not-dienst
 not-fake
 not|
+notable void
+notable-void
 notdienst
 notfake
 noticeably plenty
@@ -17696,6 +17719,7 @@ outstandingweblog
 outstandingwebsite
 ovariancyst
 overall glance
+overall-advertising
 overall-glance
 own blog
 own blogroll
@@ -18502,6 +18526,7 @@ pokerchip
 pokermachine
 pokermoney
 pokeronline
+pokerqq
 pokerstrateg
 pokertexas
 poketcg
@@ -19036,11 +19061,15 @@ professional2017
 professionals.co
 professionalugg
 proficiency badge
+proficiency course
 proficiency discover
 proficiency showed
+proficiency symbol
 proficiency-badge
+proficiency-course
 proficiency-discover
 proficiency-showed
+proficiency-symbol
 profil_
 profil/profil
 profile_
@@ -20377,6 +20406,8 @@ scraper free
 scraper-free
 scraperfree
 sd3546a
+sdelat makijazh
+sdelat-makijazh
 seaddons
 seahawks jers
 seahawks-jers
@@ -21758,6 +21789,10 @@ straightface
 strapless tiered
 strapless-tiered
 straplesstiered
+strategic advertising
+strategic marketing
+strategic-advertising
+strategic-marketing
 strategies-for
 strategii binarny
 strategii-binarny
@@ -22089,6 +22124,10 @@ taboo matter
 taboo topic
 taboo-matter
 taboo-topic
+tactical advertising
+tactical marketing
+tactical-advertising
+tactical-marketing
 tadalafil
 tadapox
 tag/event
@@ -23577,6 +23616,7 @@ videnciacharme
 videnciagratis
 videnciavidente
 video asphyx
+video concentrate
 video erotic
 video magnif
 video poker
@@ -23596,6 +23636,7 @@ video xxx
 video youtube
 vidéo youtube
 video-asphyx
+video-concentrate
 video-erotic
 video-magnif
 video-poker
@@ -25762,6 +25803,8 @@ zyvox
 сети-работ
 симпатичная
 симптом
+синяк макияжем
+синяк-макияжем
 сироп мангустина
 сироп-мангустина
 скандал жк
