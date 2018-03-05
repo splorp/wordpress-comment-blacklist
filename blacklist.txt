@@ -1597,6 +1597,7 @@ _zapat
 .quitsmoking/
 .r.e.d
 .rar.
+.rediff.
 .redirect.
 .redirecter.
 .redirector.
@@ -4420,10 +4421,12 @@ advertise market
 advertise your
 advertise-market
 advertise-your
+advertising channel
 advertising market
 advertising method
 advertising research
 advertising-and-marketing
+advertising-channel
 advertising-market
 advertising-method
 advertising-research
@@ -4999,6 +5002,7 @@ assistance-informatique
 asslick
 associate link
 associate-link
+associated-article
 associateded
 assortiment
 assured storm
@@ -6063,6 +6067,8 @@ blogtitle
 blogviewer
 blogweb
 blogworld
+bloom budget
+bloom-budget
 blow-job
 blowjob
 blu-cig
@@ -9596,7 +9602,9 @@ epo doping
 epo-doping
 epodoping
 eqbandz
+equibase speed
 equibase velocity
+equibase-speed
 equibase-velocity
 equipement manufact
 equipement-manufact
@@ -10815,6 +10823,7 @@ free visit
 free weblog
 free website
 free xxx
+free-article
 free-bbs
 free-bid
 free-brows
@@ -12060,6 +12069,7 @@ hack-online
 hack-pass
 hack-tool
 hack-zip
+hack.blog
 hack<
 hackasphalt
 hackcydia
@@ -12224,6 +12234,7 @@ headset2014
 headset2015
 headset2016
 headset2017
+healing-article
 healingindu
 health advis
 health how
@@ -14112,6 +14123,8 @@ knolckoff
 know-web
 knowing answer
 knowing-answer
+knowledge technique
+knowledge-technique
 knowledgeable individual
 knowledgeable-individual
 known blog
@@ -15331,6 +15344,7 @@ marketing samu
 marketing serv
 marketing tip
 marketing xchange
+marketing-advertising
 marketing-and-advertising
 marketing-approach
 marketing-blog
@@ -16228,6 +16242,7 @@ money adder
 money buzz
 money fast
 money generat
+money phone
 money prim
 money robot
 money-adder
@@ -16235,6 +16250,7 @@ money-buzz
 money-fast
 money-generat
 money-mak
+money-phone
 money-prim
 money-robot
 money-site
@@ -17972,8 +17988,10 @@ part-mariage
 parti rni
 parti-rni
 particular article
+particular proficiency
 particular wearer
 particular-article
+particular-proficiency
 particular-wearer
 party poker
 party shirt
@@ -18171,12 +18189,14 @@ person-provide
 personal blogroll
 personal pc
 personal personal
+personal pupil
 personal-blogroll
 personal-exper
 personal-injury
 personal-natur
 personal-pc
 personal-personal
+personal-pupil
 personalexper
 personalinjury
 personalnatur
@@ -18446,6 +18466,7 @@ point|
 pointgenerat
 points generat
 points-generat
+points-to-think
 pointsgenerat
 poished
 poisk-nomera-tele
@@ -18994,6 +19015,8 @@ proactol
 probes-aloka
 probesaloka
 problemowych
+proc opport
+proc-opport
 procedures-for
 proceesing
 produce article
@@ -19060,16 +19083,24 @@ professional2016
 professional2017
 professionals.co
 professionalugg
+proficiency advantage
 proficiency badge
 proficiency course
 proficiency discover
+proficiency lesson
+proficiency session
 proficiency showed
 proficiency symbol
+proficiency technique
+proficiency-advantage
 proficiency-badge
 proficiency-course
 proficiency-discover
+proficiency-lesson
+proficiency-session
 proficiency-showed
 proficiency-symbol
+proficiency-technique
 profil_
 profil/profil
 profile_
@@ -19875,6 +19906,8 @@ retina-247
 retro jord
 retro-jord
 retrojord
+revenue master
+revenue-master
 reverse lookup
 reverse-lookup
 reverse-phone
@@ -21525,6 +21558,8 @@ sonicsearch
 sooemne
 soon:-
 soon:)
+source blossom
+source-blossom
 sovaldi
 sozedde.co
 sozedde.in
@@ -22028,6 +22063,8 @@ surf-to
 surfing online
 surfing-online
 surprisezone
+suspicious ensure
+suspicious-ensure
 suvwithbest
 suwa³ki
 svente enligne
@@ -22418,10 +22455,12 @@ thingway
 thinking playing
 thinking-playing
 this gucci
+this proficiency
 this publish
 this weblog
 this webpage
 this-gucci
+this-proficiency
 this-publish
 this-weblog
 this-webpage
@@ -22608,8 +22647,11 @@ tit-pad
 titans merch
 titans-merch
 titansmerch
+tits love
 tits pic
+tits-love
 tits-pic
+titslove
 titspic
 tittie pic
 tittie-pic
@@ -24630,6 +24672,8 @@ writeessay
 writepaper
 writing manually
 writing taste
+writing-a-dissertation
+writing-dissertation
 writing-essay
 writing-manually
 writing-paper
