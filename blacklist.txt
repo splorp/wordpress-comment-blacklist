@@ -205,6 +205,7 @@ _sale
 _salomon
 _scarpe
 _schuh
+_selebriti
 _select
 _sensual
 _seo
@@ -993,6 +994,9 @@ _zapat
 -secrets-
 -secrets.
 -secrets/
+-selebriti-
+-selebriti.
+-selebriti/
 -select-your-
 -selection.
 -selection/
@@ -1613,6 +1617,7 @@ _zapat
 .ro,
 .ro/,
 .ro/?entry.
+.ro/?q=
 .ro/#
 .ro/1-
 .ro/1.
@@ -1697,6 +1702,9 @@ _zapat
 .sallow.co
 .secret-
 .secrets-
+.selebriti-
+.selebriti.
+.selebriti/
 .sensual-
 .sensual.
 .sensual/
@@ -2979,12 +2987,16 @@ _zapat
 /secret-
 /secrets-
 /secure/
+/selebriti-
+/selebriti.
+/selebriti/
 /sendform/
 /sensual-
 /sensual.
 /sensual/
 /seo
 /sex
+/she desire
 /sheet/
 /shop-for-
 /shop-for.
@@ -4596,6 +4608,7 @@ alcohol-rehab
 alcohool
 alcoohol
 alendronate
+alfalahcoin
 alien-wheel
 alienwheel
 alkotla
@@ -6700,6 +6713,7 @@ buying-face
 buying-fifa
 buying-insta
 buying-likes
+buying-papers-online
 buying-rune
 buying-traff
 buyingface
@@ -6802,6 +6816,7 @@ c.re.ase
 c.rea.se
 c.reas.e
 c.urr.ent
+c¶
 c|pro
 ca.r.ol
 ca.ro.l
@@ -7208,7 +7223,9 @@ cent|
 cerpolo.com.br
 cert line
 cert-line
+certain mastery
 certain pronoun
+certain-mastery
 certain-pronoun
 certainly pronoun
 certainly-pronoun
@@ -7957,6 +7974,7 @@ clyel
 cms-temp
 cms-theme
 cn/lang
+c№
 cnoesfs
 co robic
 co-robic
@@ -8352,6 +8370,7 @@ consequently styl
 consequently-styl
 consideration-prior-to
 considerations-prior-to
+considering-innovation
 consolidation loan
 consolidation-loan
 constructionn
@@ -8688,6 +8707,7 @@ cz/love
 czesci skody
 czesci-skody
 czesciskody
+cµ
 cг
 cе
 cҟ
@@ -8840,6 +8860,7 @@ decent-page
 decent-post
 decent-site
 decent-web
+decide-to-purchase
 dedans longchamp
 dedans-longchamp
 dedanslongchamp
@@ -9014,6 +9035,7 @@ diet review
 diet solution
 diet suppl
 diet_
+diet-chart
 diet-food
 diet-pill
 diet-plan
@@ -9028,6 +9050,7 @@ diet.jsp
 diet.php
 dietary status
 dietary-status
+dietchart
 dietpill
 dietplan
 dietreview
@@ -9592,7 +9615,9 @@ enjoy-more
 enjoymore
 enleverlescernes
 enlightening post
+enlightening website
 enlightening-post
+enlightening-website
 enligneparis
 enormous article
 enormous blog
@@ -10198,10 +10223,10 @@ fastidious page
 fastidious post
 fastidious repl
 fastidious site
+fastidious think
 fastidious thou
 fastidious urg
-fastidious weblog
-fastidious website
+fastidious web
 fastidious writ
 fastidious-article
 fastidious-blog
@@ -10211,10 +10236,10 @@ fastidious-my
 fastidious-post
 fastidious-repl
 fastidious-site
+fastidious-think
 fastidious-thou
 fastidious-urg
-fastidious-weblog
-fastidious-website
+fastidious-web
 fastidious-writ
 fastidious, my
 fastidious=
@@ -10223,8 +10248,7 @@ fastidiousdial
 fastidiouspage
 fastidiouspost
 fastidioussite
-fastidiousweblog
-fastidiouswebsite
+fastidiousweb
 fastloan
 fastmoney
 fastquick
@@ -10282,8 +10306,10 @@ favorable-page
 favorable-single
 favorable-web
 favorite justif
+favorite weblog
 favorite website
 favorite-justif
+favorite-weblog
 favorite-website
 favourable article
 favourable blog
@@ -10296,8 +10322,10 @@ favourable-page
 favourable-single
 favourable-web
 favourite justif
+favourite weblog
 favourite website
 favourite-justif
+favourite-weblog
 favourite-website
 fb ads
 fb cash
@@ -10637,6 +10665,8 @@ follower love
 follower-love
 followers love
 followers-love
+following ranking
+following-ranking
 foncier assurance
 foncier-assurance
 foncierassurance
@@ -10827,6 +10857,7 @@ frebvic.za
 free casino
 free cassino
 free chat
+free cryptocurrenc
 free csgo
 free download
 free gay
@@ -10853,6 +10884,7 @@ free-brows
 free-casino
 free-cassino
 free-chat
+free-cryptocurrenc
 free-csgo
 free-download
 free-gay
@@ -11354,8 +11386,10 @@ getridof
 getting $
 getting familiarity
 getting knowledge
+getting ranks
 getting-knowledge
 getting-men
+getting-ranks
 gettingknowledge
 gettranslate
 getwidget
@@ -11548,6 +11582,7 @@ gmailmirror
 gmailprox
 gmod stalker
 gmod-stalker
+gmoolah
 gneuienly
 gnlaser
 go viral,
@@ -11643,6 +11678,7 @@ good page
 good post
 good site:
 good template
+good weblog
 good website
 good-article
 good-blog
@@ -11657,6 +11693,7 @@ good-homepage
 good-post
 good-site
 good-template
+good-weblog
 good-website
 good}
 goodbye.asp
@@ -12118,6 +12155,8 @@ halt8cheat
 halt8hack
 hamilton norge
 hamilton-norge
+hamster-diet
+hamsterdiet
 hand taschen
 hand-taschen
 handbag distrib
@@ -12176,6 +12215,7 @@ handtaschen
 hanging-with-friend
 hangingwithfriend
 haohao
+happybirthday1
 haraka black
 haraka-black
 hard_
@@ -12194,6 +12234,7 @@ harnessedthem
 hartmann repeated
 hartmann-repeated
 has cuisine
+has tto
 has-cuisine
 hats carolina
 hats chicago
@@ -12479,12 +12520,14 @@ hi hi
 hi-hi
 hid_
 hierbasmedicin
+high weblog
 high website
 high-grade content
 high-grade-content
 high-heel
 high-profile
 high-protein
+high-weblog
 high-website
 high.cc
 highblood
@@ -12493,10 +12536,7 @@ highgradecontent
 highprofile
 highprotein
 hingenieur
-his website
-his-website
 hisslipper
-hiswebsite
 hit mp3
 hit-mp3
 hitfit
@@ -13420,7 +13460,11 @@ ira kit
 ira-kit
 irakit
 irc-chat
+irresistible blog
+irresistible weblog
 irresistible website
+irresistible-blog
+irresistible-weblog
 irresistible-website
 is seo
 is-now-available
@@ -14148,10 +14192,12 @@ knolckoff
 know-web
 knowing answer
 knowing-answer
+knowledge examine
 knowledge gamer
 knowledge student
 knowledge technique
 knowledge training
+knowledge-examine
 knowledge-gamer
 knowledge-student
 knowledge-technique
@@ -15465,13 +15511,17 @@ masters.ro
 masters.ru
 masters.su
 masters.za
+mastery class
 mastery degree
 mastery discover
+mastery might
 mastery plan
 mastery series
 mastery since
+mastery-class
 mastery-degree
 mastery-discover
+mastery-might
 mastery-plan
 mastery-series
 mastery-since
@@ -15736,6 +15786,10 @@ meisterstuck-pen
 meisterstuckpen
 meizitang
 melatonin
+melhor preco
+melhor preço
+melhor-preco
+melhor-preço
 meloxicam
 member_
 member.asp
@@ -16814,6 +16868,7 @@ newarticle
 newbalance1
 newbalance2
 newblance
+newblog
 newerahat
 newest news
 newest-news
@@ -17531,6 +17586,7 @@ only-pokie
 onlyway
 onn the
 onn this
+onne minute
 onsale-
 onsale.asp
 onsale.cfm
@@ -18164,6 +18220,7 @@ pdf/celine
 pdf/chanel
 pdf/prada
 pdf/rolex
+pedigree: proficien
 pedophile gratuit
 pédophile gratuit
 pedophile notoire
@@ -19750,6 +19807,7 @@ rejersey.net
 rekla.
 reklamowe
 rekreacja
+related-contents
 relax private
 relax-private
 relaxation therefore
@@ -20595,6 +20653,7 @@ seks.su
 seksual
 selalu menang
 selalu-menang
+selebriti_
 self google
 self-google
 selfgoogle
@@ -21700,6 +21759,8 @@ spip.cfm
 spip.htm
 spip.jsp
 spip.php
+spiritual agent
+spiritual-agent
 splendid depart
 splendid placing!
 splendid submit
@@ -22509,6 +22570,7 @@ there admin
 there-admin
 thereadmin
 therealest
+therefore he/
 theresome
 thes good
 these however
@@ -23015,6 +23077,7 @@ twitter-hack
 twoo minute
 twoo-minute
 tworzenie
+twwo minute
 tʏ
 tе
 tо
@@ -25836,6 +25899,8 @@ zyvox
 привлекательный
 приема платежей
 приема-платежей
+прикольные поздрав
+прикольные-поздрав
 приобрести
 приобрести недви
 приобрести-недви
@@ -25888,6 +25953,7 @@ zyvox
 ресниц
 ресурс
 рєр
+рњ
 руб вста
 руб гарп
 руб коль
@@ -25953,6 +26019,7 @@ zyvox
 служба-знакомств
 снижение веса
 снижение-веса
+сњ
 создать сайт
 создать-сайт
 сократите риск
