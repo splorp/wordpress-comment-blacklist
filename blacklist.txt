@@ -379,6 +379,9 @@ _zapat
 -armpit-
 -armpit.
 -armpit/
+-ashematme-
+-ashematme.
+-ashematme/
 -asics-
 -asics.
 -asics/
@@ -1054,6 +1057,8 @@ _zapat
 -strony-
 -strony.
 -strony/
+-student-login-
+-student-login/
 -sunglasses-
 -sunglasses.
 -sunglasses/
@@ -1281,6 +1286,9 @@ _zapat
 .armpit-
 .armpit.
 .armpit/
+.ashematme-
+.ashematme.
+.ashematme/
 .asia/?
 .asp/
 .asses-
@@ -2086,6 +2094,9 @@ _zapat
 /armpit-
 /armpit.
 /around.
+/ashematme-
+/ashematme.
+/ashematme/
 /asics-
 /asics.
 /asp/
@@ -3053,6 +3064,8 @@ _zapat
 /strona/
 /strony-
 /strony/
+/student-login-
+/student-login/
 /stuff.
 /styles/
 /stylesheet/
@@ -5587,6 +5600,7 @@ bdsm sex
 bdsm-sex
 bdsmsex
 be benefited
+be tthe
 beamten
 beanies1
 bears hat
@@ -5780,6 +5794,7 @@ betes9
 betlist
 betor.biz
 betor.ru
+better-essay-writ
 better-serv
 betterjudg
 betterserv
@@ -7018,6 +7033,7 @@ cartoon-porn
 cartoonporn
 cartuchos
 casaemail
+case-study-writer
 casebycase
 caserole plastic
 caserole-plastic
@@ -7587,6 +7603,8 @@ cheapchina
 cheapchinese
 cheapcoach
 cheapconverse
+cheaper essay
+cheaper-essay
 cheapessay
 cheapest hockey
 cheapest pokemon
@@ -8346,6 +8364,8 @@ compare-price
 competent essay
 competent-essay
 competitors-google
+compiltaions of
+compiltaions-of
 component/blog
 comprar
 comprasion
@@ -8783,6 +8803,8 @@ darmowy
 darrellbox
 darrellwire
 darvocet
+dat online
+dat-online
 data nonetheless
 data-nonetheless
 data-tools
@@ -9860,6 +9882,7 @@ evvery
 exactly web
 exactly-web
 examjple
+example1.co
 exboyfriend
 exceel
 excelent
@@ -10462,6 +10485,7 @@ ff17-shop
 ff17-store
 ff17shop
 ff17store
+ffor example
 fg xpress
 fg-xpress
 fgxpress
@@ -11850,6 +11874,10 @@ goyardbag
 goyardonline
 gpswificlock
 graduand
+grafica preco
+grafica preço
+grafica-preco
+grafica-preço
 granny porn
 granny-porn
 grannyporn
@@ -13016,6 +13044,7 @@ immobilier lux
 immobilier-lux
 immobilierlux
 implanty
+impoirtant
 impregnacji
 impressive article
 impressive blog
@@ -13238,7 +13267,13 @@ instagram in
 instagram-in
 install virtual
 install-virtual
+installment loan
+installment-loan
+installmentloan
 installvirtual
+instalment loan
+instalment-loan
+instalmentloan
 instant blog
 instant cash
 instant loan
@@ -14798,6 +14833,7 @@ loan-compan
 loan-direct
 loan-fast
 loan-online
+loan.bid
 loan.co
 loan.in
 loan.net
@@ -15817,6 +15853,8 @@ membership.htm
 membership.jsp
 membership.php
 membershiphack
+memerangi keragu
+memerangi-keragu
 men barbour
 men bikini
 men boost
@@ -17145,6 +17183,10 @@ northfce
 norvasc
 nos molesto
 nos molestó
+nossos orgaos
+nossos órgãos
+nossos-orgaos
+nossos-órgãos
 not fake
 not-dienst
 not-fake
@@ -18136,6 +18178,8 @@ pass-generat
 pass-prefix
 pass-recovery
 passgenerat
+passo_a_passo
+passo-a-passo
 passprefix
 passrecovery
 password generat
@@ -18300,7 +18344,9 @@ perfectwrit
 performs folk
 performs-folk
 perhaps earring
+perhaps tutorial
 perhaps-earring
+perhaps-tutorial
 permission allow
 permission-allow
 permonth.co
@@ -21395,6 +21441,7 @@ site:)
 site!
 site.co
 site.in
+site/essay
 site24
 sitecode
 sitelink
@@ -21753,7 +21800,10 @@ speed-proxy
 speedloan
 speedproxi
 speedproxy
+speedy cash
+speedy-cash
 speedy-product
+speedycash
 spicy bbw
 spicy-bbw
 spilivanie derev'yev
@@ -23036,6 +23086,7 @@ truth however
 truth-however
 truthabout
 try-these
+tthe main
 tube-zzz
 tubee.tv
 tubezzz
@@ -24792,6 +24843,7 @@ worth comment
 worth-bookmarking
 worth-comment
 worthbookmarking
+wow just
 wow-gold
 wowo-house
 wowo-sex
@@ -24815,22 +24867,26 @@ wpthemegen
 wrinting
 wristpain
 write subsequent
+write-a-protocol
 write-essay
 write-paper
 write-subsequent
 writeessay
 writepaper
+writing he/she
 writing manually
 writing taste
 writing-a-dissertation
 writing-dissertation
 writing-essay
+writing-helper
 writing-manually
 writing-paper
 writing-person
 writing-serv
 writing-taste
 writingessay
+writinghelper
 writingpaper
 writingserv
 wto brand
@@ -25493,6 +25549,8 @@ zyvox
 ваши специал
 ваши-специал
 вђ
+вђќ
+вђњ
 веб
 вещевой кардинг
 вещевой-кардинг
