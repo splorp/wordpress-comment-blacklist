@@ -1775,6 +1775,7 @@ _zapat
 .top/gal
 .top/thumb
 .travel.pl
+.twiclub.
 .twilight-
 .ua/?
 .ua/thumb
@@ -1792,6 +1793,7 @@ _zapat
 .worktop.
 .worktops.
 .xblog.in
+.xsl.pt
 .xzblogs.
 .ytimg.
 .yuwanshe.
@@ -23554,6 +23556,8 @@ unlockphone
 unono chaus
 unono-chaus
 unonochaus
+untrodden project
+untrodden-project
 unwanted-hair
 unwantedhair
 uomo adidas
@@ -24380,6 +24384,7 @@ webdesign.co
 webexplore
 webfarm
 weblink
+weblog ...
 weblog!
 weblog}
 weblogg
@@ -26286,6 +26291,20 @@ zyvox
 ขายเสื้อผ้าเด็ก
 คาสิโน
 ต่างหู
+สถานที่ จัดงานแต่งงาน
+สถานที่-จัดงานแต่งงาน
+ꭼa
+ꭼl
+ꭼm
+ꭼn
+ꭼo
+ꭼp
+ꭼr
+ꭼs
+ꭼt
+ꭼw
+ꭼx
+ꭼy
 경마배팅
 루이비통
 무료쿠폰
