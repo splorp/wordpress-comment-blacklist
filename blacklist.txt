@@ -1159,6 +1159,9 @@ _zapat
 -xchange
 -yuwanshe.
 -yuwanshe/
+-zlatehory-
+-zlatehory.
+-zlatehory/
 ･ ・
 ･・
 , ,
@@ -1826,6 +1829,9 @@ _zapat
 .za/user
 .za/za/
 .za#
+.zlatehory-
+.zlatehory.
+.zlatehory/
 .zzz.
 。ｃoｍ
 ''
@@ -3255,6 +3261,9 @@ _zapat
 /zdev/
 /zdjecia/
 /zh-cn/
+/zlatehory-
+/zlatehory.
+/zlatehory/
 /zozo.
 /zumba-
 /zumba.
@@ -3904,7 +3913,9 @@ _zapat
 99-online
 99online
 100 most
+100 saison
 100-most
+100-saison
 100% autentic
 100% authentic
 100% copy
@@ -12457,6 +12468,9 @@ herbal-tincture
 herbalmedicin
 herbalsmok
 herbaltincture
+here  different
+here different
+here-different
 heren timber
 heren-timber
 herentimber
@@ -13421,6 +13435,9 @@ investing/stock
 investing+
 investinwell
 investir
+investment tips
+investment-tips
+investmenttips
 investmoney
 investoff
 investor.in
@@ -16810,6 +16827,8 @@ natürlich
 naturlig penis
 naturlig-penis
 naturligpenis
+navstevni kniha
+navstevni-kniha
 nba 2k
 nba apparel
 nba cappelli
@@ -18425,6 +18444,7 @@ personal-pc
 personal-personal
 personal-pupil
 personalexper
+personalfinance
 personalinjury
 personalnatur
 personalpc
