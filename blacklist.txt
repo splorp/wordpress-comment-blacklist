@@ -2339,6 +2339,7 @@ _zapat
 /control/
 /converse-
 /converse.
+/corneey.co
 /cort.as
 /coupon-
 /coupon.
@@ -3026,6 +3027,7 @@ _zapat
 /shortcode/
 /shortcodes-
 /shortcodes/
+/shorte.st
 /show/
 /sigareta-
 /sigareta.

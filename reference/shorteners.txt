@@ -11,6 +11,7 @@
 /bit.ly
 /cek.li
 /clck.ru
+/corneey.co
 /cort.as
 /cutt.us
 /fc.cx
@@ -29,6 +30,7 @@
 /past.is
 /qoo.by
 /rlu.ru
+/shorte.st
 /smsh.me
 /sn.im
 /snipurl.co
