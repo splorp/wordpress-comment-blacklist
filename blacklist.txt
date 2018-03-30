@@ -431,6 +431,9 @@ _zapat
 -bioactivity-
 -bioactivity.
 -bioactivity/
+-bisnis-
+-bisnis.
+-bisnis/
 -bitcoin-
 -bitcoin.
 -bitcoin/
@@ -1309,6 +1312,9 @@ _zapat
 .bdsm/
 .be/,
 .bioactive
+.bisnis-
+.bisnis.
+.bisnis/
 .blog1
 .blog1.
 .blog2
@@ -1452,6 +1458,7 @@ _zapat
 .in/store
 .in/top
 .in/user
+.in/wiki
 .in#
 .info.
 .info/,
@@ -2159,6 +2166,9 @@ _zapat
 /birkenstocks.
 /birkin-
 /birkin.
+/bisnis-
+/bisnis.
+/bisnis/
 /bitcoin-
 /blackjack-
 /blackjack.
@@ -4878,6 +4888,7 @@ arsenal-shirt
 arsenaljers
 arsenalshirt
 artemfrolov
+arterrial
 article buzz
 article complet
 article content
@@ -8598,6 +8609,7 @@ courses casino
 courses-casino
 couture avec
 couture-avec
+couyld
 coverages
 cozy ugg
 cozy-ugg
@@ -12340,6 +12352,7 @@ hatsnap
 hatsoakland
 hatssnap
 hautschez
+have thhe
 have understand
 have-understand
 haveasite
@@ -14434,6 +14447,8 @@ kosze
 kpkfprbrq
 krasivaya devushka
 krasivaya-devushka
+kreatif membuat
+kreatif-membuat
 kreddit
 kreddyt
 kreddyyt
@@ -15654,6 +15669,7 @@ mastery-since
 matchcash
 material stylish
 material-stylish
+matiion
 matthewsjers
 matural
 max griffey
@@ -16751,6 +16767,8 @@ my webb
 my weblog;
 my weblog:
 my webpage
+my website;
+my website:
 my wweb
 my-bebo
 my-betor
@@ -16981,6 +16999,7 @@ new large
 new manolo
 new mastery
 new seo
+new webpage
 new-article
 new-balance
 new-buzz
@@ -16993,6 +17012,7 @@ new-mastery
 new-oakley
 new-seo
 new-vibram
+new-webpage
 new/dress
 new/ipad
 new/iphone
@@ -19030,6 +19050,8 @@ pornvirgin
 positively helpful
 positively-helpful
 possess
+possui zero
+possui-zero
 post extreme
 post post
 post_
@@ -22415,6 +22437,7 @@ surfing-online
 surprisezone
 suspicious ensure
 suspicious-ensure
+suuccess
 suvwithbest
 suwa³ki
 svente enligne
@@ -24855,6 +24878,7 @@ wise-quote
 witgh
 with declare
 with pics
+with thhe
 with-declare
 with-pics
 with-your-computer
@@ -25560,7 +25584,9 @@ zenysobuv
 zenysrun
 ženysrun
 zero calorie
+zero conhecim
 zero-calorie
+zero-conhecim
 zerocalorie
 zfymail
 zhavy
@@ -26449,6 +26475,7 @@ zyvox
 경마배팅
 루이비통
 무료쿠폰
+바카라
 성인자
 야동
 트위터
