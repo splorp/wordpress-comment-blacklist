@@ -1324,6 +1324,7 @@ _zapat
 .blog5.
 .blogbox.
 .blogdon.
+.bloglovin.
 .blogminds.
 .blogolize.
 .blogspace.
@@ -4061,6 +4062,7 @@ _zapat
 123456789
 a http
 a lots
+a ppart
 a-cell-phone
 a-lots
 a-powerful-way
@@ -4693,8 +4695,10 @@ amateurs.
 amatuer
 amazing post
 amazing sex
+amazing videos
 amazing-post
 amazing-sex
+amazing-videos
 amazingsex
 amazn.co
 amazon.asp
@@ -6042,6 +6046,7 @@ blog ::
 blog … site
 blog based
 blog beast
+blog before
 blog glance
 blog here
 blog layout
@@ -6064,6 +6069,7 @@ blog world
 blog_
 blog-based
 blog-beast
+blog-before
 blog-entry
 blog-glance
 blog-here
@@ -6098,6 +6104,7 @@ blog/owner
 blog/post
 blog/view
 blog<
+blog1
 blogbased
 blogbeast
 blogentry
@@ -6131,6 +6138,7 @@ blogspot have
 blogspot-have
 blogsys
 blogtitle
+blogue1
 blogviewer
 blogweb
 blogworld
@@ -6191,6 +6199,7 @@ bonuscode
 boobs tumblr
 boobs-tumblr
 book-marked
+book-marking it
 book-marks
 book-ot-
 bookmark thank
@@ -8891,6 +8900,7 @@ day loubou
 day-bountiful
 day-diet
 day-loubou
+day. bye
 day.did
 dayloubou
 daytona acier
@@ -9520,11 +9530,11 @@ dг
 dе
 dу
 e http
-é premium 
+é premium
 e-biz
 e-cig
 e-evance
-é-premium 
+é-premium
 e.@
 e2by.in
 eâcute
@@ -16755,6 +16765,7 @@ my hermes
 my homepage
 my myspace
 my online
+my page;
 my pzge
 my site;
 my site:
@@ -17790,6 +17801,7 @@ options-binaire
 options-trad
 optionstrad
 opyo0
+or troke
 oral-sex
 order forte
 order generic
@@ -19350,6 +19362,8 @@ produit hermes
 produit_
 produit-hermes
 produithermes
+produk kerajinan
+produk-kerajinan
 produkc
 produkcja
 profesjonal
@@ -19680,6 +19694,7 @@ qsymia india
 qsymia_
 qsymia-india
 qtrade
+qualities-are-most
 quality article
 quality available
 quality based
@@ -22566,6 +22581,7 @@ talent recruit
 talent-manage
 talent-recruit
 talentmanage
+talentoblog
 talentrecruit
 talknig
 tamiflu
