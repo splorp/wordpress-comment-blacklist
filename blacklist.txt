@@ -3330,6 +3330,7 @@ _zapat
 %5b%5d
 %7c
 %anchor%
+%bb%bf
 %blogurl%
 %d0%b0
 %d0%b1
@@ -3365,6 +3366,7 @@ _zapat
 %d1%89
 %d8%
 %e0%
+%ef%bb
 %page%
 %pages%
 %titel%
@@ -4354,6 +4356,8 @@ addition reason
 addition-best
 addition-currently
 addition-reason
+additional knowledgeable
+additional-knowledgeable
 additionally fly
 additionay
 addon_
@@ -6208,8 +6212,10 @@ bookmark-thank
 bookmark-web
 bookmarked :)
 bookmarked thank
+bookmarked this
 bookmarked web
 bookmarked-thank
+bookmarked-this
 bookmarked-web
 bookmarked!
 bookmarks thank
@@ -8409,6 +8415,7 @@ commercesale
 commercewholes
 comming from
 comming-from
+common-redaction
 communal authent
 communal-authent
 community.atom
@@ -8417,6 +8424,7 @@ como facebook
 como ganhar
 como-facebook
 como-ganhar
+como-utilizar
 company coach
 company ppc
 company-coach
@@ -8447,6 +8455,8 @@ comreview
 comunity
 conficker worm
 conficker-worm
+confira agora
+confira-agora
 consalt-
 consent with
 consent-with
@@ -8693,6 +8703,8 @@ creditreport
 creditscore
 cription.asp
 cristmas-
+cross tattoo
+cross-tattoo
 crossof
 crow pose
 crow-pose
@@ -9555,8 +9567,11 @@ early-signs-of
 earthly lover
 earthly-lover
 ease.in
+easy naked
+easy-naked
 easy.in
 easyloan
+easynaked
 easyrent
 eating hemp
 eating-hemp
@@ -9564,7 +9579,10 @@ eatinghemp
 eaudiovid
 ebaypic
 ebony porn
+ebony pussy
 ebony-porn
+ebony-pussy
+ebony+pussy
 ebonyporn
 ebook porn
 ebook-porn
@@ -10223,6 +10241,7 @@ fancyto
 fanshome
 fantastic blog
 fantastic entire
+fantastic homepage
 fantastic job!
 fantastic layout
 fantastic page
@@ -10236,6 +10255,7 @@ fantastic weblog
 fantastic website
 fantastic-blog
 fantastic-entire
+fantastic-homepage
 fantastic-job
 fantastic-layout
 fantastic-page
@@ -10273,6 +10293,7 @@ fashion list
 fashion men
 fashion store
 fashion trend
+fashion website
 fashion women
 fashion_
 fashion-apparel
@@ -10284,6 +10305,7 @@ fashion-list
 fashion-men
 fashion-store
 fashion-trend
+fashion-website
 fashion-women
 fashionable blog
 fashionable comment
@@ -13144,12 +13166,14 @@ important-infos
 impregnacji
 impressive article
 impressive blog
+impressive homepage
 impressive page
 impressive post
 impressive share
 impressive weblog
 impressive-article
 impressive-blog
+impressive-homepage
 impressive-page
 impressive-post
 impressive-share
@@ -13220,6 +13244,8 @@ indexold
 indicators.co
 individual friendly
 individual-friendly
+indre pengemark
+indre-pengemark
 inetry
 infected almost
 infected crash
@@ -14363,6 +14389,8 @@ kobe_
 kobe-ont
 kobe-shoe
 kobeshoe
+kommissionen tager
+kommissionen-tager
 kompanii
 komputer
 konkurs
@@ -15506,6 +15534,8 @@ manchettehermes
 mangaga
 mangoosteen
 manicshop
+manies lesson
+manies-lesson
 manner puma
 månner puma
 manner-puma
@@ -15681,6 +15711,7 @@ mastery might
 mastery plan
 mastery series
 mastery since
+mastery understand
 mastery-class
 mastery-degree
 mastery-discover
@@ -15688,6 +15719,7 @@ mastery-might
 mastery-plan
 mastery-series
 mastery-since
+mastery-understand
 matchcash
 material stylish
 material-stylish
@@ -15707,6 +15739,7 @@ maxgriffey
 maxi va
 maxi-va
 maxiva
+maxpotent
 maxsale
 may-help-you
 mayari birkenstock
@@ -16870,8 +16903,11 @@ najlepsze
 najsłynniejszym
 naked chicsk
 naked sex
+naked top
 naked-chicsk
 naked-sex
+naked-top
+naked.top
 nakedsex
 nakedteen
 naltrexone
@@ -16886,8 +16922,10 @@ nat&#252;rlich
 nateddrink
 natura.it
 natural cure
+natural estimulant
 natural penis
 natural-cure
+natural-estimulant
 natural-penis
 natural-way
 naturalcure
@@ -17544,12 +17582,14 @@ oemsoftware
 of deemed
 of herpes
 of internet
+of manies
 of tgese
 of tthe
 of tthis
 of-deemed
 of-herpes
 of-internet
+of-manies
 ofargument
 offer out
 offer watch
@@ -18455,6 +18495,7 @@ peer-your
 pefcret
 pen montblanc
 pen-montblanc
+pengemarked
 penis adv
 penis blog
 penis enlarg
@@ -19969,6 +20010,7 @@ red-bottom-shoe
 red-christ
 red-ugg
 red+bottom+shoe
+redaction-blunder
 redbottomshoe
 redchrist
 redirect_
@@ -22433,6 +22475,8 @@ superstar status
 superstar-class
 superstar-status
 superstarclass
+suplemento natural
+suplemento-natural
 supplement energy
 supplement-energy
 supplementenergy
@@ -24949,16 +24993,21 @@ wonblog
 wondeful
 wonderful article
 wonderful blog
+wonderful homepage
 wonderful post
 wonderful publish
+wonderful read!
 wonderful site
 wonderful website
 wonderful-article
 wonderful-blog
+wonderful-homepage
 wonderful-post
 wonderful-publish
+wonderful-read
 wonderful-site
 wonderful-website
+wonderfulread
 woodgundy.us
 woolrich amster
 woolrich arctic
@@ -25404,6 +25453,7 @@ your-windows
 your-your
 your.mail@
 youraccount
+yourbanker
 yourblog
 yourbudget
 yourcredit
