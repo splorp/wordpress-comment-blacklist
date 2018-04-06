@@ -9,6 +9,7 @@ _afford
 _albion
 _alviero
 _annonce
+_archive
 _article
 _asic
 _augment
@@ -89,6 +90,7 @@ _football
 _forex
 _forte
 _free
+_frequent
 _fuck
 _furla
 _gabbana
@@ -120,6 +122,7 @@ _income
 _index
 _info
 _instant
+_internet
 _jack
 _java
 _jers
@@ -658,6 +661,7 @@ _zapat
 -forex-
 -forex.
 -forex/
+-forum.ru
 -fotograf.
 -fotograf/
 -fotografia.
@@ -1268,6 +1272,7 @@ _zapat
 ?u-
 ?url=
 ?user
+?utm_source=
 ?view
 ?youtube
 .-0
@@ -4859,6 +4864,7 @@ arab.girl
 arab.sex
 arabgirl
 arabsex
+archive_
 arcteryx-jap
 arcteryx-jp
 arcteryx-sale
@@ -7230,6 +7236,7 @@ celebrity-diet
 celebrity-nude
 celebritydiet
 celebritynude
+celecoxib
 celexa
 celine bag
 celine bors
@@ -8479,6 +8486,7 @@ contact_
 contact/contact
 contactus/contact
 content material
+content-downloader
 content-material
 contoh plakat
 contoh-plakat
@@ -8666,6 +8674,9 @@ crackedpro
 craig list
 craig-list
 craiglist
+crakcle movie
+crakcle-movie
+crakclemovie
 crane-hire
 cranehire
 crave of
@@ -9027,6 +9038,8 @@ dentalimplant
 dentalquote
 dentalsuper
 dentalveneer
+depoimentos reais
+depoimentos-reais
 depositbank
 depression-symptom
 depressionsymptom
@@ -11092,6 +11105,8 @@ freexxx
 french escort
 french-escort
 frenchescort
+frequent_
+frequently_
 fresh article
 fresh blog
 fresh page
@@ -11569,6 +11584,7 @@ ginzza
 girl blog
 girl eblog
 girl escort
+girl gaga
 girl jap
 girl jord
 girl jp
@@ -11579,6 +11595,7 @@ girl-blog
 girl-day-dress
 girl-eblog
 girl-escort
+girl-gaga
 girl-jap
 girl-jord
 girl-jp
@@ -13243,7 +13260,9 @@ indexcss
 indexold
 indicators.co
 individual friendly
+individual stuffs
 individual-friendly
+individual-stuffs
 indre pengemark
 indre-pengemark
 inetry
@@ -13478,6 +13497,7 @@ internet savvy
 internet site
 internet view
 internet web
+internet_
 internet-article
 internet-blog
 internet-gambl
@@ -13640,6 +13660,7 @@ irresistible-blog
 irresistible-weblog
 irresistible-website
 is seo
+is thhe
 is-now-available
 is-seo
 is.and
@@ -14171,6 +14192,7 @@ k.athl.een
 k.athle.e.n
 k.athle.en
 k.athlee.n
+k%c3%a8o-b%c3%b3ng
 ka.t.h.l.een
 ka.t.h.le.en
 ka.t.h.lee.n
@@ -14246,6 +14268,7 @@ keep writing!
 kensington parka
 kensington-parka
 kensingtonparka
+kèo-bóng
 key gen
 key prog
 key-gen
@@ -16665,10 +16688,12 @@ moore about
 moore-about
 more effective!
 more eventually
+more smartly
 more-deal
 more-effective!
 more-eventually
 more-lv
+more-smartly
 morelv
 morpg
 morre about
@@ -16767,6 +16792,7 @@ multilang portable
 multilang-portable
 munch measure
 munch-measure
+mundo-mania
 muscle-suppl
 muscles exercis
 muscles-exercis
@@ -17645,6 +17671,7 @@ offight
 ofhuman
 oficery
 ofnews
+ogrodowyparasol
 oher hand
 oherhand
 ohttp
@@ -18734,6 +18761,9 @@ pips-daily
 pips-hunter
 pipshunter
 piroxicam
+pisanie prac
+pisanie-prac
+pisanieprac
 piscine
 pit burner
 pit-burner
@@ -19198,6 +19228,10 @@ ppvcamp
 ppvclick
 ppvcpa
 ppvtraff
+prac licencjackich
+prac magisterskich
+prac-licencjackich
+prac-magisterskich
 prada bag
 prada cell
 prada cheap
@@ -19763,6 +19797,7 @@ quality post
 quality quartz
 quality site
 quality weblog
+quality writing
 quality-article
 quality-available
 quality-based
@@ -19776,6 +19811,7 @@ quality-post
 quality-quartz
 quality-site
 quality-weblog
+quality-writing
 quanto cost
 quanto-cost
 quantocost
@@ -20964,6 +21000,7 @@ sellnow
 send earn
 send-earn
 sendflowers
+sensitjze
 sensual massage
 sensual_
 sensual-massage
@@ -22310,6 +22347,8 @@ studios-beat
 studiosbeat
 studycon
 studylook
+stuffs excellent
+stuffs-excellent
 stumbledupon
 stumpmaster
 stunningq
@@ -22898,6 +22937,7 @@ they-loophole
 theyll
 theywe
 thhat might
+thhe best
 thhis
 thing way
 thing-way
@@ -24539,7 +24579,9 @@ warriors-jersey
 warriorsjersey
 warszawa
 wasbusiness
+watch hdonline
 watch vid
+watch-hdonline
 watch-quartz
 watch-replica
 watch-seiko
@@ -26004,6 +26046,8 @@ zyvox
 кино-позитив
 кинопозитив
 китай
+клинические рекомен
+клинические-рекомен
 клипса антихрап
 клипса-антихрап
 клубах
@@ -26304,6 +26348,8 @@ zyvox
 реклама
 рекламное
 рекламу
+рекомендуют врачи
+рекомендуют-врачи
 ремонт автомат
 ремонт ворот
 ремонт-автомат
@@ -26679,6 +26725,7 @@ zyvox
 ホット
 ホリスター
 マークジェイコブス
+まつげエクステ
 ミュウ
 ムービー用
 メガネ
