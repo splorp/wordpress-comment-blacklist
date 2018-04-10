@@ -746,6 +746,9 @@ _zapat
 -kabriolet-
 -kabriolet.
 -kabriolet/
+-kapselfibrose-
+-kapselfibrose.
+-kapselfibrose/
 -kartridj-
 -kartridj.
 -kartridj/
@@ -1273,6 +1276,7 @@ _zapat
 ?url=
 ?user
 ?utm_source=
+?utm_term=
 ?view
 ?youtube
 .-0
@@ -1320,13 +1324,13 @@ _zapat
 .bisnis-
 .bisnis.
 .bisnis/
+.blog.telrock.
+.blog0
 .blog1
-.blog1.
 .blog2
-.blog2.
-.blog3.
-.blog4.
-.blog5.
+.blog3
+.blog4
+.blog5
 .blogbox.
 .blogdon.
 .bloglovin.
@@ -1338,12 +1342,18 @@ _zapat
 .blogzag.
 .bluray-
 .bluray.
-.bot1.
-.bot2.
-.bot3.
-.bots1.
-.bots2.
-.bots3.
+.bot0
+.bot1
+.bot2
+.bot3
+.bot4
+.bot5
+.bots0
+.bots1
+.bots2
+.bots3
+.bots4
+.bots5
 .bravesites.
 .canadagoose-
 .cartier-
@@ -1425,6 +1435,7 @@ _zapat
 .games.su
 .games.za
 .gucci-
+.gull.gull
 .hard-
 .hatenablog.
 .header.us
@@ -1478,6 +1489,9 @@ _zapat
 .jpg.htm
 .jpg.jsp
 .jpg.php
+.kapselfibrose-
+.kapselfibrose.
+.kapselfibrose/
 .kartridj-
 .kartridj.
 .kartridj/
@@ -1598,6 +1612,7 @@ _zapat
 .pl#
 .plotexchange.us
 .pointblog.
+.post1.telrock.
 .postbit.
 .press-release.
 .pressrelease.
@@ -1811,6 +1826,7 @@ _zapat
 .xblog.in
 .xsl.pt
 .xzblogs.
+.youblog.
 .ytimg.
 .yuwanshe.
 .yves
@@ -2635,6 +2651,9 @@ _zapat
 /just.
 /kabriolet-
 /kabriolet.
+/kapselfibrose-
+/kapselfibrose.
+/kapselfibrose/
 /kartridj-
 /kartridj.
 /kartridj/
@@ -4329,7 +4348,9 @@ acutual
 acyclovir
 ad crack
 ad live
+ad_flagship
 ad-crack
+ad-flagship
 ad-live
 ad-sages
 ad-wiki
@@ -4697,8 +4718,12 @@ also-eable
 alviero martini
 alviero-martini
 alvieromartini
+amateur xx
 amateur-homemade
+amateur-xx
 amateur.
+amateure xx
+amateure-xx
 amateurhomemade
 amateurs.
 amatuer
@@ -5110,6 +5135,8 @@ atorvastatin
 atricky
 attraction market
 attraction-market
+audio song
+audio-song
 aufsatz hilfe
 aufsatz-hilfe
 aufsatzhilfe
@@ -5598,6 +5625,7 @@ basketjord
 basketmbt
 basketshoe
 bat-pro
+bauchstraffung
 baykal extreme
 baykal otdykh
 baykal ozero
@@ -6052,7 +6080,9 @@ blancstarwalk
 blazer chaus
 blazer-chaus
 blazerchaus
+blog _
 blog ::
+blog …
 blog (wordpress
 blog based
 blog beast
@@ -6152,6 +6182,7 @@ blogue1
 blogviewer
 blogweb
 blogworld
+blond4u
 bloom budget
 bloom-budget
 blow-job
@@ -6385,6 +6416,7 @@ bottesfemme
 bottesparis
 bottespas
 bottesugg
+botulinumtoxin
 bountiful with
 bountiful-with
 boutique balenciaga
@@ -6532,6 +6564,9 @@ bruno-cabas
 bruno-sac
 brunocabas
 brunosac
+bruststraffung
+brustvergrosserung
+brustvergrößerung
 btitish
 btn-phone
 btshoe
@@ -6929,6 +6964,7 @@ calzature mbt
 calzature-mbt
 calzaturembt
 cam-fave
+cam2cam
 cambogia
 camfav.
 camfave
@@ -7054,7 +7090,10 @@ cardy boot
 cardy-boot
 cardyboot
 care cream
+care maintenance
 care-cream
+care-maintenance
+care+maintenance
 carecream
 carfiac arrest
 carfiac muscle
@@ -7368,6 +7407,7 @@ chanelreplique
 chanelsac
 chanelsale
 chanelspring
+change-your-life
 channel obtain
 channel-operator
 channels obtain
@@ -7509,6 +7549,7 @@ cheap chinese
 cheap christ
 cheap denver
 cheap dumps
+cheap erythro
 cheap essay
 cheap ferrag
 cheap fifa
@@ -7564,7 +7605,7 @@ cheap uk
 cheap virtual
 cheap warrior
 cheap wed
-cheap wholes
+cheap whole
 cheap youth
 cheap_
 cheap-adobe
@@ -7588,6 +7629,7 @@ cheap-christ
 cheap-converse
 cheap-denver
 cheap-dumps
+cheap-erythro
 cheap-essay
 cheap-ferrag
 cheap-fifa
@@ -7647,7 +7689,7 @@ cheap-virtual
 cheap-warrior
 cheap-web
 cheap-wed
-cheap-wholes
+cheap-whole
 cheap-youth
 cheap+
 cheap<
@@ -7732,7 +7774,7 @@ cheapugg
 cheapuk
 cheapwarrior
 cheapweb
-cheapwholes
+cheapwhole
 cheapyouth
 cheat master
 cheat web
@@ -7804,14 +7846,14 @@ china low
 china scarf
 china scarve
 china shop
-china wholes
+china whole
 china-cheap
 china-dress
 china-low
 china-scarf
 china-scarve
 china-shop
-china-wholes
+china-whole
 chinacheap
 chinadress
 chinajord
@@ -7819,29 +7861,31 @@ chinalow
 chinascarf
 chinascarve
 chinashop
-chinawholes
+chinawhole
 chinese cheap
 chinese dress
 chinese low
 chinese scarf
 chinese scarve
 chinese shop
-chinese wholes
+chinese whole
 chinese-cheap
 chinese-dress
 chinese-low
 chinese-scarf
 chinese-scarve
 chinese-shop
-chinese-wholes
+chinese-whole
 chinesecheap
 chinesedress
 chineselow
 chinesescarf
 chinesescarve
 chineseshop
-chinesewholes
+chinesewhole
 chinska
+chirurgie plastic
+chirurgie-plastic
 chlamydia
 chloe boot
 chloe sunglass
@@ -7879,6 +7923,7 @@ chronic edge
 chronic-edge
 chrr-llc
 chttp
+chuan-nhat-hien-nay
 chung cư
 chung hightop
 chung-cư
@@ -8225,6 +8270,7 @@ coin-cheat
 coin-foot
 coin-fut
 coin-game
+coin-market
 coin-offering
 coin-xbox
 coincheat
@@ -8233,6 +8279,7 @@ coinfut
 coingame
 coinlight
 coinlite
+coinmarket
 coins foot
 coins fut
 coins game
@@ -8412,15 +8459,15 @@ commentyou
 commerce money
 commerce retail
 commerce sale
-commerce wholes
+commerce whole
 commerce-money
 commerce-retail
 commerce-sale
-commerce-wholes
+commerce-whole
 commercemoney
 commerceretail
 commercesale
-commercewholes
+commercewhole
 comming from
 comming-from
 common-redaction
@@ -8508,6 +8555,7 @@ cooker ninja
 cooker-ninja
 cookerninja
 cool article
+cool blog!
 cool post
 cool-article
 cool-post
@@ -9479,6 +9527,7 @@ drugs buy
 drugs cheap
 drugs-buy
 drugs-cheap
+drugs. regard
 drugsbuy
 drugscheap
 drugz
@@ -9937,6 +9986,9 @@ estate_
 estate-pro
 estate-whether
 estatepro
+este despesa
+este-despesa
+estedespesa
 estradiol
 etherdq
 euille lancel
@@ -10526,6 +10578,7 @@ featuring christ’s
 featuring christs
 featuring-christs
 federl
+feeds also
 feelng
 feichang0
 feihuang0
@@ -11349,6 +11402,7 @@ gainers-outnumbered
 gainweight
 galaxy nail
 galaxy-nail
+galaxy-s4-ban
 galaxynail
 galdi rebecka
 galdi-rebecka
@@ -11543,9 +11597,11 @@ getting $
 getting familiarity
 getting knowledge
 getting ranks
+getting thoughts
 getting-knowledge
 getting-men
 getting-ranks
+getting-thoughts
 gettingknowledge
 gettranslate
 getwidget
@@ -12101,6 +12157,7 @@ greece-holid
 greeceholid
 green smoker
 green-smoker
+green-think
 greensmoker
 grise parka
 grise-parka
@@ -12331,7 +12388,7 @@ handbag out
 handbag sale
 handbag store
 handbag uk
-handbag wholes
+handbag whole
 handbag wom
 handbag-distrib
 handbag-for
@@ -12339,7 +12396,7 @@ handbag-louis
 handbag-out
 handbag-sale
 handbag-store
-handbag-wholes
+handbag-whole
 handbag-wom
 handbag+
 handbagdistrib
@@ -12351,14 +12408,14 @@ handbags louis
 handbags out
 handbags store
 handbags uk
-handbags wholes
+handbags whole
 handbags wom
 handbags-distrib
 handbags-for
 handbags-louis
 handbags-out
 handbags-store
-handbags-wholes
+handbags-whole
 handbags-wom
 handbags+
 handbagsale
@@ -12370,10 +12427,10 @@ handbagssale
 handbagsstore
 handbagstore
 handbagsu
-handbagswholes
+handbagswhole
 handbagswom
 handbagu
-handbagwholes
+handbagwhole
 handbagwom
 handsome gold
 handsome-gold
@@ -12473,6 +12530,7 @@ health stock
 health suppl
 health-advis
 health-how
+health-kart
 health-recipe
 health-stock
 health-suppl
@@ -12490,6 +12548,7 @@ healthcarehow
 healthcarestock
 healthcaresuppl
 healthhow
+healthkart
 healthrecipe
 healthrelated
 healthstock
@@ -12718,6 +12777,7 @@ hleepd
 hndeds
 hngnep
 hnrxkc
+hoa-tau
 hobo bag
 hobo fuchsia
 hobo-bag
@@ -13023,6 +13083,7 @@ how-to-sell
 how-to-speed
 how-to-take
 how-to-teach
+how-to-tell-the-dif
 how-to-unlock
 how-to-win
 however before
@@ -13592,11 +13653,16 @@ iphone crack
 iphone repair
 iphone suppl
 iphone you
+iphone-7-lock
+iphone-7-plus-lock
+iphone-8-lock
+iphone-8-plus-lock
 iphone-apple
 iphone-case
 iphone-crack
 iphone-repair
 iphone-suppl
+iphone-x-lock
 iphone-you
 iphone.asp
 iphone.cfm
@@ -13695,6 +13761,7 @@ it ordenó
 it potency
 it rite
 it truly
+it veryy
 it-duvetica
 it-oakley
 it-ordeno
@@ -13926,7 +13993,7 @@ jersey from
 jersey nike
 jersey paypal
 jersey soccer
-jersey wholes
+jersey whole
 jersey-1
 jersey-2
 jersey-3
@@ -13939,7 +14006,7 @@ jersey-nike
 jersey-paypal
 jersey-pro
 jersey-soccer
-jersey-wholes
+jersey-whole
 jersey.asp
 jersey.cfm
 jersey.htm
@@ -13968,7 +14035,7 @@ jerseys from
 jerseys nike
 jerseys paypal
 jerseys soccer
-jerseys wholes
+jerseys whole
 jerseys-1
 jerseys-2
 jerseys-3
@@ -13981,7 +14048,7 @@ jerseys-from
 jerseys-nike
 jerseys-paypal
 jerseys-soccer
-jerseys-wholes
+jerseys-whole
 jerseys.us
 jerseys+
 jerseys1
@@ -13994,10 +14061,10 @@ jerseysfree
 jerseysfrom
 jerseysnike
 jerseysusa
-jerseyswholes
+jerseyswhole
 jerseyusa
 jerseywhite
-jerseywholes
+jerseywhole
 jewelery
 jeweline.
 jewellery.bl
@@ -14296,6 +14363,10 @@ keywords1
 keywords2
 keywords3
 kfcnfl
+kham nam
+khám nam
+kham-nam
+khám-nam
 khttp
 khumbu north
 khumbu-north
@@ -14872,6 +14943,7 @@ librarys.jsp
 librarys.php
 librium
 licenzija
+licu=urn
 lid pants
 lid-pants
 lifeinsur
@@ -14979,6 +15051,7 @@ lionsfan
 lionsjers
 lious exact
 lious-exact
+lipi=urn
 lipitor
 lisinopril
 lisseur-pascher
@@ -14992,6 +15065,8 @@ litte-more
 littlegod
 live-article
 livearticle
+livebox live
+livebox-live
 livesex
 liyrral
 llet alone
@@ -15952,6 +16027,8 @@ media-palitra
 media/sys
 mediamarketing
 mediapalitra
+medical marijuana
+medical-marijuana
 medicarefraud
 medicinez
 medicinz
@@ -16882,6 +16959,9 @@ my-webpage
 my-wweb
 mybetor
 mybitcoin
+mycin online
+mycin-online
+mycinonline
 mydead-
 mydomain
 myfashion
@@ -17143,6 +17223,8 @@ newss.
 newvibram
 newwebsite
 nexopia
+next articles
+next-articles
 nfc.lol
 nfl apparel
 nfl austr
@@ -17396,6 +17478,7 @@ northfce
 norvasc
 nos molesto
 nos molestó
+nospammail
 nossos orgaos
 nossos órgãos
 nossos-orgaos
@@ -17703,6 +17786,7 @@ oksunglass
 okycupid
 old/dress
 old|
+on tthe
 on-line certif
 on-line-certif
 once-in-a-lifetime
@@ -18716,6 +18800,8 @@ photos/chanel
 photos/online
 photos/prada
 photos/rolex
+php capital
+php-capital
 php?article
 php?rowstart
 php?showuser
@@ -18792,6 +18878,8 @@ piumino moncler
 piumino-moncler
 piuminomoncler
 pi貌
+pjure breast
+pjure-breast
 pl/wiki
 plaesure
 plansare
@@ -19405,16 +19493,22 @@ primeessay
 principal longchamp
 principal-longchamp
 principallongchamp
+privat amateur
 privat ftp
 privat label
+privat-amateur
 privat-ftp
 privat-label
 privat-proxy
+privatamateur
+private amateur
 private ftp
 private_
+private-amateur
 private-ftp
 private-label
 private-proxy
+privateamateur
 privateftp
 privatelabel
 privateproxy
@@ -20464,6 +20558,7 @@ rolex_
 rolex-market
 rolex-watch
 rolexwatch
+rom-galaxy
 roofingcontractor
 rootexplorerr
 ropa belstaff
@@ -22204,6 +22299,8 @@ statement state
 statement-state
 statuscode
 stazhirovka
+std testing
+std-testing
 steam и
 steam-и
 steelersfan
@@ -22279,7 +22376,7 @@ store penis
 store purchased
 store serv
 store shopping
-store wholes
+store whole
 store-caldle
 store-gucci
 store-online
@@ -22288,7 +22385,7 @@ store-penis
 store-purchased
 store-serv
 store-shopping
-store-wholes
+store-whole
 store.bl
 store.htm
 store.org
@@ -22331,6 +22428,8 @@ strategy-for
 stratificat.
 strattera
 stream2watch
+streaming site
+streaming-site
 street-saw
 streetsaw
 strength harmony
@@ -22957,6 +23056,7 @@ theywe
 thhat might
 thhe best
 thhis
+thi, i
 thing way
 thing-way
 things-consume
@@ -23157,13 +23257,13 @@ tips.info
 tipsblog
 tipsof
 tire-disc
-tire-wholes
+tire-whole
 tiredisc
 tires-disc
-tires-wholes
+tires-whole
 tiresdisc
-tireswholes
-tirewholes
+tireswhole
+tirewhole
 tit-pad
 titans merch
 titans-merch
@@ -23336,6 +23436,10 @@ tote hand
 tote-hand
 totehand
 town|
+tra dao quan
+trà đạo quán
+tra-dao-quan
+trà-đạo-quán
 trace serv
 trace-serv
 traceserv
@@ -23348,6 +23452,7 @@ track2 dump
 track2-dump
 trackback-url
 tracking-a-phone
+tradaoquan
 trade_your
 trading-method
 traffic_
@@ -23415,6 +23520,7 @@ truth-however
 truthabout
 try-these
 tthe main
+tthe other
 tube-zzz
 tubee.tv
 tubezzz
@@ -24234,6 +24340,7 @@ video-youtube
 vidéo-youtube
 video.asp
 video.cfm
+video.hoc
 video.htm
 video.jsp
 video.php
@@ -24419,6 +24526,7 @@ vivotab
 vk.cc
 vkgnfx
 vod_
+vodstreaming
 vogue toms
 vogue-toms
 voguetoms
@@ -24477,7 +24585,7 @@ vuitton sold
 vuitton speed
 vuitton taschen
 vuitton wallet
-vuitton wholes
+vuitton whole
 vuitton women
 vuitton-bag
 vuitton-black
@@ -24499,7 +24607,7 @@ vuitton-speed
 vuitton-uk
 vuitton-usa
 vuitton-wallet
-vuitton-wholes
+vuitton-whole
 vuitton-women
 vuitton+
 vuitton<
@@ -24521,7 +24629,7 @@ vuittonspeed
 vuittonuk
 vuittonusa
 vuittonwallet
-vuittonwholes
+vuittonwhole
 vv free
 vv-free
 vvfree
@@ -24729,6 +24837,7 @@ website traff
 website usa
 website visit
 website we
+website yourself
 website-everyday
 website-keep
 website-look
@@ -24739,6 +24848,7 @@ website-usa
 website-visit
 website-we
 website!
+website..
 website.keep
 website}
 website1
@@ -25021,6 +25131,7 @@ witgh
 with declare
 with pics
 with thhe
+with-body-weight
 with-declare
 with-pics
 with-your-computer
@@ -25484,6 +25595,7 @@ your penis
 your porn
 your publish
 your sijte
+your site..
 your submit
 your success
 your traff
