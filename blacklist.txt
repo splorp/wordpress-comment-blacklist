@@ -721,6 +721,7 @@ _zapat
 -income-
 -income.
 -income/
+-info.pl
 -infotain
 -insurance.
 -insurance/
@@ -767,6 +768,7 @@ _zapat
 -lesbian-
 -lesbian.
 -lesbian/
+-limited-edition/
 -link.
 -link/
 -loan-
@@ -2700,6 +2702,7 @@ _zapat
 /libs/
 /lijst/
 /limewire
+/limited-edition-
 /lingerie-
 /lingerie.
 /link-
@@ -8068,6 +8071,8 @@ clboot
 clean clear
 clean-clear
 cleanclear
+cleaning academy
+cleaning-academy
 clear clarif
 clear clear
 clear-clarif
@@ -8711,6 +8716,7 @@ costumes-homme
 costumeshomme
 costumetendance
 costumeversace
+cotcoinox
 couch sofa
 couch-sofa
 couchey fr
@@ -9317,6 +9323,7 @@ directory-submit
 directorysubmit
 directt
 dirt-bike
+discard.email
 disclaim.asp
 discount afl
 discount bag
@@ -9728,6 +9735,8 @@ eema1l
 eemai1
 eemail
 eevance
+efeitos colaterais
+efeitos-colaterais
 effexor
 efficiency customer
 efficiency-customer
@@ -9874,6 +9883,7 @@ enormous-post
 enormous-weblog
 enourmous
 enprivate
+entreprenuer
 entry_
 entrykey
 entryview
@@ -10046,6 +10056,8 @@ estatepro
 este despesa
 este-despesa
 estedespesa
+esthetic-master
+estheticmaster
 estradiol
 etherdq
 euille lancel
@@ -11873,6 +11885,8 @@ goa.d.k
 goa.dk
 goad.k
 goadk
+gobs-info
+gobsinfo
 god-of-seo
 godofseo
 goed jassen
@@ -13367,6 +13381,8 @@ inconvenience-comprehens
 increase traff
 increase-traff
 increasetraff
+increasing internet
+increasing-internet
 incredible article
 incredible blog
 incredible layout
@@ -15323,6 +15339,8 @@ lookin for
 lookin-for
 lookingfor
 lookk
+loosely user
+loosely-user
 lorazepam
 lortab
 los replica
@@ -15644,6 +15662,7 @@ maillots-tenue
 maillots/tenue
 maillotsligue
 maillotuk
+mailvirtual.win
 main longchamp
 main-longchamp
 main.asp
@@ -18544,6 +18563,8 @@ paragraph he/she
 paragraph writ
 paragraph-writ
 parajumpers
+parasole-online
+parasoleonline
 parchet triplu
 parchet-triplu
 paretologic
@@ -18794,6 +18815,10 @@ personalinjury
 personalnatur
 personalpc
 personnalis
+peso saudavel
+peso saudável
+peso-saudavel
+peso-saudável
 petencies
 petite dress
 petite-dress
@@ -19614,6 +19639,7 @@ privatlabel
 privatnyye proksi
 privatnyye-proksi
 privatproxy
+prividege
 privilege card
 privilege-card
 privilegecard
@@ -23545,6 +23571,9 @@ totally-free
 tote hand
 tote-hand
 totehand
+toto site
+toto-site
+totosite
 town|
 tra dao quan
 trà đạo quán
@@ -23589,6 +23618,8 @@ traveltrip
 trazodone
 treatement
 treatment.in
+tremendous writings
+tremendous-writings
 trempe sous
 trempe-sous
 trend shop
@@ -24512,6 +24543,7 @@ vidios
 viencare
 vietnam-visa
 vietnamvisa
+vietthanhbien
 view_
 view-article
 view-blog
@@ -24875,6 +24907,7 @@ web sitte
 web sute
 web therefore
 web viewer
+web visitor
 web website
 web_log
 web-anal
@@ -24897,6 +24930,7 @@ web-solution
 web-therefore
 web-traff
 web-viewer
+web-visitor
 web-website
 web.best
 web/icon
@@ -26865,10 +26899,12 @@ zyvox
 ꭼy
 경마배팅
 루이비통
+룰렛게임
 무료쿠폰
 바카라
 성인자
 야동
+토토사이트
 트위터
 アークテリクス
 アイホン
