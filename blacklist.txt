@@ -607,6 +607,8 @@ _zapat
 -escort/
 -escorts.
 -escorts/
+-essay-topics-
+-essay-topics/
 -essay.
 -essay/
 -event.
@@ -1816,6 +1818,8 @@ _zapat
 .top/?
 .top/gal
 .top/thumb
+.top10bestseller.
+.top10bestsellers.
 .travel.pl
 .twiclub.
 .twilight-
@@ -2466,6 +2470,7 @@ _zapat
 /escort.
 /escorts-
 /escorts.
+/essay-topics-
 /event-
 /event.
 /executive-
@@ -3638,6 +3643,7 @@ _zapat
 0.@
 0.5 mg
 0.5mg
+0@seo
 ００％
 ００＄
 0cigar
@@ -3677,6 +3683,7 @@ _zapat
 1@1
 1@2
 1@3
+1@seo
 1big
 1bodog
 1c.in
@@ -3716,6 +3723,7 @@ _zapat
 2@1
 2@2
 2@3
+2@seo
 2bj.ru
 2buy
 2c.in
@@ -3744,6 +3752,7 @@ _zapat
 3@1
 3@2
 3@3
+3@seo
 3cigar
 3d моделе
 3d-моделе
@@ -5253,6 +5262,10 @@ available-proper
 availableclock
 availclock
 avatar-live
+avental indispensavel
+avental indispensável
+avental-indispensavel
+avental-indispensável
 avvessorie
 avvessory
 away your
@@ -5407,6 +5420,9 @@ b9.php
 ba.g.s
 babycanread
 babyliss
+baccarat site
+baccarat-site
+baccaratsite
 backlink
 baclofen
 bad credit
@@ -6225,6 +6241,12 @@ blu-cig
 blucig
 blue ugg
 blue-ugg
+bluecap turbo
+bluecap-turbo
+bluecaps turbo
+bluecaps-turbo
+bluecapsturbo
+bluecapturbo
 bluefin-trad
 bluefintrad
 bluehost-review
@@ -7092,6 +7114,7 @@ candy-crash
 candy-crush
 candycrash
 candycrush
+cann't imagine
 cannabis buy
 cannabis grow
 cannabis oil
@@ -7389,8 +7412,10 @@ cent|
 cerpolo.com.br
 cert line
 cert-line
+certain approximately
 certain mastery
 certain pronoun
+certain-approximately
 certain-mastery
 certain-pronoun
 certainly pronoun
@@ -8370,7 +8395,11 @@ collection-moncler
 collectionceline
 collectioneffort
 collectionmoncler
+college persuasive
+college-essays
 college-loan
+college-persuasive
+collegeessays
 collegeloan
 collezione celine
 collezione moncler
@@ -8901,7 +8930,9 @@ customcontrol
 customdesignedshirt
 customdesignedtshirt
 customessay
+customized dissertation
 customized essay
+customized-dissertation
 customized-essay
 customnike
 customrim
@@ -9368,6 +9399,12 @@ discountwheel
 discussion made
 discussion-made
 display_
+dissertation making
+dissertation posting
+dissertation writing
+dissertation-making
+dissertation-posting
+dissertation-writing
 distinct about
 distinct website
 distinct-about
@@ -10006,6 +10043,7 @@ españaonline
 essay composing
 essay creat
 essay erudite
+essay leader
 essay producing
 essay serv
 essay solution
@@ -10016,6 +10054,7 @@ essay-empire
 essay-erudite
 essay-help
 essay-intro
+essay-leader
 essay-producing
 essay-serv
 essay-solution
@@ -10027,6 +10066,7 @@ essayer-cette
 essayerudite
 essayhelp
 essayintro
+essayleader
 essays empire
 essays help
 essays intro
@@ -10058,6 +10098,8 @@ este-despesa
 estedespesa
 esthetic-master
 estheticmaster
+estimulante sex
+estimulante-sex
 estradiol
 etherdq
 euille lancel
@@ -10825,6 +10867,7 @@ finanse
 finansow
 finasteride
 find sex
+find-excellent
 find-sex
 find-the-answer
 findarticle
@@ -11475,6 +11518,7 @@ gainweight
 galaxy nail
 galaxy-nail
 galaxy-s4-ban
+galaxy-s7-s7
 galaxynail
 galdi rebecka
 galdi-rebecka
@@ -11625,6 +11669,7 @@ genuinely fruit
 genuinely-fast
 genuinely-fruit
 genuinepandora
+georgecow
 german jers
 german lesb
 german-jers
@@ -13368,6 +13413,12 @@ inbox.ru
 inbox1
 inbox2
 inbox3
+inbox4
+inbox5
+inbox6
+inbox7
+inbox8
+inbox9
 inbto
 include priceless
 includeeng
@@ -13437,6 +13488,7 @@ info-alcohol
 info-base
 info-ratno
 info-you
+info?i
 info/addict
 info/alcohol
 info/product
@@ -13568,7 +13620,9 @@ inspiredhand
 inspirfe
 insta-appraisal
 instafab
+instagram follower
 instagram in
+instagram-follower
 instagram-in
 install virtual
 install-virtual
@@ -13671,6 +13725,7 @@ internet-post
 internet-savvy
 internet-site
 internet-web
+internet-writers
 internet.in
 internetblog
 internetgambl
@@ -13688,6 +13743,7 @@ internetu-akcij
 internetu-kvepalai
 internetview
 internetweb
+internetwriters
 intersting
 invest-money
 invest-off
@@ -15700,7 +15756,9 @@ makeowntee
 makersnow
 makeup.bl
 making money
+making provider
 making-money
+making-provider
 makingmoney
 maklare
 malaysia casino
@@ -16374,6 +16432,7 @@ miami-escort
 miamiescort
 michael-kors
 michaelkors
+michaelvoday
 mieszkania
 mieszkanie
 migliore replica
@@ -17019,6 +17078,7 @@ my bebo
 my bitcoin
 my blog;
 my blog:
+my bookmarks
 my hermes
 my homepage
 my myspace
@@ -17042,6 +17102,7 @@ my wweb
 my-bebo
 my-betor
 my-bitcoin
+my-bookmarks
 my-fashion
 my-hermes
 my-homepage
@@ -17289,6 +17350,7 @@ new-large
 new-manolo
 new-mastery
 new-oakley
+new-rooms-decor
 new-seo
 new-vibram
 new-webpage
@@ -17536,6 +17598,7 @@ no-fuss
 no-guarant
 no-hassle
 no-prescript
+no-problem-have
 no-remov
 no1.co
 nobis yatesy
@@ -18760,7 +18823,9 @@ penisenlarg
 penmontblanc
 penned write
 penned-write
+penning company
 penning this
+penning-company
 penning-this
 penny auction
 penny bid
@@ -19004,6 +19069,7 @@ pjure breast
 pjure-breast
 pl/wiki
 plaesure
+plagorism
 plansare
 plarusee
 plastic ambalaje
@@ -19375,6 +19441,7 @@ possui zero
 possui-zero
 post extreme
 post post
+post truly
 post_
 post-extreme
 post-post
@@ -20671,6 +20738,7 @@ robe-de-mariee
 robe-du-mariage
 robedemariee
 robedumariage
+robertalite
 robertby
 roger vivier
 roger-vivier
@@ -21083,6 +21151,8 @@ schoenendsqu
 schoenenseite
 schoeneseite
 school.a
+schooling dissertation
+schooling-dissertation
 schuh gunstig
 schuh günstig
 schuh puma
@@ -23062,6 +23132,7 @@ temp.t.est
 temp.te.st
 temp.tes.t
 temp.test
+tempestgram
 template.co
 templates.co
 templerun-
@@ -23179,6 +23250,10 @@ theresome
 thes good
 these however
 these-however
+thesis penning
+thesis-penning
+thesis-publishing
+thesispublishing
 thespacious
 thetopdog
 thetwo
@@ -23205,6 +23280,7 @@ this publish
 this weblog
 this webpage
 this website;
+this write-up
 this wweb
 this-gucci
 this-proficiency
@@ -23383,6 +23459,7 @@ tinnitus tin
 tinnitus-tin
 tinnitustin
 tinytowtimmy.co
+tion?i
 tipblog
 tips unlimited
 tips-for-
@@ -24191,6 +24268,7 @@ user/view
 userinfo
 username!
 users_
+usforex
 usinformed
 using simplexml
 using-simplexml
@@ -25321,6 +25399,7 @@ wondeful
 wonderful article
 wonderful blog
 wonderful homepage
+wonderful informative
 wonderful post
 wonderful publish
 wonderful read!
@@ -25329,6 +25408,7 @@ wonderful website
 wonderful-article
 wonderful-blog
 wonderful-homepage
+wonderful-informative
 wonderful-post
 wonderful-publish
 wonderful-read
@@ -25482,6 +25562,7 @@ write-a-protocol
 write-essay
 write-paper
 write-subsequent
+write-up very
 writeessay
 writepaper
 writing he/she
@@ -25720,6 +25801,7 @@ york sportiv
 york-sportiv
 yorksportiv
 you article
+you cann't
 you gucci
 you sees
 you ssay
@@ -26044,6 +26126,8 @@ zithromax
 zlinks
 złote
 zmedicin
+zmir escort
+zmir-escort
 zoe boot
 zoe-boot
 zoidstore
@@ -26185,6 +26269,8 @@ zyvox
 взломать паро
 взломать-одно
 взломать-паро
+взрослых россиян
+взрослых-россиян
 виагра
 видео чат
 видео-чат
@@ -26285,6 +26371,10 @@ zyvox
 еw
 есть скидка
 есть-скидка
+жизненные проблем
+жизненные-проблем
+жизненые проблем
+жизненые-проблем
 жк центральны
 жк-центральны
 за таблетку
@@ -26736,6 +26826,8 @@ zyvox
 сруба
 ссылка
 статей
+стать богатым
+стать-богатым
 статья
 стили деко
 стили проспект
@@ -26904,6 +26996,8 @@ zyvox
 바카라
 성인자
 야동
+온라인카지노
+인터넷카지노
 토토사이트
 트위터
 アークテリクス
