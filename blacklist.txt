@@ -137,6 +137,7 @@ _lancel
 _latisse
 _lauren
 _lebron
+_lineshake
 _link
 _list
 _load
@@ -549,6 +550,12 @@ _zapat
 -comfort-
 -converse.
 -converse/
+-cool-t-shirt-
+-cool-t-shirt.
+-cool-t-shirt/
+-cool-t-shirts-
+-cool-t-shirts.
+-cool-t-shirts/
 -cosmetics.
 -cosmetics/
 -costume.
@@ -771,6 +778,9 @@ _zapat
 -lesbian.
 -lesbian/
 -limited-edition/
+-lineshake-
+-lineshake.
+-lineshake/
 -link.
 -link/
 -loan-
@@ -1149,6 +1159,9 @@ _zapat
 -vecaro/
 -vendita-
 -vuitton-
+-vulpyx-
+-vulpyx.
+-vulpyx/
 -want-it
 -watches.
 -watches/
@@ -1175,6 +1188,9 @@ _zapat
 -xchange
 -yuwanshe.
 -yuwanshe/
+-zero-cost-
+-zero-cost.
+-zero-cost/
 -zlatehory-
 -zlatehory.
 -zlatehory/
@@ -1404,6 +1420,12 @@ _zapat
 .com8
 .com9
 .coms
+.cool-t-shirt-
+.cool-t-shirt.
+.cool-t-shirt/
+.cool-t-shirts-
+.cool-t-shirts.
+.cool-t-shirts/
 .coupon
 .credopa.in
 .d.e.r
@@ -1436,6 +1458,8 @@ _zapat
 .forum.
 .fr/,
 .fragmenting.us
+.free-blogz.
+.freeblogz.
 .freecam
 .freeforums.org
 .freeoda.co
@@ -1518,8 +1542,12 @@ _zapat
 .lesbian-
 .lesbian.
 .lesbian/
+.lineshake-
+.lineshake.
+.lineshake/
 .lipoly.ru
 .longchamp-
+.look4blog.
 .louboutin-
 .m88-
 .magix.net
@@ -1761,6 +1789,7 @@ _zapat
 .sensual.
 .sensual/
 .sexy.
+.sg/property
 .shop1.
 .simpsite.
 .sirenos.in
@@ -1828,6 +1857,9 @@ _zapat
 .univer.
 .us/user
 .uzblog.
+.vulpyx-
+.vulpyx.
+.vulpyx/
 .webgarden.at
 .webgarden.cz
 .webs.co
@@ -1873,6 +1905,9 @@ _zapat
 .za/user
 .za/za/
 .za#
+.zero-cost-
+.zero-cost.
+.zero-cost/
 .zlatehory-
 .zlatehory.
 .zlatehory/
@@ -1987,6 +2022,16 @@ _zapat
 //webstore
 //wp-
 //xxx
+/~0
+/~1
+/~2
+/~3
+/~4
+/~5
+/~6
+/~7
+/~8
+/~9
 /0.asp
 /00.asp
 /0.cfm
@@ -2386,6 +2431,12 @@ _zapat
 /control/
 /converse-
 /converse.
+/cool-t-shirt-
+/cool-t-shirt.
+/cool-t-shirt/
+/cool-t-shirts-
+/cool-t-shirts.
+/cool-t-shirts/
 /corneey.co
 /cort.as
 /coupon-
@@ -2621,6 +2672,7 @@ _zapat
 /index.cfm/
 /index.htm/
 /index.jsp/
+/index.php?/
 /index.php/
 /index0
 /index1
@@ -2708,6 +2760,9 @@ _zapat
 /lijst/
 /limewire
 /limited-edition-
+/lineshake-
+/lineshake.
+/lineshake/
 /lingerie-
 /lingerie.
 /link-
@@ -3259,6 +3314,9 @@ _zapat
 /vuitton.
 /vuittonpascher-
 /vuittonpascher.
+/vulpyx-
+/vulpyx.
+/vulpyx/
 /w.w/
 /wayfarer-
 /wayfarer.
@@ -3316,6 +3374,9 @@ _zapat
 /z.
 /zdev/
 /zdjecia/
+/zero-cost-
+/zero-cost.
+/zero-cost/
 /zh-cn/
 /zlatehory-
 /zlatehory.
@@ -4244,6 +4305,8 @@ aall my
 aall-my
 aam happy
 aat least
+abalroar dentro
+abalroar-dentro
 abcwatch
 abdominaux
 abercrom
@@ -4284,6 +4347,9 @@ abouttrillion
 abssice 360
 abssice-360
 abssice360
+academy krs
+academy-krs
+academykrs
 acai diet
 acai-
 acai-diet
@@ -4551,6 +4617,10 @@ adwokacka
 adwokat
 adwords
 æ÷
+aereas barata
+aéreas barata
+aereas-barata
+aéreas-barata
 aff.asp
 aff.cfm
 aff.htm
@@ -4892,6 +4962,11 @@ apex bionic
 apex-bionic
 apexbionic
 apicpreate
+app-nana-code
+app-nana-cydia
+app-nana-hack
+app-nana-mod
+app-nana-sync
 app.asp
 app.cfm
 app.htm
@@ -4905,6 +4980,17 @@ apple-unlock
 apple-wedding
 appleunlock
 applewedding
+appnana cydia
+appnana-code
+appnana-cydia
+appnana-hack
+appnana-mod
+appnana-sync
+appnanacode
+appnanacydia
+appnanahack
+appnanamod
+appnanasync
 appro-chait
 appyourself
 apr.i.l
@@ -5017,6 +5103,7 @@ articles dude
 articles plus
 articles post
 articles pow
+articles study
 articles sub
 articles tag
 articles-buzz
@@ -5025,6 +5112,7 @@ articles-dude
 articles-plus
 articles-post
 articles-pow
+articles-study
 articles-sub
 articles-tag
 articles,i
@@ -6082,12 +6170,15 @@ bitcoinwallet
 bitkoin
 bittrex
 biuro-solido
+biz news
+biz-news
 biz.in
 biz.pl
 biz.ru
 biz.su
 biz.za
 biznes
+biznews
 bizstore
 biztalk
 biztout
@@ -6165,6 +6256,7 @@ blog sys
 blog thus
 blog vid
 blog viewer
+blog was...
 blog web
 blog world
 blog_
@@ -6827,6 +6919,7 @@ buy dump
 buy duvetica
 buy face
 buy fifa
+buy forskolin
 buy generic
 buy gig
 buy gold
@@ -6858,6 +6951,7 @@ buy-dump
 buy-duvetica
 buy-face
 buy-fifa
+buy-forskolin
 buy-generic
 buy-gig
 buy-gold
@@ -8015,6 +8109,10 @@ chooboot
 choolesterol
 choose calorie
 choose-calorie
+chose appnana
+chose-app-nana
+chose-appnana
+choseappnana
 chrismas.asp
 christian_
 christian-loubou
@@ -8358,9 +8456,11 @@ code-promo
 code-xbox
 codegenerat
 codepromo
+codes amazon
 codes generat
 codes promo
 codes xbox
+codes-amazon
 codes-generat
 codes-promo
 codes-xbox
@@ -8397,6 +8497,7 @@ coins xbox
 coins-foot
 coins-fut
 coins-game
+coins-point
 coins-xbox
 coinsfoot
 coinsfut
@@ -8787,6 +8888,7 @@ coumadin
 counter sex
 counter-sex
 countersex
+countertopt
 couple gratuit
 couple watches
 couple-gratuit
@@ -8838,6 +8940,7 @@ cr.ea.se
 cr.eas.e
 cracked-pro
 crackedpro
+craft-my-job
 craft-our-job
 craig list
 craig-list
@@ -8976,6 +9079,8 @@ cut-menthol
 cutting-machine
 cuttingmachine
 cuurent
+cuz this
+cuz-this
 cv meaning
 cv-meaning
 cyber monday
@@ -9185,6 +9290,10 @@ delivers-result
 deliversresult
 delpha_
 deltasone
+dem tien
+đếm tiền
+dem-tien
+đếm-tiền
 demo0
 demo1
 demo2
@@ -9198,6 +9307,8 @@ demo9
 demoniakk
 démoniakk
 demontag
+den-pha-led
+den-pha-metal
 denschlaf
 dental guru
 dental quote
@@ -9254,6 +9365,8 @@ desires-erotic
 desmomelt
 desmopressin
 despaulsmith
+dessa dieta
+dessa-dieta
 desserts-factory
 dessertsfactory
 destenex
@@ -9345,6 +9458,8 @@ diet.co
 diet.htm
 diet.jsp
 diet.php
+dieta sofrida
+dieta-sofrida
 dietary status
 dietary-status
 dietchart
@@ -9384,6 +9499,7 @@ direct-lone
 directhealth
 directlend
 directlone
+directmailsupport
 directory submit
 directory-submit
 directorysubmit
@@ -9435,12 +9551,16 @@ discountugg
 discountwheel
 discussion made
 discussion-made
+disfuncao eretil
+disfuncao-eretil
 display_
 dissertation making
 dissertation posting
+dissertation revis
 dissertation writing
 dissertation-making
 dissertation-posting
+dissertation-revis
 dissertation-writing
 distinct about
 distinct website
@@ -10104,11 +10224,13 @@ essayerudite
 essayhelp
 essayintro
 essayleader
+essays duration
 essays empire
 essays help
 essays intro
 essays serv
 essays write
+essays-duration
 essays-empire
 essays-help
 essays-intro
@@ -11124,6 +11246,8 @@ forsalejap
 forsalejp
 forsales
 forsaleuk
+forskolin review
+forskolin-review
 forte dsc
 forte generic
 forte info
@@ -12230,6 +12354,7 @@ grannyporn
 grateest
 gratis sex
 gratis_
+gratis-coin
 gratis-sex
 gratissex
 gratuit annonce
@@ -14100,6 +14225,7 @@ jagody-acai
 jagowho
 jam jord
 jam-jord
+jamesargum
 japan converse
 japan dr
 japan marc
@@ -15100,6 +15226,7 @@ less dress
 less peplum
 less-dress
 less-peplum
+less, appnana
 lessdress
 lesson1
 lesspeplum
@@ -15115,6 +15242,8 @@ level market
 level-50
 level-market
 levelmarket
+levels dissertation
+levels-dissertation
 levitra
 levne
 lhttp
@@ -15158,6 +15287,7 @@ limited jers
 limited-jers
 limitedjers
 limo-serv
+lineshake_
 linguim.co
 link bait
 link build
@@ -15318,7 +15448,9 @@ lodz
 log.se.
 log/?
 logcabins
+login uk
 login widget
+login-uk
 login-widget
 login.asp
 login.cfm
@@ -15723,8 +15855,12 @@ magicmoncler
 magister kesehatan
 magister-kesehatan
 magnificent article
+magnificent blog
 magnificent goods
 magnificent inform
+magnificent page
+magnificent weblog
+magnificent website
 magnificent-article
 magnificent-goods
 magnificent-inform
@@ -16048,6 +16184,7 @@ max griffey
 max sale
 max-griffey
 max-sale
+max-user
 maxalt
 maxazria plum
 maxazria_
@@ -16588,6 +16725,10 @@ miu-miu
 miu-sunglass
 miumiu
 miusunglass
+mix appnana
+mix-app-nana
+mix-appnana
+mixappnana
 mixed-race
 mixedrace
 mizuno shoe
@@ -17245,6 +17386,8 @@ naltrexone
 namacalnie zalega
 namacalnie-zalega
 name-brand
+nanas-hack
+nanashack
 nanogold
 naproxen
 nashivki leibly
@@ -18245,6 +18388,7 @@ orologi-uomo
 orologiuomo
 os depoimento
 os-depoimento
+osmar terra
 osobistosci
 osobistości
 other-brand
@@ -18496,8 +18640,10 @@ page/pg
 page/view
 pageed
 pageeed
+pages phone
 pages scrape
 pages_
+pages-phone
 pages-scrape
 pages/more
 pages/page
@@ -18925,6 +19071,7 @@ personal blogroll
 personal pc
 personal personal
 personal pupil
+personal silicone
 personal-blogroll
 personal-exper
 personal-injury
@@ -18932,9 +19079,12 @@ personal-natur
 personal-pc
 personal-personal
 personal-pupil
+personal-silicone
 personalexper
 personalfinance
 personalinjury
+personalised silicone
+personalised-silicone
 personalnatur
 personalpc
 personnalis
@@ -20004,6 +20154,8 @@ protein-review
 proteinbene
 proteindiet
 provewhether
+provider proficient
+provider-proficient
 provigil
 proxénétisme
 prozac-
@@ -20121,6 +20273,7 @@ pussy-wet
 pussyporn
 pussywet
 puzzle maker
+puzzle-band
 puzzle-maker
 puzzlemaker
 pu貌
@@ -20500,6 +20653,9 @@ rejersey.net
 rekla.
 reklamowe
 rekreacja
+relações sexuais
+relacoes-sexuais
+relações-sexuais
 related-contents
 relax private
 relax-private
@@ -21420,6 +21576,8 @@ seo-barn
 seo-comp
 seo-gain
 seo-god
+seo-high-score
+seo-highscore
 seo-host
 seo-luton
 seo-pick
@@ -21443,6 +21601,7 @@ seobarn
 seocomp
 seogain
 seogod
+seohighscore
 seohost
 seoluton
 seopick
@@ -21631,6 +21790,8 @@ sextape
 sexteen
 sextoy
 sextube
+sexuais sem
+sexuais-sem
 sexual fantas
 sexual moment
 sexual-fantas
@@ -22068,6 +22229,7 @@ site offer
 site official
 site officiel
 site owner
+site particular
 site platform
 site position
 site post
@@ -22085,6 +22247,7 @@ site-offer
 site-official
 site-officiel
 site-owner
+site-particular
 site-platform
 site-position
 site-post
@@ -22889,6 +23052,7 @@ superb blog
 superb data
 superb page
 superb site
+superb weblog
 superb website
 superb-blog
 superb-data
@@ -23163,6 +23327,8 @@ teamwork coach
 teamwork-coach
 teamworkcoach
 techniue
+technolgy news
+technolgy-news
 technological globe
 technological-globe
 teen cam
@@ -23334,7 +23500,9 @@ theresome
 thes good
 these however
 these-however
+thesis crafting
 thesis penning
+thesis-crafting
 thesis-penning
 thesis-publishing
 thesis-tips
@@ -23361,6 +23529,7 @@ thinking playing
 thinking-playing
 this artile
 this gucci
+this landline
 this proficiency
 this publish
 this weblog
@@ -23369,6 +23538,7 @@ this website;
 this write-up
 this wweb
 this-gucci
+this-landline
 this-proficiency
 this-publish
 this-weblog
@@ -23811,10 +23981,12 @@ trimethoprim
 triviatrivia
 trollapp
 true search
+truly fastidious
 truly peaked
 truly suppose
 truly thk
 truly very
+truly-fastidious
 truly-peaked
 truly-suppose
 truly-thk
@@ -24791,12 +24963,14 @@ virus hoax
 virus infect
 virus remov
 virus secur
+virus spy
 virus_
 virus-answer
 virus-hoax
 virus-infect
 virus-remov
 virus-secur
+virus-spy
 virusanswer
 virushoax
 virusinfect
@@ -25010,6 +25184,9 @@ warehouse.us
 warehouse.za
 warepics
 warez
+warfarin online
+warfarin-online
+warfarinonline
 warmjp
 warriors jersey
 warriors-jersey
@@ -25387,6 +25564,7 @@ why-would-you
 wɦ
 widespread prescription
 widespread-prescription
+widespread-sorts
 widget_
 widyaw
 wife-tube
@@ -25397,6 +25575,8 @@ wifi-jammer
 wifijammer
 wigsrus
 wihesd
+wii-healthy
+wiihealthy
 wiith
 wiki_
 wiki/%
@@ -25588,6 +25768,9 @@ woolrichstore
 woolrichuomo
 woolrichvest
 woolrichwool
+woori casino
+woori-casino
+wooricasino
 woowoo-house
 woowoo-sex
 woowoo-site
@@ -25627,7 +25810,9 @@ worth comment
 worth-bookmarking
 worth-comment
 worthbookmarking
+wow cuz
 wow just
+wow-cuz
 wow-gold
 wowo-house
 wowo-sex
@@ -25649,10 +25834,13 @@ wprobot
 wpsite
 wpthemegen
 wrinting
+wristband-austr
+wristbands-austr
 wristpain
 write subsequent
 write-a-protocol
 write-essay
+write-my-article
 write-paper
 write-subsequent
 write-up very
@@ -26768,6 +26956,8 @@ zyvox
 прелестный сайт
 прелестный-сайт
 преобрести
+при дтп
+при-дтп
 прибыль
 приватные прокси
 приватные-прокси
@@ -26788,6 +26978,8 @@ zyvox
 продаж
 продвижение аккау
 продвижение-аккау
+продолжительном сроке
+продолжительном-сроке
 производство
 промо
 проститутки
@@ -26918,6 +27110,8 @@ zyvox
 спортивные-туры
 справкой
 справочник
+сроке службы
+сроке-службы
 сруба
 ссылка
 статей
@@ -27065,6 +27259,7 @@ zyvox
 ויקיפדיה
 أغراس
 السياحة العلاجي
+پازل باند
 ߋ
 ขายเสื้อผ้าเด็ก
 คาสิโน
@@ -27092,6 +27287,7 @@ zyvox
 바카라
 성인자
 야동
+여자친구
 온라인카지노
 인터넷카지노
 토토사이트
@@ -27269,6 +27465,7 @@ zyvox
 履
 巨大
 市公館
+年销售额
 店の
 店舗
 彩票網
@@ -27314,6 +27511,7 @@ zyvox
 網站
 綺麗め
 総合
+线上销售
 考，
 脳症
 脿
