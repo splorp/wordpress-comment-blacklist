@@ -233,6 +233,7 @@ _swaro
 _sys
 _tape
 _tattoo
+_tatuagen
 _taylor
 _temp
 _theme
@@ -1860,6 +1861,9 @@ _zapat
 .vulpyx-
 .vulpyx.
 .vulpyx/
+.web1.
+.web2.
+.web3.
 .webgarden.at
 .webgarden.cz
 .webs.co
@@ -2597,7 +2601,6 @@ _zapat
 /good.
 /goose/
 /got.by
-/graphics/
 /group1
 /group2
 /group3
@@ -4903,6 +4906,8 @@ angels porn
 angels-porn
 angels.porn
 angelsporn
+angleina jolie
+angleina-jolie
 anilinovyye kraski
 anilinovyye-kraski
 animalbased
@@ -5014,6 +5019,8 @@ are desirous
 are pround
 are-desirous
 are-pround
+aree good
+aree-good
 areplica
 areshade
 aricept
@@ -6339,6 +6346,7 @@ blogue1
 blogviewer
 blogweb
 blogworld
+blolg
 blond4u
 bloom budget
 bloom-budget
@@ -6347,6 +6355,8 @@ blowjob
 blu-cig
 blucig
 blue ugg
+blue_pill
+blue-pill
 blue-ugg
 bluecap turbo
 bluecap-turbo
@@ -6358,6 +6368,7 @@ bluefin-trad
 bluefintrad
 bluehost-review
 bluehostreview
+bluepill
 bluetooth jammer
 bluetooth-head
 bluetooth-jammer
@@ -6398,7 +6409,10 @@ bonocassino
 bons resultado
 bons-resultado
 bontril
+bonus casino
+bonus-casino
 bonus-code
+bonuscasino
 bonuscode
 boobs tumblr
 boobs-tumblr
@@ -6737,6 +6751,8 @@ bruststraffung
 brustvergrosserung
 brustvergrößerung
 bt-coin
+btc wallet
+btc-wallet
 btcoin
 btitish
 btn-phone
@@ -7231,7 +7247,9 @@ candy-crash
 candy-crush
 candycrash
 candycrush
+cann't
 cann't imagine
+cann’t
 cannabis buy
 cannabis grow
 cannabis oil
@@ -7356,6 +7374,7 @@ casino enligne
 casino fish
 casino game
 casino hack
+casino list
 casino online
 casino only
 casino phish
@@ -7369,6 +7388,7 @@ casino-enligne
 casino-fish
 casino-game
 casino-hack
+casino-list
 casino-online
 casino-only
 casino-phish
@@ -7383,6 +7403,7 @@ casinoer
 casinofish
 casinogame
 casinohack
+casinolist
 casinoonline
 casinoonly
 casinophish
@@ -7988,6 +8009,8 @@ cheats.co
 cheats.web
 cheatsfor
 cheatss
+checed in
+checed-in
 check.asp
 check32attack
 cheeerd
@@ -8723,6 +8746,8 @@ computerpressrelease
 computers.in
 comreview
 comunity
+concerning blog
+concerning-blog
 concerpts
 conficker worm
 conficker-worm
@@ -9116,12 +9141,17 @@ daddy-site
 dafeult
 daftar harga
 daftar-harga
+daikly
 dailly
+daily bloglist
+daily-bloglist
 daily-life-meaning
 daily.bl
 dailyreview.co
 dailystrength
 dailyz
+daintree residence
+daintree-residence
 dakotasuki
 dalle scarpe
 dalle-scarpe
@@ -9328,7 +9358,10 @@ dentalsuper
 dentalveneer
 depoimentos reais
 depoimentos-reais
+deposit casino
+deposit-casino
 depositbank
+depositcasino
 depression-symptom
 depressionsymptom
 derm exclus
@@ -10779,9 +10812,11 @@ favorable-blog
 favorable-page
 favorable-single
 favorable-web
+favorite earphone
 favorite justif
 favorite weblog
 favorite website
+favorite-earphone
 favorite-justif
 favorite-weblog
 favorite-website
@@ -10795,9 +10830,11 @@ favourable-blog
 favourable-page
 favourable-single
 favourable-web
+favourite earphone
 favourite justif
 favourite weblog
 favourite website
+favourite-earphone
 favourite-justif
 favourite-weblog
 favourite-website
@@ -11200,16 +11237,19 @@ for|
 forball.top
 forboot
 forcheap
+forex master
 forex pip
 forex pro
 forex rev
 forex sign
 forex_
+forex-master
 forex-pip
 forex-pro
 forex-rev
 forex-sign
 forex-valu
+forexmaster
 forexpip
 forexpro
 forexrev
@@ -11304,6 +11344,7 @@ forwholesale
 forwindows8
 foryou.co
 forzest
+fotos-de-tatuagen
 fr canad
 fr-canad
 fr.fr/
@@ -12108,6 +12149,7 @@ going-please
 goingplease
 gointeractive
 gojp.co
+gold apk
 gold celebrit
 gold earring
 gold ira
@@ -12115,6 +12157,7 @@ gold pill
 gold unobtain
 gold-account
 gold-and-silver
+gold-apk
 gold-celebrit
 gold-coin
 gold-earring
@@ -15593,7 +15636,9 @@ lostbellyfat
 lot its
 lot-its
 loteprednol
+lottery strateg
 lottery-singapore
+lottery-strateg
 lottie maxi
 lottie-maxi
 lottiemaxi
@@ -17274,6 +17319,7 @@ my bitcoin
 my blog;
 my blog:
 my bookmarks
+my btc
 my hermes
 my homepage
 my myspace
@@ -17298,6 +17344,7 @@ my-bebo
 my-betor
 my-bitcoin
 my-bookmarks
+my-btc
 my-fashion
 my-hermes
 my-homepage
@@ -17537,6 +17584,7 @@ new manolo
 new mastery
 new seo
 new webpage
+new zune
 new-article
 new-balance
 new-buzz
@@ -17551,6 +17599,7 @@ new-rooms-decor
 new-seo
 new-vibram
 new-webpage
+new-zune
 new/dress
 new/ipad
 new/iphone
@@ -19712,7 +19761,9 @@ poznan
 pozycjonowanie
 pozyczka
 pozyczki
+pp gold
 pp-class
+pp-gold
 ppc affiliate
 ppc compan
 ppc program
@@ -20513,6 +20564,7 @@ realestate.wordpress
 really fruitful
 really seldom
 really-fruitful
+really.. thank
 reallywork.we
 realtor promo
 realtor-promo
@@ -22732,6 +22784,7 @@ star-buy
 star-item
 star-sunglass
 starbuy
+stars.stars
 starsunglass
 state-of-the-art
 statement state
@@ -23299,6 +23352,12 @@ tattoosneak
 tattoostip
 tattootip
 tatttoo
+tatuagen feminina
+tatuagen_
+tatuagen-feminina
+tatuagens feminina
+tatuagens_
+tatuagens-feminina
 tax-book
 tax-debt
 taxbook
@@ -23449,6 +23508,8 @@ thatattempt
 thatover
 thatprofit
 thatrapid
+thats need
+thats-need
 thatthe
 the blog,
 the carfiac
@@ -23519,7 +23580,9 @@ thhat might
 thhe best
 thhis
 thi, i
+thing thats
 thing way
+thing-thats
 thing-way
 things-consume
 things-know
@@ -25237,6 +25300,7 @@ web explore
 web farm
 web optim
 web owner
+web page;
 web people
 web pharm
 web promo
@@ -26154,8 +26218,10 @@ yourcredit
 yourdick
 yourdui
 youre incred
+youre so
 youre talk
 youre-incred
+youre-so
 youre-talk
 yourfree
 yourloan
@@ -26423,6 +26489,12 @@ zopiclone
 zovirax
 zsurgical
 zumbah
+zune browse
+zune pass
+zune then
+zune-browse
+zune-pass
+zune-then
 zvid
 zwrot podatku
 zwrot-podatku
@@ -26853,6 +26925,8 @@ zyvox
 новейшую дам
 новейшую-дам
 новинки
+новостного сайт
+новостного-сайт
 новость убила
 новость-убила
 новых автомоби
@@ -27151,6 +27225,8 @@ zyvox
 уe
 уo
 удивительные
+уже пол
+уже-пол
 ура наконецто
 ура-наконецто
 услуг
