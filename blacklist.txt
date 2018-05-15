@@ -233,7 +233,7 @@ _swaro
 _sys
 _tape
 _tattoo
-_tatuagen
+_tatuage
 _taylor
 _temp
 _theme
@@ -803,6 +803,7 @@ _zapat
 -lover/
 -lululemon.
 -lululemon/
+-lunch.lady-
 -magazin-
 -magazini-
 -mail1.to
@@ -1117,6 +1118,15 @@ _zapat
 -tattoos-
 -tattoos.
 -tattoos/
+-tatuagem-
+-tatuagem.
+-tatuagem/
+-tatuagen-
+-tatuagen.
+-tatuagen/
+-tatuagens-
+-tatuagens.
+-tatuagens/
 -tax-attorney
 -tax-relief
 -tax-settlement
@@ -1843,6 +1853,15 @@ _zapat
 .tafil-
 .tafil.
 .tafil/
+.tatuagem-
+.tatuagem.
+.tatuagem/
+.tatuagen-
+.tatuagen.
+.tatuagen/
+.tatuagens-
+.tatuagens.
+.tatuagens/
 .thearticle
 .thezenweb.
 .top/?
@@ -1861,6 +1880,7 @@ _zapat
 .vulpyx-
 .vulpyx.
 .vulpyx/
+.web.telrock.
 .web1.
 .web2.
 .web3.
@@ -3217,6 +3237,15 @@ _zapat
 /tattoos-
 /tattoos.
 /tattoos/
+/tatuagem-
+/tatuagem.
+/tatuagem/
+/tatuagen-
+/tatuagen.
+/tatuagen/
+/tatuagens-
+/tatuagens.
+/tatuagens/
 /tax-attorney
 /telecharger-
 /telecharger.
@@ -4785,9 +4814,11 @@ alien-wheel
 alienwheel
 alkotla
 all ahout
+all craigslist
 all incluzive
 all-about-the
 all-ahout
+all-craigslist
 all-incluzive
 all4web
 allbestedmed
@@ -4807,6 +4838,7 @@ alluring-escort
 allworkhome
 alone place
 alone-place
+alongamentodecilios
 alpha-hoverboard
 alphahoverboard
 alprazolam
@@ -4843,6 +4875,8 @@ ambalaje plastic
 ambalaje-plastic
 ambalajeplastic
 ambien
+amenities provider
+amenities-provider
 ametuer
 aminocare
 amitriptyline
@@ -5061,6 +5095,7 @@ article pocket
 article post
 article pow
 article rewriter
+article snatch
 article sub
 article tag
 article-buzz
@@ -5074,6 +5109,7 @@ article-pocket
 article-post
 article-pow
 article-rewriter
+article-snatch
 article-sub
 article-tag
 article,i
@@ -5144,6 +5180,7 @@ articles/suggest
 articlesbuzz
 articlescontent
 articlesdude
+articlesnatch
 articlesplus
 articlespost
 articlespow
@@ -6237,6 +6274,12 @@ blancstarwalk
 blazer chaus
 blazer-chaus
 blazerchaus
+blocker preco
+blocker preço
+blocker queda
+blocker-preco
+blocker-preço
+blocker-queda
 blog _
 blog ::
 blog …
@@ -7150,6 +7193,9 @@ call-futurity
 callgirl
 calorias leva
 calorias-leva
+calvicie blog
+calvicie-blog
+calvicieblog
 calvin mujer
 calvin-mujer
 calvinmujer
@@ -8194,6 +8240,8 @@ cigs<
 cigsbuy
 cigsonline
 cigspromo
+cilios online
+cilios-online
 cinco jers
 cinco-jers
 cinture gucci
@@ -10059,7 +10107,9 @@ enchèremax
 encherisseur
 enchérisseur
 endlaved
+energetic blog
 energetic post
+energetic-blog
 energetic-post
 energeticpost
 eneugh
@@ -11061,6 +11111,7 @@ financialdebt
 financialemerg
 financialserv
 financialsolution
+financist
 finanse
 finansow
 finasteride
@@ -12246,7 +12297,9 @@ goodtemplate
 goog luck
 goog-luck
 google bind
+google click
 google for-
+google gain
 google high
 google java
 google mapa
@@ -12254,6 +12307,8 @@ google rank
 google us
 google_
 google-bind
+google-click
+google-gain
 google-high
 google-java
 google-mapa
@@ -12681,6 +12736,7 @@ hack-fb
 hack-generator
 hack-online
 hack-pass
+hack-the-sec
 hack-tool
 hack-zip
 hack.blog
@@ -12695,6 +12751,7 @@ hacking_
 hackonline
 hacks_
 hacks1
+hackthesec
 hacktool
 hadheard
 hair-again
@@ -12703,6 +12760,8 @@ hair-remov
 hair-straight
 hairagain
 hairgrow
+hairloss blocker
+hairloss-blocker
 hairmodel
 hairremov
 hairstraight
@@ -16150,6 +16209,7 @@ marketprices
 marketpricing
 marketresearch
 marketsamurai
+markettakeover
 marketxchange
 marlboro 100
 marlboro cig
@@ -16745,6 +16805,7 @@ mini credit
 mini-credit
 minicredit
 minirin
+minoxidil
 mint cash
 mint coin
 mint-cash
@@ -18601,6 +18662,7 @@ outsourcingcompan
 outstanding blog
 outstanding page
 outstanding post
+outstanding share
 outstanding site
 outstanding topic
 outstanding weblog
@@ -18608,6 +18670,7 @@ outstanding website
 outstanding-blog
 outstanding-page
 outstanding-post
+outstanding-share
 outstanding-site
 outstanding-topic
 outstanding-weblog
@@ -18704,6 +18767,8 @@ página web
 pagina-web
 página-web
 pagss
+paid google
+paid-google
 pain-behind
 pain-relief.
 painbehind
@@ -20980,6 +21045,8 @@ reviewstv
 reviewthe
 reviewx
 reviot
+revitalized web
+revitalized-web
 revival beauty
 revival-beauty
 revivalbeauty
@@ -21501,6 +21568,7 @@ searchengineopt
 searchoptim
 searchporn
 seawaypab
+sec-leading
 secondgrade
 secret advant
 secret advert
@@ -22275,6 +22343,7 @@ site -
 site ::
 site asian
 site backup
+site google
 site however
 site link
 site offer
@@ -22971,6 +23040,8 @@ stylo montblanc
 stylo-montblanc
 stylomontblanc
 stylowe
+sua mulher
+sua-mulher
 subjdct
 subject_
 subject=
@@ -23163,6 +23234,7 @@ surfing-online
 surprisezone
 suspicious ensure
 suspicious-ensure
+sustention
 suuccess
 suvwithbest
 suwa³ki
@@ -23352,6 +23424,13 @@ tattoosneak
 tattoostip
 tattootip
 tatttoo
+tatuagem deu
+tatuagem feminina
+tatuagem no
+tatuagem_
+tatuagem-deu
+tatuagem-feminina
+tatuagem-no
 tatuagen feminina
 tatuagen_
 tatuagen-feminina
@@ -24898,6 +24977,7 @@ videoporn
 vidéoporn
 videos porn
 vidéos porn
+videos rank
 videos view
 vidéos view
 videos vue
@@ -24906,6 +24986,7 @@ videos xblog
 videos youtube
 videos-porn
 vidéos-porn
+videos-rank
 videos-view
 vidéos-view
 videos-vue
@@ -25283,7 +25364,9 @@ wayfarerbarato
 wayfarerglass
 wdmypass
 we hqve
+we vigorous
 we-are-your
+we-vigorous
 wealth affiliate
 wealth-affiliate
 wealthaffiliate
@@ -25298,6 +25381,7 @@ web content
 web ddress
 web explore
 web farm
+web invent:
 web optim
 web owner
 web page;
@@ -27187,7 +27271,6 @@ zyvox
 сроке службы
 сроке-службы
 сруба
-ссылка
 статей
 стать богатым
 стать-богатым
@@ -27208,6 +27291,7 @@ zyvox
 схемы
 сџ
 съемка
+сылка
 табак танж
 табак-танж
 такси
@@ -27242,6 +27326,14 @@ zyvox
 филосовские мысли
 филосовские-мысли
 фильмов
+финансового информ
+финансового мира
+финансового-информ
+финансового-мира
+финансовой информ
+финансовой мира
+финансовой-информ
+финансовой-мира
 финансовую
 фирма бетор
 фирма-бетор
@@ -27253,6 +27345,7 @@ zyvox
 фитнес-туры
 фитнесс клуб
 фитнесс-клуб
+форекс
 форум
 фото
 футбол
