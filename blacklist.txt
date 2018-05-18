@@ -1338,7 +1338,9 @@ _zapat
 .ashematme.
 .ashematme/
 .asia/?
+.asp?tab
 .asp/
+.aspx?tab
 .asses-
 .asses.
 .asses/
@@ -1962,6 +1964,7 @@ _zapat
 】
 @123
 @emailme.
+@emailuser.
 @gmai.
 @goohle.
 @local.
@@ -4009,6 +4012,7 @@ _zapat
 20mgcheap
 20折
 ２０歳
+24hourwrist
 ３０％
 ３０＄
 30mg buy
@@ -4128,6 +4132,7 @@ _zapat
 911.ru
 911.su
 911.za
+999essay
 1000$
 1337-seo
 1337seo
@@ -8846,8 +8851,10 @@ cookerninja
 cool article
 cool blog!
 cool post
+cool share
 cool-article
 cool-post
+cool-share
 coolarticle
 coordintaing
 copie ugg
@@ -9302,11 +9309,14 @@ daytonaacier
 daytrad
 dɑ
 ddavp
+de alongamento
 de site
+de-alongamento
 de-contacto
 de-luxe
 de-site
 deal.bl
+dealongamento
 dealonline
 dealsuk
 dealsus
@@ -10148,6 +10158,8 @@ enlightening website
 enlightening-post
 enlightening-website
 enligneparis
+enorme fonte
+enorme-fonte
 enormous article
 enormous blog
 enormous page
@@ -12760,7 +12772,9 @@ hair-remov
 hair-straight
 hairagain
 hairgrow
+hairloss block
 hairloss blocker
+hairloss-block
 hairloss-blocker
 hairmodel
 hairremov
@@ -13678,6 +13692,7 @@ in youtube
 in-delicious
 in-disguise
 in-gogle
+in-skilled
 in-youtube
 in' tremendous
 in’ tremendous
@@ -13693,6 +13708,8 @@ inbox7
 inbox8
 inbox9
 inbto
+incessantly thought
+incessantly-thought
 include priceless
 includeeng
 includes priceless
@@ -15488,7 +15505,9 @@ listasegment
 litte more
 litte-more
 littlegod
+live odds
 live-article
+live-odds
 livearticle
 livebox live
 livebox-live
@@ -18267,6 +18286,7 @@ old|
 on tthe
 on-line certif
 on-line-certif
+on-the-web
 once-in-a-lifetime
 one hundred%
 one nike
@@ -18310,6 +18330,7 @@ online pokie
 online profit
 online reader
 online schuh
+online sex
 online shoe
 online shop
 online usa
@@ -18352,6 +18373,7 @@ online-profit
 online-reader
 online-sale
 online-schuh
+online-sex
 online-shoe
 online-shop
 online-store
@@ -18402,6 +18424,7 @@ onlines.co
 onlines.web
 onlinesale
 onlineschuh
+onlinesex
 onlineshoe
 onlineshop
 onlinestore
@@ -18425,6 +18448,7 @@ onsale.jsp
 onsale.php
 onsales.co
 ontheir
+ontheweb
 ooo bag
 ooo brand
 ooo watch
@@ -19236,6 +19260,8 @@ pg/post
 pg/profil
 pg/view
 pgconcern
+phan-mem
+phần-mềm
 pharm_
 pharm.
 pharma canad
@@ -20084,6 +20110,8 @@ produk-kerajinan
 produk/alat
 produkc
 produkcja
+produtos natura
+produtos-natura
 profesjonal
 professianal
 professional 2005
@@ -20774,6 +20802,10 @@ relações sexuais
 relacoes-sexuais
 relações-sexuais
 related-contents
+relativa media
+relativa mídia
+relativa-media
+relativa-mídia
 relax private
 relax-private
 relaxation therefore
@@ -20826,6 +20858,8 @@ remarkablesite
 remarkableunderstand
 remarkableweblog
 remarkablewebsite
+remedio caseiro
+remedio-caseiro
 remember must
 remember-must
 remont avtomat
@@ -22054,6 +22088,9 @@ shirtscustom
 shirtsembroid
 shirtsonline
 shirtsprint
+shit zombie
+shit-zombie
+shitzombie
 shoe america
 shoe announce
 shoe cloth
@@ -23576,6 +23613,8 @@ thailandm88
 thailove
 than forex
 than-forex
+thanh-nhac
+thanh-nhạc
 thanks admin
 thanks designed
 thanks-admin
@@ -26794,6 +26833,8 @@ zyvox
 добавим специал
 добавим-специал
 домены
+дорогие россияне
+дорогие-россияне
 доставка
 доход
 драйвера
