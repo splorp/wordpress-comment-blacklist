@@ -570,6 +570,12 @@ _zapat
 -del-pene.
 -del-pene/
 -deluxe-
+-detophyll-
+-detophyll.
+-detophyll/
+-detrol-
+-detrol.
+-detrol/
 -diagnostic-
 -dieta-
 -dieta.
@@ -652,6 +658,7 @@ _zapat
 -finance/
 -financing.
 -financing/
+-find-a-top-
 -fitch.
 -fitch/
 -for-adult
@@ -694,6 +701,7 @@ _zapat
 -gaming.
 -gaming/
 -get-free-
+-get-professional-
 -gifts-
 -handbag-
 -handbag.
@@ -906,6 +914,9 @@ _zapat
 -pharmacy-
 -pharmacy.
 -pharmacy/
+-phexin-
+-phexin.
+-phexin/
 -picload-
 -picload.
 -picload/
@@ -932,6 +943,9 @@ _zapat
 -post-1.
 -post-2.
 -pozew-
+-ppsspp-
+-ppsspp.
+-ppsspp/
 -prada-
 -prada.
 -prada/
@@ -1138,6 +1152,9 @@ _zapat
 -the-easiest-
 -the-greatest-
 -thunderstick-
+-thxgamers-
+-thxgamers.
+-thxgamers/
 -tips/
 -tits-
 -tits.
@@ -1446,6 +1463,12 @@ _zapat
 .del-pene-
 .del-pene.
 .del-pene/
+.detophyll-
+.detophyll.
+.detophyll/
+.detrol-
+.detrol.
+.detrol/
 .diowebhost.
 .disposable-
 .disposable/
@@ -1631,6 +1654,9 @@ _zapat
 .pharmacy-
 .pharmacy.
 .pharmacy/
+.phexin-
+.phexin.
+.phexin/
 .picload-
 .picload.
 .picload/
@@ -1657,6 +1683,7 @@ _zapat
 .pl/page-
 .pl/pl/
 .pl/profil
+.pl/rejestra
 .pl/serv
 .pl/shop
 .pl/sold
@@ -1668,6 +1695,9 @@ _zapat
 .pointblog.
 .post1.telrock.
 .postbit.
+.ppsspp-
+.ppsspp.
+.ppsspp/
 .press-release.
 .pressrelease.
 .property-sales-
@@ -1866,6 +1896,9 @@ _zapat
 .tatuagens/
 .thearticle
 .thezenweb.
+.thxgamers-
+.thxgamers.
+.thxgamers/
 .top/?
 .top/gal
 .top/thumb
@@ -2496,6 +2529,12 @@ _zapat
 /del-pene-
 /del-pene.
 /del-pene/
+/detophyll-
+/detophyll.
+/detophyll/
+/detrol-
+/detrol.
+/detrol/
 /dg-
 /dg.
 /diary-
@@ -2585,6 +2624,7 @@ _zapat
 /filosov/
 /finance.
 /financing.
+/find-a-top-
 /flash/
 /floodai-
 /floodai.
@@ -2613,6 +2653,7 @@ _zapat
 /ge.tt
 /gekiyasu
 /get-free
+/get-professional-
 /get/
 /gh0/
 /gh1/
@@ -2624,6 +2665,7 @@ _zapat
 /good.
 /goose/
 /got.by
+/graphics/
 /group1
 /group2
 /group3
@@ -2997,6 +3039,9 @@ _zapat
 /pharmacy-
 /pharmacy.
 /pharmacy/
+/phexin-
+/phexin.
+/phexin/
 /php.
 /picload-
 /picload.
@@ -3021,6 +3066,9 @@ _zapat
 /postinfo.
 /posty/
 /pozew
+/ppsspp-
+/ppsspp.
+/ppsspp/
 /prada-
 /prada.
 /prada/
@@ -3270,6 +3318,9 @@ _zapat
 /themes/
 /thesecret
 /thread-
+/thxgamers-
+/thxgamers.
+/thxgamers/
 /tiffany-
 /tiffany.
 /timberland-
@@ -5691,6 +5742,7 @@ ban-sunglass
 banbarata
 banbarato
 bancshare
+bandarq
 bandeira politica
 bandeira política
 bandeira-politica
@@ -5858,6 +5910,7 @@ bdsm sex
 bdsm-sex
 bdsmsex
 be benefited
+be book-mark
 be tthe
 beamten
 beanies1
@@ -6362,6 +6415,7 @@ blogger lover
 blogger_
 blogger-lover
 bloggerlover
+bloggers, business
 blogging glance
 blogging look
 blogging-glance
@@ -6767,7 +6821,9 @@ breed-assimilat
 bridal-gown
 bridalgown
 bridalshop
+brilliant blog
 brilliant content
+brilliant-blog
 brilliant-content
 brinkjewel
 britanniahotel
@@ -7207,8 +7263,11 @@ calvinmujer
 calzature mbt
 calzature-mbt
 calzaturembt
+cam-am-hoc-sao
 cam-fave
 cam2cam
+camam-hocsao
+camam.hocsao
 cambogia
 camfav.
 camfave
@@ -8996,7 +9055,9 @@ courses-casino
 couture avec
 couture-avec
 couyld
+cover-wholesale
 coverages
+coverwholesale
 cozy ugg
 cozy-ugg
 cozyugg
@@ -9277,6 +9338,7 @@ dating class
 dating date
 dating direct
 dating guide
+dating service
 dating site
 dating-advice
 dating-casual
@@ -9284,12 +9346,14 @@ dating-class
 dating-date
 dating-direct
 dating-guide
+dating-service
 dating-site
 dating.advice
 datingadvice
 datingcasual
 datingdirect
 datingguide
+datingservice
 datingsite
 daunen weste
 daunen-weste
@@ -9649,6 +9713,7 @@ dissertation making
 dissertation posting
 dissertation revis
 dissertation writing
+dissertation-editing
 dissertation-making
 dissertation-posting
 dissertation-revis
@@ -9665,6 +9730,8 @@ djtool
 dlphone
 dnjurh
 ðº
+do blogging
+do-blogging
 doable prog
 doable-prog
 doableprog
@@ -9749,6 +9816,7 @@ dominationsecret
 dominationseo
 domino poker
 domino-poker
+dominoq
 don think
 don-think
 dondash
@@ -9787,6 +9855,7 @@ download_
 download-apk
 download-brace
 download-joomla
+downloadablegame
 downloadbrace
 downloadism
 downloads_
@@ -10073,6 +10142,8 @@ eloans
 elsa-dress
 elway-jers
 elwayjers
+emagrecer podem
+emagrecer-podem
 email vip
 email-vip
 email.asp
@@ -10178,6 +10249,7 @@ entrykey
 entryview
 envisionforce
 eomarketplace
+eonline.pl
 epamphlett
 ephedra
 ephedrine
@@ -11085,6 +11157,7 @@ filvce.pl
 filvce.ro
 filvce.ru
 filvce.za
+financ-pak
 finance blog
 finance cash
 finance debt
@@ -11096,12 +11169,14 @@ finance-blog
 finance-cash
 finance-debt
 finance-emerg
+finance-pak
 finance-serv
 finance-solution
 financeblog
 financecash
 financedebt
 financeemerg
+financepak
 financeserv
 financesolution
 financial blog
@@ -11124,6 +11199,8 @@ financialemerg
 financialserv
 financialsolution
 financist
+financist.in
+financpak
 finanse
 finansow
 finasteride
@@ -11860,6 +11937,7 @@ gangbang
 gangprofil
 ganhar dinheiro
 ganhar-dinheiro
+ganoolq
 gaogb
 gaoland
 gapscent
@@ -12481,6 +12559,9 @@ gratuiteos
 gratuiteroulette
 gratuitos
 gratuitroulette
+grawerowanie lubin
+grawerowanie-lubin
+grawerowanielubin
 gray-panther
 graypanther
 grayson bag
@@ -13177,6 +13258,8 @@ highgrade content
 highgradecontent
 highprofile
 highprotein
+him delivery
+him-delivery
 hingenieur
 hisslipper
 hit mp3
@@ -13698,6 +13781,7 @@ in' tremendous
 in’ tremendous
 inbeing
 inbox.ru
+inbox0
 inbox1
 inbox2
 inbox3
@@ -13799,6 +13883,7 @@ informaticalibri
 informatik
 information-seeking prospect
 information-seeking-prospect
+information?i
 information.asp
 information.cfm
 information.htm
@@ -14762,6 +14847,7 @@ kat.hl.ee.n
 kat.hl.een
 kat.hle.en
 kat.hlee.n
+kata-gaul
 katalog
 katespadese
 kath.l.e.e.n
@@ -16314,6 +16400,7 @@ maxazria plum
 maxazria_
 maxazria-plum
 maxazriaplum
+maxbet
 maxgriffey
 maxi va
 maxi-va
@@ -16711,6 +16798,8 @@ mes-hormone
 message erotic
 message_
 message-erotic
+message10board
+message20board
 messages erotic
 messages_
 messages-erotic
@@ -19303,6 +19392,7 @@ phone free
 phone gratuit
 phone poker
 phone-advert
+phone-case-cover
 phone-free
 phone-gratuit
 phone-jammer
@@ -19311,6 +19401,7 @@ phone-number-lookup
 phone-poker
 phone-store
 phoneadvert
+phonecasecover
 phoneforsale
 phonefree
 phonegratuit
@@ -19787,7 +19878,9 @@ pornvergin
 pornvid
 pornvirgin
 positively helpful
+positively useful
 positively-helpful
+positively-useful
 possess
 possui zero
 possui-zero
@@ -21460,6 +21553,7 @@ samedayloan
 sample@
 samurai siege
 samurai-siege
+san.diego.realtor
 sandaljp
 sandalsjp
 sanders jers
@@ -21474,6 +21568,10 @@ sáo-trúc
 saotruc
 satchelbag
 satcheldbag
+saudavel perder
+saudável perder
+saudavel-perder
+saudável-perder
 sauvegarde extern
 sauvegarde-extern
 save-you-time
@@ -22242,6 +22340,7 @@ shop-to-you
 shop.asia
 shopboot
 shopcoupon
+shopcustomer
 shopent.ru
 shopent.su
 shoperotic
@@ -24712,6 +24811,8 @@ usinformed
 using simplexml
 using-simplexml
 usingn s
+uslugi grawerskie
+uslugi-grawerskie
 ustanovka kanali
 ustanovka-kanali
 usual discuss
@@ -25515,6 +25616,7 @@ website keep
 website look
 website online
 website page
+website particular
 website post
 website style
 website traff
@@ -25528,6 +25630,7 @@ website-keep
 website-look
 website-online
 website-page
+website-particular
 website-post
 website-style
 website-usa
@@ -26375,6 +26478,7 @@ youtube: how
 youtube:how
 youtubedown
 youtubesens
+youtubetv
 youtubevi
 youtvplay
 youu
@@ -27312,6 +27416,7 @@ zyvox
 сроке службы
 сроке-службы
 сруба
+ссылка
 статей
 стать богатым
 стать-богатым
