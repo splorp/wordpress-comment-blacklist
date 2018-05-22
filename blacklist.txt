@@ -2655,6 +2655,7 @@ _zapat
 /get-free
 /get-professional-
 /get/
+/gg.gg
 /gh0/
 /gh1/
 /glowna.
