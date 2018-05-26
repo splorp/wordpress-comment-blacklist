@@ -906,6 +906,7 @@ _zapat
 -online.
 -online/
 -order-at-
+-oulu
 -outlet.
 -outlet/
 -parafon.
@@ -1463,6 +1464,7 @@ _zapat
 .del-pene-
 .del-pene.
 .del-pene/
+.designertoblog.
 .detophyll-
 .detophyll.
 .detophyll/
@@ -1510,6 +1512,7 @@ _zapat
 .gull.gull
 .hard-
 .hatenablog.
+.hatenadiary.
 .header.us
 .hello-people-
 .hello-people.
@@ -3011,6 +3014,7 @@ _zapat
 /orgasm
 /other-
 /other.
+/oulu
 /outils
 /outlet/
 /ow.ly
@@ -3843,6 +3847,7 @@ _zapat
 1minuts
 1ping
 1purse
+1st comment
 1st-best
 1stbest
 1stop
@@ -4811,6 +4816,7 @@ agent-direct
 agentdenim
 ago|
 âgrâve
+ahaa,
 ahttp
 aint goin
 aint-goin
@@ -5075,6 +5081,7 @@ apex bionic
 apex-bionic
 apexbionic
 apicpreate
+app-journey
 app-nana-code
 app-nana-cydia
 app-nana-hack
@@ -6365,6 +6372,8 @@ blog beast
 blog before
 blog center
 blog centre
+blog diaria
+blog diária
 blog glance
 blog here
 blog layout
@@ -6391,6 +6400,8 @@ blog-beast
 blog-before
 blog-center
 blog-centre
+blog-diaria
+blog-diária
 blog-entry
 blog-glance
 blog-here
@@ -6893,6 +6904,7 @@ bulgari brand
 bulgari bulgari
 bulgari bzero
 bulgari out
+bulgari replica
 bulgari serpent
 bulgari shop
 bulgari store
@@ -6903,6 +6915,7 @@ bulgari-brand
 bulgari-bulgari
 bulgari-bzero
 bulgari-out
+bulgari-replica
 bulgari-serpent
 bulgari-shop
 bulgari-store
@@ -7180,6 +7193,7 @@ bvlgari bzero
 bvlgari jap
 bvlgari jp
 bvlgari out
+bvlgari replica
 bvlgari serpent
 bvlgari shop
 bvlgari store
@@ -7193,6 +7207,7 @@ bvlgari-bzero
 bvlgari-jap
 bvlgari-jp
 bvlgari-out
+bvlgari-replica
 bvlgari-serpent
 bvlgari-shop
 bvlgari-store
@@ -8403,6 +8418,8 @@ clearanceout
 clearancesale
 clearclarif
 clearclear
+cleef replica
+cleef-replica
 clenbuterol
 clentching
 cleveland jersey
@@ -8666,6 +8683,7 @@ coinss
 coinsxbox
 coinvest
 coinxbox
+colastrina
 colin-kaepernick
 collectif abssice
 collectif celine
@@ -8890,6 +8908,8 @@ conficker worm
 conficker-worm
 confira agora
 confira-agora
+conquista baixar
+conquista-baixar
 conquistar blog
 conquistar-blog
 consalt-
@@ -9286,7 +9306,9 @@ dabloggs
 daddy site
 daddy-site
 dafeult
+daftar agen
 daftar harga
+daftar-agen
 daftar-harga
 daikly
 dailly
@@ -10129,6 +10151,7 @@ eema1l
 eemai1
 eemail
 eevance
+eexpense
 efeitos colaterais
 efeitos-colaterais
 effexor
@@ -10531,6 +10554,7 @@ exactly-web
 examjple
 example1.co
 exboyfriend
+excedllent
 exceel
 excelent
 excellent article
@@ -10833,6 +10857,7 @@ fantasticwebsite
 farmacia_
 farmacias
 farming-secret
+farmingforfish
 farmingsecret
 farther high
 farther-high
@@ -11288,6 +11313,7 @@ firma.jsp
 firma.php
 firme sprzata
 firme-sprzata
+firmenadressen
 first loan
 first-class web
 first-class-web
@@ -11451,6 +11477,8 @@ forhandlere
 forinteract
 forjp.co
 forless.co
+forma pra
+forma-pra
 formaldress
 formidable act
 formidable-act
@@ -12140,6 +12168,10 @@ ghdpascher
 ghdstraight
 ghduk
 ghttp
+gia cong
+gia công
+gia-cong
+gia-công
 giant 100%
 giant-100%
 giants-jers
@@ -12297,6 +12329,7 @@ globalknown
 globally known
 globally-known
 globallyknown
+globalmailserver
 globalnpn
 glubokoye glot
 glubokoye-glot
@@ -12388,14 +12421,17 @@ goldseiko
 goldsuppl
 goldtruth
 golf access
+golf experience
 golf out
 golf plaza
 golf-access
+golf-experience
 golf-out
 golf-plaza
 golf-promo
 golf-shop
 golfaccess
+golfexperience
 golfout
 golfplaza
 golfpromo
@@ -12469,6 +12505,7 @@ googlerank
 googleus
 googoozuza
 gooogle
+goose basket
 goose calgary
 goose canada
 goose chill
@@ -12497,6 +12534,7 @@ goose toronto
 goose v
 goose york
 goose youth
+goose-basket
 goose-calgary
 goose-canad
 goose-canada
@@ -13328,6 +13366,9 @@ hithis
 hitmp3
 hjblog
 hleepd
+hm it
+hmm it
+hmmm it
 hndeds
 hngnep
 hnrxkc
@@ -13340,7 +13381,9 @@ hobobag
 hobofuchsia
 hoc sao
 học sáo
+hoc-3d-max
 học-sáo
+hoc3dmax
 hocsao
 hoga out
 hogan disc
@@ -13627,6 +13670,7 @@ hoverglide
 hovershop
 how_do
 how-do-you
+how-they-can
 how-to-buy
 how-to-clean
 how-to-creat
@@ -13727,6 +13771,7 @@ icon/set
 icons/set
 idanmark
 ideea
+idenfify
 ifyou
 ig.o.r
 ihttp
@@ -13830,6 +13875,7 @@ imptortant
 imtmdiae
 in delicious
 in gogle
+in tthe
 in youtube
 in-delicious
 in-disguise
@@ -13967,6 +14013,7 @@ informativepost
 informativesite
 informativeweblog
 informativewebsite
+informztion
 infos-
 infos/
 infusionsoft
@@ -14140,6 +14187,7 @@ internet pag
 internet page
 internet poker
 internet post
+internet reader
 internet savvy
 internet site
 internet view
@@ -14156,6 +14204,7 @@ internet-owe
 internet-page
 internet-poker
 internet-post
+internet-reader
 internet-savvy
 internet-site
 internet-web
@@ -14334,6 +14383,10 @@ istanbul-escort
 istanbulescort
 istnieje oficjalna
 istnieje-oficjalna
+isto blog
+isto weblog
+isto-blog
+isto-weblog
 it duvetica
 it oakley
 it ordeno
@@ -14786,6 +14839,7 @@ joselyn sleeve
 joselyn-sleeve
 joselynsleeve
 journal/item
+journey-startup
 jovial salon
 jovial-salon
 jp-bag
@@ -15000,7 +15054,10 @@ kinoonline
 kinopozitiv
 kinoprog
 kinowinterthur
+kiss casino
+kiss-casino
 kiss-love
+kisscasino
 kisslove
 kit that
 kit-that
@@ -17618,6 +17675,8 @@ my-virus
 my-webb
 my-webpage
 my-wweb
+myanmar-tour
+myanmartour
 mybetor
 mybitcoin
 mybusiness
@@ -18488,6 +18547,7 @@ ones-time
 onestime
 onestrap
 online bag
+online betting
 online cash
 online casino
 online cassino
@@ -18521,6 +18581,7 @@ online shop
 online usa
 online бесплатно
 online-bag
+online-betting
 online-blog
 online-business
 online-cash
@@ -18576,6 +18637,7 @@ online.php
 online.web
 onlinebackup
 onlinebag
+onlinebetting
 onlineblog
 onlinebusiness
 onlinebuy
@@ -18665,7 +18727,9 @@ option-broker
 optionbroker
 options binaire
 options-binaire
+options-info
 options-trad
+optionsinfo
 optionstrad
 opyo0
 or troke
@@ -19148,7 +19212,11 @@ parafongeneric
 parafoninfo
 parafonmuscle
 paragraph he/she
+paragraph here
+paragraph post
 paragraph writ
+paragraph-here
+paragraph-post
 paragraph-writ
 parajumpers
 parasole-online
@@ -20070,6 +20138,8 @@ ppvcamp
 ppvclick
 ppvcpa
 ppvtraff
+pra acabar
+pra-acabar
 prac licencjackich
 prac magisterskich
 prac-licencjackich
@@ -20280,6 +20350,8 @@ pro99
 proactol
 probes-aloka
 probesaloka
+problem appliance
+problem-appliance
 problemowych
 proc opport
 proc-opport
@@ -20857,6 +20929,7 @@ real-xxx
 realestate.co
 realestate.web
 realestate.wordpress
+reallky
 really fruitful
 really seldom
 really-fruitful
@@ -21298,7 +21371,9 @@ rheumatoidarthritis
 rhttp
 rice-cooker
 ricecooker
+rich pickings
 rich woolrich
+rich-pickings
 rich-woolrich
 richwoolrich
 ridding-your-property
@@ -21666,6 +21741,10 @@ samedayloan
 sample@
 samurai siege
 samurai-siege
+san xuat
+sản xuất
+san-xuat
+sản-xuất
 san.diego.realtor
 sandaljp
 sandalsjp
@@ -22046,6 +22125,8 @@ server2016
 server2017
 service now!
 service-now!
+serviced ass
+serviced-ass
 servicedoc
 services/serv
 servicii profes
@@ -22062,6 +22143,8 @@ settings2
 settings3
 settlement cash
 settlement-cash
+seu site
+seu-site
 several opportune
 several-opportune
 sex advice
@@ -23089,6 +23172,8 @@ spyderski
 spysoftware
 spyware
 squidoo.co
+sso much
+sso-much
 ssory
 ssss
 ssylka
@@ -23723,6 +23808,7 @@ teamproshop
 teams-online
 teamshirt
 teamsonline
+teamspeak
 teamtshirt
 teamwork coach
 teamwork-coach
@@ -25197,6 +25283,8 @@ videnciacharme
 videnciagratis
 videnciavidente
 video asphyx
+video buzz
+vidéo buzz
 video concentrate
 video erotic
 video magnif
@@ -25217,6 +25305,8 @@ video xxx
 video youtube
 vidéo youtube
 video-asphyx
+video-buzz
+vidéo-buzz
 video-concentrate
 video-erotic
 video-magnif
@@ -25250,6 +25340,8 @@ videopokie
 videopop
 videoporn
 vidéoporn
+videos buzz
+vidéos buzz
 videos porn
 vidéos porn
 videos rank
@@ -25259,6 +25351,8 @@ videos vue
 vidéos vue
 videos xblog
 videos youtube
+videos-buzz
+vidéos-buzz
 videos-porn
 vidéos-porn
 videos-rank
@@ -26255,6 +26349,7 @@ wp-pad
 wp-phone
 wp-robot
 wpadmin
+wpblog.jp
 wpcontent
 wpimage
 wpinclude
@@ -26538,6 +26633,7 @@ young porn
 young-porn
 youngporn
 your blog
+your bloog
 your budget
 your dick
 your lover
@@ -26554,6 +26650,7 @@ your weblog
 your_
 your-account
 your-blog
+your-bloog
 your-budget
 your-credit
 your-dick
