@@ -679,7 +679,20 @@ _zapat
 -forex-
 -forex.
 -forex/
+-forum.co
+-forum.in
+-forum.pl
+-forum.ro
 -forum.ru
+-forum.su
+-forum.za
+-forums.co
+-forums.in
+-forums.pl
+-forums.ro
+-forums.ru
+-forums.su
+-forums.za
 -fotograf.
 -fotograf/
 -fotografia.
@@ -821,7 +834,13 @@ _zapat
 -marant-
 -marc-jacobs-
 -marcjacobs-
+-market.co
+-market.in
+-market.pl
+-market.ro
 -market.ru
+-market.su
+-market.za
 -mastery.
 -mastery/
 -mbt.
@@ -925,6 +944,7 @@ _zapat
 -picloader.
 -picloader/
 -pictures.
+-plus.co
 -plus.in
 -plus.pl
 -plus.ro
@@ -962,7 +982,13 @@ _zapat
 -programy-
 -programy.
 -programy/
+-progs.co
+-progs.in
+-progs.pl
+-progs.ro
 -progs.ru
+-progs.su
+-progs.za
 -promo-
 -promo.
 -promo/
@@ -993,8 +1019,13 @@ _zapat
 -quitsmoking-
 -quitsmoking.
 -quitsmoking/
+-r.co
+-r.in
+-r.pl
+-r.ro
 -r.ru
 -r.su
+-r.za
 -r4i-
 -rakuten-
 -rakuten.
@@ -1493,13 +1524,13 @@ _zapat
 .filosov-
 .filosov.
 .filosov/
-.forum.
+.fitnell.
 .fr/,
 .fragmenting.us
 .free-blogz.
 .freeblogz.
 .freecam
-.freeforums.org
+.freeforum
 .freeoda.co
 .full-design.
 .games.in
@@ -2054,7 +2085,6 @@ _zapat
 //eee
 //encrypted-
 //escort
-//forum
 //free
 //friend
 //gay
@@ -2639,7 +2669,7 @@ _zapat
 /forex.
 /forex/
 /form.
-/forum/
+/forum0
 /forum1
 /fotka.
 /foto.
@@ -5112,6 +5142,8 @@ appnanahack
 appnanamod
 appnanasync
 appro-chait
+approaching article
+approaching-article
 appyourself
 apr.i.l
 aquarius-compat
@@ -7970,6 +8002,7 @@ cheap virtual
 cheap warrior
 cheap wed
 cheap whole
+cheap wigs
 cheap youth
 cheap_
 cheap-adobe
@@ -8054,6 +8087,7 @@ cheap-warrior
 cheap-web
 cheap-wed
 cheap-whole
+cheap-wigs
 cheap-youth
 cheap+
 cheap<
@@ -8139,6 +8173,7 @@ cheapuk
 cheapwarrior
 cheapweb
 cheapwhole
+cheapwigs
 cheapyouth
 cheat master
 cheat web
@@ -8265,6 +8300,8 @@ chloesunglass
 chloie
 chlorzoxazone
 choice approach
+choice ok,
+choice ok.
 choice top
 choice-approach
 choice-top
@@ -8737,7 +8774,6 @@ com/cheap
 com/css
 com/doc
 com/dress
-com/forum
 com/ftp
 com/htm
 com/include
@@ -11418,6 +11454,7 @@ football_
 football-shirt
 football-tee
 footballshirt
+footballstream
 footballtee
 footdisc
 footmanche
@@ -11527,37 +11564,12 @@ forthcoming-post
 fortnite-free
 forum coach
 forum-coach
-forum?func
-forum.asp
-forum.cfm
-forum.htm
-forum.jsp
-forum.php
 forum.really
 forum.thank
-forum/1/topic
-forum/ftopic
 forum/func
-forum/member
-forum/post
-forum/topic
-forum/user
 forumcoach
-forums?func
-forums.asp
-forums.cfm
-forums.htm
-forums.jsp
-forums.php
 forums.really
 forums.thank
-forums/1/topic
-forums/ftopic
-forums/func
-forums/member
-forums/post
-forums/topic
-forums/user
 forwholesale
 forwindows8
 foryou.co
@@ -12436,6 +12448,7 @@ golfout
 golfplaza
 golfpromo
 golfs
+golfstream
 gomaile.co
 gomi-bet
 gomibet
@@ -12956,6 +12969,7 @@ hairloss-blocker
 hairmodel
 hairremov
 hairstraight
+hairwigs
 halt8cheat
 halt8hack
 hamilton norge
@@ -13021,6 +13035,7 @@ hanging-with-friend
 hangingwithfriend
 haohao
 happybirthday1
+happychristmasimage
 haraka black
 haraka-black
 hard_
@@ -15136,6 +15151,8 @@ kobe_
 kobe-ont
 kobe-shoe
 kobeshoe
+kollagen intensiv
+kollagen-intensiv
 kommissionen tager
 kommissionen-tager
 kompanii
@@ -21457,6 +21474,7 @@ ru-wordpress
 rublacklist
 rug fur
 rug-fur
+rugbystream
 rugfur
 rugs fur
 rugs-fur
@@ -23880,6 +23898,7 @@ tempte.s.t
 tempte.st
 temptes.t
 temptest
+tennisstream
 tenormin
 term dinner
 term loan
@@ -26095,6 +26114,8 @@ wifewith
 wifi jammer
 wifi-jammer
 wifijammer
+wigs human
+wigs-human
 wigsrus
 wihesd
 wii-healthy
@@ -26357,6 +26378,8 @@ wplist
 wprobot
 wpsite
 wpthemegen
+wrinkle lotion
+wrinkle-lotion
 wrinting
 wristband-austr
 wristbands-austr
