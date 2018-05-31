@@ -930,6 +930,8 @@ _zapat
 -outlet/
 -parafon.
 -parafon/
+-party-boat-
+-party-boat/
 -payday-
 -pharmacy-
 -pharmacy.
@@ -1658,6 +1660,7 @@ _zapat
 .org/,
 .org/user
 .outlet.co
+.page4.
 .ph,
 .ph/,
 .ph/?entry.
@@ -3070,6 +3073,7 @@ _zapat
 /parafon-
 /parafon.
 /parafon/
+/party-boat-
 /past.is
 /pharmacy-
 /pharmacy.
@@ -5301,6 +5305,7 @@ articlessub
 articlestag
 articlesub
 articletag
+artiicle
 artikel
 artiklar snart
 artiklar-snart
@@ -6554,6 +6559,10 @@ bodog8
 body erotic
 body-erotic
 bola terpercaya
+bollywood hair
+bollywood moi
+bollywood-hair
+bollywood-moi
 bolsos marc
 bolsos-marc
 bolsosmarc
@@ -9685,6 +9694,7 @@ dieseljp
 dieselonline
 dieseluk
 dieselwatch
+diet detox
 diet pill
 diet plan
 diet review
@@ -9692,6 +9702,7 @@ diet solution
 diet suppl
 diet_
 diet-chart
+diet-detox
 diet-food
 diet-pill
 diet-plan
@@ -9704,7 +9715,9 @@ diet.co
 diet.htm
 diet.jsp
 diet.php
+dieta detox
 dieta sofrida
+dieta-detox
 dieta-sofrida
 dietary status
 dietary-status
@@ -10121,6 +10134,7 @@ dvd-erotic
 dvdrip
 dwi-attorney
 dwiattorney
+dwn.linksind.
 dylongfa
 dynamic genital
 dynamic-genital
@@ -10655,7 +10669,9 @@ expensive-haver
 expensive-vaca
 expensivehaver
 expensivevaca
+experience boat
 experience simply
+experience-boat
 experience-simply
 expert suggestion
 expert-suggestion
@@ -12570,6 +12586,7 @@ goose-paris
 goose-parka
 goose-pas
 goose-retail
+goose-running
 goose-sale
 goose-site
 goose-toronto
@@ -12956,10 +12973,12 @@ hacks1
 hackthesec
 hacktool
 hadheard
+hair transplant
 hair-again
 hair-grow
 hair-remov
 hair-straight
+hair-transplant
 hairagain
 hairgrow
 hairloss block
@@ -15070,10 +15089,13 @@ kinopozitiv
 kinoprog
 kinowinterthur
 kiss casino
+kiss official
 kiss-casino
 kiss-love
+kiss-official
 kisscasino
 kisslove
+kissofficial
 kit that
 kit-that
 kitai
@@ -16779,16 +16801,19 @@ meendo
 mega culo
 mega pezone
 mega provide
+mega sena
 mega teta
 mega tetona
 mega-culo
 mega-pezone
 mega-provide
+mega-sena
 mega-teta
 mega-tetona
 megaculo
 megapezone
 megaprovide
+megasena
 megateta
 megatetona
 meilleur casino
@@ -19694,6 +19719,8 @@ pjure-breast
 pl/wiki
 plaesure
 plagorism
+plain profit
+plain-profit
 plansare
 plarusee
 plastic ambalaje
@@ -21501,6 +21528,7 @@ runescape-million
 runescapegold
 running obuv
 running sneak
+running-femme
 running-obuv
 running-sneak
 runningobuv
@@ -21722,6 +21750,21 @@ sales-inspir
 sales-train
 sales.co.
 sales+
+sales1@
+sales2@
+sales3@
+sales4@
+sales5@
+sales6@
+sales7@
+sales8@
+sales9@
+sales10@
+sales11@
+sales12@
+sales13@
+sales14@
+sales15@
 salesclass
 salesfactor
 saleshop
@@ -23114,6 +23157,8 @@ speedy-product
 speedycash
 spicy bbw
 spicy-bbw
+spider solitaire
+spider-solitaire
 spilivanie derev'yev
 spilivanie derev’yev
 spilivanie derevev
