@@ -98,6 +98,7 @@ See the [license.txt](https://raw.github.com/splorp/wordpress-comment-blacklist/
 
 ## History
 
++ 20180602 — Fixed bug that affected comments containing [exuberant punctuation](https://github.com/splorp/wordpress-comment-blacklist/commit/6d12aefc6d07ccf69b62fb893e203dc53b9a47a6)
 + 20180523 — 28,000 entries
 + 20180410 — 27,000 entries
 + 20180210 — 26,000 entries
