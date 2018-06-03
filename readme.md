@@ -22,7 +22,7 @@ If you prefer a more hands-off approach, there are several plugins that will che
 
 + [Blacklist Updater](https://wordpress.org/plugins/blacklist-updater/) by [Sergej Müller](https://github.com/sergejmueller)
 + [Comment Blacklist Manager](https://wordpress.org/plugins/comment-blacklist-manager/) by [Andrew Norcross](https://github.com/norcross) 
-+ [WordPress Simple Firewall](https://wordpress.org/plugins/wp-simple-firewall/) by [iControlWP](http://www.icontrolwp.com/)
++ [Shield Security for WordPress](https://wordpress.org/plugins/wp-simple-firewall/) by [One Dollar Plugin](https://onedollarplugin.com/)
 
 ## Does It Really Work?
 
@@ -107,6 +107,7 @@ See the [license.txt](https://raw.github.com/splorp/wordpress-comment-blacklist/
 + 20170111 — Fixed bug that affected comments containing the common term “[port](https://github.com/splorp/wordpress-comment-blacklist/commit/2e4b912784ba9ed83c5c64be754948ce0f427f0c)”
 + 20161013 — 23,000 entries
 + 20160518 — 22,000 entries
++ 20160224 — [WordPress Simple Firewall](https://web.archive.org/web/20140528233831/http://wordpress.org/plugins/wp-simple-firewall/) plugin rebranded as [Shield](https://www.icontrolwp.com/blog/shield-wordpress-simple-security-firewall-pro/)
 + 20160123 — 21,000 entries
 + 20150926 — 20,000 entries
 + 20150801 — 19,000 entries
@@ -121,7 +122,7 @@ See the [license.txt](https://raw.github.com/splorp/wordpress-comment-blacklist/
 + 20140826 — 12,000 entries
 + 20140624 — 11,000 entries
 + 20140527 — Added [MIT License](http://opensource.org/licenses/MIT)
-+ 20140527 — [WordPress Simple Firewall](https://wordpress.org/plugins/wp-simple-firewall/) plugin adds “human spam comment filtering” support
++ 20140527 — [WordPress Simple Firewall](https://web.archive.org/web/20140528233831/http://wordpress.org/plugins/wp-simple-firewall/) plugin adds “human spam comment filtering” support
 + 20140508 — 10,000 entries
 + 20140501 — Sergej Müller’s [Blacklist Updater](https://wordpress.org/plugins/blacklist-updater/) plugin released
 + 20140501 — Andrew Norcross’ [Comment Blacklist Manager](https://wordpress.org/plugins/comment-blacklist-manager/) plugin released
