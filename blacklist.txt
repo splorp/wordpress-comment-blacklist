@@ -1867,6 +1867,7 @@ _zapat
 .sensual.
 .sensual/
 .sexy.
+.sg/propert
 .sg/property
 .shop1.
 .simpsite.
@@ -1944,6 +1945,7 @@ _zapat
 .twilight-
 .ua/?
 .ua/thumb
+.unblog.
 .univer.
 .us/user
 .uzblog.
@@ -4932,6 +4934,10 @@ alendronate
 alfalahcoin
 alien-wheel
 alienwheel
+alive cheat
+alive hack
+alive-cheat
+alive-hack
 alkotla
 all ahout
 all craigslist
@@ -5118,6 +5124,10 @@ anyone folk
 anyone supply
 anyone-folk
 anyone-supply
+ao go
+áo gỗ
+ao-go
+áo-gỗ
 ãœ
 apartamentow
 aperfect
@@ -6589,7 +6599,9 @@ bono-casino
 bono-cassino
 bonocasino
 bonocassino
+bons ganhos
 bons resultado
+bons-ganhos
 bons-resultado
 bontril
 bonus casino
@@ -6985,9 +6997,11 @@ bulgarishop
 bulgarisshop
 bulgaristore
 bulk clock
+bulk computer
 bulk email
 bulk mail
 bulk-clock
+bulk-computer
 bulk-email
 bulk-mail
 bulkemail
@@ -8922,6 +8936,8 @@ commercesale
 commercewhole
 comming from
 comming-from
+commission account
+commission-account
 common-redaction
 communal authent
 communal-authent
@@ -8963,6 +8979,8 @@ comunity
 concerning blog
 concerning-blog
 concerpts
+condotel tai
+condotel-tai
 conficker worm
 conficker-worm
 confira agora
@@ -9613,6 +9631,8 @@ derniers-modele
 derniers-modèle
 derniersmodele
 desconto
+descriptive post
+descriptive-post
 design cheap
 design own
 design-cheap
@@ -10110,6 +10130,7 @@ duchess-satin
 duchesssatin
 dude.de
 dudes.de
+dugg some
 dummytest
 dump seller
 dump-seller
@@ -10154,7 +10175,9 @@ dwi-attorney
 dwiattorney
 dwn.linksind.
 dylongfa
+dynamic advertising
 dynamic genital
+dynamic-advertising
 dynamic-genital
 dyubetika
 ðµ
@@ -10173,6 +10196,7 @@ eâcute
 eaglefight.eaglefight
 eairfix
 early-signs-of
+earn $
 earthly lover
 earthly-lover
 ease.in
@@ -10252,6 +10276,8 @@ ejaculationpill
 el-gordo.c
 elamale
 elavil
+electronic advertising
+electronic-advertising
 elementary entry
 elementary-entry
 elite jers
@@ -10873,7 +10899,9 @@ falsedoc
 falsepassport
 familiarity daily
 famous blog
+famous palmist
 famous-blog
+famous-palmist
 fanalert
 fanatic shop
 fanatic-shop
@@ -12847,6 +12875,10 @@ guarantee_
 guarantee-uptime
 guaranteed_
 guaranteed-uptime
+guardian hack
+guardian-hack
+guardians hack
+guardians-hack
 gubdaily
 gucchi
 gucci bag
@@ -13782,7 +13814,9 @@ huge-great
 hugecock
 hugescock
 human site
+human verification
 human-site
+human-verification
 hungurian
 huntingtexas
 huntingtx
@@ -13808,6 +13842,7 @@ hyzaar
 ɦo
 i aam
 i aint
+i dugg
 i http
 i needs
 i-aint
@@ -14483,6 +14518,7 @@ its-fastidious
 its-helped
 itsfastidious
 itstree
+itzshipd
 iwant2
 iwc brand
 iwc-brand
@@ -14803,6 +14839,8 @@ jobs mom
 jobs usa
 jobs-mom
 jobs-usa
+jogar loteria
+jogar-loteria
 jogging jord
 jogging-jord
 joggingjord
@@ -15993,16 +16031,22 @@ lot-its
 loteprednol
 loteria download
 loteria expert
+loteria pela
 loteria pro
 loteria-download
 loteria-expert
+loteria-pela
 loteria-pro
 loteriaexpert
 loteriapro
+loterias pela
+loterias-pela
 lottery expert
+lottery kerala
 lottery pro
 lottery strateg
 lottery-expert
+lottery-kerala
 lottery-pro
 lottery-singapore
 lottery-strateg
@@ -18310,6 +18354,10 @@ nouveau-maillot
 nouveaumaillot
 nouvelles sneaker
 nouvelles-sneaker
+nova colecao
+nova coleção
+nova-colecao
+nova-coleção
 novinki_
 now now
 now-now
@@ -21112,6 +21160,8 @@ reegzniocd
 reeview
 referencement
 référencement
+referral king
+referral-king
 refire cert
 refire-cert
 refluks
@@ -21839,8 +21889,12 @@ samedayloan
 sample@
 samurai siege
 samurai-siege
+san pham
+sản phẩm
 san xuat
 sản xuất
+san-pham
+sản-phẩm
 san-xuat
 sản-xuất
 san.diego.realtor
@@ -23016,9 +23070,12 @@ snoring-expert
 snoring-mouth
 snoringexpert
 snoringmouth
+sobre tiara
+sobre-tiara
 social butler
 social buzz
 social marketing
+social website
 social_media
 social-bookmark
 social-butler
@@ -23027,6 +23084,7 @@ social-marketing
 social-media-manage
 social-network-site
 social-networking-site
+social-website
 socialbookmark
 socialbutler
 socialbuzz
@@ -23772,6 +23830,7 @@ tabak tanzh
 tabak-fumar
 tabak-tanzh
 tabaki
+tabalong
 tabletki odchudz
 tabletki-odchudz
 tabletz
@@ -24047,6 +24106,9 @@ thatrapid
 thats need
 thats-need
 thatthe
+thc review
+thc-review
+thcreview
 the blog,
 the carfiac
 the notify
@@ -24201,6 +24263,8 @@ thus where
 thus-where
 thyromine
 tɦ
+tiara infant
+tiara-infant
 tienda barata
 tienda barato
 tienda futbol
@@ -24529,7 +24593,9 @@ tracking-a-phone
 tradaoquan
 trade_your
 trading-method
+traffic bot
 traffic_
+traffic-bot
 trafficvance
 trafficz
 trailer sale
@@ -25027,10 +25093,12 @@ unlim pay
 unlim-pay
 unlimited autopost
 unlimited content
+unlimited crystal
 unlimited multilang
 unlimited pay
 unlimited-autopost
 unlimited-content
+unlimited-crystal
 unlimited-multilang
 unlimited-pay
 unlimitedautopost
@@ -25860,6 +25928,7 @@ web invent:
 web optim
 web owner
 web page;
+web page:
 web people
 web pharm
 web promo
@@ -25953,6 +26022,7 @@ website online
 website page
 website particular
 website post
+website provide
 website style
 website traff
 website usa
@@ -25967,6 +26037,7 @@ website-online
 website-page
 website-particular
 website-post
+website-provide
 website-style
 website-usa
 website-visit
@@ -25983,9 +26054,11 @@ websitepost
 websiterecord
 websites design
 websites online
+websites provide
 websites visit
 websites-design
 websites-online
+websites-provide
 websites-visit
 websitesdesign
 websitesonline
