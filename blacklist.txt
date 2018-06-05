@@ -3265,6 +3265,7 @@ _zapat
 /sluts-
 /sluts.
 /sluts/
+/smarturl.it
 /smsh.me
 /sn.im
 /snapback-

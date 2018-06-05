@@ -33,6 +33,7 @@
 /qoo.by
 /rlu.ru
 /shorte.st
+/smarturl.it
 /smsh.me
 /sn.im
 /snipurl.co
