@@ -2746,6 +2746,7 @@ _zapat
 /howto.
 /html/
 /http
+/hyperurl.co
 /hyundai.
 /iapple-
 /iapple.
