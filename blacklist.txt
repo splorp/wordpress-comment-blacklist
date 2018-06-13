@@ -1404,6 +1404,7 @@ _zapat
 .bdsm.
 .bdsm/
 .be/,
+.beam.beam
 .bioactive
 .bisnis-
 .bisnis.
@@ -1459,6 +1460,7 @@ _zapat
 .clit.
 .clit/
 .coach-
+.com illegal
 .com wild
 .com,
 .com/,
@@ -3818,9 +3820,11 @@ _zapat
 ¥ó
 ¥ö
 €†
+0 casino
 00 pips
 00 preparing
 00 virtual
+0-casino
 0-easy-way
 0-generic
 00-pips
@@ -3855,7 +3859,9 @@ _zapat
 00us
 00折
 ００歳
+1 casino
 1-1.
+1-casino
 1-easy-way
 1-generic
 1-the-best
@@ -3876,6 +3882,7 @@ _zapat
 1big
 1bodog
 1c.in
+1casino
 1cigar
 1generic
 1hand
@@ -3895,7 +3902,9 @@ _zapat
 1title
 1to1
 1you
+2 casino
 2-buy
+2-casino
 2-easy-way
 2-generic
 2-global
@@ -3917,6 +3926,7 @@ _zapat
 2bj.ru
 2buy
 2c.in
+2casino
 2cigar
 2generic
 2global
@@ -3934,6 +3944,8 @@ _zapat
 2title
 2u.org
 2you
+3 casino
+3-casino
 3-easy-way
 3-generic
 3-the-best
@@ -3943,6 +3955,7 @@ _zapat
 3@2
 3@3
 3@seo
+3casino
 3cigar
 3d моделе
 3d-моделе
@@ -3958,9 +3971,11 @@ _zapat
 3the best
 3the-best
 3title
+3win8
 3ww3
 3you
 4 cash
+4 casino
 4 cheap
 4 ever
 4 fire
@@ -3972,6 +3987,7 @@ _zapat
 4 test
 4-all
 4-cash
+4-casino
 4-cheap
 4-easy-way
 4-ever
@@ -3995,6 +4011,7 @@ _zapat
 4.@
 4all
 4cash
+4casino
 4cheap
 4cigar
 4coin
@@ -4028,10 +4045,13 @@ _zapat
 4u.su
 4u.za
 4you
+5 casino
+5-casino
 5-easy-way
 5-generic
 5-the-best
 5.@
+5casino
 5cigar
 5generic
 5hand
@@ -4042,40 +4062,52 @@ _zapat
 5test
 5the best
 5the-best
+6 casino
+6-casino
 6-easy-way
 6-generic
 6-the-best
 6.@
+6casino
 6cigar
 6generic
 6hand
 6purse
 6the best
 6the-best
+7 casino
+7-casino
 7-easy-way
 7-generic
 7-the-best
 7.@
+7casino
 7cigar
 7generic
 7hand
 7purse
 7the best
 7the-best
+8 casino
+8-casino
 8-easy-way
 8-generic
 8-the-best
 8.@
+8casino
 8cigar
 8generic
 8hand
 8purse
 8the best
 8the-best
+9 casino
+9-casino
 9-easy-way
 9-generic
 9-the-best
 9.@
+9casino
 9cigar
 9generic
 9the best
@@ -5035,6 +5067,9 @@ analplug
 analsex
 analysis sport
 analysis-sport
+anchor0
+anchor1
+anchor2
 and bye.
 and shate
 and-shate
@@ -5517,6 +5552,8 @@ automaticpay
 autopost unlimit
 autopost-unlimit
 autopostunlimit
+autos-sales
+autossales
 autre artic
 autre-artic
 autres equip
@@ -5935,12 +5972,15 @@ basket-jord
 basket-mbt
 basket-shoe
 basketball jord
+basketball stream
 basketball word
 basketball-jord
 basketball-shoe
+basketball-stream
 basketball-word
 basketballjord
 basketballshoe
+basketballstream
 basketballword
 basketchanel
 basketisabel
@@ -6445,6 +6485,8 @@ blog occasion
 blog platform
 blog post
 blog quite
+blog sante
+blog santé
 blog site
 blog soon
 blog struct
@@ -6474,6 +6516,8 @@ blog-occasion
 blog-platform
 blog-post
 blog-quite
+blog-sante
+blog-santé
 blog-site
 blog-soon
 blog-struc
@@ -8245,6 +8289,8 @@ cheatsfor
 cheatss
 checed in
 checed-in
+check-out out
+check-out-out
 check.asp
 check32attack
 cheeerd
@@ -9028,6 +9074,8 @@ contactus/contact
 content material
 content-downloader
 content-material
+continue assim
+continue-assim
 contoh plakat
 contoh-plakat
 contohplakat
@@ -9184,9 +9232,11 @@ couples-watches
 couplesgratuit
 coupleswatches
 couplewatches
+coupon discount
 coupon sense
 coupon_
 coupon-code
+coupon-discount
 coupon-pag
 coupon-sense
 coupon.bl
@@ -9480,8 +9530,10 @@ datatogel
 dataz
 date class
 date netflix
+date website
 date-class
 date-netflix
+date-website
 dating casual
 dating class
 dating date
@@ -10204,6 +10256,7 @@ e http
 e-biz
 e-cig
 e-evance
+e-korting
 é-premium
 e.@
 e2by.in
@@ -10288,6 +10341,7 @@ ejaculation-pill
 ejaculationhelp
 ejaculationpharm
 ejaculationpill
+ekorting
 el-gordo.c
 elamale
 elavil
@@ -10419,6 +10473,8 @@ entreprenuer
 entry_
 entrykey
 entryview
+environmentally acute
+environmentally-acute
 envisionforce
 eomarketplace
 eonline.pl
@@ -11159,6 +11215,7 @@ fb gold
 fb like
 fb money
 fb sales
+fb stream
 fb traff
 fb-ads
 fb-cash
@@ -11167,6 +11224,7 @@ fb-gold
 fb-like
 fb-money
 fb-sales
+fb-stream
 fb-traff
 fbads
 fbcash
@@ -11175,6 +11233,7 @@ fbgold
 fblike
 fbmoney
 fbsales
+fbstream
 fbtraff
 fckt
 fcukfcuk
@@ -11529,9 +11588,11 @@ foot-insole
 foot-manche
 foot-nike
 football shirt
+football stream
 football tee
 football_
 football-shirt
+football-stream
 football-tee
 footballshirt
 footballstream
@@ -11711,6 +11772,7 @@ free proxy
 free real
 free simple
 free strategy
+free super
 free visit
 free weblog
 free website
@@ -11750,6 +11812,7 @@ free-real
 free-serv
 free-simple
 free-strategy
+free-super
 free-weblog
 free-website
 free-xxx
@@ -11793,6 +11856,7 @@ freesalg
 freeserv
 freesimcard
 freeslotmachine
+freesuper
 freevid
 freeweblog
 freewebsite
@@ -12538,6 +12602,8 @@ golfstream
 gomaile.co
 gomi-bet
 gomibet
+gonna review
+gonna-review
 good article
 good blog
 good click
@@ -13020,6 +13086,7 @@ hack cydia
 hack face
 hack fb
 hack generator
+hack glitch
 hack online
 hack tool
 hack_
@@ -13027,6 +13094,7 @@ hack-cydia
 hack-face
 hack-fb
 hack-generator
+hack-glitch
 hack-online
 hack-pass
 hack-the-sec
@@ -13843,6 +13911,7 @@ huperzine
 hyclate
 hydraulik-
 hydrocodone
+hydroponicsys
 hydrotherapy
 hydroxatone
 hydroxy
@@ -14292,6 +14361,7 @@ interferende
 internet article
 internet blog
 internet gambl
+internet leitor
 internet lifestyle
 internet link
 internet lookup
@@ -14309,6 +14379,7 @@ internet_
 internet-article
 internet-blog
 internet-gambl
+internet-leitor
 internet-lifestyle
 internet-link
 internet-lookup
@@ -14997,6 +15068,8 @@ juniors-kid
 just wanna
 just-wanna
 justcloud
+justificar prova
+justificar-prova
 justness
 k http
 k--k.
@@ -15362,6 +15435,9 @@ korspurse
 korsstraw
 korstote
 korswatch
+kortings code
+kortings-code
+kortingscode
 kosmetyc
 kosmetyki
 kosze
@@ -15628,10 +15704,12 @@ legit drug
 legit graph
 legit pharm
 legit script
+legit way
 legit-drug
 legit-graph
 legit-pharm
 legit-script
+legit-way
 legitdrug
 legitgraph
 legitimate drug
@@ -16312,6 +16390,8 @@ mackagejack
 maclipgloss
 macmakeup
 macmascara
+made hydroponic
+made-hydroponic
 made-milf
 madeknown
 mademilf
@@ -16404,6 +16484,8 @@ mainslancel
 maintain prevent
 maintain-prevent
 maintainprevent
+mais acessando
+mais-acessando
 majesticriver
 make blogging
 make csgo
@@ -17283,9 +17365,11 @@ mmcenter.in
 mmy page
 mobi/news
 mobilabonnementer
+mobile hack
 mobile porn
 mobile sim
 mobile xxx
+mobile-hack
 mobile-phone
 mobile-porn
 mobile-xxx
@@ -17806,6 +17890,7 @@ my-cryptocurrency
 my-fashion
 my-hermes
 my-homepage
+my-most-favorited
 my-my
 my-new-ip
 my-online
@@ -20207,6 +20292,7 @@ possess
 possui zero
 possui-zero
 post extreme
+post fully
 post post
 post truly
 post_
@@ -20221,6 +20307,7 @@ post.pw
 post.really
 post.thank
 postcarf
+postfully
 posting comment
 posting-comment
 posting!
@@ -20741,6 +20828,8 @@ psychclinic
 psychedelic parent
 psychedelic-parent
 psychedelicparent
+pubg mobile
+pubg-mobile
 public fuck
 public sex
 public-fuck
@@ -21182,6 +21271,7 @@ reebok-baseball
 reebok-ital
 reebok-scarpe
 reebok-zig
+reebokinstapump
 reebokital
 reebokscarpe
 reebokzig
@@ -21197,6 +21287,10 @@ refluks
 reflux symptom
 reflux-symptom
 refluxsymptom
+reforme-ta-sante
+réforme-ta-santé
+reformetasante
+réformetasanté
 reg_
 regarding blog
 regarding thiss
@@ -21308,6 +21402,9 @@ rent_in
 rent-car
 rentinsur
 reockn
+repair virgin
+repair-virgin
+repairvirgin
 reparatii-masini-spa
 repeated galdi
 repeated-galdi
@@ -21449,6 +21546,8 @@ reseaux sociaux
 réseaux sociaux
 reseaux-sociaux
 réseaux-sociaux
+residence hobby
+residence-hobby
 resist comment
 resist-comment
 resources/styles
@@ -21618,6 +21717,8 @@ ru-wordpress
 rublacklist
 rug fur
 rug-fur
+rugby stream
+rugby-stream
 rugbystream
 rugfur
 rugs fur
@@ -22843,6 +22944,8 @@ silverjewel
 silversuite
 sim-only
 simonly
+simplesmente online
+simplesmente-online
 simplexml you
 simplexml-you
 simply extremely
@@ -23255,6 +23358,7 @@ spam link
 spam remark
 spam respon
 spam-link
+spam-phone
 spam-remark
 spam-respon
 spamlink
@@ -23263,6 +23367,7 @@ spammer spam
 spammer-link
 spammer-spam
 spammerlink
+spamphone
 spamrespon
 sparkle ugg
 sparkle-ugg
@@ -23318,13 +23423,17 @@ sponsoring-secret
 sponsoringsecret
 sport interaction
 sport tronch
+sport workforce
 sport-analysis.
 sport-interaction
 sport-tronch
+sport-workforce
 sportbikepart
 sportbook
 sportivo_
+sports workforce
 sports-analysis.
+sports-workforce
 sportsbet
 sportsbook
 sportsfanshop
@@ -23525,9 +23634,18 @@ strategii-binarny
 strategy-for
 stratificat.
 strattera
+stream-football
+stream-nfl
+stream-rugby
+stream/football
+stream/nfl
+stream/rugby
 stream2watch
+streamfootball
 streaming site
 streaming-site
+streamnfl
+streamrugby
 street-saw
 streetsaw
 strength harmony
@@ -23538,6 +23656,8 @@ strickjack
 stride jack
 stride-jack
 stridejack
+strikeout football
+strikeout-football
 stripper newcastle
 stripper-newcastle
 strippers newcastle
@@ -23979,8 +24099,10 @@ tatuagen-feminina
 tatuagens feminina
 tatuagens_
 tatuagens-feminina
+tax ideas
 tax-book
 tax-debt
+tax-ideas
 taxbook
 taxdebt
 taylormade_
@@ -24082,6 +24204,8 @@ term-dinner
 term-loan
 terminaly
 termopane
+terrific blog
+terrific-blog
 test post
 test-post
 test.ca
@@ -24416,6 +24540,7 @@ tinnitus-tin
 tinnitustin
 tinytowtimmy.co
 tion?i
+tip#1
 tipblog
 tips unlimited
 tips-for-
@@ -25363,6 +25488,8 @@ vegas social
 vegas-hotel
 vegas-show
 vegas-social
+veja mais
+veja-mais
 vendida separadamente
 vendida-separadamente
 vendita
@@ -25643,8 +25770,10 @@ vintovoy-nas
 vintovyye nas
 vintovyye-nas
 vip девочк
+vip-box
 vip-league
 vip-девочк
+vipbox
 vipgirl
 vipleague
 viral adremus
@@ -25974,6 +26103,7 @@ web pharm
 web promo
 web scheme
 web sie
+web site;
 web site's
 web site’s
 web sitte
@@ -26056,6 +26186,7 @@ webshop/image
 websiite
 websit was
 websit-was
+website ...
 website daily
 website everyday
 website keep
@@ -26084,9 +26215,11 @@ website-style
 website-usa
 website-visit
 website-we
+website;
 website; this
 website!
 website..
+website...
 website.keep
 website}
 website1
@@ -26308,6 +26441,10 @@ widespread-prescription
 widespread-sorts
 widget_
 widyaw
+wiecej tutaj
+więcej tutaj
+wiecej-tutaj
+więcej-tutaj
 wife-tube
 wifetube
 wifewith
@@ -26742,6 +26879,7 @@ xx.su
 xx.za
 xxx addict
 xxx best
+xxx forum
 xxx free
 xxx fuck
 xxx gay
@@ -26755,6 +26893,7 @@ xxx vid
 xxx_
 xxx-addict
 xxx-best
+xxx-forum
 xxx-free
 xxx-fuck
 xxx-gay
@@ -26768,6 +26907,7 @@ xxx-vid
 xxx.
 xxxaddict
 xxxbest
+xxxforum
 xxxfree
 xxxfuck
 xxxgay
@@ -27165,6 +27305,10 @@ złote
 zmedicin
 zmir escort
 zmir-escort
+zobacz wiecej
+zobacz więcej
+zobacz-wiecej
+zobacz-więcej
 zoe boot
 zoe-boot
 zoidstore
