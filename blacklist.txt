@@ -994,6 +994,9 @@ _zapat
 -promo-
 -promo.
 -promo/
+-promocional-
+-promocional.
+-promocional/
 -promotions-
 -promotions.
 -promotions/
@@ -1737,6 +1740,9 @@ _zapat
 .ppsspp/
 .press-release.
 .pressrelease.
+.promocional-
+.promocional.
+.promocional/
 .property-sales-
 .property-sales.
 .property-sales/
@@ -3140,6 +3146,9 @@ _zapat
 /profile.
 /profile/
 /prolist
+/promocional-
+/promocional.
+/promocional/
 /property-
 /property-sales-
 /property-sales.
@@ -7401,6 +7410,7 @@ calitate super
 calitate-super
 call futurity
 call-futurity
+callerid
 callgirl
 calorias leva
 calorias-leva
@@ -8762,12 +8772,15 @@ coatout
 coats out
 coats-out
 coatsout
+code coupon
 code generat
 code promo
 code xbox
+code-coupon
 code-generat
 code-promo
 code-xbox
+codecoupon
 codegenerat
 codepromo
 codes amazon
@@ -8782,6 +8795,9 @@ codesgenerat
 codespromo
 codesxbox
 codexbox
+codigo descuento
+codigo-descuento
+codigodescuento
 coffee erectile
 coffee-erectile
 cohttp
@@ -9906,6 +9922,7 @@ discount nhl
 discount north
 discount reebok
 discount ugg
+discount voucher
 discount_
 discount-
 discount-afl
@@ -9916,6 +9933,7 @@ discount-mbt
 discount-north
 discount-reebok
 discount-ugg
+discount-voucher
 discount-wheel
 discount.co
 discount.co.
@@ -11240,6 +11258,8 @@ favourite-earphone
 favourite-justif
 favourite-weblog
 favourite-website
+fazer tiara
+fazer-tiara
 fb ads
 fb cash
 fb fans
@@ -11796,6 +11816,7 @@ free download
 free gay
 free internation
 free laranita
+free mobile
 free online
 free pokecoin
 free poker
@@ -11830,6 +11851,7 @@ free-iphone
 free-ipod
 free-laranita
 free-m4a
+free-mobile
 free-mods
 free-movie
 free-mp3
@@ -12809,6 +12831,7 @@ goosetoronto
 goosevest
 gooseyork
 gooseyouth
+goping to
 gorgeous escort
 gorgeous-escort
 gorgeousescort
@@ -14334,6 +14357,8 @@ instagram-follower
 instagram-in
 install virtual
 install-virtual
+installation bang
+installation-bang
 installment loan
 installment-loan
 installmentloan
@@ -14460,6 +14485,7 @@ internetweb
 internetwriters
 intersting
 intifmaroon
+introkduce
 invest-money
 invest-off
 invest.in
@@ -14597,6 +14623,7 @@ irresistible website
 irresistible-blog
 irresistible-weblog
 irresistible-website
+is goping
 is seo
 is thhe
 is-now-available
@@ -15984,6 +16011,7 @@ littlegod
 live odds
 live-article
 live-odds
+live22
 livearticle
 livebox live
 livebox-live
@@ -16577,6 +16605,7 @@ making provider
 making-money
 making-provider
 makingmoney
+makke sure
 maklare
 malaysia casino
 malaysia-casino
@@ -18577,6 +18606,8 @@ nudevid
 nudewallpaper
 nuestra-tienda
 nufactur
+number service
+number-service
 numerous numer
 numerous-numer
 numerousnumer
@@ -20816,6 +20847,7 @@ promo shop
 promo store
 promo sys
 promo team
+promo voucher
 promo-art
 promo-artist
 promo-bag
@@ -20823,6 +20855,7 @@ promo-shop
 promo-store
 promo-sys
 promo-team
+promo-voucher
 promo+
 promoart
 promobag
@@ -20849,9 +20882,11 @@ promotion-team
 promotional bag
 promotional shop
 promotional store
+promotional voucher
 promotional-bag
 promotional-shop
 promotional-store
+promotional-voucher
 promotionalbag
 promotionalshop
 promotionalstore
@@ -20959,10 +20994,12 @@ pumasverige
 purchase generic
 purchase guilt
 purchase pitch
+purchase privilege
 purchase tiffany
 purchase-generic
 purchase-guilt
 purchase-pitch
+purchase-privilege
 purchase-tiffany
 purchasegeneric
 purchases pitch
@@ -21609,6 +21646,7 @@ reports.jsp
 reports.php
 requests swiftly
 requests-swiftly
+reqwuire
 rescator
 reseaux sociaux
 réseaux sociaux
@@ -21715,6 +21753,8 @@ right blog
 right-blog
 rightblog
 rilopkais.in
+rimedi natural
+rimedi-natural
 rin.in
 riot points
 riot-points
@@ -22525,6 +22565,7 @@ sex search
 sex sex
 sex shop
 sex show
+sex swing
 sex tape
 sex teen
 sex toy
@@ -22553,6 +22594,7 @@ sex-search
 sex-sex
 sex-shop
 sex-show
+sex-swing
 sex-tape
 sex-teen
 sex-toy
@@ -22592,6 +22634,7 @@ sexsearch
 sexsex
 sexshop
 sexshow
+sexswing
 sextape
 sexteen
 sextoy
@@ -24466,6 +24509,7 @@ thomasfat
 thomassabosale
 thomassabouk
 thomassabous
+thos article
 thoughtful shop
 thoughtful-shop
 thoughtfulshop
@@ -24504,7 +24548,11 @@ thus-where
 thyromine
 tɦ
 tiara infant
+tiara passo
 tiara-infant
+tiara-passo
+tiaras passo
+tiaras-passo
 tienda barata
 tienda barato
 tienda futbol
@@ -25493,6 +25541,7 @@ valuable opt-in
 valuable website
 valuable-opt-in
 valuable-website
+valuavle
 valuble
 value blog
 value comment
@@ -26302,6 +26351,8 @@ website!
 website..
 website...
 website.keep
+website's post
+website’s post
 website}
 website1
 websitelook
@@ -26310,6 +26361,7 @@ websitepost
 websiterecord
 websites design
 websites online
+websites post
 websites provide
 websites visit
 websites-design
