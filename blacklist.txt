@@ -1626,6 +1626,7 @@ _zapat
 .louboutin-
 .m88-
 .magix.net
+.magnoto.
 .marant-
 .marvsz.
 .mee.nu
@@ -1887,6 +1888,7 @@ _zapat
 .soft-ware-
 .soft-ware.
 .soft-ware/
+.spruz.
 .su,
 .su/,
 .su/?entry.
@@ -5261,6 +5263,7 @@ armanicloth
 armanicost
 armaniqq
 armanito
+armoredtroop
 aroma paradise
 aroma-paradise
 aromaparadise
@@ -5557,8 +5560,10 @@ authenticugg
 authored subject
 authored-subject
 auto brand
+auto-approve-list
 auto-brand
 auto.brand
+autoapprove
 autobrand
 autoclinics.co.
 autocom
@@ -6146,6 +6151,11 @@ bengals-merch
 bengals-store
 bengalsmerch
 bengalsstore
+benh nam
+bệnh nam
+benh-nam
+bệnh-nam
+benhnam
 benzo generat
 benzo-generat
 benzoclin
@@ -6645,6 +6655,7 @@ bobetlink
 bodog8
 body erotic
 body-erotic
+bodyhn
 bola terpercaya
 bollywood hair
 bollywood moi
@@ -9033,8 +9044,10 @@ community.atom
 commutee
 como facebook
 como ganhar
+como trabalhar
 como-facebook
 como-ganhar
+como-trabalhar
 como-utilizar
 company coach
 company ppc
@@ -10136,6 +10149,8 @@ dragon avail
 dragon-avail
 dragons avail
 dragons-avail
+drama korea
+drama-korea
 drayvera
 dre beat
 dre cheap
@@ -10716,6 +10731,7 @@ estate-whether
 estatepro
 este despesa
 este-despesa
+este-documento
 estedespesa
 esthetic-master
 estheticmaster
@@ -11198,6 +11214,7 @@ fastidiousweb
 fastloan
 fastmoney
 fastquick
+fasttraffic
 fat loss
 fat quite
 fat-burn
@@ -11635,6 +11652,12 @@ fluconazole
 fluoxetine
 fluticasone
 fobur.in
+fodbold trojer
+fodbold trøjer
+fodbold-trojer
+fodbold-trøjer
+fodboldtrojer
+fodboldtrøjer
 foglio prada
 foglio-prada
 foglioprada
@@ -11836,6 +11859,7 @@ free gay
 free internation
 free laranita
 free mobile
+free money:
 free number
 free online
 free pokecoin
@@ -11895,6 +11919,7 @@ free-website
 free-xxx
 free.in
 freearticle
+freeauto
 freebbs
 freebid
 freebrows
@@ -13626,6 +13651,8 @@ highprofile
 highprotein
 him delivery
 him-delivery
+hindi pdf
+hindi-pdf
 hingenieur
 hisslipper
 hit mp3
@@ -14717,6 +14744,7 @@ iwant2
 iwc brand
 iwc-brand
 iwcbrand
+izatrend
 iρ
 iг
 iԁ
@@ -15459,6 +15487,8 @@ kopfhoerer
 kopia-zapasowa
 kor out
 kor-out
+korea streaming
+korea-streaming
 korout
 kors austr
 kors baby
@@ -15587,6 +15617,7 @@ l http
 l.@
 l.uk.e.w.a.rm
 la pillule
+la-mentira
 la-pillule
 laarzen kopen
 laarzen schoen
@@ -17727,6 +17758,7 @@ money-prim
 money-robot
 money-site
 money-with
+money: grab
 money.asp
 money.cfm
 money.htm
@@ -18098,15 +18130,22 @@ naked.top
 nakedsex
 nakedteen
 naltrexone
+nam khoa
 nam nu
 nam nữ
+nam-khoa
 nam-nu
 nam-nữ
 namacalnie zalega
 namacalnie-zalega
 name-brand
+namkhoa
 nanas-hack
 nanashack
+nang mui
+nâng mũi
+nang-mui
+nâng-mũi
 nanogold
 naproxen
 nashivki leibly
@@ -19155,6 +19194,7 @@ our-blogroll
 our-link
 ourlink
 out assim
+out soime
 out-assim
 outelt
 outilclient
@@ -19413,6 +19453,7 @@ painless glad
 painless-glad
 painrelief.
 paintedfor
+paketbody
 palavras-chave:
 palavraschave:
 pallet display
@@ -20059,6 +20100,7 @@ plastic-casolete
 plasticambalaje
 plasticcaserole
 plasticcasolete
+plastickit
 plated watch
 plated-watch
 plavix
@@ -21466,6 +21508,8 @@ reguliatory
 reirect
 rejersey.co
 rejersey.net
+rejuvenated web
+rejuvenated-web
 rekla.
 reklamowe
 rekreacja
@@ -23404,6 +23448,7 @@ software.za
 softwarehouse
 softwaresecret
 sohbet
+soime addition
 sold-out
 solde botte
 solde canad
@@ -24924,6 +24969,7 @@ trading-method
 traffic bot
 traffic_
 traffic-bot
+trafficbot
 trafficvance
 trafficz
 trailer sale
@@ -28359,6 +28405,8 @@ zyvox
 เครดิตฟรี
 เช่าโต๊ะ
 ต่างหู
+รับจัดดอ
+รับจำนอง
 สถานที่ จัดงานแต่งงาน
 สถานที่-จัดงานแต่งงาน
 สูตรบาคาร่า
