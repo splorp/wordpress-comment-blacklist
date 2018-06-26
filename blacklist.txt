@@ -1364,6 +1364,7 @@ _zapat
 ?utm_term=
 ?view
 ?youtube
+. ?i
 .-0
 .-1
 ..a
@@ -1462,6 +1463,10 @@ _zapat
 .clit-
 .clit.
 .clit/
+.club/astrol
+.club/date
+.club/femme
+.club/homme
 .coach-
 .com illegal
 .com wild
@@ -1888,6 +1893,10 @@ _zapat
 .soft-ware-
 .soft-ware.
 .soft-ware/
+.space/astrol
+.space/date
+.space/femme
+.space/homme
 .spruz.
 .su,
 .su/,
@@ -2055,6 +2064,7 @@ _zapat
 @toke.
 @www.
 @xyz.net
+@yahoo.a.
 *@
 / http
 /_t
@@ -4278,6 +4288,8 @@ _zapat
 365.ru
 365.su
 365.za
+365bet
+368bet
 404.asp
 404.cfm
 404.htm
@@ -4928,6 +4940,7 @@ air max
 air-jord
 air-max
 air-yeezy
+airbet
 airjord
 airmaix
 airmax
@@ -5312,6 +5325,7 @@ article rewriter
 article snatch
 article sub
 article tag
+article writing
 article-buzz
 article-complet
 article-content
@@ -5326,6 +5340,7 @@ article-rewriter
 article-snatch
 article-sub
 article-tag
+article-writing
 article,i
 article!
 article.asp
@@ -6169,6 +6184,10 @@ belstaffout
 belt replica
 belt-replica
 beltreplica
+benefit coupon
+benefit-coupon
+benefits coupon
+benefits-coupon
 bengals merch
 bengals store
 bengals-merch
@@ -6683,6 +6702,7 @@ bodog8
 body erotic
 body-erotic
 bodyhn
+bokserki
 bola terpercaya
 bollywood hair
 bollywood moi
@@ -7517,6 +7537,7 @@ camisetashollis
 camisetaspolo
 campervanhire
 can-help-you
+can?t
 canada drug
 canada hgh
 canada loan
@@ -9073,9 +9094,11 @@ community.atom
 commutee
 como facebook
 como ganhar
+como maquiar
 como trabalhar
 como-facebook
 como-ganhar
+como-maquiar
 como-trabalhar
 como-utilizar
 company coach
@@ -9412,6 +9435,8 @@ cription.asp
 cristmas-
 critically article
 critically-article
+criticamente post
+criticamente-post
 cross tattoo
 cross-tattoo
 crossof
@@ -9547,8 +9572,10 @@ daddy-site
 dafeult
 daftar agen
 daftar harga
+daftar poker
 daftar-agen
 daftar-harga
+daftar-poker
 daikly
 dailly
 daily bloglist
@@ -9752,6 +9779,7 @@ demo6
 demo7
 demo8
 demo9
+demolicao-shop
 demoniakk
 démoniakk
 demontag
@@ -10290,6 +10318,8 @@ dsquareduomo
 dtech affiliate
 dtech-affiliate
 dtechaffiliate
+du lịch
+du-lịch
 dubai-princess
 dubturbo
 duc nam
@@ -10305,6 +10335,7 @@ duchesssatin
 dude.de
 dudes.de
 dugg some
+dulichtuxu
 dummytest
 dump seller
 dump-seller
@@ -10368,6 +10399,8 @@ e-korting
 e.@
 e2by.in
 eâcute
+eagerly wiggling
+eagerly-wiggling
 eaglefight.eaglefight
 eairfix
 early-signs-of
@@ -11466,6 +11499,7 @@ ff17-store
 ff17shop
 ff17store
 ffor example
+ffor this
 fg xpress
 fg-xpress
 fgxpress
@@ -11498,9 +11532,11 @@ files/new
 filestube
 film erotic
 film porn
+film semi
 film x
 film-erotic
 film-porn
+film-semi
 film-x
 filmerotic
 filmizle
@@ -11509,6 +11545,7 @@ films porn
 films x
 films-porn
 films-x
+filmsemi
 filmsporn
 filpan.in
 filpan.pl
@@ -11703,11 +11740,22 @@ following-ranking
 foncier assurance
 foncier-assurance
 foncierassurance
+fone0.
+fone1.
+fone2.
+fone3.
+fone4.
+fone5.
+fone6.
+fone7.
+fone8.
+fone9.
 food-cooking
 foodcooking
 foodpyramid
 foolproof trick
 foolproof-trick
+foor sharing
 foot disc
 foot insole
 foot manche
@@ -11848,6 +11896,7 @@ forwholesale
 forwindows8
 foryou.co
 forzest
+fotografowanie
 fotos-de-tatuagen
 fr canad
 fr-canad
@@ -11904,6 +11953,7 @@ free prescript
 free private
 free pron
 free proxy
+free psn
 free real
 free simple
 free strategy
@@ -11945,6 +11995,7 @@ free-private
 free-prog
 free-pron
 free-proxy
+free-psn
 free-real
 free-serv
 free-simple
@@ -12301,6 +12352,7 @@ games-cassino
 gamescasino
 gamescassino
 gamewiki
+gaming.co.
 gamma blue
 gamma-blue
 gammablue
@@ -12951,6 +13003,8 @@ grafica preco
 grafica preço
 grafica-preco
 grafica-preço
+grande processo
+grande-processo
 granny porn
 granny-porn
 grannyporn
@@ -13306,6 +13360,7 @@ hamilton norge
 hamilton-norge
 hamster-diet
 hamsterdiet
+hamzam
 hand taschen
 hand-taschen
 handbag distrib
@@ -14047,7 +14102,9 @@ how-to-tell-the-dif
 how-to-unlock
 how-to-win
 however before
+however suppose
 however-before
+however-suppose
 howtobuy
 howtocreat
 howtocure
@@ -14381,6 +14438,7 @@ informztion
 infos-
 infos/
 infusionsoft
+ing ffor
 ing forwad
 ing puter
 ing-forwad
@@ -15125,6 +15183,14 @@ jobs mom
 jobs usa
 jobs-mom
 jobs-usa
+jogadore assiduos
+jogadore assíduos
+jogadore-assiduos
+jogadore-assíduos
+jogadores assiduos
+jogadores assíduos
+jogadores-assiduos
+jogadores-assíduos
 jogar loteria
 jogar-loteria
 jogging jord
@@ -15335,6 +15401,8 @@ kardashian
 karenmillen-au
 karenmillenau
 karpaczwsieci
+kartu poker
+kartu-poker
 karuteie
 kasino
 kat.h.l.e.en
@@ -15416,11 +15484,13 @@ kids-nike
 kids-ugg
 kidsnike
 killer blog
+killer headline
 killer page
 killer post
 killer site
 killer weblog
 killer-blog
+killer-headline
 killer-page
 killer-post
 killer-site
@@ -16785,6 +16855,8 @@ manor-escort
 manteau karen
 manteau-karen
 manteaukaren
+maquiagem para
+maquiagem-para
 mar skin
 mar-skin
 maran-train
@@ -19249,6 +19321,7 @@ os-depoimento
 osmar terra
 osobistosci
 osobistości
+oszczedne
 other-brand
 otherbrand
 othertype
@@ -19880,11 +19953,13 @@ pengemarked
 penis adv
 penis blog
 penis enlarg
+penis exten
 penis forstor
 penis_
 penis-adv
 penis-blog
 penis-enlarg
+penis-exten
 penis-forstor
 penis.co
 penis.in
@@ -20790,6 +20865,8 @@ pricetobook
 priligy
 primary-change
 primeessay
+primeira vez
+primeira-vez
 principal longchamp
 principal-longchamp
 principallongchamp
@@ -21073,9 +21150,14 @@ provigil
 proxénétisme
 prozac-
 prywatne
+przeglosuje
 przepisane
 przeprowadzki
 przysiegly
+psn code
+psn hack
+psn-code
+psn-hack
 psori nano
 psori-nano
 psorinano
@@ -21087,12 +21169,16 @@ psychedelicparent
 pubg mobile
 pubg-mobile
 public fuck
+public laptop
 public sex
 public-fuck
+public-laptop
 public-sex
 publica foto
 publica-foto
 publicafoto
+publicar extraordina
+publicar-extraordina
 publicfuck
 publicsex
 publik acja
@@ -21310,6 +21396,7 @@ raahe6
 raahe7
 raahe8
 raahe9
+raca-do-mes
 racing-gaming
 radikal.ru
 radiocarpea
@@ -21500,6 +21587,8 @@ red+bottom+shoe
 redaction-blunder
 redbottomshoe
 redchrist
+redeem playstation
+redeem-playstation
 redirect_
 redirect.asp
 redirect.cfm
@@ -22626,7 +22715,9 @@ series-erotic
 serieserotic
 serious malaise
 serious-malaise
+seriously article
 seriously entice
+seriously-article
 seriously-entice
 serravalle out
 serravalle-out
@@ -23124,6 +23215,7 @@ shopping-getaway
 shopping-harmony
 shopping-online
 shopping-site
+shopping-tupina
 shopping-ugg
 shopping+
 shopping24
@@ -23240,6 +23332,7 @@ sistershit
 site -
 site ::
 site (:
+site amor
 site asian
 site backup
 site google
@@ -23260,6 +23353,7 @@ site technique
 site theme
 site traff
 site ufficial
+site-amor
 site-asian
 site-backup
 site-google
@@ -23980,7 +24074,11 @@ stylo-montblanc
 stylomontblanc
 stylowe
 sua mulher
+sua pagina
+sua página
 sua-mulher
+sua-pagina
+sua-página
 subjdct
 subject_
 subject=
@@ -24193,6 +24291,8 @@ sventeenligne
 sverige online
 sverige-online
 sverigeonline
+swan vibrator
+swan-vibrator
 swarovski
 swarovski_
 swarovskijap
@@ -24537,6 +24637,7 @@ thanh-nhac
 thanh-nhạc
 thanks admin
 thanks designed
+thanks foor
 thanks-admin
 thanks-designed
 thanks.i
@@ -25033,6 +25134,7 @@ toto site
 toto-site
 totosite
 totosly
+touche. so
 town|
 tra dao quan
 trà đạo quán
@@ -25208,6 +25310,8 @@ ufficiale moncler
 ufficiale-moncler
 ufficialemoncler
 ufficiales
+ufo-led
+ufoled
 ugboos
 ugbos
 ugg 3
@@ -26406,6 +26510,7 @@ weavehair
 web anal
 web blog
 web content
+web contract:
 web ddress
 web explore
 web farm
@@ -26420,6 +26525,7 @@ web promo
 web scheme
 web sie
 web site;
+web site:
 web site's
 web site’s
 web sitte
@@ -26433,6 +26539,7 @@ web_log
 web-anal
 web-blog
 web-content
+web-contract
 web-explore
 web-farm
 web-host
@@ -27742,6 +27849,7 @@ zyvox
 бесплатная диаг
 бесплатная-демо
 бесплатная-диаг
+бесплатно
 бесплатной демо
 бесплатной диаг
 бесплатной-демо
@@ -27917,6 +28025,7 @@ zyvox
 змусила на
 змусила-на
 знакомства
+знакомство
 значительный сайт
 значительный-сайт
 знающие люди
@@ -28156,7 +28265,9 @@ zyvox
 подберем-специал
 подешевле
 подробнее вот
+подробнее тут
 подробнее-вот
+подробнее-тут
 подробности смотри
 подробности-смотри
 пожаловать
