@@ -1204,6 +1204,12 @@ _zapat
 -traffic.
 -trainings.
 -trainings/
+-transexual-
+-transexual.
+-transexual/
+-transexuelle-
+-transexuelle.
+-transexuelle/
 -transpiration-
 -treatment-
 -tw.in
@@ -1466,7 +1472,10 @@ _zapat
 .club/astrol
 .club/date
 .club/femme
+.club/free
 .club/homme
+.club/plan
+.club/site
 .coach-
 .com illegal
 .com wild
@@ -1896,6 +1905,7 @@ _zapat
 .space/astrol
 .space/date
 .space/femme
+.space/free
 .space/homme
 .spruz.
 .su,
@@ -1959,6 +1969,12 @@ _zapat
 .top/thumb
 .top10bestseller.
 .top10bestsellers.
+.transexual-
+.transexual.
+.transexual/
+.transexuelle-
+.transexuelle.
+.transexuelle/
 .travel.pl
 .twiclub.
 .twilight-
@@ -2554,6 +2570,7 @@ _zapat
 /cool-t-shirts.
 /cool-t-shirts/
 /corneey.co
+/corpoearte.
 /cort.as
 /coupon-
 /coupon.
@@ -3419,6 +3436,12 @@ _zapat
 /tr.im
 /trac/ticket/
 /trackback
+/transexual-
+/transexual.
+/transexual/
+/transexuelle-
+/transexuelle.
+/transexuelle/
 /trx/
 /twilight-
 /txt/
@@ -9307,6 +9330,8 @@ couchey fr
 couchey-fr
 coucheyfr
 couchsofa
+cougar gratuit
+cougar-gratuit
 coumadin
 counter sex
 counter-sex
@@ -9474,6 +9499,16 @@ cuir-mean
 cuir-vanessa
 cuirmean
 cuirvanessa
+cul femme
+cul francais
+cul français
+cul gratuit
+cul porn
+cul-femme
+cul-francais
+cul-français
+cul-gratuit
+cul-porn
 culo mega
 culo-mega
 culomega
@@ -9850,6 +9885,8 @@ dessa dieta
 dessa-dieta
 desserts-factory
 dessertsfactory
+desses predizem
+desses-predizem
 destenex
 destinex
 destiny power
@@ -11958,6 +11995,7 @@ free real
 free simple
 free strategy
 free super
+free tarot
 free visit
 free weblog
 free website
@@ -12001,6 +12039,7 @@ free-serv
 free-simple
 free-strategy
 free-super
+free-tarot
 free-weblog
 free-website
 free-xxx
@@ -12555,6 +12594,7 @@ giftsclick
 giftsingapore
 giftssingapore
 gigantix.co
+gikves
 gilet moncler
 gilet-moncler
 giletmoncler
@@ -13017,8 +13057,10 @@ gratis-online
 gratis-sex
 gratissex
 gratuit annonce
+gratuit paris
 gratuit roulette
 gratuit-annonce
+gratuit-paris
 gratuit-roulette
 gratuitannonce
 gratuite annonce
@@ -13570,6 +13612,7 @@ hello-world
 hello-world-1
 hello-world-2
 hello!my
+hello.this
 helloadmin
 hellodress
 hellosex
@@ -13740,6 +13783,8 @@ hhttp
 hi hi
 hi-hi
 hid_
+hidro-ponik
+hidroponik
 hierbasmedicin
 high weblog
 high website
@@ -16520,9 +16565,11 @@ louisvuit.
 louisvuitton
 louiswuitton
 love connect
+love perfect
 love-connect
 love-lv
 love-master
+love-perfect
 loveconnect
 loved onein
 loved-onein
@@ -21746,6 +21793,8 @@ remont avtomat
 remont vorot
 remont-avtomat
 remont-vorot
+rencontre sex
+rencontre-sex
 renda extra
 renda-extra
 rent_in
@@ -22797,6 +22846,7 @@ several-opportune
 sex advice
 sex blog
 sex cam
+sex clermont
 sex club
 sex dat
 sex game
@@ -22826,6 +22876,7 @@ sex xxx
 sex-advice
 sex-blog
 sex-cam
+sex-clermont
 sex-club
 sex-dat
 sex-game
