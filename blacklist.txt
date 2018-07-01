@@ -1321,6 +1321,9 @@ _zapat
 ?/pag
 ?add
 ?adidas
+?aff=
+?affil=
+?affiliate=
 ?birkin
 ?browse
 ?bvlgari
@@ -1959,6 +1962,7 @@ _zapat
 .tatuagens-
 .tatuagens.
 .tatuagens/
+.telrock.net
 .thearticle
 .thezenweb.
 .thxgamers-
@@ -1967,8 +1971,6 @@ _zapat
 .top/?
 .top/gal
 .top/thumb
-.top10bestseller.
-.top10bestsellers.
 .transexual-
 .transexual.
 .transexual/
@@ -1984,6 +1986,7 @@ _zapat
 .univer.
 .us/user
 .uzblog.
+.veinflower.xyz
 .vulpyx-
 .vulpyx.
 .vulpyx/
@@ -4328,6 +4331,7 @@ _zapat
 911.su
 911.za
 999k diamond
+999k free
 999k-diamond
 999k-free
 1000$
@@ -4541,6 +4545,7 @@ aam happy
 aany better
 aare feel
 aat least
+aat this
 abalroar dentro
 abalroar-dentro
 abcwatch
@@ -5187,8 +5192,8 @@ animatedporn
 ankle bootie
 ankle-bootie
 anklebootie
-annd alsao
-annd also
+annd als
+annd he
 anneed from
 annhyitg
 annonce gratuit
@@ -6410,6 +6415,8 @@ billig
 billion yuan
 billion-yuan
 billionyuan
+biloba beneficio
+biloba-beneficio
 binance
 binarnykh optsion
 binarnykh-optsion
@@ -6633,6 +6640,7 @@ blog-web
 blog-world
 blog:
 blog.best
+blog.thank
 blog's post
 blog’s post
 blog/blog
@@ -6943,6 +6951,7 @@ bottesparis
 bottespas
 bottesugg
 botulinumtoxin
+bought mme
 bountiful with
 bountiful-with
 boursorama banque
@@ -9562,6 +9571,7 @@ custom-essay
 custom-jersey
 custom-nike
 custom-rim
+custom-term-paper
 custom-wheel
 custom+
 customcontrol
@@ -9739,6 +9749,7 @@ daytonaacier
 daytrad
 dɑ
 ddavp
+ddoing some
 de alongamento
 de site
 de-alongamento
@@ -10205,6 +10216,8 @@ dominoq
 don think
 don-think
 dondash
+dong-max
+dongmax
 donna donn
 donna-donn
 donnadonn
@@ -10504,6 +10517,7 @@ efeitos-colaterais
 effexor
 efficiency customer
 efficiency-customer
+effotless
 egemtr
 egoodshop
 egypt jersey
@@ -10791,6 +10805,7 @@ essay producing
 essay serv
 essay solution
 essay today
+essay typer
 essay-composing
 essay-creat
 essay-empire
@@ -10802,6 +10817,7 @@ essay-producing
 essay-serv
 essay-solution
 essay-today
+essay-typer
 essay-write
 essayempire
 essayer cette
@@ -10828,6 +10844,7 @@ essayshelp
 essaysintro
 essaysserv
 essayswrite
+essaytyper
 essaywrite
 established blog
 established-blog
@@ -11187,6 +11204,7 @@ fantastic post
 fantastic read!
 fantastic site
 fantastic topic
+fantastic treatment
 fantastic understand
 fantastic weblog
 fantastic website
@@ -11201,6 +11219,7 @@ fantastic-post
 fantastic-read
 fantastic-site
 fantastic-topic
+fantastic-treatment
 fantastic-understand
 fantastic-weblog
 fantastic-website
@@ -11213,6 +11232,7 @@ fantasticpost
 fantasticread
 fantasticsite
 fantastictopic
+fantastictreatment
 fantasticweblog
 fantasticwebsite
 farmacia_
@@ -11287,10 +11307,11 @@ fast-quick
 fast|quick
 fastbookmark
 fastcash
-fastidious article
+fastidious art
 fastidious blog
 fastidious data
 fastidious dial
+fastidious exper
 fastidious in
 fastidious my
 fastidious page
@@ -11302,10 +11323,11 @@ fastidious thou
 fastidious urg
 fastidious web
 fastidious writ
-fastidious-article
+fastidious-art
 fastidious-blog
 fastidious-data
 fastidious-dial
+fastidious-exper
 fastidious-in
 fastidious-my
 fastidious-post
@@ -11318,6 +11340,7 @@ fastidious-web
 fastidious-writ
 fastidious, my
 fastidious=
+fastidiousart
 fastidiousblog
 fastidiousdial
 fastidiouspage
@@ -11665,8 +11688,11 @@ fine-blog
 fine-wive
 fineblog
 finest blog
+finest steroid
 finest-blog
+finest-steroid
 finestblog
+fineststeroid
 finewive
 fingering my
 fingering-my
@@ -11945,6 +11971,7 @@ foryou.co
 forzest
 fotografowanie
 fotos-de-tatuagen
+found iit
 fr canad
 fr-canad
 fr.fr/
@@ -12018,6 +12045,7 @@ free-casino
 free-cassino
 free-chat
 free-cinemamovie
+free-coin
 free-crypto
 free-csgo
 free-download
@@ -12070,6 +12098,7 @@ freedat
 freedownload
 freefor.co
 freegay
+freegold
 freehub
 freeinternation
 freeipad
@@ -12609,6 +12638,8 @@ gikves
 gilet moncler
 gilet-moncler
 giletmoncler
+ginkgo beneficio
+ginkgo-beneficio
 ginzza
 girl blog
 girl eblog
@@ -13368,6 +13399,7 @@ hack tool
 hack_
 hack-2018
 hack-android
+hack-coin
 hack-cydia
 hack-face
 hack-fb
@@ -15643,6 +15675,7 @@ knockoff-eyewear
 knockoff-hand
 knockoffhand
 knolckoff
+know whatt
 know-web
 knowing answer
 knowing-answer
@@ -16091,16 +16124,19 @@ lesbian fuck
 lesbian milf
 lesbian porn
 lesbian school
+lesbian teen
 lesbian-bdsm
 lesbian-fuck
 lesbian-milf
 lesbian-porn
 lesbian-school
+lesbian-teen
 lesbianbdsm
 lesbianfuck
 lesbianmilf
 lesbianporn
 lesbianschool
+lesbianteen
 lesbos-
 lesbos.
 lespaulsmith
@@ -19011,7 +19047,9 @@ obrezka derev’yev
 obrezka derevev
 obrezka-derevev
 obtain consol
+obtain fastidious
 obtain-consol
+obtain-fastidious
 obulvosiy
 obuv mesh
 obuv nach
@@ -20691,15 +20729,18 @@ positively-useful
 possess
 possui zero
 possui-zero
+post aat
 post extreme
 post fully
 post post
 post truly
 post upper
+post writing
 post_
 post-extreme
 post-post
 post-serv
+post-writing
 post:
 post!
 post.best
@@ -24617,12 +24658,14 @@ technological globe
 technological-globe
 teen cam
 teen female
+teen lesbian
 teen porn
 teen sex
 teen virgin
 teen webcam
 teen-cam
 teen-female
+teen-lesbian
 teen-porn
 teen-sex
 teen-virgin
@@ -24634,6 +24677,7 @@ teenaged female
 teenaged-female
 teencam
 teeniepant
+teenlesbian
 teenporn
 teens cam
 teens porn
@@ -25176,6 +25220,7 @@ top-viral
 top.asses
 top.c.i
 top.i.c
+top10best
 topamax
 toparticle
 topblog
@@ -25279,7 +25324,10 @@ travel.pl
 traveltrip
 trazodone
 treatement
+treatment gyno
+treatment-gyno
 treatment.in
+treatmentgyno
 tremendous writings
 tremendous-writings
 trempe sous
@@ -26497,6 +26545,7 @@ w http
 w.@
 w.il.lkom.men
 w88w
+w888
 waas concern
 wakka=
 wallet out
@@ -26563,6 +26612,7 @@ warriors jersey
 warriors-jersey
 warriorsjersey
 warszawa
+was ddoing
 wasbusiness
 watch hdonline
 watch vid
@@ -26854,6 +26904,7 @@ whats up,
 whats-blog
 whatsapp
 whatsblog
+whatt you
 wheel.es
 wheeles
 wheels.co
