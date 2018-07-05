@@ -44,6 +44,7 @@
 /tiny.cc
 /tinyls.net
 /tinyurl.co
+/tlkm.my
 /to.ly
 /tr.im
 /urlms.co
