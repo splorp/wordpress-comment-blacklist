@@ -3545,6 +3545,7 @@ _zapat
 /xurl.es
 /ya.
 /yabb
+/yourls.org
 /yours.
 /yukon-claim.
 /yukon-gold.

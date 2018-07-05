@@ -50,3 +50,4 @@
 /urlms.co
 /x.co
 /xurl.es
+/yourls.org
