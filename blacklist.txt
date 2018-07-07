@@ -724,9 +724,15 @@ _zapat
 -handbags/
 -harley-davidson-
 -haziran-
+-health-benefits-
+-health-benefits.
+-health-benefits/
 -health-related-
 -health-related.
 -health-related/
+-healthbenefits-
+-healthbenefits.
+-healthbenefits/
 -hello-people-
 -hello-people.
 -hello-people/
@@ -1057,6 +1063,7 @@ _zapat
 -roulette.
 -roulette/
 -rozwod-
+-rs-gold
 -ru.
 -rusex-
 -rusex.
@@ -1567,6 +1574,12 @@ _zapat
 .hatenablog.
 .hatenadiary.
 .header.us
+.health-benefits-
+.health-benefits.
+.health-benefits/
+.healthbenefits-
+.healthbenefits.
+.healthbenefits/
 .hello-people-
 .hello-people.
 .hello-people/
@@ -2760,9 +2773,15 @@ _zapat
 /hats/
 /header.us
 /headlines/
+/health-benefits-
+/health-benefits.
+/health-benefits/
 /health-related-
 /health-related.
 /health-related/
+/healthbenefits-
+/healthbenefits.
+/healthbenefits/
 /hello-people-
 /hello-people.
 /hello-people/
@@ -5080,6 +5099,8 @@ also-eable
 alviero martini
 alviero-martini
 alvieromartini
+amador brutal
+amador-brutal
 amateur xx
 amateur-homemade
 amateur-xx
@@ -5911,6 +5932,9 @@ baikal-extreme
 baikal-rest
 baikalextreme
 baikalrest
+bail bonds
+bail-bonds
+bailbonds
 bailey ugg
 bailey-ugg
 baileyugg
@@ -6258,6 +6282,7 @@ best online
 best pant
 best payment
 best priced
+best prostate
 best suppl
 best tummy
 best website
@@ -6282,6 +6307,7 @@ best-pant
 best-payment
 best-phone
 best-priced
+best-prostate
 best-seller-bag
 best-sellers-bag
 best-shop
@@ -6303,6 +6329,8 @@ bestdigital
 bestdirect
 bestdisc
 bestdrug
+besten gutscheine
+besten-gutscheine
 bestevance
 bestfake
 bestfit
@@ -6505,13 +6533,16 @@ bitcoinwallet
 bitkoin
 bittrex
 biuro-solido
+biz marketing
 biz news
+biz-marketing
 biz-news
 biz.in
 biz.pl
 biz.ru
 biz.su
 biz.za
+bizmarketing
 biznes
 biznews
 bizstore
@@ -6744,7 +6775,10 @@ body erotic
 body-erotic
 bodyhn
 bokserki
+bola online
 bola terpercaya
+bola-online
+bolaonline
 bollywood hair
 bollywood moi
 bollywood-hair
@@ -7120,6 +7154,8 @@ btcoin
 btitish
 btn-phone
 btshoe
+bucks-v-bucks
+bucks-v-free
 bucks.online
 buddie
 buddreview
@@ -7743,6 +7779,7 @@ cash-extend
 cash-generat
 cash-loan
 cash-masterclass
+cash-now
 cash4
 cashadvance
 cashbuzz
@@ -7752,6 +7789,7 @@ cashforgold
 cashforsilver
 cashgenerat
 cashloan
+cashnow
 cashout
 casino bonus
 casino enligne
@@ -7761,6 +7799,7 @@ casino hack
 casino list
 casino online
 casino only
+casino partic
 casino phish
 casino site
 casino view
@@ -7775,6 +7814,7 @@ casino-hack
 casino-list
 casino-online
 casino-only
+casino-partic
 casino-phish
 casino-site
 casino-view
@@ -8414,10 +8454,13 @@ cheatsfor
 cheatss
 checed in
 checed-in
+check weblog
 check-out out
 check-out-out
+check-weblog
 check.asp
 check32attack
+checkedd
 cheeerd
 cheesefruit
 chefk
@@ -8549,6 +8592,8 @@ christian_
 christian-loubou
 christian+
 christianloubou
+christmas loan
+christmas-loan
 chronic edge
 chronic-edge
 chrr-llc
@@ -8896,6 +8941,7 @@ code-xbox
 codecoupon
 codegenerat
 codepromo
+codereduc
 codes amazon
 codes generat
 codes promo
@@ -9262,6 +9308,8 @@ core-fuck
 core-sex
 corefuck
 coresex
+cornerstone loan
+cornerstone-loan
 corporate-gift
 corporategift
 coskobo
@@ -9372,6 +9420,7 @@ couplesgratuit
 coupleswatches
 couplewatches
 coupon bargain
+coupon code
 coupon discount
 coupon priv
 coupon sense
@@ -9726,6 +9775,7 @@ dating-date
 dating-direct
 dating-guide
 dating-service
+dating-sider
 dating-site
 dating.advice
 datingadvice
@@ -9733,6 +9783,7 @@ datingcasual
 datingdirect
 datingguide
 datingservice
+datingsider
 datingsite
 daunen weste
 daunen-weste
@@ -9809,6 +9860,12 @@ definitelly
 degree twenty
 degree-twenty
 dehttp
+dejting-program
+dejting-sida
+dejting-tips
+dejtingprogram
+dejtingsida
+dejtingtips
 dekorativno prikladno
 dekorativno-prikladno
 delete_
@@ -11323,6 +11380,7 @@ fastidious repl
 fastidious site
 fastidious think
 fastidious thou
+fastidious understand
 fastidious urg
 fastidious web
 fastidious writ
@@ -11338,6 +11396,7 @@ fastidious-repl
 fastidious-site
 fastidious-think
 fastidious-thou
+fastidious-understand
 fastidious-urg
 fastidious-web
 fastidious-writ
@@ -11654,6 +11713,7 @@ financeserv
 financesolution
 financial blog
 financial cash
+financial content
 financial debt
 financial emerg
 financial serv
@@ -11661,12 +11721,14 @@ financial solution
 financial_
 financial-blog
 financial-cash
+financial-content
 financial-debt
 financial-emerg
 financial-serv
 financial-solution
 financialblog
 financialcash
+financialcontent
 financialdebt
 financialemerg
 financialserv
@@ -11702,6 +11764,7 @@ fingering-my
 finite instant
 finite-instant
 finiteinstant
+finnd out
 fioricet
 firefox-setting
 firefoxik
@@ -11869,6 +11932,7 @@ for gucci
 for himm
 for interact
 for thhe
+for yolur
 for_business
 for-business-advertis
 for-cheap
@@ -11960,6 +12024,8 @@ forteparafon
 forthcoming post
 forthcoming-post
 fortnite-free
+fortnite-glitch
+fortnite-hack
 forum coach
 forum-coach
 forum.really
@@ -12054,6 +12120,7 @@ free-csgo
 free-download
 free-gay
 free-gold
+free-hack
 free-hemp
 free-internation
 free-ipad
@@ -12082,6 +12149,7 @@ free-simple
 free-strategy
 free-super
 free-tarot
+free-v-bucks
 free-weblog
 free-website
 free-xxx
@@ -12755,6 +12823,10 @@ giubbottotimber
 giubbottouomo
 giubbottowoolrich
 giuseppezanotti
+give fastidious
+give-fastidious
+gives fastidious
+gives-fastidious
 gkhk
 glad reading
 glad-reading
@@ -12764,6 +12836,7 @@ glasses-tokyo
 glassess
 glassestokyo
 gleevec
+glitch-fortnite
 glitter ugg
 glitter-ugg
 glitterugg
@@ -13406,6 +13479,8 @@ hack-coin
 hack-cydia
 hack-face
 hack-fb
+hack-fortnite
+hack-free
 hack-gem
 hack-generator
 hack-get
@@ -14490,7 +14565,7 @@ info-base
 info-ratno
 info-you
 info?i
-info/addict
+info/addi
 info/alcohol
 info/product
 info/ratno
@@ -14545,12 +14620,15 @@ ing forwad
 ing puter
 ing-forwad
 ing-puter
+ing've
+ing’ve
 ing/bak/
 ingenieurs rni
 ingénieurs rni
 ingenieurs-rni
 ingénieurs-rni
 ingputer
+ingroduce
 ington boot
 ington-boot
 ingtonboot
@@ -14890,6 +14968,8 @@ ipodrepair
 ipodsuppl
 iprofit
 ipアドレス
+iq option
+iq-option
 ira kit
 ira-kit
 irakit
@@ -15080,6 +15160,9 @@ jacobsuk
 jagody acai
 jagody-acai
 jagowho
+jail bonds
+jail-bonds
+jailbonds
 jam jord
 jam-jord
 jamesargum
@@ -15712,6 +15795,7 @@ konkurs
 konsalting
 konsultan
 kontakta-oss
+kontaktannons
 kontrahenta
 koop dsqu
 koop-dsqu
@@ -16033,10 +16117,12 @@ learn help
 learn-face
 learn-health
 learn-help
+learn-pain
 learn+health
 learnface
 learnhelp
 learningxchange
+learnpain
 learnpianohere
 leather levi
 leather-levi
@@ -16207,8 +16293,12 @@ liht-therap
 likewise pick
 likewise-pick
 limited jers
+limited-japan
 limited-jers
+limited-jp
+limitedjapan
 limitedjers
+limitedjp
 limo-serv
 lineshake_
 linguim.co
@@ -16325,22 +16415,28 @@ llook
 loaded vid
 loaded-vid
 loan canad
+loan cash
 loan compan
 loan fast
+loan lender
 loan online
 loan-canad
+loan-cash
 loan-compan
 loan-direct
 loan-fast
+loan-lender
 loan-online
 loan.bid
 loan.co
 loan.in
 loan.net
 loanalys
+loancash
 loancompan
 loandirect
 loanfast
+loanlender
 loanonline
 loans canad
 loans compan
@@ -16819,11 +16915,13 @@ magnificent blog
 magnificent goods
 magnificent inform
 magnificent page
+magnificent post
 magnificent weblog
 magnificent website
 magnificent-article
 magnificent-goods
 magnificent-inform
+magnificent-post
 magnificentinform
 mail_
 mail.in
@@ -17027,6 +17125,7 @@ market-pricing
 market-research
 market-samurai
 market-xchange
+market.financ
 marketexchange
 marketing blog
 marketing book
@@ -17070,6 +17169,7 @@ marketonline
 marketprices
 marketpricing
 marketresearch
+markets.financ
 marketsamurai
 markettakeover
 marketxchange
@@ -19187,6 +19287,7 @@ oksunglass
 okycupid
 old/dress
 old|
+on thjis
 on tthe
 on-line certif
 on-line-certif
@@ -19195,9 +19296,11 @@ once-in-a-lifetime
 one hundred%
 one nike
 one-hundred%
+one-logins
 one-nike
 one:-
 one:)
+onelogins
 oneminutesite
 onenike
 ones size
@@ -19387,6 +19490,7 @@ option-binaire
 option-broker
 option-robot
 optionbroker
+optionrobot
 options binaire
 options-binaire
 options-info
@@ -20346,6 +20450,9 @@ piumino moncler
 piumino-moncler
 piuminomoncler
 pi貌
+pjb pro
+pjb-pro
+pjbpro
 pjure breast
 pjure-breast
 pl/wiki
@@ -20370,6 +20477,7 @@ plated-watch
 plavix
 play-free
 play-online
+play-runescape
 playerblock
 playfree
 playonline
@@ -20939,6 +21047,8 @@ prepaidcredit
 preparation wise
 preparation-wise
 preparationwise
+presbyterian health
+presbyterian-health
 prescript.asp
 prescript.cfm
 prescript.htm
@@ -21252,6 +21362,8 @@ properugg
 propip
 propranolol
 proshop.ru
+prostate stimul
+prostate-stimul
 prostitutki
 protandim
 protein bene
@@ -21274,6 +21386,7 @@ przeglosuje
 przepisane
 przeprowadzki
 przysiegly
+ps4xbox
 psn code
 psn hack
 psn-code
@@ -21389,10 +21502,12 @@ pursescheap
 pursesout
 pussy cum
 pussy eating
+pussy erotic
 pussy porn
 pussy wet
 pussy-cum
 pussy-eating
+pussy-erotic
 pussy-porn
 pussy-wet
 pussyporn
@@ -21516,6 +21631,7 @@ raahe6
 raahe7
 raahe8
 raahe9
+rabattkode
 raca-do-mes
 racing-gaming
 radikal.ru
@@ -21689,8 +21805,8 @@ recipes name
 recipes-name
 recommend internet
 recommend-internet
-recommendations addition
-recommendations-addition
+recommendations addi
+recommendations-addi
 recommended internet
 recommended-internet
 reconquista perfeita
@@ -22114,6 +22230,8 @@ revive-beauty
 revivebeauty
 revolutionjog
 revolutionstroll
+reward exchange
+reward-exchange
 rheumatoidarthritis
 rhttp
 rice-cooker
@@ -22230,8 +22348,10 @@ run-shoe
 run-sneak
 runchaus
 runcpa
+runescape classic
 runescape gold
 runescape million
+runescape-classic
 runescape-gold
 runescape-million
 runescapegold
@@ -22938,6 +23058,7 @@ sex game
 sex gratis
 sex hook
 sex hub
+sex kontakt
 sex mama
 sex movie
 sex mp
@@ -22968,6 +23089,7 @@ sex-game
 sex-gratis
 sex-hook
 sex-hub
+sex-kontakt
 sex-mama
 sex-movie
 sex-mp
@@ -23005,10 +23127,15 @@ sexgame
 sexgratis
 sexhook
 sexhub
+sexkontakt
 sexmama
 sexmovie
 sexmp
+sexo amador
+sexo brutal
 sexo mon
+sexo-amador
+sexo-brutal
 sexo-mon
 sexomon
 sexpapa
@@ -23460,6 +23587,7 @@ singapore.cfm
 singapore.htm
 singapore.jsp
 singapore.php
+singeltjejer
 sirop mangustin
 sirop-mangustin
 sistemas populare
@@ -23756,7 +23884,8 @@ software.za
 softwarehouse
 softwaresecret
 sohbet
-soime addition
+soime addi
+sojebody
 sold-out
 solde botte
 solde canad
@@ -23877,6 +24006,7 @@ spamrespon
 sparkle ugg
 sparkle-ugg
 sparkleugg
+special daay
 special-offer
 specialty-transfer
 specialtytransfer
@@ -24076,7 +24206,7 @@ stonejap
 stonejp
 stop smok
 stop snor
-stop-addict
+stop-addi
 stop-smok
 stop-snor
 stopsmok
@@ -25180,6 +25310,9 @@ tomsout
 tomsshoe
 tomsshoes
 tomswomen
+toner best
+toner-best
+tonerbest
 tones way
 tones-way
 tongue retain
@@ -26551,6 +26684,7 @@ w88w
 w888
 waas concern
 wakka=
+walamrtone
 wallet out
 wallet-out
 walletout
@@ -27111,6 +27245,7 @@ without-invest
 without-prescript
 without-ya!
 withthose
+wiuth the
 woah this
 woah-this
 woderful
@@ -27245,6 +27380,8 @@ work-review
 workout-sale
 workoutsale
 workreview
+works guys
+works-guys
 world fuck
 world porn
 world sex
@@ -27458,7 +27595,7 @@ xx.ro
 xx.ru
 xx.su
 xx.za
-xxx addict
+xxx addi
 xxx best
 xxx forum
 xxx free
@@ -27468,11 +27605,12 @@ xxx group
 xxx mobile
 xxx party
 xxx pic
+xxx porn
 xxx sex
 xxx tube
 xxx vid
 xxx_
-xxx-addict
+xxx-addi
 xxx-best
 xxx-forum
 xxx-free
@@ -27482,11 +27620,12 @@ xxx-group
 xxx-mobile
 xxx-party
 xxx-pic
+xxx-porn
 xxx-sex
 xxx-tube
 xxx-vid
 xxx.
-xxxaddict
+xxxaddi
 xxxbest
 xxxforum
 xxxfree
@@ -27496,6 +27635,7 @@ xxxgroup
 xxxmobile
 xxxparty
 xxxpic
+xxxporn
 xxxsex
 xxxtube
 xxxvid
@@ -27544,8 +27684,13 @@ yoga out
 yoga-out
 yogaout
 yoigucci
+yolur info
+yoou can
+yoou could
 yoou have
 yoou mind
+yoou should
+yoou will
 yoou-have
 yoour
 yopenis
