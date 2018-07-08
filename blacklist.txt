@@ -2523,6 +2523,7 @@ _zapat
 /chaussures.
 /cheap-
 /cheap.
+/chilp.it
 /china.
 /chinese.
 /chrome/
