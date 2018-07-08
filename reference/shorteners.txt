@@ -35,6 +35,7 @@
 /qil.su
 /qoo.by
 /rlu.ru
+/schott.im
 /shorte.st
 /smarturl.it
 /smsh.me
