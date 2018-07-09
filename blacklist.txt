@@ -287,6 +287,9 @@ _zapat
 -0.ru
 -0.su
 -0.za
+-1-pack-
+-1-pack.
+-1-pack/
 -1.co
 -1.in
 -1.ro
@@ -978,6 +981,9 @@ _zapat
 -prada-
 -prada.
 -prada/
+-preisvergleich-
+-preisvergleich.
+-preisvergleich/
 -premium-
 -premium.
 -premium/
@@ -1325,6 +1331,7 @@ _zapat
 ![]
 !}
 !@#
+? relevant!
 ?/pag
 ?add
 ?adidas
@@ -1387,6 +1394,9 @@ _zapat
 .()
 .[]
 .%
+.1-pack-
+.1-pack.
+.1-pack/
 .1com
 .2com
 .2u4.us
@@ -1769,6 +1779,9 @@ _zapat
 .ppsspp-
 .ppsspp.
 .ppsspp/
+.preisvergleich-
+.preisvergleich.
+.preisvergleich/
 .press-release.
 .pressrelease.
 .promocional-
@@ -2190,6 +2203,9 @@ _zapat
 /00.jsp
 /0.php
 /00.php
+/1-pack-
+/1-pack.
+/1-pack/
 /01.asp
 /1.asp
 /01.cfm
@@ -3174,6 +3190,9 @@ _zapat
 /prada-
 /prada.
 /prada/
+/preisvergleich-
+/preisvergleich.
+/preisvergleich/
 /premium-
 /premium.
 /press-release-
@@ -5137,6 +5156,9 @@ amenities-provider
 ametuer
 aminocare
 amitriptyline
+amor barulhento
+amor-barulhento
+amorbarulhento
 amorti dynamique
 amorti-dynamique
 amount food
@@ -5157,8 +5179,10 @@ amzon.co
 anabolic
 anal plug
 anal sex
+anal vibrator
 anal-plug
 anal-sex
+anal-vibrator
 analplug
 analsex
 analysis sport
@@ -5238,6 +5262,10 @@ anonymous-download
 anonymousvpn
 another chernobyl
 another-chernobyl
+anstandige punkte
+anständige punkte
+anstandige-punkte
+anständige-punkte
 answertraff
 anti getting
 anti psori
@@ -5328,6 +5356,7 @@ arcteryx-sale
 arcteryxjap
 arcteryxjp
 arcteryxsale
+ardguest.php
 are added-
 are desirous
 are fastidious
@@ -6109,7 +6138,9 @@ basketisabel
 basketjord
 basketmbt
 basketshoe
+bat-dong-san
 bat-pro
+batdongsan
 batt-kupon
 battkupon
 bauchstraffung
@@ -6274,6 +6305,7 @@ berlin-moncler
 berlinmoncler
 berracom.ph
 besstet
+best anal
 best blogging
 best cartier
 best cc
@@ -6281,6 +6313,7 @@ best cyber
 best dumps
 best evance
 best forex
+best gaming
 best jers
 best mcm
 best online
@@ -6293,6 +6326,7 @@ best tummy
 best website
 best wordpress
 best xxx
+best-anal
 best-blogging
 best-cartier
 best-cc
@@ -6305,6 +6339,7 @@ best-dumps
 best-evance
 best-fake
 best-forex
+best-gaming
 best-home-cinema
 best-jers
 best-mcm
@@ -6334,12 +6369,15 @@ bestdigital
 bestdirect
 bestdisc
 bestdrug
+beste gaming
+beste-gaming
 besten gutscheine
 besten-gutscheine
 bestevance
 bestfake
 bestfit
 bestforex
+bestgaming
 bestgasmileage
 bestjers
 bestlaptop
@@ -7170,6 +7208,7 @@ budget dedicated
 budget-dedicated
 budynku wybrac
 budynku-wybrac
+built bby
 bukmacher
 bulgari bague
 bulgari bijoux
@@ -7900,6 +7939,10 @@ catalogues.cfm
 catalogues.htm
 catalogues.jsp
 catalogues.php
+catering expert
+catering solution
+catering-expert
+catering-solution
 cavin-klein
 cavinklein
 cazino_
@@ -7994,6 +8037,8 @@ celular
 cent whenever
 cent-whenever
 cent|
+ceremony ceremon
+ceremony-ceremon
 ceretain
 cerpolo.com.br
 cert line
@@ -8971,12 +9016,14 @@ coin cheat
 coin foot
 coin fut
 coin game
+coin generat
 coin offering
 coin xbox
 coin-cheat
 coin-foot
 coin-fut
 coin-game
+coin-generat
 coin-market
 coin-offering
 coin-xbox
@@ -8990,10 +9037,12 @@ coinmarket
 coins foot
 coins fut
 coins game
+coins generat
 coins xbox
 coins-foot
 coins-fut
 coins-game
+coins-generat
 coins-point
 coins-xbox
 coinsfoot
@@ -9193,10 +9242,12 @@ commutee
 como facebook
 como ganhar
 como maquiar
+como reconquista
 como trabalhar
 como-facebook
 como-ganhar
 como-maquiar
+como-reconquista
 como-trabalhar
 como-utilizar
 company coach
@@ -9534,6 +9585,8 @@ creditdirect
 creditrepair
 creditreport
 creditscore
+criar coment
+criar-coment
 cription.asp
 cristmas-
 critically article
@@ -9798,10 +9851,12 @@ daunen weste
 daunen-weste
 daunenweste
 day bountiful
+day lengthy
 day loan
 day loubou
 day-bountiful
 day-diet
+day-lengthy
 day-loubou
 day. bye
 day.did
@@ -10411,6 +10466,9 @@ drmartensjap
 drmartensjp
 drmartensuk
 drmartenuk
+droid whiz
+droid-whiz
+droidwhiz
 drug buy
 drug cheap
 drug-buy
@@ -10505,6 +10563,7 @@ duvetica-out
 duveticaaristeo
 duveticaout
 dvd asphyx
+dvd creaor
 dvd erotic
 dvd-asphyx
 dvd-erotic
@@ -10688,6 +10747,8 @@ enchèremax
 encherisseur
 enchérisseur
 endlaved
+endocrinol meta
+endocrinol-meta
 energetic blog
 energetic post
 energetic-blog
@@ -10750,6 +10811,8 @@ entryview
 environmentally acute
 environmentally-acute
 envisionforce
+envy location
+envy-location
 eomarketplace
 eonline.pl
 epamphlett
@@ -10996,6 +11059,8 @@ everythink
 everytight
 evryday
 evvery
+ex marido
+ex-marido
 exactly web
 exactly-web
 examjple
@@ -12112,6 +12177,7 @@ free proxy
 free psn
 free real
 free simple
+free skins
 free strategy
 free super
 free tarot
@@ -12131,6 +12197,7 @@ free-coin
 free-crypto
 free-csgo
 free-download
+free-fortnite
 free-gay
 free-gold
 free-hack
@@ -12159,6 +12226,7 @@ free-psn
 free-real
 free-serv
 free-simple
+free-skins
 free-strategy
 free-super
 free-tarot
@@ -12181,6 +12249,7 @@ freecsgo
 freedat
 freedownload
 freefor.co
+freefortnite
 freegay
 freegold
 freehub
@@ -12207,6 +12276,7 @@ freesale
 freesalg
 freeserv
 freesimcard
+freeskins
 freeslotmachine
 freesuper
 freevid
@@ -12282,6 +12352,7 @@ frmoncler
 from subsequent
 from-subsequent
 fromnavid
+front_single
 frontier hack
 frontier-hack
 frontline commando
@@ -12515,6 +12586,10 @@ games-cassino
 gamescasino
 gamescassino
 gamewiki
+gaming maus
+gaming mäus
+gaming-maus
+gaming-mäus
 gaming.co.
 gamma blue
 gamma-blue
@@ -12594,16 +12669,19 @@ generator 2014
 generator 2015
 generator 2016
 generator 2017
+generator 2018
 generator-2013
 generator-2014
 generator-2015
 generator-2016
 generator-2017
+generator-2018
 generator2013
 generator2014
 generator2015
 generator2016
 generator2017
+generator2018
 generatorpro
 generic_
 genital herpes
@@ -13478,13 +13556,15 @@ hack android
 hack cydia
 hack face
 hack fb
-hack generator
+hack generat
 hack get
 hack glitch
+hack instant
 hack ios
 hack online
 hack ros
 hack tool
+hack unlimit
 hack_
 hack-2018
 hack-android
@@ -13495,15 +13575,17 @@ hack-fb
 hack-fortnite
 hack-free
 hack-gem
-hack-generator
+hack-generat
 hack-get
 hack-glitch
+hack-instant
 hack-ios
 hack-online
 hack-pass
 hack-ros
 hack-the-sec
 hack-tool
+hack-unlimit
 hack-zip
 hack.blog
 hack.website
@@ -13517,6 +13599,7 @@ hackface
 hackfb
 hackgem
 hacking_
+hackinstant
 hackonline
 hacks_
 hacks1
@@ -15401,6 +15484,9 @@ joggingjord
 joggingstroll
 jogos
 john-varvatos
+join super
+join-super
+joinsuper
 joint-pain
 jointpain
 joma jewelery
@@ -16319,6 +16405,8 @@ limited-jp
 limitedjapan
 limitedjers
 limitedjp
+limitless gold
+limitless-gold
 limo-serv
 lineshake_
 linguim.co
@@ -16409,6 +16497,7 @@ lious exact
 lious-exact
 lipi=urn
 lipitor
+lirtle effort
 lisinopril
 lisseur-pascher
 lisseurpascher
@@ -17218,9 +17307,11 @@ mass-article
 mass-face
 massa muscular
 massa-muscular
+massage envy
 massage erotic
 massage massage
 massage_
+massage-envy
 massage-erotic
 massage-massage
 massages erotic
@@ -18282,11 +18373,14 @@ moviesonline
 movieszone
 moviezone
 mp-escort
+mp3 music
 mp3-download
+mp3-music
 mp3-player
 mp3.ru
 mp3.su
 mp3la.ru
+mp3music
 mp3player
 mp4 sex
 mp4-sex
@@ -18681,6 +18775,7 @@ new zune
 new-article
 new-balance
 new-buzz
+new-compatible
 new-era-hat
 new-gucci
 new-jord
@@ -19200,6 +19295,10 @@ obuvzeny
 obuvženy
 obuwia
 obuwie
+ocasiao coment
+ocasião coment
+ocasiao-coment
+ocasião-coment
 occhiali catalog
 occhiali ray
 occhiali sol
@@ -19584,6 +19683,10 @@ out soime
 out-assim
 outelt
 outilclient
+outlaw hack
+outlaw-hack
+outlaws hack
+outlaws-hack
 outlet 1
 outlet 2
 outlet 3
@@ -20675,6 +20778,12 @@ pokies online
 pokies-online
 pokiesonline
 pokornému
+polisi beriman
+polisi santri
+polisi-beriman
+polisi-santri
+polisiberiman
+polisisantri
 polnocno
 pólnocno
 północno
@@ -22223,8 +22332,11 @@ reversephone
 revia med
 revia-med
 review best
+review site
 review-best
 review-on
+review-sale
+review-site
 review-source
 review.asp
 review.bl
@@ -22238,6 +22350,7 @@ reviewon
 reviews best
 reviews-best
 reviews-on
+reviews-today
 reviews.asp
 reviews.bl
 reviews.cfm
@@ -22247,9 +22360,12 @@ reviews.jsp
 reviews.net
 reviews.org
 reviews.php
+reviewsale
 reviewsbest
+reviewsite
 reviewson
 reviewsource
+reviewstoday
 reviewstv
 reviewthe
 reviewx
@@ -22933,6 +23049,7 @@ seo gain
 seo gig
 seo god
 seo host
+seo indonesia
 seo luton
 seo pick
 seo plug
@@ -22956,6 +23073,7 @@ seo-god
 seo-high-score
 seo-highscore
 seo-host
+seo-indonesia
 seo-luton
 seo-pick
 seo-plug
@@ -23749,7 +23867,10 @@ skinnys review
 skinnys-review
 skinnysreview
 skins bet
+skins fortnite
 skins-bet
+skins-fortnite
+skinsfortnite
 skip-trac
 skjonnhetsprodukter
 skjønnhetsprodukter
@@ -24040,7 +24161,9 @@ spamrespon
 sparkle ugg
 sparkle-ugg
 sparkleugg
+special approximate
 special daay
+special-approximate
 special-offer
 specialty-transfer
 specialtytransfer
@@ -24386,7 +24509,9 @@ submissive porn
 submissive-porn
 submissive.porn
 submissiveporn
+submit upper
 submit web
+submit-upper
 submit-web
 submitweb
 subscribe link
@@ -24510,9 +24635,11 @@ sunrize
 sunsetthe
 super casino
 super compan
+super fortnite
 super real
 super-casino
 super-compan
+super-fortnite
 super-real
 superarticle
 superb blog
@@ -24531,6 +24658,7 @@ supercompan
 superdry outlet
 superdry-outlet
 superdryoutlet
+superfortnite
 superheroz
 superior compan
 superior resource
@@ -25034,6 +25162,7 @@ theywe
 thhat might
 thhe best
 thhe info
+thhe the
 thhis
 thi, i
 thiis web
@@ -25080,6 +25209,7 @@ thnkgini
 thnnik
 thnx u
 thnx-u
+thoatvidia
 thomas sabot
 thomas-fat
 thomas-sabot
@@ -25302,6 +25432,7 @@ to.pi.c
 toasterovensnow
 tobuy.in
 today/article
+today4u
 todescribe
 tods jap
 tods jp
@@ -25373,6 +25504,7 @@ top_bank
 top-article
 top-asses
 top-available
+top-best
 top-blog
 top-bulgari
 top-bvlgari
@@ -25396,6 +25528,7 @@ top.i.c
 top10best
 topamax
 toparticle
+topbest
 topblog
 topbulgari
 topbvlgari
@@ -25423,6 +25556,8 @@ tor puter
 tor-puter
 torgovye strategii
 torgovye-strategii
+torrent com
+torrent-com
 torrent-movie
 torrentmovie
 torrents
@@ -25532,11 +25667,13 @@ triviatrivia
 trollapp
 true search
 truly fastidious
+truly fruitful
 truly peaked
 truly suppose
 truly thk
 truly very
 truly-fastidious
+truly-fruitful
 truly-peaked
 truly-suppose
 truly-thk
@@ -25566,6 +25703,10 @@ tummy-tuck
 tummytuck
 tunnel-prox
 tunnelprox
+tuong dau
+tượng đau
+tuong-dau
+tượng-đau
 turbo-vac
 turbosprezar
 turnkey-website
@@ -26207,6 +26348,7 @@ vardenafil
 variant1
 variant2
 variant3
+vbucks
 vbyj
 vecaro lifestyle
 vecaro_
@@ -26340,6 +26482,10 @@ vibro-love
 vibro.love
 vibrolove
 vicodin
+vida beneficios
+vida benefícios
+vida-beneficios
+vida-benefícios
 videncia charme
 videncia gratis
 videncia vidente
@@ -26501,14 +26647,14 @@ vintovoy nas
 vintovoy-nas
 vintovyye nas
 vintovyye-nas
-vip generator
+vip generat
 vip девочк
 vip-box
-vip-generator
+vip-generat
 vip-league
 vip-девочк
 vipbox
-vipgenerator
+vipgenerat
 vipgirl
 vipleague
 viral adremus
@@ -26721,6 +26867,7 @@ w.@
 w.il.lkom.men
 w88w
 w888
+waas built
 waas concern
 wakka=
 walamrtone
@@ -26946,6 +27093,7 @@ website style
 website traff
 website usa
 website visit
+website was…
 website we
 website yourself
 website-daily
@@ -27304,6 +27452,7 @@ wonblog
 wondeful
 wonderful article
 wonderful blog
+wonderful educational
 wonderful homepage
 wonderful informative
 wonderful post
@@ -27313,6 +27462,7 @@ wonderful site
 wonderful website
 wonderful-article
 wonderful-blog
+wonderful-educational
 wonderful-homepage
 wonderful-informative
 wonderful-post
@@ -27571,6 +27721,7 @@ www.videos
 www.wtf
 www.www.
 www.xx
+www.ya.lt
 www.ysl
 www.zapata
 www.zapato
@@ -28949,6 +29100,7 @@ zyvox
 أغراس
 السياحة العلاجي
 پازل باند
+كلية القانون
 ߋ
 ขายเสื้อผ้าเด็ก
 คาสิโน
