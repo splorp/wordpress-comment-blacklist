@@ -3586,6 +3586,7 @@ _zapat
 /xurl.es
 /ya.
 /yabb
+/ylink.pro
 /yourls.org
 /yours.
 /yukon-claim.
