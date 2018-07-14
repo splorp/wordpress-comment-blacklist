@@ -379,6 +379,9 @@ _zapat
 -anonymous-
 -anonymous.
 -anonymous/
+-app-rating-
+-app-rating.
+-app-rating/
 -argente-
 -argente.
 -argente/
@@ -719,6 +722,9 @@ _zapat
 -get-free-
 -get-professional-
 -gifts-
+-haberlist-
+-haberlist.
+-haberlist/
 -handbag-
 -handbag.
 -handbag/
@@ -1333,6 +1339,7 @@ _zapat
 !@#
 ? relevant!
 ?/pag
+?a=stats
 ?add
 ?adidas
 ?aff=
@@ -1390,6 +1397,7 @@ _zapat
 . ?i
 .-0
 .-1
+….
 ..a
 .()
 .[]
@@ -1408,6 +1416,9 @@ _zapat
 .allocating-
 .allocating.
 .allocating/
+.app-rating-
+.app-rating.
+.app-rating/
 .armani-
 .armani/
 .armpit-
@@ -1448,6 +1459,7 @@ _zapat
 .blog5
 .blogbox.
 .blogdon.
+.bloggerpr.
 .bloglovin.
 .blogminds.
 .blogolize.
@@ -1580,6 +1592,9 @@ _zapat
 .games.za
 .gucci-
 .gull.gull
+.haberlist-
+.haberlist.
+.haberlist/
 .hard-
 .hatenablog.
 .hatenadiary.
@@ -2353,6 +2368,9 @@ _zapat
 /anonymous.
 /answer-
 /answer.
+/app-rating-
+/app-rating.
+/app-rating/
 /archive.li
 /armani-
 /armpit-
@@ -2784,6 +2802,9 @@ _zapat
 /gucci.
 /guide-
 /gul.ly
+/haberlist-
+/haberlist.
+/haberlist/
 /haglofs-
 /haglofs.
 /handle/
@@ -3899,6 +3920,8 @@ _zapat
 ＄７０
 ＄８０
 ＄９０
+$eleven
+$sixty
 ¥·
 ¥°
 ¥¦
@@ -4894,11 +4917,13 @@ advertise your
 advertise-market
 advertise-your
 advertising channel
+advertising consultancy
 advertising market
 advertising method
 advertising research
 advertising-and-marketing
 advertising-channel
+advertising-consultancy
 advertising-market
 advertising-method
 advertising-research
@@ -5158,7 +5183,9 @@ ametuer
 aminocare
 amitriptyline
 amor barulhento
+amor tarot
 amor-barulhento
+amor-tarot
 amorbarulhento
 amorti dynamique
 amorti-dynamique
@@ -5173,6 +5200,7 @@ amoxil
 amped page
 amped-page
 ampedpage
+ampmexterm
 amulet coin
 amulet-coin
 amusement account
@@ -5635,9 +5663,11 @@ australia-clearance
 australia-jersey
 australiaboot
 australiaclearance
+australian chilling
 australian poker
 australian pokie
 australian slot
+australian-chilling
 australian-poker
 australian-pokie
 australian-slot
@@ -6547,6 +6577,7 @@ bit.ly/
 bitartrate
 bitcoin acc
 bitcoin add
+bitcoin buy
 bitcoin casino
 bitcoin cassino
 bitcoin code
@@ -6558,6 +6589,7 @@ bitcoin wallet
 bitcoin_
 bitcoin-acc
 bitcoin-add
+bitcoin-buy
 bitcoin-casino
 bitcoin-cassino
 bitcoin-code
@@ -6568,6 +6600,7 @@ bitcoin-talk
 bitcoin-wallet
 bitcoinacc
 bitcoinadd
+bitcoinbuy
 bitcoincas
 bitcoincode
 bitcoindepos
@@ -7149,6 +7182,7 @@ brazilbikini
 brazzer
 breakfast coming
 breakfast-coming
+breakk in
 breast porn
 breast-porn
 breastactive
@@ -7333,6 +7367,8 @@ burnout cheat
 burnout hack
 burnout-cheat
 burnout-hack
+busca sexo
+busca-sexo
 business catalyst
 business empire
 business know
@@ -7463,6 +7499,7 @@ buying insta
 buying likes
 buying rune
 buying traff
+buying-a-car
 buying-face
 buying-fifa
 buying-insta
@@ -8145,7 +8182,9 @@ charlescave
 charms thomas
 charms-thomas
 charmsthomas
+chat tarot
 chat-chat
+chat-tarot
 chatchat
 chaturbate
 chaussres boutique
@@ -8236,6 +8275,7 @@ chce-rozwodu
 chcoin.co
 cheap afl
 cheap air
+cheap anti
 cheap atlanta
 cheap autentic
 cheap authentic
@@ -8301,6 +8341,7 @@ cheap soccer
 cheap stephen
 cheap sunglass
 cheap supra
+cheap swimwear
 cheap timber
 cheap toms
 cheap travel
@@ -8384,6 +8425,7 @@ cheap-soccer
 cheap-stephen
 cheap-sunglass
 cheap-supra
+cheap-swimwear
 cheap-timber
 cheap-tms
 cheap-toms
@@ -8544,9 +8586,19 @@ chic mcm
 chic-casino
 chic-cassino
 chic-mcm
+chica chat
+chica-chat
 chiccasino
 chiccassino
 chicmcm
+chico chat
+chico gay
+chico-chat
+chico-gay
+chicos chat
+chicos gay
+chicos-chat
+chicos-gay
 chid casino
 chik casino
 chik cassino
@@ -8983,6 +9035,9 @@ coatout
 coats out
 coats-out
 coatsout
+cock hero
+cock-hero
+cockhero
 code coupon
 code generat
 code promo
@@ -9012,6 +9067,7 @@ codigo-descuento
 codigodescuento
 coffee erectile
 coffee-erectile
+cofoubder
 cohttp
 coin cheat
 coin foot
@@ -9282,12 +9338,18 @@ comunity
 concerning blog
 concerning-blog
 concerpts
+condo-sg
+condosg
 condotel tai
 condotel-tai
 conficker worm
 conficker-worm
 confira agora
 confira-agora
+conoce mujeres
+conoce-mujeres
+conocer gente
+conocer-gente
 conquista baixar
 conquista-baixar
 conquistar blog
@@ -9310,11 +9372,19 @@ consultation-attorney
 consultation-lawyer
 consultationattorney
 consultationlawyer
+consyltancy
 contact_
 contact/contact
+contactos chico
+contactos mujeres
+contactos-chico
+contactos-mujeres
 contactus/contact
+content content
+content download
 content material
-content-downloader
+content-content
+content-download
 content-material
 continue assim
 continue-assim
@@ -9682,6 +9752,7 @@ custom wheel
 custom-control
 custom-essay
 custom-jersey
+custom-mom
 custom-nike
 custom-rim
 custom-term-paper
@@ -9695,6 +9766,7 @@ customized dissertation
 customized essay
 customized-dissertation
 customized-essay
+customized-mom
 customnike
 customrim
 customwheel
@@ -10015,11 +10087,15 @@ designcheap
 designeed
 designer-bag
 designer-brand
+designer-in-chennai
+designer-in-mumbai
 designer-jewel
 designer-label
 designer-shoe
 designerbag
 designerbrand
+designerinchennai
+designerinmumbai
 designerjewel
 designerlabel
 designershoe
@@ -10378,16 +10454,19 @@ downjack
 download apk
 download brace
 download drama
+download freebie
 download gratis
 download joomla
 download_
 download-apk
 download-brace
 download-drama
+download-freebie
 download-gratis
 download-joomla
 downloadablegame
 downloadbrace
+downloadfreebie
 downloadism
 downloads_
 doxycycline
@@ -10839,6 +10918,7 @@ equipement manufact
 equipement-manufact
 equipment manufact
 equipment-manufact
+equivalentt
 era afl
 era mlb
 era nba
@@ -11374,6 +11454,7 @@ fantastictopic
 fantastictreatment
 fantasticweblog
 fantasticwebsite
+farmacia
 farmacia_
 farmacias
 farming-secret
@@ -11866,7 +11947,9 @@ firme sprzata
 firme-sprzata
 firmenadressen
 first loan
+first-class news
 first-class web
+first-class-news
 first-class-web
 first-loan
 firstclass-web
@@ -11889,8 +11972,10 @@ fitflop
 fitness_gym
 fitness-gym
 fitness.gym
+fiverr
 fiverr method
 fiverr-method
+fiverseller
 fivestardoll
 fix credit
 fix-credit
@@ -11926,6 +12011,7 @@ fler artiklar
 fler-artiklar
 flex-global
 flexglobal
+flexiblpe
 flik.us
 flirt fever
 flirt-fever
@@ -11949,6 +12035,7 @@ fodboldtrøjer
 foglio prada
 foglio-prada
 foglioprada
+follixin
 follower love
 follower-love
 followers love
@@ -12260,6 +12347,8 @@ freeiphone
 freeipod
 freelance buyer
 freelance-buyer
+freelanhce
+freelannce
 freelaranita
 freem4a
 freembtrans
@@ -12726,6 +12815,7 @@ get-hermes
 get-know-how
 get-massive
 get-money-for
+get-more-information
 get-pokego
 get-private
 get-rid-of
@@ -12849,6 +12939,8 @@ girlsdaydress
 girlseblog
 girlsescort
 girlspouse
+gitano gratis
+gitano-gratis
 giubbino moncler
 giubbino-moncler
 giubbinomoncler
@@ -13100,6 +13192,7 @@ goodbye.asp
 goodfree
 goodgame
 goodnessknow
+goodprocareer
 goodsblog
 goodtemplate
 goog luck
@@ -13538,6 +13631,7 @@ guidebook you
 guidebook-you
 guiltfree
 gull-minnow.gull-minnow
+gull-minnow.top
 gun bisnis
 gun-bisnis
 gunstig kaufen
@@ -13826,12 +13920,14 @@ hellllo
 helllo
 hello admin
 hello dress
+hello please
 hello sex
 hello that
 hello this
 hello_world
 hello-admin
 hello-dress
+hello-please
 hello-sex
 hello-that
 hello-this
@@ -13895,6 +13991,7 @@ herbalsmok
 herbaltincture
 here  different
 here different
+here itt
 here-different
 heren timber
 heren-timber
@@ -14006,13 +14103,17 @@ hgh-purchase
 hgh-sup
 hgher
 hghsup
+hhave to
 hhttp
+hi dear,
 hi hi
 hi-hi
 hid_
 hidro-ponik
 hidroponik
 hierbasmedicin
+hieu-suat-cao
+hiệu-suất-cao
 high weblog
 high website
 high-grade content
@@ -14319,8 +14420,10 @@ hotpanty
 hotsale
 hotsunglass
 hottag
+hottest info
 hottest tech
 hottest update
+hottest-info
 hottest-tech
 hottest-update
 hourpayday
@@ -14364,6 +14467,7 @@ how-to-clean
 how-to-creat
 how-to-get
 how-to-have
+how-to-improve
 how-to-lose
 how-to-make
 how-to-medi
@@ -14471,6 +14575,7 @@ idenfify
 ifyou
 ig.o.r
 ihttp
+iin case
 iin many
 ilistdzb
 illions4u
@@ -14791,6 +14896,8 @@ insanity.php
 insanityjournal
 insanityworkout
 insdier
+inseminacion artificial
+inseminacion-artificial
 inside reputation
 inside-reputation
 insomnia journal
@@ -15804,8 +15911,10 @@ kinopozitiv
 kinoprog
 kinowinterthur
 kiss casino
+kiss install
 kiss official
 kiss-casino
+kiss-install
 kiss-love
 kiss-official
 kisscasino
@@ -15844,6 +15953,8 @@ klein-prezzi
 kleinfelpa
 kleinmujer
 kleinprezzi
+klik disini
+klik-disini
 klonopin
 klub.in
 klub.pl
@@ -16095,6 +16206,8 @@ land-hack
 landhack
 landing-page
 landingpage
+landslagstroja
+landslagströja
 lap lap
 lap-lap
 laplap
@@ -16212,9 +16325,12 @@ lawoffice.net
 laws symbol
 laws-symbol
 lawyer free
+lawyer sex
 lawyer-free
+lawyer-sex
 lawyerfree
 lɑ
+lcdled
 lead-sys
 leagle porn
 leagle-porn
@@ -16248,6 +16364,7 @@ led_street
 leder jack
 leder-jack
 lederjack
+ledlcd
 leg-wear
 legal bud
 legal cash
@@ -16298,10 +16415,12 @@ legitimate drug
 legitimate graph
 legitimate pharm
 legitimate script
+legitimate web
 legitimate-drug
 legitimate-graph
 legitimate-pharm
 legitimate-script
+legitimate-web
 legitimatedrug
 legitimategraph
 legitimatepharm
@@ -17242,6 +17361,7 @@ marketing book
 marketing exchange
 marketing hero
 marketing mark
+marketing monst
 marketing online
 marketing prof
 marketing samu
@@ -17256,6 +17376,7 @@ marketing-book
 marketing-exchange
 marketing-hero
 marketing-mark
+marketing-monst
 marketing-online
 marketing-prof
 marketing-samu
@@ -17268,6 +17389,7 @@ marketingbook
 marketingexchange
 marketinghero
 marketingmark
+marketingmonst
 marketingonline
 marketingprof
 marketingsamu
@@ -17308,10 +17430,12 @@ mass-article
 mass-face
 massa muscular
 massa-muscular
+massage close
 massage envy
 massage erotic
 massage massage
 massage_
+massage-close
 massage-envy
 massage-erotic
 massage-massage
@@ -18007,6 +18131,7 @@ mold inspection
 mold-inspection
 moldinspection
 moldremov
+mom-jewelry
 moncle site
 moncle sito
 moncle-site
@@ -18217,6 +18342,7 @@ money-adder
 money-buzz
 money-fast
 money-generat
+money-illusion
 money-mak
 money-phone
 money-prim
@@ -18232,6 +18358,7 @@ money.php
 moneybuzz
 moneyfast
 moneygenerat
+moneyillusion
 moneymak
 moneyprim
 moneyrobot
@@ -18404,6 +18531,8 @@ mudar-dieta
 muhst say
 mujer timberland
 mujer-timberland
+mujeres solteras
+mujeres-solteras
 mulbeery
 mulberry alexa
 mulberry bag
@@ -18629,15 +18758,18 @@ natura.it
 natural cure
 natural estimulant
 natural penis
+natural tits
 natural-cure
 natural-estimulant
 natural-penis
+natural-tits
 natural-way
 naturalcure
 naturally gain
 naturally-gain
 naturalovarian
 naturalpenis
+naturaltits
 naturalway
 natureto
 natürlich
@@ -19420,6 +19552,7 @@ one-logins
 one-nike
 one:-
 one:)
+onee of
 onelogins
 oneminutesite
 onenike
@@ -20518,6 +20651,7 @@ picture blog
 picture-blog
 pictures blog
 pictures-blog
+pictuyre
 pidarashechk
 pignee
 pigus kvepalai
@@ -21233,6 +21367,7 @@ primary-change
 primeessay
 primeira vez
 primeira-vez
+primzrily
 principal longchamp
 principal-longchamp
 principallongchamp
@@ -21288,6 +21423,7 @@ proc opport
 proc-opport
 procedures-for
 proceesing
+procoatpaint
 produce article
 produce-article
 producer excellent
@@ -21413,10 +21549,13 @@ profit-seek
 profitengine
 profitpro
 profitreview
+profits review
 profits stream
 profits-
+profits-review
 profits-stream
 profitseek
+profitsreview
 program ppc
 program-ppc
 progressive jackpot
@@ -21710,6 +21849,7 @@ quality-quartz
 quality-site
 quality-weblog
 quality-writing
+qualuty
 quanto cost
 quanto-cost
 quantocost
@@ -22454,6 +22594,7 @@ rotatinghotiron
 rouge moncler
 rouge-moncler
 rougemoncler
+round thaat
 roxy ugg
 roxy-ugg
 roxyugg
@@ -22808,6 +22949,8 @@ sáo-trúc
 saotruc
 satchelbag
 satcheldbag
+satisfied reading
+satisfied-reading
 saudavel perder
 saudável perder
 saudavel-perder
@@ -23356,7 +23499,9 @@ sexyweb
 sexywoman
 sexywomen
 seznamce
+sg-launch
 sgames.co
+sglaunch
 shanghai date
 shanghai escort
 shanghai massage
@@ -23671,6 +23816,7 @@ shred-hd
 shredhd
 shrwed
 shttp
+shubhashis
 sɦ
 si.lv.e.r.w.are
 si've
@@ -23892,6 +24038,8 @@ skup,aut
 sky pharmacy
 sky-pharmacy
 skypharmacy
+sleazy lawyer
+sleazy-lawyer
 sledge baseball
 sledge bat
 sledge-baseball
@@ -23954,6 +24102,7 @@ smeoone
 smith sold
 smith-sold
 smithsold
+smnall
 smokingnews
 sms grupp
 sms-grupp
@@ -24603,6 +24752,7 @@ suggestedpage
 suggestedpost
 suggestedsite
 suggestedwebsite
+suggestionss
 suhagra_
 suhagra-24
 suhagra-100
@@ -24733,10 +24883,12 @@ sweet blog
 sweet cum
 sweet page
 sweet site
+sweet website
 sweet-blog
 sweet-cum
 sweet-page
 sweet-site
+sweet-website
 sweetblog
 sweetpage
 sweetsite
@@ -24876,14 +25028,23 @@ tarifmalin
 tariki shoe
 tariki-shoe
 tarikishoe
+tarot amor
 tarot divin
+tarot gitano
+tarot gratis
+tarot mensual
+tarot-amor
 tarot-divin
+tarot-gitano
+tarot-gratis
+tarot-mensual
 tasche longchamp
 tasche-longchamp
 taschelongchamp
 taschen longchamp
 taschen-longchamp
 taschenlongchamp
+taskss
 tastegood.co
 tattoo cheap
 tattoo galler
@@ -25058,6 +25219,7 @@ texansjers
 textile urbain
 textile-urbain
 tgf@
+thaat out
 thai camp
 thai massage
 thai-camp
@@ -25091,8 +25253,14 @@ thatrapid
 thats need
 thats-need
 thatthe
+thc blog
+thc forum
 thc review
+thc-blog
+thc-forum
 thc-review
+thcblog
+thcforum
 thcreview
 the blog,
 the carfiac
@@ -25186,6 +25354,7 @@ this posst
 this proficiency
 this publish
 this weblog
+this weblog;
 this webpage
 this website;
 this write-up
@@ -25210,6 +25379,8 @@ thnkgini
 thnnik
 thnx u
 thnx-u
+tho-prudential
+thọ-prudential
 thoatvidia
 thomas sabot
 thomas-fat
@@ -25526,6 +25697,7 @@ top-viral
 top.asses
 top.c.i
 top.i.c
+top.isite
 top10best
 topamax
 toparticle
@@ -27050,6 +27222,7 @@ weblog format
 weblog layout
 weblog-format
 weblog-layout
+weblog; this
 weblog!
 weblog}
 weblogg
@@ -27135,6 +27308,7 @@ websites-provide
 websites-visit
 websitesdesign
 websitesonline
+websitess
 websitestyle
 websitesvisit
 websitetraff
@@ -27230,6 +27404,7 @@ whats-blog
 whatsapp
 whatsblog
 whatt you
+whawt
 wheel.es
 wheeles
 wheels.co
@@ -27446,8 +27621,10 @@ women-bikini
 women+
 womenbikini
 won blog
+won weblog
 won webpage
 won-blog
+won-weblog
 won-webpage
 wonblog
 wondeful
@@ -27768,6 +27945,8 @@ xl-paket
 xlpaket
 xmail.pw
 xn--
+xnxx video
+xnxx-video
 xomizz
 xopenex
 xportant
