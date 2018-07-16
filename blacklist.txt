@@ -6077,6 +6077,8 @@ banprezzo
 banque parrainage
 banque-parrainage
 bansunglass
+bảo hiểm
+bảo-hiểm
 barata online
 barata person
 barata ropa
@@ -7748,7 +7750,6 @@ candy-crush
 candycrash
 candycrush
 cann't
-cann't imagine
 cann’t
 cannabis buy
 cannabis grow
@@ -9495,8 +9496,10 @@ cosmetiqueswhole
 cosmetiquewhole
 cosmtique
 cost-effective
+cost-of-cial
 costly sufficient
 costly-sufficient
+costofcial
 costume aged
 costume ermen
 costume homme
@@ -9818,6 +9821,8 @@ daftar poker
 daftar-agen
 daftar-harga
 daftar-poker
+đại lý
+đại-lý
 daikly
 dailly
 daily bloglist
@@ -10216,6 +10221,8 @@ dietplan
 dietreview
 dietsolution
 dietsuppl
+điều trị
+điều-trị
 different wordpress
 different-wordpress
 differin
@@ -11769,6 +11776,8 @@ ferragamooutlet
 ferragamosale
 ferragamoshop
 ferragamotie
+ferreira download
+ferreira-download
 fetish xxx
 fetish-xxx
 fetishxxx
@@ -11973,8 +11982,6 @@ fitness_gym
 fitness-gym
 fitness.gym
 fiverr
-fiverr method
-fiverr-method
 fiverseller
 fivestardoll
 fix credit
@@ -12346,7 +12353,9 @@ freeipad
 freeiphone
 freeipod
 freelance buyer
+freelance paralegal
 freelance-buyer
+freelance-paralegal
 freelanhce
 freelannce
 freelaranita
@@ -12864,8 +12873,10 @@ ghduk
 ghttp
 gia cong
 gia công
+giá rẻ
 gia-cong
 gia-công
+giá-rẻ
 giant 100%
 giant-100%
 giants-jers
@@ -14513,9 +14524,11 @@ huaytoday
 huge 100%
 huge cock
 huge great
+huge savings
 huge-100%
 huge-cock
 huge-great
+huge-savings
 hugecock
 hugescock
 human site
@@ -15205,6 +15218,7 @@ isn''t
 isnt
 isotretinoine
 isseo
+issuesing
 istanbul escort
 istanbul-escort
 istanbulescort
@@ -17654,6 +17668,7 @@ mcqueenclub
 mcqueendress
 mcqueensilk
 me greatly
+me haha
 me passionne
 me-greatly
 me-passionne
@@ -18127,6 +18142,8 @@ modules.cfm
 modules.htm
 modules.jsp
 modules.php
+môi giới
+môi-giới
 mold inspection
 mold-inspection
 moldinspection
@@ -21662,6 +21679,7 @@ przepisane
 przeprowadzki
 przysiegly
 ps4xbox
+pscoupon
 psn code
 psn hack
 psn-code
@@ -24133,6 +24151,7 @@ sneakerssale
 sneakerstrade
 sneakertrade
 snism
+snoiper
 snore mouth
 snore stop
 snore-mouth
@@ -27322,6 +27341,7 @@ webtherefore
 webviewconsult
 webviewer
 wedding jewel
+wedding-angel
 wedding-jewel
 weddingdress
 wedtgh
@@ -28069,7 +28089,6 @@ york-sportiv
 yorksportiv
 you aare
 you article
-you cann't
 you gucci
 you sees
 you ssay
@@ -29047,6 +29066,7 @@ zyvox
 с‰
 с°
 с±
+сialis
 с№
 сµ
 сайт визитк
