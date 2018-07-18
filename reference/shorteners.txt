@@ -51,6 +51,7 @@
 /to.ly
 /tr.im
 /urlms.co
+/v.gd
 /x.co
 /xurl.es
 /ylink.pro

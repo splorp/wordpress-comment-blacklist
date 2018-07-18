@@ -3537,6 +3537,7 @@ _zapat
 /userprofiles/
 /userupload/
 /useruploads/
+/v.gd
 /valkiriarf-
 /valkiriarf.
 /valkiriarf/
