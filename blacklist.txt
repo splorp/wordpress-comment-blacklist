@@ -1472,6 +1472,7 @@ _zapat
 .blogspace.
 .blogster.
 .bloguetechno.
+.bloguetrotter.
 .blogzag.
 .bluray-
 .bluray.
@@ -1507,6 +1508,7 @@ _zapat
 .club/free
 .club/homme
 .club/plan
+.club/pourquoi
 .club/site
 .coach-
 .com illegal
@@ -2977,6 +2979,8 @@ _zapat
 /links-
 /links.
 /links/
+/lipo-suction
+/liposuction
 /list-
 /list.
 /loans
@@ -7445,6 +7449,7 @@ buy qsymia
 buy silver
 buy toms
 buy traff
+buy trusted
 buy women
 buy-acrylic
 buy-blade
@@ -7484,6 +7489,7 @@ buy-soma
 buy-toms
 buy-top
 buy-traff
+buy-trusted
 buy-women
 buy.top
 buycanadagoose
@@ -10155,6 +10161,7 @@ dg-shoe
 dhttp
 di droga
 di-droga
+di#gi#t
 dia-tips
 diablo3
 dial-face
@@ -10396,6 +10403,8 @@ doesn t
 doesnt
 dog proprietor
 dog-proprietor
+dog's dog day
+dog’s dog day
 dokumenta
 dokumento
 dokumentó
@@ -11052,6 +11061,7 @@ essay-solution
 essay-today
 essay-typer
 essay-write
+essay4u
 essayempire
 essayer cette
 essayer-cette
@@ -11071,6 +11081,7 @@ essays-help
 essays-intro
 essays-serv
 essays-write
+essays4u
 essaysempire
 essayserv
 essayshelp
@@ -13384,6 +13395,7 @@ goyard-online
 goyardbag
 goyardonline
 gpswificlock
+gra#phi#
 graduand
 grafica preco
 grafica preço
@@ -13956,11 +13968,26 @@ heilhitler
 hellllo
 helllo
 hello admin
+hello dear
 hello dress
+hello it's good
+hello it's me
+hello it’s good
+hello it’s me
+hello its good
+hello its me
 hello please
 hello sex
 hello that
+hello there after
+hello there dear
+hello there just
+hello there, after
+hello there, dear
+hello there, just
 hello this
+hello to all
+hello to every
 hello_world
 hello-admin
 hello-dress
@@ -13971,6 +13998,12 @@ hello-this
 hello-world
 hello-world-1
 hello-world-2
+hello, it's good
+hello, it's me
+hello, it’s good
+hello, it’s me
+hello, its good
+hello, its me
 hello!my
 hello.this
 helloadmin
@@ -14144,7 +14177,27 @@ hhave to
 hhttp
 hi dear,
 hi hi
+hi it's good
+hi it's me
+hi it’s good
+hi it’s me
+hi its good
+hi its me
+hi there after
+hi there dear
+hi there just
+hi there, after
+hi there, dear
+hi there, just
+hi to all
+hi to every
 hi-hi
+hi, it's good
+hi, it's me
+hi, it’s good
+hi, it’s me
+hi, its good
+hi, its me
 hid_
 hidro-ponik
 hidroponik
@@ -18673,8 +18726,7 @@ my web-site
 my web;
 my web:
 my webb
-my weblog;
-my weblog:
+my weblog
 my webpage
 my website;
 my website:
@@ -18698,6 +18750,7 @@ my-sitte
 my-ssite
 my-virus
 my-webb
+my-weblog
 my-webpage
 my-wweb
 myanmar-tour
@@ -18949,6 +19002,7 @@ new large
 new manolo
 new mastery
 new seo
+new the web
 new webpage
 new zune
 new-article
@@ -20643,6 +20697,7 @@ phone advert
 phone free
 phone gratuit
 phone poker
+phone transform
 phone-advert
 phone-case-cover
 phone-free
@@ -20652,6 +20707,7 @@ phone-lookup
 phone-number-lookup
 phone-poker
 phone-store
+phone-transform
 phoneadvert
 phonecasecover
 phoneforsale
@@ -20662,6 +20718,7 @@ phonelookup
 phonepoker
 phonescanad
 phonesforsale
+phonesss
 phonestore
 phonstore
 photo/bv
@@ -20799,6 +20856,7 @@ pleasant article
 pleasant blog
 pleasant designed
 pleasant good
+pleasant knowledge
 pleasant post
 pleasant understand
 pleasant vehicle
@@ -20806,6 +20864,7 @@ pleasant-article
 pleasant-blog
 pleasant-designed
 pleasant-good
+pleasant-knowledge
 pleasant-post
 pleasant-understand
 pleasant-vehicle
@@ -23878,6 +23937,7 @@ sɦ
 si.lv.e.r.w.are
 si've
 si’ve
+si#mple
 sia ottimo
 sia-ottimo
 sibutramine
@@ -23952,6 +24012,7 @@ sistershit
 site -
 site ::
 site (:
+site =)
 site amor
 site asian
 site backup
@@ -25903,12 +25964,14 @@ trimethoprim
 triviatrivia
 trollapp
 true search
+truly awesome paragraph
 truly fastidious
 truly fruitful
 truly peaked
 truly suppose
 truly thk
 truly very
+truly-awesome-paragraph
 truly-fastidious
 truly-fruitful
 truly-peaked
@@ -26335,6 +26398,7 @@ underthe
 une moncler
 une-moncler
 unemoncler
+uni#que#
 unique article
 unique broker
 unique interact
@@ -27660,6 +27724,7 @@ winterjassen
 wirh you
 wise quote
 wise-quote
+wishing for blog
 witgh
 with declare
 with pics
