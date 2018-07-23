@@ -555,6 +555,7 @@ _zapat
 -coins.
 -coins/
 -comfort-
+-computer-recycling.
 -converse.
 -converse/
 -cool-t-shirt-
@@ -4901,6 +4902,8 @@ adult-toy
 adult-vid
 adultbase
 adultdat
+adultfriened
+adultfrinend
 adultgirl
 adultsex
 adultstory
@@ -6353,6 +6356,7 @@ best evance
 best forex
 best gaming
 best jers
+best lawyer
 best mcm
 best online
 best pant
@@ -6380,6 +6384,7 @@ best-forex
 best-gaming
 best-home-cinema
 best-jers
+best-lawyer
 best-mcm
 best-pant
 best-payment
@@ -6419,6 +6424,7 @@ bestgaming
 bestgasmileage
 bestjers
 bestlaptop
+bestlawyer
 bestmcm
 bestpant
 bestpayment
@@ -6899,18 +6905,24 @@ book-marked
 book-marking it
 book-marks
 book-ot-
+bookmark it
 bookmark thank
+bookmark this
 bookmark web
+bookmark your
 bookmark-thank
 bookmark-web
 bookmarked :)
+bookmarked it
 bookmarked thank
 bookmarked this
 bookmarked web
+bookmarked your
 bookmarked-thank
 bookmarked-this
 bookmarked-web
 bookmarked!
+bookmarking it
 bookmarks thank
 bookmarks web
 bookmarks-thank
@@ -11545,17 +11557,20 @@ fashionstore
 fashiontrend
 fashionwomen
 fast cash
+fast coupon
 fast loan
 fast money
 fast quick
 fast-bookmark
 fast-cash
+fast-coupon
 fast-loan
 fast-money
 fast-quick
 fast|quick
 fastbookmark
 fastcash
+fastcoupon
 fastidious art
 fastidious blog
 fastidious data
@@ -11849,6 +11864,7 @@ fifaut
 fifaworldhack
 figc
 fightmark
+fiɡure
 filenamedat
 filenamesdat
 files/new
@@ -12127,6 +12143,7 @@ for gucci
 for himm
 for interact
 for thhe
+for this website
 for yolur
 for_business
 for-business-advertis
@@ -12476,9 +12493,12 @@ fridaynfl
 fridaynhl
 fridaysale
 fridayugg
+frienedfinder
+frinendfinder
 frlongchamp
 frmoncler
 from subsequent
+from this website
 from-subsequent
 fromnavid
 front_single
@@ -12609,6 +12629,7 @@ futuristicmarket
 fx profit
 fx-profit
 fxprofit
+fаntastic
 fе
 g http
 g-star jean
@@ -14458,8 +14479,10 @@ hosted blog
 hosted-blog
 hosting community
 hosting deutsch
+hosting india
 hosting-community
 hosting-deutsch
+hosting-india
 hostingdeutsch
 hosts-file
 hostseller
@@ -16915,6 +16938,7 @@ longchamptote
 longchamptourne
 longchampuk
 longchampyama
+longｅr
 lonikog
 lookeach
 looked on-line
@@ -18578,6 +18602,8 @@ mostexpensive
 mostra vid
 mostra-vid
 mostravid
+mother fuck
+mother-fuck
 motor wholesale
 motor-wholesale
 moustache play
@@ -18586,11 +18612,13 @@ moustacheplay
 movement-part
 movementpart
 movie on-line
+movie online
 movie-online
 movie-zone
 movie/?
 movieonline
 movies on-line
+movies online
 movies-online
 movies-zone
 movies/?
@@ -18722,6 +18750,7 @@ my site;
 my site:
 my sitte
 my ssite
+my web page
 my web-site
 my web;
 my web:
@@ -19557,8 +19586,10 @@ of herpes
 of internet
 of manies
 of tgese
+of this website
 of tthe
 of tthis
+of website
 of-deemed
 of-herpes
 of-internet
@@ -19639,6 +19670,7 @@ oksunglass
 okycupid
 old/dress
 old|
+on this website
 on thjis
 on tthe
 on-line certif
@@ -20084,6 +20116,7 @@ outstandingsite
 outstandingtopic
 outstandingweblog
 outstandingwebsite
+outstdanding
 ovariancyst
 overall glance
 overall-advertising
@@ -20388,6 +20421,8 @@ particular wearer
 particular-article
 particular-proficiency
 particular-wearer
+partidos online
+partidos-online
 party poker
 party shirt
 party tshirt
@@ -22194,6 +22229,7 @@ receive-carried
 recent seo
 recent-seo
 recentseo
+recephalexin
 reciclable
 recipe paleo
 recipe-paleo
@@ -23198,6 +23234,8 @@ search-porn
 searchengine-opt
 searchengine.
 searchengineopt
+searchhing
+searching
 searchoptim
 searchporn
 seawaypab
@@ -25056,6 +25094,7 @@ sі
 sо
 sу
 sһ
+sսrf
 sօ
 t http
 t_/
@@ -25478,6 +25517,8 @@ this landline
 this posst
 this proficiency
 this publish
+this web page
+this web site
 this weblog
 this weblog;
 this webpage
@@ -26447,6 +26488,7 @@ unonochaus
 untrasdend
 untrodden project
 untrodden-project
+unuseful comment
 unwanted-hair
 unwantedhair
 uomo adidas
@@ -27016,6 +27058,9 @@ virussecur
 visijt
 visit homepage
 visit my
+visit this blog
+visit this site
+visit this web
 visit web
 visit-homepage
 visit-my
@@ -27568,6 +27613,7 @@ wheretoget
 which-is-depress
 which-will-save
 whichpag
+while
 white hermes
 white nfl
 white-hermes
@@ -27942,6 +27988,7 @@ wrinting
 wristband-austr
 wristbands-austr
 wristpain
+write an post
 write subsequent
 write-a-protocol
 write-essay
@@ -27951,9 +27998,11 @@ write-subsequent
 write-up very
 writeessay
 writepaper
+writes an post
 writing he/she
 writing manually
 writing taste
+writing writing
 writing-a-dissertation
 writing-dissertation
 writing-essay
@@ -27963,6 +28012,7 @@ writing-paper
 writing-person
 writing-serv
 writing-taste
+writing-writing
 writingessay
 writinghelper
 writingpaper
