@@ -30,8 +30,9 @@ _bord
 _brace
 _build
 _bulgari
+_bulgary
 _buyout
-_bvlgari
+_bvlgar
 _calvin
 _camiseta
 _campaign
@@ -4484,9 +4485,11 @@ $sixty
 100000$
 1000000$
 123456789
+a blog from
 a http
 a lots
 a ppart
+a weblog from
 a-cell-phone
 a-lots
 a-powerful-way
@@ -5331,6 +5334,7 @@ anus online
 anus-live
 anus-online
 any certain?
+any sure?
 anynihtg
 anyone folk
 anyone supply
@@ -5381,6 +5385,9 @@ appnanamod
 appnanasync
 apprecfiate
 appreciaqte
+appreciate this blog
+appreciate this post
+appreciate this weblog
 appro-chait
 approaching article
 approaching-article
@@ -5752,6 +5759,8 @@ autopost-unlimit
 autopostunlimit
 autos-sales
 autossales
+autosurf site
+autosurf-site
 autre artic
 autre-artic
 autres equip
@@ -6009,12 +6018,12 @@ bagssale
 bagsstore
 bagstore
 bagsuk
-bague bulgari
-bague bvlgari
-bague-bulgari
-bague-bvlgari
-baguebulgari
-baguebvlgari
+bague bulgar
+bague bvlgar
+bague-bulgar
+bague-bvlgar
+baguebulgar
+baguebvlgar
 baikal extreme
 baikal rest
 baikal-extreme
@@ -6952,6 +6961,7 @@ bookmarks-thank
 bookmarks-web
 bookmarksweb
 bookmarkweb
+bookmsrking
 boom-beach-hack
 boombeachhack
 boost you
@@ -7322,6 +7332,40 @@ bulgariserpent
 bulgarishop
 bulgarisshop
 bulgaristore
+bulgary bague
+bulgary bijoux
+bulgary brand
+bulgary bulgary
+bulgary bzero
+bulgary out
+bulgary replica
+bulgary serpent
+bulgary shop
+bulgary store
+bulgary_
+bulgary-bague
+bulgary-bijoux
+bulgary-brand
+bulgary-bulgary
+bulgary-bzero
+bulgary-out
+bulgary-replica
+bulgary-serpent
+bulgary-shop
+bulgary-store
+bulgarybague
+bulgarybijoux
+bulgarybrand
+bulgarybulgary
+bulgarybzero
+bulgarye bijoux
+bulgarye-bijoux
+bulgaryebijoux
+bulgaryout
+bulgaryserpent
+bulgaryshop
+bulgarysshop
+bulgarystore
 bulk clock
 bulk computer
 bulk email
@@ -8600,6 +8644,7 @@ cheatss
 checed in
 checed-in
 check weblog
+check webpage
 check who call
 check-out out
 check-out-out
@@ -11615,6 +11660,7 @@ fastidious exper
 fastidious in
 fastidious my
 fastidious page
+fastidious piece
 fastidious post
 fastidious repl
 fastidious site
@@ -11666,8 +11712,8 @@ fausse montre
 fausse_
 fausse-montre
 faussemontre
-faux bulgari
-faux bvlgari
+faux bulgar
+faux bvlgar
 faux chanel
 faux coach
 faux femme
@@ -11675,16 +11721,16 @@ faux hermes
 faux homme
 faux montre
 faux_
-faux-bulgari
-faux-bvlgari
+faux-bulgar
+faux-bvlgar
 faux-chanel
 faux-coach
 faux-femme
 faux-hermes
 faux-homme
 faux-montre
-fauxbulgari
-fauxbvlgari
+fauxbulgar
+fauxbvlgar
 fauxchanel
 fauxcoach
 fauxfemme
@@ -12302,6 +12348,7 @@ forzest
 fotografowanie
 fotos-de-tatuagen
 found iit
+found this post
 found your weblog
 found your website
 fr canad
@@ -12922,6 +12969,7 @@ get bitcoin
 get face
 get know-how
 get private
+get tthe
 get_rid
 get_started
 get-bitcoin
@@ -13448,6 +13496,8 @@ gorgeous-escort
 gorgeousescort
 gosgov
 goshop.
+got a blog
+got a weblog
 got idea
 got-idea
 gotowkowa
@@ -14972,6 +15022,8 @@ informative article
 informative blog
 informative post
 informative site
+informative web page
+informative web site
 informative weblog
 informative website
 informative-article
@@ -16694,6 +16746,8 @@ ligne-médicament
 liht therap
 liht-therap
 like this blog
+like this weblog
+like this website
 likewise pick
 likewise-pick
 limited jers
@@ -18622,16 +18676,16 @@ montblancrollerball
 montblancsold
 montblancstylo
 montblancuk
-montre bulgari
-montre bvlgari
+montre bulgar
+montre bvlgar
 montre femme
 montre rolex
-montre-bulgari
-montre-bvlgari
+montre-bulgar
+montre-bvlgar
 montre-femme
 montre-rolex
-montrebulgari
-montrebvlgari
+montrebulgar
+montrebvlgar
 montrefemme
 montrerolex
 montres femmes
@@ -19009,6 +19063,7 @@ nbashop
 nbasko
 nbautah
 nbshoe
+nce nce
 near near
 neat article
 neat blog
@@ -20220,6 +20275,7 @@ oх
 oһ
 oь
 oս
+oᥙ
 p http
 p.@
 p.y.t.h.o.n
@@ -20275,7 +20331,9 @@ página web
 pagina-web
 página-web
 pagss
+paid autosurf
 paid google
+paid-autosurf
 paid-google
 pain-behind
 pain-relief.
@@ -21338,6 +21396,7 @@ possui zero
 possui-publicidade
 possui-zero
 post aat
+post at this site
 post extreme
 post fully
 post post
@@ -22128,6 +22187,7 @@ quotes saying
 quotes-saying
 qux
 qvc
+qᥙ
 r http
 r?f?rence
 r.@
@@ -22255,6 +22315,7 @@ reach profit
 reach-me-down
 reach-profit
 read everthing
+read it fully
 read smaler
 read smaller
 read this web
@@ -22890,6 +22951,8 @@ runescape-gold
 runescape-million
 runescapegold
 runjning
+running a blog
+running a weblog
 running obuv
 running sneak
 running-femme
@@ -23586,6 +23649,7 @@ settlement cash
 settlement-cash
 seu site
 seu-site
+several good stuff
 several opportune
 several-opportune
 sex advice
@@ -24162,6 +24226,7 @@ site technique
 site theme
 site traff
 site ufficial
+site visitor
 site-amor
 site-asian
 site-backup
@@ -24183,6 +24248,7 @@ site-technique
 site-theme
 site-traff
 site-ufficial
+site-visitor
 site-web
 site:-
 site:)
@@ -24996,6 +25062,9 @@ suggested blog
 suggested page
 suggested post
 suggested site
+suggested this blog
+suggested this post
+suggested this weblog
 suggested website
 suggested-article
 suggested-blog
@@ -25190,6 +25259,7 @@ sу
 sһ
 sսrf
 sօ
+sᥙ
 t http
 t_/
 t.@
@@ -25490,9 +25560,14 @@ than forex
 than-forex
 thanh-nhac
 thanh-nhạc
+thank you for posting
+thank you for sharing
 thanks admin
 thanks designed
 thanks foor
+thanks for posting
+thanks for sharing
+thanks to web
 thanks-admin
 thanks-designed
 thanks.i
@@ -25520,11 +25595,14 @@ thc-review
 thcblog
 thcforum
 thcreview
+the articles is
 the blog,
 the carfiac
+the internet users
 the notify
 the other blog
 the pokie
+the web users
 the_best
 the-benefits-of
 the-best-treatment
@@ -25606,6 +25684,7 @@ things-we-love
 thingway
 thinking playing
 thinking-playing
+this article couldn
 this artile
 this best blog
 this best doc
@@ -25615,6 +25694,10 @@ this blog is
 this gucci
 this landline
 this posst
+this post is genuine
+this post is worth
+this post is written
+this post will assist
 this proficiency
 this publish
 this web page
@@ -25930,8 +26013,8 @@ top advanture
 top article
 top available
 top blog
-top bulgari
-top bvlgari
+top bulgar
+top bvlgar
 top new
 top option
 top stop
@@ -25944,8 +26027,8 @@ top-asses
 top-available
 top-best
 top-blog
-top-bulgari
-top-bvlgari
+top-bulgar
+top-bvlgar
 top-forum
 top-grade
 top-list
@@ -25969,8 +26052,8 @@ topamax
 toparticle
 topbest
 topblog
-topbulgari
-topbvlgari
+topbulgar
+topbvlgar
 topcontractor
 topforum
 topic.really
@@ -26618,6 +26701,7 @@ uomomoncler
 uomoscarpe
 uomotimber
 up date
+up new blog
 up till
 up tto
 up-till
@@ -26676,6 +26760,7 @@ username!
 users_
 usforex
 usinformed
+using net for post
 using simplexml
 using-simplexml
 usingn s
@@ -27455,11 +27540,15 @@ web pharm
 web promo
 web scheme
 web sie
+web site ...
 web site daily
 web site;
 web site:
 web site's
+web site's post
 web site’s
+web site’s post
+web sites post
 web sitte
 web sute
 web therefore
@@ -27511,6 +27600,7 @@ weblink
 weblog ...
 weblog format
 weblog layout
+weblog post
 weblog-format
 weblog-layout
 weblog; this
@@ -27532,6 +27622,7 @@ weboptim
 webowner
 webpage (
 webpage from
+webpage post
 webpage you
 webpage-from
 webpage-you
@@ -27580,7 +27671,9 @@ website!
 website..
 website...
 website.keep
+website's article
 website's post
+website’s article
 website’s post
 website}
 website1
@@ -28410,6 +28503,7 @@ your penis
 your porn
 your publish
 your sijte
+your site is extreme
 your site..
 your submit
 your success
@@ -28419,6 +28513,7 @@ your web page
 your web site
 your weblog
 your webpage
+your website for
 your_
 your-account
 your-blog
@@ -29607,6 +29702,9 @@ zyvox
 สถานที่ จัดงานแต่งงาน
 สถานที่-จัดงานแต่งงาน
 สูตรบาคาร่า
+ᥙa
+ᥙb
+ᥙr
 ꭼa
 ꭼl
 ꭼm
