@@ -557,6 +557,8 @@ _zapat
 -coins/
 -comfort-
 -computer-recycling.
+-computer-repair.
+-computer-repairs.
 -converse.
 -converse/
 -cool-t-shirt-
@@ -3039,6 +3041,7 @@ _zapat
 /medical.
 /medication-
 /medication.
+/megfull.
 /member/
 /members-
 /members.
@@ -4656,6 +4659,7 @@ abercrombieout
 abercrombieuomo
 abercrombiewom
 abilify
+ablpe to
 about blog
 about marijuana
 about_
@@ -4894,6 +4898,7 @@ adult base
 adult dat
 adult dvd
 adult erotic
+adult friendr
 adult girl
 adult sex
 adult story
@@ -4903,6 +4908,7 @@ adult-base
 adult-dat
 adult-dvd
 adult-erotic
+adult-friendr
 adult-girl
 adult-net
 adult-sex
@@ -4911,10 +4917,14 @@ adult-toy
 adult-vid
 adultbase
 adultdat
+adultfriendr
 adultfriened
 adultfrinend
 adultgirl
+adults friend
+adults-friend
 adultsex
+adultsfriend
 adultstory
 adulttoy
 advanced hemp
@@ -4965,11 +4975,13 @@ affiliat-blog
 affiliatblog
 affiliate blog
 affiliate click
+affiliate commission
 affiliate link
 affiliate ppc
 affiliate review
 affiliate-blog
 affiliate-click
+affiliate-commission
 affiliate-link
 affiliate-ppc
 affiliate-review
@@ -5016,6 +5028,7 @@ aflshop
 african-canadian-model
 africancanadianmodel
 ãƒ
+again!look
 agario hack
 agario-hack
 agariohack
@@ -5655,6 +5668,7 @@ astute-command
 asutralia
 aswenr
 at this website
+at tthe
 at web,
 at your website
 atempting
@@ -5793,6 +5807,7 @@ awesome article
 awesome blog
 awesome designed
 awesome page
+awesome paragraph
 awesome post
 awesome weblog
 awesome webpage
@@ -5800,6 +5815,7 @@ awesome-article
 awesome-blog
 awesome-designed
 awesome-page
+awesome-paragraph
 awesome-post
 awesome-weblog
 awesome-webpage
@@ -6232,6 +6248,7 @@ bazooka app
 bazooka-app
 bazookaapp
 bɑ
+bbe found
 bbombr
 bbrand
 bbut i
@@ -6257,6 +6274,7 @@ bddv
 bdsm sex
 bdsm-sex
 bdsmsex
+be ablpe
 be benefited
 be book-mark
 be tthe
@@ -6737,6 +6755,7 @@ blog diária
 blog forest
 blog glance
 blog here
+blog it is
 blog layout
 blog like yours
 blog link
@@ -7790,6 +7809,7 @@ camisetas-polo
 camisetashollis
 camisetaspolo
 campervanhire
+can bbe
 can-help-you
 can?t
 canada drug
@@ -8680,14 +8700,17 @@ chf iraq
 chf-iraq
 chguigng
 chic cassino
+chic luxury
 chic mcm
 chic-casino
 chic-cassino
+chic-luxury
 chic-mcm
 chica chat
 chica-chat
 chiccasino
 chiccassino
+chicluxury
 chicmcm
 chico chat
 chico gay
@@ -8793,8 +8816,10 @@ choseappnana
 chrismas.asp
 christian_
 christian-loubou
+christian-miengle
 christian+
 christianloubou
+christianmiengle
 christmas loan
 christmas-loan
 chronic edge
@@ -8993,6 +9018,7 @@ clothing-abercrom
 clothing-online
 clothingabercrom
 clothingonline
+clotrimazole
 clou replica
 clou-replica
 clredheel
@@ -9515,6 +9541,10 @@ cool-post
 cool-share
 cool-t-shirt
 coolarticle
+coool blog
+coool page
+coool site
+coool web
 coordintaing
 copie ugg
 copie-ugg
@@ -11458,9 +11488,11 @@ facialhair
 fact awesome
 fact excellent
 fact fastidious
+fact remarkable
 fact-awesome
 fact-excellent
 fact-fastidious
+fact-remarkable
 factory coach
 factory out
 factory-coach
@@ -11743,6 +11775,7 @@ fav to
 fav-it
 fav-the
 fav-to
+favor of sharing
 favorable article
 favorable blog
 favorable page
@@ -12585,6 +12618,12 @@ fridaynfl
 fridaynhl
 fridaysale
 fridayugg
+friendr find
+friendr-find
+friendrfind
+friends find
+friends-find
+friendsfind
 frienedfinder
 frinendfinder
 frlongchamp
@@ -16021,6 +16060,7 @@ kameri
 kanadakommen
 kanalizacyjne
 kanyewestsun
+kara-keto
 kardashian
 karenmillen-au
 karenmillenau
@@ -16063,6 +16103,7 @@ kensington parka
 kensington-parka
 kensingtonparka
 kèo-bóng
+keto-burn
 key gen
 key prog
 key-gen
@@ -17285,12 +17326,15 @@ luxottica-ray
 luxotticaray
 luxreplica
 luxury chanel
+luxury watch
 luxury-brand
 luxury-chanel
 luxury-replica
+luxury-watch
 luxurybrand
 luxurychanel
 luxuryreplica
+luxurywatch
 lv austr
 lv bag
 lv bras
@@ -17524,6 +17568,7 @@ manor-escort
 manteau karen
 manteau-karen
 manteaukaren
+many-utilizes
 maquiagem para
 maquiagem-para
 mar skin
@@ -18336,7 +18381,9 @@ mlsp suit
 mlsp-suit
 mlspweapon
 mmcenter.in
+mmy blog
 mmy page
+mmy web
 mobi/news
 mobilabonnementer
 mobile hack
@@ -18855,6 +18902,7 @@ my blog ...
 my blog;
 my blog:
 my bookmarks
+my bpog
 my btc
 my cryptocurrency
 my excerpt
@@ -19797,6 +19845,7 @@ old|
 on this website
 on thjis
 on tthe
+on web site
 on-line certif
 on-line-certif
 on-the-web
@@ -20508,6 +20557,8 @@ parafoninfo
 parafonmuscle
 paragraph he/she
 paragraph here
+paragraph is nice
+paragraph is really
 paragraph post
 paragraph writ
 paragraph-here
@@ -21033,6 +21084,7 @@ pleasant blog
 pleasant designed
 pleasant good
 pleasant knowledge
+pleasant paragraph
 pleasant post
 pleasant understand
 pleasant vehicle
@@ -21041,6 +21093,7 @@ pleasant-blog
 pleasant-designed
 pleasant-good
 pleasant-knowledge
+pleasant-paragraph
 pleasant-post
 pleasant-understand
 pleasant-vehicle
@@ -22338,8 +22391,10 @@ realestate.co
 realestate.web
 realestate.wordpress
 reallky
+really fastidious
 really fruitful
 really seldom
+really-fastidious
 really-fruitful
 really.. thank
 reallywork.we
@@ -22582,9 +22637,12 @@ rencontres amicale
 rencontres-amicale
 renda extra
 renda-extra
+rent luxury
 rent_in
 rent-car
+rent-luxury
 rentinsur
+rentluxury
 reockn
 repair virgin
 repair-virgin
@@ -23496,12 +23554,14 @@ senukevps
 seo add
 seo barn
 seo comp
+seo expert
 seo gain
 seo gig
 seo god
 seo host
 seo indonesia
 seo luton
+seo online
 seo pick
 seo plug
 seo rank
@@ -23519,6 +23579,7 @@ seo-1337
 seo-add
 seo-barn
 seo-comp
+seo-expert
 seo-gain
 seo-god
 seo-high-score
@@ -23526,6 +23587,7 @@ seo-highscore
 seo-host
 seo-indonesia
 seo-luton
+seo-online
 seo-pick
 seo-plug
 seo-rank
@@ -23836,6 +23898,7 @@ sharesite
 sharessite
 sharing site
 sharing-site
+sharing-your-home
 sharingsite
 sharply-wrong
 shate thou
@@ -25690,7 +25753,10 @@ this best blog
 this best doc
 this best page
 this best site
+this blog carries
 this blog is
+this blog present
+this blog;
 this gucci
 this landline
 this posst
@@ -26209,6 +26275,7 @@ try itt out
 try-these
 tthe main
 tthe other
+ttheme
 tube-zzz
 tubee.tv
 tubezzz
@@ -27448,6 +27515,7 @@ wanna state
 wanna-say
 wanna-state
 want bitcoin
+want to commentary
 want-bitcoin
 wantbitcoin
 wantsand
@@ -27542,6 +27610,7 @@ web scheme
 web sie
 web site ...
 web site daily
+web site style
 web site;
 web site:
 web site's
@@ -28134,6 +28203,7 @@ wordpress-web
 wordpressweb
 woriing
 work-review
+working, great job
 workout-sale
 workoutsale
 workreview
@@ -28220,6 +28290,7 @@ writing-person
 writing-serv
 writing-taste
 writing-writing
+writing, great job
 writingessay
 writinghelper
 writingpaper
@@ -28561,6 +28632,7 @@ yourpenis
 yourpersonal
 yourporn
 yourprofile
+yourrs
 yours nowaday
 yours-nowaday
 yoursijte
