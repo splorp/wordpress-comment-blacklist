@@ -2710,6 +2710,7 @@ _zapat
 /easing-
 /easing.
 /ebay/
+/eccl.es
 /ecig-
 /ecig.
 /economical-
@@ -2734,6 +2735,7 @@ _zapat
 /f_3/
 /f_4/
 /f_5/
+/fapme.pw
 /farmacia-
 /farmacia.
 /farmacia/
@@ -2781,6 +2783,7 @@ _zapat
 /free-shipping.
 /free-shipping/
 /free/
+/freest.at
 /fuck
 /function/
 /functions/
@@ -2973,6 +2976,7 @@ _zapat
 /librarys/
 /libs/
 /lijst/
+/lil.ink
 /limewire
 /limited-edition-
 /lineshake-
@@ -3017,6 +3021,7 @@ _zapat
 /lv-
 /lv.
 /lv/
+/lvl.vn
 /m88-
 /mailer/
 /maillot-
@@ -3222,6 +3227,7 @@ _zapat
 /ppsspp-
 /ppsspp.
 /ppsspp/
+/ppus.tk
 /prada-
 /prada.
 /prada/
@@ -3324,11 +3330,13 @@ _zapat
 /retina247.
 /retina247/
 /ri.ms
+/rih.co
 /rlu.ru
 /roulette-
 /roulette.
 /roulette/
 /rozwod
+/rrsm.nl
 /ru/news/
 /rusex-
 /rusex.
@@ -3436,6 +3444,7 @@ _zapat
 /supremacy.
 /supremacy/
 /swf/
+/swish.st
 /syaneru
 /system/
 /t.co
@@ -3485,6 +3494,7 @@ _zapat
 /thxgamers/
 /tiffany-
 /tiffany.
+/tiggi.es
 /timberland-
 /timberland.
 /tiny.cc
@@ -3499,6 +3509,7 @@ _zapat
 /titties/
 /tlkm.my
 /tmp/
+/tnyhs.com
 /to.ly
 /toms-
 /toms.
@@ -3582,6 +3593,7 @@ _zapat
 /web2/
 /web3/
 /webalizer/
+/webhop.se
 /webpage-
 /webpage.
 /webpage/
@@ -3597,6 +3609,7 @@ _zapat
 /wholesale.
 /widget/
 /widgets/
+/wntdco.mx
 /wo.
 /woolrich-
 /woolrich.
@@ -3620,10 +3633,12 @@ _zapat
 /xml/
 /xmlrpc/
 /xurl.es
+/xxs.yt
 /ya.
 /yabb
 /ylink.pro
 /yourls.org
+/yourls.site
 /yours.
 /yukon-claim.
 /yukon-gold.
