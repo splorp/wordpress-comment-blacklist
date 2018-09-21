@@ -1318,7 +1318,10 @@ _zapat
 ;; http
 ;&#x
 ;#
+:: blog
+:: weblog
 :: webpage
+:: website
 :)!
 :///
 ://a/
@@ -4940,8 +4943,11 @@ adult-vid
 adult-web
 adultbase
 adultdat
+adultfriend
 adultfriendr
 adultfriened
+adultfrienf
+adultfrinen
 adultfrinend
 adultgirl
 adults friend
@@ -5032,8 +5038,10 @@ afford afford
 afford-afford
 affordable afford
 affordable hand
+affordable seo
 affordable-afford
 affordable-hand
+affordable-seo
 afl jers
 afl official
 afl replica
@@ -5267,12 +5275,15 @@ amulet-coin
 amusement account
 amzon.co
 anabolic
+anal hook
 anal plug
 anal sex
 anal vibrator
+anal-hook
 anal-plug
 anal-sex
 anal-vibrator
+analhook
 analplug
 analsex
 analysis sport
@@ -12701,6 +12712,7 @@ friends find
 friends-find
 friendsfind
 frienedfinder
+frienffind
 frinendfind
 frinendfinder
 frlongchamp
