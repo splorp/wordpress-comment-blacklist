@@ -48,6 +48,7 @@ _cholesterol
 _christ
 _clear
 _click
+_clitor
 _clothes
 _coach
 _converse
@@ -87,13 +88,15 @@ _femme
 _fendi
 _ferrag
 _fifa
-_football
+_footbal
 _forex
 _forte
+_fotbal
 _free
 _frequent
 _fuck
 _furla
+_futbal
 _gabbana
 _generic
 _genuine
@@ -253,6 +256,7 @@ _usuario
 _util
 _vape
 _vecaro
+_vibrat
 _viral
 _virus
 _vod
@@ -4943,12 +4947,12 @@ adult-vid
 adult-web
 adultbase
 adultdat
+adultfried
+adultfriemd
 adultfriend
-adultfriendr
-adultfriened
+adultfriene
 adultfrienf
 adultfrinen
-adultfrinend
 adultgirl
 adults friend
 adults-friend
@@ -5278,11 +5282,11 @@ anabolic
 anal hook
 anal plug
 anal sex
-anal vibrator
+anal vibrat
 anal-hook
 anal-plug
 anal-sex
-anal-vibrator
+anal-vibrat
 analhook
 analplug
 analsex
@@ -8245,6 +8249,9 @@ cent|
 ceremony ceremon
 ceremony-ceremon
 ceretain
+cerita sex
+cerita-sex
+ceritasex
 cerpolo.com.br
 cert line
 cert-line
@@ -8450,6 +8457,7 @@ cheap bag
 cheap basket
 cheap beat
 cheap bike
+cheap bikini
 cheap boot
 cheap buy
 cheap carolina
@@ -8514,6 +8522,7 @@ cheap toms
 cheap travel
 cheap ugg
 cheap uk
+cheap vibrat
 cheap virtual
 cheap warrior
 cheap wed
@@ -8530,6 +8539,7 @@ cheap-bag
 cheap-basket
 cheap-beat
 cheap-bike
+cheap-bikini
 cheap-boot
 cheap-buy
 cheap-carolina
@@ -8599,6 +8609,7 @@ cheap-toms
 cheap-travel
 cheap-ugg
 cheap-uk
+cheap-vibrat
 cheap-virtual
 cheap-warrior
 cheap-web
@@ -8618,6 +8629,7 @@ cheapbasket
 cheapbeat
 cheapbeatsbydre
 cheapbike
+cheapbikini
 cheapboot
 cheapbuy
 cheapchanel
@@ -8640,6 +8652,9 @@ cheapest.co
 cheapesthockey
 cheapestprice
 cheapferrag
+cheapfootbal
+cheapfotbal
+cheapfutbal
 cheapga
 cheapgold
 cheapgucci
@@ -8687,6 +8702,7 @@ cheaptoms
 cheaptravel
 cheapugg
 cheapuk
+cheapvibrat
 cheapwarrior
 cheapweb
 cheapwhole
@@ -9039,6 +9055,10 @@ climacool
 clindamycin
 clinica-psihologie.ro
 cliquant
+clit_
+clitoral vibrat
+clitoral_
+clitoral-vibrat
 clock_dial
 clock_face
 clock_kit
@@ -10656,22 +10676,28 @@ downjack
 download apk
 download brace
 download drama
-download football
+download footbal
+download fotbal
 download freebie
+download futbal
 download gratis
 download joomla
 download_
 download-apk
 download-brace
 download-drama
-download-football
+download-footbal
+download-fotbal
 download-freebie
+download-futbal
 download-gratis
 download-joomla
 downloadablegame
 downloadbrace
-downloadfootball
+downloadfootbal
+downloadfotbal
 downloadfreebie
+downloadfutbal
 downloadism
 downloads_
 doxycycline
@@ -12233,10 +12259,14 @@ fix-credit
 fix-iphone
 fixcredit
 fixed credit
-fixed football
+fixed footbal
+fixed fotbal
+fixed futbal
 fixed match
 fixed-credit
-fixed-football
+fixed-footbal
+fixed-fotbal
+fixed-futbal
 fixed-match
 fixedcredit
 fixing credit
@@ -12704,6 +12734,8 @@ fridaynfl
 fridaynhl
 fridaysale
 fridayugg
+friedfind
+friemdfind
 friendr find
 friendr-find
 friendrfind
@@ -13960,6 +13992,7 @@ hack glitch
 hack instant
 hack ios
 hack online
+hack robux
 hack ros
 hack tool
 hack unlimit
@@ -13983,6 +14016,7 @@ hack-instant
 hack-ios
 hack-online
 hack-pass
+hack-robux
 hack-ros
 hack-the-sec
 hack-tool
@@ -15831,6 +15865,7 @@ jersey nike
 jersey paypal
 jersey soccer
 jersey whole
+jersey wholesale
 jersey-1
 jersey-2
 jersey-3
@@ -15844,6 +15879,7 @@ jersey-paypal
 jersey-pro
 jersey-soccer
 jersey-whole
+jersey-wholesale
 jersey.asp
 jersey.cfm
 jersey.htm
@@ -15873,6 +15909,7 @@ jerseys nike
 jerseys paypal
 jerseys soccer
 jerseys whole
+jerseys wholesale
 jerseys-1
 jerseys-2
 jerseys-3
@@ -15886,6 +15923,7 @@ jerseys-nike
 jerseys-paypal
 jerseys-soccer
 jerseys-whole
+jerseys-wholesale
 jerseys.us
 jerseys+
 jerseys1
@@ -15899,9 +15937,11 @@ jerseysfrom
 jerseysnike
 jerseysusa
 jerseyswhole
+jerseyswholesale
 jerseyusa
 jerseywhite
 jerseywhole
+jerseywholesale
 jewelery
 jeweline.
 jewellery.bl
@@ -17800,7 +17840,9 @@ martini cagliari
 martini-cagliari
 martinicagliari
 marvelous post
+marvelous posting
 marvelous-post
+marvelous-posting
 mas calorias
 mas-calorias
 masalah member
@@ -19102,6 +19144,9 @@ n http
 n.@
 n1-takeaway
 n1takeaway
+naga poker
+naga-poker
+nagapoker
 nail upon
 nail_art
 nail-art
@@ -21314,6 +21359,7 @@ poker game
 poker machine
 poker money
 poker online
+poker qq
 poker strateg
 poker texas
 poker without
@@ -21333,6 +21379,7 @@ poker-game
 poker-machine
 poker-money
 poker-online
+poker-qq
 poker-strateg
 poker-texas
 poker-without
@@ -23043,6 +23090,8 @@ robedemariee
 robedumariage
 robertalite
 robertby
+robux generator
+robux-generator
 roger vivier
 roger-vivier
 rogervivier
@@ -23868,7 +23917,7 @@ sex tape
 sex teen
 sex toy
 sex tube
-sex vibrator
+sex vibrat
 sex vid
 sex virgin
 sex web
@@ -23901,7 +23950,7 @@ sex-tape
 sex-teen
 sex-toy
 sex-tube
-sex-vibrator
+sex-vibrat
 sex-vid
 sex-virgin
 sex-web
@@ -25097,14 +25146,20 @@ strategii-binarny
 strategy-for
 stratificat.
 strattera
-stream-football
+stream-footbal
+stream-fotbal
+stream-futbal
 stream-nfl
 stream-rugby
-stream/football
+stream/footbal
+stream/fotbal
+stream/futbal
 stream/nfl
 stream/rugby
 stream2watch
-streamfootball
+streamfootbal
+streamfotbal
+streamfutbal
 streaming site
 streaming-site
 streamnfl
@@ -25119,8 +25174,15 @@ strickjack
 stride jack
 stride-jack
 stridejack
-strikeout football
-strikeout-football
+strikeout footbal
+strikeout fotbal
+strikeout futbal
+strikeout-footbal
+strikeout-fotbal
+strikeout-futbal
+strikeoutfootbal
+strikeoutfotbal
+strikeoutfutbal
 stripper newcastle
 stripper-newcastle
 strippers newcastle
@@ -25398,8 +25460,8 @@ sventeenligne
 sverige online
 sverige-online
 sverigeonline
-swan vibrator
-swan-vibrator
+swan vibrat
+swan-vibrat
 swarovski
 swarovski_
 swarovskijap
@@ -26936,8 +26998,15 @@ uploadingfile
 uploads_
 ups thanks
 upseseglype
-urbain football
-urbain-football
+urbain footbal
+urbain fotbal
+urbain futbal
+urbain-footbal
+urbain-fotbal
+urbain-futbal
+urbainfootbal
+urbainfotbal
+urbainfutbal
 url fx
 url-fx
 url-query
@@ -27224,6 +27293,8 @@ via-internet
 viagara
 viagera
 viagra
+vibrator_
+vibrators_
 vibro love
 vibro-love
 vibro.love
@@ -28062,11 +28133,15 @@ wholesale jers
 wholesale jersey
 wholesale jord
 wholesale led
+wholesale mlb
 wholesale nba
+wholesale nfl
+wholesale nhl
 wholesale north
 wholesale polo
 wholesale ralph
 wholesale soccer
+wholesale vibrat
 wholesale-acrylic
 wholesale-bag
 wholesale-cheap
@@ -28083,11 +28158,15 @@ wholesale-jersey
 wholesale-jord
 wholesale-led
 wholesale-mac
+wholesale-mlb
 wholesale-nba
+wholesale-nfl
+wholesale-nhl
 wholesale-north
 wholesale-polo
 wholesale-ralph
 wholesale-soccer
+wholesale-vibrat
 wholesalebag
 wholesalecheap
 wholesalechina
@@ -28106,6 +28185,7 @@ wholesalepolo
 wholesaler-mac
 wholesalermac
 wholesalesoccer
+wholesalevibrat
 whore butt
 whore-butt
 whorebutt
