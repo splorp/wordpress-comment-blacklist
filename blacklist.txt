@@ -4040,8 +4040,7 @@ $sixty
 1generic
 1hand
 1health
-1minute
-1minuts
+1minut
 1ping
 1purse
 1st comment
@@ -4086,7 +4085,7 @@ $sixty
 2hand
 2health
 2itb
-2minute
+2minut
 2ping
 2purse
 2sale
@@ -4119,7 +4118,7 @@ $sixty
 3hand
 3health
 3j3j3
-3minute
+3minut
 3ping
 3purse
 3taylor
@@ -4181,7 +4180,7 @@ $sixty
 4k polecacie
 4k-polecacie
 4less
-4minute
+4minut
 4plus
 4purse
 4quality
@@ -4212,8 +4211,7 @@ $sixty
 5generic
 5hand
 5health
-5minute
-5minuts
+5minut
 5purse
 5test
 5the best
@@ -4279,10 +4277,9 @@ $sixty
 10mg.
 10mgbuy
 10mgcheap
-10minute
-10minuts
+10minut
 10折
-１０歳
+10歳
 18 xbox
 18-xbox
 18xbox
@@ -4296,7 +4293,7 @@ $sixty
 20mgbuy
 20mgcheap
 20折
-２０歳
+20歳
 24hourwrist
 ３０％
 ３０＄
@@ -4308,7 +4305,7 @@ $sixty
 30mgbuy
 30mgcheap
 30折
-３０歳
+30歳
 ４０％
 ４０＄
 40mg buy
@@ -4319,7 +4316,7 @@ $sixty
 40mgbuy
 40mgcheap
 40折
-４０歳
+40歳
 49ers jers
 49ers online
 49ers-jers
@@ -4337,33 +4334,36 @@ $sixty
 50mgbuy
 50mgcheap
 50折
-５０歳
+50歳
 ６０％
 ６０＄
 60折
-６０歳
+60歳
 ７０％
 ７０＄
 70折
-７０歳
+70歳
 ８０％
 ８０＄
 80折
-８０歳
+80歳
 81wynn
 ９０％
 ９０＄
 90折
-９０歳
+90歳
+99 domino
 99 essay
 99 free
 99 online
 99-club
+99-domino
 99-essay
 99-free
 99-online
 99.club
 99club
+99domino
 99essay
 99free
 99online
@@ -6103,6 +6103,8 @@ bailey ugg
 bailey-ugg
 baileyugg
 bajardepeso
+bala online
+bala-online
 balance espa
 balance-espa
 balance-wheel
@@ -6447,6 +6449,7 @@ best anal
 best blogging
 best cartier
 best cc
+best curcumin
 best cyber
 best dumps
 best evance
@@ -6469,6 +6472,7 @@ best-anal
 best-blogging
 best-cartier
 best-cc
+best-curcumin
 best-cyber
 best-diet
 best-digital
@@ -8249,8 +8253,32 @@ cent|
 ceremony ceremon
 ceremony-ceremon
 ceretain
+cerita abg
+cerita bokep
+cerita dewasa
+cerita foto
+cerita hot
+cerita mesum
+cerita panas
+cerita sek
 cerita sex
+cerita-abg
+cerita-bokep
+cerita-dewasa
+cerita-foto
+cerita-hot
+cerita-mesum
+cerita-panas
+cerita-sek
 cerita-sex
+ceritaabg
+ceritabokep
+ceritadewasa
+ceritafoto
+ceritahot
+ceritamesum
+ceritapanas
+ceritasek
 ceritasex
 cerpolo.com.br
 cert line
@@ -9927,11 +9955,11 @@ cultureand
 cultureparis
 cup jers
 cup-jers
-curcumin capsule
-curcumin dose
-curcumin-capsule
-curcumin-dose
-curcumincapsule
+curcumin cap
+curcumin dos
+curcumin-cap
+curcumin-dos
+curcumincap
 curcumindose
 cure herpes
 cure-herpes
@@ -10637,8 +10665,15 @@ domination-secret
 domination-seo
 dominationsecret
 dominationseo
+domino 99
+domino online
 domino poker
+domino-99
+domino-online
 domino-poker
+domino99
+dominoonline
+dominopoker
 dominoq
 don think
 don-think
@@ -12540,6 +12575,7 @@ frebvic.ro
 frebvic.ru
 frebvic.za
 free and uncut
+free bets
 free casino
 free cassino
 free chat
@@ -12574,6 +12610,7 @@ free xxx
 free-and-uncut
 free-article
 free-bbs
+free-bets
 free-bid
 free-brows
 free-casino
@@ -14267,6 +14304,7 @@ heilhitler
 hellllo
 helllo
 hello admin
+hello colleague
 hello dear
 hello dress
 hello it's good
@@ -15393,6 +15431,8 @@ interesting-post
 interferende
 internet article
 internet blog
+internet degree author
+internet degree learn
 internet gambl
 internet leitor
 internet lifestyle
@@ -15412,6 +15452,8 @@ internet web
 internet_
 internet-article
 internet-blog
+internet-degree-author
+internet-degree-learn
 internet-gambl
 internet-leitor
 internet-lifestyle
@@ -17755,6 +17797,8 @@ marines gay
 marines-gay
 marinesgay
 mark thiis
+mark this blog
+mark-this-blog
 marke jean
 marke-jean
 markejean
@@ -19907,6 +19951,7 @@ odszkodowania
 odziez
 oem-software
 oemsoftware
+oesale
 of deemed
 of essay writing
 of herpes
@@ -20037,6 +20082,9 @@ online cassino
 online cheap
 online cheat
 online dat
+online degree author
+online degree learn
+online domino
 online dump
 online espa
 online essay
@@ -20076,6 +20124,9 @@ online-cert
 online-cheap
 online-cheat
 online-dat
+online-degree-author
+online-degree-learn
+online-domino
 online-dump
 online-espa
 online-essay
@@ -20134,6 +20185,7 @@ onlinecert
 onlinecheap
 onlinedat
 onlinede.
+onlinedomino
 onlineespa
 onlineeurax
 onlineforsale
@@ -20171,7 +20223,7 @@ only-pokie
 onlyway
 onn the
 onn this
-onne minute
+onne minut
 onsale-
 onsale.asp
 onsale.cfm
@@ -20228,10 +20280,12 @@ oral porn
 oral-porn
 oral-sex
 oralporn
+order an essay
 order forte
 order generic
 order parafon
 order_type
+order-an-essay
 order-flower
 order-forte
 order-generic
@@ -20754,6 +20808,7 @@ parkas france
 parkas-france
 parkasfrance
 parkiety
+paroxetine
 parrainage banque
 parrainage boursor
 parrainage-banque
@@ -21365,6 +21420,7 @@ pokemongocoin
 pokemontcg
 poker 99
 poker chip
+poker domino
 poker game
 poker machine
 poker money
@@ -21385,6 +21441,7 @@ poker-7
 poker-8
 poker-9
 poker-chip
+poker-domino
 poker-game
 poker-machine
 poker-money
@@ -21405,6 +21462,7 @@ poker8
 poker9
 pokera
 pokerchip
+pokerdomino
 pokergame
 pokermachine
 pokermoney
@@ -21452,7 +21510,9 @@ pool dating
 pool-dating
 poor-loan
 popular brand
+popular teenage
 popular-brand
+popular-teenage
 popularna
 popularną markę
 poradnik face
@@ -21828,6 +21888,8 @@ prepaidcredit
 preparation wise
 preparation-wise
 preparationwise
+preparing for prep
+preparing-for-prep
 presbyterian health
 presbyterian-health
 prescript.asp
@@ -22621,11 +22683,15 @@ recipepaleo
 recipes name
 recipes-name
 recommend internet
+recommend this blog
 recommend-internet
+recommend-this-blog
 recommendations addi
 recommendations-addi
 recommended internet
+recommended this blog
 recommended-internet
+recommended-this-blog
 reconquista perfeita
 reconquista-perfeita
 records.net
@@ -23483,16 +23549,22 @@ sản-xuất
 san.diego.realtor
 sandal jp
 sandal uk
+sandal women
 sandal-jp
 sandal-uk
+sandal-women
 sandaljp
 sandals jp
 sandals uk
+sandals women
 sandals-jp
 sandals-uk
+sandals-women
 sandalsjp
 sandalsuk
+sandalswomen
 sandaluk
+sandalwomen
 sanders jers
 sanders-jers
 sandersjers
@@ -24177,6 +24249,7 @@ shoe announce
 shoe cloth
 shoe dior
 shoe flat
+shoe for women
 shoe jap
 shoe jp
 shoe man
@@ -24196,6 +24269,7 @@ shoe-america
 shoe-cloth
 shoe-dior
 shoe-flat
+shoe-for-women
 shoe-jap
 shoe-jp
 shoe-man
@@ -24237,6 +24311,7 @@ shoes 2017
 shoes america
 shoes announce
 shoes dior
+shoes for women
 shoes jap
 shoes jp
 shoes man
@@ -24257,6 +24332,7 @@ shoes-america
 shoes-cheap
 shoes-cloth
 shoes-dior
+shoes-for-women
 shoes-jap
 shoes-jp
 shoes-man
@@ -25470,6 +25546,8 @@ survival hack
 survival-hack
 suspicious ensure
 suspicious-ensure
+suspiria online
+suspiria-online
 sustention
 suuccess
 suvwithbest
@@ -25799,7 +25877,11 @@ term-loan
 terminaly
 termopane
 terrific blog
+terrific post
+terrific weblog
 terrific-blog
+terrific-post
+terrific-weblog
 test post
 test-post
 test.ca
@@ -25981,6 +26063,7 @@ this blog present
 this blog;
 this gucci
 this landline
+this page truly
 this posst
 this post is genuine
 this post is worth
@@ -25994,15 +26077,18 @@ this web site
 this weblog give
 this weblog;
 this webpage
+this website is
 this website;
 this write-up
 this wweb
 this-gucci
 this-landline
+this-page-truly
 this-proficiency
 this-publish
 this-weblog
 this-webpage
+this-website-is
 thisgucci
 thispublish
 thjng
@@ -26036,7 +26122,12 @@ thouhgt
 thportfol
 thrity
 throat blow
+throat niece
 throat-blow
+throat-niece
+throatniece
+through this blog
+through-this-blog
 throughout simply
 throughout-simply
 throwback cheap
@@ -26557,10 +26648,10 @@ twerkingvid
 twerkvid
 twit.t.
 twitter-hack
-twoo minute
-twoo-minute
+twoo minut
+twoo-minut
 tworzenie
-twwo minute
+twwo minut
 tʏ
 tе
 tо
@@ -27336,6 +27427,7 @@ videnciacharme
 videnciagratis
 videnciavidente
 video asphyx
+video bokep
 video buzz
 vidéo buzz
 video concentrate
@@ -27358,6 +27450,7 @@ video xxx
 video youtube
 vidéo youtube
 video-asphyx
+video-bokep
 video-buzz
 vidéo-buzz
 video-concentrate
@@ -27385,6 +27478,7 @@ video.hoc
 video.htm
 video.jsp
 video.php
+videobokep
 videochat
 videogamedesign
 videomagnif
@@ -28832,6 +28926,7 @@ your bloog
 your budget
 your dick
 your lover
+your new important
 your next post
 your penis
 your porn
@@ -28859,6 +28954,7 @@ your-ex
 your-free
 your-loan
 your-lover
+your-new-important
 your-penis
 your-personal
 your-porn
@@ -30262,6 +30358,7 @@ zyvox
 年销售额
 店の
 店舗
+开奖直播
 彩票網
 性
 成功的医生
