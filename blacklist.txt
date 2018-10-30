@@ -486,6 +486,7 @@ _zapat
 -cable-speaker-
 -cable-speaker.
 -cable-speaker/
+-cach-hat-
 -calvin-klein.
 -calvin-klein/
 -calvinklein.
@@ -740,6 +741,7 @@ _zapat
 -handbags.
 -handbags/
 -harley-davidson-
+-hat-to-
 -haziran-
 -health-benefits-
 -health-benefits.
@@ -781,9 +783,6 @@ _zapat
 -insurance/
 -insuring.
 -insuring/
--iphone-4-
--iphone-5-
--iphone-6-
 -jacket-
 -jacket.
 -jacket/
@@ -818,6 +817,9 @@ _zapat
 -kontakt.
 -kontakt/
 -lacoste-
+-law-firm-
+-law-firm.
+-law-firm/
 -le-pliage
 -lesbian-
 -lesbian.
@@ -1684,6 +1686,9 @@ _zapat
 .kartridzhej.
 .kartridzhej/
 .kr/kr/
+.law-firm-
+.law-firm.
+.law-firm/
 .lesbian-
 .lesbian.
 .lesbian/
@@ -2915,7 +2920,6 @@ _zapat
 /insurance.
 /internal/
 /ip/
-/iphone-case
 /is.gd
 /iss.
 /j.mp
@@ -2971,6 +2975,9 @@ _zapat
 /lang-es/
 /latestmk-
 /latestmk.
+/law-firm-
+/law-firm.
+/law-firm/
 /layout1/
 /layout2/
 /legal/
@@ -4054,6 +4061,7 @@ $sixty
 1the-best
 1title
 1to1
+1xbet
 1you
 2 casino
 2-buy
@@ -5269,7 +5277,9 @@ amor-tarot
 amorbarulhento
 amorti dynamique
 amorti-dynamique
+amount comfort
 amount food
+amount-comfort
 amount-food
 amountfood
 amour gratuit
@@ -5310,6 +5320,7 @@ and-shate
 and-special
 andcloth
 andcoupon
+andd we
 anditan
 andjourn
 andmerciful
@@ -5570,7 +5581,7 @@ article.net
 article.org
 article.php
 article.pl
-article.really
+article.real
 article.ro
 article.ru
 article.su
@@ -5613,7 +5624,7 @@ articles.net
 articles.org
 articles.php
 articles.pl
-articles.really
+articles.real
 articles.ro
 articles.ru
 articles.su
@@ -6174,6 +6185,8 @@ bang me
 bang-bros
 bang-buddy
 bang-me
+bangalore escort
+bangalore-escort
 bangbros
 bangbuddy
 bangkok cosplay
@@ -11306,6 +11319,7 @@ escitalopram
 escort zone
 escort_
 escort-zone
+escort4fun
 escorts zone
 escorts_
 escorts-zone
@@ -11391,6 +11405,8 @@ estheticmaster
 estimulante sex
 estimulante-sex
 estradiol
+estrenos online
+estrenos-online
 etherdq
 euille lancel
 euille-lancel
@@ -12566,11 +12582,11 @@ fortnite-glitch
 fortnite-hack
 forum coach
 forum-coach
-forum.really
+forum.real
 forum.thank
 forum/func
 forumcoach
-forums.really
+forums.real
 forums.thank
 forwholesale
 forwindows8
@@ -13779,6 +13795,8 @@ goyardbag
 goyardonline
 gpswificlock
 gra#phi#
+grab people interest
+grab-people-interest
 graduand
 grafica preco
 grafica preço
@@ -15078,6 +15096,18 @@ ideea
 idenfify
 ifyou
 ig.o.r
+ihone-4
+ihone-5
+ihone-6
+ihone-7
+ihone-8
+ihone-x
+ihone4
+ihone5
+ihone6
+ihone7
+ihone8
+ihonex
 ihttp
 iin case
 iin many
@@ -15380,6 +15410,8 @@ injury-attorney
 injury-lawyer
 injuryattorney
 injurylawyer
+inna cena
+inna-cena
 inndex
 innerestitg
 inning accordance
@@ -15619,7 +15651,6 @@ ipad3
 ipadrepair
 ipadsuppl
 iphone apple
-iphone case
 iphone crack
 iphone repair
 iphone suppl
@@ -15629,12 +15660,11 @@ iphone-7-plus-lock
 iphone-8-lock
 iphone-8-plus-lock
 iphone-apple
-iphone-case
 iphone-crack
 iphone-repair
-iphone-s
 iphone-suppl
 iphone-x-lock
+iphone-xs-lock
 iphone-you
 iphone.asp
 iphone.cfm
@@ -15683,6 +15713,18 @@ iphone6-case
 iphone6-spy
 iphone6case
 iphone6spy
+iphone7 case
+iphone7 spy
+iphone7-case
+iphone7-spy
+iphone7case
+iphone7spy
+iphone8 case
+iphone8 spy
+iphone8-case
+iphone8-spy
+iphone8case
+iphone8spy
 iphonecase
 iphonecrack
 iphonerepair
@@ -15773,6 +15815,7 @@ its helped
 its-fastidious
 its-helped
 itsfastidious
+itss tru
 itstree
 itt was
 itzshipd
@@ -17177,6 +17220,7 @@ livebox live
 livebox-live
 livesex
 liyrral
+llcnika.ru
 llet alone
 llet-alone
 llifted
@@ -18679,6 +18723,8 @@ mobile-xxx
 mobileporn
 mobilexxx
 mobistealth
+moblie phone
+moblie-phone
 moczanowa
 modafinil
 models-of-france
@@ -19304,6 +19350,7 @@ nailsjp
 nailupon
 najlepsze
 najsłynniejszym
+najtaniej
 naked chicsk
 naked sex
 naked top
@@ -20053,6 +20100,7 @@ oem-software
 oemsoftware
 oesale
 of deemed
+of deficiency of
 of essay writing
 of herpes
 of internet
@@ -20066,6 +20114,7 @@ of tthe
 of tthis
 of website
 of-deemed
+of-deficiency-of
 of-essay-writing
 of-herpes
 of-internet
@@ -20196,6 +20245,7 @@ online eurax
 online free
 online gambl
 online gefunden
+online gratis
 online gry
 online internet
 online journ
@@ -20242,6 +20292,7 @@ online-eurax
 online-free
 online-gambl
 online-gefunden
+online-gratis
 online-gry
 online-guide-of
 online-internet
@@ -20369,17 +20420,23 @@ optimize_
 optimize-enhance
 optimizing_
 option binaire
+option binary option
 option broker
+option include medi
 option robot
 option-binaire
+option-binary-option
 option-broker
+option-include-medi
 option-robot
 optionbroker
 optionrobot
 options binaire
-options binary options
+options binary option
+options include medi
 options-binaire
-options-binary-options
+options-binary-option
+options-include-medi
 options-info
 options-trad
 optionsinfo
@@ -20865,7 +20922,11 @@ pantysmania
 pantyspic
 pantysplay
 pantyssex
+paper writer service
+paper writing service
 paper-college
+paper-writer-service
+paper-writing-service
 papercollege
 par/index
 para tiara
@@ -20890,14 +20951,17 @@ paragraph at this site
 paragraph he/she
 paragraph here
 paragraph is nice
-paragraph is really
+paragraph is real
 paragraph post
 paragraph writ
 paragraph-at-this-site
 paragraph-here
+paragraph-is-nice
+paragraph-is-real
 paragraph-post
 paragraph-writ
 parajumpers
+parasole online
 parasole-online
 parasoleonline
 parchet triplu
@@ -21133,13 +21197,19 @@ pens-montblanc
 pensmontblanc
 peopleand
 percocet
+perfect blog
 perfect diet
 perfect interest
 perfect vpn
+perfect weblog
+perfect website
 perfect writ
+perfect-blog
 perfect-diet
 perfect-interest
 perfect-vpn
+perfect-weblog
+perfect-website
 perfect-writ
 perfectdiet
 perfectvpn
@@ -21816,7 +21886,7 @@ post!
 post.best
 post.much
 post.pw
-post.really
+post.real
 post.thank
 postcarf
 postfully
@@ -21833,7 +21903,7 @@ posts!
 posts.asp
 posts.much
 posts.pw
-posts.really
+posts.real
 posts.thank
 posttestimonial
 posylka-iz-kitaya
@@ -23365,12 +23435,16 @@ run obuv
 run ppv
 run shoe
 run sneak
+run your weblog
+run your website
 run-chaus
 run-cpa
 run-obuv
 run-ppv
 run-shoe
 run-sneak
+run-your-weblog
+run-your-website
 runchaus
 runcpa
 runescape classic
@@ -23671,16 +23745,20 @@ san-xuat
 sản-xuất
 san.diego.realtor
 sandal jp
+sandal sale
 sandal uk
 sandal women
 sandal-jp
+sandal-sale
 sandal-uk
 sandal-women
 sandaljp
 sandals jp
+sandals sale
 sandals uk
 sandals women
 sandals-jp
+sandals-sale
 sandals-uk
 sandals-women
 sandalsjp
@@ -23915,19 +23993,31 @@ sell dump
 sell iphone4
 sell iphone5
 sell iphone6
+sell iphone7
+sell iphone8
+sell iphonex
 sell lancel
 sell-dump
 sell-iphone4
 sell-iphone5
 sell-iphone6
+sell-iphone7
+sell-iphone8
+sell-iphonex
 sell-lancel
 sell-now
 selling iphone4
 selling iphone5
 selling iphone6
+selling iphone7
+selling iphone8
+selling iphonex
 selling-iphone4
 selling-iphone5
 selling-iphone6
+selling-iphone7
+selling-iphone8
+selling-iphonex
 selllancel
 sellnow
 send earn
@@ -24303,6 +24393,8 @@ sharingsite
 sharply-wrong
 shate thou
 shate-thou
+shazam online
+shazam-online
 shed fat
 shed pound
 shed-fat
@@ -24681,6 +24773,7 @@ site asian
 site backup
 site google
 site however
+site is extreme
 site link
 site offer
 site official
@@ -24698,11 +24791,13 @@ site theme
 site traff
 site ufficial
 site visitor
+site web site
 site-amor
 site-asian
 site-backup
 site-google
 site-however
+site-is-extreme
 site-link
 site-offer
 site-official
@@ -24721,6 +24816,7 @@ site-traff
 site-ufficial
 site-visitor
 site-web
+site-web-site
 site:-
 site:)
 site!
@@ -26014,8 +26110,10 @@ tennisstream
 tenormin
 term dinner
 term loan
+term paper service
 term-dinner
 term-loan
+term-paper-service
 terminaly
 termopane
 terrific blog
@@ -26072,9 +26170,13 @@ thanks designed
 thanks foor
 thanks for posting
 thanks for sharing
+thanks for the post
+thanks for this post
 thanks to web
 thanks-admin
 thanks-designed
+thanks-for-the-post
+thanks-for-this-post
 thanks.i
 thankyou
 thankyou.asp
@@ -26109,6 +26211,9 @@ the internet users
 the notify
 the other blog
 the pokie
+the right weblog
+the right webpage
+the right website
 the web users
 the_best
 the-benefits-of
@@ -26124,6 +26229,9 @@ the-latest-
 the-marketing-mix
 the-notify
 the-pokie
+the-right-weblog
+the-right-webpage
+the-right-website
 the-sexting
 theattempt
 theaverage
@@ -26598,9 +26706,9 @@ topcontractor
 topforum
 topia hack
 topia-hack
-topic.really
+topic.real
 topic.thank
-topics.really
+topics.real
 topics.thank
 topiramate
 toplist
@@ -27848,6 +27956,7 @@ vivierballerine
 vivierital
 vivierpompe
 vivotab
+viww
 vk.cc
 vkews
 vkgnfx
@@ -28099,6 +28208,7 @@ web ddress
 web explore
 web farm
 web invent:
+web online
 web optim
 web owner
 web page …
@@ -28137,6 +28247,7 @@ web-farm
 web-host
 web-informat
 web-log
+web-online
 web-optim
 web-owner
 web-people
@@ -28169,9 +28280,11 @@ webfarm
 webhostapp
 weblink
 weblog ...
+weblog for any
 weblog format
 weblog layout
 weblog post
+weblog-for-any
 weblog-format
 weblog-layout
 weblog; this
@@ -28189,14 +28302,17 @@ webnode.it
 webnode.nl
 webog post
 webog-post
+webonline
 weboptim
 webowner
 webpage (
 webpage daily
+webpage for any
 webpage from
 webpage it is
 webpage post
 webpage you
+webpage-for-any
 webpage-from
 webpage-you
 webpeople
@@ -28211,6 +28327,7 @@ websit-was
 website ...
 website daily
 website everyday
+website for every
 website inquiry
 website keep
 website landing
@@ -28229,6 +28346,7 @@ website we
 website yourself
 website-daily
 website-everyday
+website-for-every
 website-inquiry
 website-keep
 website-landing
@@ -28599,11 +28717,15 @@ woman-bikini
 woman+
 womanbikini
 women bikini
+women sandal
 women-bikini
+women-sandal
 women+
 womenbikini
 womens narrow
+womens sandal
 womens-narrow
+womens-sandal
 won blog
 won weblog
 won webpage
@@ -28761,7 +28883,9 @@ worth-bookmarking
 worth-comment
 worth-of-visit
 worthbookmarking
+would extremely suggest
 would yoou
+would-extremely-suggest
 wow cuz
 wow just
 wow-cuz
@@ -29110,6 +29234,7 @@ your next post
 your online degree
 your penis
 your porn
+your posting
 your publish
 your sijte
 your site is extreme
@@ -29141,10 +29266,12 @@ your-online-degree
 your-penis
 your-personal
 your-porn
+your-posting
 your-profile
 your-publish
 your-sijte
 your-site
+your-site-web
 your-skin
 your-success
 your-ugg
