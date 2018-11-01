@@ -2657,6 +2657,7 @@ _zapat
 /credit-
 /credit.
 /crimea-
+/crwl.it
 /css/
 /custom-control
 /custom/de/
