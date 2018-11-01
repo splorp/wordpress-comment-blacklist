@@ -69,7 +69,7 @@ _downtime
 _drmarten
 _dsqu
 _dunhill
-_duvetica
+_duvet
 _e/
 _emerg
 _enter
@@ -606,6 +606,12 @@ _zapat
 -dolce-gabbana/
 -dolcegabbana.
 -dolcegabbana/
+-domainer-
+-domainer.
+-domainer/
+-domainers-
+-domainers.
+-domainers/
 -domination-
 -domination.
 -domination/
@@ -1573,6 +1579,12 @@ _zapat
 .diowebhost.
 .disposable-
 .disposable/
+.domainer-
+.domainer.
+.domainer/
+.domainers-
+.domainers.
+.domainers/
 .doorblog-
 .doorblog.
 .doorblog/
@@ -2705,6 +2717,12 @@ _zapat
 /dolcegabbana-
 /dolcegabbana.
 /dolcegabbana/
+/domainer-
+/domainer.
+/domainer/
+/domainers-
+/domainers.
+/domainers/
 /doorblog-
 /doorblog.
 /doudoun-
@@ -4012,6 +4030,7 @@ $sixty
 00mgcheap
 0ping
 00pips
+00ru.
 0taylor
 0the best
 0the-best
@@ -4290,6 +4309,7 @@ $sixty
 10minut
 10折
 10歳
+11ru.
 18 xbox
 18-xbox
 18xbox
@@ -4304,6 +4324,7 @@ $sixty
 20mgcheap
 20折
 20歳
+22ru.
 24hourwrist
 ３０％
 ３０＄
@@ -4316,6 +4337,7 @@ $sixty
 30mgcheap
 30折
 30歳
+33ru.
 ４０％
 ４０＄
 40mg buy
@@ -4327,6 +4349,7 @@ $sixty
 40mgcheap
 40折
 40歳
+44ru.
 49ers jers
 49ers online
 49ers-jers
@@ -4345,19 +4368,23 @@ $sixty
 50mgcheap
 50折
 50歳
+55ru.
 ６０％
 ６０＄
 60折
 60歳
+66ru.
 ７０％
 ７０＄
 70折
 70歳
+77ru.
 ８０％
 ８０＄
 80折
 80歳
 81wynn
+88ru.
 ９０％
 ９０＄
 90折
@@ -4377,6 +4404,7 @@ $sixty
 99essay
 99free
 99online
+99ru.
 100 gratuit
 100 most
 100 saison
@@ -6405,8 +6433,10 @@ beauty-report
 beautyhospital
 beautyreport
 becausethe
+become buying
 become-a-success
 become-an-expert
+become-buying
 bee-pollen.
 beeday
 beenpaid
@@ -7626,7 +7656,7 @@ buy cheap
 buy didrex
 buy discount
 buy dump
-buy duvetica
+buy duvet
 buy face
 buy fifa
 buy forskolin
@@ -7648,6 +7678,7 @@ buy online
 buy privat
 buy qsymia
 buy silver
+buy soccer
 buy toms
 buy traff
 buy trusted
@@ -7660,7 +7691,7 @@ buy-cig
 buy-didrex
 buy-discount
 buy-dump
-buy-duvetica
+buy-duvet
 buy-face
 buy-fifa
 buy-forskolin
@@ -7687,6 +7718,7 @@ buy-propert
 buy-qsymia
 buy-run
 buy-silver
+buy-soccer
 buy-soma
 buy-toms
 buy-top
@@ -7694,16 +7726,16 @@ buy-traff
 buy-trusted
 buy-women
 buy.top
-buycanadagoose
+buycanada
 buycheap
 buycig
-buyduvetica
+buyduvet
 buyface
 buygeneric
 buygold
 buyhair
 buyhermes
-buyhoverboard
+buyhover
 buying face
 buying fifa
 buying insta
@@ -7738,6 +7770,7 @@ buyplus
 buypropert
 buyrun
 buysilver
+buysoccer
 buysoma
 buytoms
 buytraff
@@ -8534,6 +8567,8 @@ cheap boot
 cheap buy
 cheap carolina
 cheap carton
+cheap cell phone
+cheap cellphone
 cheap cheap
 cheap china
 cheap chinese
@@ -8616,6 +8651,8 @@ cheap-boot
 cheap-buy
 cheap-carolina
 cheap-carton
+cheap-cell-phone
+cheap-cellphone
 cheap-chanel
 cheap-cheap
 cheap-china
@@ -8704,6 +8741,7 @@ cheapbike
 cheapbikini
 cheapboot
 cheapbuy
+cheapcellphone
 cheapchanel
 cheapchina
 cheapchinese
@@ -9659,6 +9697,7 @@ content-download
 content-material
 continue assim
 continue-assim
+continuuous
 contoh plakat
 contoh-plakat
 contohplakat
@@ -10365,8 +10404,12 @@ derniers-modele
 derniers-modèle
 derniersmodele
 desconto
+descriptive blog
 descriptive post
+descriptive weblog
+descriptive-blog
 descriptive-post
+descriptive-weblog
 design cheap
 design own
 design-cheap
@@ -10416,6 +10459,8 @@ details though
 details-necessities
 details-though
 detektiv
+detik sport
+detik-sport
 detskie diskotek
 detskie-diskotek
 deutschland-online
@@ -10617,6 +10662,8 @@ distinct website
 distinct-about
 distinct-website
 disulfiram
+ditik sport
+ditik-sport
 diva-com
 divulgaemail
 djstool
@@ -10902,8 +10949,9 @@ dsquareduomo
 dtech affiliate
 dtech-affiliate
 dtechaffiliate
-du lịch
-du-lịch
+du lich tron goi
+du lịch trọn gói
+du-lich-tron-goi
 dubai-princess
 dubturbo
 duc nam
@@ -10919,6 +10967,7 @@ duchesssatin
 dude.de
 dudes.de
 dugg some
+dulichtrongoi
 dulichtuxu
 dummytest
 dump seller
@@ -11323,14 +11372,27 @@ erotyczna
 es.iodress
 es/content
 escitalopram
+escort bayan
+escort ilan
 escort zone
 escort_
+escort-bayan
+escort-ilan
 escort-zone
 escort4fun
+escortbayan
+escortilan
+escorts bayan
+escorts ilan
 escorts zone
 escorts_
+escorts-bayan
+escorts-ilan
 escorts-zone
 escorts.
+escorts4fun
+escortsbayan
+escortsilan
 escortss
 escortszone
 escortzone
@@ -12936,6 +12998,7 @@ fullmovie
 fulmalware
 fun-sneak
 fun-with-window
+fun88
 func.asp
 func.cfm
 func.htm
@@ -13473,6 +13536,8 @@ glad reading
 glad-reading
 gladreading
 glamorousbag
+glass online
+glass-online
 glasses-tokyo
 glassess
 glassestokyo
@@ -13665,6 +13730,7 @@ google for-
 google gain
 google high
 google java
+google keyword
 google mapa
 google rank
 google us
@@ -13674,6 +13740,7 @@ google-click
 google-gain
 google-high
 google-java
+google-keyword
 google-mapa
 google-rank
 google-us
@@ -13819,6 +13886,8 @@ grafica preco
 grafica preço
 grafica-preco
 grafica-preço
+grand opening giveaway
+grand-opening-giveaway
 grande processo
 grande-processo
 granny porn
@@ -14260,6 +14329,13 @@ handbagwom
 handsome gold
 handsome-gold
 handtaschen
+handy web page
+handy weblog
+handy webpage
+handy-web-page
+handy-weblog
+handy-webpage
+hanging with friend
 hanging-with-friend
 hangingwithfriend
 haohao
@@ -15088,6 +15164,7 @@ i aam
 i aint
 i conceive you
 i dugg
+i eally
 i http
 i needs
 i-aint
@@ -15318,6 +15395,12 @@ individual-stuffs
 indre pengemark
 indre-pengemark
 inetry
+inexpensive dollar
+inexpensive woman
+inexpensive women
+inexpensive-dollar
+inexpensive-woman
+inexpensive-women
 infected almost
 infected crash
 infected-almost
@@ -15476,6 +15559,8 @@ inspired hand
 inspired-hand
 inspiredhand
 inspirfe
+inspiring story there
+inspiring-story-there
 insta-appraisal
 instafab
 instagram follower
@@ -15800,7 +15885,7 @@ isto weblog
 isto-blog
 isto-weblog
 it a object
-it duvetica
+it duvet
 it oakley
 it ordeno
 it ordenó
@@ -15808,7 +15893,7 @@ it potency
 it rite
 it truly
 it veryy
-it-duvetica
+it-duvet
 it-oakley
 it-ordeno
 it-ordenó
@@ -18279,10 +18364,12 @@ mcqueendress
 mcqueensilk
 me greatly
 me haha
+me out loads
 me passionne
 me to comment!
 me vip on
 me-greatly
+me-out-loads
 me-passionne
 meandyou
 meble gabinetowe
@@ -19270,10 +19357,13 @@ my own weblog
 my own website
 my page;
 my pzge
+my siite
 my site;
 my site:
+my sitee
 my sitte
 my ssite
+my wallet is
 my web page
 my web-site
 my web;
@@ -19302,6 +19392,7 @@ my-pzge
 my-sitte
 my-ssite
 my-virus
+my-wallet-is
 my-webb
 my-weblog
 my-webpage
@@ -21055,6 +21146,7 @@ pass-generat
 pass-prefix
 pass-recovery
 passgenerat
+passionaqte
 passo_a_passo
 passo-a-passo
 passprefix
@@ -21275,6 +21367,7 @@ personalizedsilicone
 personalnatur
 personalpc
 personnalis
+perxon
 peso saudavel
 peso saudável
 peso-saudavel
@@ -22453,6 +22546,8 @@ prywatne
 przeglosuje
 przepisane
 przeprowadzki
+przez internet
+przez-internet
 przysiegly
 ps4xbox
 pscoupon
@@ -23445,6 +23540,7 @@ rtnreg
 ru-blacklist
 ru-proshop
 ru-wordpress
+ru.top
 rublacklist
 rug fur
 rug-fur
@@ -24142,6 +24238,8 @@ sepid-shimi
 sepidshimi
 serch engin
 serch-engin
+serenity online
+serenity-online
 serial numberul
 serial-numberul
 series erotic
@@ -24573,6 +24671,7 @@ shoes mbt
 shoes men
 shoes online
 shoes out
+shoes to buy
 shoes uk
 shoes woman
 shoes women
@@ -24595,6 +24694,7 @@ shoes-men
 shoes-on-sale
 shoes-online
 shoes-out
+shoes-to-buy
 shoes-uk
 shoes-woman
 shoes-women
@@ -25067,6 +25167,9 @@ snoringexpert
 snoringmouth
 sobre tiara
 sobre-tiara
+soccer jersey sale
+soccer-jersey-sale
+soccerjerseysale
 social butler
 social buzz
 social market
@@ -25290,10 +25393,14 @@ spo.r.t
 sponsoring secret
 sponsoring-secret
 sponsoringsecret
+sport detik
+sport ditik
 sport interaction
 sport tronch
 sport workforce
 sport-analysis.
+sport-detik
+sport-ditik
 sport-interaction
 sport-tronch
 sport-workforce
@@ -25449,6 +25556,8 @@ stopsmok
 stopsnor
 stor punkt
 stor-punkt
+storage provides storage
+storage-provides-storage
 store austr
 store caldle
 store gucci
@@ -25967,6 +26076,9 @@ talentoblog
 talentrecruit
 talknig
 tallking
+talya escort
+talya-escort
+talyaescort
 tamiflu
 tamoxifen
 tamsulosin
@@ -26242,21 +26354,25 @@ thc-review
 thcblog
 thcforum
 thcreview
+the article you write
 the articles is
 the blog,
 the carfiac
 the contents present
 the feed-back
 the greatest website
+the helpful job
 the internet users
 the notify
 the other blog
 the pokie
+the post you write
 the right weblog
 the right webpage
 the right website
 the web users
 the_best
+the-article-you-write
 the-benefits-of
 the-best-treatment
 the-bitcoin
@@ -26265,12 +26381,14 @@ the-contents-present
 the-feed-back
 the-flashboard
 the-greatest-website
+the-helpful-job
 the-hoverboard
 the-hypothyroid
 the-latest-
 the-marketing-mix
 the-notify
 the-pokie
+the-post-you-write
 the-right-weblog
 the-right-webpage
 the-right-website
@@ -26354,6 +26472,7 @@ this best doc
 this best page
 this best site
 this blog carries
+this blog definite
 this blog is
 this blog present
 this blog;
@@ -26367,25 +26486,32 @@ this post is written
 this post will assist
 this proficiency
 this publish
+this site definite
 this site is very
 this web blog
 this web page
 this web site
+this weblog definite
 this weblog give
 this weblog;
 this webpage
+this website definite
 this website is
 this website;
 this write-up
 this wweb
+this-blog-definite
 this-gucci
 this-landline
 this-page-truly
 this-proficiency
 this-publish
+this-site-definite
 this-site-is-very
 this-weblog
+this-weblog-definite
 this-webpage
+this-website-definite
 this-website-is
 thisgucci
 thispublish
@@ -28310,6 +28436,7 @@ web-website
 web.best
 web/icon
 web/index
+web4s
 webanal
 webblog
 webcam site
@@ -28725,6 +28852,8 @@ wirh you
 wise quote
 wise-quote
 wishing for blog
+wispy lash
+wispy-lash
 witgh
 with declare
 with my website
@@ -28973,11 +29102,13 @@ write-up very
 writeessay
 writepaper
 writes an post
+writing at this site
 writing he/she
 writing manually
 writing taste
 writing writing
 writing-a-dissertation
+writing-at-this-site
 writing-dissertation
 writing-essay
 writing-helper
@@ -29894,6 +30025,8 @@ zyvox
 ѕs
 и origin
 и-origin
+игорное заведение
+игорное-заведение
 игровом клубе
 игровом-клубе
 игровые
