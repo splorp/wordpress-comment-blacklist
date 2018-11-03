@@ -26,6 +26,7 @@ _bitcoin
 _blackjack
 _blahnik
 _blog
+_boner
 _bord
 _brace
 _build
@@ -466,8 +467,10 @@ _zapat
 -bodybuilding.
 -bodybuilding/
 -boner-
+-boner.
 -boner/
 -boners-
+-boners.
 -boners/
 -boobs-
 -boobs.
@@ -1471,6 +1474,9 @@ _zapat
 .bisnis-
 .bisnis.
 .bisnis/
+.bitcoin-
+.bitcoin.
+.bitcoin/
 .blog.telrock.
 .blog0
 .blog1
@@ -1497,6 +1503,12 @@ _zapat
 .blogzag.
 .bluray-
 .bluray.
+.boner-
+.boner.
+.boner/
+.boners-
+.boners.
+.boners/
 .bot0
 .bot1
 .bot2
@@ -2469,6 +2481,8 @@ _zapat
 /bisnis.
 /bisnis/
 /bitcoin-
+/bitcoin.
+/bitcoin/
 /blackjack-
 /blackjack.
 /blog.
@@ -2482,8 +2496,10 @@ _zapat
 /board/
 /boner-
 /boner.
+/boner/
 /boners-
 /boners.
+/boners/
 /boobs-
 /boobs.
 /boobs/
@@ -5256,7 +5272,9 @@ alpha-hoverboard
 alphahoverboard
 alprazolam
 alsao you
+also am a blog
 also eable
+also-am-a-blog
 also-eable
 alviero martini
 alviero-martini
@@ -6533,6 +6551,8 @@ best prostate
 best shoe price
 best suppl
 best tummy
+best web page
+best webpage
 best website
 best wordpress
 best xxx
@@ -6568,6 +6588,8 @@ best-software-for
 best-suppl
 best-tummy
 best-way-to
+best-web-page
+best-webpage
 best-website
 best-wordpress
 best-xxx
@@ -6768,6 +6790,7 @@ bitcoin buy
 bitcoin casino
 bitcoin cassino
 bitcoin code
+bitcoin declin
 bitcoin depos
 bitcoin donat
 bitcoin mining
@@ -6780,6 +6803,7 @@ bitcoin-buy
 bitcoin-casino
 bitcoin-cassino
 bitcoin-code
+bitcoin-declin
 bitcoin-depos
 bitcoin-donat
 bitcoin-mining
@@ -6790,10 +6814,13 @@ bitcoinadd
 bitcoinbuy
 bitcoincas
 bitcoincode
+bitcoindeclin
 bitcoindepos
 bitcoindonat
+bitcoins
 bitcointalk
 bitcoinwallet
+bitcoinz
 bitkoin
 bittrex
 biuro-solido
@@ -7065,6 +7092,9 @@ bolsosmarc
 bon copie
 bon-copie
 boncopie
+boner_
+boners_
+bonerz
 bonne copie
 bonne-copie
 bonnecopie
@@ -7405,6 +7435,8 @@ brilliant blog
 brilliant content
 brilliant-blog
 brilliant-content
+bring in the bucks
+bring-in-the-bucks
 brinkjewel
 britanniahotel
 brittany-battle
@@ -10155,11 +10187,17 @@ daddy site
 daddy-site
 dafeult
 daftar agen
-daftar harga
-daftar poker
+daftar harg
+daftar judi
+daftar poke
 daftar-agen
-daftar-harga
-daftar-poker
+daftar-harg
+daftar-judi
+daftar-poke
+daftaragen
+daftarharg
+daftarjudi
+daftarpoke
 đại lý
 đại-lý
 daikly
@@ -16159,6 +16197,7 @@ jersey 2
 jersey 3
 jersey 4
 jersey cheap
+jersey china
 jersey free
 jersey from
 jersey nike
@@ -16171,6 +16210,7 @@ jersey-2
 jersey-3
 jersey-4
 jersey-cheap
+jersey-china
 jersey-for
 jersey-free
 jersey-from
@@ -16203,6 +16243,7 @@ jerseys 2
 jerseys 3
 jerseys 4
 jerseys cheap
+jerseys china
 jerseys free
 jerseys from
 jerseys nike
@@ -16215,6 +16256,7 @@ jerseys-2
 jerseys-3
 jerseys-4
 jerseys-cheap
+jerseys-china
 jerseys-for
 jerseys-for-you
 jerseys-free
@@ -17880,7 +17922,9 @@ magnificent-goods
 magnificent-inform
 magnificent-post
 magnificentinform
+mail order bride
 mail_
+mail-order-bride
 mail.in
 mail.pl
 mail.ro
@@ -17919,6 +17963,9 @@ maillots-tenue
 maillots/tenue
 maillotsligue
 maillotuk
+mailorder bride
+mailorder-bride
+mailorderbride
 mailvirtual.win
 main longchamp
 main-longchamp
@@ -21180,6 +21227,8 @@ pass-generat
 pass-prefix
 pass-recovery
 passgenerat
+passion the website
+passion-the-website
 passionaqte
 passo_a_passo
 passo-a-passo
@@ -24397,6 +24446,7 @@ sex vid
 sex virgin
 sex web
 sex xxx
+sex_
 sex-advice
 sex-blog
 sex-cam
@@ -24491,6 +24541,7 @@ sexweb
 sexxx
 sexy fantas
 sexy girl
+sexy lad
 sexy moment
 sexy sex
 sexy teen
@@ -24498,9 +24549,11 @@ sexy virgin
 sexy web
 sexy woman
 sexy women
+sexy_
 sexy-app
 sexy-fantas
 sexy-girl
+sexy-lad
 sexy-moment
 sexy-sex
 sexy-teen
@@ -24518,6 +24571,7 @@ sexy.php
 sexyapp
 sexyfantas
 sexygirl
+sexylad
 sexymoment
 sexysex
 sexyteen
@@ -24653,6 +24707,7 @@ shoe sol
 shoe store for
 shoe stores for
 shoe uk
+shoe web store
 shoe woman
 shoe women
 shoe_
@@ -24675,6 +24730,7 @@ shoe-sol
 shoe-store-for
 shoe-stores-for
 shoe-uk
+shoe-web-store
 shoe-woman
 shoe-women
 shoe.asp
@@ -24714,6 +24770,7 @@ shoes online
 shoes out
 shoes to buy
 shoes uk
+shoes web store
 shoes woman
 shoes women
 shoes_
@@ -24737,6 +24794,7 @@ shoes-online
 shoes-out
 shoes-to-buy
 shoes-uk
+shoes-web-store
 shoes-woman
 shoes-women
 shoes.asp
@@ -25208,8 +25266,11 @@ snoringexpert
 snoringmouth
 sobre tiara
 sobre-tiara
+soccer betting
 soccer jersey sale
+soccer-betting
 soccer-jersey-sale
+soccerbet
 soccerjerseysale
 social butler
 social buzz
@@ -29111,6 +29172,7 @@ world-fuck
 world-porn
 world-sex
 world-venture
+world-wide-web
 world-xxx
 worldfuck
 worldporn
@@ -29498,6 +29560,7 @@ your web site
 your weblog
 your webpage
 your website for
+your website provid
 your website the
 your_
 your-account
@@ -29529,6 +29592,7 @@ your-ugg
 your-weblog
 your-webpage
 your-website-for
+your-website-provid
 your-website-the
 your-windows
 your-your
