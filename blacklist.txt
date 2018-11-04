@@ -120,6 +120,7 @@ _herpes
 _heuer
 _hollis
 _homme
+_hotel
 _htm
 _http
 _idea
@@ -244,6 +245,7 @@ _temp
 _theme
 _timber
 _title
+_tokio
 _track
 _traff
 _tumi
@@ -1489,6 +1491,7 @@ _zapat
 .bloggerpr.
 .bloglovin.
 .blogminds.
+.blogola.
 .blogolize.
 .blogs0
 .blogs1
@@ -4464,6 +4467,8 @@ $sixty
 222.ru
 222.su
 222.za
+247-quick
+247quick
 356.biz
 356.nu
 365.co
@@ -4567,10 +4572,12 @@ $sixty
 a blog from
 a http
 a lots
+a pleasant think
 a ppart
 a weblog from
 a-cell-phone
 a-lots
+a-pleasant-think
 a-powerful-way
 a-web-designer
 a?a
@@ -5922,6 +5929,8 @@ available-plus
 available-proper
 availableclock
 availclock
+avant la chirurgie
+avant-la-chirurgie
 avatar-live
 avental indispensavel
 avental indispensável
@@ -7160,7 +7169,7 @@ boot online
 boot oxford
 boot queen
 boot sale
-boot schweiz
+boot schwei
 boot ugg
 boot uk
 boot-get
@@ -7168,7 +7177,7 @@ boot-online
 boot-oxford
 boot-queen
 boot-sale
-boot-schweiz
+boot-schwei
 boot-ugg
 boot-uk
 bootcojp
@@ -7179,23 +7188,23 @@ bootqueen
 boots online
 boots oxford
 boots sale
-boots schweiz
+boots schwei
 boots ugg
 boots uk
 boots-get
-boots-in-schweiz
+boots-in-schwei
 boots-online
 boots-oxford
 boots-queen
 boots-retail
 boots-sale
-boots-schweiz
+boots-schwei
 boots-ugg
 boots-uk
 bootsale
-bootschweiz
+bootschwei
 bootsget
-bootsinschweiz
+bootsinschwei
 bootsonline
 bootsoxford
 bootsqueen
@@ -7696,6 +7705,7 @@ buy didrex
 buy discount
 buy dump
 buy duvet
+buy essay
 buy face
 buy fifa
 buy forskolin
@@ -7731,6 +7741,7 @@ buy-didrex
 buy-discount
 buy-dump
 buy-duvet
+buy-essay
 buy-face
 buy-fifa
 buy-forskolin
@@ -7769,6 +7780,7 @@ buycanada
 buycheap
 buycig
 buyduvet
+buyessay
 buyface
 buygeneric
 buygold
@@ -8681,6 +8693,7 @@ cheap warrior
 cheap wed
 cheap whole
 cheap wigs
+cheap yeti
 cheap youth
 cheap_
 cheap-adobe
@@ -8772,6 +8785,7 @@ cheap-web
 cheap-wed
 cheap-whole
 cheap-wigs
+cheap-yeti
 cheap-youth
 cheap+
 cheap<
@@ -10470,6 +10484,8 @@ design-cheap
 design-cover-letter
 design-own
 designcheap
+designed to me
+designed-to-me
 designeed
 designer-bag
 designer-brand
@@ -10726,8 +10742,11 @@ dlphone
 dnjurh
 ðº
 do blogging
+do bookmark
+do pobrania
 do-blogging
 do-bookmark
+do-pobrania
 doable prog
 doable-prog
 doableprog
@@ -10786,10 +10805,11 @@ dokumentó
 dolce bag
 dolce-bag
 dolcebag
-dollar jackpot
+dollar jack
 dollar serv
-dollar-jackpot
+dollar-jack
 dollar-serv
+dollarjack
 dollarserv
 dolphins jers
 dolphins-jers
@@ -10918,12 +10938,14 @@ dress link
 dress online
 dress shoe
 dress shop
+dress website
 dress-herve
 dress-link
 dress-online
 dress-shoe
 dress-shop
 dress-uk
+dress-website
 dress.rent
 dresses bcbg
 dresses herve
@@ -11460,6 +11482,7 @@ españaonline
 essay composing
 essay creat
 essay erudite
+essay fast
 essay leader
 essay producing
 essay serv
@@ -11471,6 +11494,7 @@ essay-composing
 essay-creat
 essay-empire
 essay-erudite
+essay-fast
 essay-help
 essay-intro
 essay-leader
@@ -11486,6 +11510,7 @@ essayempire
 essayer cette
 essayer-cette
 essayerudite
+essayfast
 essayhelp
 essayintro
 essayleader
@@ -13984,7 +14009,8 @@ graysonbag
 great acknow
 great article
 great bet
-great blog
+great blog roll
+great blog you
 great blogroll
 great doc
 great e-book
@@ -13995,17 +14021,20 @@ great keep
 great low
 great online
 great operates
+great page you
 great performs
 great post
 great publish
+great site you
 great site, keep
-great weblog
-great website
+great weblog you
+great website you
 great writ
 great-acknow
 great-article
 great-bet
-great-blog
+great-blog-roll
+great-blog-you
 great-blogroll
 great-doc
 great-e-book
@@ -14016,11 +14045,13 @@ great-keep
 great-low
 great-online
 great-operates
+great-page-you
 great-performs
 great-post
 great-publish
-great-weblog
-great-website
+great-site-you
+great-weblog-you
+great-website-you
 great-writ
 great}
 greatacknow
@@ -14247,6 +14278,7 @@ hack 2016
 hack 2017
 hack 2018
 hack android
+hack cheat
 hack cydia
 hack face
 hack fb
@@ -14266,6 +14298,7 @@ hack-2016
 hack-2017
 hack-2018
 hack-android
+hack-cheat
 hack-coin
 hack-cydia
 hack-face
@@ -14293,6 +14326,7 @@ hack<
 hack2018
 hackandroid
 hackasphalt
+hackcheat
 hackcydia
 hacker_
 hackface
@@ -14524,8 +14558,16 @@ hearted-web
 heartsite
 hedge fund
 hedge-fund
+heel ped
+heel shoe
 heel_
+heel-ped
+heel-shoe
+heelo
 heelped
+heels shoe
+heels-shoe
+heelshoe
 heil hitler
 heil-hitler
 heilhitler
@@ -15059,6 +15101,7 @@ hotburberry
 hotel deal
 hotel egypt
 hotel hermes
+hotel_
 hotel-deal
 hotel-egypt
 hotel-hermes
@@ -15968,6 +16011,8 @@ it-potency
 it-rite
 it-truly
 it''s
+it'snot
+it’snot
 italia scarpe
 italia-scarpe
 italiascarpe
@@ -15988,6 +16033,7 @@ its helped
 its-fastidious
 its-helped
 itsfastidious
+itsnot
 itss tru
 itstree
 itt was
@@ -16933,9 +16979,13 @@ lacoste-out
 lacosteout
 ladda ner
 ladda-ner
+ladies shoe for
+ladies-shoe-for
 lady porn
+lady shoe for
 lady_top
 lady-porn
+lady-shoe-for
 lady.porn
 ladyporn
 lamborghini hover
@@ -17586,6 +17636,18 @@ longchampuk
 longchampyama
 longｅr
 lonikog
+look your blog
+look your page
+look your post
+look your site
+look your weblog
+look your website
+look-your-blog
+look-your-page
+look-your-post
+look-your-site
+look-your-weblog
+look-your-website
 lookeach
 looked on-line
 looked-on-line
@@ -18035,8 +18097,10 @@ mallstore
 malwareremov
 man cheap
 man gaga
+man seeking man
 man-cheap
 man-gaga
+man-seeking-man
 mana-efficient
 manage_
 manage/new
@@ -18066,6 +18130,7 @@ manning-jers
 manningjers
 manor escort
 manor-escort
+manseeking
 manteau karen
 manteau-karen
 manteaukaren
@@ -18582,6 +18647,7 @@ men makeup
 men mbt
 men mizuno
 men nike
+men seeking men
 men timber
 men-barbour
 men-bikini
@@ -18595,6 +18661,7 @@ men-makeup
 men-mbt
 men-mizuno
 men-nike
+men-seeking-men
 men-sneaker
 men-timber
 men's timber
@@ -18642,8 +18709,7 @@ mens-watch
 mensbarbour
 mensbathrobe
 mensbcbg
-menseekingmen
-menseekingwom
+menseeking
 mensjack
 mensnike
 menspuma
@@ -20088,6 +20154,12 @@ novinki_
 now now
 now-now
 now.in
+nowe zdjecia
+nowe zdjęcia
+nowe_zdj_cie
+nowe-zdj-cie
+nowe-zdjecia
+nowe-zdjęcia
 nqed
 nude erotic
 nude girl
@@ -20140,6 +20212,8 @@ nurkowe-marsa
 nurkowemarsa
 nurse job
 nurse-job
+nutrient same
+nutrient-same
 nxvid
 nе
 nу
@@ -20860,6 +20934,7 @@ outstanding page
 outstanding post
 outstanding share
 outstanding site
+outstanding story there
 outstanding topic
 outstanding weblog
 outstanding website
@@ -20868,6 +20943,7 @@ outstanding-page
 outstanding-post
 outstanding-share
 outstanding-site
+outstanding-story-there
 outstanding-topic
 outstanding-weblog
 outstanding-website
@@ -22074,6 +22150,7 @@ post at this site
 post como este
 post extreme
 post fully
+post is good
 post post
 post truly
 post upper
@@ -22081,6 +22158,7 @@ post writing
 post_
 post-como-este
 post-extreme
+post-is-good
 post-post
 post-serv
 post-writing
@@ -22527,8 +22605,8 @@ program ppc
 program-ppc
 progress loan
 progress-loan
-progressive jackpot
-progressive-jackpot
+progressive jack
+progressive-jack
 prohormone
 proisxozhdenie
 proizvodstvo
@@ -22857,6 +22935,7 @@ quick_
 quick-fast
 quick-loan
 quick|fast
+quickbookk
 quickfast
 quickloan
 quincy femme
@@ -24160,24 +24239,11 @@ secured-result
 secureimage
 securesmtp
 security-for
-seek man
-seek men
-seek wom
-seek-man
-seek-men
-seek-wom
-seeking man
-seeking men
-seeking wom
-seeking-man
-seeking-men
-seeking-wom
+seek engines
+seek-engines
 seekingman
 seekingmen
 seekingwom
-seekman
-seekmen
-seekwom
 seeming vexation
 seeming-vexation
 seg-board
@@ -24203,6 +24269,7 @@ selebriti_
 self google
 self-google
 selfgoogle
+selfiestick
 sell dump
 sell iphone4
 sell iphone5
@@ -24250,6 +24317,7 @@ senuke-vps
 senukevps
 seo add
 seo barn
+seo blog
 seo comp
 seo expert
 seo gain
@@ -24259,22 +24327,25 @@ seo host
 seo indonesia
 seo luton
 seo online
+seo page
 seo pick
 seo plug
 seo rank
+seo site
 seo soluton
 seo source
 seo toil
 seo tool
 seo vps
+seo web
 seo widget
 seo wise
 seo with
 seo_
-seo-
 seo-1337
 seo-add
 seo-barn
+seo-blog
 seo-comp
 seo-expert
 seo-gain
@@ -24285,14 +24356,17 @@ seo-host
 seo-indonesia
 seo-luton
 seo-online
+seo-page
 seo-pick
 seo-plug
 seo-rank
+seo-site
 seo-soluton
 seo-source
 seo-toil
 seo-tool
 seo-vps
+seo-web
 seo-widget
 seo-wise
 seo-with
@@ -24408,8 +24482,14 @@ settings2
 settings3
 settlement cash
 settlement-cash
+seu blog
 seu site
+seu weblog
+seu website
+seu-blog
 seu-site
+seu-weblog
+seu-website
 several good stuff
 several opportune
 several-opportune
@@ -24545,6 +24625,7 @@ sexy lad
 sexy moment
 sexy sex
 sexy teen
+sexy toy
 sexy virgin
 sexy web
 sexy woman
@@ -24557,6 +24638,7 @@ sexy-lad
 sexy-moment
 sexy-sex
 sexy-teen
+sexy-toy
 sexy-virgin
 sexy-web
 sexy-woman
@@ -24879,6 +24961,7 @@ shopping website
 shopping_
 shopping-getaway
 shopping-harmony
+shopping-ind
 shopping-online
 shopping-site
 shopping-tupina
@@ -25585,7 +25668,9 @@ state-of-the-art
 statement state
 statement-state
 statuscode
+stay it sensible
 stay us
+stay-it-sensible
 stazhirovka
 std testing
 std-testing
@@ -25600,12 +25685,13 @@ stewart furniture
 stewart patio
 stewart-furniture
 stewart-patio
+stickonline
 stiefel damen
-stiefel schweiz
+stiefel schwei
 stiefel-damen
-stiefel-schweiz
+stiefel-schwei
 stiefeldamen
-stiefelschweiz
+stiefelschwei
 stig hollis
 stig online
 stig-hollis
@@ -25969,12 +26055,19 @@ superb blog
 superb data
 superb page
 superb site
+superb web page
+superb web site
 superb weblog
+superb webpage
 superb website
 superb-blog
 superb-data
 superb-page
 superb-site
+superb-web-page
+superb-web-site
+superb-weblog
+superb-webpage
 superb-website
 supercasino
 supercompan
@@ -26164,11 +26257,15 @@ taille cost
 taille-cost
 taillecost
 taionline
+take curcumin
+take-curcumin
 taken gravely
 taken-gravely
 takenwith
 takin note
 takin-note
+taking curcumin
+taking-curcumin
 takje care
 takje-care
 talent manage
@@ -26337,9 +26434,15 @@ tees-hollis
 teeshollis
 tegs:
 tele gratuit
+tele realite
+télé réalité
 tele-gratuit
+tele-realite
+télé-réalité
 telegratuit
 telepon-
+telerealite
+téléréalité
 tem.p.test
 tem.pt.est
 tem.pte.st
@@ -26405,6 +26508,8 @@ texans-jers
 texansjers
 textile urbain
 textile-urbain
+textos maravil
+textos-maravil
 tgf@
 thaat out
 thai camp
@@ -26899,6 +27004,7 @@ token-generat
 token-hack
 tokengenerat
 tokenhack
+tokio_
 tokyo-lv
 told u?
 tomber enceinte
@@ -27097,7 +27203,21 @@ treatment gyno
 treatment-gyno
 treatment.in
 treatmentgyno
+tremendous blog
+tremendous post
+tremendous web page
+tremendous web site
+tremendous weblog
+tremendous webpage
+tremendous website
 tremendous writings
+tremendous-blog
+tremendous-post
+tremendous-web-page
+tremendous-web-site
+tremendous-weblog
+tremendous-webpage
+tremendous-website
 tremendous-writings
 trempe sous
 trempe-sous
@@ -28990,6 +29110,10 @@ wispy lash
 wispy-lash
 witgh
 with declare
+with my blog
+with my page
+with my site
+with my weblog
 with my website
 with pics
 with retinoid
@@ -29002,6 +29126,11 @@ with your weblog
 with your website
 with-body-weight
 with-declare
+with-my-blog
+with-my-page
+with-my-site
+with-my-weblog
+with-my-website
 with-pics
 with-retinoid
 with-your-computer
@@ -29020,19 +29149,35 @@ woah this
 woah-this
 woderful
 woman bikini
+woman seeking man
+woman seeking wom
+woman sex
 woman-bikini
+woman-seeking-man
+woman-seeking-wom
+woman-sex
 woman+
 womanbikini
+womanseeking
+womansex
 women bikini
 women sandal
+women seeking men
+women seeking wom
+women sex
 women-bikini
 women-sandal
+women-seeking-men
+women-seeking-wom
+women-sex
 women+
 womenbikini
 womens narrow
 womens sandal
 womens-narrow
 womens-sandal
+womenseeking
+womensex
 won blog
 won weblog
 won webpage
@@ -29156,7 +29301,9 @@ wordpress web
 wordpress-web
 wordpressweb
 woriing
+work you write
 work-review
+work-you-write
 working, great job
 workout-sale
 workoutsale
@@ -29225,12 +29372,21 @@ wristband-austr
 wristbands-austr
 wristpain
 write an post
+write any article
 write any essay
+write any paper
+write my article
+write my essay
+write my paper
 write subsequent
 write-a-protocol
+write-any-article
 write-any-essay
+write-any-paper
 write-essay
 write-my-article
+write-my-essay
+write-my-paper
 write-paper
 write-subsequent
 write-up very
@@ -29335,6 +29491,7 @@ www<
 wwwpctool
 wx1.ru
 wx2.ru
+wyłączny
 wynn81
 wypoczynku
 wyposazenie
