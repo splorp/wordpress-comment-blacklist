@@ -815,6 +815,9 @@ _zapat
 -kapselfibrose-
 -kapselfibrose.
 -kapselfibrose/
+-karaoke-
+-karaoke.
+-karaoke/
 -kartridj-
 -kartridj.
 -kartridj/
@@ -1489,6 +1492,7 @@ _zapat
 .blogbox.
 .blogdon.
 .bloggerpr.
+.blogkoo.
 .bloglovin.
 .blogminds.
 .blogola.
@@ -1703,6 +1707,9 @@ _zapat
 .kapselfibrose-
 .kapselfibrose.
 .kapselfibrose/
+.karaoke-
+.karaoke.
+.karaoke/
 .kartridj-
 .kartridj.
 .kartridj/
@@ -2988,6 +2995,9 @@ _zapat
 /kapselfibrose-
 /kapselfibrose.
 /kapselfibrose/
+/karaoke-
+/karaoke.
+/karaoke/
 /kartridj-
 /kartridj.
 /kartridj/
@@ -4405,6 +4415,7 @@ $sixty
 80折
 80歳
 81wynn
+88bet
 88ru.
 ９０％
 ９０＄
@@ -4964,6 +4975,8 @@ admin.htm
 admin.jsp
 admin.php
 admin5
+adopt curcumin
+adopt-curcumin
 ados populaire
 ados-populaire
 adospopulaire
@@ -6560,6 +6573,7 @@ best pant
 best payment
 best priced
 best prostate
+best sandal
 best shoe price
 best suppl
 best tummy
@@ -6592,6 +6606,7 @@ best-payment
 best-phone
 best-priced
 best-prostate
+best-sandal
 best-seller-bag
 best-sellers-bag
 best-shoe-price
@@ -6645,6 +6660,7 @@ bestwebsite
 bestxxx
 bet-khong-
 bet-link-
+bet88
 beta/halkomentar-
 betes0
 betes1
@@ -6922,6 +6938,7 @@ blog diária
 blog forest
 blog glance
 blog here
+blog it help
 blog it is
 blog layout
 blog like yours
@@ -6959,6 +6976,8 @@ blog-entry
 blog-forest
 blog-glance
 blog-here
+blog-it-help
+blog-it-is
 blog-layout
 blog-link
 blog-load
@@ -8907,10 +8926,12 @@ cheatsfor
 cheatss
 checed in
 checed-in
+check out new post
 check weblog
 check webpage
 check who call
 check-out out
+check-out-new-post
 check-out-out
 check-weblog
 check-who-call
@@ -9710,7 +9731,9 @@ computers.in
 comreview
 comunity
 concerning blog
+concerning this paragraph
 concerning-blog
+concerning-this-paragraph
 concerpts
 condo-sg
 condosg
@@ -11180,6 +11203,7 @@ egoodshop
 egypt jersey
 egypt-jersey
 ehttp
+eight %
 einkommen
 ejaculate help
 ejaculate pharm
@@ -11811,6 +11835,7 @@ facebooku
 facejack
 facemook
 faceout
+facepook
 facesale
 facestore
 faceterra
@@ -12032,6 +12057,7 @@ fastidious page
 fastidious piece
 fastidious post
 fastidious repl
+fastidious respond
 fastidious site
 fastidious think
 fastidious thou
@@ -12049,6 +12075,7 @@ fastidious-in
 fastidious-my
 fastidious-post
 fastidious-repl
+fastidious-respond
 fastidious-site
 fastidious-think
 fastidious-thou
@@ -12191,6 +12218,8 @@ fckt
 fcukfcuk
 feacute-deacute
 feacutedeacute
+feasting room
+feasting-room
 feature christ's
 feature christ’s
 feature christs
@@ -12325,6 +12354,7 @@ fifa15
 fifa16
 fifa17
 fifa18
+fifa55
 fifacoin
 fifaultimate
 fifaut
@@ -12501,6 +12531,7 @@ fitflop
 fitness_gym
 fitness-gym
 fitness.gym
+five %
 fiverr
 fiverseller
 fivestardoll
@@ -12741,6 +12772,7 @@ forum/func
 forumcoach
 forums.real
 forums.thank
+forwarding-parcel-forward
 forwholesale
 forwindows8
 foryou.co
@@ -12751,6 +12783,7 @@ found iit
 found this post
 found your weblog
 found your website
+four %
 fr canad
 fr-canad
 fr.fr/
@@ -13002,10 +13035,12 @@ frinendfind
 frinendfinder
 frlongchamp
 frmoncler
+from -this-site
 from maltreating
 from subsequent
 from this blog
 from this post
+from this site
 from this weblog
 from this website
 from-maltreating
@@ -14088,6 +14123,7 @@ green smoker
 green-smoker
 green-think
 greensmoker
+grinchfull
 grise parka
 grise-parka
 griseofulvin
@@ -15240,6 +15276,8 @@ human site
 human verification
 human-site
 human-verification
+hundred %
+hundred%
 hungurian
 huntingtexas
 huntingtx
@@ -16700,6 +16738,7 @@ killer-weblog
 kinder moncler
 kinder-moncler
 kindermoncler
+kindest lolita
 king hack
 king-hack
 kinghack
@@ -17160,6 +17199,14 @@ learnpianohere
 leather levi
 leather-levi
 leatherlevi
+leave your blog
+leave your weblog
+leave your webpage
+leave your website
+leave-your-blog
+leave-your-weblog
+leave-your-webpage
+leave-your-website
 lebron shoe
 lebron_
 lebron-shoe
@@ -17544,6 +17591,7 @@ lol smurf
 lol thanks
 lol-life
 lol-smurf
+lolita clip
 london genuine
 london-genuine
 londongenuine
@@ -18786,7 +18834,10 @@ metod vzloma
 metod-vzloma
 metode ociepl
 metode-ociepl
+metro star
+metro-star
 metronidazole
+metrostar
 mezzo louis
 mezzo-louis
 mezzolouis
@@ -19517,7 +19568,9 @@ my web;
 my web:
 my webb
 my weblog
+my weblog is
 my webpage
+my website is
 my website;
 my website:
 my wweb
@@ -19542,7 +19595,9 @@ my-virus
 my-wallet-is
 my-webb
 my-weblog
+my-weblog-is
 my-webpage
+my-website-is
 my-wweb
 myanmar-tour
 myanmartour
@@ -20049,6 +20104,7 @@ niketokyo
 niketotal
 nikeuk
 nikevv
+nine %
 ninja sword
 ninja-sword
 ninjasword
@@ -20479,10 +20535,9 @@ on-line certif
 on-line-certif
 on-the-web
 once-in-a-lifetime
-one hundred%
+one %
 one mayy
 one nike
-one-hundred%
 one-logins
 one-nike
 one:-
@@ -20935,6 +20990,7 @@ outsourcingcompan
 outstanding blog
 outstanding page
 outstanding post
+outstanding quest
 outstanding share
 outstanding site
 outstanding story there
@@ -20944,6 +21000,7 @@ outstanding website
 outstanding-blog
 outstanding-page
 outstanding-post
+outstanding-quest
 outstanding-share
 outstanding-site
 outstanding-story-there
@@ -21034,6 +21091,9 @@ pages scrape
 pages_
 pages-phone
 pages-scrape
+pages/default.asp
+pages/default.htm
+pages/default.jsp
 pages/more
 pages/page
 pages/view
@@ -22932,6 +22992,8 @@ quelques outre
 quelques-autre
 quelques-outre
 querireda
+query with firm
+query-with-firm
 quick fast
 quick loans
 quick_
@@ -23624,6 +23686,8 @@ rich-pickings
 rich-woolrich
 richwoolrich
 ridding-your-property
+ridiculous story there
+ridiculous-story-there
 riga stag
 riga-stag
 riga.stag
@@ -24493,6 +24557,7 @@ seu-blog
 seu-site
 seu-weblog
 seu-website
+seven %
 several good stuff
 several opportune
 several-opportune
@@ -25181,6 +25246,7 @@ situs-judi
 situs-poker
 situs-togel
 siutpd
+six %
 size-genetic
 sizegenetic
 sk8 hi
@@ -26755,7 +26821,10 @@ thoughtful-shop
 thoughtfulshop
 thoughtl
 thouhgt
+thousand %
+thousand%
 thportfol
+three %
 thrity
 throat blow
 throat niece
@@ -27329,6 +27398,7 @@ twerkingvid
 twerkvid
 twit.t.
 twitter-hack
+two %
 twoo minut
 twoo-minut
 tworzenie
@@ -28754,6 +28824,7 @@ website everyday
 website for every
 website inquiry
 website is loading
+website it help
 website keep
 website landing
 website look
@@ -28774,6 +28845,7 @@ website-everyday
 website-for-every
 website-inquiry
 website-is-loading
+website-it-help
 website-keep
 website-landing
 website-look
@@ -28902,13 +28974,17 @@ what-blog
 what-does-turn
 what-we-know
 what-youre
+what's up to
 what's up,
+what’s up to
 what’s up,
 whatblog
 whatll
 whats blog
+whats up to
 whats up,
 whats-blog
+whats-up-to
 whatsapp
 whatsblog
 whatt you
@@ -29694,6 +29770,7 @@ young porn
 young-porn
 youngporn
 your blog
+your blog it
 your bloog
 your budget
 your content are
@@ -29718,13 +29795,16 @@ your ugg
 your web page
 your web site
 your weblog
+your weblog it
 your webpage
 your website for
+your website it
 your website provid
 your website the
 your_
 your-account
 your-blog
+your-blog-it
 your-bloog
 your-budget
 your-content-are
@@ -29750,8 +29830,10 @@ your-subsequent-put
 your-success
 your-ugg
 your-weblog
+your-weblog-it
 your-webpage
 your-website-for
+your-website-it
 your-website-provid
 your-website-the
 your-windows
@@ -30940,12 +31022,14 @@ zyvox
 เดรส-ราคาถูก
 เดรสราคาถูก
 ต่างหู
+นพนัน
 ป้าย ราคาถูก
 ป้าย-ราคาถูก
 ป้ายราคาถูก
 แฟชั่น ราคาถูก
 แฟชั่น-ราคาถูก
 แฟชั่นราคาถูก
+รพนันม
 รับจัดดอ
 รับจำนอง
 สถานที่ จัดงานแต่งงาน
