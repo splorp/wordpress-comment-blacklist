@@ -3007,6 +3007,7 @@ _zapat
 /kontakt-
 /kontakt.
 /kontakt/
+/l2u.su
 /lacoste-
 /lacoste.
 /lang-es/
@@ -3613,6 +3614,7 @@ _zapat
 /userprofiles/
 /userupload/
 /useruploads/
+/utka.su
 /v.gd
 /valkiriarf-
 /valkiriarf.
@@ -3627,6 +3629,7 @@ _zapat
 /vip.
 /visit.
 /visite.
+/vk.io
 /voltaren
 /vuitton-
 /vuitton.

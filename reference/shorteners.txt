@@ -31,6 +31,7 @@
 /is.gd
 /j.mp
 /just.as
+/l2u.su
 /lil.ink
 /loorg.de
 /lvl.vn
@@ -63,7 +64,9 @@
 /to.ly
 /tr.im
 /urlms.co
+/utka.su
 /v.gd
+/vk.io
 /webhop.se
 /wntdco.mx
 /x.co
