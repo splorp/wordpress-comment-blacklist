@@ -794,6 +794,12 @@ _zapat
 -insurance/
 -insuring.
 -insuring/
+-iphone-s-
+-iphone-s.
+-iphone-s/
+-iphone-x-
+-iphone-x.
+-iphone-x/
 -jacket-
 -jacket.
 -jacket/
@@ -1696,6 +1702,12 @@ _zapat
 .info/,
 .insanity-
 .internet-
+.iphone-s-
+.iphone-s.
+.iphone-s/
+.iphone-x-
+.iphone-x.
+.iphone-x/
 .it/?it
 .it/t/
 .jiliblog.
@@ -2705,6 +2717,7 @@ _zapat
 /customercare-
 /customercare.
 /cutt.us
+/danh-muc/
 /dat/
 /data/
 /datebase-
@@ -2964,6 +2977,12 @@ _zapat
 /insurance.
 /internal/
 /ip/
+/iphone-s-
+/iphone-s.
+/iphone-s/
+/iphone-x-
+/iphone-x.
+/iphone-x/
 /is.gd
 /iss.
 /j.mp
@@ -6540,6 +6559,8 @@ belstaffout
 belt replica
 belt-replica
 beltreplica
+beneath if it is
+beneath-if-it-is
 beneficios de la
 beneficios-de-la
 benefit coupon
@@ -7631,6 +7652,7 @@ burberry purse
 burberry sale
 burberry scarf
 burberry store
+burberry tasche
 burberry task
 burberry thai
 burberry uk
@@ -7651,6 +7673,7 @@ burberry-out
 burberry-purse
 burberry-sale
 burberry-scarf
+burberry-tasche
 burberry-task
 burberry-too
 burberry-wallet
@@ -7676,7 +7699,7 @@ burberryscarf
 burberrysold
 burberrystore
 burberrysuto
-burberrytaschen
+burberrytasche
 burberrytask
 burberrytoo
 burberrywallet
@@ -8948,6 +8971,7 @@ check out new post
 check weblog
 check webpage
 check who call
+check-caller
 check-out out
 check-out-new-post
 check-out-out
@@ -8955,6 +8979,7 @@ check-weblog
 check-who-call
 check.asp
 check32attack
+checkcaller
 checkedd
 checkwhocall
 cheeerd
@@ -9195,6 +9220,7 @@ clansipad
 clansiphone
 clarisonic
 clash hack
+clash-clans
 clash-hack
 clash-of-clans
 clashhack
@@ -10482,6 +10508,7 @@ demolicao-shop
 demoniakk
 démoniakk
 demontag
+den-led-am-tran
 den-pha-led
 den-pha-metal
 denschlaf
@@ -12906,6 +12933,7 @@ free-mp3
 free-number
 free-offer
 free-online
+free-pc-game
 free-pokecoin
 free-poker
 free-prescript
@@ -13999,6 +14027,8 @@ gorgeous-escort
 gorgeousescort
 gosgov
 goshop.
+gossip posted
+gossip-posted
 got a blog
 got a weblog
 got idea
@@ -14425,8 +14455,8 @@ hamilton-norge
 hamster-diet
 hamsterdiet
 hamzam
-hand taschen
-hand-taschen
+hand tasche
+hand-tasche
 handbag distrib
 handbag louis
 handbag out
@@ -14479,7 +14509,7 @@ handbagwhole
 handbagwom
 handsome gold
 handsome-gold
-handtaschen
+handtasche
 handy web page
 handy weblog
 handy webpage
@@ -15141,6 +15171,7 @@ hoststo.ru
 hoststo.su
 hot concern
 hot gratuit
+hot sex
 hot tech
 hot-babe
 hot-girl
@@ -15149,6 +15180,7 @@ hot-love
 hot-pantie
 hot-panty
 hot-sale
+hot-sex
 hot-tag
 hot-tags
 hot-tech
@@ -15183,6 +15215,7 @@ hotlove
 hotpantie
 hotpanty
 hotsale
+hotsex
 hotsunglass
 hottag
 hottest info
@@ -16843,7 +16876,9 @@ knockoff-eyewear
 knockoff-hand
 knockoffhand
 knolckoff
+know about this subject
 know whatt
+know-about-this-subject
 know-web
 knowing answer
 knowing-answer
@@ -18646,6 +18681,9 @@ medrol32.
 medrol32mg
 medshop
 meendo
+meet and fuck
+meet-and-fuck
+meetandfuck
 mega culo
 mega pezone
 mega provide
@@ -19412,9 +19450,11 @@ montres-femmes
 montresfemmes
 moore about
 moore-about
+more clash of
 more effective!
 more eventually
 more smartly
+more-clash-of
 more-deal
 more-effective!
 more-eventually
@@ -21476,11 +21516,15 @@ paysafecard-exchange
 paysafecard-instant
 pbrolme
 pc access
+pc game free
+pc games free
 pc health
 pc sex
 pc stuff
 pc windows
 pc-access
+pc-game-free
+pc-games-free
 pc-health
 pc-sex
 pc-stuff
@@ -24233,6 +24277,8 @@ scarrepair
 sceeen
 schlgsseldienste
 schlüsseldienste
+schmuck mag
+schmuck-mag
 schoene seite
 schoene-seite
 schoenen dame
@@ -24601,6 +24647,7 @@ several opportune
 several-opportune
 sex advice
 sex blog
+sex budd
 sex cam
 sex clermont
 sex club
@@ -24635,6 +24682,7 @@ sex xxx
 sex_
 sex-advice
 sex-blog
+sex-budd
 sex-cam
 sex-clermont
 sex-club
@@ -24674,6 +24722,7 @@ sex.php
 sex.porn
 sexadvice
 sexblog
+sexbudd
 sexcam
 sexclub
 sexdat
@@ -26431,8 +26480,16 @@ tarot-mensual
 tasche longchamp
 tasche-longchamp
 taschelongchamp
+taschen burberry
+taschen leder
 taschen longchamp
+taschen-burberry
+taschen-leder
 taschen-longchamp
+taschenburberry
+taschenleder
+taschenleerer leder
+taschenleerer-leder
 taschenlongchamp
 taskss
 tastegood.co
@@ -28561,7 +28618,7 @@ vuitton sac
 vuitton shoe
 vuitton sold
 vuitton speed
-vuitton taschen
+vuitton tasche
 vuitton wallet
 vuitton whole
 vuitton women
@@ -29106,6 +29163,7 @@ wholesale nhl
 wholesale north
 wholesale polo
 wholesale ralph
+wholesale sex
 wholesale soccer
 wholesale vibrat
 wholesale-acrylic
@@ -29131,6 +29189,7 @@ wholesale-nhl
 wholesale-north
 wholesale-polo
 wholesale-ralph
+wholesale-sex
 wholesale-soccer
 wholesale-vibrat
 wholesalebag
@@ -29150,6 +29209,7 @@ wholesalenorth
 wholesalepolo
 wholesaler-mac
 wholesalermac
+wholesalesex
 wholesalesoccer
 wholesalevibrat
 whore butt
@@ -29291,6 +29351,8 @@ woman-bikini
 woman-seeking-man
 woman-seeking-wom
 woman-sex
+woman's high heel
+woman’s high heel
 woman+
 womanbikini
 womanseeking
@@ -29305,10 +29367,14 @@ women-sandal
 women-seeking-men
 women-seeking-wom
 women-sex
+women's high heel
+women’s high heel
 women+
 womenbikini
+womens high heel
 womens narrow
 womens sandal
+womens-high-heel
 womens-narrow
 womens-sandal
 womenseeking
