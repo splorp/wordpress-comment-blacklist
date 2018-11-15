@@ -623,6 +623,9 @@ _zapat
 -doorblog-
 -doorblog.
 -doorblog/
+-dosityna-
+-dosityna.
+-dosityna/
 -download.
 -download/
 -dre.
@@ -1618,6 +1621,9 @@ _zapat
 .doorblog-
 .doorblog.
 .doorblog/
+.dosityna-
+.dosityna.
+.dosityna/
 .ee/ee/
 .equal-
 .executive-
@@ -2768,6 +2774,9 @@ _zapat
 /domainers/
 /doorblog-
 /doorblog.
+/dosityna-
+/dosityna.
+/dosityna/
 /doudoun-
 /doudoun.
 /doudoune-
@@ -3789,54 +3798,30 @@ _zapat
 #&amp;
 #file
 #random
-%$%
-%5b%5d
+%$
+%5b
+%5d
 %7c
-%anchor%
-%bb%bf
-%blogurl%
-%d0%b0
-%d0%b1
-%d0%b2
-%d0%b3
-%d0%b4
-%d0%b5
-%d0%b6
-%d0%b7
-%d0%b8
-%d0%b9
-%d0%ba
-%d0%bb
-%d0%bc
-%d0%bd
-%d0%be
-%d0%bf
-%d1%8a
-%d1%8b
-%d1%8c
-%d1%8d
-%d1%8e
-%d1%8f
-%d1%80
-%d1%81
-%d1%82
-%d1%83
-%d1%84
-%d1%85
-%d1%86
-%d1%87
-%d1%88
-%d1%89
+%anchor
+%article
+%bb
+%bf
+%blog
+%d0%
+%d1%
+%d2%
+%d3%
+%d4%
+%d5%
+%d6%
+%d7%
 %d8%
+%d9%
 %e0%
-%ef%bb
-%page%
-%pages%
-%titel%
-%title%
-%titlet%
-%u2019
-%url%
+%ef%
+%page
+%tit
+%u
 ‡a
 ‡o
 +.-
@@ -4612,6 +4597,7 @@ a blog from
 a few website
 a final results
 a http
+a leisure account
 a lots
 a pleasant think
 a ppart
@@ -5996,6 +5982,7 @@ away-your
 awesome article
 awesome blog
 awesome designed
+awesome headline
 awesome page
 awesome paragraph
 awesome post
@@ -6004,6 +5991,7 @@ awesome webpage
 awesome-article
 awesome-blog
 awesome-designed
+awesome-headline
 awesome-page
 awesome-paragraph
 awesome-post
@@ -6540,7 +6528,9 @@ beijing-escort
 beijing-massage
 beijingescort
 beijingmassage
+being photographer
 being pput
+being-photographer
 being-pput
 belize propert
 belize-propert
@@ -6789,6 +6779,7 @@ bikini udsalg
 bikini-outlet
 bikini-sale
 bikini-salg
+bikini-set
 bikini-swimsuit
 bikini-udsalg
 bikinier udsalg
@@ -7248,6 +7239,8 @@ boot oxford
 boot queen
 boot sale
 boot schwei
+boot store online
+boot stores online
 boot ugg
 boot uk
 boot-get
@@ -7256,6 +7249,8 @@ boot-oxford
 boot-queen
 boot-sale
 boot-schwei
+boot-store-online
+boot-stores-online
 boot-ugg
 boot-uk
 bootcojp
@@ -7541,6 +7536,7 @@ broncoshat
 broncosjers
 broncosofficial
 brothershit
+brought agreeable
 browns jersey
 browns-jersey
 brrip
@@ -9151,6 +9147,8 @@ chose appnana
 chose-app-nana
 chose-appnana
 choseappnana
+chosen motion
+chosen-motion
 chrismas.asp
 christian_
 christian-loubou
@@ -9781,6 +9779,7 @@ company ppc
 company-coach
 company-ppc
 companycoach
+comparable preceding
 compare price
 compare-price
 competent essay
@@ -10123,6 +10122,7 @@ create-your-website
 createown
 createproduct
 createtee
+creation will run
 credit direct
 credit repair
 credit report
@@ -10480,6 +10480,7 @@ decent-post
 decent-site
 decent-web
 decide-to-purchase
+deconomic
 dedans longchamp
 dedans-longchamp
 dedanslongchamp
@@ -10496,7 +10497,9 @@ defiantlybrilliant
 deficitfight
 definate
 definitelly
+degree expert
 degree twenty
+degree-expert
 degree-twenty
 dehttp
 dejting-program
@@ -10848,6 +10851,7 @@ djstool
 djtool
 dlphone
 dnjurh
+dns-www
 ðº
 do blogging
 do bookmark
@@ -12053,6 +12057,7 @@ fantastictopic
 fantastictreatment
 fantasticweblog
 fantasticwebsite
+far brought
 farmacia
 farmacia_
 farmacias
@@ -12675,6 +12680,7 @@ fluccun
 fluconazole
 fluoxetine
 fluticasone
+fmovie
 fobur.in
 fodbold trojer
 fodbold trøjer
@@ -12748,11 +12754,13 @@ for download.
 for gucci
 for himm
 for interact
+for on-line
 for thhe
 for this blog
 for this weblog
 for this website
 for yolur
+for your article
 for_business
 for-business-advertis
 for-cheap
@@ -12760,6 +12768,7 @@ for-gucci
 for-interact
 for-men
 for-money
+for-on-line
 for-sale-direct
 for-the-most
 for-whole-sale
@@ -13029,6 +13038,7 @@ freem4a
 freembtrans
 freemovie
 freemp3
+freenom.link
 freeoffer
 freeonline
 freepokecoin
@@ -13265,6 +13275,7 @@ furworld.ru
 furworld.su
 futbol barcelona
 futbol-barcelona
+futbol/forum
 futbolbarcelona
 futuristic-market
 futuristicmarket
@@ -13317,6 +13328,11 @@ gagner
 gagprincess
 gain weight
 gain-weight
+gained from your blog
+gained from your page
+gained from your site
+gained from your weblog
+gained from your website
 gainers beat
 gainers outnumbered
 gainers-beat
@@ -13521,6 +13537,7 @@ germany-jers
 germany-lesb
 germanylesb
 germanylove
+geschenkideen
 gestione
 get $
 get a loan
@@ -13907,6 +13924,7 @@ good template
 good weblog
 good website
 good work fellow
+good writeup
 good-article
 good-blog
 good-click
@@ -14142,6 +14160,7 @@ graysonbag
 great acknow
 great article
 great bet
+great blog
 great blog roll
 great blog you
 great blogroll
@@ -14701,7 +14720,9 @@ heel-ped
 heel-shoe
 heelo
 heelped
+heels cheap
 heels shoe
+heels-cheap
 heels-shoe
 heelshoe
 heil hitler
@@ -14770,7 +14791,9 @@ help.php
 helpcry
 helpessay
 helpful blog
+helpful content
 helpful-blog
+helpful-content
 helpful-info
 helpful-method
 helpfulblog
@@ -14971,6 +14994,8 @@ hindi-pdf
 hingenieur
 hipster tumblr
 hipster-tumblr
+his website
+his-website
 hisslipper
 hit mp3
 hit-mp3
@@ -15867,11 +15892,13 @@ instructor car
 instructor-car
 instructorcar
 insurance auto
+insurance broker
 insurance car
 insurance home
 insurance house
 insurance quote
 insurance-auto
+insurance-broker
 insurance-car
 insurance-compan
 insurance-home
@@ -19556,8 +19583,10 @@ movie-online
 movie-zone
 movie/?
 movieonline
+movies free
 movies on-line
 movies online
+movies-free
 movies-online
 movies-zone
 movies/?
@@ -20678,7 +20707,9 @@ on thjis
 on tthe
 on web site
 on-line certif
+on-line degree
 on-line-certif
+on-line-degree
 on-the-web
 once-in-a-lifetime
 one %
@@ -20727,6 +20758,7 @@ online journ
 online loan
 online longbow
 online m4a
+online movie
 online mp3
 online out
 online pharm
@@ -20781,6 +20813,7 @@ online-m4a
 online-market
 online-med
 online-money
+online-movie
 online-mp3
 online-out
 online-outlet
@@ -21483,9 +21516,11 @@ part-mariage
 parti rni
 parti-rni
 particular article
+particular broker
 particular proficiency
 particular wearer
 particular-article
+particular-broker
 particular-proficiency
 particular-wearer
 partidos online
@@ -24277,23 +24312,27 @@ sản-xuất
 san.diego.realtor
 sandal jp
 sandal online
+sandal quote
 sandal sale
 sandal uk
 sandal women
 sandal-jp
 sandal-online
+sandal-quote
 sandal-sale
 sandal-uk
 sandal-women
 sandaljp
 sandals jp
 sandals online
+sandals quote
 sandals sale
 sandals shoe
 sandals uk
 sandals women
 sandals-jp
 sandals-online
+sandals-quote
 sandals-sale
 sandals-shoe
 sandals-uk
@@ -24877,6 +24916,7 @@ sexy girl
 sexy lad
 sexy moment
 sexy sex
+sexy shoe store
 sexy teen
 sexy toy
 sexy virgin
@@ -24890,6 +24930,7 @@ sexy-girl
 sexy-lad
 sexy-moment
 sexy-sex
+sexy-shoe-store
 sexy-teen
 sexy-toy
 sexy-virgin
@@ -25040,7 +25081,9 @@ shoe promo
 shoe sale
 shoe sol
 shoe store for
+shoe store online
 shoe stores for
+shoe stores online
 shoe uk
 shoe web store
 shoe woman
@@ -25063,7 +25106,9 @@ shoe-promo
 shoe-sale
 shoe-sol
 shoe-store-for
+shoe-store-online
 shoe-stores-for
+shoe-stores-online
 shoe-uk
 shoe-web-store
 shoe-woman
@@ -25505,8 +25550,12 @@ sledge-baseball
 sledge-bat
 slim plus attract
 slim-plus-attract
+slim-woman
+slim-women
 slimpill
 slimup
+slimwoman
+slimwomen
 slipper khaki
 slipper-khaki
 slipperkhaki
@@ -25799,6 +25848,8 @@ special approximate
 special daay
 special-approximate
 special-offer
+specially refurnished
+specially-refurnished
 specialty-transfer
 specialtytransfer
 specific gift
@@ -26178,6 +26229,7 @@ submissive porn
 submissive-porn
 submissive.porn
 submissiveporn
+submit my comment
 submit upper
 submit web
 submit-upper
@@ -26809,6 +26861,7 @@ thanh-nhạc
 thank you for posting
 thank you for sharing
 thanks admin
+thanks alot :
 thanks designed
 thanks foor
 thanks for posting
@@ -27518,6 +27571,7 @@ treatment.in
 treatmentgyno
 tremendous blog
 tremendous post
+tremendous site
 tremendous web page
 tremendous web site
 tremendous weblog
@@ -27972,6 +28026,7 @@ ukmall
 ukmart
 ukonline
 ukout
+ukphonenumber
 uksale
 uksonline
 ukugg
@@ -28889,11 +28944,16 @@ warriorsjersey
 warszawa
 was ddoing
 wasbusiness
+watch full length
 watch hdonline
 watch instant
+watch movie
+watch now online
 watch vid
+watch-full-length
 watch-hdonline
 watch-instant
+watch-movie
 watch-quartz
 watch-replica
 watch-seiko
@@ -29360,6 +29420,12 @@ widespread prescription
 widespread-prescription
 widespread-sorts
 widget_
+widows full
+widows online
+widows-full
+widows-online
+widowsfull
+widowsonline
 widyaw
 wiecej tutaj
 więcej tutaj
@@ -29431,6 +29497,7 @@ windowsphone.co
 winesickle
 wingsshop
 winner casino
+winner of made
 winner-casino
 winter jassen
 winter-jassen
@@ -29529,6 +29596,7 @@ wondeful
 wonderful article
 wonderful blog
 wonderful educational
+wonderful goods
 wonderful homepage
 wonderful informative
 wonderful post
@@ -30411,6 +30479,7 @@ zyban
 zyprexa
 zyrtec
 zyvox
+αρθροπλαστική
 ϳa
 ϳi
 ϳo
@@ -31333,6 +31402,7 @@ zyvox
 여자친구
 온라인카지노
 인터넷카지노
+출장업소
 카지노
 토토
 토토사이트
