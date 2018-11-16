@@ -1303,6 +1303,9 @@ _zapat
 -whipme.
 -whipme/
 -wholesale.
+-wirisi-
+-wirisi.
+-wirisi/
 -wizard.co
 -women-jers
 -womens-jers
@@ -2120,6 +2123,9 @@ _zapat
 .whipme.
 .whipme/
 .widblog.
+.wirisi-
+.wirisi.
+.wirisi/
 .worktop.
 .worktops.
 .xblog.in
@@ -3706,6 +3712,9 @@ _zapat
 /wholesale.
 /widget/
 /widgets/
+/wirisi-
+/wirisi.
+/wirisi/
 /wntdco.mx
 /wo.
 /woolrich-
@@ -5606,6 +5615,7 @@ aree-good
 areplica
 arerivd
 areshade
+areyoufashion
 aricept
 aripiprex
 arise balls
@@ -6712,6 +6722,7 @@ betes9
 betlist
 betor.biz
 betor.ru
+better handling driving
 better-essay-writ
 better-serv
 betterjudg
@@ -7094,7 +7105,11 @@ blogs/post
 blogsite
 blogsoon
 blogspot have
+blogspot provide
 blogspot-have
+blogspot-provide
+blogspothave
+blogspotprovide
 blogsys
 blogtitle
 blogue1
@@ -9730,6 +9745,7 @@ comment/north
 comment/rolex
 commentabout
 commented here
+commented i click
 commented-here
 commenting any
 commenting-any
@@ -9758,6 +9774,7 @@ comming from
 comming-from
 commission account
 commission-account
+commokn
 common-redaction
 communal authent
 communal-authent
@@ -10144,6 +10161,9 @@ creditscore
 criar coment
 criar-coment
 cription.asp
+cripto moneda
+cripto-moneda
+criptomoneda
 cristmas-
 critically article
 critically-article
@@ -10164,12 +10184,15 @@ crushcandy
 crushhack
 cryp.trade
 crypto curreny
+crypto moneda
 crypto-curreny
+crypto-moneda
 cryptocurrency coin
 cryptocurrency strat
 cryptocurrency-coin
 cryptocurrency-strat
 cryptocurreny
+cryptomoneda
 crystalmall
 csgo ak47
 csgo free
@@ -10230,6 +10253,8 @@ currencytrad
 curry jersey
 curry-jersey
 curryjersey
+cursos de trading
+cursos-de-trading
 custom essay
 custom jersey
 custom nike
@@ -11371,7 +11396,11 @@ empower network
 empower-network
 empowernetwork
 empreendedor
+en en linea
+en en línea
 en private
+en-en-linea
+en-en-línea
 en-ligne-paris
 en-private
 en/formula
@@ -11652,6 +11681,7 @@ essaysserv
 essayswrite
 essaytyper
 essaywrite
+essentials-for-girls
 established blog
 established-blog
 estadounidense
@@ -12781,6 +12811,7 @@ forboot
 forcheap
 foreplay tip
 foreplay-tip
+forex forum
 forex master
 forex pip
 forex pro
@@ -12789,6 +12820,7 @@ forex robot
 forex sign
 forex wealth
 forex_
+forex-forum
 forex-master
 forex-pip
 forex-pro
@@ -12797,7 +12829,9 @@ forex-robot
 forex-sign
 forex-valu
 forex-wealth
+forexforum
 forexmaster
+forexpeace
 forexpip
 forexpro
 forexrev
@@ -15353,6 +15387,7 @@ how-to-teach
 how-to-tell-the-dif
 how-to-unlock
 how-to-win
+howdy just wanted
 however before
 however good topic
 however great topic
@@ -17126,6 +17161,8 @@ kupony-kod
 kuponykod
 kurs yevro
 kurs-yevro
+kurta online
+kurta-online
 kussin hartmann
 kussin-hartmann
 kussinhartmann
@@ -19450,6 +19487,7 @@ moneyrobot
 monica-santa
 monohydrate
 monroussillon
+monsoon-essential
 monster beat
 monster earphone
 monster jap
@@ -19592,6 +19630,7 @@ movies-zone
 movies/?
 moviesandfilm
 moviesdl
+moviesfree
 moviesonline
 movieszone
 moviezone
@@ -20359,6 +20398,7 @@ notable void
 notable-void
 notdienst
 notfake
+nothng
 noticeably plenty
 noticeably-plenty
 noticias noticia
@@ -20597,6 +20637,7 @@ odziez
 oem-software
 oemsoftware
 oesale
+of activity life
 of certainly
 of deemed
 of deficiency of
@@ -20606,6 +20647,7 @@ of internet
 of manies
 of tgese
 of the casino
+of the web page
 of this blog
 of this weblog
 of this website
@@ -20715,6 +20757,7 @@ once-in-a-lifetime
 one %
 one mayy
 one nike
+one piece est au
 one-logins
 one-nike
 one:-
@@ -21447,6 +21490,7 @@ paper-college
 paper-writer-service
 paper-writing-service
 papercollege
+paqst
 par/index
 para tiara
 para-tiara
@@ -22146,6 +22190,7 @@ poker chip
 poker domino
 poker game
 poker machine
+poker mistake
 poker money
 poker online
 poker qq
@@ -22167,6 +22212,7 @@ poker-chip
 poker-domino
 poker-game
 poker-machine
+poker-mistake
 poker-money
 poker-online
 poker-qq
@@ -22453,6 +22499,8 @@ posylka-iz-kitaya
 posylka-izkitaya
 posylka.izkitaya
 posylkaizkitaya
+potential of curcumin
+potential-of-curcumin
 potngsi
 poto therapy
 poto-therapy
@@ -23380,6 +23428,8 @@ really-fastidious
 really-fruitful
 really.. thank
 reallywork.we
+realms-full
+realmsfull
 realtor promo
 realtor-promo
 realxxx
@@ -23503,6 +23553,7 @@ réforme-ta-santé
 reformetasante
 réformetasanté
 reg_
+regaard
 regarding blog
 regarding thiss
 regarding-thiss
@@ -24362,6 +24413,7 @@ saudavel-perder
 saudável-perder
 sauvegarde extern
 sauvegarde-extern
+save that snap
 save-you-time
 sawfwaf
 say about this paragraph
@@ -24525,6 +24577,8 @@ secured-result
 secureimage
 securesmtp
 security-for
+see this blog
+see this weblog
 seek engines
 seek-engines
 seekingman
@@ -25784,6 +25838,7 @@ solutionsblog
 solutionsinc
 some coinage
 some functionalitie
+some one search
 some-coinage
 some-functionalitie
 somedias
@@ -26422,6 +26477,7 @@ supplementsenergy
 suppliers that'
 suppliers that’
 suppliers-that
+supplies many expert
 suppliment
 supply_
 supra boutique
@@ -26917,6 +26973,9 @@ the post you write
 the right weblog
 the right webpage
 the right website
+the simple blog
+the simple weblog
+the simple website
 the web users
 the_best
 the-article-you-write
@@ -27454,6 +27513,10 @@ topcontractor
 topforum
 topia hack
 topia-hack
+topic of blog
+topic of page
+topic of weblog
+topic of website
 topic.real
 topic.thank
 topics.real
@@ -27618,6 +27681,7 @@ truly awesome paragraph
 truly fastidious
 truly fruitful
 truly peaked
+truly sharing nice
 truly suppose
 truly thk
 truly very
@@ -30249,6 +30313,7 @@ yslschuh
 yu move
 yu-move
 yumeeyum
+yup this article
 yutyca
 yuuguu
 yyou
