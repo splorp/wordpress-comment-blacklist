@@ -64,6 +64,7 @@
 /to.ly
 /tr.im
 /urlms.co
+/utiny.ml
 /utka.su
 /v.gd
 /vk.io
