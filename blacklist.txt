@@ -2879,6 +2879,7 @@ _zapat
 /functions/
 /futbol-
 /futbol/
+/fwme.eu
 /ge.tt
 /gekiyasu
 /get-free
