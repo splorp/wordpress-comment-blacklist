@@ -2525,6 +2525,10 @@ _zapat
 /bitcoin/
 /blackjack-
 /blackjack.
+/blog:0
+/blog:1
+/blog:2
+/blog:3
 /blog.
 /blogid
 /bloglist/
@@ -5541,6 +5545,7 @@ anus-online
 any certain?
 any positive?
 any sure?
+anygone
 anynihtg
 anyokne
 anyone folk
@@ -6815,6 +6820,7 @@ bijouxbest
 bijouxfr
 bijsluiter tablet
 bijsluiter-tablet
+bikiji
 bikini outlet
 bikini sale
 bikini salg
@@ -9054,6 +9060,7 @@ cheatss
 checed in
 checed-in
 check out new post
+check this link
 check weblog
 check webpage
 check who call
@@ -10908,6 +10915,8 @@ disfuncao-eretil
 disfunçăo-erétil
 disorder quiz
 disorder-quiz
+dispensary near me
+dispensary near you
 display_
 dissertation making
 dissertation posting
@@ -11297,11 +11306,14 @@ dг
 dе
 dу
 e http
+e objetivo da
+é objetivo da
 é premium
 e-biz
 e-cig
 e-evance
 e-korting
+e-objetivo-da
 é-premium
 e.@
 e2by.in
@@ -11572,6 +11584,7 @@ equibase velocity
 equibase-rate
 equibase-speed
 equibase-velocity
+equip your mind
 equipement manufact
 equipement-manufact
 equipment manufact
@@ -17739,11 +17752,14 @@ link issue
 link juice
 link market
 link pyramid
+link right here
 link sale
 link seller
 link seo
 link serv
 link submit
+link to their online
+link to your online
 link track
 link vault
 link_
@@ -20120,6 +20136,10 @@ natürlich
 naturlig penis
 naturlig-penis
 naturligpenis
+naughty christmas
+naughty xmas
+naughty-christmas
+naughty-xmas
 navstevni kniha
 navstevni-kniha
 nba 2k
@@ -22251,6 +22271,8 @@ pjbpro
 pjure breast
 pjure-breast
 pl/wiki
+place for naughty
+place-for-naughty
 plaesure
 plagorism
 plain profit
@@ -25808,6 +25830,7 @@ skins fortnite
 skins-bet
 skins-fortnite
 skinsfortnite
+skip hire company
 skip-trac
 skjonnhetsprodukter
 skjønnhetsprodukter
@@ -27165,8 +27188,10 @@ thailandm88
 thailove
 than forex
 than-forex
+thanh tn
 thanh-nhac
 thanh-nhạc
+thanh-tn
 thank you for posting
 thank you for sharing
 thanks admin
@@ -27401,6 +27426,8 @@ thm.cfm
 thm.htm
 thm.jsp
 thm.php
+thnh tn
+thnh-tn
 thninkig
 thnkgini
 thnnik
@@ -27871,9 +27898,11 @@ tradaoquan
 trade_your
 trading-method
 traffic bot
+traffic lawyer cost
 traffic software
 traffic_
 traffic-bot
+traffic-lawyer-cost
 traffic-software
 trafficbot
 trafficvance
