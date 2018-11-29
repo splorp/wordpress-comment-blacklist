@@ -1359,6 +1359,7 @@ _zapat
 ://a/
 :adidas
 :blog
+:d.
 :nike
 :post
 :user
@@ -6784,6 +6785,7 @@ betting-article
 betting-news
 betting-site
 betweenex
+bhilt
 bhttp
 bianca black
 bianca-black
@@ -8364,6 +8366,7 @@ casino only
 casino partic
 casino phish
 casino site
+casino today
 casino view
 casino_
 casino-1
@@ -8381,6 +8384,7 @@ casino-only
 casino-partic
 casino-phish
 casino-site
+casino-today
 casino-view
 casino.co
 casino1
@@ -8395,7 +8399,9 @@ casinolist
 casinoonline
 casinoonly
 casinophish
+casinos today
 casinos-
+casinos-today
 casinosite
 casinoview
 casolete plastic
@@ -10932,6 +10938,8 @@ discounts-coupon
 discountt
 discountugg
 discountwheel
+discreet apartment
+discreet-apartment
 discussion made
 discussion-made
 disfuncao eretil
@@ -13836,6 +13844,7 @@ girl-jp
 girl-pantie
 girl-panty
 girl-spouse
+girl4escort
 girlblog
 girldaydress
 girleblog
@@ -13855,6 +13864,7 @@ girls-blog
 girls-day-dress
 girls-eblog
 girls-escort
+girls4escort
 girlsblog
 girlsdaydress
 girlseblog
@@ -20941,6 +20951,9 @@ offered byy
 offered in your blog
 offered in your post
 offered in your weblog
+offered on your blog
+offered on your post
+offered on your weblog
 offering free
 offering-free
 offerout
@@ -21337,6 +21350,8 @@ out my blog
 out soime
 out-assim
 outelt
+outfits seller
+outfits-seller
 outilclient
 outlaw hack
 outlaw-hack
@@ -22908,6 +22923,7 @@ prazosin
 precisely lots
 precisely-lots
 prednisone
+prefer in women
 preference-0
 preference-1
 preference-2
@@ -26761,6 +26777,7 @@ superb blog
 superb data
 superb page
 superb site
+superb subject matter
 superb web page
 superb web site
 superb weblog
@@ -28129,6 +28146,9 @@ twoo minut
 twoo-minut
 tworzenie
 twwo minut
+ty uy tin
+ty uy tín
+ty-uy-tin
 tʏ
 tе
 tо
@@ -29783,6 +29803,8 @@ whereget
 wheresell
 wheretobuy
 wheretoget
+which blog platform
+which weblog platform
 which-is-depress
 which-will-save
 whichpag
@@ -30081,6 +30103,8 @@ wonderful-site
 wonderful-website
 wonderful! thanks!
 wonderfulread
+wondering which blog
+wondering which weblog
 woodgundy.us
 woolrich amster
 woolrich arctic
@@ -30545,6 +30569,7 @@ you article
 you book marked
 you ccan
 you gucci
+you please prolong
 you sees
 you ssay
 you ugg
@@ -31821,6 +31846,7 @@ zyvox
 օx
 օy
 ויקיפדיה
+ליווי
 أغراس
 السياحة العلاجي
 پازل باند
