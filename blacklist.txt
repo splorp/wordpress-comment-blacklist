@@ -1483,6 +1483,7 @@ _zapat
 .asp?tab
 .asp/
 .aspx?tab
+.aspx/
 .asses-
 .asses.
 .asses/
@@ -1559,6 +1560,7 @@ _zapat
 .cazino-
 .cazino.
 .cazino/
+.cfm/
 .cfmx
 .cgi
 .chanel-
@@ -1665,6 +1667,7 @@ _zapat
 .games.ru
 .games.su
 .games.za
+.gif/
 .gucci-
 .gull.gull
 .haberlist-
@@ -1737,6 +1740,8 @@ _zapat
 .jpg.htm
 .jpg.jsp
 .jpg.php
+.jpg/
+.jsp/
 .kapselfibrose-
 .kapselfibrose.
 .kapselfibrose/
@@ -1840,6 +1845,7 @@ _zapat
 .phexin-
 .phexin.
 .phexin/
+.php/
 .picload-
 .picload.
 .picload/
@@ -2990,13 +2996,7 @@ _zapat
 /index-3
 /index-4
 /index-5
-/index.asp/
-/index.aspx/
-/index.cfm/
-/index.htm/
-/index.jsp/
 /index.php?/
-/index.php/
 /index0
 /index1
 /index2
@@ -5479,6 +5479,7 @@ analysis-sport
 anchor0
 anchor1
 anchor2
+anchortext
 and bye.
 and shate
 and-shate
@@ -5692,6 +5693,7 @@ armanicost
 armaniqq
 armanito
 armoredtroop
+arntgj
 aroma paradise
 aroma-paradise
 aromaparadise
@@ -9135,6 +9137,11 @@ cheatsfor
 cheatss
 checed in
 checed-in
+check my blog
+check my page
+check my post
+check my weblog
+check my website
 check out new post
 check this link
 check weblog
@@ -23198,6 +23205,7 @@ presentation-subsequent
 presently fascinate
 presently-fascinate
 preserveness
+pressuppose
 pretty worth
 pretty-worth
 prettyworth
@@ -29172,6 +29180,10 @@ veterinarnaya
 vetrinary
 vhs-to-digital
 vhttp
+via your blog
+via your page
+via your post
+via your web
 via-internet
 viagara
 viagera
