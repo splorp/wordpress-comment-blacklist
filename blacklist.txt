@@ -466,6 +466,10 @@ _zapat
 -bluray-
 -bluray.
 -bluray/
+-bodhidharma-
+-bodhidharma.
+-bodhidharma/
+-bodybuilding-
 -bodybuilding.
 -bodybuilding/
 -boner-
@@ -1069,6 +1073,7 @@ _zapat
 -pussy.
 -pussys-
 -pussys.
+-qq.blog
 -qsymia-
 -qsymia.
 -qsymia/
@@ -1245,6 +1250,9 @@ _zapat
 -thxgamers.
 -thxgamers/
 -tips/
+-tischkicker-
+-tischkicker.
+-tischkicker/
 -tits-
 -tits.
 -tits/
@@ -1534,6 +1542,12 @@ _zapat
 .blogzag.
 .bluray-
 .bluray.
+.bodhidharma-
+.bodhidharma.
+.bodhidharma/
+.bodybuilding-
+.bodybuilding.
+.bodybuilding/
 .boner-
 .boner.
 .boner/
@@ -2102,6 +2116,9 @@ _zapat
 .thxgamers-
 .thxgamers.
 .thxgamers/
+.tischkicker-
+.tischkicker.
+.tischkicker/
 .top/?
 .top/gal
 .top/thumb
@@ -2554,6 +2571,12 @@ _zapat
 /blogspot2.
 /board_
 /board/
+/bodhidharma-
+/bodhidharma.
+/bodhidharma/
+/bodybuilding-
+/bodybuilding.
+/bodybuilding/
 /boner-
 /boner.
 /boner/
@@ -3617,6 +3640,9 @@ _zapat
 /tiny.cc
 /tinyls.net
 /tinyurl.co
+/tischkicker-
+/tischkicker.
+/tischkicker/
 /title,
 /tits-
 /tits.
@@ -5135,12 +5161,16 @@ advertise-market
 advertise-your
 advertising channel
 advertising consultancy
+advertising de conteudo
+advertising de conteúdo
 advertising market
 advertising method
 advertising research
 advertising-and-market
 advertising-channel
 advertising-consultancy
+advertising-de-conteudo
+advertising-de-conteúdo
 advertising-market
 advertising-method
 advertising-research
@@ -5455,6 +5485,7 @@ amulet-coin
 amusement account
 amzon.co
 an affectionate welcome
+an-on-line
 anabolic
 anal dildo
 anal extreme
@@ -5720,6 +5751,7 @@ arsenaljers
 arsenalshirt
 artemfrolov
 arterrial
+article at this site
 article buzz
 article complet
 article content
@@ -6246,6 +6278,7 @@ baccarat-view
 baccaratsite
 baccaratview
 bacfk
+bachelor college degree
 backlink
 baclofen
 bad credit
@@ -9473,12 +9506,14 @@ clenbuterol
 clentching
 cleveland jersey
 cleveland-jersey
+click advert
 click affiliate
 click bank
 click compan
 click here
 click now
 click_
+click-advert
 click-affiliate
 click-bank
 click-compan
@@ -9487,6 +9522,7 @@ click-now
 click-sure
 click2
 click4
+clickad
 clickaffiliate
 clickbank
 clickcompan
@@ -9991,6 +10027,8 @@ concerning this paragraph
 concerning-blog
 concerning-this-paragraph
 concerpts
+concursopublico
+concursospublico
 condo-sg
 condosg
 condotel tai
@@ -11045,6 +11083,7 @@ disfuncao eretil
 disfunçăo erétil
 disfuncao-eretil
 disfunçăo-erétil
+disney se pega
 disorder quiz
 disorder-quiz
 dispensary near me
@@ -12400,6 +12439,7 @@ fashiontrend
 fashionwomen
 fast cash
 fast coupon
+fast life style
 fast loan
 fast money
 fast quick
@@ -12834,6 +12874,7 @@ find-good-essay
 find-sex
 find-the-answer
 findarticle
+findjobhelp
 findmewom
 findon247
 findsex
@@ -18081,6 +18122,7 @@ livearticle
 livebox live
 livebox-live
 livesex
+living by google
 liyrral
 llcnika.ru
 llet alone
@@ -18310,6 +18352,7 @@ loseweight
 losing maany
 losreplica
 lostbellyfat
+lot for your post
 lot its
 lot-its
 loteprednol
@@ -20315,6 +20358,7 @@ n http
 n.@
 n1-takeaway
 n1takeaway
+na disney se
 naga poker
 naga-poker
 nagapoker
@@ -21238,6 +21282,7 @@ on-line certif
 on-line degree
 on-line-certif
 on-line-degree
+on-line-test
 on-the-web
 once-in-a-lifetime
 one %
@@ -21262,6 +21307,7 @@ onestrap
 online bag
 online betting
 online boot
+online business admin
 online buy
 online cash
 online casino
@@ -23562,6 +23608,7 @@ protein-review
 proteinbene
 proteindiet
 provewhether
+provide in the blog
 provider proficient
 provider-proficient
 provigil
@@ -25061,6 +25108,7 @@ schoenendsqu
 schoenenseite
 schoeneseite
 school.a
+schoolfull
 schooling dissertation
 schooling-dissertation
 schuh gunstig
@@ -26025,7 +26073,9 @@ singapore.php
 singeltjejer
 sirop mangustin
 sirop-mangustin
+sistemas bolsa
 sistemas populare
+sistemas-bolsa
 sistemas-populare
 sistershit
 site -
@@ -26273,11 +26323,13 @@ snapbacks
 snapchat youtube
 snapchat-youtube
 snatch your
+sneaker greece
 sneaker jap
 sneaker jp
 sneaker retail
 sneaker sales online
 sneaker trade
+sneaker-greece
 sneaker-jap
 sneaker-jp
 sneaker-retail
@@ -26286,14 +26338,17 @@ sneaker-trade
 sneaker.asp
 sneaker+
 sneakerchef
+sneakergreece
 sneakerjap
 sneakerjp
 sneakerretail
+sneakers greece
 sneakers jap
 sneakers jp
 sneakers retail
 sneakers sale
 sneakers trade
+sneakers-greece
 sneakers-jap
 sneakers-jp
 sneakers-retail
@@ -26301,6 +26356,7 @@ sneakers-sale
 sneakers-trade
 sneakers.asp
 sneakers24
+sneakersgreece
 sneakersjap
 sneakersjp
 sneakersretail
@@ -27508,6 +27564,8 @@ terrific weblog
 terrific-blog
 terrific-post
 terrific-weblog
+tesouras completo
+tesouras-completo
 test post
 test-post
 test.ca
@@ -29667,6 +29725,7 @@ waas built
 waas concern
 wakka=
 walamrtone
+walking online
 wallet investor
 wallet out
 wallet-investor
@@ -29737,6 +29796,7 @@ warriorsjersey
 warszawa
 was ddoing
 wasbusiness
+watch captain
 watch full length
 watch happy
 watch hdonline
@@ -30259,6 +30319,8 @@ wifewith
 wifi jammer
 wifi-jammer
 wifijammer
+wigs for men
+wigs for women
 wigs human
 wigs-human
 wigsrus
@@ -30578,8 +30640,16 @@ would yoou
 would-extremely-suggest
 wow cuz
 wow just
+wow this article
+wow this blog
+wow this site
+wow this web
 wow-cuz
 wow-gold
+wow, this article
+wow, this blog
+wow, this site
+wow, this web
 wowo-house
 wowo-sex
 wowo-site
@@ -31057,6 +31127,8 @@ youtube-vi
 youtube: how
 youtube:how
 youtubedown
+youtuber earn
+youtubers earn
 youtubesens
 youtubesnap
 youtubetv
@@ -32472,6 +32544,7 @@ zyvox
 特価
 状態
 猫v
+现金牛
 現金網
 用品
 男同志 movie
