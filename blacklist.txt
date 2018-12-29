@@ -662,6 +662,7 @@ _zapat
 -essay-topics/
 -essay.
 -essay/
+-essential-element
 -event.
 -event/
 -executive.
@@ -2388,6 +2389,7 @@ _zapat
 /4ft.me
 /4u-
 /4u.
+/5-top-
 /05.asp
 /5.asp
 /05.cfm
@@ -2398,6 +2400,7 @@ _zapat
 /5.jsp
 /05.php
 /5.php
+/10-top-
 /10.asp
 /10.cfm
 /10.htm
@@ -4968,11 +4971,11 @@ acutual
 acyclovir
 ad crack
 ad live
-ad_flagship
+ad_flag
 ad-crack
-ad-flagship
+ad-flag
 ad-live
-ad-sages
+ad-sage
 ad-wiki
 adbeat distrib
 adbeat expert
@@ -4984,7 +4987,10 @@ adbeatdistrib
 adbeatexpert
 adbeattrial
 adcrack
+add article
 add symptom
+add-article
+add-symptom
 addarticle
 added agreeable
 adderall
@@ -5355,6 +5361,7 @@ aktuelnachricht
 aktuelnews
 aktuelpress
 akun google
+aladdin online
 alarmingly grow
 alarmingly-grow
 alat kesehatan
@@ -5560,6 +5567,8 @@ angel porn
 angel-number
 angel-porn
 angel.porn
+angeles local
+angeles-local
 angelnumber
 angelporn
 angels porn
@@ -5727,7 +5736,9 @@ areaart
 aree good
 aree-good
 aren't got
+aren't you began
 aren’t got
+aren’t you began
 arent got
 arent-got
 areplica
@@ -5801,6 +5812,7 @@ article-snatch
 article-sub
 article-tag
 article-writing
+article-you-write
 article,i
 article!
 article.asp
@@ -6611,9 +6623,11 @@ bddv
 bdsm sex
 bdsm-sex
 bdsmsex
+be a excellent
 be ablpe
 be benefited
 be book-mark
+be sure to really
 be tthe
 beamten
 beanies1
@@ -7167,6 +7181,7 @@ blog was..
 blog web
 blog wiki
 blog world
+blog you write
 blog zaslu
 blog zasłu
 blog_
@@ -7208,6 +7223,7 @@ blog-viewer
 blog-web
 blog-wiki
 blog-world
+blog-you-write
 blog.best
 blog.real
 blog.thank
@@ -8939,6 +8955,7 @@ cheap erythro
 cheap essay
 cheap ferrag
 cheap fifa
+cheap flower
 cheap footbal
 cheap fotbal
 cheap futbol
@@ -9028,6 +9045,7 @@ cheap-erythro
 cheap-essay
 cheap-ferrag
 cheap-fifa
+cheap-flower
 cheap-footbal
 cheap-fotbal
 cheap-futbol
@@ -9775,6 +9793,7 @@ codexbox
 codigo descuento
 codigo-descuento
 codigodescuento
+coffee-blogger
 cofoubder
 cohttp
 coin cheat
@@ -9877,6 +9896,7 @@ com/htm
 com/include
 com/jordans
 com/log
+com/maze
 com/mbt
 com/member
 com/mk
@@ -10029,6 +10049,8 @@ compare-price
 competent essay
 competent-essay
 competitors-google
+compilation chat
+compilation chien
 compilation de chat
 compilation de chien
 compiltaion
@@ -11292,6 +11314,7 @@ douching teen
 douching-teen
 douchingteen
 doudoune
+down a good deal
 down-jack
 downjack
 download apk
@@ -11656,6 +11679,7 @@ elite-wom
 elitejers
 elitemen
 elitemodel
+elitemoving
 elitesample
 elitewom
 eloans
@@ -12913,6 +12937,7 @@ financpak
 finanse
 finansow
 finasteride
+find 2
 find good essay
 find sex
 find well informed
@@ -14334,6 +14359,7 @@ good click
 good college essay
 good erotic
 good essay writing
+good for looking
 good free
 good goodie
 good hemp
@@ -15643,6 +15669,8 @@ home-based
 home-loan
 home-online
 home-remed
+home's vitality
+home’s vitality
 homebased
 homeforsale
 homeloan
@@ -16073,6 +16101,8 @@ impressive-page
 impressive-post
 impressive-share
 impressive-weblog
+improvements shop
+improvements-shop
 imptortant
 imtmdiae
 in delicious
@@ -16384,6 +16414,7 @@ instanttraff
 instantweb
 instantweek
 instappraisal
+instead-of-watch
 instruct car
 instruct-car
 instructcar
@@ -17020,9 +17051,11 @@ jeweline.
 jewellery.bl
 jewelry collect
 jewelry expens
+jewelry sale
 jewelry watch
 jewelry-collect
 jewelry-expens
+jewelry-sale
 jewelry-watch
 jewelry/watch
 jewelry<
@@ -20189,6 +20222,7 @@ moustache-play
 moustacheplay
 movement-part
 movementpart
+movie is not going
 movie on-line
 movie online
 movie release america
@@ -20975,8 +21009,10 @@ norvasc
 nos molesto
 nos molestó
 nospammail
+nossos comprador
 nossos orgaos
 nossos órgãos
+nossos-comprador
 nossos-orgaos
 nossos-órgãos
 not fake
@@ -22536,6 +22572,7 @@ phimsex
 phish casino
 phish-casino
 phishcasino
+phoenix online
 phon-store
 phone advert
 phone free
@@ -22572,6 +22609,7 @@ photo/online
 photo/prada
 photo/rolex
 photoeditingdeal
+photograph-voltaic
 photos/bv
 photos/celine
 photos/chanel
@@ -22617,6 +22655,12 @@ pignee
 pigus kvepalai
 pigus-kvepalai
 pijece
+pikachu full
+pikachu online
+pikachu-full
+pikachu-online
+pikachufull
+pikachuonline
 pill cheap
 pill review
 pill-cheap
@@ -23132,6 +23176,7 @@ post right here
 post truly
 post upper
 post writing
+post you write
 post_
 post-como-este
 post-extreme
@@ -23140,6 +23185,7 @@ post-post
 post-right-here
 post-serv
 post-writing
+post-you-write
 post:
 post!
 post.best
@@ -23847,6 +23893,8 @@ py.t.hon
 py.th.o.n
 py.th.on
 py.tho.n
+pyatnitskaya hotel
+pyatnitskaya-hotel
 pyt.h.o.n
 pyt.h.on
 pyt.ho.n
@@ -24359,6 +24407,7 @@ remont-vorot
 remontbosch
 remote viewing train
 remote-viewing-train
+remove me from that
 rencontre amicale
 rencontre coquine
 rencontre gougar
@@ -24521,6 +24570,7 @@ reports.jsp
 reports.php
 requests swiftly
 requests-swiftly
+required to awesome
 reqwuire
 rescator
 reseaux sociaux
@@ -25461,8 +25511,11 @@ sepidshimi
 ser aprovado no
 serch engin
 serch-engin
+serenity full
 serenity online
+serenity-full
 serenity-online
+serenityfull
 serial numberul
 serial-numberul
 series erotic
@@ -27420,6 +27473,7 @@ taille cost
 taille-cost
 taillecost
 taionline
+take an expense
 take curcumin
 take snapshot
 take-curcumin
@@ -27711,6 +27765,7 @@ thanh-nhạc
 thanh-tn
 thank you for posting
 thank you for sharing
+thanks ,
 thanks admin
 thanks alot :
 thanks designed
@@ -27756,7 +27811,6 @@ thc-review
 thcblog
 thcforum
 thcreview
-the article you write
 the articles is
 the blog,
 the blog;
@@ -27772,17 +27826,20 @@ the internet users
 the notify
 the other blog
 the pokie
-the post you write
+the right blog
 the right web
 the same blog
+the same web
 the seo
 the simple blog
+the simple page
+the simple post
+the simple site
 the simple web
 the take picture
 the text is priceless
 the web users
 the_best
-the-article-you-write
 the-benefits-of
 the-best-treatment
 the-bitcoin
@@ -27791,6 +27848,7 @@ the-consulting-firm
 the-contents-present
 the-feed-back
 the-flashboard
+the-greatest-blog
 the-greatest-web
 the-helpful-job
 the-hoverboard
@@ -27799,7 +27857,7 @@ the-latest-
 the-marketing-mix
 the-notify
 the-pokie
-the-post-you-write
+the-right-blog
 the-right-web
 the-seo
 the-sexting
@@ -28975,6 +29033,8 @@ ultrahoverboard
 ultram
 umschuldung
 umuporn
+uncover somebody
+uncover-somebody
 undeniably believe
 undeniably-believe
 under pant
@@ -29136,6 +29196,7 @@ usa youtube
 usa-best
 usa-youtube
 usabest
+use of movie?
 usefuyl
 user genial
 user_
@@ -29731,8 +29792,10 @@ voyancecouple
 voyancegratuit
 voynich code
 voynich-code
+vpn 外网
 vpn-4-free
 vpn4free
+vpn外网
 vtx-fair
 vtxfair
 vuitton austr
@@ -32415,6 +32478,7 @@ zyvox
 เดรสราคาถูก
 ต่างหู
 นพนัน
+ปลาฟรี
 ป้าย ราคาถูก
 ป้าย-ราคาถูก
 ป้ายราคาถูก
@@ -32575,6 +32639,7 @@ zyvox
 プロモ
 ベルトメンズ
 ポーター
+ボーンチ
 ホグロフス
 ボッテガ
 ホット
@@ -32604,6 +32669,7 @@ zyvox
 仕入れ
 他の製品
 价格
+体育投注
 保存
 保証
 倒
@@ -32654,6 +32720,8 @@ zyvox
 成功的医生
 手机
 把药
+投注平台
+投注网站
 摔死女
 攜心山
 晶燈
