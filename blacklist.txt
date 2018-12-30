@@ -856,6 +856,9 @@ _zapat
 -lesbian-
 -lesbian.
 -lesbian/
+-lesbos-
+-lesbos.
+-lesbos/
 -limited-edition/
 -lineshake-
 -lineshake.
@@ -1781,6 +1784,9 @@ _zapat
 .lesbian-
 .lesbian.
 .lesbian/
+.lesbos-
+.lesbos.
+.lesbos/
 .lineshake-
 .lineshake.
 .lineshake/
@@ -3118,6 +3124,9 @@ _zapat
 /lesbian-
 /lesbian.
 /lesbian/
+/lesbos-
+/lesbos.
+/lesbos/
 /lib/
 /libraries/
 /library/
@@ -4859,6 +4868,7 @@ ablewebpro
 ablpe to
 about blog
 about marijuana
+about on the web
 about your blog
 about your web
 about_
@@ -5117,6 +5127,7 @@ adult dvd
 adult erotic
 adult friendr
 adult girl
+adult gyrl
 adult hub
 adult sex
 adult story
@@ -5131,6 +5142,7 @@ adult-dvd
 adult-erotic
 adult-friendr
 adult-girl
+adult-gyrl
 adult-hub
 adult-net
 adult-sex
@@ -5148,6 +5160,7 @@ adultfriene
 adultfrienf
 adultfrinen
 adultgirl
+adultgyrl
 adulthub
 adults friend
 adults-friend
@@ -5709,10 +5722,13 @@ aquarius-compat
 aqui no blog
 arab sex
 arab-girl
+arab-gyrl
 arab-sex
 arab.girl
+arab.gyrl
 arab.sex
 arabgirl
+arabgyrl
 arabsex
 archive_
 arcteryx jap
@@ -5775,6 +5791,8 @@ arsenaljers
 arsenalshirt
 artemfrolov
 arterrial
+artesanal marca
+artesanal-marca
 article at this site
 article buzz
 article complet
@@ -5904,10 +5922,10 @@ as very good of
 asd@
 asdasd
 asdf
-asian lesbian
+asian lesb
 asian porn
 asian sex
-asian-lesbian
+asian-lesb
 asian-pic
 asian-porn
 asian-sex
@@ -5915,7 +5933,7 @@ asian-teen
 asian.hot
 asian.sex
 asian.teen
-asianlesbian
+asianlesb
 asianpic
 asianporn
 asiansex
@@ -6815,6 +6833,7 @@ best-prostate
 best-sandal
 best-seller-bag
 best-sellers-bag
+best-sex
 best-shoe-price
 best-shop
 best-software-for
@@ -6857,6 +6876,7 @@ bestpricesbuy
 bestsalesell
 bestsellerbag
 bestsellersbag
+bestsex
 bestshop
 bestsuppl
 besttummy
@@ -7086,13 +7106,13 @@ biztalk
 biztout
 biżuteria
 black gay
-black lesbian
+black lesb
 black tight
 black tits
 black ugg
 black-friday
 black-gay
-black-lesbian
+black-lesb
 black-tight
 black-tits
 black-ugg
@@ -7104,7 +7124,7 @@ blackjack_
 blackjack-pit
 blackjackpit
 blacklabelj
-blacklesbian
+blacklesb
 blacktight
 blacktits
 blackugg
@@ -7172,6 +7192,7 @@ blog site
 blog soon
 blog struct
 blog sys
+blog through google
 blog thus
 blog various
 blog vid
@@ -8241,6 +8262,7 @@ call futurity
 call-futurity
 callerid
 callgirl
+callgyrl
 calorias leva
 calorias-leva
 calvicie blog
@@ -8262,6 +8284,7 @@ cambogia
 camfav.
 camfave
 camgirl
+camgyrl
 camicie abercrom
 camicie negozi
 camicie-abercrom
@@ -11001,6 +11024,7 @@ dieselonline
 dieseluk
 dieselwatch
 diet blog
+diet chart
 diet detox
 diet pill
 diet plan
@@ -11782,6 +11806,7 @@ enhttp
 enjoy-more
 enjoymore
 enleverlescernes
+enlightening looking
 enlightening post
 enlightening web
 enlightening-post
@@ -12017,7 +12042,7 @@ essaysserv
 essayswrite
 essaytyper
 essaywrite
-essentials-for-girls
+essentials-for-girl
 established blog
 established poker
 established-blog
@@ -12052,14 +12077,17 @@ euro-million
 euro-vid
 euroditalog
 euromillion
-europe girls
+europe girl
+europe gyrl
 europe nfl
-europe-girls
+europe-girl
+europe-gyrl
 europe-nfl
 european nfl
 european-nfl
 europeannfl
-europegirls
+europegirl
+europegyrl
 europenfl
 eurovid
 evackuator
@@ -12822,7 +12850,11 @@ fgxpress
 fhttp
 fiasoni
 fibromyalgia
-fifa 18
+fifa 15 ultimate
+fifa 16 ultimate
+fifa 17 ultimate
+fifa 18 ultimate
+fifa 19 ultimate
 fifa coin
 fifa hack
 fifa ultimate
@@ -12831,6 +12863,7 @@ fifa-15
 fifa-16
 fifa-17
 fifa-18
+fifa-19
 fifa-coin
 fifa-hack
 fifa-ultimate
@@ -12839,6 +12872,7 @@ fifa15
 fifa16
 fifa17
 fifa18
+fifa19
 fifa55
 fifacoin
 fifahack
@@ -15756,12 +15790,16 @@ hoststo.ru
 hoststo.su
 hot concern
 hot gratuit
+hot men for
 hot sex
 hot tech
+hot women for
 hot-babe
 hot-girl
 hot-gratuit
+hot-gyrl
 hot-love
+hot-men-for
 hot-pantie
 hot-panty
 hot-sale
@@ -15769,6 +15807,7 @@ hot-sex
 hot-tag
 hot-tags
 hot-tech
+hot-women-for
 hot.asp
 hot.cfm
 hot.hot
@@ -15796,6 +15835,7 @@ hotels egypt
 hotels-egypt
 hotels.egypt
 hotgirl
+hotgyrl
 hotlove
 hotpantie
 hotpanty
@@ -16101,8 +16141,10 @@ impressive-page
 impressive-post
 impressive-share
 impressive-weblog
+improve reminiscence
 improvements shop
 improvements-shop
+improves reminiscence
 imptortant
 imtmdiae
 in delicious
@@ -18022,8 +18064,6 @@ lesbianmilf
 lesbianporn
 lesbianschool
 lesbianteen
-lesbos-
-lesbos.
 lespaulsmith
 less dress
 less peplum
@@ -19332,8 +19372,9 @@ me-passionne
 meandyou
 meaning india
 meaning-india
-meanings chart india
+meanings chart
 meanings india
+meanings-chart
 meanings-india
 meaty side up
 meaty sides up
@@ -19474,6 +19515,7 @@ men bikini
 men boost
 men cheap
 men dating
+men for sex
 men gaga
 men hand
 men makeup
@@ -19488,6 +19530,7 @@ men-boost
 men-cheap
 men-date
 men-dating
+men-for-sex
 men-gaga
 men-hand
 men-makeup
@@ -21061,6 +21104,7 @@ nqed
 ñß
 nude erotic
 nude girl
+nude gyrl
 nude hot
 nude share
 nude sharing
@@ -21071,6 +21115,7 @@ nude_
 nude-ass
 nude-erotic
 nude-girl
+nude-gyrl
 nude-hot
 nude-share
 nude-sharing
@@ -21085,6 +21130,7 @@ nude.php
 nudeass
 nudeerotic
 nudegirl
+nudegyrl
 nudehot
 nudes_
 nudeshare
@@ -21713,6 +21759,7 @@ oulet-online
 ouletonline
 our blogroll
 our link
+our time within your
 our-blogroll
 our-link
 ourlink
@@ -21953,6 +22000,7 @@ packersjers
 page ::
 page regularly
 page scrape
+page through google
 page_
 page-regularly
 page-scrape
@@ -22048,6 +22096,7 @@ panthersstore
 pantie boy
 pantie child
 pantie girl
+pantie gyrl
 pantie kid
 pantie mania
 pantie pic
@@ -22056,6 +22105,7 @@ pantie sex
 pantie-boy
 pantie-child
 pantie-girl
+pantie-gyrl
 pantie-kid
 pantie-mania
 pantie-pic
@@ -22064,6 +22114,7 @@ pantie-sex
 pantieboy
 pantiechild
 pantiegirl
+pantiegyrl
 pantiekid
 pantiemania
 pantiepic
@@ -22071,6 +22122,7 @@ pantieplay
 panties boy
 panties child
 panties girl
+panties gyrl
 panties kid
 panties mania
 panties pic
@@ -22079,6 +22131,7 @@ panties sex
 panties-boy
 panties-child
 panties-girl
+panties-gyrl
 panties-kid
 panties-mania
 panties-pic
@@ -22088,6 +22141,7 @@ pantiesboy
 pantieschild
 pantiesex
 pantiesgirl
+pantiesgyrl
 pantieskid
 pantiesmania
 pantiespic
@@ -22096,6 +22150,7 @@ pantiessex
 panty boy
 panty child
 panty girl
+panty gyrl
 panty kid
 panty mania
 panty pic
@@ -22104,6 +22159,7 @@ panty sex
 panty-boy
 panty-child
 panty-girl
+panty-gyrl
 panty-kid
 panty-mania
 panty-pic
@@ -22112,6 +22168,7 @@ panty-sex
 pantyboy
 pantychild
 pantygirl
+pantygyrl
 pantykid
 pantymania
 pantypic
@@ -22119,6 +22176,7 @@ pantyplay
 pantys boy
 pantys child
 pantys girl
+pantys gyrl
 pantys kid
 pantys mania
 pantys pic
@@ -22127,6 +22185,7 @@ pantys sex
 pantys-boy
 pantys-child
 pantys-girl
+pantys-gyrl
 pantys-kid
 pantys-mania
 pantys-pic
@@ -22136,6 +22195,7 @@ pantysboy
 pantyschild
 pantysex
 pantysgirl
+pantysgyrl
 pantyskid
 pantysmania
 pantyspic
@@ -23013,6 +23073,7 @@ porn gay
 porn girl
 porn google
 porn gratuit
+porn gyrl
 porn hot
 porn hub
 porn lesb
@@ -23057,6 +23118,7 @@ porn-galler
 porn-gay
 porn-girl
 porn-google
+porn-gyrl
 porn-hot
 porn-hub
 porn-lesb
@@ -23098,6 +23160,7 @@ porngaller
 porngay
 porngirl
 porngratuit
+porngyrl
 pornhot
 pornhub
 pornlesb
@@ -23109,6 +23172,7 @@ pornmovie
 porno comic
 porno girl
 porno gratuit
+porno gyrl
 porno lady
 porno live
 porno pic
@@ -23121,6 +23185,7 @@ porno vid
 porno_
 porno-
 porno-girl
+porno-gyrl
 porno-pop
 porno-pour
 porno.
@@ -23128,6 +23193,7 @@ porno@
 pornocomic
 pornogirl
 pornogratuit
+pornogyrl
 pornolady
 pornolive
 pornopic
@@ -23282,6 +23348,7 @@ prada dany
 prada design
 prada dress
 prada girl
+prada gyrl
 prada hand
 prada new
 prada occhiali
@@ -23301,6 +23368,7 @@ prada-dany
 prada-design
 prada-dress
 prada-girl
+prada-gyrl
 prada-hand
 prada-new
 prada-occhiali
@@ -23319,6 +23387,7 @@ pradadany
 pradadesign
 pradadress
 pradagirl
+pradagyrl
 pradahand
 pradanew
 pradaocchiali
@@ -24645,9 +24714,11 @@ review.php
 reviewbest
 reviewon
 reviews best
+reviews youtube
 reviews-best
 reviews-on
 reviews-today
+reviews-youtube
 reviews.asp
 reviews.bl
 reviews.cfm
@@ -25621,8 +25692,11 @@ sex dat
 sex game
 sex gay
 sex gratis
+sex gyrl
 sex hook
 sex hub
+sex in your city
+sex in your town
 sex kontakt
 sex mama
 sex movie
@@ -25656,8 +25730,11 @@ sex-dat
 sex-game
 sex-gay
 sex-gratis
+sex-gyrl
 sex-hook
 sex-hub
+sex-in-your-city
+sex-in-your-town
 sex-kontakt
 sex-mama
 sex-movie
@@ -25696,6 +25773,7 @@ sexelist
 sexero
 sexgame
 sexgratis
+sexgyrl
 sexhook
 sexhub
 sexkontakt
@@ -25744,6 +25822,7 @@ sexweb
 sexxx
 sexy fantas
 sexy girl
+sexy gyrl
 sexy lad
 sexy meid
 sexy moment
@@ -25759,6 +25838,7 @@ sexy_
 sexy-app
 sexy-fantas
 sexy-girl
+sexy-gyrl
 sexy-lad
 sexy-meid
 sexy-moment
@@ -25780,6 +25860,7 @@ sexy.php
 sexyapp
 sexyfantas
 sexygirl
+sexygyrl
 sexylad
 sexymoment
 sexysex
@@ -26252,6 +26333,7 @@ site que fale
 site taste
 site technique
 site theme
+site through google
 site traff
 site uffic
 site visitor
@@ -27625,7 +27707,7 @@ technological globe
 technological-globe
 teen cam
 teen female
-teen lesbian
+teen lesb
 teen porn
 teen sex
 teen virgin
@@ -27633,7 +27715,7 @@ teen webcam
 teen-cam
 teen-female
 teen-her
-teen-lesbian
+teen-lesb
 teen-porn
 teen-sex
 teen-virgin
@@ -27646,7 +27728,7 @@ teenaged-female
 teencam
 teenher
 teeniepant
-teenlesbian
+teenlesb
 teenporn
 teens cam
 teens porn
@@ -29205,6 +29287,7 @@ user/profil
 user/view
 userinfo
 username!
+users that they
 users_
 usforex
 usinformed
@@ -29472,6 +29555,7 @@ veterinarnaya
 vetrinary
 vhs-to-digital
 vhttp
+vi-pgyrl
 via your blog
 via your page
 via your post
@@ -29627,9 +29711,6 @@ viewblog
 viewentry
 viewlink
 viewpag
-views on this blog
-views on this site
-views on this web
 viewtopic
 vigara
 vigrx
@@ -29660,15 +29741,19 @@ vintovoy-nas
 vintovyye nas
 vintovyye-nas
 vip generat
+vip girl
+vip gyrl
 vip девочк
 vip-box
 vip-generat
+vip-girl
 vip-league
 vip-девочк
 vip.co
 vipbox
 vipgenerat
 vipgirl
+vipgyrl
 vipleague
 viral adremus
 viral eas
@@ -30065,6 +30150,7 @@ web sites post
 web sitte
 web sute
 web therefore
+web through google
 web users;
 web viewer
 web visitor
@@ -31576,6 +31662,8 @@ zune then
 zune-browse
 zune-pass
 zune-then
+zvetsit prsa
+zvetsit-prsa
 zvid
 zwrot podatku
 zwrot-podatku
