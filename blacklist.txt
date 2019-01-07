@@ -30,8 +30,7 @@ _boner
 _bord
 _brace
 _build
-_bulgari
-_bulgary
+_bulgar
 _buyout
 _bvlgar
 _calvin
@@ -494,6 +493,9 @@ _zapat
 -broker/
 -buy.
 -buy/
+-buying-a-house-
+-buying-a-house.
+-buying-a-house/
 -cable-speaker-
 -cable-speaker.
 -cable-speaker/
@@ -1571,6 +1573,9 @@ _zapat
 .bots4
 .bots5
 .bravesites.
+.buying-a-house-
+.buying-a-house.
+.buying-a-house/
 .canadagoose-
 .cartier-
 .cause-
@@ -2633,6 +2638,9 @@ _zapat
 /bustier.
 /buy-
 /buy.
+/buying-a-house-
+/buying-a-house.
+/buying-a-house/
 /buyma.
 /bvlgari-
 /bvlgari.
@@ -4256,8 +4264,10 @@ $sixty
 3@seo
 3casino
 3cigar
+3d coins
 3d max
 3d моделе
+3d-coins
 3d-max
 3d-моделе
 3dmax
@@ -5562,8 +5572,10 @@ andjourn
 andmerciful
 android crack
 android hack
+android ios
 android-crack
 android-hack
+android-ios
 android-m4a
 android-mp3
 androidclan
@@ -7048,6 +7060,7 @@ birkin-bag
 birkin-cheap
 birkinbag
 birkincheap
+birrhday
 bisapp
 bishop-knot
 bishopknot
@@ -7670,6 +7683,8 @@ bow-ugg
 bowling footwear
 bowling-footwear
 bowugg
+boxing hack
+boxing-hack
 boxshopping.ru
 boy pantie
 boy panty
@@ -7819,7 +7834,7 @@ bukmacher
 bulgari bague
 bulgari bijoux
 bulgari brand
-bulgari bulgari
+bulgari bulgar
 bulgari bzero
 bulgari out
 bulgari replica
@@ -7830,7 +7845,7 @@ bulgari_
 bulgari-bague
 bulgari-bijoux
 bulgari-brand
-bulgari-bulgari
+bulgari-bulgar
 bulgari-bzero
 bulgari-out
 bulgari-replica
@@ -7840,7 +7855,7 @@ bulgari-store
 bulgaribague
 bulgaribijoux
 bulgaribrand
-bulgaribulgari
+bulgaribulgar
 bulgaribzero
 bulgarie bijoux
 bulgarie-bijoux
@@ -7853,7 +7868,7 @@ bulgaristore
 bulgary bague
 bulgary bijoux
 bulgary brand
-bulgary bulgary
+bulgary bulgar
 bulgary bzero
 bulgary out
 bulgary replica
@@ -7864,7 +7879,7 @@ bulgary_
 bulgary-bague
 bulgary-bijoux
 bulgary-brand
-bulgary-bulgary
+bulgary-bulgar
 bulgary-bzero
 bulgary-out
 bulgary-replica
@@ -7874,7 +7889,7 @@ bulgary-store
 bulgarybague
 bulgarybijoux
 bulgarybrand
-bulgarybulgary
+bulgarybulgar
 bulgarybzero
 bulgarye bijoux
 bulgarye-bijoux
@@ -11653,6 +11668,11 @@ edge rumour
 edge-rumor
 edge-rumour
 edhardyt
+educafit cursos
+educafit e bom
+educafit é bom
+educafit-cursos
+educafit-e-bom
 educational article
 educational paragraph
 educational-article
@@ -11847,6 +11867,8 @@ enormous-post
 enormous-weblog
 enourmous
 enprivate
+enterprise highly
+enterprise-highly
 entreprenuer
 entry_
 entrykey
@@ -13413,6 +13435,7 @@ free csgo
 free diamond
 free download
 free fire free
+free fire hack
 free gay
 free hack
 free internation
@@ -13456,6 +13479,7 @@ free-csgo
 free-diamond
 free-download
 free-fire-free
+free-fire-hack
 free-fortnite
 free-gay
 free-gold
@@ -13500,6 +13524,7 @@ free.in
 freearticle
 freeauto
 freebbs
+freebees
 freebid
 freebrows
 freecasino
@@ -13782,6 +13807,8 @@ fxprofit
 fаntastic
 fе
 g http
+g spot vibrator
+g-spot-vibrator
 g-star jean
 g-star-jean
 g-starjean
@@ -14335,6 +14362,7 @@ goedjassen
 goedkoop
 gogle for
 gogle-for
+going blog
 going please
 going-please
 goingplease
@@ -14958,16 +14986,19 @@ hack 2017
 hack 2018
 hack android
 hack blog
+hack boxing
 hack cheat
 hack cydia
 hack diamond
 hack face
 hack fb
+hack free fire
 hack generat
 hack get
 hack glitch
 hack instant
 hack ios
+hack mod
 hack online
 hack robux
 hack ros
@@ -14981,6 +15012,7 @@ hack-2017
 hack-2018
 hack-android
 hack-blog
+hack-boxing
 hack-cheat
 hack-coin
 hack-cydia
@@ -14989,12 +15021,14 @@ hack-face
 hack-fb
 hack-fortnite
 hack-free
+hack-free-fire
 hack-gem
 hack-generat
 hack-get
 hack-glitch
 hack-instant
 hack-ios
+hack-mod
 hack-my-game
 hack-online
 hack-pass
@@ -16739,6 +16773,9 @@ irresistible web
 irresistible-blog
 irresistible-web
 is goping
+is my blog
+is my page
+is my web
 is seo
 is thhe
 is-now-available
@@ -18902,7 +18939,9 @@ mains lancel
 mains-lancel
 mains.asp
 mainslancel
+maintain advert
 maintain prevent
+maintain-advert
 maintain-prevent
 maintainprevent
 maior hormonio
@@ -19095,6 +19134,7 @@ marketing samu
 marketing serv
 marketing software
 marketing tip
+marketing video clip
 marketing xchange
 marketing-advert
 marketing-and-advert
@@ -19111,6 +19151,7 @@ marketing-samu
 marketing-serv
 marketing-software
 marketing-tip
+marketing-video-clip
 marketing-xchange
 marketing.in
 marketingblog
@@ -19631,6 +19672,11 @@ mentimber
 menu/menu
 mequinol
 meratol
+mercado e ativo
+mercado é ativo
+mercado fitness
+mercado-e-ativo
+mercado-fitness
 mercantilism
 mercati di
 mercati-di
@@ -22670,6 +22716,7 @@ phishcasino
 phoenix online
 phon-store
 phone advert
+phone cell phone
 phone free
 phone gratuit
 phone poker
@@ -26820,9 +26867,11 @@ spadediaper
 spadeout
 spain jers
 spain-jers
+spam issue
 spam link
 spam remark
 spam respon
+spam-issue
 spam-link
 spam-phone
 spam-remark
@@ -28090,6 +28139,10 @@ this blog;
 this blog's
 this blog’s
 this excellent read
+this grand blog
+this grand post
+this grand site
+this grand web
 this gucci
 this landline
 this page is one
@@ -28107,6 +28160,7 @@ this site defin
 this site is one
 this site is something
 this site is very
+this site;
 this text is invaluable
 this text is priceless
 this web blog
@@ -28170,6 +28224,7 @@ thomasfat
 thomassabosale
 thomassabouk
 thomassabous
+thoroughgoing
 thos article
 thoughtful shop
 thoughtful-shop
@@ -28362,15 +28417,19 @@ tip#1
 tipblog
 tips for success
 tips on interest
+tips survivor
 tips unlimited
 tips-for-
 tips-for-success
 tips-meny
+tips-survivor
 tips-to-start
 tips-unlimited
 tips.info
 tipsblog
 tipsof
+tire crushing
+tire-crushing
 tire-disc
 tire-whole
 tiredisc
@@ -28486,6 +28545,7 @@ tongue-retain
 tongueretain
 too thun
 too-thun
+toolkit obtain
 top advanture
 top article
 top available
@@ -28712,6 +28772,10 @@ trik-selalu
 trimethoprim
 triviatrivia
 trollapp
+trong-top-5
+trong-top-10
+trong-top-five
+trong-top-ten
 true search
 truly a fastidious
 truly awesome paragraph
@@ -29617,6 +29681,7 @@ viagera
 viagra
 vibrator_
 vibrators_
+vibrators0
 vibro love
 vibro-love
 vibro.love
@@ -30205,6 +30270,8 @@ web sitte
 web sute
 web therefore
 web through google
+web user acquire
+web users acquire
 web users;
 web viewer
 web visitor
@@ -30235,6 +30302,8 @@ web-sitte
 web-solution
 web-therefore
 web-traff
+web-user-acquire
+web-users-acquire
 web-viewer
 web-visitor
 web-web
@@ -30829,6 +30898,7 @@ wonderful! thanks!
 wonderfulread
 wondering which blog
 wondering which weblog
+wondering your situation
 woodgundy.us
 woolrich amster
 woolrich arctic
@@ -31169,7 +31239,11 @@ xhttp
 xl paket
 xl-paket
 xlpaket
+xmail review
+xmail-review
 xmail.pw
+xmails review
+xmails-review
 xn--
 xnxx video
 xnxx-video
@@ -31318,6 +31392,7 @@ you sees
 you ssay
 you ugg
 you viral
+you want finest
 you write-up
 you writeup
 you-article
@@ -31326,6 +31401,7 @@ you-sees
 you-ssay
 you-ugg
 you-viral
+you-want-finest
 you-write-up
 you-writeup
 you,i
