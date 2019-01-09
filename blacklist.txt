@@ -2018,14 +2018,12 @@ _zapat
 .ru/karta
 .ru/katalog
 .ru/load
-.ru/lol-
-.ru/lol.
-.ru/lol/
+.ru/lol
 .ru/member
-.ru/page-
+.ru/page
 .ru/pict
 .ru/profil
-.ru/progs.
+.ru/prog
 .ru/pub
 .ru/ru/
 .ru/serial
@@ -4981,11 +4979,13 @@ actualeffort
 actually certainly
 actually dont
 actually dowsing
+actually excellent
 actually fruitful
 actually thank
 actually-certainly
 actually-dont
 actually-dowsing
+actually-excellent
 actually-thank
 actuallydont
 actuallythank
@@ -5034,7 +5034,7 @@ addition best
 addition currently
 addition reason
 addition-best
-addition-currently
+addition-curren
 addition-reason
 additional knowledgeable
 additional-knowledgeable
@@ -5455,6 +5455,8 @@ also am a blog
 also eable
 also-am-a-blog
 also-eable
+alt-coin
+altcoin
 alviero martini
 alviero-martini
 alvieromartini
@@ -5513,6 +5515,7 @@ amorti dynamique
 amorti-dynamique
 amount comfort
 amount food
+amount of pastime
 amount-comfort
 amount-food
 amountfood
@@ -5532,6 +5535,7 @@ amulet-coin
 amusement account
 amzon.co
 an affectionate welcome
+an fascinating view
 an-on-line
 anabolic
 anal dildo
@@ -6040,6 +6044,7 @@ atempting
 athletica lululemon
 athletica-lululemon
 ationincome
+ationmovie
 ativan
 atomoxetine
 atonemen's tip
@@ -7077,7 +7082,10 @@ bitcoin code
 bitcoin declin
 bitcoin depos
 bitcoin donat
+bitcoin dump
+bitcoin mine
 bitcoin mining
+bitcoin rush
 bitcoin talk
 bitcoin wallet
 bitcoin_
@@ -7090,7 +7098,10 @@ bitcoin-code
 bitcoin-declin
 bitcoin-depos
 bitcoin-donat
+bitcoin-dump
+bitcoin-mine
 bitcoin-mining
+bitcoin-rush
 bitcoin-talk
 bitcoin-wallet
 bitcoinacc
@@ -7101,6 +7112,8 @@ bitcoincode
 bitcoindeclin
 bitcoindepos
 bitcoindonat
+bitcoindump
+bitcoinrush
 bitcoins
 bitcointalk
 bitcoinwallet
@@ -7770,6 +7783,7 @@ breasts-porn
 breastsporn
 breed assimilat
 breed-assimilat
+bridges-must
 brilliant blog
 brilliant content
 brilliant-blog
@@ -8228,8 +8242,6 @@ byt.es
 byte coin
 byte-coin
 bytecoin
-bytecoin mining
-bytecoin-mining
 bе
 bі
 bу
@@ -8748,6 +8760,9 @@ celtics-colour
 celticscolor
 celticscolour
 celular
+cemat : cemat
+cemat:cemat
+cemat/cemat
 cent whenever
 cent-whenever
 cent|
@@ -10124,6 +10139,7 @@ computerpressrelease
 computers.in
 comreview
 comunity
+concentrate exist
 concerning blog
 concerning this paragraph
 concerning-blog
@@ -10493,15 +10509,14 @@ crush-hack
 crushcandy
 crushhack
 cryp.trade
-crypto curreny
+crypto curren
 crypto moneda
-crypto-curreny
+crypto-curren
 crypto-moneda
 cryptocurrency coin
 cryptocurrency strat
 cryptocurrency-coin
 cryptocurrency-strat
-cryptocurreny
 cryptomoneda
 crystal hack
 crystal-hack
@@ -10557,10 +10572,12 @@ cureherpes
 cures.co.
 currency byte
 currency invest
+currency portfolio
 currency trad
 currency-buy
 currency-byte
 currency-invest
+currency-portfolio
 currency-trad
 currencybuy
 currencybyte
@@ -11116,6 +11133,9 @@ dilioptim
 dilufcif
 dimensible
 dincob
+dinero presta
+dinero-presta
+dineropresta
 dinkypage.com
 dinner soup
 dinner-soup
@@ -11188,6 +11208,7 @@ discreet apartment
 discreet-apartment
 discussion made
 discussion-made
+diseases governments
 disfuncao eretil
 disfunçăo erétil
 disfuncao-eretil
@@ -11668,6 +11689,7 @@ edge rumour
 edge-rumor
 edge-rumour
 edhardyt
+edpert
 educafit cursos
 educafit e bom
 educafit é bom
@@ -12071,6 +12093,7 @@ essays-duration
 essays-empire
 essays-help
 essays-intro
+essays-review
 essays-serv
 essays-write
 essays4u
@@ -12185,6 +12208,7 @@ excellent blog
 excellent gifts for
 excellent page
 excellent post
+excellent proper
 excellent site
 excellent submit
 excellent task
@@ -12604,11 +12628,11 @@ fastidious page
 fastidious piece
 fastidious post
 fastidious repl
-fastidious respond
+fastidious respo
 fastidious site
 fastidious think
 fastidious thou
-fastidious understand
+fastidious under
 fastidious urg
 fastidious web
 fastidious writ
@@ -12623,11 +12647,12 @@ fastidious-in
 fastidious-my
 fastidious-post
 fastidious-repl
-fastidious-respond
+fastidious-reply
+fastidious-respo
 fastidious-site
 fastidious-think
 fastidious-thou
-fastidious-understand
+fastidious-under
 fastidious-urg
 fastidious-web
 fastidious-writ
@@ -13445,6 +13470,7 @@ free media pro
 free mobile
 free money
 free number
+free on-line
 free online
 free pokecoin
 free poker
@@ -14453,6 +14479,7 @@ good hemp
 good homepage
 good page
 good post
+good replies in
 good respond
 good site:
 good template
@@ -15655,6 +15682,7 @@ hogaout
 hold of it!
 holdinga
 holdning
+holiday lets
 holistic health
 holistic-health
 hollister berlin
@@ -16615,6 +16643,7 @@ internetu-kvepalai
 internetview
 internetweb
 internetwriters
+interrest
 intersting
 intifmaroon
 into my blog
@@ -16769,17 +16798,24 @@ ira-kit
 irakit
 irc-chat
 irresistible blog
+irresistible page
+irresistible site
 irresistible web
 irresistible-blog
+irresistible-page
+irresistible-site
 irresistible-web
+is as nicely
 is goping
 is my blog
 is my page
 is my web
 is seo
 is thhe
+is-goping
 is-now-available
 is-seo
+is-updated-daily
 is.and
 isabel marant
 isabel-marant
@@ -18137,6 +18173,7 @@ less-dress
 less-peplum
 less, appnana
 lessdress
+lessen your movie
 lesson1
 lesspeplum
 letrozole
@@ -18538,6 +18575,7 @@ looked on-line
 looked-on-line
 lookin for
 lookin-for
+looking at is great
 lookingfor
 lookk
 loosely user
@@ -19113,6 +19151,7 @@ market pricing
 market research
 market samurai
 market xchange
+market your video
 market-exchange
 market-online
 market-prices
@@ -19246,7 +19285,7 @@ mastery might
 mastery plan
 mastery series
 mastery since
-mastery understand
+mastery under
 mastery-class
 mastery-degree
 mastery-discover
@@ -19254,13 +19293,14 @@ mastery-might
 mastery-plan
 mastery-series
 mastery-since
-mastery-understand
+mastery-under
 matchcash
 materia-lingua
 materia/lingua
 material stylish
 material-stylish
 matiion
+matters on the web
 matthewsjers
 matural
 max griffey
@@ -19597,6 +19637,7 @@ men mizuno
 men nike
 men seeking men
 men timber
+men want online
 men-barbour
 men-bikini
 men-boost
@@ -19956,6 +19997,8 @@ moczanowa
 mod after that
 mod-after-that
 modafinil
+model new
+model-new
 models-of-france
 models.in
 modelsoffrance
@@ -20447,6 +20490,7 @@ muscularwom
 music viral
 music-viral
 musicviral
+must-koi
 mustlook
 mutuelle sante
 mutuelle-sante
@@ -20481,7 +20525,7 @@ my blog:
 my bookmarks
 my bpog
 my btc
-my cryptocurrency
+my cryptocurren
 my excerpt
 my hermes
 my homepage
@@ -20491,6 +20535,7 @@ my myspace
 my online
 my own blog
 my own web
+my page firmen
 my page;
 my pzge
 my site looks
@@ -20519,7 +20564,7 @@ my-betor
 my-bitcoin
 my-bookmarks
 my-btc
-my-cryptocurrency
+my-cryptocurren
 my-excerpt
 my-fashion
 my-hermes
@@ -20549,7 +20594,7 @@ mybusiness
 mycin online
 mycin-online
 mycinonline
-mycryptocurrency
+mycryptocurren
 mydead-
 mydomain
 myfashion
@@ -21172,6 +21217,7 @@ novo-negocio
 now now
 now-now
 now.in
+now.the
 nowe zdjecia
 nowe zdjęcia
 nowe_zdj_cie
@@ -21226,6 +21272,7 @@ numerousnumer
 nuovo hogan
 nuovo-hogan
 nuovohogan
+nur ein drop
 nurkowanie marsa
 nurkowanie-marsa
 nurkowaniemarsa
@@ -21396,6 +21443,7 @@ of activity life
 of certainly
 of deemed
 of deficiency of
+of dollars each
 of essay writing
 of herpes
 of internet
@@ -21509,10 +21557,12 @@ on few click
 on this blog
 on this web
 on thjis
+on tnis
 on tthe
 on web site
 on-line certif
 on-line degree
+on-line test
 on-line-certif
 on-line-degree
 on-line-test
@@ -22504,6 +22554,8 @@ pdf/prada
 pdf/rolex
 pdfebook
 pecefrt
+peculiar article
+peculiar-article
 pedigree: proficien
 pedophile gratuit
 pédophile gratuit
@@ -22761,6 +22813,7 @@ photos/rolex
 php capital
 php-capital
 php?article
+php?qa
 php?rowstart
 php?showuser
 php?tag
@@ -22784,10 +22837,12 @@ picture blog
 picture in theater
 picture on-line
 picture-blog
+picture-on-line
 pictures blog
 pictures in theater
 pictures on-line
 pictures-blog
+pictures-on-line
 pictuyre
 pidarashechk
 piece chap
@@ -23565,6 +23620,15 @@ presently fascinate
 presently-fascinate
 preserveness
 pressuppose
+presta dinero
+presta rapidos
+presta-dinero
+presta-rapidos
+prestadinero
+prestamos rapidos
+prestamos-rapidos
+prestamosrapidos
+prestarapidos
 pretty instructive
 pretty worth
 pretty-instructive
@@ -23655,6 +23719,7 @@ procedures-for
 proceed your writing
 proceesing
 procoatpaint
+produce an fas
 produce article
 produce-article
 producer excellent
@@ -23838,11 +23903,13 @@ promote campaign
 promote-campaign
 promotecampaign
 promotion bag
+promotion code
 promotion offer
 promotion shop
 promotion store
 promotion team
 promotion-bag
+promotion-code
 promotion-offer
 promotion-shop
 promotion-store
@@ -24429,6 +24496,7 @@ reegzniocd
 reel-game
 reelgame
 reeview
+refer-open
 referencement
 référencement
 referral king
@@ -24556,6 +24624,8 @@ remont-avtomat
 remont-bosch
 remont-vorot
 remontbosch
+remorseless vapor
+remorseless vapour
 remote viewing train
 remote-viewing-train
 remove me from that
@@ -24845,6 +24915,8 @@ rich-woolrich
 richpicking
 richwoolrich
 ridding-your-property
+ridiculous quest here
+ridiculous quest there
 ridiculous story here
 ridiculous story there
 ridiculous-story-here
@@ -25332,6 +25404,7 @@ sauvegarde extern
 sauvegarde-extern
 save that snap
 save-you-time
+savor a movie
 sawfwaf
 say about this paragraph
 say-about-this-paragraph
@@ -25743,6 +25816,8 @@ servicos prestado
 serviços prestado
 servicos-prestado
 serwis
+session-thumb
+sessions-thumb
 sessuale
 sessuali
 set/bv
@@ -25982,6 +26057,8 @@ shares-site
 sharesite
 sharessite
 sharing site
+sharing with men
+sharing with wom
 sharing-site
 sharing-your-home
 sharingsite
@@ -26287,6 +26364,7 @@ shorttermloan
 shortugg
 shot.you
 should statement
+should you placed
 should-statement
 shoulder tote
 shoulder-tote
@@ -26809,6 +26887,8 @@ soleil-chanel
 soleil-ray
 soleilchanel
 soleilray
+solicitar un presta
+solicitar-un-presta
 solução
 solution blog
 solution-blog
@@ -27849,6 +27929,7 @@ telegratuit
 telepon-
 telerealite
 téléréalité
+telling everything concern
 tem.p.test
 tem.pt.est
 tem.pte.st
@@ -27969,6 +28050,7 @@ that i may subscribe
 that isnt
 that text is invaluable
 that text is priceless
+that which you sell
 that-i-may-subscribe
 that-isnt
 thatattempt
@@ -28415,6 +28497,10 @@ tinytowtimmy.co
 tion?i
 tip#1
 tipblog
+tips for 2015
+tips for 2016
+tips for 2017
+tips for 2018
 tips for success
 tips on interest
 tips survivor
@@ -28469,6 +28555,7 @@ to my blog
 to my page
 to my site
 to my web
+to online video
 to operates
 to suirf
 to truly
@@ -29394,6 +29481,7 @@ usa-best
 usa-youtube
 usabest
 use of movie?
+useful blog
 usefuyl
 user genial
 user_
@@ -29755,6 +29843,7 @@ video.hoc
 video.htm
 video.jsp
 video.php
+video/video
 videobokep
 videochat
 videogamedesign
@@ -29792,6 +29881,9 @@ videos.cfm
 videos.htm
 videos.jsp
 videos.php
+videos' in
+videos’ in
+videos/video
 videosex
 videosporn
 vidéosporn
@@ -30142,6 +30234,7 @@ want bitcoin
 want to commentary
 want-bitcoin
 wantbitcoin
+wantfull
 wantsand
 warcraftguide
 wardrobe appli
@@ -30718,7 +30811,9 @@ wifijammer
 wigs for men
 wigs for women
 wigs human
+wigs online
 wigs-human
+wigs-online
 wigsrus
 wihesd
 wii-healthy
@@ -30815,6 +30910,7 @@ with-your-computer
 withdrawal!
 withher
 withhim
+within thee
 without invest
 without prescript
 without ya!
@@ -30828,6 +30924,7 @@ wmfの
 woah this
 woah-this
 woderful
+wodk
 woman bikini
 woman seeking man
 woman seeking wom
@@ -30873,6 +30970,8 @@ won-page
 won-web
 wonblog
 wondeful
+wonder concept
+wonder-concept
 wonderful article
 wonderful blog
 wonderful educational
@@ -30899,6 +30998,8 @@ wonderfulread
 wondering which blog
 wondering which weblog
 wondering your situation
+wonderous kreation
+wonderous-kreation
 woodgundy.us
 woolrich amster
 woolrich arctic
@@ -31002,18 +31103,21 @@ workreview
 works guys
 works-guys
 world fuck
+world online
 world porn
 world sex
 world wide web
 world xxx
 world-capital-advis
 world-fuck
+world-online
 world-porn
 world-sex
 world-venture
 world-wide-web
 world-xxx
 worldfuck
+worldonline
 worldporn
 worlds most
 worlds-most
@@ -31047,6 +31151,7 @@ wow, this article
 wow, this blog
 wow, this site
 wow, this web
+wow! this
 wowo-house
 wowo-sex
 wowo-site
@@ -31329,6 +31434,7 @@ y-culo
 y-pezone
 y-teta
 y-tetona
+y:.
 y.@
 y.o.ur
 y.ou.r
@@ -31389,6 +31495,7 @@ you gucci
 you mayy
 you please prolong
 you sees
+you sell, you
 you ssay
 you ugg
 you viral
@@ -31412,6 +31519,7 @@ you’re information
 youd
 yougucci
 youll
+youmovie
 young porn
 young-porn
 youngporn
@@ -31420,8 +31528,10 @@ your bloog
 your boxcar
 your budget
 your content are
+your cryptocurren
 your degree online
 your dick
+your glorious overview
 your it occup
 your lover
 your new important
@@ -31459,6 +31569,7 @@ your-bloog
 your-budget
 your-content-are
 your-credit
+your-cryptocurren
 your-degree-online
 your-dick
 your-ex
@@ -32830,6 +32941,7 @@ zyvox
 ナイキ
 ニューバランス
 ネックレス
+ネットカジノ
 ノースフェイス
 のブックマーク
 の値段
@@ -32991,6 +33103,7 @@ zyvox
 脿
 腕時計
 興奮
+色々と語
 花火
 芸能人
 茅
