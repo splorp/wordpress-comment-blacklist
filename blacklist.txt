@@ -458,6 +458,9 @@ _zapat
 -bitcoin-
 -bitcoin.
 -bitcoin/
+-biz-
+-biz.
+-biz/
 -blackjack.
 -blackjack/
 -blog.
@@ -1523,6 +1526,9 @@ _zapat
 .bitcoin-
 .bitcoin.
 .bitcoin/
+.biz-
+.biz.
+.biz/
 .blog.telrock.
 .blog0
 .blog1
@@ -2577,6 +2583,9 @@ _zapat
 /bitcoin-
 /bitcoin.
 /bitcoin/
+/biz-
+/biz.
+/biz/
 /blackjack-
 /blackjack.
 /blog:0
@@ -4703,6 +4712,7 @@ a final results
 a http
 a leisure account
 a lots
+a nice for me
 a pleasant think
 a ppart
 a super seller
@@ -5577,6 +5587,9 @@ analplug
 analsex
 analysis sport
 analysis-sport
+ananizi sikicek
+ananizi-sikicek
+ananızı sikicek
 anchor0
 anchor1
 anchor2
@@ -5955,6 +5968,7 @@ artisanplombier
 artiucle
 artsilec
 artykul
+as much people
 as parrt
 as very good of
 asd@
@@ -9601,10 +9615,13 @@ clashhack
 clashofclans
 class web
 class-web
+classic porn
 classic shval
 classic_shval
+classic-porn
 classic-shval
 classic-ugg
+classic.porn
 classicugg
 classweb
 clavulanate
@@ -11683,6 +11700,7 @@ eairfix
 early-signs-of
 earn $
 earn more money
+earn-acquire
 earn-more-money
 earthly lover
 earthly-lover
@@ -11777,6 +11795,7 @@ el-gordo.c
 elamale
 elavil
 electronic advert
+electronic mail address
 electronic market
 electronic-advert
 electronic-market
@@ -16572,12 +16591,15 @@ inspiring quest there
 inspiring story there
 inspiring-quest-there
 inspiring-story-there
+insta kink
 insta-appraisal
+insta-kink
 instafab
 instagram follower
 instagram in
 instagram-follower
 instagram-in
+instakink
 install virtual
 install-virtual
 installation bang
@@ -19129,12 +19151,17 @@ malls-store
 mallsstore
 mallstore
 malwareremov
+mam cong nghiep
+mắm công nghiệp
+mam-cong-nghiep
 man cheap
 man gaga
+man in uk
 man online
 man seeking man
 man-cheap
 man-gaga
+man-in-uk
 man-online
 man-seeking-man
 mana-efficient
@@ -19159,6 +19186,7 @@ mangoosteen
 manicshop
 manies lesson
 manies-lesson
+maninuk
 manner puma
 månner puma
 manner-puma
@@ -19718,6 +19746,7 @@ men dating
 men for sex
 men gaga
 men hand
+men in uk
 men makeup
 men mbt
 men mizuno
@@ -19734,6 +19763,7 @@ men-dating
 men-for-sex
 men-gaga
 men-hand
+men-in-uk
 men-makeup
 men-mbt
 men-mizuno
@@ -19750,6 +19780,7 @@ mencheap
 mendate
 mendating
 mengaga
+meninuk
 menmbt
 menmizuno
 mennike
@@ -21359,7 +21390,9 @@ nudevid
 nudewallpaper
 nuestra-tienda
 nufactur
+number of well-like
 number service
+number-of-well-like
 number-service
 numerous numer
 numerous-numer
@@ -22525,6 +22558,7 @@ particular-proficiency
 particular-wearer
 partidos online
 partidos-online
+partner-biz
 party poker
 party shirt
 party tshirt
@@ -23725,6 +23759,9 @@ presentation-subsequent
 presently fascinate
 presently-fascinate
 preserveness
+press web page
+press-web-page
+press-webpage
 pressuppose
 presta dinero
 presta rapidos
@@ -25691,7 +25728,9 @@ secureimage
 securesmtp
 security-for
 see this blog
+see this site
 see this weblog
+see this website
 seek engines
 seek-engines
 seekingman
@@ -25892,6 +25931,7 @@ server 2014
 server 2015
 server 2016
 server 2017
+server coaching
 server download
 server-2005
 server-2006
@@ -25906,6 +25946,7 @@ server-2014
 server-2015
 server-2016
 server-2017
+server-coaching
 server-download
 server.download
 server2005
@@ -27483,9 +27524,11 @@ stylowe
 sua mulher
 sua pagina
 sua página
+sua postagem
 sua-mulher
 sua-pagina
 sua-página
+sua-postagem
 subjdct
 subject of this subject
 subject on your blog
@@ -28263,6 +28306,7 @@ theguest
 thehoverboard
 thehypothyroid
 their email list
+their sincere idea
 their-email-list
 them inaccurate
 them-inaccurate
@@ -28343,8 +28387,9 @@ this blog before
 this blog carr
 this blog defin
 this blog is
+this blog is nice
 this blog is one
-this blog is something
+this blog is some
 this blog present
 this blog prov
 this blog;
@@ -28361,6 +28406,7 @@ this page is one
 this page truly
 this posst
 this post is genuine
+this post is nice
 this post is one
 this post is worth
 this post is written
@@ -28369,8 +28415,9 @@ this proficiency
 this publish
 this site before
 this site defin
+this site is nice
 this site is one
-this site is something
+this site is some
 this site is very
 this site;
 this text is invaluable
@@ -28380,13 +28427,15 @@ this web page
 this web site
 this weblog defin
 this weblog give
-this weblog is something
+this weblog is nice
+this weblog is some
 this weblog prov
 this weblog;
 this webpage
 this website defin
 this website is
-this website is something
+this website is nice
+this website is some
 this website prov
 this website;
 this write-up
@@ -28693,6 +28742,7 @@ to truly
 to-commenting
 to-daylight
 to-gget
+to-i-purchase
 to-my-blog
 to-my-page
 to-my-site
@@ -29450,6 +29500,7 @@ ultrahoverboard
 ultram
 umschuldung
 umuporn
+uncertainty very
 uncover somebody
 uncover-somebody
 undeniably believe
@@ -30231,6 +30282,7 @@ voynich code
 voynich-code
 vpn 外网
 vpn-4-free
+vpn-dns-leak
 vpn4free
 vpn外网
 vtx-fair
@@ -31157,6 +31209,7 @@ wondering which weblog
 wondering your situation
 wonderous kreation
 wonderous-kreation
+wooden-splitting
 woodgundy.us
 woolrich amster
 woolrich arctic
@@ -31309,8 +31362,10 @@ wow-cuz
 wow-gold
 wow, this article
 wow, this blog
+wow, this post
 wow, this site
-wow, this web
+wow, this weblog
+wow, this website
 wow! this
 wowo-house
 wowo-sex
@@ -31699,6 +31754,7 @@ your lover
 your new important
 your new stuff
 your next post
+your online business
 your online degree
 your penis
 your porn
