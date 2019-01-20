@@ -385,6 +385,9 @@ _zapat
 -anal-
 -anal.
 -anal/
+-android-market-
+-android-market.
+-android-market/
 -anonymous-
 -anonymous.
 -anonymous/
@@ -703,6 +706,9 @@ _zapat
 -financing.
 -financing/
 -find-a-top-
+-first-home-
+-first-home.
+-first-home/
 -fitch.
 -fitch/
 -for-adult
@@ -1361,9 +1367,11 @@ _zapat
 ,|
 ,ag
 ,an
+,co science
 ,en
 ,he
 ,in
+,iq science
 ,ka
 ,m,
 ,me
@@ -1488,6 +1496,9 @@ _zapat
 .allocating-
 .allocating.
 .allocating/
+.android-market-
+.android-market.
+.android-market/
 .app-rating-
 .app-rating.
 .app-rating/
@@ -1687,6 +1698,9 @@ _zapat
 .filosov-
 .filosov.
 .filosov/
+.first-home-
+.first-home.
+.first-home/
 .fitnell.
 .fr/,
 .fragmenting.us
@@ -2509,6 +2523,9 @@ _zapat
 /allocating.
 /allocating/
 /an0n.me
+/android-market-
+/android-market.
+/android-market/
 /ano.gd
 /anonymous-
 /anonymous.
@@ -2580,9 +2597,11 @@ _zapat
 /bisnis-
 /bisnis.
 /bisnis/
+/bit.ly
 /bitcoin-
 /bitcoin.
 /bitcoin/
+/bitly.co
 /biz-
 /biz.
 /biz/
@@ -2932,6 +2951,9 @@ _zapat
 /finance.
 /financing.
 /find-a-top-
+/first-home-
+/first-home.
+/first-home/
 /flash/
 /floodai-
 /floodai.
@@ -4709,6 +4731,7 @@ a e-mail
 a excellent
 a fastidious one
 a few web
+a ffew
 a final results
 a http
 a leisure account
@@ -4965,6 +4988,10 @@ acheter-dolce
 acheter-sac
 acheterdolce
 achetersac
+achieve consume
+achieve customer
+achieve-consume
+achieve-customer
 achilles pain
 achilles-pain
 acid-reflux
@@ -5124,6 +5151,7 @@ adipex
 adjust handbag
 adjust-handbag
 adlive
+admin of this site
 admin.asp
 admin.cfm
 admin.htm
@@ -5345,6 +5373,7 @@ agen-bola
 agen-judi
 agen-poker
 agenbola
+agencies is going
 agencje-
 agent denim
 agent direct
@@ -5455,6 +5484,7 @@ allcamsex
 allincluzive
 allinone
 alll the
+alloaed
 allow topic guide
 allowd
 allpay
@@ -6763,6 +6793,7 @@ become-buying
 bee-pollen.
 beeday
 beenpaid
+before long find
 before-purchas
 behaviour-driven
 behind-knee
@@ -6970,6 +7001,7 @@ betterjudg
 betterserv
 betting article
 betting news
+betting on mlb
 betting site
 betting-article
 betting-news
@@ -7108,7 +7140,6 @@ bishop-knot
 bishopknot
 bit koin
 bit-koin
-bit.ly/
 bitartrate
 bitcoin acc
 bitcoin add
@@ -7192,8 +7223,10 @@ black-www
 blackfriday
 blackgay
 blackjack pit
+blackjack terbaik
 blackjack_
 blackjack-pit
+blackjack-terbaik
 blackjackpit
 blacklabelj
 blacklesb
@@ -8045,11 +8078,13 @@ burnout-hack
 busca sexo
 busca-sexo
 business catalyst
+business collection
 business empire
 business know
 business train
 business-boss
 business-catalyst
+business-collection
 business-daily
 business-empire
 business-finder
@@ -9460,6 +9495,8 @@ chinesescarf
 chinesescarve
 chineseshop
 chinesewhole
+chỉnh răng
+chinh-rang
 chinska
 chirurgie plastic
 chirurgie-plastic
@@ -9747,6 +9784,7 @@ c№
 cnoesfs
 co robic
 co-robic
+co,science
 co.l.l.ect
 coach austr
 coach bag
@@ -9956,9 +9994,11 @@ collectifabssice
 collectifceline
 collectifmoncler
 collection celine
+collection commercial
 collection effort
 collection moncler
 collection-celine
+collection-commercial
 collection-effort
 collection-moncler
 collectionceline
@@ -10872,12 +10912,16 @@ dealuk
 dealus
 dear-lover
 dearlover
+death attorney
 death erotic
+death-attorney
 death-erotic
 deatherotic
+debt money
 debt_
 debt-help
 debt-management
+debt-money
 debt-relief
 debt-solution
 debthelp
@@ -11578,6 +11622,7 @@ drugs. regard
 drugsbuy
 drugscheap
 drugz
+drunk singapore
 drupal-temp
 drupal-theme
 dsquared giub
@@ -12263,6 +12308,7 @@ excelent
 excellent article
 excellent blog
 excellent gifts for
+excellent movies clip
 excellent page
 excellent post
 excellent proper
@@ -12682,6 +12728,7 @@ fastidious exper
 fastidious for me
 fastidious idea
 fastidious in
+fastidious know
 fastidious my
 fastidious page
 fastidious piece
@@ -12704,6 +12751,7 @@ fastidious-dial
 fastidious-exper
 fastidious-idea
 fastidious-in
+fastidious-know
 fastidious-my
 fastidious-post
 fastidious-repl
@@ -12837,6 +12885,7 @@ fb-stream
 fb-traff
 fbads
 fbcash
+fbclid
 fbfans
 fbgold
 fblike
@@ -13027,8 +13076,10 @@ filmizle
 filmporn
 films enables
 films porn
+films technique
 films x
 films-porn
+films-technique
 films-x
 filmsemi
 filmsporn
@@ -14187,6 +14238,7 @@ get a loan
 get bangladesh
 get bitcoin
 get face
+get fastidious
 get know-how
 get private
 get tthe
@@ -14197,6 +14249,7 @@ get-bangladesh
 get-bitcoin
 get-boot
 get-face
+get-fastidious
 get-hermes
 get-know-how
 get-massive
@@ -14288,6 +14341,7 @@ girl blog
 girl eblog
 girl escort
 girl gaga
+girl get fuck
 girl jap
 girl jord
 girl jp
@@ -14839,6 +14893,8 @@ great performs
 great post
 great publish
 great site
+great trailer program
+great trailer strategy
 great web
 great writ
 great written
@@ -15623,6 +15679,7 @@ heuer-shop
 heuernew
 heuersale
 heuershop
+hey there this
 heya i
 hfgfh
 hgfj
@@ -15770,6 +15827,8 @@ hogantime
 hoganuomo
 hogaout
 hold of it!
+hold'em game
+hold’em game
 holdinga
 holdning
 holiday lets
@@ -16296,6 +16355,7 @@ immediate income
 immediate-income
 immediateincome
 immediatey
+immigrationcourt
 immobilier lux
 immobilier-lux
 immobilierlux
@@ -16799,6 +16859,8 @@ ipad3
 ipadrepair
 ipadsuppl
 iphone apple
+iphone case sale
+iphone cases sale
 iphone crack
 iphone repair
 iphone suppl
@@ -16808,6 +16870,8 @@ iphone-7-plus-lock
 iphone-8-lock
 iphone-8-plus-lock
 iphone-apple
+iphone-case-sale
+iphone-cases-sale
 iphone-crack
 iphone-repair
 iphone-suppl
@@ -16886,7 +16950,10 @@ ipodsuppl
 iprofit
 ipアドレス
 iq option
+iq science
 iq-option
+iq-science
+iq,science
 ira kit
 ira-kit
 irakit
@@ -17085,6 +17152,7 @@ jacketssale
 jacketsunglass
 jacketswom
 jackewest
+jackpotsa
 jacobs cartera
 jacobs geldb
 jacobs jap
@@ -17462,8 +17530,10 @@ jsadidas
 jswing
 juaanmartinezz
 juanjuan
+judi blackjack
 judi online
 judi poker
+judi-blackjack
 judi-online
 judi-poker
 judipoker
@@ -18339,6 +18409,8 @@ like your blog
 like your web
 likewise pick
 likewise-pick
+limit hold'em
+limit hold’em
 limited jers
 limited-japan
 limited-jers
@@ -18357,6 +18429,7 @@ link bait
 link build
 link camp
 link change arrange
+link competence
 link creati
 link directory
 link download
@@ -18379,6 +18452,7 @@ link_
 link-bait
 link-build
 link-camp
+link-competence
 link-creati
 link-directory
 link-download
@@ -19235,8 +19309,10 @@ mariageorig
 marihuana
 marijuana bene
 marijuana fact
+marijuana lawyer
 marijuana-bene
 marijuana-fact
+marijuana-lawyer
 marijuanabene
 marijuanafact
 marine gay
@@ -20505,6 +20581,7 @@ moustache-play
 moustacheplay
 movement-part
 movementpart
+movie are general
 movie game play
 movie gaming world
 movie is not going
@@ -20512,6 +20589,7 @@ movie on-line
 movie online
 movie release america
 movie review are
+movie video ad
 movie video that
 movie-online
 movie-zone
@@ -20613,6 +20691,7 @@ muscular-abdomen
 muscularwom
 music viral
 music-viral
+musical tv show
 musicviral
 must-koi
 mustlook
@@ -20642,6 +20721,9 @@ muzyczna
 muzyczny
 my bebo
 my bitcoin
+my blog -
+my blog –
+my blog —
 my blog ..
 my blog is
 my blog read
@@ -20660,6 +20742,7 @@ my myspace
 my online
 my own blog
 my own web
+my page ...
 my page firmen
 my page;
 my pzge
@@ -20782,6 +20865,7 @@ najlepsze
 najsłynniejszym
 najtaniej
 naked chicsk
+naked poly
 naked sex
 naked top
 naked-chicsk
@@ -20969,6 +21053,7 @@ neurontin
 nevertheless just
 nevertheless-just
 new buzz
+new design are given
 new gucci
 new iphone:
 new jord
@@ -21143,6 +21228,9 @@ niceweb
 nicki-mariah
 nicoban
 nicolasbit
+nieng rang mac cai
+niềng răng mắc cài
+nieng-rang-mac-cai
 nieruchomosci
 nieruchomości
 nieuwe zonnebrillen
@@ -21718,6 +21806,7 @@ ones-size
 ones-time
 onestime
 onestrap
+online 24
 online bag
 online betting
 online boot
@@ -21768,6 +21857,7 @@ online site
 online success
 online usa
 online бесплатно
+online-24
 online-bag
 online-betting
 online-blog
@@ -22205,6 +22295,9 @@ overall-advert
 overall-glance
 own blog
 own blogroll
+own movie video
+own trailer program
+own trailer strategy
 own webpage
 own-blog
 own-blogroll
@@ -23214,6 +23307,7 @@ pokemongocheat
 pokemongocoin
 pokemontcg
 poker 99
+poker annual
 poker book
 poker chip
 poker daily
@@ -23243,6 +23337,7 @@ poker-6
 poker-7
 poker-8
 poker-9
+poker-annual
 poker-book
 poker-chip
 poker-daily
@@ -23774,8 +23869,10 @@ prestamos-rapidos
 prestamosrapidos
 prestarapidos
 pretty instructive
+pretty review
 pretty worth
 pretty-instructive
+pretty-review
 pretty-worth
 prettyworth
 previcox
@@ -23852,6 +23949,7 @@ pro-pip
 pro-review
 pro99
 proactol
+probable profits of
 probes-aloka
 probesaloka
 problem appliance
@@ -24656,6 +24754,7 @@ reforme-ta-sante
 réforme-ta-santé
 reformetasante
 réformetasanté
+refrain from commenting
 reg_
 regaard
 regarding blog
@@ -25195,6 +25294,10 @@ run-sneak
 run-your-web
 runchaus
 runcpa
+rune - scape
+rune – scape
+rune-scape
+rune–scape
 runescape classic
 runescape gold
 runescape million
@@ -25487,6 +25590,7 @@ salvia.
 sam blog
 sameday-loan
 samedayloan
+samke amount
 sample@
 samurai siege
 samurai-siege
@@ -26150,6 +26254,7 @@ sexy gyrl
 sexy lad
 sexy meid
 sexy moment
+sexy naked
 sexy sex
 sexy shoe store
 sexy teen
@@ -28245,6 +28350,7 @@ thcblog
 thcforum
 thcreview
 the articles is
+the bast to
 the blog,
 the blog;
 the blog:
@@ -28263,6 +28369,7 @@ the right blog
 the right web
 the same blog
 the same web
+the samke
 the seo
 the simple blog
 the simple page
@@ -28350,6 +28457,8 @@ theuniversity
 they loophole
 they the t
 they-loophole
+they've relating
+they’ve relating
 theyll
 theywe
 thhat in
@@ -29628,6 +29737,7 @@ upon various buy
 upon-various-buy
 ups thanks
 upseseglype
+upside online
 ur own blog
 ur own page
 ur own site
@@ -29643,6 +29753,7 @@ urbain-futbal
 urbainfootbal
 urbainfotbal
 urbainfutbal
+urdu or urdu
 urine strip
 urine-strip
 url fx
@@ -29668,6 +29779,7 @@ usa youtube
 usa-best
 usa-youtube
 usabest
+usage of movie
 use imdb review
 use of movie?
 useful blog
@@ -29695,6 +29807,7 @@ usual discuss
 usual-discuss
 usualdiscuss
 usually relative
+usually to difficult
 usually-relative
 usuario_
 usuario:
@@ -29895,6 +30008,7 @@ very hypo
 very imparted
 very internet
 very lower
+very nice:)
 very oone
 very superb
 very valid
@@ -30777,6 +30891,7 @@ wedding-jewel
 weddingdress
 wedtgh
 weeb
+week reaction
 week.in
 weekly income
 weekly profit
@@ -31115,6 +31230,8 @@ with-my-web
 with-pics
 with-retinoid
 with-your-computer
+withdraw online
+withdraw-online
 withdrawal!
 withher
 withhim
@@ -31205,6 +31322,7 @@ wonderful-site
 wonderful-web
 wonderful! thanks!
 wonderfulread
+wondering if blog
 wondering which blog
 wondering which weblog
 wondering your situation
@@ -31703,6 +31821,8 @@ yopenis
 york sportiv
 york-sportiv
 yorksportiv
+you - tube
+you – tube
 you aare
 you article
 you book marked
@@ -31723,11 +31843,13 @@ you-article
 you-gucci
 you-sees
 you-ssay
+you-tube
 you-ugg
 you-viral
 you-want-finest
 you-write-up
 you-writeup
+you–tube
 you,i
 you:-
 you:)
@@ -31737,8 +31859,11 @@ youd
 yougucci
 youll
 youmovie
+young poker
 young porn
+young-poker
 young-porn
+youngpoker
 youngporn
 your blog
 your bloog
@@ -33012,6 +33137,7 @@ zyvox
 ליווי
 أغراس
 اتش دى فيلم
+الأندرويد
 السياحة العلاجي
 ايفون مجانية
 پازل باند
@@ -33044,6 +33170,7 @@ zyvox
 รพนันม
 รับจัดดอ
 รับจำนอง
+รีวิวสินค้า
 เล่นเกมไ
 สถานที่ จัดงานแต่งงาน
 สถานที่-จัดงานแต่งงาน
@@ -33066,6 +33193,7 @@ zyvox
 ꭼx
 ꭼy
 강남건마
+검증사이트
 게임
 경마배팅
 로얄카지노
