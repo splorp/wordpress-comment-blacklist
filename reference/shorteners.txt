@@ -10,6 +10,7 @@
 /b54.in
 /bbqr.me
 /bit.ly
+/bitly.co
 /cek.li
 /chilp.it
 /clck.ru
