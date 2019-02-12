@@ -1104,6 +1104,7 @@ _zapat
 -qsymia-
 -qsymia.
 -qsymia/
+-questions.in
 -quitsmoking-
 -quitsmoking.
 -quitsmoking/
@@ -1792,6 +1793,9 @@ _zapat
 .it/?it
 .it/t/
 .jiliblog.
+.jobs1.
+.jobs2.
+.jobs3.
 .jpg.asp
 .jpg.cfm
 .jpg.htm
@@ -5713,7 +5717,9 @@ animated-porn
 animated.porn
 animatedporn
 anime indo
+anime music vid
 anime-indo
+anime-music-vid
 animeindo
 ankle bootie
 ankle-bootie
@@ -7326,6 +7332,7 @@ blancstarwalk
 blazer chaus
 blazer-chaus
 blazerchaus
+blitzeblank geputzt
 blocker preco
 blocker preço
 blocker queda
@@ -7586,9 +7593,11 @@ bonuscasino
 bonuscode
 boobs tumblr
 boobs-tumblr
+book mark add
 book marked it
 book marked to
 book marking it
+book-mark-add
 book-marked it
 book-marked to
 book-marking it
@@ -7597,14 +7606,17 @@ book-ot-
 bookark it
 bookark you
 bookmakers, bookmaker
+bookmark add
 bookmark it
 bookmark thank
 bookmark this
 bookmark web
 bookmark you
+bookmark-add
 bookmark-thank
 bookmark-this
 bookmark-web
+bookmarkadd
 bookmarked :)
 bookmarked it
 bookmarked thank
@@ -8157,6 +8169,7 @@ business catalyst
 business collection
 business empire
 business know
+business online world
 business train
 business-a2review
 business-boss
@@ -8214,6 +8227,7 @@ buy discount
 buy dump
 buy duvet
 buy essay
+buy estate tax
 buy face
 buy fifa
 buy forskolin
@@ -8339,14 +8353,11 @@ buysoma
 buytoms
 buytraff
 buywomen
-buzz video
-buzz vidéo
+buzz vid
 buzz-media
-buzz-video
-buzz-vidéo
+buzz-vid
 buzzmedia
-buzzvideo
-buzzvidéo
+buzzvid
 bvlgari bague
 bvlgari bijoux
 bvlgari brand
@@ -9152,6 +9163,7 @@ chaussuresparis
 chaussurespascher
 chaussuressport
 chaussuresupra
+chbeap
 chce rozwodu
 chce-rozwodu
 chcoin.co
@@ -10385,6 +10397,7 @@ contactus/contact
 content content
 content download
 content material
+content seems agreed
 content-content
 content-download
 content-material
@@ -12031,6 +12044,10 @@ empower network
 empower-network
 empowernetwork
 empreendedor
+empresa grande
+empresa-grande
+empresas grande
+empresas-grande
 en en linea
 en en línea
 en private
@@ -12509,7 +12526,10 @@ experience-boat
 experience-simply
 experienced businesses
 experienced-businesses
+expert presence
 expert suggestion
+expert writing
+expert-presence
 expert-suggestion
 expert-writing
 expertwriting
@@ -13111,6 +13131,7 @@ fendi2
 fendibelt
 fendidonna
 fenoma
+fenster geputzt
 fenteetum
 ferra-gamo
 ferragamo outlet
@@ -14479,6 +14500,7 @@ giants-shop
 giantsjers
 giantsshop
 gift click
+gift ideas list
 gift singapore
 gift-click
 gift-singapore
@@ -14678,6 +14700,7 @@ go.a.d.k
 go.a.dk
 go.ad.k
 go.adk
+go=//
 go0gle
 goa.d.k
 goa.dk
@@ -14999,8 +15022,12 @@ grafica-preco
 grafica-preço
 grand opening giveaway
 grand-opening-giveaway
+grande negocio
 grande processo
+grande-negocio
 grande-processo
+grandes negocio
+grandes-negocio
 granny porn
 granny-porn
 grannyporn
@@ -15059,7 +15086,7 @@ great post
 great publish
 great site
 great trailer program
-great trailer strategy
+great trailer strateg
 great web
 great writ
 great written
@@ -15919,6 +15946,8 @@ higher rank
 higher-rank
 highgrade content
 highgradecontent
+highly effective online
+highly-effective-online
 highprofile
 highprotein
 him delivery
@@ -17199,9 +17228,10 @@ isabel marant
 isabel-marant
 isabelmarant
 islam femme
-islam video
+islam vid
 islam-femme
-islam-video
+islam-vid
+islamvid
 island jack
 island-jack
 islandjack
@@ -17399,7 +17429,9 @@ jail-bonds
 jailbonds
 jam jord
 jam-jord
+jam-poker
 jamesargum
+jampoker
 japan converse
 japan dr
 japan marc
@@ -18611,9 +18643,10 @@ lifelock
 lifepharm laminin
 lifepharm-laminin
 lifestyle proficiency
+lifestyle vid
 lifestyle-proficiency
-lifestyle-video
-lifestylevideo
+lifestyle-vid
+lifestylevid
 lights-crystal
 ligne medicament
 ligne médicament
@@ -18754,9 +18787,11 @@ litte more
 litte-more
 littlegod
 live odds
+live roulette
 live-article
 live-hack-2019
 live-odds
+live-roulette
 live22
 livearticle
 livebox live
@@ -19405,11 +19440,11 @@ make good using
 make hemp
 make money
 make more money
-make more video
+make more vid
 make my essay
 make this bookmark
 make ur own
-make wonderful video
+make wonderful vid
 make-backup
 make-blogging
 make-csgo
@@ -19576,7 +19611,7 @@ market pricing
 market research
 market samurai
 market xchange
-market your video
+market your vid
 market-exchange
 market-online
 market-prices
@@ -20051,6 +20086,7 @@ memerangi keragu
 memerangi-keragu
 memes_
 men barbour
+men be capable
 men bikini
 men boost
 men cheap
@@ -20972,6 +21008,7 @@ my blog -
 my blog –
 my blog —
 my blog ..
+my blog fer
 my blog is
 my blog read
 my blog;
@@ -21010,6 +21047,7 @@ my web-site
 my web;
 my web:
 my webb
+my weblog fer
 my weblog is
 my weblog long
 my weblog;
@@ -21922,11 +21960,13 @@ of certainly
 of deemed
 of deficiency of
 of dollars each
+of entry this
 of essay writing
 of herpes
 of internet
 of manies
 of rated film
+of several website
 of tgese
 of the casino
 of the web page
@@ -22104,6 +22144,7 @@ online longbow
 online m4a
 online movie
 online mp3
+online music vid
 online out
 online pharm
 online poker
@@ -22119,6 +22160,7 @@ online shop
 online site
 online success
 online usa
+online video market
 online weblog
 online webpage
 online website
@@ -22164,6 +22206,7 @@ online-med
 online-money
 online-movie
 online-mp3
+online-music-vid
 online-out
 online-outlet
 online-pharm
@@ -22181,6 +22224,7 @@ online-site
 online-store
 online-success
 online-usa
+online-video-market
 online-weblog
 online-webpage
 online-website
@@ -22564,9 +22608,9 @@ overall-advert
 overall-glance
 own blog
 own blogroll
-own movie video
+own movie vid
 own trailer program
-own trailer strategy
+own trailer strateg
 own webpage
 own-blog
 own-blogroll
@@ -22929,6 +22973,8 @@ particular-wearer
 partidos online
 partidos-online
 partner-biz
+partners reviews
+partners-reviews
 party poker
 party shirt
 party tshirt
@@ -23141,6 +23187,14 @@ pension-frankfurt
 pensmontblanc
 people about this topic
 peopleand
+pequena empresa
+pequena negocio
+pequena-empresa
+pequena-negocio
+pequenas empresa
+pequenas negocio
+pequenas-empresa
+pequenas-negocio
 percocet
 perfect blog
 perfect diet
@@ -24093,17 +24147,21 @@ premarin
 premature ejac
 premature-ejac
 prematureejac
+premium anti-
 premium cig
+premium digit
 premium dignity
 premium key
 premium out
 premium-account
 premium-cig
+premium-digit
 premium-dignity
 premium-key
 premium-out
 premium.ru
 premiumcig
+premiumdigit
 premiumdignity
 premiumkey
 premiumout
@@ -24394,9 +24452,12 @@ progressive-jack
 prohormone
 proisxozhdenie
 proizvodstvo
+project free tv
 project-earn
+project-free-tv
 project-hemp
 project-video-game
+projectfreetv
 projecthemp
 projectvideogame
 prokey
@@ -24907,6 +24968,7 @@ real-xxx
 realestate.co
 realestate.web
 realestate.wordpress
+realize not drop
 reallky
 really a commonly
 really fastidious
@@ -25555,6 +25617,8 @@ rotatinghotiron
 rouge moncler
 rouge-moncler
 rougemoncler
+roulette virgin
+roulette-virgin
 round thaat
 roxy ugg
 roxy-ugg
@@ -26415,7 +26479,7 @@ seu-site
 seu-web
 seven %
 several good stuff
-several movie video
+several movie vid
 several opportune
 several-opportune
 sex advice
@@ -28128,11 +28192,13 @@ super auto lock
 super casino
 super compan
 super fortnite
+super locksmith
 super real
 super-auto-lock
 super-casino
 super-compan
 super-fortnite
+super-locksmith
 super-real
 superarticle
 superb blog
@@ -28160,6 +28226,7 @@ superior-resource
 superior-sport
 superiorcompan
 superiorsport
+superlocksmith
 superstar class
 superstar status
 superstar-class
@@ -28346,6 +28413,7 @@ taille cost
 taille-cost
 taillecost
 taionline
+take a in the
 take an expense
 take correct drug
 take curcumin
@@ -28830,6 +28898,7 @@ thing way
 thing-aint
 thing-thats
 thing-way
+things that provides
 things they post
 things you post
 things-consume
@@ -28888,6 +28957,7 @@ this site is very
 this site;
 this text is invaluable
 this text is priceless
+this text is worth
 this web blog
 this web page
 this web site
@@ -29206,7 +29276,7 @@ to my blog
 to my page
 to my site
 to my web
-to online video
+to online vid
 to operates
 to see at here
 to suirf
@@ -29304,7 +29374,7 @@ top option
 top stop
 top tier
 top top
-top video
+top vid
 top viral
 top_bank
 top-article
@@ -29330,7 +29400,7 @@ top-stop
 top-tai
 top-tier
 top-top
-top-video
+top-vid
 top-viral
 top.asses
 top.c.i
@@ -30482,6 +30552,7 @@ video concen
 video erotic
 video ist cool
 video magnif
+video marketing strateg
 video ought not
 video poker
 video pokie
@@ -30508,6 +30579,7 @@ vidéo-buzz
 video-concen
 video-erotic
 video-magnif
+video-marketing-strateg
 video-poker
 video-pokie
 video-pop
@@ -30533,7 +30605,7 @@ video.hoc
 video.htm
 video.jsp
 video.php
-video/video
+video/vid
 videoadvertis
 videobokep
 videochat
@@ -30576,7 +30648,7 @@ videos.jsp
 videos.php
 videos' in
 videos’ in
-videos/video
+videos/vid
 videosex
 videosporn
 vidéosporn
@@ -31711,6 +31783,7 @@ wonder concept
 wonder-concept
 wonderful article
 wonderful blog
+wonderful business online
 wonderful educational
 wonderful goods
 wonderful homepage
@@ -32112,8 +32185,8 @@ xmail.pw
 xmails review
 xmails-review
 xn--
-xnxx video
-xnxx-video
+xnxx vid
+xnxx-vid
 xolair
 xomizz
 xopenex
@@ -32218,6 +32291,9 @@ yhttp
 yiur blog
 yiur business
 yiur info
+yk cheap
+yk-cheap
+ykcheap
 ylur blog
 ylur business
 ylur info
@@ -33577,7 +33653,9 @@ zyvox
 اتش دى فيلم
 ال جى
 الأندرويد
+الاستثمار
 السياحة العلاجي
+العقاري
 ايفون مجانية
 پازل باند
 تسديد قروض
@@ -33589,6 +33667,7 @@ zyvox
 مراكز التدريب
 مشاهدة الافلام
 معاهد تدريب
+وظائف
 ߋ
 ขายเสื้อผ้าเด็ก
 คาสิโน
@@ -33801,6 +33880,7 @@ zyvox
 体育投注
 保存
 保証
+信息平台
 倒
 光碟破解
 全球华人
