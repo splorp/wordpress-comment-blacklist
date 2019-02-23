@@ -3,6 +3,7 @@
 /2u4.us
 /4ft.me
 /adf.ly
+/adult.xyz
 /an0n.me
 /ano.gd
 /archive.li
@@ -79,3 +80,4 @@
 /ylink.pro
 /yourls.org
 /yourls.site
+/zo.ee

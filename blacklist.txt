@@ -2527,6 +2527,7 @@ _zapat
 /adorable-
 /adorable.
 /ads/
+/adult.xyz
 /affordable-
 /affordable.
 /airmax-
@@ -3889,6 +3890,7 @@ _zapat
 /zlatehory-
 /zlatehory.
 /zlatehory/
+/zo.ee
 /zozo.
 /zumba-
 /zumba.
