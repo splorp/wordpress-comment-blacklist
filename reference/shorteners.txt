@@ -58,6 +58,7 @@
 /su0.ru
 /swish.st
 /t.co
+/tgi.link
 /tiggi.es
 /tiny.cc
 /tinyls.net

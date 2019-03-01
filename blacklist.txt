@@ -3702,6 +3702,7 @@ _zapat
 /template/
 /templates/
 /test.
+/tgi.link
 /th-th.
 /the-best-
 /the-best.
