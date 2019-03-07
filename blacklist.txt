@@ -9015,6 +9015,14 @@ certain-mastery
 certain-pronoun
 certainly pronoun
 certainly-pronoun
+cerveja artesanal
+cerveja de mais
+cerveja-artesanal
+cerveja-de-mais
+cervejas artesanal
+cervejas de mais
+cervejas-artesanal
+cervejas-de-mais
 cetirizine online
 cetirizine-online
 cetirizineonline
@@ -11366,10 +11374,23 @@ dieta detox
 dieta sofrida
 dieta-detox
 dieta-sofrida
+dietary advice
+dietary advise
 dietary status
+dietary-advice
+dietary-advise
 dietary-status
+dietaryadvice
+dietaryadvise
 dietblog
 dietchart
+dietdetox
+dieting advice
+dieting advise
+dieting-advice
+dieting-advise
+dietingadvice
+dietingadvise
 dietpill
 dietplan
 dietreview
@@ -14448,15 +14469,20 @@ generic-ampicillin
 generic-principen
 genital herpes
 genital-herpes
-genuine thought
-genuine-health-review
+genuine health
+genuine pandora
+genuine-health
 genuine-pandora
-genuine-thought
-genuinehealthreview
+genuinehealth
+genuinely fantastic
 genuinely fast
 genuinely fruit
+genuinely health
+genuinely-fantastic
 genuinely-fast
 genuinely-fruit
+genuinely-health
+genuinelyhealth
 genuinepandora
 georgecow
 german jers
@@ -16971,6 +16997,8 @@ insanity.jsp
 insanity.php
 insanityjournal
 insanityworkout
+inscritas cerveja
+inscritas-cerveja
 insdier
 inseminacion artificial
 inseminacion-artificial
