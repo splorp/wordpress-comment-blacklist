@@ -8587,6 +8587,7 @@ can be a need
 can bee give
 can-help-you
 can?t
+can''t
 canada drug
 canada hgh
 canada loan
@@ -10205,8 +10206,10 @@ colour-nude
 colournude
 colts hat
 colts-hat
+com activate
 com crack
 com_install
+com-activate
 com-crack
 com-install
 com.asp
@@ -10299,6 +10302,7 @@ com9.cfm
 com9.htm
 com9.jsp
 com9.php
+comactivate
 combine fast down
 comcrack
 comdip
@@ -10740,6 +10744,7 @@ create-your-web
 createown
 createproduct
 createtee
+creating short article
 creation will run
 credit direct
 credit repair
@@ -16636,6 +16641,7 @@ i.@
 i.g.o.r
 i.g.or
 i.go.r
+i''ll
 i'd care to find
 i'm will soon
 i'mnot
@@ -17420,6 +17426,7 @@ island jack
 island-jack
 islandjack
 ismavailable
+isn?t
 isn''t
 isnt
 isotretinoine
@@ -17455,6 +17462,7 @@ it-ordenó
 it-potency
 it-rite
 it-truly
+it?s
 it''s
 it's amazing article
 it's enormous piece
@@ -26581,6 +26589,7 @@ seo page
 seo pick
 seo plug
 seo rank
+seo serv
 seo site
 seo soluton
 seo source
@@ -26610,6 +26619,7 @@ seo-page
 seo-pick
 seo-plug
 seo-rank
+seo-serv
 seo-site
 seo-soluton
 seo-source
@@ -26636,6 +26646,7 @@ seoluton
 seopick
 seoplug
 seorank
+seoserv
 seosoluton
 seosource
 seotoil
@@ -30583,6 +30594,8 @@ va garanteaza
 va-ballgown
 va-garanteaza
 vaballgown
+vacant screen
+vacant-screen
 vagina live
 vagina online
 vagina-live
@@ -32688,6 +32701,10 @@ you–tube
 you,i
 you:-
 you:)
+you?ll
+you?re
+you''ll
+you''re
 you're information
 you're sill
 you’re information
@@ -32825,17 +32842,20 @@ yourwebpage
 youth jers
 youth-jers
 youthjers
+youtube com
 youtube down
 youtube sens
 youtube snap
 youtube vi
 youtube_
+youtube-com
 youtube-down
 youtube-sens
 youtube-snap
 youtube-vi
 youtube: how
 youtube:how
+youtubecom
 youtubedown
 youtuber earn
 youtubers earn
