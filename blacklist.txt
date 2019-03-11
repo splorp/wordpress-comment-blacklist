@@ -3081,6 +3081,7 @@ _zapat
 /howto.
 /html/
 /http
+/huit.re
 /hyperurl.co
 /hyundai.
 /iapple-
@@ -3242,6 +3243,7 @@ _zapat
 /love-quote
 /loveland-
 /loveland.
+/lstu.fr
 /lululemon-
 /lululemon.
 /lunette-
