@@ -4714,39 +4714,6 @@ $sixty
 1000$
 1337-seo
 1337seo
-2012 longchamp
-2012 popular
-2012 prospect
-2012 seo
-2012-longchamp
-2012-popular
-2012-prospect
-2012-seo
-2012baby
-2012longchamp
-2012x.
-2013 longchamp
-2013 popular
-2013 prospect
-2013 seo
-2013-longchamp
-2013-popular
-2013-prospect
-2013-seo
-2013baby
-2013longchamp
-2013x.
-2014 longchamp
-2014 popular
-2014 prospect
-2014 seo
-2014-longchamp
-2014-popular
-2014-prospect
-2014-seo
-2014baby
-2014longchamp
-2014x.
 2015 longchamp
 2015 popular
 2015 prospect
@@ -4780,6 +4747,28 @@ $sixty
 2017baby
 2017longchamp
 2017x.
+2018 longchamp
+2018 popular
+2018 prospect
+2018 seo
+2018-longchamp
+2018-popular
+2018-prospect
+2018-seo
+2018baby
+2018longchamp
+2018x.
+2019 longchamp
+2019 popular
+2019 prospect
+2019 seo
+2019-longchamp
+2019-popular
+2019-prospect
+2019-seo
+2019baby
+2019longchamp
+2019x.
 10000$
 100000$
 1000000$
@@ -7389,6 +7378,7 @@ blog diet
 blog forest
 blog glance
 blog here
+blog is invaluable
 blog it help
 blog it is
 blog layout
@@ -10395,6 +10385,10 @@ compilation de chat
 compilation de chien
 compiltaion
 component/blog
+composing essay
+composing post
+composing-essay
+composing-post
 comprar
 comprasion
 compresion b
@@ -13635,9 +13629,11 @@ football shirt
 football stream
 football tee
 football_
+football-scores-live
 football-shirt
 football-stream
 football-tee
+footballscore
 footballshirt
 footballstream
 footballtee
@@ -14034,11 +14030,11 @@ fresh-weblog
 freshreview
 freshseo
 freshwaterpearl
-friday 2013
-friday 2014
 friday 2015
 friday 2016
 friday 2017
+friday 2018
+friday 2019
 friday michael
 friday mlb
 friday moncler
@@ -14049,11 +14045,11 @@ friday nhl
 friday sale
 friday ugg
 friday watch
-friday-2013
-friday-2014
 friday-2015
 friday-2016
 friday-2017
+friday-2018
+friday-2019
 friday-michael
 friday-mlb
 friday-moncler
@@ -14064,11 +14060,11 @@ friday-nhl
 friday-sale
 friday-ugg
 friday-watch
-friday2013
-friday2014
 friday2015
 friday2016
 friday2017
+friday2018
+friday2019
 fridaymlb
 fridaymoncler
 fridaynba
@@ -14490,24 +14486,21 @@ generatinggroup
 generatingmoney
 generation algorithm
 generation-algorithm
-generator 2013
-generator 2014
 generator 2015
 generator 2016
 generator 2017
 generator 2018
-generator-2013
-generator-2014
+generator 2019
 generator-2015
 generator-2016
 generator-2017
 generator-2018
-generator2013
-generator2014
+generator-2019
 generator2015
 generator2016
 generator2017
 generator2018
+generator2019
 generatorpro
 generic ampicillin
 generic principen
@@ -14521,15 +14514,15 @@ genuine pandora
 genuine-health
 genuine-pandora
 genuinehealth
-genuinely fantastic
-genuinely fast
+genuinely fantas
 genuinely fruit
 genuinely health
-genuinely-fantastic
-genuinely-fast
+genuinely very help
+genuinely-fantas
 genuinely-fruit
 genuinely-health
 genuinelyhealth
+genuinelyvery
 genuinepandora
 georgecow
 german jers
@@ -15492,9 +15485,11 @@ gѡo
 h http
 h.@
 habitof
+hack 2015
 hack 2016
 hack 2017
 hack 2018
+hack 2019
 hack android
 hack blog
 hack boost
@@ -15520,9 +15515,11 @@ hack unlimit
 hack web
 hack xyz
 hack_
+hack-2015
 hack-2016
 hack-2017
 hack-2018
+hack-2019
 hack-android
 hack-blog
 hack-boost
@@ -15558,7 +15555,11 @@ hack-zip
 hack.blog
 hack.web
 hack<
+hack2015
+hack2016
+hack2017
 hack2018
+hack2019
 hackandroid
 hackasphalt
 hackcheat
@@ -15761,21 +15762,21 @@ hdmuscle
 hdporn
 hdsex
 headphone power cord
-headset 2013
-headset 2014
 headset 2015
 headset 2016
 headset 2017
-headset-2013
-headset-2014
+headset 2018
+headset 2019
 headset-2015
 headset-2016
 headset-2017
-headset2013
-headset2014
+headset-2018
+headset-2019
 headset2015
 headset2016
 headset2017
+headset2018
+headset2019
 healing-article
 healingindu
 health advis
@@ -16631,6 +16632,7 @@ i dugg
 i eally
 i http
 i needs
+i not to mention
 i-aint
 i-needs
 i-only-done
@@ -17526,11 +17528,11 @@ jacken-west
 jackenonline
 jackenwest
 jackeonline
-jacket 2013
-jacket 2014
 jacket 2015
 jacket 2016
 jacket 2017
+jacket 2018
+jacket 2019
 jacket canad
 jacket jap
 jacket jp
@@ -17538,39 +17540,39 @@ jacket out
 jacket sale
 jacket sunglass
 jacket_
-jacket-2013
-jacket-2014
 jacket-2015
 jacket-2016
 jacket-2017
+jacket-2018
+jacket-2019
 jacket-canad
 jacket-jap
 jacket-jp
 jacket-out
 jacket-sale
 jacket-sunglass
-jacket2013
-jacket2014
 jacket2015
 jacket2016
 jacket2017
+jacket2018
+jacket2019
 jacketcanad
 jacketout
-jackets 2013
-jackets 2014
 jackets 2015
 jackets 2016
 jackets 2017
+jackets 2018
+jackets 2019
 jackets jap
 jackets jp
 jackets out
 jackets sale
 jackets_
-jackets-2013
-jackets-2014
 jackets-2015
 jackets-2016
 jackets-2017
+jackets-2018
+jackets-2019
 jackets-for-kids
 jackets-for-men
 jackets-for-wom
@@ -17578,11 +17580,11 @@ jackets-jap
 jackets-jp
 jackets-out
 jackets-sale
-jackets2013
-jackets2014
 jackets2015
 jackets2016
 jackets2017
+jackets2018
+jackets2019
 jacketsale
 jacketsforkids
 jacketsformen
@@ -18665,6 +18667,9 @@ leads-scraper
 leagle porn
 leagle-porn
 leaked1
+leaks-2015
+leaks-2016
+leaks-2017
 leaks-2018
 leaks-2019
 learn face
@@ -18741,13 +18746,21 @@ legit graph
 legit pharm
 legit script
 legit way
+legit-2015
+legit-2016
+legit-2017
 legit-2018
+legit-2019
 legit-drug
 legit-graph
 legit-pharm
 legit-script
 legit-way
+legit2015
+legit2016
+legit2017
 legit2018
+legit2019
 legitdrug
 legitgraph
 legitimate drug
@@ -19110,11 +19123,11 @@ londongenuine
 long credit history
 long long
 longafter
-longchamp 2013
-longchamp 2014
 longchamp 2015
 longchamp 2016
 longchamp 2017
+longchamp 2018
+longchamp 2019
 longchamp aus
 longchamp bag
 longchamp doctor
@@ -19137,11 +19150,11 @@ longchamp tourne
 longchamp uk
 longchamp yama
 longchamp_
-longchamp-2013
-longchamp-2014
 longchamp-2015
 longchamp-2016
 longchamp-2017
+longchamp-2018
+longchamp-2019
 longchamp-aus
 longchamp-doctor
 longchamp-fabric
@@ -19167,11 +19180,11 @@ longchamp.cfm
 longchamp.htm
 longchamp.jsp
 longchamp.php
-longchamp2013
-longchamp2014
 longchamp2015
 longchamp2016
 longchamp2017
+longchamp2018
+longchamp2019
 longchampaus
 longchampbag
 longchampdoctor
@@ -20405,23 +20418,23 @@ mercantilism
 mercati di
 mercati-di
 mercenary.co
-mercurial 2013
-mercurial 2014
 mercurial 2015
 mercurial 2016
 mercurial 2017
+mercurial 2018
+mercurial 2019
 mercurial vapo
-mercurial-2013
-mercurial-2014
 mercurial-2015
 mercurial-2016
 mercurial-2017
+mercurial-2018
+mercurial-2019
 mercurial-vapo
-mercurial2013
-mercurial2014
 mercurial2015
 mercurial2016
 mercurial2017
+mercurial2018
+mercurial2019
 mercurialvapo
 merely extremely
 merely wanna
@@ -20713,11 +20726,11 @@ moncle sito
 moncle-site
 moncle-sito
 monclear
-moncler 2013
-moncler 2014
 moncler 2015
 moncler 2016
 moncler 2017
+moncler 2018
+moncler 2019
 moncler amster
 moncler andorra
 moncler barata
@@ -20772,11 +20785,11 @@ moncler vos
 moncler weste
 moncler westen
 moncler--
-moncler-2013
-moncler-2014
 moncler-2015
 moncler-2016
 moncler-2017
+moncler-2018
+moncler-2019
 moncler-amster
 moncler-andorra
 moncler-barata
@@ -20836,11 +20849,11 @@ moncler.cfm
 moncler.htm
 moncler.jsp
 moncler.php
-moncler2013
-moncler2014
 moncler2015
 moncler2016
 moncler2017
+moncler2018
+moncler2019
 moncleramster
 monclerandorra
 monclerbarata
@@ -21600,6 +21613,7 @@ new-large
 new-manolo
 new-mastery
 new-oakley
+new-proxy-list
 new-rooms-decor
 new-seo
 new-vibram
@@ -21626,6 +21640,7 @@ newoakley
 newport 100s
 newport-100s
 newport100s
+newproxylist
 news papers
 news-papers
 news.in
@@ -22688,11 +22703,11 @@ outlet 1
 outlet 2
 outlet 3
 outlet 4
-outlet 2013
-outlet 2014
 outlet 2015
 outlet 2016
 outlet 2017
+outlet 2018
+outlet 2019
 outlet bag
 outlet canad
 outlet cheap
@@ -22719,11 +22734,11 @@ outlet-1
 outlet-2
 outlet-3
 outlet-4
-outlet-2013
-outlet-2014
 outlet-2015
 outlet-2016
 outlet-2017
+outlet-2018
+outlet-2019
 outlet-austr
 outlet-canad
 outlet-cheap
@@ -22768,8 +22783,11 @@ outlet1
 outlet2
 outlet3
 outlet4
+outlet2015
 outlet2016
 outlet2017
+outlet2018
+outlet2019
 outletaustr
 outletbag
 outletcanad
@@ -22912,6 +22930,7 @@ packers-jers
 packersjers
 page ::
 page cryptocurrency
+page is invaluable
 page regularly
 page scrape
 page through google
@@ -24197,10 +24216,12 @@ possui-zero
 post aat
 post at this site
 post como este
+post composing
 post extreme
 post fully
 post gives good
 post is good
+post is invaluable
 post like your
 post post
 post provides good
@@ -24211,6 +24232,7 @@ post writing
 post you write
 post_
 post-como-este
+post-composing
 post-extreme
 post-is-good
 post-post
@@ -24593,51 +24615,27 @@ produtos natura
 produtos-natura
 profesjonal
 professianal
-professional 2005
-professional 2006
-professional 2007
-professional 2008
-professional 2009
-professional 2010
-professional 2011
-professional 2012
-professional 2013
-professional 2014
 professional 2015
 professional 2016
 professional 2017
+professional 2018
+professional 2019
 professional blog
 professional essay
 professional ugg
-professional-2005
-professional-2006
-professional-2007
-professional-2008
-professional-2009
-professional-2010
-professional-2011
-professional-2012
-professional-2013
-professional-2014
 professional-2015
 professional-2016
 professional-2017
+professional-2018
+professional-2019
 professional-blog
 professional-essay
 professional-ugg
-professional2005
-professional2006
-professional2007
-professional2008
-professional2009
-professional2010
-professional2011
-professional2012
-professional2013
-professional2014
 professional2015
 professional2016
 professional2017
+professional2018
+professional2019
 professionals.co
 professionalugg
 proficiency advantage
@@ -26685,50 +26683,26 @@ serrurier-marseille
 serrurier-paris
 sertraline
 servantappear
-server 2005
-server 2006
-server 2007
-server 2008
-server 2009
-server 2010
-server 2011
-server 2012
-server 2013
-server 2014
 server 2015
 server 2016
 server 2017
+server 2018
+server 2019
 server coaching
 server download
-server-2005
-server-2006
-server-2007
-server-2008
-server-2009
-server-2010
-server-2011
-server-2012
-server-2013
-server-2014
 server-2015
 server-2016
 server-2017
+server-2018
+server-2019
 server-coaching
 server-download
 server.download
-server2005
-server2006
-server2007
-server2008
-server2009
-server2010
-server2011
-server2012
-server2013
-server2014
 server2015
 server2016
 server2017
+server2018
+server2019
 service now!
 service pencil
 service-now!
@@ -27148,11 +27122,11 @@ shoemizuno
 shoeonline
 shoeout
 shoepromo
-shoes 2013
-shoes 2014
 shoes 2015
 shoes 2016
 shoes 2017
+shoes 2018
+shoes 2019
 shoes america
 shoes announce
 shoes dior
@@ -27170,11 +27144,11 @@ shoes web store
 shoes woman
 shoes women
 shoes_
-shoes-2013
-shoes-2014
 shoes-2015
 shoes-2016
 shoes-2017
+shoes-2018
+shoes-2019
 shoes-america
 shoes-cheap
 shoes-cloth
@@ -27197,11 +27171,11 @@ shoes.asp
 shoes.mobi
 shoes.name
 shoes+
-shoes2013
-shoes2014
 shoes2015
 shoes2016
 shoes2017
+shoes2018
+shoes2019
 shoesale
 shoesamerica
 shoescloth
@@ -27420,6 +27394,7 @@ site backup
 site google
 site however
 site is extreme
+site is invaluable
 site link
 site look weird
 site looks weird
@@ -28434,6 +28409,7 @@ suchavailable
 suco detox
 suco-detox
 sucodetox
+sudden i had
 suggested article
 suggested blog
 suggested page
@@ -29527,6 +29503,7 @@ tips for 2015
 tips for 2016
 tips for 2017
 tips for 2018
+tips for 2019
 tips for success
 tips on interest
 tips survivor
