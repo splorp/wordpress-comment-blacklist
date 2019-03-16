@@ -36,6 +36,7 @@ _bvlgar
 _calvin
 _camiseta
 _campaign
+_cannabis
 _cartier
 _casino
 _cassino
@@ -973,6 +974,7 @@ _zapat
 -multi-art.
 -multi-art/
 -new-car-
+-newbalance-
 -newports/
 -news-explained-
 -noreferer-
@@ -1873,12 +1875,14 @@ _zapat
 .net/2.
 .net/3-
 .net/3.
-.net/net/
+.net/forum-
+.net/forum.
+.net/forum/
+.net/net
 .net/online
 .net/user
 .newbalance-
 .nike-
-.nikeshox
 .nl/nl/
 .noreferer-
 .noreferer.
@@ -3228,9 +3232,6 @@ _zapat
 /list-
 /list.
 /loans
-/local/
-/locale/
-/logos/
 /logs/
 /longchamp-
 /longchamp.
@@ -3280,17 +3281,9 @@ _zapat
 /medication-
 /medication.
 /megfull.
-/member/
-/members-
-/members.
-/members/
-/membership-
-/membership.
 /meme-
 /meme.
 /meme/
-/menu-
-/menu.
 /message-show
 /middles.
 /mk-us/
@@ -3311,7 +3304,6 @@ _zapat
 /montblanc-
 /montblanc.
 /montblanc/
-/mortgage
 /most-effective-
 /most-effective.
 /most-effective/
@@ -3331,15 +3323,6 @@ _zapat
 /mypage/
 /myspace/
 /n.
-/natverk/
-/natwerk/
-/natwork/
-/netcat
-/netverk/
-/netwerk/
-/network/
-/networks/
-/new.
 /newbalance-
 /newbalance.
 /newbalance/
@@ -3379,11 +3362,9 @@ _zapat
 /oakley.
 /oakley/
 /oakleycan
-/obsolete/
 /occhiali-
 /occhiali.
 /offering/
-/ok.
 /ok0.
 /ok1.
 /ok2.
@@ -3402,8 +3383,6 @@ _zapat
 /open.
 /orderpage
 /orgasm
-/other-
-/other.
 /oulu
 /outils
 /outlet/
@@ -5857,6 +5836,7 @@ appreckate
 appro-chait
 approaching article
 approaching-article
+appropriate advertising
 appyourself
 apr.i.l
 aquaman-full
@@ -8635,6 +8615,7 @@ cannabis oil
 cannabis proceed
 cannabis same
 cannabis seed
+cannabis_
 cannabis-buy
 cannabis-carry
 cannabis-grow
@@ -10860,6 +10841,7 @@ currencybuy
 currencybyte
 currencytobuy
 currencytrad
+current videos short
 curry jersey
 curry-jersey
 curryjersey
@@ -13436,6 +13418,7 @@ find-sex
 find-the-answer
 find-well-informed
 findarticle
+finder-business
 findjobhelp
 findmewom
 findon247
@@ -14172,6 +14155,7 @@ full-house-for-rent
 full-length-movie
 full-movie
 full.com/watch
+full4k
 fullmovie
 fulmalware
 fun-sneak
@@ -17080,8 +17064,10 @@ inspiring story there
 inspiring-quest-there
 inspiring-story-there
 insta kink
+insta sex
 insta-appraisal
 insta-kink
+insta-sex
 instafab
 instagram follower
 instagram hack
@@ -17129,6 +17115,7 @@ instanttraff
 instantweb
 instantweek
 instappraisal
+instasex
 instead-of-watch
 instruct car
 instruct-car
@@ -19805,12 +19792,14 @@ mariagehugo
 mariageorig
 marihuana
 marijuana bene
+marijuana etf
 marijuana fact
 marijuana lawyer
 marijuana sample
 marijuana strain
 marijuana_
 marijuana-bene
+marijuana-etf
 marijuana-fact
 marijuana-lawyer
 marijuana-sample
@@ -19869,6 +19858,8 @@ marketing serv
 marketing software
 marketing tip
 marketing video clip
+marketing with social
+marketing with video
 marketing xchange
 marketing-advert
 marketing-and-advert
@@ -19990,6 +19981,9 @@ mastery-plan
 mastery-series
 mastery-since
 mastery-under
+mat luoi
+mặt lưỡi
+mat-luoi
 matchcash
 materia-lingua
 materia/lingua
@@ -19998,6 +19992,7 @@ material-stylish
 matiion
 matka gambling
 matka-gambling
+matluoi
 matters on the web
 matthewsjers
 matural
@@ -22036,6 +22031,8 @@ nudevid
 nudewallpaper
 nuestra-tienda
 nufactur
+nulled-team
+nulledteam
 number of well-like
 number service
 number-of-well-like
@@ -22882,6 +22879,7 @@ overall-advert
 overall-glance
 own blog
 own blogroll
+own movie content
 own movie vid
 own stuffs great
 own trailer program
@@ -24816,6 +24814,12 @@ provider proficient
 provider-proficient
 provigil
 proxénétisme
+proxies free
+proxies-free
+proxiesfree
+proxy free
+proxy-free
+proxyfree
 prozac-
 prywatne
 przeglosuje
@@ -26477,6 +26481,7 @@ searchhing
 searching
 searchoptim
 searchporn
+seat presently
 seawaypab
 sec-leading
 secondgrade
@@ -26904,6 +26909,7 @@ sexvid
 sexvirgin
 sexweb
 sexxx
+sexy blog
 sexy fantas
 sexy girl
 sexy gyrl
@@ -26921,6 +26927,7 @@ sexy woman
 sexy women
 sexy_
 sexy-app
+sexy-blog
 sexy-fantas
 sexy-girl
 sexy-gyrl
@@ -26943,6 +26950,7 @@ sexy.htm
 sexy.jsp
 sexy.php
 sexyapp
+sexyblog
 sexyfantas
 sexygirl
 sexygyrl
@@ -27730,6 +27738,7 @@ social buzz
 social market
 social media site
 social media web
+social video market
 social weblog
 social website
 social_media
@@ -29495,6 +29504,7 @@ timberlandswede
 timberlanduom
 timberlandvilla
 timberlandwomen
+time video clip
 time-synchronisation.co
 timeline cheat
 timeline hack
@@ -29794,6 +29804,8 @@ toto-site
 totosite
 totosly
 touche. so
+tour-discount
+tourdiscount
 town|
 toys,sex
 toys,vibra
