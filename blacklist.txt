@@ -466,6 +466,7 @@ _zapat
 -biz-
 -biz.
 -biz/
+-blackjack-
 -blackjack.
 -blackjack/
 -blog.
@@ -1555,6 +1556,9 @@ _zapat
 .biz-
 .biz.
 .biz/
+.blackjack-
+.blackjack.
+.blackjack/
 .blog.telrock.
 .blog0
 .blog1
@@ -2637,6 +2641,7 @@ _zapat
 /biz/
 /blackjack-
 /blackjack.
+/blackjack/
 /blog:0
 /blog:1
 /blog:2
@@ -2644,7 +2649,6 @@ _zapat
 /blog.
 /blogid
 /bloglist/
-/blogs/
 /blogspot0.
 /blogspot1.
 /blogspot2.
@@ -5632,6 +5636,7 @@ an-on-line
 anabolic
 anal bead
 anal dildo
+anal escort
 anal extreme
 anal fuck
 anal hook
@@ -5640,6 +5645,7 @@ anal sex
 anal vibrat
 anal-bead
 anal-dildo
+anal-escort
 anal-extreme
 anal-fuck
 anal-hook
@@ -6858,6 +6864,8 @@ beenpaid
 before long find
 before-purchas
 behaviour-driven
+behelfen sich die medien
+behelfen-sich-die-medien
 behind-knee
 behindknee
 beijing escort
@@ -6936,6 +6944,7 @@ best booster
 best cartier
 best cc
 best collection agency
+best crypto
 best curcumin
 best cyber
 best dump
@@ -6966,6 +6975,7 @@ best-blogging
 best-booster
 best-cartier
 best-cc
+best-crypto
 best-curcumin
 best-cyber
 best-diet
@@ -7010,6 +7020,7 @@ bestbut
 bestcartier
 bestcase
 bestcontractor
+bestcrypto
 bestdigital
 bestdirect
 bestdisc
@@ -7166,8 +7177,12 @@ biloba-beneficio
 binance
 binarnykh optsion
 binarnykh-optsion
-binary options binary
-binary-options-binary
+binary crypto
+binary option
+binary-crypto
+binary-option
+binarycrypto
+binaryoption
 bio bronz
 bio skin
 bio-bronz
@@ -10359,12 +10374,20 @@ compare price
 compare-price
 competent essay
 competent-essay
+competitively price
+competitivelyprice
 competitors-google
 compilation chat
 compilation chien
 compilation de chat
 compilation de chien
+compilation-chat
+compilation-chien
+compilation-de-chat
+compilation-de-chien
 compiltaion
+component blog
+component-blog
 component/blog
 composing essay
 composing post
@@ -17226,6 +17249,8 @@ intsocial
 invaluable invaluable
 invaluable-invaluable
 invasions de puces
+invest binary
+invest-binary
 invest-money
 invest-off
 invest.in
@@ -17237,6 +17262,7 @@ invest.su
 invest.za
 invest/stock
 invest+
+investbinary
 investimentos process
 investimentos-process
 investimentos+process
@@ -21079,7 +21105,10 @@ mortgagecalc
 moscow model
 moscow-model
 moscowmodel
+most competitively
 most well-liked
+most-competitively
+mostcompetitive
 mosteffective
 mostexpensive
 mostra vid
@@ -22599,22 +22628,22 @@ optimize_
 optimize-enhance
 optimizing_
 option binaire
-option binary option
+option binary
 option broker
 option include medi
 option robot
 option-binaire
-option-binary-option
+option-binary
 option-broker
 option-include-medi
 option-robot
 optionbroker
 optionrobot
 options binaire
-options binary option
+options binary
 options include medi
 options-binaire
-options-binary-option
+options-binary
 options-include-medi
 options-info
 options-trad
@@ -25059,6 +25088,7 @@ queue-boost
 quick fast
 quick loans
 quick_
+quick-clean-pro
 quick-fast
 quick-loan
 quick|fast
@@ -28008,15 +28038,28 @@ sportbikepart
 sportbook
 sportivo_
 sportowefakty
-sports workforce
-sports-analysis.
-sports-workforce
+sports analysis
+sports bet
+sports fan shop
+sports fan store
+sports fanshop
+sports fanstore
+sports workfor
+sports-analysis
+sports-bet
+sports-fan-shop
+sports-fan-store
+sports-fanshop
+sports-fanstore
+sports-workfor
+sportsanalysis
 sportsbet
 sportsbook
 sportsfanshop
 sportsfanstore
 sportsgear
 sportsjers
+sportsworkfor
 sporttronch
 spot poker
 spot-poker
@@ -30488,6 +30531,7 @@ update-movie
 updates readily
 upgrade key
 upgrade-key
+upgrade-on-open
 upgradekey
 upload and promote
 upload_
@@ -32829,6 +32873,7 @@ yourfree
 yourloan
 yourls
 yourmail@
+yourpage
 yourpenis
 yourpersonal
 yourporn
@@ -32840,9 +32885,9 @@ yoursijte
 yoursite
 yoursuccess
 yourugg
-yourweb
 yourweblog
 yourwebpage
+yourwebsite
 youth jers
 youth-jers
 youthjers
@@ -34022,6 +34067,7 @@ zyvox
 السياحة العلاجي
 العقاري
 ايفون مجانية
+بهترین
 پازل باند
 تسديد قروض
 حزينه,حزينة
