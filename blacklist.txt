@@ -2947,6 +2947,7 @@ _zapat
 /ecig.
 /economical-
 /edenic.
+/editdone/
 /empower-
 /en-we/
 /en.
@@ -3894,6 +3895,7 @@ _zapat
 /yukon-gold.
 /yuwanshe-
 /yuwanshe.
+/yybbs/
 /z.
 /zdev/
 /zdjecia/
@@ -5967,6 +5969,7 @@ article is pleasant
 article is truly
 article many
 article much
+article online
 article plus
 article pocket
 article post
@@ -5984,6 +5987,7 @@ article-content
 article-dude
 article-many
 article-much
+article-online
 article-plus
 article-pocket
 article-post
@@ -8589,6 +8593,8 @@ cam2cam
 camam-hocsao
 camam.hocsao
 cambogia
+camera thumb
+cameras thumb
 camfav.
 camfave
 camgirl
@@ -9323,7 +9329,6 @@ cheap hotel
 cheap iphone
 cheap jack
 cheap jers
-cheap jersey
 cheap jord
 cheap lebron
 cheap longchamp
@@ -9415,7 +9420,6 @@ cheap-hockey
 cheap-hotel
 cheap-jack
 cheap-jers
-cheap-jersey
 cheap-jord
 cheap-kobe
 cheap-lebron
@@ -9515,7 +9519,6 @@ cheaphockey
 cheapiphone
 cheapjack
 cheapjers
-cheapjersey
 cheapjord
 cheapkobe
 cheaplebron
@@ -9919,8 +9922,8 @@ cleef replica
 cleef-replica
 clenbuterol
 clentching
-cleveland jersey
-cleveland-jersey
+cleveland jers
+cleveland-jers
 click advert
 click affiliate
 click bank
@@ -10933,13 +10936,13 @@ currencytobuy
 currencytrad
 current iphone film
 current videos short
-curry jersey
-curry-jersey
-curryjersey
+curry jers
+curry-jers
+curryjers
 cursos de trading
 cursos-de-trading
 custom essay
-custom jersey
+custom jers
 custom nike
 custom portrait service
 custom rim
@@ -10947,7 +10950,7 @@ custom wheel
 custom writing service
 custom-control
 custom-essay
-custom-jersey
+custom-jers
 custom-mom
 custom-nike
 custom-portrait-service
@@ -11508,6 +11511,7 @@ diflucan
 diggs.us
 digi person
 digi-person
+digicam move
 diiclfuf
 dili optim
 dili-optim
@@ -12125,8 +12129,9 @@ effort to opine
 effotless
 egemtr
 egoodshop
-egypt jersey
-egypt-jersey
+egypt jers
+egypt-jers
+egyptjers
 ehttp
 eight %
 einkommen
@@ -12181,6 +12186,7 @@ elitesample
 elitewom
 eloans
 elsa-dress
+elway jers
 elway-jers
 elwayjers
 emagrecer podem
@@ -12317,8 +12323,8 @@ entreprenuer
 entry_
 entrykey
 entryview
-entstandenen Kosten
-entstandenen-Kosten
+entstandenen kosten
+entstandenen-kosten
 environmentally acute
 environmentally-acute
 envisionforce
@@ -13625,6 +13631,8 @@ flappy-bird
 flappybird
 flash fancy
 flash flash
+flash game
+flash-game
 flash-slideshow
 flashslideshow
 flashy fancy
@@ -14423,6 +14431,7 @@ game bong
 game casino
 game cassino
 game ionline
+game jers
 game online
 game status system
 game torrent
@@ -14541,12 +14550,14 @@ general/genera
 generate cash
 generate group
 generate money
+generate profit
 generate the cash
 generate the group
 generate the money
 generate-cash
 generate-group
 generate-money
+generate-profit
 generate-the-cash
 generate-the-group
 generate-the-money
@@ -14626,6 +14637,7 @@ germany jers
 germany lesb
 germany-jers
 germany-lesb
+germanyjers
 germanylesb
 germanylove
 geschenkideen
@@ -14727,6 +14739,7 @@ gia-công
 giá-rẻ
 giant 100%
 giant-100%
+giants jers
 giants-jers
 giants-shop
 giantsjers
@@ -15231,6 +15244,7 @@ got a web
 got a web site
 got idea
 got much clear
+got typed the
 got-idea
 gotowkowa
 gotowkowe
@@ -15840,6 +15854,7 @@ haven’t review past
 havin so
 havve a
 havve you
+hawks jers
 hawks-jers
 hawksjers
 hɑ
@@ -16658,7 +16673,7 @@ howtowin
 hppp
 hqsteroid
 hqve the
-href%3Dhttp
+href%3dhttp
 htaccrss
 html coin
 html-article
@@ -17792,8 +17807,9 @@ jassen-out
 jassendames
 jassenneder
 jassenout
-jazz-jersey
-jazzjersey
+jazz jers
+jazz-jers
+jazzjers
 jcshoe
 jeacoma.co
 jean kaufen
@@ -18539,8 +18555,8 @@ kortings-code
 kortingscode
 kosmetyc
 kosmetyki
-Kosten legte
-Kosten-legte
+kosten legte
+kosten-legte
 kostenlos generie
 kostenlos-generie
 kosze
@@ -18818,6 +18834,7 @@ lebronshoe
 lebronxshoe
 lechit narkomaniy
 lechit-narkomaniy
+led thumb
 led_down
 led_flood
 led_indust
@@ -19098,6 +19115,8 @@ linktrack
 linkusup
 linkvault
 linkz
+lions jers
+lions-jers
 lionsfan
 lionsjers
 lious exact
@@ -20120,6 +20139,8 @@ matka gambling
 matka-gambling
 matluoi
 matters on the web
+matthews jers
+matthews-jers
 matthewsjers
 matural
 max griffey
@@ -22536,6 +22557,7 @@ online dump
 online espa
 online essay
 online eurax
+online flash
 online free
 online gambl
 online game play
@@ -22594,6 +22616,7 @@ online-dump
 online-espa
 online-essay
 online-eurax
+online-flash
 online-free
 online-gambl
 online-gefunden
@@ -23440,6 +23463,7 @@ patriots hat
 patriots jers
 patriots-hat
 patriots-jers
+patriotsjers
 paulsmith-cheap
 paulsmith-shop
 paulsmith1
@@ -25396,6 +25420,11 @@ readers' base
 readers’ base
 reading poker
 reading taste
+reading this article
+reading this blog
+reading this page
+reading this site
+reading your article
 reading your blog
 reading your page
 reading your site
@@ -28681,8 +28710,12 @@ superb-web
 supercasino
 supercompan
 superdry male
+superdry man
+superdry men
 superdry outlet
 superdry-male
+superdry-man
+superdry-men
 superdry-outlet
 superdryoutlet
 superfortnite
@@ -29221,6 +29254,7 @@ that isnt
 that text is invaluable
 that text is priceless
 that which you sell
+that will uses
 that-i-may-subscribe
 that-isnt
 thatattempt
@@ -29702,6 +29736,7 @@ tips for 2016
 tips for 2017
 tips for 2018
 tips for 2019
+tips for a success
 tips for success
 tips on interest
 tips survivor
@@ -32935,6 +32970,7 @@ your cryptocurren
 your degree online
 your design dude
 your dick
+your display screen
 your glorious overview
 your it occup
 your kids is
@@ -33051,12 +33087,14 @@ youth-jers
 youthjers
 youtube com
 youtube down
+youtube mp3
 youtube sens
 youtube snap
 youtube vi
 youtube_
 youtube-com
 youtube-down
+youtube-mp3
 youtube-sens
 youtube-snap
 youtube-vi
@@ -33064,6 +33102,7 @@ youtube: how
 youtube:how
 youtubecom
 youtubedown
+youtubemp3
 youtuber earn
 youtubers earn
 youtubesens
