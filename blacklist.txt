@@ -5661,6 +5661,7 @@ amulet-coin
 amusement account
 amzon.co
 an affectionate welcome
+an authentic gift
 an avid web
 an fascinating view
 an online user
@@ -5706,6 +5707,7 @@ and-shate
 and-special
 andcloth
 andcoupon
+andd also
 andd we
 andd your
 anditan
@@ -8028,6 +8030,7 @@ brilliant site
 brilliant web
 brilliant-blog
 brilliant-content
+brimging
 bring in the bucks
 bring your blog
 bring your weblog
@@ -8981,6 +8984,8 @@ ce-billet
 celeb diet
 celeb-diet
 celebdiet
+celebrate blogging
+celebrate-blogging
 celebrex
 celebrities-nude
 celebritiesnude
@@ -9499,15 +9504,18 @@ cheaper essay
 cheaper-essay
 cheapessay
 cheapest hockey
+cheapest lowest
 cheapest pokemon
 cheapest price
 cheapest ray
 cheapest-hockey
+cheapest-lowest
 cheapest-pokemon
 cheapest-price
 cheapest-ray
 cheapest.co
 cheapesthockey
+cheapestlow
 cheapestprice
 cheapferrag
 cheapfootbal
@@ -10372,6 +10380,7 @@ coming back sometime
 coming frlm
 coming-article
 coming-frlm
+comkpany
 commencing film
 comment boost
 comment speak
@@ -11173,6 +11182,8 @@ de-alongamento
 de-contacto
 de-luxe
 de-site
+deal benefit
+deal-benefit
 deal.bl
 dealongamento
 dealonline
@@ -15443,6 +15454,7 @@ growijg
 growing hemp
 growing-hemp
 growmens
+growqing
 growth hormone
 growth-hormone
 growthhormone
@@ -17105,6 +17117,7 @@ ing ffor
 ing forwad
 ing puter
 ing-forwad
+ing-on-instagram
 ing-puter
 ing've
 ing’ve
@@ -18807,6 +18820,8 @@ lcdled
 lead scraper
 lead-scraper
 lead-sys
+leader price
+leader-price
 leads scraper
 leads-scraper
 leagle porn
@@ -24727,6 +24742,10 @@ primeessay
 primeira vez
 primeira-vez
 primzrily
+princess boutique
+princess-boutique
+princesse boutique
+princesse-boutique
 principal longchamp
 principal-longchamp
 principallongchamp
@@ -27947,6 +27966,8 @@ social buzz
 social market
 social media site
 social media web
+social network advert
+social network-advert
 social video market
 social weblog
 social website
@@ -30154,6 +30175,7 @@ trong-top-5
 trong-top-10
 trong-top-five
 trong-top-ten
+truc-tiep-bong-da
 true search
 truly a fastidious
 truly awesome paragraph
@@ -30246,6 +30268,8 @@ twerking-vid
 twerkingvid
 twerkvid
 twit.t.
+twitter advert
+twitter-advert
 twitter-hack
 two %
 twoj blog
@@ -31661,6 +31685,7 @@ watchwrestling
 water-weight
 waterprrof
 wating for you
+way of amateur
 way your design
 way-to-enjoy
 wayfarer barata
@@ -32939,6 +32964,7 @@ yoigucci
 yolur blog
 yolur business
 yolur info
+yoou
 yoou can
 yoou could
 yoou have
@@ -32954,12 +32980,14 @@ yorksportiv
 you - tube
 you – tube
 you aare
+you andd
 you article
 you book mark
 you ccan
 you gucci
 you mayy
 you miws
+you need you are
 you please prolong
 you sees
 you sell, you
@@ -32997,6 +33025,7 @@ you’re information
 you’re sill
 youd
 yougucci
+youhr
 youll
 youmovie
 young poker
