@@ -619,6 +619,12 @@ _zapat
 -detrol.
 -detrol/
 -diagnostic-
+-diamond-band-
+-diamond-band.
+-diamond-band/
+-diamondband-
+-diamondband.
+-diamondband/
 -dieta-
 -dieta.
 -dieta/
@@ -1691,6 +1697,12 @@ _zapat
 .detrol-
 .detrol.
 .detrol/
+.diamond-band-
+.diamond-band.
+.diamond-band/
+.diamondband-
+.diamondband.
+.diamondband/
 .diowebhost.
 .disposable-
 .disposable/
@@ -2231,6 +2243,7 @@ _zapat
 .webgarden.at
 .webgarden.cz
 .webs.co
+.wego.shop
 .wgz.cz
 .whipme-
 .whipme.
@@ -2896,6 +2909,12 @@ _zapat
 /detrol/
 /dg-
 /dg.
+/diamond-band-
+/diamond-band.
+/diamond-band/
+/diamondband-
+/diamondband.
+/diamondband/
 /diary-
 /diary.
 /diesel-
@@ -5715,6 +5734,7 @@ andd your
 anditan
 andjourn
 andmerciful
+androbet
 android crack
 android hack
 android ios
@@ -5973,6 +5993,7 @@ article is genuine
 article is perfect
 article is pleasant
 article is truly
+article it is definite
 article many
 article much
 article online
@@ -10717,6 +10738,8 @@ coucheyfr
 couchsofa
 cougar gratuit
 cougar-gratuit
+couldn?t
+couldn''t
 coumadin
 counter sex
 counter-sex
@@ -11116,6 +11139,7 @@ dat online
 dat-online
 data nonetheless
 data togel
+data your motion
 data-nonetheless
 data-togel
 data-tools
@@ -11627,6 +11651,7 @@ dispensary near me
 dispensary near you
 dispensary war
 dispensary-war
+display screen defend
 display_
 dissertation making
 dissertation posting
@@ -15428,6 +15453,7 @@ green smoker
 green-smoker
 green-think
 greensmoker
+grime undetect
 grinchfull
 grise parka
 grise-parka
@@ -17391,8 +17417,6 @@ internetwriters
 interrest
 intersting
 intifmaroon
-into my blog
-into my web
 introkduce
 intsocial
 invaluable invaluable
@@ -19278,7 +19302,12 @@ login.php
 login.vc
 loginwidget
 logo-umum
+logotipo gratis
+logotipo grátis
+logotipo gratuito
 logotipo hollis
+logotipo-gratis
+logotipo-gratuito
 logotipo-hollis
 logotipohollis
 logout widget
@@ -19565,10 +19594,14 @@ loved onein
 loved-onein
 loveers
 lovelv
+lovely blog
 lovely just
 lovely passion
 lovely portal
 lovely thong
+lovely weblog
+lovely webpage
+lovely website
 lovely-just
 lovely-passion
 lovely-portal
@@ -23071,22 +23104,24 @@ outrank-competitor
 outsourcing compan
 outsourcing-compan
 outsourcingcompan
+outstanding article
 outstanding blog
 outstanding page
 outstanding post
 outstanding quest
 outstanding share
 outstanding site
-outstanding story there
+outstanding story
 outstanding topic
 outstanding web
+outstanding-article
 outstanding-blog
 outstanding-page
 outstanding-post
 outstanding-quest
 outstanding-share
 outstanding-site
-outstanding-story-there
+outstanding-story
 outstanding-topic
 outstanding-web
 outstandingblog
@@ -23704,6 +23739,8 @@ pequenas empresa
 pequenas negocio
 pequenas-empresa
 pequenas-negocio
+perabot kantor
+perabot-kantor
 percocet
 perfect blog
 perfect diet
@@ -29509,6 +29546,7 @@ thinking playing
 thinking-playing
 this article could
 this article fully
+this article together
 this artile
 this best blog
 this best doc
@@ -30217,6 +30255,7 @@ truc-tiep-bong-da
 true search
 truly a fastidious
 truly awesome paragraph
+truly data you
 truly fastidious
 truly fruitful
 truly peaked
@@ -31932,6 +31971,7 @@ website keep
 website landing
 website laten
 website look
+website net
 website not work
 website on regular
 website online
@@ -31964,6 +32004,7 @@ website-keep
 website-landing
 website-laten
 website-look
+website-net
 website-online
 website-page
 website-particular
@@ -31987,6 +32028,7 @@ website’s post
 website}
 website1
 websitelook
+websitenet
 websiteonline
 websitepost
 websiterecord
@@ -32450,6 +32492,8 @@ won-iphone
 won-page
 won-site
 won-web
+won?t
+won''t
 wonblog
 wondeful
 wonder concept
@@ -32631,6 +32675,8 @@ would extremely suggest
 would yoou
 would-extremely-suggest
 wouldn be
+wouldn?t
+wouldn''t
 wow because
 wow cuz
 wow just
@@ -33090,6 +33136,7 @@ your design dude
 your dick
 your display screen
 your glorious overview
+your iphone film
 your it occup
 your kids is
 your lover
