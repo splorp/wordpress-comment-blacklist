@@ -5254,13 +5254,15 @@ adulltfriend
 adult base
 adult blog
 adult cornhole
-adult dat
+adult date
+adult dating
 adult dvd
 adult erotic
 adult friendr
 adult girl
 adult gyrl
 adult hub
+adult personal
 adult sex
 adult story
 adult toy
@@ -5269,7 +5271,8 @@ adult web
 adult-base
 adult-blog
 adult-cornhole
-adult-dat
+adult-date
+adult-dating
 adult-dvd
 adult-erotic
 adult-friendr
@@ -5277,6 +5280,7 @@ adult-girl
 adult-gyrl
 adult-hub
 adult-net
+adult-personal
 adult-sex
 adult-story
 adult-toy
@@ -5284,7 +5288,8 @@ adult-vid
 adult-web
 adultbase
 adultblog
-adultdat
+adultdate
+adultdating
 adultfried
 adultfriemd
 adultfriend
@@ -5294,6 +5299,7 @@ adultfrinen
 adultgirl
 adultgyrl
 adulthub
+adultpersonal
 adults friend
 adults-friend
 adultsex
@@ -5354,7 +5360,9 @@ aff.asp
 aff.cfm
 aff.htm
 aff.php
+affair date
 affair dating
+affair-date
 affair-dating
 affiliat blog
 affiliat-blog
@@ -7520,7 +7528,9 @@ blog.best
 blog.real
 blog.thank
 blog.wiki
+blog's article
 blog's post
+blog’s article
 blog’s post
 blog/blog
 blog/comment
@@ -7530,7 +7540,6 @@ blog/online
 blog/owner
 blog/post
 blog/view
-blog<
 blog1
 blogbased
 blogbeast
@@ -7562,10 +7571,12 @@ blogów
 blogplatform
 blogprojet
 blogrtui.ru
+blogs article
 blogs post
 blogs to read
 blogs various
 blogs_
+blogs-article
 blogs-post
 blogs-to-read
 blogs-trick
@@ -8580,6 +8591,10 @@ cagoosejack
 cagoosesale
 cake online
 cake-online
+california date
+california dating
+california-date
+california-dating
 calitate super
 calitate-super
 call futurity
@@ -8655,6 +8670,7 @@ camsex
 can assist you have
 can bbe
 can be a need
+can be foud
 can bee give
 can-help-you
 can?t
@@ -9489,7 +9505,6 @@ cheap-wigs
 cheap-yeti
 cheap-youth
 cheap+
-cheap<
 cheapadobe
 cheapafl
 cheapatlanta
@@ -9820,7 +9835,6 @@ cig-buy
 cig-holder
 cig-online
 cig-promo
-cig<
 cigar-cuba
 cigar-online
 cigar-store
@@ -9828,12 +9842,10 @@ cigarcuba
 cigarette online
 cigarette-online
 cigarette.co
-cigarette<
 cigarettebuy
 cigarettes online
 cigarettes-online
 cigarettes.co
-cigarettes<
 cigarettesbuy
 cigaronline
 cigarrette
@@ -9851,7 +9863,6 @@ cigs promo
 cigs-buy
 cigs-online
 cigs-promo
-cigs<
 cigsbuy
 cigsonline
 cigspromo
@@ -10808,7 +10819,9 @@ cr.e.as.e
 cr.e.ase
 cr.ea.se
 cr.eas.e
+crack software
 crack_
+crack-software
 cracked app
 cracked-app
 cracked-pro
@@ -11139,13 +11152,37 @@ datatogel
 dataz
 date asian guy
 date black guy
+date casual
 date class
+date date
+date direct
+date guide
 date netflix
+date personal
+date service
+date site
 date web
 date white guy
+date-advice
+date-casual
 date-class
+date-date
+date-direct
+date-guide
 date-netflix
+date-personal
+date-service
+date-sider
+date-site
 date-web
+date.advice
+dateadvice
+datecasual
+datedirect
+dateguide
+dateservice
+datesider
+datesite
 dating asian guy
 dating black guy
 dating casual
@@ -11153,6 +11190,7 @@ dating class
 dating date
 dating direct
 dating guide
+dating personal
 dating service
 dating site
 dating white guy
@@ -11162,6 +11200,7 @@ dating-class
 dating-date
 dating-direct
 dating-guide
+dating-personal
 dating-service
 dating-sider
 dating-site
@@ -11877,7 +11916,6 @@ dre-beat
 dre-cheap
 dre-head
 dre-phone
-dre<
 dream erotic
 dream proxi
 dream proxy
@@ -13929,6 +13967,7 @@ foryou.co
 forzest
 fotografowanie
 fotos-de-tatuagen
+foud on web
 found iit
 found this post
 found your web
@@ -15051,17 +15090,17 @@ goldsuppl
 goldtruth
 goldvip
 golf access
-golf experience
+golf exper
 golf out
 golf plaza
 golf-access
-golf-experience
+golf-exper
 golf-out
 golf-plaza
 golf-promo
 golf-shop
 golfaccess
-golfexperience
+golfexper
 golfout
 golfplaza
 golfpromo
@@ -15230,7 +15269,6 @@ goose.cfm
 goose.htm
 goose.jsp
 goose.php
-goose<
 gooseca
 goosecalgary
 goosecanad
@@ -15711,7 +15749,6 @@ hack-xyz
 hack-zip
 hack.blog
 hack.web
-hack<
 hack2018
 hack2019
 hack2020
@@ -16170,7 +16207,6 @@ herpes infect
 herpes treatment
 herpes-infect
 herpes-treatment
-herpes<
 herren kaufen
 herren moncler
 herren timber
@@ -16212,7 +16248,7 @@ hgher
 hghsup
 hhave to
 hhttp
-hi dear,
+hi dear
 hi hi
 hi it's good
 hi it's me
@@ -17973,7 +18009,6 @@ jewelry-expens
 jewelry-sale
 jewelry-watch
 jewelry/watch
-jewelry<
 jewelrybest
 jewelrycollect
 jewelryexpens
@@ -20528,6 +20563,7 @@ men be capable
 men bikini
 men boost
 men cheap
+men date
 men dating
 men for sex
 men gaga
@@ -21916,6 +21952,10 @@ nghiệp-google
 nguoidanviet1
 nguoidanviet2
 nguoidanviet3
+nha đat
+nhà đất
+nha-đat
+nhađat
 nhap khau
 nhập khẩu
 nhap-khau
@@ -22372,6 +22412,7 @@ obtain a marijuana
 obtain benefit
 obtain consol
 obtain fastidious
+obtain good exper
 obtain-consol
 obtain-fastidious
 obtained nothing in oppos
@@ -22475,7 +22516,6 @@ offer-out
 offer-watch
 offer-you-online
 offer.net
-offer.weebly
 offered byy
 offered in your blog
 offered in your post
@@ -22991,7 +23031,6 @@ outlet.net
 outlet.org
 outlet.uk
 outlet.us
-outlet.weebly
 outlet+
 outlet1
 outlet2
@@ -24252,7 +24291,9 @@ polos ralph
 polos-ralph
 poloshoe
 polosralph
+pool date
 pool dating
+pool-date
 pool-dating
 poor-loan
 popular brand
@@ -25486,6 +25527,7 @@ reading-poker
 reading-taste
 readyto
 reaing this
+real excellent info
 real mastery
 real xxx
 real-estate-web
@@ -25878,9 +25920,16 @@ replica-store
 replica-top
 replica-ugg
 replica-world
-replica<
+replica0
+replica1
+replica2
+replica3
+replica4
+replica5
+replica6
 replica7
 replica8
+replica9
 replicabag
 replicabrand
 replicacartier
@@ -26387,7 +26436,12 @@ sactrail
 sacvanessa
 sacvuitton
 sadehap
-safeguarded experience
+safeguard exper
+safeguard-exper
+safeguarded exper
+safeguarded-exper
+safeguarding exper
+safeguarding-exper
 saftige frau
 saftige-frau
 saidnew
@@ -26410,7 +26464,7 @@ sale coupon
 sale louis
 sale lulu
 sale miami
-sale nederland
+sale neder
 sale now!
 sale oakley
 sale online
@@ -26430,7 +26484,7 @@ sale-longchamp
 sale-louis
 sale-lulu
 sale-miami
-sale-nederland
+sale-neder
 sale-oakley
 sale-online
 sale-template
@@ -26439,7 +26493,6 @@ sale-train
 sale.biz
 sale.co.
 sale.shop
-sale.weebly
 sale+
 sale=
 sale4u
@@ -26453,6 +26506,7 @@ salejp
 salelouis
 salelulu
 salemiami
+saleneder
 saleoakley
 saleonline
 saleout
@@ -28061,7 +28115,6 @@ solde.ro
 solde.ru
 solde.su
 solde.za
-solde<
 soldebotte
 soldecanad
 soldelancel
@@ -28085,7 +28138,6 @@ soldes.ro
 soldes.ru
 soldes.su
 soldes.za
-soldes<
 soldesbotte
 soldescanad
 soldeslancel
@@ -31426,6 +31478,10 @@ visit-my
 visit-visit
 visit-web
 visitant
+visiting this blog
+visiting this page
+visiting this site
+visiting this web
 visitor/day
 visitors/day
 vitalikor
@@ -31476,7 +31532,6 @@ voyance gratuit
 voyance-amour
 voyance-couple
 voyance-gratuit
-voyance<
 voyanceamour
 voyancecouple
 voyancegratuit
@@ -31546,7 +31601,6 @@ vuitton-wallet
 vuitton-whole
 vuitton-women
 vuitton+
-vuitton<
 vuittonbag
 vuittonbors
 vuittoncig
@@ -32085,6 +32139,7 @@ weusecoin
 wewewe
 what blog
 what does turn
+what up dear
 what youre
 what-blog
 what-does-turn
@@ -32092,11 +32147,13 @@ what-steps-are-involve
 what-to-look-for
 what-we-know
 what-youre
+what's blog
+what's up dear
 what's up to
-what's up to every
 what's up,
+what’s blog
+what’s up dear
 what’s up to
-what’s up to every
 what’s up,
 whatblog
 whatll
@@ -32134,7 +32191,9 @@ wheresell
 wheretobuy
 wheretoget
 which blog platform
+which site platform
 which weblog platform
+which website platform
 which-is-depress
 which-will-save
 whichpag
@@ -32420,9 +32479,11 @@ women's high heel
 women’s high heel
 women+
 womenbikini
+womens gold
 womens high heel
 womens narrow
 womens sandal
+womens-gold
 womens-high-heel
 womens-narrow
 womens-sandal
@@ -32809,7 +32870,6 @@ www.ya.lt
 www.ysl
 www.zapata
 www.zapato
-www<
 wwwpctool
 wx1.ru
 wx2.ru
