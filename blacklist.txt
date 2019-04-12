@@ -7533,6 +7533,7 @@ blog-world
 blog-you-write
 blog::
 blog..
+blog…
 blog.best
 blog.real
 blog.thank
@@ -8600,10 +8601,13 @@ cagoosejack
 cagoosesale
 cake online
 cake-online
+california adult
 california date
 california dating
+california-adult
 california-date
 california-dating
+californiaadult
 calitate super
 calitate-super
 call futurity
@@ -11257,10 +11261,13 @@ ddavp
 ddoing some
 de alongamento
 de site
+de tivi
+để tivi
 de-alongamento
 de-contacto
 de-luxe
 de-site
+de-tivi
 deal benefit
 deal-benefit
 deal.bl
@@ -11987,6 +11994,8 @@ dresssale
 dressshop
 drink iconic
 drink-iconic
+drinking-alcohol
+drinkingalcohol
 drivewayserv
 drmarten jap
 drmarten jp
@@ -13418,13 +13427,16 @@ fenoma
 fenster geputzt
 fenteetum
 ferra-gamo
+ferragamo belt
 ferragamo outlet
 ferragamo sale
 ferragamo tie
 ferragamo_
+ferragamo-belt
 ferragamo-outlet
 ferragamo-sale
 ferragamo-tie
+ferragamobelt
 ferragamolove
 ferragamooutlet
 ferragamosale
@@ -13995,6 +14007,8 @@ forzest
 fotografowanie
 fotos-de-tatuagen
 foud on web
+found a great..
+found a great…
 found iit
 found this post
 found your web
@@ -21516,7 +21530,6 @@ my blo look
 my blog -
 my blog –
 my blog —
-my blog ..
 my blog fer
 my blog is
 my blog not
@@ -21556,6 +21569,11 @@ my sitte
 my ssite
 my vape
 my wallet is
+my web -
+my web –
+my web —
+my web ..
+my web …
 my web log
 my web page
 my web site
@@ -21564,23 +21582,12 @@ my web-page
 my web-site
 my web;
 my web:
+my web..
+my web…
 my webb
-my weblog -
-my weblog –
-my weblog fer
-my weblog is
-my weblog long
-my weblog not
-my weblog visit
-my weblog;
-my weblog:
+my weblog
 my webpage
-my website is
-my website kelu
-my website long
-my website not
-my website;
-my website:
+my website
 my wweb
 my-bebo
 my-betor
@@ -23750,6 +23757,7 @@ pension frankfurt
 pension-frankfurt
 pensmontblanc
 people about this topic
+people for this topic
 people news
 people youtube
 people-news
@@ -26812,6 +26820,7 @@ seahawks jers
 seahawks-jers
 seahawksjers
 search engine listing
+search engine position
 search engine prefer
 search engines listing
 search engines prefer
@@ -26821,6 +26830,7 @@ search optim
 search porn
 search-engine-listing
 search-engine-opt
+search-engine-position
 search-engine-prefer
 search-engines-listing
 search-engines-prefer
@@ -26928,6 +26938,7 @@ senuke vps
 senuke-vps
 senukevps
 seo add
+seo and cms
 seo barn
 seo blog
 seo comp
@@ -26957,6 +26968,7 @@ seo with
 seo_
 seo-1337
 seo-add
+seo-and-cms
 seo-barn
 seo-blog
 seo-comp
@@ -31836,11 +31848,8 @@ weave-hair
 weavehair
 web anal
 web blog
-web blog ..
-web blog …
 web blog;
 web blog:
-web blog…
 web content
 web contract:
 web ddress
@@ -31857,6 +31866,8 @@ web page …
 web page daily
 web page;
 web page:
+web page..
+web page…
 web people
 web pharm
 web promo
@@ -31930,7 +31941,6 @@ webexplore
 webfarm
 webhostapp
 weblink
-weblog ..
 weblog for any
 weblog format
 weblog is a center
@@ -31999,6 +32009,8 @@ website as friend
 website bookmark
 website building
 website daily
+website easily
+website easy
 website everyday
 website for every
 website from where
@@ -32026,6 +32038,8 @@ website style
 website traff
 website usa
 website visit
+website was ..
+website was …
 website was..
 website was…
 website we
@@ -32037,6 +32051,8 @@ website-as-friend
 website-bookmark
 website-building
 website-daily
+website-easily
+website-easy
 website-everyday
 website-for-every
 website-inquiry
@@ -32076,6 +32092,8 @@ websitepost
 websiterecord
 websites as friend
 websites design
+websites easily
+websites easy
 websites online
 websites post
 websites prov
@@ -32084,6 +32102,8 @@ websites visit
 websites-a2review
 websites-as-friend
 websites-design
+websites-easily
+websites-easy
 websites-online
 websites-prov
 websites-visit
