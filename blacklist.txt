@@ -819,6 +819,12 @@ _zapat
 -homepage-
 -homepage.
 -homepage/
+-hot-girl-
+-hot-girl.
+-hot-girl/
+-hot-teen-
+-hot-teen.
+-hot-teen/
 -iapple-
 -iapple.
 -iapple/
@@ -1780,6 +1786,12 @@ _zapat
 .hello-people/
 .hermes-
 .herveleger-
+.hot-girl-
+.hot-girl.
+.hot-girl/
+.hot-teen-
+.hot-teen.
+.hot-teen/
 .hotblog.
 .htm/
 .html/
@@ -3116,6 +3128,12 @@ _zapat
 /homepage-
 /homepage.
 /homepage/
+/hot-girl-
+/hot-girl.
+/hot-girl/
+/hot-teen-
+/hot-teen.
+/hot-teen/
 /hot.
 /hotdeal
 /how-to-
@@ -10625,6 +10643,7 @@ controldiet
 convenience however
 converse jap
 converse jp
+converse the big
 converse_
 converse-jap
 converse-jp
@@ -11441,6 +11460,10 @@ descriptive-post
 descriptive-weblog
 design cheap
 design look great
+design of your blog
+design of your page
+design of your site
+design of your web
 design own
 design-cheap
 design-cover-letter
@@ -14847,6 +14870,7 @@ gettingknowledge
 gettranslate
 getwidget
 getyou.asp
+gezichtsbehand
 gfband
 gget set
 gginza
@@ -15982,6 +16006,7 @@ hatsnap
 hatsoakland
 hatssnap
 hautschez
+have any video
 have movies clip
 have remarked some
 have remarked these
@@ -16415,6 +16440,7 @@ hoc sao
 học sáo
 hoc-3d-max
 học-sáo
+hoc-seo
 hoc3dmax
 hocsao
 hoga out
@@ -18078,10 +18104,12 @@ jeweline.
 jewellery.bl
 jewelry collect
 jewelry expens
+jewelry oscar
 jewelry sale
 jewelry watch
 jewelry-collect
 jewelry-expens
+jewelry-oscar
 jewelry-sale
 jewelry-watch
 jewelry/watch
@@ -18274,6 +18302,9 @@ juniors baby
 juniors kid
 juniors-baby
 juniors-kid
+junk jewelry
+junk-jewelry
+junkjewelry
 just cetirizine
 just wanna
 just-cetirizine
@@ -18834,7 +18865,9 @@ largetote
 lariam
 las|
 lasart.es
+laser heat paper
 laser tattoo
+laser-heat-paper
 laser-tattoo
 laser-therapy
 laseriv
@@ -21560,6 +21593,7 @@ my blo look
 my blog -
 my blog –
 my blog —
+my blog audience
 my blog fer
 my blog is
 my blog not
@@ -22584,6 +22618,7 @@ of-the-casino
 of-you-develop
 ofargument
 ofcourse
+offer a great service
 offer out
 offer watch
 offer you online
@@ -23710,7 +23745,9 @@ pchealth
 pcsex
 pcstuff
 pcwindows
+pdf precyzyjne
 pdf website
+pdf-precyzyjne
 pdf-website
 pdf/bv
 pdf/celine
@@ -24751,6 +24788,9 @@ pradasac
 pradasport
 pradauomo
 pradavest
+pragnanter firmen
+prägnanter firmen
+pragnanter-firmen
 prawnik
 prazer sexual
 prazer-sexual
@@ -26260,6 +26300,7 @@ robertalite
 robertby
 robux generator
 robux-generator
+rocasea
 roger vivier
 roger-vivier
 rogervivier
@@ -26281,6 +26322,10 @@ rom-galaxy
 rona online
 rona-online
 roofingcontractor
+room by hour
+room-by-hour
+rooms by hour
+rooms-by-hour
 rooted android
 rooted-android
 rootexplorerr
@@ -27037,6 +27082,7 @@ seo-soluton
 seo-source
 seo-toil
 seo-tool
+seo-tram
 seo-vps
 seo-web
 seo-widget
@@ -27063,6 +27109,7 @@ seosoluton
 seosource
 seotoil
 seotool
+seotram
 seovps
 seowidget
 seowise
@@ -28358,6 +28405,8 @@ speedypaper info
 speedypaper.in
 spend careful attention
 spendihg
+spezialisierten vereine
+spezialisierten-vereine
 spicy bbw
 spicy-bbw
 spider solitaire
@@ -28442,6 +28491,8 @@ spotify.jsp
 spotify.php
 spotpoker
 spravochnik
+sprawdzian pdf
+sprawdzian-pdf
 sprawdzone narzedzia
 sprawdzone narzędzia
 sprawdzone-narzedzia
@@ -29571,6 +29622,7 @@ them inaccurate
 them-inaccurate
 them.the
 theme generat
+theme of your site
 theme sale
 theme-basic
 theme-generat
@@ -31071,10 +31123,12 @@ valtrex
 valuable blog
 valuable opt-in
 valuable site
+valuable useful
 valuable web
 valuable-blog
 valuable-opt-in
 valuable-site
+valuable-useful
 valuable-web
 valuavle
 valuble
@@ -33201,6 +33255,7 @@ you are a favour
 you article
 you book mark
 you ccan
+you could wished
 you gucci
 you mayy
 you miws
