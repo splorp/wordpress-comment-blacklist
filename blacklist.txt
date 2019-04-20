@@ -9168,6 +9168,7 @@ certain-mastery
 certain-pronoun
 certainly pronoun
 certainly-pronoun
+certtain
 cerveja artesanal
 cerveja de mais
 cerveja-artesanal
@@ -9431,6 +9432,7 @@ cheap replica
 cheap ring
 cheap sale
 cheap salv
+cheap sexy
 cheap sherr
 cheap shoe
 cheap silver
@@ -9523,6 +9525,7 @@ cheap-ring
 cheap-sale
 cheap-salv
 cheap-sex
+cheap-sexy
 cheap-sherr
 cheap-shoe
 cheap-silver
@@ -11175,6 +11178,8 @@ damskie
 dangerous post
 dangerous-post
 dangerouspost
+danke fur die tip
+danke für die tip
 dannerjp
 dans one piece
 dapoxetin
@@ -12977,6 +12982,8 @@ facesale
 facestore
 faceterra
 facevest
+fachmaennisch und werter
+fachmaennisch-und-werter
 facial location
 facial-hair
 facialhair
@@ -13717,6 +13724,7 @@ firme sprzata
 firme-sprzata
 firmenadressen
 first loan
+first time pay
 first-class news
 first-class web
 first-class-news
@@ -16799,6 +16807,7 @@ hoverboardshop
 hoverboardstop
 hoverglide
 hovershop
+how to choose you
 how_do
 how-do-you
 how-they-can
@@ -16965,7 +16974,9 @@ ihone6
 ihone7
 ihone8
 ihonex
+ihre betriebsstaette
 ihre web
+ihre-betriebsstaette
 ihre-web
 ihttp
 iin case
@@ -20945,6 +20956,7 @@ mint-coin
 mintcash
 mintcoin
 minumum
+minutes a villa
 mir gefallen
 mir-gefallen
 miracle disc
@@ -22680,8 +22692,18 @@ officialteamshop
 officialugg
 officialweb
 offight
-offizielle website
-offizielle-website
+offiziell bestatigt
+offiziell bestätigt
+offiziell web
+offiziell-bestatigt
+offiziell-web
+offizielle bestatigt
+offizielle bestätigt
+offizielle web
+offizielle-bestatigt
+offizielle-web
+offizielleweb
+offiziellweb
 ofhuman
 oficery
 ofnews
@@ -25660,6 +25682,7 @@ reading-taste
 readyto
 reaing this
 real excellent info
+real interesting info
 real mastery
 real xxx
 real-estate-web
@@ -25675,6 +25698,7 @@ really a commonly
 really fastidious
 really fruitful
 really good paragraph
+really interesting info
 really seldom
 really terminal
 really-fastidious
@@ -28315,6 +28339,8 @@ some functionalitie
 some ideas are new
 some one search
 some onee
+some real interest
+some really interest
 some-coinage
 some-functionalitie
 somedias
@@ -31628,16 +31654,17 @@ virusinfect
 virusremov
 virussecur
 visijt
+visit at here
 visit at this site
+visit blog
 visit homepage
-visit my
 visit this blog
+visit this page
 visit this site
 visit this web
 visit visit
 visit web
 visit-homepage
-visit-my
 visit-visit
 visit-web
 visitant
@@ -32309,6 +32336,7 @@ wetting pant
 wetting-pant
 wettingpant
 weusecoin
+wevsite
 wewewe
 what blog
 what does turn
@@ -33427,6 +33455,8 @@ yourprofile
 yourrs
 yours nowaday
 yours-nowaday
+yourself beautiful
+yourself-beautiful
 yoursijte
 yoursite
 yoursuccess
@@ -33491,6 +33521,7 @@ yu-move
 yumeeyum
 yup this article
 yup this paragraph
+yur web
 yutyca
 yuuguu
 yyou
@@ -34740,6 +34771,7 @@ zyvox
 カルティエ
 カルティエは
 ギフト
+キャッ
 グッチ
 クラシック
 クロエ
@@ -34893,6 +34925,7 @@ zyvox
 店舗
 开奖
 彩票網
+急ぎの借
 性
 成功的医生
 手机
