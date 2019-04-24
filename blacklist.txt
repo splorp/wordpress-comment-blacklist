@@ -554,6 +554,15 @@ _zapat
 -cheat-
 -cheat.
 -cheat/
+-cheater-
+-cheater.
+-cheater/
+-cheaters-
+-cheaters.
+-cheaters/
+-cheats-
+-cheats.
+-cheats/
 -chung-cu-
 -cia.co
 -cigar-
@@ -1647,6 +1656,18 @@ _zapat
 .cfmx
 .cgi
 .chanel-
+.cheat-
+.cheat.
+.cheat/
+.cheater-
+.cheater.
+.cheater/
+.cheaters-
+.cheaters.
+.cheaters/
+.cheats-
+.cheats.
+.cheats/
 .clit-
 .clit.
 .clit/
@@ -2815,6 +2836,18 @@ _zapat
 /chaussures.
 /cheap-
 /cheap.
+/cheat-
+/cheat.
+/cheat/
+/cheater-
+/cheater.
+/cheater/
+/cheaters-
+/cheaters.
+/cheaters/
+/cheats-
+/cheats.
+/cheats/
 /chilp.it
 /china.
 /chinese.
@@ -5328,6 +5361,7 @@ adultstory
 adulttoy
 adultweb
 advanced hemp
+advanced raw begin
 advanced-hemp
 advantage plan
 advantage-plan
@@ -6013,6 +6047,7 @@ article he/she
 article is genuine
 article is perfect
 article is pleasant
+article is priceless
 article is truly
 article it is definite
 article many
@@ -7458,6 +7493,7 @@ blog ::
 blog ..
 blog …
 blog (wordpress
+blog a menudo
 blog based
 blog beast
 blog before
@@ -7471,6 +7507,7 @@ blog forest
 blog glance
 blog here
 blog is invaluable
+blog is priceless
 blog it help
 blog it is
 blog layout
@@ -8051,6 +8088,7 @@ bravemed
 braves jers
 braves-jers
 bravesjers
+bravo por el escrito
 brazil bikini
 brazil-bikini
 brazilbikini
@@ -8078,6 +8116,9 @@ brilliant page
 brilliant post
 brilliant site
 brilliant web
+brilliant write up
+brilliant write-up
+brilliant writeup
 brilliant-blog
 brilliant-content
 brimging
@@ -10893,6 +10934,10 @@ crakcle-movie
 crakclemovie
 crane-hire
 cranehire
+craps online
+craps site
+craps-online
+craps-site
 crave of
 crave-of
 crazylearner
@@ -11007,6 +11052,9 @@ culo-mega
 culomega
 cultureand
 cultureparis
+cuong lau
+cương lậu
+cuong-lau
 cup jers
 cup-jers
 curcumin cap
@@ -15434,6 +15482,7 @@ grab people excite
 grab people interest
 grab-people-excite
 grab-people-interest
+gracias por compartir
 graduand
 grafica preco
 grafica preço
@@ -16328,6 +16377,8 @@ heuer-shop
 heuernew
 heuersale
 heuershop
+hey just wanted
+hey there just
 hey there this
 heya i
 hfgfh
@@ -17481,6 +17532,7 @@ interesting-post
 interferende
 internet article
 internet blog
+internet browser
 internet degree author
 internet degree learn
 internet gambl
@@ -20275,11 +20327,15 @@ martini cagliari
 martini-cagliari
 martinicagliari
 marvellous me
+marvellous post
+marvellous write
 marvellous-me
+marvellous-post
+marvelous me
 marvelous post
-marvelous posting
+marvelous write
+marvelous-me
 marvelous-post
-marvelous-posting
 mas calorias
 mas-calorias
 masalah member
@@ -23323,6 +23379,7 @@ packs-fanny
 page ::
 page cryptocurrency
 page is invaluable
+page is priceless
 page on facebook
 page on instagram
 page regularly
@@ -23536,9 +23593,11 @@ pantysmania
 pantyspic
 pantysplay
 pantyssex
+paper write service
 paper writer service
 paper writing service
 paper-college
+paper-write-service
 paper-writer-service
 paper-writing-service
 papercollege
@@ -24452,11 +24511,13 @@ popular-brand
 popular-teenage
 popularna
 popularną markę
+por tu blog
+por tu site
+por um blog
 por um site
 poradnik face
 poradnik-face
 poradnikface
-porn -survey
 porn angel
 porn app
 porn beer
@@ -24539,6 +24600,7 @@ porn-scan
 porn-search
 porn-stack
 porn-star
+porn-survey
 porn-tickl
 porn-vergin
 porn-virgin
@@ -24646,6 +24708,7 @@ post fully
 post gives good
 post is good
 post is invaluable
+post is priceless
 post like your
 post post
 post provides good
@@ -27886,6 +27949,7 @@ site google
 site however
 site is extreme
 site is invaluable
+site is priceless
 site link
 site look weird
 site looks weird
@@ -29452,6 +29516,7 @@ tempte.s.t
 tempte.st
 temptes.t
 temptest
+tengo una web
 tennisstream
 tenormin
 term dinner
@@ -29572,6 +29637,8 @@ thc-review
 thcblog
 thcforum
 thcreview
+the amount info
+the article are
 the articles is
 the bast to
 the blog,
@@ -29786,7 +29853,7 @@ this website is nice
 this website is some
 this website prov
 this website;
-this write-up
+this write
 this wweb
 this-article-fully
 this-blog-before
@@ -29807,6 +29874,7 @@ this-webpage
 this-website-defin
 this-website-is
 this-website-prov
+this-write
 thisgucci
 thispublish
 thjng
@@ -32719,6 +32787,7 @@ wonderful publish
 wonderful read!
 wonderful site
 wonderful web
+wonderful write
 wonderful-article
 wonderful-blog
 wonderful-educational
