@@ -76,6 +76,7 @@
 /utiny.ml
 /utka.su
 /v.gd
+/v.ht
 /vk.io
 /webhop.se
 /wntdco.mx
