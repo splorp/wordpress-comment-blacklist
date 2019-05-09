@@ -1458,6 +1458,7 @@ _zapat
 !@#
 ? relevant!
 ?/pag
+?|
 ?a=stats
 ?add
 ?adidas
@@ -13507,6 +13508,10 @@ featuring christs
 featuring-christs
 federl
 feeds also
+feell fine
+feell free
+feell good
+feell great
 feelng
 feichang0
 feihuang0
@@ -13809,8 +13814,10 @@ firm.ru
 firm.su
 firm.za
 firma betor
+firma reinigung
 firma sprzata
 firma-betor
+firma-reinigung
 firma-sprzata
 firma.asp
 firma.cfm
@@ -18537,6 +18544,9 @@ kensington-parka
 kensingtonparka
 keo nha cai
 kèo-bóng
+kerja hotel
+kerja-hotel
+kerjahotel
 keto tone
 keto-burn
 keto-tone
@@ -19550,6 +19560,9 @@ lohan-porn
 lohanporn
 loiknog
 loiusvuitton
+loker hotel
+loker-hotel
+lokerhotel
 loknoig
 lol i
 lol life
@@ -19562,7 +19575,9 @@ london genuine
 london-genuine
 londongenuine
 long credit history
+long lasting duration
 long long
+long-lasting-duration
 longafter
 longchamp 2018
 longchamp 2019
@@ -19809,6 +19824,7 @@ louiswuitton
 love connect
 love cougar
 love perfect
+love yokur
 love-connect
 love-cougar
 love-lv
@@ -19854,6 +19870,9 @@ low-rake
 lowest rake
 lowest-rake
 lowestrake
+lowongan hotel
+lowongan-hotel
+lowonganhotel
 lowpriced
 lowrake
 loyalty today
@@ -22698,6 +22717,7 @@ oemsoftware
 oesale
 of activity life
 of asthma sign
+of awesome info
 of certainly
 of deemed
 of deficiency of
@@ -23733,6 +23753,7 @@ parrainage-boursor
 parrt of
 part mariage
 part online
+part oof
 part-mariage
 part-online
 parti rni
@@ -24184,6 +24205,11 @@ phpbb2
 phpinfo
 phpoakley
 phttp
+phục áo phông
+phuc ao thun
+phục áo thun
+phuc-ao-phong
+phuc-ao-thun
 phukhoasaigon
 phync
 physician formula
@@ -26033,6 +26059,7 @@ relacoes-sexuais
 relações-sexuais
 related contents
 related-contents
+relatfed
 relativa media
 relativa mídia
 relativa-media
@@ -29671,6 +29698,7 @@ thanh tn
 thanh-nhac
 thanh-nhạc
 thanh-tn
+thank regarding
 thank you for posting
 thank you for sharing
 thanks ,
@@ -29683,6 +29711,7 @@ thanks for sharing
 thanks for the post
 thanks for this post
 thanks for your post
+thanks regarding
 thanks to web
 thanks-admin
 thanks-designed
@@ -30393,6 +30422,7 @@ top-site
 top-stop
 top-tai
 top-tier
+top-tool
 top-top
 top-vid
 top-viral
@@ -30439,6 +30469,7 @@ topseo
 topsite
 topstop
 toptai
+toptool
 topvideocon
 topviral
 tor puter
@@ -30625,6 +30656,7 @@ ttelevision
 tthe main
 tthe other
 ttheme
+ttlink
 tube-zzz
 tubee.tv
 tubezzz
@@ -33430,6 +33462,8 @@ ylur blog
 ylur business
 ylur info
 ynimb
+yo dick
+yo penis
 yo-dick
 yo-penis
 yo.u.r
@@ -33443,18 +33477,24 @@ yoga-out
 yogagypsy
 yogaout
 yoigucci
+yokur blog
+yokur business
+yokur info
+yokur web
 yolur blog
 yolur business
 yolur info
-yoou
+yolur web
 yoou can
 yoou could
 yoou have
 yoou mind
 yoou should
 yoou will
-yoou-have
-yoour
+yoour blog
+yoour business
+yoour info
+yoour web
 yopenis
 york sportiv
 york-sportiv
@@ -33505,13 +33545,17 @@ you?ll
 you?re
 you''ll
 you''re
-you're information
+you're info
 you're sill
-you’re information
+you’re info
 you’re sill
 youd
 yougucci
 youhr
+youhr blog
+youhr business
+youhr info
+youhr web
 youll
 youmovie
 young poker
