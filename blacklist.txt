@@ -814,9 +814,6 @@ _zapat
 -healthbenefits-
 -healthbenefits.
 -healthbenefits/
--hello-people-
--hello-people.
--hello-people/
 -herbal-
 -herbal.
 -herbal/
@@ -1803,9 +1800,6 @@ _zapat
 .healthbenefits-
 .healthbenefits.
 .healthbenefits/
-.hello-people-
-.hello-people.
-.hello-people/
 .hermes-
 .herveleger-
 .hot-girl-
@@ -2168,8 +2162,7 @@ _zapat
 .sensual.
 .sensual/
 .sexy.
-.sg/propert
-.sg/property
+.sg/proper
 .shop1.
 .simpsite.
 .sirenos.in
@@ -3147,9 +3140,6 @@ _zapat
 /healthbenefits-
 /healthbenefits.
 /healthbenefits/
-/hello-people-
-/hello-people.
-/hello-people/
 /hentai
 /hermes-
 /hermes.
@@ -4316,6 +4306,7 @@ $sixty
 1 addict
 1 appli
 1 casino
+1 download mp3
 1 of the
 1 powerful technique
 1-1.
@@ -5401,7 +5392,6 @@ advertising-de-conteúdo
 advertising-market
 advertising-method
 advertising-research
-advice from your content
 advice-adult
 advice.adult
 advok
@@ -7019,9 +7009,9 @@ being photographer
 being pput
 being-photographer
 being-pput
-belize propert
-belize-propert
-belizepropert
+belize proper
+belize-proper
+belizeproper
 belly-fat
 belstaff bota
 belstaff chaqueta
@@ -7535,6 +7525,7 @@ blog link
 blog load
 blog loading
 blog look
+blog marketing
 blog moze
 blog może
 blog occasion
@@ -8510,7 +8501,7 @@ buy-online
 buy-pill
 buy-plus
 buy-privat
-buy-propert
+buy-proper
 buy-qsymia
 buy-resume
 buy-reviews
@@ -8573,7 +8564,7 @@ buyout keep
 buyout_
 buyout-keep
 buyplus
-buypropert
+buyproper
 buyrun
 buyseo
 buysilver
@@ -10083,6 +10074,10 @@ click bank
 click compan
 click here
 click now
+click this blog
+click this link
+click this video
+click this web
 click_
 click-advert
 click-affiliate
@@ -13772,6 +13767,7 @@ finanse
 finansow
 finasteride
 find 2
+find excellent writing
 find good essay
 find good info from
 find sex
@@ -14471,10 +14467,12 @@ from maltreating
 from my web
 from subsequent
 from this blog
+from this content
 from this post
 from this site
 from this web
 from your article
+from your blog
 from your content
 from your web
 from-maltreating
@@ -15396,6 +15394,7 @@ google keyword
 google mapa
 google rank
 google saya
+google solution
 google us
 google_
 google-bind
@@ -15406,12 +15405,14 @@ google-java
 google-keyword
 google-mapa
 google-rank
+google-solution
 google-us
 googlebind
 googlehigh
 googleing
 googlejava
 googlerank
+googlesolution
 googleus
 googmail
 googoozuza
@@ -16269,8 +16270,8 @@ hello it’s good
 hello it’s me
 hello its good
 hello its me
+hello people
 hello please
-hello please suggest
 hello sex
 hello that
 hello there after
@@ -16285,6 +16286,7 @@ hello to every
 hello_world
 hello-admin
 hello-dress
+hello-people
 hello-please
 hello-sex
 hello-that
@@ -16995,6 +16997,7 @@ howtocure
 howtomake
 howtomedi
 howtoreg
+howtoreveal
 howtospeed
 howtounlock
 howtowin
@@ -17340,6 +17343,7 @@ individual stuffs
 individual-friendly
 individual-pleasant
 individual-stuffs
+indownload
 indre pengemark
 indre-pengemark
 induce a invasion
@@ -21950,6 +21954,7 @@ nam-nữ
 namacalnie zalega
 namacalnie-zalega
 name-brand
+namesonyolo
 namkhoa
 nanas hack
 nanas-hack
@@ -22978,6 +22983,7 @@ online shoe
 online shop
 online site
 online success
+online unblock
 online usa
 online video market
 online weblog
@@ -23043,6 +23049,7 @@ online-shop
 online-site
 online-store
 online-success
+online-unblock
 online-usa
 online-video-market
 online-weblog
@@ -25349,6 +25356,7 @@ promotionshop
 promotionstore
 propecia
 propeer
+proper blog
 proper-ugg
 property pro
 property-pro
@@ -26442,7 +26450,7 @@ rich-picking
 rich-woolrich
 richpicking
 richwoolrich
-ridding-your-property
+ridding-your-proper
 ridiculous quest here
 ridiculous quest there
 ridiculous story here
@@ -32368,6 +32376,7 @@ website keep
 website landing
 website laten
 website look
+website marketing
 website net
 website not work
 website on regular
