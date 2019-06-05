@@ -4022,6 +4022,8 @@ _zapat
 #&amp;
 #file
 #random
+% guns
+% güns
 %$
 %5b
 %5d
@@ -5075,8 +5077,18 @@ accouchement
 account halal
 account islam
 account receiv
+account your article
+account your blog
+account your page
+account your site
+account your web
 account-islam
 account-receiv
+account-your-article
+account-your-blog
+account-your-page
+account-your-site
+account-your-web
 accounts receiv
 accounts-receiv
 accupril
@@ -5692,15 +5704,22 @@ amazon.cm
 amazon.htm
 amazon.jsp
 amazon.php
+ambalaje cofetar
 ambalaje plastic
+ambalaje-cofetar
 ambalaje-plastic
+ambalajecofetar
 ambalajeplastic
 ambien
 amenities provider
 amenities-provider
+amenity provider
+amenity-provider
 america mineiro
 america-mineiro
 ametuer
+amino care
+amino-care
 aminocare
 amitriptyline
 amor barulhento
@@ -5708,6 +5727,7 @@ amor tarot
 amor-barulhento
 amor-tarot
 amorbarulhento
+amortarot
 amorti dynamique
 amorti-dynamique
 amount comfort
@@ -5715,17 +5735,18 @@ amount food
 amount of pastime
 amount-comfort
 amount-food
+amountcomfort
 amountfood
 amour gratuit
 amour-gratuit
 amourgratuit
 amoxicil
 amoxil
+amoxxi
 amped page
 amped-page
 ampedpage
-ampicillin generic
-ampicillin-generic
+ampicillin
 ampmexterm
 amulet coin
 amulet-coin
@@ -6307,6 +6328,8 @@ attraction market
 attraction-market
 audio song
 audio-song
+auf dem markt
+auf-dem-markt
 aufsatz hilfe
 aufsatz-hilfe
 aufsatzhilfe
@@ -7545,6 +7568,7 @@ blog thus
 blog various
 blog vid
 blog viewer
+blog visit
 blog was how
 blog was..
 blog web
@@ -7592,6 +7616,7 @@ blog-trick
 blog-various
 blog-vid
 blog-viewer
+blog-visit
 blog-web
 blog-wiki
 blog-wordpress
@@ -10511,6 +10536,10 @@ comcrack
 comdip
 comedyee
 comee on
+comentarios prova oab
+comentários prova oab
+comentarios-prova-oab
+comentários-prova-oab
 comhttp
 coming article
 coming back sometime
@@ -10634,10 +10663,14 @@ computers.in
 comreview
 comunity
 concentrate exist
+concernijg
 concerning blog
+concerning page
+concerning this blog
 concerning this paragraph
+concerning this web
 concerning-blog
-concerning-this-paragraph
+concerning-page
 concerpts
 concurrent click
 concurrent-click
@@ -11511,6 +11544,9 @@ dentalimplant
 dentalquote
 dentalsuper
 dentalveneer
+dentist online
+dentist-online
+dentistonline
 depart your blog
 depart your page
 depart your site
@@ -11633,6 +11669,7 @@ diamox
 diary_
 diazepam
 dich vu seo
+dịch vụ seo
 dich-vu-seo
 dichvuseo
 diclofenac
@@ -12359,6 +12396,7 @@ effexor
 efficiency customer
 efficiency-customer
 effort to opine
+effort tto
 effortlessly know it
 effotless
 egemtr
@@ -13030,6 +13068,7 @@ f.jog.a
 f.joga
 faar more
 faar-more
+fabrikverkauf
 fabulous drug
 fabulous-drug
 fabulousdrug
@@ -13637,7 +13676,8 @@ fg-xpress
 fgxpress
 fhttp
 fiasoni
-fibromyalgia
+ficar mais magra
+ficar-mais-magra
 fifa 15 ultimate
 fifa 16 ultimate
 fifa 17 ultimate
@@ -14886,10 +14926,8 @@ generator2018
 generator2019
 generator2020
 generatorpro
-generic ampicillin
 generic principen
 generic_
-generic-ampicillin
 generic-principen
 genital herpes
 genital-herpes
@@ -14931,7 +14969,7 @@ get $
 get a loan
 get bangladesh
 get bitcoin
-get blog visit
+get blog
 get face
 get fastidious
 get fuck
@@ -14941,6 +14979,7 @@ get more weblog
 get more webpage
 get more website
 get private
+get snapchat
 get tik tok fan
 get tthe
 get_rid
@@ -14948,7 +14987,7 @@ get_started
 get-a-loan
 get-bangladesh
 get-bitcoin
-get-blog-visit
+get-blog
 get-boot
 get-face
 get-fantastic
@@ -14986,13 +15025,11 @@ getting $
 getting a loan
 getting down to job
 getting familiarity
-getting know-how
-getting knowledge
+getting know
 getting ranks
 getting thoughts
 getting-a-loan
-getting-know-how
-getting-knowledge
+getting-know
 getting-men
 getting-ranks
 getting-thoughts
@@ -16253,6 +16290,7 @@ heels shoe
 heels-cheap
 heels-shoe
 heelshoe
+heere is
 heil hitler
 heil-hitler
 heilhitler
@@ -16283,6 +16321,8 @@ hello there, just
 hello this
 hello to all
 hello to every
+hello world please
+hello world you
 hello_world
 hello-admin
 hello-dress
@@ -16506,6 +16546,8 @@ hi there, dear
 hi there, just
 hi to all
 hi to every
+hi world please
+hi world you
 hi-hi
 hi, it's good
 hi, it's me
@@ -16552,6 +16594,7 @@ highly effective online
 highly-effective-online
 highprofile
 highprotein
+hiii guy
 hiii people
 hiii world
 hiii you
@@ -17135,6 +17178,9 @@ ihttp
 iin case
 iin many
 iin this
+iit does
+iit is
+iit was
 ilistdzb
 illions4u
 illusion origami
@@ -17258,6 +17304,7 @@ in youtube
 in-delicious
 in-disguise
 in-gogle
+in-google
 in-skilled
 in-your-instagram
 in-youtube
@@ -17425,6 +17472,8 @@ informativepost
 informativesite
 informativeweb
 informativge
+informativo web
+informativo-web
 informztion
 infos-
 infos/
@@ -17947,8 +17996,11 @@ its-fastidious
 its-helped
 itsfastidious
 itsnot
+itss not
 itss tru
 itstree
+itt does
+itt is
 itt was
 itzshipd
 iwant2
@@ -20092,6 +20144,8 @@ magnificent-point
 magnificent-post
 magnificent-web
 magnificentinform
+mai bun pret
+mai-bun-pret
 mail order bride
 mail_
 mail-order-bride
@@ -21736,6 +21790,14 @@ music viral
 music-viral
 musical tv show
 musicviral
+must click blog
+must click link
+must click post
+must click video
+must-click-blog
+must-click-link
+must-click-post
+must-click-video
 must-koi
 mustlook
 mutuelle sante
@@ -21777,10 +21839,14 @@ my blog read
 my blog visit
 my blog;
 my blog:
+my boog -
+my boog:
+my boog..
 my bookmarks
 my bpog
 my btc
 my cryptocurren
+my custom golf
 my excerpt
 my first time go
 my hermes
@@ -21836,6 +21902,7 @@ my-bookmark
 my-bookmarks
 my-btc
 my-cryptocurren
+my-custom-golf
 my-excerpt
 my-fashion
 my-hermes
@@ -21867,6 +21934,7 @@ mycin online
 mycin-online
 mycinonline
 mycryptocurren
+mycustomgolf
 mydead-
 mydomain
 myfashion
@@ -22130,6 +22198,8 @@ neurontin
 neverstopgo
 nevertheless just
 nevertheless-just
+nevler escort
+nevler-escort
 new buzz
 new design are given
 new gucci
@@ -23841,6 +23911,8 @@ pass prefix
 pass-generat
 pass-prefix
 pass-recovery
+passar na prova
+passar-na-prova
 passgenerat
 passion price
 passion the web
@@ -24375,15 +24447,31 @@ plastische-chirurgie
 plated watch
 plated-watch
 plavix
+play film trailer
+play films trailer
 play hack
+play video review
+play videos review
+play-film-trailer
+play-films-trailer
 play-free
 play-hack
 play-online
 play-runescape
+play-video-review
+play-videos-review
 playedd
 playerblock
 playfree
 playher
+playing film trailer
+playing films trailer
+playing video review
+playing videos review
+playing-film-trailer
+playing-films-trailer
+playing-video-review
+playing-videos-review
 playonline
 playstation code
 playstation-code
@@ -24627,6 +24715,14 @@ polos ralph
 polos-ralph
 poloshoe
 polosralph
+pomyslow prezent
+pomysłow prezent
+pomyslow-prezent
+pomysłow-prezent
+pomyslowy prezent
+pomysłowy prezent
+pomyslowy-prezent
+pomysłowy-prezent
 pool date
 pool dating
 pool-date
@@ -25378,6 +25474,8 @@ protein-powder
 protein-review
 proteinbene
 proteindiet
+prova da oab
+prova-da-oab
 provase concur
 provase-concur
 provewhether
@@ -27618,8 +27716,10 @@ shanghaiescort
 shanghaimassage
 shanrig
 share - point
+share and sub
 share site
 share ssite
+share-and-sub
 share-site
 share-ssite
 share. with thank
@@ -28221,6 +28321,7 @@ sledge baseball
 sledge bat
 sledge-baseball
 sledge-bat
+sleepheadphone
 slim plus attract
 slim-plus-attract
 slim-woman
@@ -28301,6 +28402,7 @@ smurf-account
 smurfaccount
 snapback-cap
 snapbacks
+snapchat ++
 snapchat youtube
 snapchat-youtube
 snatch your
@@ -28997,6 +29099,14 @@ sua-mulher
 sua-pagina
 sua-página
 sua-postagem
+sub and fav
+sub and like
+sub and share
+sub and smash
+sub-and-fav
+sub-and-like
+sub-and-share
+sub-and-smash
 subjdct
 subject of this subject
 subject on your blog
@@ -29020,9 +29130,17 @@ submit-higher
 submit-upper
 submit-web
 submitweb
+subscribe and fav
+subscribe and like
+subscribe and share
+subscribe and smash
 subscribe link
 subscribe now!
 subscribe_
+subscribe-and-fav
+subscribe-and-like
+subscribe-and-share
+subscribe-and-smash
 subscribe-link
 subscribelink
 subscription link
@@ -30657,6 +30775,7 @@ tthe main
 tthe other
 ttheme
 ttlink
+tto put
 tube-zzz
 tubee.tv
 tubezzz
@@ -31222,7 +31341,17 @@ uploads_
 uploads-file
 uploadsfile
 upon various buy
+upon your article
+upon your blog
+upon your page
+upon your site
+upon your web
 upon-various-buy
+upon-your-article
+upon-your-blog
+upon-your-page
+upon-your-site
+upon-your-web
 ups thanks
 upseseglype
 upside online
