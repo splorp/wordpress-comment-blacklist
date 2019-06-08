@@ -5404,8 +5404,11 @@ advertising-de-conteúdo
 advertising-market
 advertising-method
 advertising-research
+advice online
 advice-adult
+advice-online
 advice.adult
+adviceonline
 advok
 adwings
 adwokacka
@@ -7576,6 +7579,7 @@ blog which content
 blog wiki
 blog wordpress
 blog world
+blog writer
 blog you write
 blog zaslu
 blog zasłu
@@ -7621,6 +7625,7 @@ blog-web
 blog-wiki
 blog-wordpress
 blog-world
+blog-writer
 blog-you-write
 blog::
 blog..
@@ -11381,6 +11386,9 @@ datingguide
 datingservice
 datingsider
 datingsite
+dau tot nhat
+đâu tốt nhất
+dau-tot-nhat
 daunen weste
 daunen-weste
 daunenweste
@@ -12522,6 +12530,7 @@ encheremax
 enchèremax
 encherisseur
 enchérisseur
+encouirag
 endlaved
 endocrinol meta
 endocrinol-meta
@@ -12922,6 +12931,7 @@ excellent content
 excellent gifts for
 excellent movies clip
 excellent page
+excellent pick-up
 excellent post
 excellent proper
 excellent read!
@@ -12936,6 +12946,7 @@ excellent-blog
 excellent-content
 excellent-gifts-for
 excellent-page
+excellent-pick-up
 excellent-post
 excellent-site
 excellent-task
@@ -14084,6 +14095,7 @@ forcheap
 foreplay tip
 foreplay-tip
 forever thought
+forex dual
 forex forum
 forex halal
 forex islam
@@ -14095,6 +14107,7 @@ forex robot
 forex sign
 forex wealth
 forex_
+forex-dual
 forex-forum
 forex-halal
 forex-islam
@@ -14106,6 +14119,7 @@ forex-robot
 forex-sign
 forex-valu
 forex-wealth
+forexdual
 forexforum
 forexmaster
 forexpeace
@@ -14276,6 +14290,8 @@ free laranita
 free media pro
 free mobile
 free money
+free new year
+free new yr
 free number
 free on-line
 free online
@@ -21657,6 +21673,8 @@ moscowmodel
 most competitively
 most well-liked
 most-competitively
+mostaffordable
+mostcomfortable
 mostcompetitive
 mosteffective
 mostexpensive
@@ -22966,6 +22984,7 @@ old/dress
 old|
 omalizumab
 on few click
+on premises data
 on the internet
 on this blog
 on this web
@@ -22979,6 +22998,8 @@ on-line test
 on-line-certif
 on-line-degree
 on-line-test
+on-premises data
+on-premises-data
 on-the-web
 once-in-a-lifetime
 one %
@@ -24774,6 +24795,7 @@ porn post
 porn pour
 porn preach
 porn prev
+porn priva
 porn scan
 porn search
 porn serch
@@ -24790,6 +24812,7 @@ porn virgin
 porn young
 porn_
 porn-
+porn-priva
 porn.
 porn@
 pornangel
@@ -26604,6 +26627,8 @@ rolex-watch
 rolexmarket
 rolexonline
 rolexwatch
+rolnictwo towarowe
+rolnictwo-towarowe
 rom-galaxy
 rona online
 rona-online
@@ -28382,6 +28407,7 @@ smart-hoverboard
 smartbalance
 smartdrug
 smarthoverboard
+smartly written article
 smeoone
 smith sold
 smith-sold
@@ -28993,11 +29019,15 @@ strategii-binarny
 strategy-for
 stratificat.
 strattera
+stream sporty
+stream stream
 stream-footbal
 stream-fotbal
 stream-futbal
 stream-nfl
 stream-rugby
+stream-sporty
+stream-stream
 stream/footbal
 stream/fotbal
 stream/futbal
@@ -30419,6 +30449,9 @@ to see at here
 to suirf
 to truly
 to you reply
+to your blog
+to your weblog
+to your website
 to-commenting
 to-daylight
 to-gget
@@ -32259,6 +32292,8 @@ wars hack
 wars-cheat
 wars-hack
 warszawa
+warto zakupic
+warto-zakupic
 was ddoing
 wasbusiness
 watch captain
@@ -32429,6 +32464,7 @@ weblog is loading
 weblog layout
 weblog on regular
 weblog post
+weblog using
 weblog visit
 weblog will make
 weblog-for-any
@@ -32465,6 +32501,7 @@ webpage is loading
 webpage it is
 webpage on regular
 webpage post
+webpage using
 webpage visit
 webpage you
 webpage-for-any
@@ -32519,6 +32556,7 @@ website repeated
 website style
 website traff
 website usa
+website using
 website visit
 website was ..
 website was …
@@ -33720,7 +33758,9 @@ youngpoker
 youngporn
 youporn
 your asthma so
+your blog on
 your blog prior
+your blog pro
 your blog seem
 your bloog
 your boxcar
@@ -33760,6 +33800,7 @@ your publish
 your self from
 your sijte
 your site prior
+your site pro
 your site really
 your site seem
 your site..
@@ -33778,13 +33819,17 @@ your video game
 your web page
 your web prior
 your web site
+your weblog on
 your weblog prior
+your weblog pro
 your weblog seem
 your webpage
 your website but
 your website for
 your website it
+your website on
 your website prior
+your website pro
 your website provid
 your website seem
 your website the
