@@ -1240,6 +1240,9 @@ _zapat
 -soft-ware/
 -soma.
 -soma/
+-somehack-
+-somehack.
+-somehack/
 -speed-up-
 -store.
 -store/
@@ -2175,6 +2178,9 @@ _zapat
 .soft-ware-
 .soft-ware.
 .soft-ware/
+.somehack-
+.somehack.
+.somehack/
 .space/astrol
 .space/date
 .space/femme
@@ -3718,6 +3724,9 @@ _zapat
 /soma-
 /soma.
 /soma/
+/somehack-
+/somehack.
+/somehack/
 /special-
 /special.
 /specialprojects-
@@ -11920,13 +11929,22 @@ discountugg
 discountwheel
 discreet apartment
 discreet-apartment
+discuss on the blog
 discuss on the internet
+discuss on the net
+discuss on the page
+discuss over the blog
 discuss over the internet
+discuss over the net
+discuss over the page
 discussing on the blog
 discussing on the internet
 discussing on the net
 discussing on the page
+discussing over the blog
 discussing over the internet
+discussing over the net
+discussing over the page
 discussion made
 discussion-made
 diseases governments
@@ -14279,12 +14297,16 @@ fortemuscle
 forteparafon
 forthcoming post
 forthcoming-post
+fortnite aimbot
 fortnite cheat
 fortnite hack
+fortnite undetect
+fortnite-aimbot
 fortnite-cheat
 fortnite-free
 fortnite-glitch
 fortnite-hack
+fortnite-undetect
 fortnitecheat
 fortnitefree
 fortniteglitch
@@ -15093,6 +15115,7 @@ get more website
 get private
 get snapchat
 get tik tok fan
+get tinder gold
 get tthe
 get_rid
 get_started
@@ -15119,6 +15142,7 @@ get-private
 get-rid-of
 get-sex
 get-the-answer
+get-tinder-gold
 get-translate
 get-widget
 getaloan
@@ -22115,6 +22139,8 @@ mywweb
 myy
 myy sitte
 myy-sitte
+mʏ page
+mʏ pge
 mzt-index
 mztindex
 m谩s
@@ -30533,6 +30559,8 @@ timelines-hack
 times(with
 timesamsonss
 timeshare
+tinder gold free
+tinder-gold-free
 tingenieur
 tinned baked
 tinned-baked
@@ -31424,6 +31452,8 @@ understand it cut
 understood of
 understood-of
 underthe
+undetected aimbot
+undetected-aimbot
 une moncler
 une-moncler
 unemoncler
@@ -31942,9 +31972,11 @@ videnciagratis
 videnciavidente
 video & fav
 video & like
+video & share
 video & sub
 video and fav
 video and like
+video and share
 video and sub
 video asphyx
 video bokep
@@ -32205,6 +32237,7 @@ visit my page
 visit my post
 visit my site
 visit my web
+visit mʏ
 visit this blog
 visit this page
 visit this site
