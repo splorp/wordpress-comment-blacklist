@@ -1686,6 +1686,7 @@ _zapat
 .com wild
 .com,
 .com/,
+.com/#
 .com/%
 .com/1-
 .com/1.
@@ -1693,7 +1694,6 @@ _zapat
 .com/2.
 .com/3-
 .com/3.
-.com/biz
 .com#
 .com0
 .com1
@@ -1705,7 +1705,6 @@ _zapat
 .com7
 .com8
 .com9
-.coms
 .cool-t-shirt-
 .cool-t-shirt.
 .cool-t-shirt/
@@ -1924,6 +1923,7 @@ _zapat
 .myblog.de
 .net,
 .net/,
+.net/#
 .net/%
 .net/1-
 .net/1.
@@ -1931,12 +1931,17 @@ _zapat
 .net/2.
 .net/3-
 .net/3.
-.net/forum-
-.net/forum.
-.net/forum/
-.net/net
-.net/online
-.net/user
+.net#
+.net0
+.net1
+.net2
+.net3
+.net4
+.net5
+.net6
+.net7
+.net8
+.net9
 .newbalance-
 .nike-
 .nl/nl/
@@ -1948,8 +1953,28 @@ _zapat
 .online.pl
 .online.ws
 .or.kr
+.org,
 .org/,
-.org/user
+.org/#
+.org/%
+.org/1-
+.org/1.
+.org/2-
+.org/2.
+.org/3-
+.org/3.
+.org#
+.org0
+.org1
+.org2
+.org3
+.org4
+.org5
+.org6
+.org7
+.org8
+.org9
+.outlet.biz
 .outlet.co
 .page4.
 .ph,
@@ -6368,6 +6393,8 @@ attention grabber
 attention wonderful
 attention-grabber
 attention-wonderful
+attorney seo
+attorney-seo
 attraction market
 attraction-market
 audio song
@@ -7440,6 +7467,7 @@ birrhday
 bisapp
 bishop-knot
 bishopknot
+bit at an era
 bit koin
 bit-koin
 bitartrate
@@ -7827,8 +7855,9 @@ boncopie
 boner_
 boners_
 bonerz
-bong-88
-bong88
+bong online
+bong-online
+bongonline
 bonne copie
 bonne-copie
 bonnecopie
@@ -8350,17 +8379,11 @@ bulgarysshop
 bulgarystore
 bulk clock
 bulk computer
-bulk email
 bulk jewelry
-bulk mail
 bulk-clock
 bulk-computer
-bulk-email
 bulk-jewelry
-bulk-mail
-bulkemail
 bulkjewelry
-bulkmail
 bulky for cumber
 bulky-for-cumber
 bulletproof merced
@@ -10525,42 +10548,10 @@ com-install
 com.asp
 com.com
 com//
-com/author
 com/autocom
-com/bilder
-com/boards
-com/brand
-com/cheap
-com/css
-com/doc
-com/dress
 com/ftp
 com/htm
-com/include
-com/jordans
-com/log
-com/maze
-com/mbt
-com/member
-com/mk
-com/moncler
-com/offic
-com/online
-com/p-aid
-com/page1
-com/page2
-com/pharm
-com/profil
-com/publi
-com/rest
-com/site
 com/smf/ind
-com/tiffany
-com/ugg
-com/user
-com/vuitton
-com/www
-com/ysl
 com%2c
 com0.asp
 com0.cfm
@@ -11946,6 +11937,11 @@ discounts-coupon
 discountt
 discountugg
 discountwheel
+discovered this blog
+discovered this page
+discovered this site
+discovered this weblog
+discovered this website
 discreet apartment
 discreet-apartment
 discuss on the blog
@@ -14994,6 +14990,9 @@ gather utile
 gather-utile
 gathering utile
 gathering-utile
+gau bong dore
+gấu bông dore
+gau-bong-dore
 gawab.com
 gay cartoon
 gay porn
@@ -15140,6 +15139,7 @@ get fastidious
 get fuck
 get know-how
 get more blog
+get more traffic
 get more weblog
 get more webpage
 get more website
@@ -15165,6 +15165,7 @@ get-massive
 get-money-for
 get-more-blog
 get-more-information
+get-more-traffic
 get-more-weblog
 get-more-webpage
 get-more-website
@@ -16115,6 +16116,7 @@ guru1
 gurus1
 guten sex
 guten-sex
+guy travelers is
 guyys
 gyslera
 gⲟ
@@ -16219,6 +16221,7 @@ hackthesec
 hacktool
 hackxyz
 hadheard
+hair complexion
 hair transplant
 hair-again
 hair-grow
@@ -17638,6 +17641,7 @@ informatica-libri
 informaticalibri
 informatik
 information approximate
+information is invaluable
 information is priceless
 information-approximate
 information-seeking prospect
@@ -19370,8 +19374,10 @@ lawoffice.net
 laws symbol
 laws-symbol
 lawyer free
+lawyer seo
 lawyer sex
 lawyer-free
+lawyer-seo
 lawyer-sex
 lawyerfree
 layout look great
@@ -22089,6 +22095,7 @@ my myspace
 my online
 my own blog
 my own web
+my paage
 my page -
 my page –
 my page —
@@ -22097,6 +22104,9 @@ my page 24
 my page firmen
 my page;
 my page:
+my pagee
+my pagge
+my ppage
 my pzge
 my site ..
 my site looks
@@ -22429,9 +22439,6 @@ net-biz
 net-oficial
 net-turtle
 net-viewer
-net/bilder
-net/member
-net/turtle
 netbiz
 nethttp
 netload.in
@@ -23549,9 +23556,6 @@ orderforte
 ordergeneric
 orderparafon
 ordersoma
-org/halkomentar-
-org/log
-org/rest
 organic hemp
 organic seo
 organic-hemp
@@ -24304,6 +24308,7 @@ pdf/chanel
 pdf/prada
 pdf/rolex
 pdfebook
+pece of writing
 pecefrt
 peculiar article
 peculiar-article
@@ -27014,6 +27019,9 @@ runway-dress
 runway-sita
 runwaydress
 runwaysita
+ruou dep
+rượu đẹp
+ruou-dep
 ruproshop
 russian mis
 russian mr
@@ -27611,8 +27619,10 @@ sentienthealth
 senuke vps
 senuke-vps
 senukevps
+seo & marketing
 seo add
 seo and cms
+seo and marketing
 seo barn
 seo blog
 seo comp
@@ -27644,6 +27654,7 @@ seo_
 seo-1337
 seo-add
 seo-and-cms
+seo-and-marketing
 seo-barn
 seo-blog
 seo-comp
@@ -30061,6 +30072,7 @@ telegratuit
 telepon-
 telerealite
 téléréalité
+telhadista-em
 telling everything concern
 tem.p.test
 tem.pt.est
@@ -30181,6 +30193,8 @@ thankyou.cfm
 thankyou.htm
 thankyou.jsp
 thankyou.php
+that gia re
+thất giá rẻ
 that i may subscribe
 that iis
 that isnt
@@ -30189,9 +30203,11 @@ that text is invaluable
 that text is priceless
 that which you sell
 that will uses
+that-gia-re
 that-i-may-subscribe
 that-isnt
 thatattempt
+thatgiare
 thatover
 thatprofit
 thatrapid
@@ -30852,6 +30868,8 @@ too much real
 too thun
 too-thun
 toolkit obtain
+tooth-new
+toothnew
 top advanture
 top article
 top available
@@ -31775,6 +31793,7 @@ users_
 usess it
 usforex
 usinformed
+using guy travel
 using net for post
 using simplexml
 using the cash
@@ -34078,6 +34097,7 @@ you viral
 you want finest
 you wants fine
 you wants to
+you web site
 you won iphone
 you write-up
 you writeup
@@ -34095,6 +34115,7 @@ you-viral
 you-want-finest
 you-wants-fine
 you-wants-to
+you-web-site
 you-write-up
 you-writeup
 you–tube
@@ -34162,6 +34183,7 @@ your page seem
 your penis
 your phone regular
 your porn
+your positions continual
 your post seem
 your posting
 your posts is
