@@ -2720,6 +2720,7 @@ _zapat
 /bisnis-
 /bisnis.
 /bisnis/
+/bit.do
 /bit.ly
 /bitcoin-
 /bitcoin.

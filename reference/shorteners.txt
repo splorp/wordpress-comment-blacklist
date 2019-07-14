@@ -10,6 +10,7 @@
 /ateffa.ms
 /b54.in
 /bbqr.me
+/bit.do
 /bit.ly
 /bitly.co
 /cek.li
