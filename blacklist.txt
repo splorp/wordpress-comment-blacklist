@@ -3094,6 +3094,7 @@ _zapat
 /gold-yukon.
 /gold.
 /goo.gl
+/goo.io
 /good.
 /goose/
 /got.by

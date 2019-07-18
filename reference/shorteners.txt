@@ -29,6 +29,7 @@
 /ge.tt
 /gg.gg
 /goo.gl
+/goo.io
 /got.by
 /gul.ly
 /hfg.cc
