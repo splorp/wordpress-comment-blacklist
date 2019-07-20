@@ -82,7 +82,7 @@ For example, in an earlier version of the blacklist the keyword `::` had been in
 
 *“So much for using Akismet.”*
 
-Thanks to [Mika Epstein](https://github.com/ipstenu), [Paul Goodchild](https://twitter.com/PaulGoodchild), [Sergej Müller](https://github.com/sergejmueller), [Andrew Norcross](https://github.com/norcross), [Claudio Schwarz](https://github.com/purzlbaum), and [Volker Schmidt](https://github.com/volkerjschmidt) for their various contributions, suggestions, and reports from the field.
+Thanks to [Mika Epstein](https://github.com/ipstenu), [Paul Goodchild](https://twitter.com/PaulGoodchild), [Sergej Müller](https://github.com/sergejmueller), [Andrew Norcross](https://github.com/norcross), [Fabrizio Salmi](https://github.com/fabriziosalmi), [Volker Schmidt](https://github.com/volkerjschmidt), and [Claudio Schwarz](https://github.com/purzlbaum) for their various contributions, suggestions, and reports from the field.
 
 Likewise, [Chris Burton](https://chrisburton.me/) deserves a virtual fist bump for the above quote.
 
