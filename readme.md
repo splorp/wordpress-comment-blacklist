@@ -10,7 +10,7 @@ Suggestions and bug reports are certainly appreciated. Please use the [issue tra
 
 **Manual Installation**
 
-Copy the list of keywords found in the [blacklist.txt](https://raw.github.com/splorp/wordpress-comment-blacklist/master/blacklist.txt) file, paste it into the [Comment Blacklist](http://codex.wordpress.org/Combating_Comment_Spam#Comment_Blacklist) field of your WordPress [Discussion Settings](http://codex.wordpress.org/Settings_Discussion_Screen) panel, and click the “Save Changes” button.
+Copy the list of keywords found in the [blacklist.txt](https://raw.githubusercontent.com/splorp/wordpress-comment-blacklist/master/blacklist.txt) file, paste it into the [Comment Blacklist](https://codex.wordpress.org/Combating_Comment_Spam#Comment_Blacklist) field of your WordPress [Discussion Settings](https://wordpress.org/support/article/settings-discussion-screen/) panel, and click the “Save Changes” button.
 
 That’s it.
 
@@ -26,17 +26,17 @@ If you prefer a more hands-off approach, there are several plugins that will che
 
 ## Does It Really Work?
 
-I don’t blame you if you’re skeptical about how well this blacklist works compared to a commercial solution like [Akismet](http://akismet.com/). Because I am subjectively including keywords based on comment spam submitted to my own sites, there is a chance that the blacklist will “overclean” your comment queue.
+I don’t blame you if you’re skeptical about how well this blacklist works compared to a commercial solution like [Akismet](https://akismet.com/). Because I am subjectively including keywords based on comment spam submitted to my own sites, there is a chance that the blacklist will “overclean” your comment queue.
 
 Consider that fair warning.
 
-However, [Jason Cosper](https://github.com/boogah) reports that he used an earlier version of the blacklist on a client’s WordPress installation containing 800,000 or so comments. The blacklist flagged 40% of those comments as “spammy”. As a sanity check, he then exported those flagged comments to a local WordPress install and subsequently had Akismet do its thing. According to Jason, there were [“zero false positives.”](https://twitter.com/boogah/status/292031513590128640)
+However, [Jason Cosper](https://github.com/boogah) reports that he used an earlier version of the blacklist on a client’s WordPress installation containing 800,000 or so comments. The blacklist flagged 40% of those comments as “spammy”. As a sanity check, he then exported those flagged comments to a local WordPress install and subsequently had Akismet do its thing. According to Jason, there were [“zero false positives.”](https://twitter.com/boogah/status/292032803359584256)
 
-Still need convincing? The blacklist was featured over at [WP Daily](http://torquemag.io/torque-and-the-wp-daily-archives/) (now [Torque](http://torquemag.io/)) in [John Saddington](http://john.do/)’s enticingly titled post, [Die Spam! Blacklist That Shiz with This Gist!](http://torquemag.io/comment-blacklist-gist/)
+Still need convincing? The blacklist was featured over at [WP Daily](https://torquemag.io/2013/07/torque-and-the-wp-daily-archives/) (now [Torque](https://torquemag.io/)) in [John Saddington](https://john.do/)’s enticingly titled post, [Die Spam! Blacklist That Shiz with This Gist!](https://torquemag.io/2013/01/comment-blacklist-gist/)
 
 ## Technical Considerations
 
-WordPress stores the contents of the [Comment Blacklist](http://codex.wordpress.org/Combating_Comment_Spam#Comment_Blacklist) setting in the options table as `blacklist_keys`. Defined as a `longtext` [data type](http://dev.mysql.com/doc/en/blob.html), this MySQL column can contain up to 4,294,967,295 bytes (approximately 4GB) of text. There is no chance of us running out of room to expand the blacklist any time soon.
+WordPress stores the contents of the [Comment Blacklist](https://codex.wordpress.org/Combating_Comment_Spam#Comment_Blacklist) setting in the options table as `blacklist_keys`. Defined as a `longtext` [data type](https://dev.mysql.com/doc/refman/8.0/en/blob.html), this MySQL column can contain up to 4,294,967,295 bytes (approximately 4GB) of text. There is no chance of us running out of room to expand the blacklist any time soon.
 
 There has been some talk about storing the `blacklist_keys` option in [an entirely separate table](https://core.trac.wordpress.org/ticket/30932).
 
@@ -44,7 +44,7 @@ There has been some talk about storing the `blacklist_keys` option in [an entire
 
 **URL Shorteners**
 
-As mentioned above, the keywords in the blacklist are based on spam submitted to my own sites. Spammers often utilize the [obscuring capabilities of URL shorteners](http://www.certmag.com/read.php?in=3863) to hide their nefarious links. Therefore, I have included a handful of [URL shortener domains](https://raw.github.com/splorp/wordpress-comment-blacklist/master/shorteners.txt) in the blacklist. For all practical purposes, there’s no need for a comment to include a shortened URL, as unmodified links can be easily formatted using HTML. If you find that your visitors are using shortened URLs on a regular basis, you may wish to remove some or all of [these domains](https://raw.github.com/splorp/wordpress-comment-blacklist/master/shorteners.txt) from the blacklist.
+As mentioned above, the keywords in the blacklist are based on spam submitted to my own sites. Spammers often utilize the [obscuring capabilities of URL shorteners](http://certmag.com/spammers-storm-url-shortening-services/) to hide their nefarious links. Therefore, I have included a handful of [URL shortener domains](https://raw.githubusercontent.com/splorp/wordpress-comment-blacklist/master/reference/shorteners.txt) in the blacklist. For all practical purposes, there’s no need for a comment to include a shortened URL, as unmodified links can be easily formatted using HTML. If you find that your visitors are using shortened URLs on a regular basis, you may wish to remove some or all of [these domains](https://raw.githubusercontent.com/splorp/wordpress-comment-blacklist/master/reference/shorteners.txt) from the blacklist.
 
 **WordPress Links**
 
@@ -67,7 +67,7 @@ The blacklist is not applied against HTML tag attributes found in comments, only
 
 **User Agent Strings**
 
-According to the WordPress [Discussion Settings Screen](http://codex.wordpress.org/Settings_Discussion_Screen) documentation, a comment will be marked spam if any of the [Comment Blacklist](http://codex.wordpress.org/Combating_Comment_Spam#Comment_Blacklist) keywords are found in the comment content, name, URL, email, or IP address fields. Surprisingly, WordPress also applies the blacklist against the [user agent](http://en.wikipedia.org/wiki/User_agent) string.
+According to the WordPress [Discussion Settings Screen](https://wordpress.org/support/article/settings-discussion-screen/) documentation, a comment will be marked spam if any of the [Comment Blacklist](https://codex.wordpress.org/Combating_Comment_Spam#Comment_Blacklist) keywords are found in the comment content, name, URL, email, or IP address fields. Surprisingly, WordPress also applies the blacklist against the [user agent](https://en.wikipedia.org/wiki/User_agent) string.
 
 For example, an earlier version of the blacklist contained the keywords `/4.` and `/5.` to flag URLs with sequentially numbered pages with various file extensions. Unfortunately, these two benign-looking keywords also flagged comments containing common user agent strings, such as `Mozilla/4.0` and `Chrome/5.0`. In other words, nearly every single comment was flagged as spam, regardless of its content or whether the commenter had been previously approved.
 
@@ -86,15 +86,15 @@ Thanks to [Mika Epstein](https://github.com/ipstenu), [Paul Goodchild](https://t
 
 Likewise, [Chris Burton](https://chrisburton.me/) deserves a virtual fist bump for the above quote.
 
-I’d also like to acknowledge [John Hughes](https://themeisle.com/blog/stop-comment-spam-on-wordpress/), [Paul Taubman](http://ineedhelpwithwordpress.com/fight-comment-spam/), [Christina Robinson](http://www.cristinarobinson.net/web/3-ways-combat-spam-wordpress-blog/), [My Brain Lounge](http://mybrainlounge.wordpress.com/2014/09/21/how-i-stopped-wordpress-comment-spam/), [Roger Williams Media](http://rogerwilliamsmedia.com/2014/09/forget-akismet-just-add-github-comment-blacklist/), [eComStyle.de](http://ecomstyle.de/blog/easycontact-einfachere-kontaktaufnahme-zeitgemaesser-spamschutz/), [FliegenToeter](http://fliegentoeter.eu/wordpress-abspecken-cpu-nutzung-minimieren-server-entlasten-ladezeit-verkuerzen/), [WPCoder](http://web.archive.org/web/20150428074751/http://cup.wpcoder.de/wordpress-antispam-guide/), [Nguyễn Đình Quân](http://www.narga.net/stop-wordpress-spam-comments-trackbracks/), and [WP Daily](http://torquemag.io/comment-blacklist-gist/) for mentioning and linking to this project.
+I’d also like to acknowledge [John Hughes](https://themeisle.com/blog/stop-comment-spam-on-wordpress/), [Paul Taubman](http://ineedhelpwithwordpress.com/fight-comment-spam/), [Christina Robinson](https://thelovelygeek.com/3-ways-combat-spam-wordpress-blog/), [My Brain Lounge](https://mybrainlounge.wordpress.com/2014/09/21/how-i-stopped-wordpress-comment-spam/), [Roger Williams Media](https://rogerwilliamsmedia.com/forget-akismet-just-add-github-comment-blacklist/), [eComStyle.de](https://ecomstyle.de/blog/easycontact-einfachere-kontaktaufnahme-zeitgemaesser-spamschutz/), [FliegenToeter](https://fliegentoeter.eu/wordpress-abspecken-cpu-nutzung-minimieren-server-entlasten-ladezeit-verkuerzen/), [WPCoder](https://web.archive.org/web/20150428074751/http://cup.wpcoder.de/wordpress-antispam-guide/), [Nguyễn Đình Quân](https://www.narga.net/stop-wordpress-spam-comments-trackbracks/), and [Torque](https://torquemag.io/2013/01/comment-blacklist-gist/) for mentioning and linking to this project.
 
 ## License
 
 Copyright © 2011–2019 Grant Hutchinson
 
-This project is licensed under the short and sweet [MIT License](http://opensource.org/licenses/MIT). This license allows you to do anything pretty much anything you want with the contents of the repository, as long as you provide proper attribution and don’t hold anyone liable.
+This project is licensed under the short and sweet [MIT License](https://opensource.org/licenses/MIT). This license allows you to do anything pretty much anything you want with the contents of the repository, as long as you provide proper attribution and don’t hold anyone liable.
 
-See the [license.txt](https://raw.github.com/splorp/wordpress-comment-blacklist/master/license.txt) file included in this repository for further details.
+See the [license.txt](https://raw.githubusercontent.com/splorp/wordpress-comment-blacklist/master/license.txt) file included in this repository for further details.
 
 ## History
 
@@ -125,10 +125,10 @@ See the [license.txt](https://raw.github.com/splorp/wordpress-comment-blacklist/
 + 20141124 — Fixed bug that affected [IPv6 localhost addresses](https://github.com/splorp/wordpress-comment-blacklist/commit/5b988691b690595ba2518532b7a90a0b80c6a4f0)
 + 20141115 — 14,000 entries
 + 20141011 — 13,000 entries
-+ 20140911 — Added to the [Combating Comment Spam](http://codex.wordpress.org/Combating_Comment_Spam) section of the WordPress [Codex](http://codex.wordpress.org/)
++ 20140911 — Added to the [Combating Comment Spam](https://codex.wordpress.org/Combating_Comment_Spam) section of the WordPress [Codex](https://codex.wordpress.org/)
 + 20140826 — 12,000 entries
 + 20140624 — 11,000 entries
-+ 20140527 — Added [MIT License](http://opensource.org/licenses/MIT)
++ 20140527 — Added [MIT License](https://opensource.org/licenses/MIT)
 + 20140527 — [WordPress Simple Firewall](https://web.archive.org/web/20140528233831/http://wordpress.org/plugins/wp-simple-firewall/) plugin adds “human spam comment filtering” support
 + 20140508 — 10,000 entries
 + 20140501 — Sergej Müller’s [Blacklist Updater](https://wordpress.org/plugins/blacklist-updater/) plugin released
