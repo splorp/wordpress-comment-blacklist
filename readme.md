@@ -98,6 +98,7 @@ See the [license.txt](https://raw.githubusercontent.com/splorp/wordpress-comment
 
 ## History
 
++ 20190720 — Fixed bug that affected comments containing the common term “[while](https://github.com/splorp/wordpress-comment-blacklist/commit/dc42a98623998d591c426dab2a05c0780088b3a5)”
 + 20190420 — 35,000 entries
 + 20190212 — 34,000 entries
 + 20190107 — 33,000 entries
