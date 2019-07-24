@@ -1364,7 +1364,6 @@ _zapat
 -wayfarer/
 -web-pag
 -web-page
--web-site
 -webhost.
 -webhost/
 -website-
@@ -5210,6 +5209,7 @@ addidas
 adding-links-and
 addition best
 addition currently
+addition fun tip
 addition reason
 addition-best
 addition-curren
@@ -7668,6 +7668,8 @@ blog-world
 blog-writer
 blog-you-write
 blog::
+blog:quan
+blog:quần
 blog..
 blog…
 blog.best
@@ -7905,7 +7907,6 @@ boot get
 boot online
 boot oxford
 boot queen
-boot sale
 boot schwei
 boot store online
 boot stores online
@@ -7915,7 +7916,6 @@ boot-get
 boot-online
 boot-oxford
 boot-queen
-boot-sale
 boot-schwei
 boot-store-online
 boot-stores-online
@@ -7928,7 +7928,6 @@ bootoxford
 bootqueen
 boots online
 boots oxford
-boots sale
 boots schwei
 boots ugg
 boots uk
@@ -7938,11 +7937,9 @@ boots-online
 boots-oxford
 boots-queen
 boots-retail
-boots-sale
 boots-schwei
 boots-ugg
 boots-uk
-bootsale
 bootschwei
 bootsget
 bootsinschwei
@@ -13016,6 +13013,7 @@ examjple
 example1.co
 exboyfriend
 excedllent
+exceeded my desire
 exceel
 excelent
 excellent article
@@ -20637,17 +20635,11 @@ markerdude
 markergaul
 market exchange
 market online
-market prices
-market pricing
-market research
 market samurai
 market xchange
 market your vid
 market-exchange
 market-online
-market-prices
-market-pricing
-market-research
 market-samurai
 market-xchange
 market.financ
@@ -22051,6 +22043,7 @@ music viral
 music-viral
 musical tv show
 musicviral
+must be pay
 must click blog
 must click link
 must click post
@@ -22154,9 +22147,7 @@ my web …
 my web log
 my web page
 my web site
-my web-log
 my web-page
-my web-site
 my web;
 my web:
 my web..
@@ -22190,7 +22181,6 @@ my-sitte
 my-ssite
 my-virus
 my-wallet-is
-my-web-site
 my-webb
 my-weblog
 my-weblog-is
@@ -23138,6 +23128,7 @@ of essay writing
 of herpes
 of internet
 of manies
+of of the
 of on your blog
 of on your page
 of on your site
@@ -25598,7 +25589,6 @@ producer excellent
 producer-excellent
 producing provider
 producing-provider
-product
 product hermes
 product_
 product-hermes
@@ -27063,6 +27053,7 @@ russian mr
 russian ms
 russian mulberry
 russian stalker
+russian-army-good
 russian-mis
 russian-mr
 russian-ms
@@ -28980,6 +28971,7 @@ some %
 some coinage
 some functionalitie
 some ideas are new
+some one desire
 some one search
 some onee
 some real interest
@@ -29649,6 +29641,8 @@ suhagra-100
 suhagra24
 suhagra100
 suirf to
+suit vkbo
+suit-vkbo
 sumatriptan
 summer coach
 summer-coach
@@ -32213,8 +32207,10 @@ video & fav
 video & like
 video & share
 video & sub
+video and comment!
 video and fav
 video and like
+video and save!
 video and share
 video and sub
 video asphyx
@@ -32352,6 +32348,7 @@ viencare
 vietnam-visa
 vietnamvisa
 vietthanhbien
+view private insta
 view_
 view-article
 view-blog
@@ -33127,13 +33124,9 @@ weekly.in
 weeklyincome
 weeklyprofit
 weelhtiar
-weight gain
-weight loss
 weight natur
 weight work
 weight-101
-weight-gain
-weight-loss
 weight-natur
 weight-work
 weight101
@@ -33251,7 +33244,6 @@ which website platform
 which-is-depress
 which-will-save
 whichpag
-while
 white hermes
 white nfl
 white-hermes
@@ -34210,7 +34202,6 @@ you-viral
 you-want-finest
 you-wants-fine
 you-wants-to
-you-web-site
 you-write-up
 you-writeup
 you–tube
