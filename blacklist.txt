@@ -6038,7 +6038,10 @@ are added-
 are desirous
 are fastidious
 are pround
+are travel good
+are travel with
 are truly good
+are truly with
 are-desirous
 are-fastidious
 are-pround
@@ -8482,6 +8485,8 @@ but this blog
 but this page
 but this site
 but this web
+butik otel
+butik-otel
 butikk
 butnow
 butthe
@@ -8543,6 +8548,8 @@ buy traff
 buy trusted
 buy twitter
 buy women
+buy you tube
+buy your tote
 buy youtube
 buy-acrylic
 buy-albendazole
@@ -8599,6 +8606,7 @@ buy-traff
 buy-trusted
 buy-twitter
 buy-women
+buy-you-tube
 buy-youtube
 buy.top
 buyalbenza
@@ -9806,6 +9814,7 @@ cheat-sako
 cheat-web
 cheat.co
 cheat.web
+cheated throughout flow
 cheatmaster
 cheatmobile
 cheats for
@@ -17508,12 +17517,14 @@ in this site
 in this weblog
 in this website
 in tthe
+in you tube
 in youtube
 in-delicious
 in-disguise
 in-gogle
 in-google
 in-skilled
+in-you-tube
 in-your-instagram
 in-youtube
 in' tremendous
@@ -18168,6 +18179,7 @@ it ordenó
 it potency
 it rite
 it truly
+it wwas
 it-duvet
 it-oakley
 it-ordeno
@@ -22107,10 +22119,19 @@ muzyczny
 my apple iphone
 my bebo
 my bitcoin
+my blg -
+my blg –
+my blg —
+my blg ;
+my blg :
+my blg;
+my blg:
 my blo look
 my blog -
 my blog –
 my blog —
+my blog ;
+my blog :
 my blog audience
 my blog fer
 my blog is
@@ -22121,6 +22142,11 @@ my blog;
 my blog:
 my blopg
 my boog -
+my boog –
+my boog —
+my boog ;
+my boog :
+my boog;
 my boog:
 my boog..
 my bookmarks
@@ -22151,11 +22177,18 @@ my pagee
 my pagge
 my ppage
 my pzge
+my site ;
+my site :
 my site ..
 my site looks
 my site;
 my site:
 my sitee
+my sitte -
+my sitte –
+my sitte —
+my sitte ;
+my sitte :
 my sitte ..
 my sitte looks
 my sitte;
@@ -22182,7 +22215,6 @@ my webb
 my weblg
 my weblog
 my webpage
-my website
 my welog
 my wweb
 my-bebo
@@ -23284,8 +23316,17 @@ omalizumab
 on few click
 on premises data
 on the internet
+on these article
+on these blog
+on these post
+on these weblog
+on these webpage
+on this article
 on this blog
+on this post
 on this web
+on this weblog
+on this webpage
 on thjis
 on tnis
 on tthe
@@ -24438,8 +24479,10 @@ people about this topic
 people for this topic
 people news
 people since people
+people you tube
 people youtube
 people-news
+people-you-tube
 people-youtube
 peopleand
 pequena empresa
@@ -25985,6 +26028,7 @@ pussyfuck
 pussylick
 pussyporn
 pussywet
+put tthe
 puzzel band
 puzzel jewel
 puzzel maker
@@ -26379,7 +26423,9 @@ recipes michelin
 recipes name
 recipes-michelin
 recipes-name
+recognize you tube
 recognize youtube
+recognized you tube
 recognized youtube
 recommend internet
 recommend this blog
@@ -26842,12 +26888,15 @@ review my web
 review online edit
 review site
 review website
+review you tube
 review-best
 review-on
 review-sale
 review-site
 review-source
 review-website
+review-you-tube
+review-youtube
 review.asp
 review.bl
 review.cfm
@@ -26859,11 +26908,13 @@ reviewbest
 reviewon
 reviews best
 reviews online
+reviews you tube
 reviews youtube
 reviews-best
 reviews-on
 reviews-online
 reviews-today
+reviews-you-tube
 reviews-youtube
 reviews.asp
 reviews.bl
@@ -28800,7 +28851,9 @@ smurfaccount
 snapback-cap
 snapbacks
 snapchat ++
+snapchat you tube
 snapchat youtube
+snapchat-you-tube
 snapchat-youtube
 snatch your
 sneaker greece
@@ -30427,6 +30480,7 @@ themes-sale
 themesforwindows
 theraapy
 there admin
+there wwas
 there-admin
 thereadmin
 therealest
@@ -31891,8 +31945,10 @@ us informed
 us-informed
 us.please
 us/profil
+usa you tube
 usa youtube
 usa-best
+usa-you-tube
 usa-youtube
 usabest
 usage of movie
@@ -32291,6 +32347,8 @@ video vue
 vidéo vue
 video xblog
 video xxx
+video you tube
+vidéo you tube
 video youtube
 vidéo youtube
 video-asphyx
@@ -32318,6 +32376,8 @@ video-vue
 vidéo-vue
 video-xblog
 video-xxx
+video-you-tube
+vidéo-you-tube
 video-youtube
 vidéo-youtube
 video?this
@@ -32350,6 +32410,8 @@ vidéos view
 videos vue
 vidéos vue
 videos xblog
+videos you tube
+vidéos you tube
 videos youtube
 vidéos youtube
 videos-buzz
@@ -32362,6 +32424,8 @@ vidéos-view
 videos-vue
 vidéos-vue
 videos-xblog
+videos-you-tube
+vidéos-you-tube
 videos-youtube
 vidéos-youtube
 videos.asp
@@ -33455,6 +33519,7 @@ wild-star
 will book mark
 will book-mark
 will hemp
+will look pertain
 will-book-mark
 will-hemp
 will-save-you
@@ -34249,6 +34314,7 @@ you won iphone
 you write-up
 you writeup
 you youngsters are
+you_tube
 you-article
 you-book-mark
 you-bookmarked
@@ -34855,6 +34921,8 @@ zyvox
 бот термин
 бот-термин
 брелки
+бутик отел
+бутик-отел
 быстро!
 валка деревьев
 валка-деревьев
