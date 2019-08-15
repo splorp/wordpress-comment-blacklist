@@ -1044,6 +1044,9 @@ _zapat
 -party-boat-
 -party-boat/
 -payday-
+-phan-biet-
+-phan-biet.
+-phan-biet/
 -pharmacy-
 -pharmacy.
 -pharmacy/
@@ -1963,6 +1966,9 @@ _zapat
 .ph/top
 .ph/user
 .ph#
+.phan-biet-
+.phan-biet.
+.phan-biet/
 .pharmacy-
 .pharmacy.
 .pharmacy/
@@ -3494,6 +3500,9 @@ _zapat
 /parafon/
 /party-boat-
 /past.is
+/phan-biet-
+/phan-biet.
+/phan-biet/
 /pharmacy-
 /pharmacy.
 /pharmacy/
@@ -4853,6 +4862,12 @@ a few web
 a ffew
 a final results
 a http
+a impressive article
+a impressive blog
+a impressive page
+a impressive site
+a impressive story
+a impressive web
 a leisure account
 a ll these
 a lot lots
@@ -5768,6 +5783,9 @@ amenity-provider
 america mineiro
 america-mineiro
 ametuer
+amina mart
+amina-mart
+aminamart
 amino care
 amino-care
 aminocare
@@ -6002,6 +6020,7 @@ app.lk
 app.php
 appear conseq
 appear-conseq
+appears like blog
 apple really …
 apple wedding
 apple-unlock
@@ -8689,6 +8708,7 @@ buyinginsta
 buyinglikes
 buyingrune
 buyingtraff
+buyiny
 buyjap
 buyjord
 buyjp
@@ -8956,6 +8976,7 @@ candy-crash
 candy-crush
 candycrash
 candycrush
+cann also
 cann't
 cann’t
 cannabis buy
@@ -10008,12 +10029,15 @@ chik-casino
 chik-cassino
 chikcasino
 chikcassino
+child escort
 child pantie
 child panty
 child porn
+child-escort
 child-pantie
 child-panty
 child-porn
+childescort
 childpantie
 childpanty
 childporn
@@ -10493,6 +10517,14 @@ cock hero
 cock-battle
 cock-hero
 cockhero
+cocuk isteyen
+cocuk pazar
+cocuk porn
+cocuk-isteyen
+cocuk-pazar
+cocuk-porn
+cocukpazar
+cocukporn
 code coupon
 code generat
 code promo
@@ -12944,11 +12976,13 @@ es.iodress
 es/content
 escitalopram
 escort bayan
+escort cocuk
 escort google
 escort ilan
 escort zone
 escort_
 escort-bayan
+escort-cocuk
 escort-google
 escort-ilan
 escort-zone
@@ -13425,6 +13459,7 @@ family motor vehicle
 family-motor-vehicle
 famous blog
 famous palmist
+famous social network
 famous-blog
 famous-palmist
 fanalert
@@ -15749,6 +15784,7 @@ google bind
 google click
 google for-
 google gain
+google hack
 google have a
 google high
 google java
@@ -15762,6 +15798,7 @@ google_
 google-bind
 google-click
 google-gain
+google-hack
 google-high
 google-java
 google-keyword
@@ -15770,6 +15807,7 @@ google-rank
 google-solution
 google-us
 googlebind
+googlehack
 googlehigh
 googleing
 googlejava
@@ -15902,6 +15940,9 @@ got idea
 got much clear
 got typed the
 got-idea
+gotcu ibne
+götcü ibne
+gotcu-ibne
 gotowkowa
 gotowkowe
 gowatchs
@@ -18882,6 +18923,7 @@ juniors-kid
 junk jewelry
 junk-jewelry
 junkjewelry
+jus because
 just cetirizine
 just saying you
 just wanna
@@ -24552,6 +24594,8 @@ paysafecard exchang
 paysafecard instant
 paysafecard-exchang
 paysafecard-instant
+pazarlayan pezevengin
+pazarlayan-pezevengin
 pbrolme
 pc access
 pc game free
@@ -25356,6 +25400,7 @@ porn scan
 porn search
 porn serch
 porn sex
+porn site
 porn stack
 porn star
 porn stream
@@ -25369,6 +25414,7 @@ porn young
 porn_
 porn-
 porn-priva
+porn-site
 porn.
 porn@
 pornangel
@@ -25402,11 +25448,13 @@ porno pic
 porno pop
 porno pour
 porno sex
+porno site
 porno stream
 porno tube
 porno vid
 porno_
 porno-
+porno-site
 porno.
 porno@
 pornocomic
@@ -25422,6 +25470,7 @@ pornos-
 pornos.
 pornos@
 pornosex
+pornosite
 pornotube
 pornovid
 pornphoto
@@ -25433,6 +25482,9 @@ pornpreach
 pornscan
 pornsearch
 pornsex
+pornsi escort
+pornsi-escort
+pornsite
 pornstack
 pornstar
 pornstream
@@ -27925,6 +27977,7 @@ sellnow
 send earn
 send-earn
 sendflowers
+sense bravo
 sensitjze
 sensual massage
 sensual_
@@ -28876,6 +28929,8 @@ sites luke
 sites really nice
 sites-and-blogs
 sites24
+sitesi tıkla
+sitesi-tıkla
 siteuffic
 siteweb
 sito offic
@@ -34562,6 +34617,7 @@ you book mark
 you book-mark
 you bookmarked
 you ccan
+you certain concern
 you could wished
 you effectiveness
 you gucci
