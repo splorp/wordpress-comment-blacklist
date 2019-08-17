@@ -2331,6 +2331,7 @@ _zapat
 .zzz.
 。ｃoｍ
 " dildo
+«link»
 «комбо»
 (buzzfeed)
 (linkedin)
@@ -5912,7 +5913,10 @@ angleina jolie
 angleina-jolie
 anilinovyye kraski
 anilinovyye-kraski
+animal porn
+animal-porn
 animalbased
+animalporn
 animated porn
 animated-porn
 animatedporn
@@ -6185,7 +6189,7 @@ article-tag
 article-writing
 article-you-write
 article,i
-article!
+article?.
 article.asp
 article.cfm
 article.co
@@ -6231,7 +6235,7 @@ articles-study
 articles-sub
 articles-tag
 articles,i
-articles!
+articles?.
 articles.asp
 articles.cfm
 articles.co
@@ -8931,6 +8935,7 @@ can?t
 can''t
 can’’t
 can”t
+can`t
 canada drug
 canada hgh
 canada loan
@@ -10914,6 +10919,8 @@ content seems agreed
 content-content
 content-download
 content-material
+content?.
+contents?.
 continually have got
 continue assim
 continue-assim
@@ -12256,6 +12263,11 @@ dominopoker
 dominoq
 don think
 don-think
+don?t
+don''t
+don’’t
+don”t
+don`t
 dondash
 done gratefulness
 dong-max
@@ -17562,6 +17574,7 @@ i’m will soon
 i’mnot
 i’v got
 i”ll
+i`ll
 i2g
 ia€?ll
 iamimport
@@ -18364,6 +18377,7 @@ isn?t
 isn''t
 isn’’t
 isn”t
+isn`t
 isnt
 isotretinoine
 isseo
@@ -18409,6 +18423,7 @@ it’s amazing article
 it’s enormous piece
 it’snot
 it”s
+it`s
 italia scarpe
 italia-scarpe
 italiascarpe
@@ -22315,6 +22330,11 @@ must-click-post
 must-click-video
 must-koi
 mustlook
+mustn?t
+mustn''t
+mustn’’t
+mustn”t
+mustn`t
 mutuelle sante
 mutuelle-sante
 mutuelles sante
@@ -28758,6 +28778,11 @@ should-statement
 shoulder tote
 shoulder-tote
 shouldertote
+shouldn?t
+shouldn''t
+shouldn’’t
+shouldn”t
+shouldn`t
 show_
 show-news
 show-topic
@@ -33550,6 +33575,7 @@ websitenet
 websiteonline
 websitepost
 websiterecord
+websites article
 websites as friend
 websites design
 websites easily
@@ -34038,6 +34064,7 @@ won?t
 won''t
 won’’t
 won”t
+won`t
 wonblog
 wondeful
 wonder concept
@@ -34225,6 +34252,7 @@ wouldn?t
 wouldn''t
 wouldn’’t
 wouldn”t
+wouldn`t
 wow because
 wow cuz
 wow just
@@ -34710,6 +34738,8 @@ you’re info
 you’re sill
 you”ll
 you”re
+you`ll
+you`re
 youcanwear
 youd
 yougucci
