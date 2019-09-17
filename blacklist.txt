@@ -1423,12 +1423,12 @@ _zapat
 ,|
 ,ag
 ,an
-,co science
+,co
 ,en
-,great job
+,gr
 ,he
 ,in
-,iq science
+,iq
 ,ka
 ,m,
 ,me
@@ -7692,6 +7692,7 @@ blog a menudo
 blog based
 blog beast
 blog before
+blog best
 blog blog
 blog center
 blog centre
@@ -7752,6 +7753,7 @@ blog_
 blog-based
 blog-beast
 blog-before
+blog-best
 blog-blog
 blog-center
 blog-centre
@@ -7819,6 +7821,7 @@ blog/view
 blog1
 blogbased
 blogbeast
+blogbest
 blogblog
 blogdiet
 blogentry
@@ -15097,6 +15100,7 @@ full-length-movie
 full-movie
 full.com/watch
 full4k
+fullhd
 fullmovie
 fulmalware
 fun-sneak
@@ -16249,10 +16253,9 @@ grayson bag
 grayson-bag
 graysonbag
 great acknow
+great article
 great bet
-great blog roll
-great blog you
-great blogroll
+great blog
 great doc
 great e-book
 great ebook
@@ -16555,11 +16558,11 @@ hack cheat
 hack cydia
 hack diamante
 hack diamond
-hack facebook
+hack face
 hack fb
 hack fire
-hack free fire
-hack gears pop
+hack free
+hack gear
 hack generat
 hack get
 hack glitch
@@ -16596,8 +16599,8 @@ hack-facebook
 hack-fb
 hack-fire
 hack-fortnite
-hack-free-fire
-hack-gears-pop
+hack-free
+hack-gear
 hack-gem
 hack-generat
 hack-get
@@ -16635,6 +16638,8 @@ hackeer
 hacker_
 hackface
 hackfb
+hackfree
+hackgear
 hackgem
 hacking_
 hackinstant
@@ -24988,6 +24993,11 @@ pece of writing
 pecefrt
 peculiar article
 peculiar-article
+pedaco capitulo
+pedaço capitulo
+pedaco-capitulo
+pedao captulo
+pedao-captulo
 pedigree: proficien
 pedophile gratuit
 pédophile gratuit
@@ -26104,7 +26114,7 @@ prematureejac
 premium anti
 premium cig
 premium digit
-premium dignit
+premium digni
 premium free
 premium key
 premium out
@@ -26112,7 +26122,7 @@ premium-account
 premium-anti
 premium-cig
 premium-digit
-premium-dignit
+premium-digni
 premium-free
 premium-key
 premium-out
@@ -26121,7 +26131,7 @@ premiumaccount
 premiumanti
 premiumcig
 premiumdigit
-premiumdignit
+premiumdigni
 premiumfree
 premiumkey
 premiumout
@@ -30978,6 +30988,10 @@ telegratuit
 telepon-
 telerealite
 téléréalité
+televisao-full
+televisaofull
+television-full
+televisionfull
 telhadista-em
 telling everything concern
 tem.p.test
@@ -33708,22 +33722,30 @@ warto-zakupic
 was ddoing
 wasbusiness
 watch ad as
+watch captain
 watch full length
+watch happy
 watch hdonline
 watch instant
+watch miss
 watch movie
 watch now online
 watch replica
 watch seiko
 watch this site
+watch ugly
+watch vid
 watch-full-length
+watch-happy
 watch-hdonline
 watch-instant
+watch-miss
 watch-movie
 watch-quartz
 watch-replica
 watch-seiko
 watch-this-site
+watch-ugly
 watch-vid
 watches quartz
 watches replica
@@ -33736,6 +33758,7 @@ watchmiss
 watchquartz
 watchreplica
 watchseiko
+watchugly
 watchwrestling
 water-weight
 waterprrof
