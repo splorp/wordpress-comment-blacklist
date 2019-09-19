@@ -288,8 +288,13 @@ _www
 _xxx
 _youtube
 _zapat
+--acc
+--acti
 --and
 --bag
+--crack
+--hack
+--insta
 --jack
 --of
 --phone
@@ -297,6 +302,7 @@ _zapat
 --shut
 --stor
 --that
+--user
 -(
 -+.
 -=
@@ -5179,11 +5185,15 @@ achat médica
 achat-medica
 achat-médica
 acheter air
+acheter base
 acheter dolce
 acheter sac
 acheter-air
+acheter-base
 acheter-dolce
 acheter-sac
+acheterair
+acheterbase
 acheterdolce
 achetersac
 achieve consume
@@ -5809,12 +5819,16 @@ amazing-sex
 amazing-videos
 amazingsex
 amazn.co
+amazon lider
+amazon-lider
 amazon.asp
 amazon.cfm
 amazon.cm
 amazon.htm
 amazon.jsp
 amazon.php
+amazone lider
+amazone-lider
 ambalaje cofetar
 ambalaje plastic
 ambalaje-cofetar
@@ -14534,6 +14548,7 @@ for thhe
 for this article
 for this blog
 for this web
+for wonderful information
 for yolur
 for your article
 for_business
@@ -16013,6 +16028,7 @@ google high
 google java
 google keyword
 google mapa
+google porn
 google rank
 google saya
 google solution
@@ -16026,6 +16042,7 @@ google-high
 google-java
 google-keyword
 google-mapa
+google-porn
 google-rank
 google-solution
 google-us
@@ -16034,6 +16051,7 @@ googlehack
 googlehigh
 googleing
 googlejava
+googleporn
 googlerank
 googlesolution
 googleus
@@ -18116,6 +18134,7 @@ informatica-libri
 informaticalibri
 informatik
 information approximate
+information for my mission
 information is invaluable
 information is priceless
 information-approximate
@@ -19656,6 +19675,9 @@ kostenlos-generie
 kostenlos-sex
 kosze
 kpkfprbrq
+kraft hypnose
+kraft-hypnose
+krafthypnose
 krakow ceny
 kraków ceny
 krakow-ceny
@@ -24267,6 +24289,7 @@ our-link
 ourlink
 out assim
 out my blog
+out seems to be
 out soime
 out the journey
 out-assim
@@ -25748,6 +25771,7 @@ porn dairy
 porn diary
 porn ebony
 porn escort
+porn evi
 porn eye
 porn free
 porn galler
@@ -25791,6 +25815,7 @@ porn wyna
 porn young
 porn_
 porn-
+porn-evi
 porn-priva
 porn-site
 porn-wyna
@@ -25803,6 +25828,7 @@ porncomic
 porndairy
 porndiary
 pornebony
+pornevi
 porneye
 porngaller
 porngay
@@ -25818,6 +25844,7 @@ pornmobile
 pornmodel
 pornmovie
 porno comic
+porno evi
 porno girl
 porno gratuit
 porno gyrl
@@ -25834,11 +25861,13 @@ porno tube
 porno vid
 porno_
 porno-
+porno-evi
 porno-izle
 porno-site
 porno.
 porno@
 pornocomic
+pornoevi
 pornogirl
 pornogratuit
 pornogyrl
@@ -34486,6 +34515,10 @@ withdrawal!
 withher
 withhim
 within thee
+within your blog
+within your page
+within your post
+within your site
 without invest
 without prescript
 without ya!
@@ -34812,6 +34845,7 @@ write my essay
 write my paper
 write news title
 write subsequent
+write the e-book
 write-a-protocol
 write-any-article
 write-any-essay
@@ -34857,6 +34891,7 @@ writingessay
 writinghelper
 writingpaper
 writingserv
+wrote the e-book
 wtf brand
 wtf florida
 wtf people
