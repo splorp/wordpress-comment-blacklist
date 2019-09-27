@@ -98,6 +98,7 @@ See the [license.txt](https://raw.githubusercontent.com/splorp/wordpress-comment
 
 ## History
 
++ 20190926 — Refactored [generic terms containing underscores](https://github.com/splorp/wordpress-comment-blacklist/commit/10afaf88e3995e3336c8d2688c4dfc8901779a0a) to better handle valid wiki links
 + 20190915 — 37,000 entries
 + 20190726 — 36,000 entries
 + 20190721 — Fixed bug that affected comments containing the common term “[product](https://github.com/splorp/wordpress-comment-blacklist/commit/1e6264186298ff8f573c4401d7fe10aa70f5917f)”
