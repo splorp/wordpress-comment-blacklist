@@ -7839,6 +7839,7 @@ bloggerlove
 bloggers, business
 blogging glance
 blogging look
+blogging user
 blogging visit
 blogging-glance
 blogging-look
@@ -8286,6 +8287,7 @@ brand mlb
 brand nba
 brand nfl
 brand nhl
+brand sale
 brand top
 brand wto
 brand-baseball
@@ -8299,6 +8301,7 @@ brand-mlb
 brand-nba
 brand-nfl
 brand-nhl
+brand-sale
 brand-top
 brand-wto
 brandengage
@@ -8310,6 +8313,7 @@ brands top
 brands-jap
 brands-jp
 brands-top
+brandsale
 brandsjap
 brandsjp
 brandwto
@@ -9371,6 +9375,9 @@ catering expert
 catering solution
 catering-expert
 catering-solution
+cau hinh toi
+cấu hình tối
+cau-hinh-toi
 cavin-klein
 cavinklein
 cazino_
@@ -11078,6 +11085,10 @@ contents?.
 continually have got
 continue assim
 continue-assim
+continuously this blog
+continuously this page
+continuously this site
+continuously this web
 continuuous
 contoh plakat
 contoh-plakat
@@ -12179,6 +12190,7 @@ discount afl
 discount anta
 discount bag
 discount jord
+discount kratom
 discount mbt
 discount mulberry
 discount nba
@@ -12194,6 +12206,7 @@ discount-anta
 discount-bag
 discount-cig
 discount-jord
+discount-kratom
 discount-mbt
 discount-north
 discount-reebok
@@ -12232,6 +12245,7 @@ discuss on the blog
 discuss on the internet
 discuss on the net
 discuss on the page
+discuss on the web
 discuss over the blog
 discuss over the internet
 discuss over the net
@@ -12240,10 +12254,12 @@ discussing on the blog
 discussing on the internet
 discussing on the net
 discussing on the page
+discussing on the web
 discussing over the blog
 discussing over the internet
 discussing over the net
 discussing over the page
+discussing over the web
 discussion made
 discussion-made
 diseases governments
@@ -12682,6 +12698,7 @@ dunhill-fine
 dunhill-menthol
 dunhill/dunhill
 dunjakke
+duplicate your wii
 durant shoe
 durant-shoe
 duvetica aristeo
@@ -17995,6 +18012,8 @@ immobilierlux
 implanty
 impoirtant
 imporrtant
+import game off
+import games off
 important be know
 important infos
 important-in-2018
@@ -19738,7 +19757,9 @@ kraków ceny
 krakow-ceny
 krasivaya devushka
 krasivaya-devushka
+kratom legal
 kratom sale
+kratom-legal
 kratom-sale
 kratomsale
 kreatif membuat
@@ -20035,11 +20056,13 @@ leg-wear
 legal bud
 legal cash
 legal hack
+legal kratom
 legal porn
 legal steroid
 legal-bud
 legal-cash
 legal-hack
+legal-kratom
 legal-porn
 legal-steroid
 legalbud
@@ -20862,6 +20885,7 @@ luxottica ray
 luxottica-ray
 luxotticaray
 luxreplica
+luxury brand
 luxury chanel
 luxury watch
 luxury-brand
@@ -23915,6 +23939,8 @@ offizielleweb
 offiziellweb
 ofhuman
 oficery
+oficialniy sayt
+oficialniy-sayt
 ofnews
 ogrodowyparasol
 ogrodowypokrowi
@@ -24571,35 +24597,41 @@ page gives pleasant
 page is fastidious
 page is invaluable
 page is priceless
+page link
 page on facebook
 page on instagram
+page on snapchat
+page on twitter
 page regularly
 page scrape
 page through google
 page-cryptocurrency
+page-link
 page-on-facebook
 page-on-instagram
+page-on-snapchat
+page-on-twitter
 page-regularly
 page-scrape
 page.best
 page.tl
+page/link
 page/pag
-page/page
 page/pg
 page/view
 pageed
 pageeed
+pagelink
 pages phone
 pages scrape
 pages-phone
 pages-scrape
-pages/default.asp
-pages/default.htm
-pages/default.jsp
+pages/link
 pages/more
-pages/page
+pages/pag
 pages/view
 pagescrape
+pagess/pg
 pagesscrape
 pagina web
 página web
@@ -25784,6 +25816,7 @@ popular-brand
 popular-teenage
 popularna
 popularną markę
+popuoar
 por tu blog
 por tu site
 por um blog
@@ -26854,6 +26887,7 @@ questões de concur
 questoes-de-concur
 queue boost
 queue-boost
+quicckly
 quick fast
 quick loans
 quick-clean-pro
@@ -28418,6 +28452,7 @@ sehmale-porn
 sehmale-sex
 sehmale-vid
 seikomise
+seize your rss
 seks child
 seks porn
 seks-child
@@ -29924,6 +29959,7 @@ specialty-transfer
 specialtytransfer
 specific gift
 specific-gift
+specifucally
 spedified
 speed proxi
 speed proxy
@@ -35433,6 +35469,8 @@ your website pro
 your website provid
 your website seem
 your website the
+your wii game
+your wii will
 your-account
 your-blog
 your-bloog
@@ -35922,6 +35960,9 @@ zyvox
 валка-деревьев
 вариантов дизайна несколько
 вас сайт!
+ваш e-mail
+ваш email
+ваш-email
 вашего бизнеса
 вашего-бизнеса
 ваши специал
@@ -36217,6 +36258,8 @@ zyvox
 многое-другое
 многолетним опытом
 многолетним-опытом
+мобильное прилож
+мобильное-прилож
 можно дешевле
 можно-дешевле
 мойка авто
@@ -36299,6 +36342,8 @@ zyvox
 открыть сайт
 открыть-сайт
 отличные
+официальный сайт
+официальный-сайт
 официальных
 оформить груз
 оформить сайт
@@ -36380,8 +36425,6 @@ zyvox
 прикольные поздрав
 прикольные-поздрав
 приобрести
-приобрести недви
-приобрести-недви
 причина пад
 причина-пад
 проверим документ
