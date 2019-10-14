@@ -277,6 +277,9 @@ _zapat
 -adsense-
 -adsense.
 -adsense/
+-advertising-of-
+-advertising-of.
+-advertising-of/
 -airmax-
 -airmax.
 -airmax/
@@ -1457,6 +1460,9 @@ _zapat
 .adboard
 .adsboard
 .adultnet.
+.advertising-of-
+.advertising-of.
+.advertising-of/
 .aioblogs.
 .airmax-
 .airmax.
@@ -2305,6 +2311,7 @@ _zapat
 @gmai.
 @goohle.
 @local.
+@m4il
 @ma1l
 @mai1
 @mail-
@@ -2315,6 +2322,7 @@ _zapat
 @yahoo.a.
 *@
 / http
+/_blog
 /_t
 /-_
 /?a
@@ -2547,6 +2555,9 @@ _zapat
 /adorable.
 /ads/
 /adult.xyz
+/advertising-of-
+/advertising-of.
+/advertising-of/
 /affordable-
 /affordable.
 /airmax-
@@ -4839,6 +4850,10 @@ a leisure account
 a ll these
 a lot for sharing
 a lot lots
+a lot this blog
+a lot this page
+a lot this site
+a lot this web
 a lots
 a nice for me
 a pleasant think
@@ -5023,6 +5038,12 @@ able web pro
 able-web-pro
 ablewebpro
 ablpe to
+abonnez commente
+abonnez et commente
+abonnez et like
+abonnez et partage
+abonnez like
+abonnez partage
 about blog
 about marijuana
 about on the blog
@@ -5727,6 +5748,10 @@ allworkhome
 alone place
 alone-place
 alongamentodecilios
+alot this blog
+alot this page
+alot this site
+alot this web
 alpha-hoverboard
 alphahoverboard
 alprazolam
@@ -7719,6 +7744,7 @@ blog here
 blog is fastidious
 blog is invaluable
 blog is priceless
+blog is truly
 blog it help
 blog it is
 blog layout
@@ -8401,9 +8427,13 @@ bruststraffung
 brustvergrosserung
 brustvergrößerung
 bt-coin
+btc pro
 btc wallet
+btc-pro
 btc-wallet
 btcoin
+btcpro
+btcwallet
 btitish
 btn-phone
 btshoe
@@ -10116,6 +10146,8 @@ checked on the web
 checkedd
 checkwhocall
 cheeerd
+cheers a lot
+cheers alot
 cheesefruit
 chefk
 chemale movie
@@ -10678,10 +10710,12 @@ cocuk isteyen
 cocuk pazar
 cocuk porn
 cocuk sex
+cocuk sikik
 cocuk-isteyen
 cocuk-pazar
 cocuk-porn
 cocuk-sex
+cocuk-sikik
 cocukpazar
 cocukporn
 cocuksex
@@ -10908,6 +10942,12 @@ commentabout
 commented here
 commented i click
 commented-here
+commentez abonne
+commentez et abonne
+commentez et like
+commentez et partage
+commentez like
+commentez partage
 commenting any
 commenting anywhere
 commenting-any
@@ -11050,6 +11090,11 @@ consent with
 consent-with
 consequently styl
 consequently-styl
+considerably this article
+considerably this blog
+considerably this page
+considerably this site
+considerably this web
 consideration-prior-to
 considerations-prior-to
 considering-innovation
@@ -11338,13 +11383,48 @@ cr.e.as.e
 cr.e.ase
 cr.ea.se
 cr.eas.e
+crack – microsoft
+crack download
+crack license
+crack microsoft
 crack software
 crack_
+crack-dll
+crack-download
+crack-license
+crack-pc
 crack-software
+crack-web
+crack–microsoft
+crackdll
+crackdownload
+cracked – microsoft
 cracked app
+cracked download
+cracked license
+cracked microsoft
 cracked-app
+cracked-dll
+cracked-download
+cracked-license
+cracked-pc
 cracked-pro
+cracked-software
+cracked-web
+cracked–microsoft
+crackeddll
+crackeddownload
+crackedlicense
+crackedmicrosoft
+crackedpc
 crackedpro
+crackedsoftware
+crackedweb
+cracklicense
+crackmicrosoft
+crackpc
+cracksoftware
+crackweb
 craft-my-job
 craft-our-job
 craig list
@@ -11755,11 +11835,13 @@ dau-tot-nhat
 daunen weste
 daunen-weste
 daunenweste
+day bloglist
 day bountiful
 day lengthy
 day loan
 day long hunt
 day loubou
+day-bloglist
 day-bountiful
 day-diet
 day-lengthy
@@ -13224,9 +13306,11 @@ escot-izmit
 escotizmit
 eshop.co
 eskort bayan
+eskort cocuk
 eskort istanbul
 eskort_
 eskort-bayan
+eskort-cocuk
 eskort-istanbul
 eskortbayan
 eskortistanbul
@@ -14697,6 +14781,7 @@ forex-sign
 forex-valu
 forex-wealth
 forexdual
+forexf
 forexforum
 forexmaster
 forexpeace
@@ -17794,6 +17879,7 @@ http www
 http-www
 http::
 http://if%
+http:a
 http//
 httphttp
 https www
@@ -20255,6 +20341,12 @@ likes on snapchat
 likes on twitter
 likewise pick
 likewise-pick
+likez abonne
+likez commente
+likez et abonne
+likez et commente
+likez et partage
+likez partage
 lili porno
 lili-porno
 liliporno
@@ -21977,6 +22069,10 @@ miamiescort
 michael-kors
 michaelkors
 michaelvoday
+microsoft - crack
+microsoft crack
+microsoft-crack
+microsoftcrack
 mieszkania
 mieszkanie
 miftolo
@@ -22587,6 +22683,7 @@ moustacheplay
 movement-part
 movementpart
 movie are general
+movie full
 movie game play
 movie gaming world
 movie is not going
@@ -22597,9 +22694,11 @@ movie review are
 movie video ad
 movie video that
 movie way too
+movie-full
 movie-online
 movie-zone
 movie/?
+moviefull
 movieonline
 movies clip you
 movies download
@@ -22750,6 +22849,7 @@ muziboty
 mužiboty
 muzimodry
 mužimodrý
+muzplay
 muzyczna
 muzyczny
 my apple iphone
@@ -22777,6 +22877,7 @@ my blog trek
 my blog ultra
 my blog;
 my blog:
+my bloglist
 my blopg
 my boog -
 my boog –
@@ -22870,6 +22971,7 @@ my wweb
 my-bebo
 my-betor
 my-bitcoin
+my-bloglist
 my-bookmark
 my-bookmarks
 my-btc
@@ -24056,6 +24158,11 @@ online espa
 online essay
 online eurax
 online flash
+online for article
+online for blog
+online for weblog
+online for webpage
+online for website
 online free
 online gambl
 online game play
@@ -24606,6 +24713,7 @@ page gives pleasant
 page is fastidious
 page is invaluable
 page is priceless
+page is truly
 page link
 page on facebook
 page on instagram
@@ -24864,6 +24972,7 @@ paragraph is fastidious
 paragraph is nice
 paragraph is pleasant
 paragraph is real
+paragraph is truly
 paragraph offer
 paragraph post
 paragraph writ
@@ -24915,6 +25024,12 @@ part online
 part oof
 part-mariage
 part-online
+partagez abonne
+partagez commente
+partagez et abonne
+partagez et commente
+partagez et like
+partagez like
 parti rni
 parti-rni
 particular article
@@ -25173,6 +25288,7 @@ pensmontblanc
 people about this topic
 people for this topic
 people news
+people on this topic
 people since people
 people you tube
 people youtube
@@ -25979,6 +26095,8 @@ pornvergin
 pornvid
 pornvirgin
 pornyou
+portalu multimedia
+portalu-multimedia
 positikon
 positive credit history
 positively helpful
@@ -26007,6 +26125,7 @@ post is fastidious
 post is good
 post is invaluable
 post is priceless
+post is truly
 post like your
 post post
 post provides good
@@ -26391,6 +26510,7 @@ probllem
 proc opport
 proc-opport
 procedures-for
+proceed travel in
 proceed your writing
 proceesing
 procoatpaint
@@ -27396,6 +27516,7 @@ remorseless vapor
 remorseless vapour
 remote viewing train
 remote-viewing-train
+removal clearwater
 remove me from that
 rencontre amicale
 rencontre coquine
@@ -27695,6 +27816,7 @@ revive-beauty
 revivebeauty
 revolutionjog
 revolutionstroll
+revq.ru
 reward exchang
 reward-exchang
 rewiew
@@ -27749,6 +27871,12 @@ robertby
 robux generator
 robux-generator
 rocasea
+rofx net
+rofx review
+rofx-net
+rofx-review
+rofxnet
+rofxreview
 roger vivier
 roger-vivier
 rogervivier
@@ -28957,6 +29085,10 @@ share-and-sub
 share-site
 share-ssite
 share. with thank
+shared on your blog
+shared on your page
+shared on your site
+shared on your web
 shared site
 shared ssite
 shared-site
@@ -29334,6 +29466,8 @@ signoutwidget
 signozodiac
 signzodiac
 siite
+sikik cocuk
+sikik-cocuk
 silagra
 silberbarren
 sildenafil
@@ -29351,6 +29485,7 @@ silversuite
 sim-only
 similarities some similar
 simonly
+simple should you
 simplesmente online
 simplesmente-online
 simplexml you
@@ -29401,6 +29536,7 @@ site is extreme
 site is fastidious
 site is invaluable
 site is priceless
+site is truly
 site link
 site look weird
 site looks weird
@@ -29745,6 +29881,7 @@ so here it occur
 so much a person
 so nam cao
 sở nam cao
+so verdienen sie
 so-nam-cao
 sobre tiara
 sobre-tiara
@@ -30351,6 +30488,9 @@ strona-autora
 strona-blu
 strona.blu
 stronaautora
+strone przystepne
+stronę przystępne
+strone-przystepne
 strong populat
 strong very
 strong-ehealth
@@ -30856,6 +30996,9 @@ take-curcumin
 taken gravely
 taken-gravely
 takenwith
+takie poglosk
+takie pogłosk
+takie-poglosk
 takin note
 takin-note
 taking curcumin
@@ -31212,6 +31355,7 @@ thank you for sharing
 thanks ,
 thanks admin
 thanks alot :
+thanks considerably
 thanks designed
 thanks foor
 thanks for posting
@@ -31944,8 +32088,10 @@ tones-way
 tongue retain
 tongue-retain
 tongueretain
+too big or too
 too business
 too much real
+too small or too
 too thun
 too-thun
 toolkit obtain
@@ -32917,6 +33063,7 @@ username!
 users that they
 usess it
 usforex
+usi_ae
 usinformed
 using guy travel
 using net for post
@@ -33827,6 +33974,7 @@ warto zakupic
 warto-zakupic
 was ddoing
 wasbusiness
+waste your dollar
 watch ad as
 watch full length
 watch hdonline
@@ -33900,7 +34048,11 @@ web dispora
 web explore
 web farm
 web invent:
+web is extreme
 web is fastidious
+web is invaluable
+web is priceless
+web is truly
 web market
 web online
 web optim
