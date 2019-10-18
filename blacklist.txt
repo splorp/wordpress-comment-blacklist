@@ -4268,6 +4268,16 @@ $sixty
 0.@
 0.5 mg
 0.5mg
+000.biz
+000.co
+000.in
+000.nu
+000.pl
+000.ro
+000.ru
+000.site
+000.su
+000.za
 0@seo
 ００％
 ００＄
@@ -4714,6 +4724,7 @@ $sixty
 111.pl
 111.ro
 111.ru
+111.site
 111.su
 111.za
 111@
@@ -4731,15 +4742,19 @@ $sixty
 123.pl
 123.ro
 123.ru
+123.site
 123.su
 123.za
 123@
 123movie
+222.biz
 222.co
 222.in
+222.nu
 222.pl
 222.ro
 222.ru
+222.site
 222.su
 222.za
 247 biz
@@ -4749,18 +4764,56 @@ $sixty
 247-site
 247-sport
 247.biz
+247.co
+247.in
+247.nu
+247.pl
+247.ro
+247.ru
 247.site
+247.su
+247.za
 247biz
 247quick
 247site
 247sport
+321.biz
+321.co
+321.in
+321.nu
+321.pl
+321.ro
+321.ru
+321.site
+321.su
+321.za
+333.biz
+333.co
+333.in
+333.nu
+333.pl
+333.ro
+333.ru
+333.site
+333.su
+333.za
 356.biz
+356.co
 356.nu
+356.pl
+356.ro
+356.ru
+356.site
+356.su
+356.za
+365.biz
 365.co
 365.in
+365.nu
 365.pl
 365.ro
 365.ru
+365.site
 365.su
 365.za
 365bet
@@ -4770,19 +4823,72 @@ $sixty
 404.htm
 404.jsp
 404.php
+456.biz
+456.co
+456.in
+456.nu
+456.pl
+456.ro
+456.ru
+456.site
+456.su
+456.za
+654.biz
+654.co
+654.in
+654.nu
+654.pl
+654.ro
+654.ru
+654.site
+654.su
+654.za
+789.biz
+789.co
+789.in
+789.nu
+789.pl
+789.ro
+789.ru
+789.site
+789.su
+789.za
+911.biz
 911.co
 911.in
+911.nu
 911.pl
 911.ro
 911.ru
+911.site
 911.su
 911.za
+987.biz
+987.co
+987.in
+987.nu
+987.pl
+987.ro
+987.ru
+987.site
+987.su
+987.za
 999 999
 999 coin
 999 free
 999-999
 999-coin
 999-free
+999.biz
+999.co
+999.in
+999.nu
+999.pl
+999.ro
+999.ru
+999.site
+999.su
+999.za
 999k diamond
 999k free
 999k-diamond
@@ -5830,8 +5936,10 @@ amino-care
 aminocare
 amitriptyline
 amor barulhento
+amor de volta
 amor tarot
 amor-barulhento
+amor-de-volta
 amor-tarot
 amorbarulhento
 amortarot
@@ -7858,6 +7966,7 @@ blogbeast
 blogblog
 blogdiet
 blogentry
+blogg platform
 blogger love
 blogger-love
 bloggerd
@@ -28827,6 +28936,7 @@ setup the malware
 seu blog
 seu site
 seu web
+seu_amor
 seu-blog
 seu-site
 seu-web
@@ -30038,6 +30148,7 @@ somedias
 somee one
 somente download
 somente-download
+someplace within the sentence
 son copain
 son-copain
 soncopain
@@ -32310,6 +32421,8 @@ tratamente-corpor
 tratamente-faci
 travel.pl
 traveltrip
+trazer seu amor
+trazer-seu-amor
 trazodone
 treatement
 treatment gyno
@@ -34128,6 +34241,8 @@ web/icon
 web/index
 web4s
 webanal
+webb blog
+webb-blog
 webblog
 webbmaster
 webcam site
@@ -35131,10 +35246,13 @@ wto-brand
 wtobrand
 wuth a
 wuth the
+wweb blog
 wweb page
 wweb site
 wweb-page
+wwebblog
 wwebpage
+wwebsite
 wwellness
 wwhen
 wwith
@@ -35579,6 +35697,7 @@ your kids is
 your lover
 your movie to put
 your new important
+your new invaluable
 your new stuff
 your next blog
 your next post
