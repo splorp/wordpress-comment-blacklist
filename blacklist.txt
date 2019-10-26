@@ -6104,6 +6104,7 @@ anonymous-upload
 anonymousvpn
 another chernobyl
 another-chernobyl
+ansehen ->
 anstandige punkte
 anständige punkte
 anstandige-punkte
@@ -6169,6 +6170,7 @@ apg-no-fee
 app hacked
 app money free
 app money hack
+app-cheap
 app-journey
 app-nana-code
 app-nana-cydia
@@ -6177,6 +6179,7 @@ app-nana-mod
 app-nana-sync
 app.asp
 app.cfm
+app.cheap
 app.htm
 app.jsp
 app.lk
@@ -6311,6 +6314,7 @@ article buzz
 article complet
 article content
 article dude
+article fully about
 article he/she
 article is fastidious
 article is genuine
@@ -6590,6 +6594,7 @@ attraction-market
 audio song
 audio-song
 auf dem markt
+auf dich ->
 auf-dem-markt
 aufsatz hilfe
 aufsatz-hilfe
@@ -6735,8 +6740,13 @@ awesome headline
 awesome page
 awesome paragraph
 awesome post
+awesome web log
+awesome web page
+awesome web post
+awesome web site
 awesome weblog
 awesome webpage
+awesome website
 awesome-article
 awesome-blog
 awesome-designed
@@ -6744,8 +6754,14 @@ awesome-headline
 awesome-page
 awesome-paragraph
 awesome-post
+awesome-web-log
+awesome-web-page
+awesome-web-post
+awesome-web-site
 awesome-weblog
 awesome-webpage
+awesome-webpost
+awesome-website
 awesoome
 awokehim
 awordpress.
@@ -7846,6 +7862,7 @@ blog diet
 blog felicit
 blog félicit
 blog forest
+blog fully about
 blog give pleasant
 blog gives pleasant
 blog glance
@@ -8783,10 +8800,6 @@ buspirone
 busquemail
 busythumb
 but the vids
-but this blog
-but this page
-but this site
-but this web
 butik otel
 butik-otel
 butikk
@@ -9978,6 +9991,7 @@ cheap stephen
 cheap sunglass
 cheap supra
 cheap swimwear
+cheap tesvor
 cheap timber
 cheap toms
 cheap travel
@@ -10075,6 +10089,7 @@ cheap-stephen
 cheap-sunglass
 cheap-supra
 cheap-swimwear
+cheap-tesvor
 cheap-timber
 cheap-tms
 cheap-toms
@@ -10176,6 +10191,7 @@ cheapstephen
 cheapsugg
 cheapsunglass
 cheapsupra
+cheaptesvor
 cheaptimber
 cheaptms
 cheaptoms
@@ -10556,6 +10572,16 @@ clboot
 clean clear
 clean-clear
 cleanclear
+cleaner best
+cleaner online
+cleaner-best
+cleaner-online
+cleaner,best
+cleaner.best
+cleaneronline
+cleaners online
+cleaners-online
+cleanersonline
 cleaning academy
 cleaning-academy
 clear clarif
@@ -10955,9 +10981,11 @@ com activate
 com crack
 com_install
 com-activate
+com-cheap
 com-crack
 com-install
 com.asp
+com.cheap
 com.com
 com//
 com/autocom
@@ -11140,20 +11168,29 @@ compiltaion
 component blog
 component-blog
 component/blog
+composing a article
+composing a blog
+composing a essay
+composing a post
+composing article
+composing blog
 composing essay
 composing post
+composing-article
+composing-blog
 composing-essay
 composing-post
 comprar
 comprasion
+compresion a
 compresion b
+compresion-a
 compresion-b
 computer pc
-computer-assess
-computer-gam
+computer-ass
 computer-pc
-computer-perform
 computergam
+computerpc
 computerperform
 computerpressrelease
 computers.in
@@ -11163,6 +11200,7 @@ concentrate exist
 concernijg
 concerning blog
 concerning page
+concerning this article
 concerning this blog
 concerning this paragraph
 concerning this post
@@ -15704,6 +15742,9 @@ geburtstagsgeschenke für
 geburtstagsgeschenke-fur
 geburtstagsgeschenke-für
 geekbb
+geiles madel
+geiles mädel
+geiles-madel
 gel virage
 gel-virage
 gelatine free
@@ -18934,6 +18975,7 @@ isto weblog
 isto-blog
 isto-weblog
 it a object
+it amazing article
 it duvet
 it for posting
 it for the post
@@ -20102,6 +20144,8 @@ last-looker
 lastlooker
 latelier give
 latelier-give
+later-with
+later.with
 latest blog
 latest weblog
 latest-blog
@@ -21175,6 +21219,9 @@ made-hydroponic
 made-milf
 made-sure-nice
 madeknown
+madels warten
+mädels warten
+madels-warten
 mademilf
 madeye30
 maestro yahoo
@@ -21366,8 +21413,10 @@ malaysia-casino
 malaysia-online
 male enhance
 male erotic
+male extra review
 male-enhance
 male-erotic
+male-extra-review
 maleenhance
 malepower
 mall store
@@ -24831,6 +24880,7 @@ packs fanny
 packs-fanny
 page ::
 page cryptocurrency
+page fully about
 page give pleasant
 page gives pleasant
 page is fastidious
@@ -25089,6 +25139,7 @@ parafongeneric
 parafoninfo
 parafonmuscle
 paragraph at this
+paragraph fully about
 paragraph he/she
 paragraph here
 paragraph is fastidious
@@ -26241,6 +26292,7 @@ post composing
 post ebook
 post extreme
 post fully
+post fully about
 post give pleasant
 post gives good
 post gives pleasant
@@ -27992,6 +28044,12 @@ robedemariee
 robedumariage
 robertalite
 robertby
+robotor test
+robotor wholesale
+robotor-test
+robotor-wholesale
+robotortest
+robotorwholesale
 robux generator
 robux-generator
 rocasea
@@ -28554,6 +28612,9 @@ scarpeprada
 scarperoger
 scarrepair
 sceeen
+scharfe madels
+scharfe mädels
+scharfe-madels
 schlgsseldienste
 schlüsseldienste
 schmuck mag
@@ -34705,7 +34766,9 @@ wholesalemac
 wholesalenba
 wholesalenorth
 wholesalepolo
+wholesaler sale
 wholesaler-mac
+wholesaler-sale
 wholesalermac
 wholesalesex
 wholesalesoccer
