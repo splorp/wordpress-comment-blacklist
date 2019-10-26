@@ -3659,6 +3659,7 @@ _zapat
 /shortcodes-
 /shortcodes/
 /shorte.st
+/shorturl.at
 /show/
 /sigareta-
 /sigareta.

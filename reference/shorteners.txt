@@ -56,6 +56,7 @@
 /rrsm.nl
 /schott.im
 /shorte.st
+/shorturl.at
 /smarturl.it
 /smsh.me
 /sn.im
