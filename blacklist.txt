@@ -2819,14 +2819,19 @@ _zapat
 /chung-cu-
 /cigar-
 /cigar.
+/cigar/
 /cigarette-
 /cigarette.
+/cigarette/
 /cigarettes-
 /cigarettes.
+/cigarettes/
 /cigars-
 /cigars.
+/cigars/
 /cigs-
 /cigs.
+/cigs/
 /ck-
 /ck.
 /ck/
@@ -7212,6 +7217,10 @@ battlegrounds pc
 battlegrounds-hack
 battlegrounds-pc
 bauchstraffung
+bayan izmir
+bayan i̇zmir
+bayan-izmir
+bayanizmir
 baykal extreme
 baykal otdykh
 baykal ozero
@@ -10474,19 +10483,28 @@ cialis
 ciallis
 cig buy
 cig holder
+cig online
+cig promo
 cig-buy
 cig-holder
 cig-online
 cig-promo
+cigar cuba
+cigar online
+cigar store
 cigar-cuba
 cigar-online
 cigar-store
 cigarcuba
+cigarette buy
 cigarette online
+cigarette-buy
 cigarette-online
 cigarette.co
 cigarettebuy
+cigarettes buy
 cigarettes online
+cigarettes-buy
 cigarettes-online
 cigarettes.co
 cigarettesbuy
@@ -12401,6 +12419,7 @@ dinkypage.com
 dinner soup
 dinner-soup
 diorkan
+dir an ->
 direct guideline;
 direct guideline:
 direct-fund
@@ -15117,6 +15136,7 @@ free fire hack
 free flyer make
 free gay
 free hack
+free hip hop
 free instagram
 free internation
 free itunes gift
@@ -15180,6 +15200,7 @@ free-gay
 free-gold
 free-hack
 free-hemp
+free-hip-hop
 free-instagram
 free-internation
 free-ipad
@@ -15852,11 +15873,13 @@ genuine-health
 genuine-pandora
 genuinehealth
 genuinely fantas
+genuinely fastidious
 genuinely fruit
 genuinely good thing
 genuinely health
 genuinely very help
 genuinely-fantas
+genuinely-fastidious
 genuinely-fruit
 genuinely-health
 genuinelyhealth
@@ -19042,9 +19065,20 @@ iwc brand
 iwc-brand
 iwcbrand
 izatrend
+izmir escort
+i̇zmir escort
+izmir eskort
+i̇zmir eskort
+izmir-escort
+izmir-eskort
+izmirescort
+izmireskort
 izmit escort
+izmit eskort
 izmit-escort
+izmit-eskort
 izmitescort
+izmiteskort
 iρ
 iг
 iԁ
@@ -23065,6 +23099,8 @@ my btc
 my cryptocurren
 my custom golf
 my excerpt
+my first blog
+my first post
 my first time go
 my hermes
 my homepage
@@ -23234,6 +23270,9 @@ n1-takeaway
 n1takeaway
 na disney se
 naar sex zit
+nachste level
+nächste level
+nachste-level
 ñæ
 naga poker
 naga-poker
@@ -33109,6 +33148,8 @@ untrodden project
 untrodden-project
 unuseful comment
 unusual nation
+unverbindliches ange
+unverbindliches-ange
 unwanted-hair
 unwantedhair
 uomo adidas
@@ -34610,8 +34651,10 @@ westwoodnecklace
 westwoodonline
 westwoodshop
 westwoodstore
+wet cigar
 wet pant
 wet pussy
+wet-cigar
 wet-pant
 wet-pussy
 weteihal
