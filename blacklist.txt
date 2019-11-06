@@ -281,6 +281,9 @@ _zapat
 -advertising-of-
 -advertising-of.
 -advertising-of/
+-advertizing-of-
+-advertizing-of.
+-advertizing-of/
 -airmax-
 -airmax.
 -airmax/
@@ -1470,6 +1473,9 @@ _zapat
 .advertising-of-
 .advertising-of.
 .advertising-of/
+.advertizing-of-
+.advertizing-of.
+.advertizing-of/
 .aioblogs.
 .airmax-
 .airmax.
@@ -2569,6 +2575,9 @@ _zapat
 /advertising-of-
 /advertising-of.
 /advertising-of/
+/advertizing-of-
+/advertizing-of.
+/advertizing-of/
 /affordable-
 /affordable.
 /airmax-
@@ -5559,6 +5568,7 @@ advertising channel
 advertising consult
 advertising de conteudo
 advertising de conteúdo
+advertising device
 advertising market
 advertising method
 advertising research
@@ -5569,6 +5579,7 @@ advertising-channel
 advertising-consult
 advertising-de-conteudo
 advertising-de-conteúdo
+advertising-device
 advertising-market
 advertising-method
 advertising-research
@@ -6242,10 +6253,10 @@ appreckate
 appro-chait
 approaching article
 approaching-article
-appropriate advertising
-appropriate advertizing
-appropriate-advertising
-appropriate-advertizing
+appropriate advertis
+appropriate advertiz
+appropriate-advertis
+appropriate-advertiz
 approximately my
 approximately-my
 appyourself
@@ -7363,6 +7374,7 @@ beeday
 beenpaid
 before long find
 before-purchas
+behavioral-interview-question
 behaviour-driven
 behelfen sich die medien
 behelfen-sich-die-medien
@@ -8573,6 +8585,11 @@ browns-jersey
 browse around this blog
 browse around this site
 browse around this web
+browse this article
+browse this blog
+browse this page
+browse this site
+browse this web
 brrip
 brugte mulberry
 brugte-mulberry
@@ -8784,6 +8801,10 @@ bursa-escort
 bursa-eskort
 bursa-kiz
 bursabirlik
+bursada escort
+bursada eskort
+bursada-escort
+bursada-eskort
 bursaescort
 bursaeskort
 bursakiz
@@ -9457,6 +9478,7 @@ casino online
 casino only
 casino partic
 casino phish
+casino script
 casino site
 casino today
 casino view
@@ -9476,6 +9498,7 @@ casino-online
 casino-only
 casino-partic
 casino-phish
+casino-script
 casino-site
 casino-today
 casino-view
@@ -9496,6 +9519,7 @@ casinophish
 casinos today
 casinos-
 casinos-today
+casinoscript
 casinosite
 casinoview
 casolete plastic
@@ -10367,18 +10391,33 @@ chik-cassino
 chikcasino
 chikcassino
 chil escort
+chil eskort
 chil-escort
+chil-eskort
 child escort
+chi̇ld escort
+child eskort
 child fuck
+chi̇ld fuck
 child pantie
+chi̇ld pantie
 child panty
+chi̇ld panty
 child porn
+chi̇ld porn
 child-escort
+chi̇ld-escort
+chi̇ld-eskort
 child-fuck
+chi̇ld-fuck
 child-pantie
+chi̇ld-pantie
 child-panty
+chi̇ld-panty
 child-porn
+chi̇ld-porn
 childescort
+childeskort
 childfuck
 childpantie
 childpanty
@@ -10960,6 +10999,8 @@ coingame
 coinlight
 coinlite
 coinmarket
+coinmaster-free
+coinmasterfree
 coins foot
 coins fut
 coins game
@@ -11111,10 +11152,12 @@ comkpany
 commebt
 commencing film
 comment boost
+comment pirate
 comment speak
 comment you
 comment-boost
 comment-pag
+comment-pirate
 comment-speak
 comment-you
 comment/bv
@@ -11134,8 +11177,8 @@ commentez et partage
 commentez like
 commentez partage
 commenting any
-commenting anywhere
 commenting-any
+commentpirate
 comments/bv
 comments/celine
 comments/chanel
@@ -11168,7 +11211,6 @@ commission-account
 commission-hero
 commissionhero
 commokn
-common-redaction
 communal authent
 communal-authent
 community.atom
@@ -13190,9 +13232,13 @@ elway-jers
 elwayjers
 emagrecer podem
 emagrecer-podem
+email advertis
+email advertiz
 email doa
 email extract
 email vip
+email-advertis
+email-advertiz
 email-doa
 email-extract
 email-vip
@@ -13472,8 +13518,12 @@ es/content
 escitalopram
 escort bayan
 escort blog
+escort bursa
+escort chi̇ld
 escort cocuk
+escort fuck
 escort google
+escort hizmet
 escort ilan
 escort izmit
 escort kocael
@@ -13482,8 +13532,12 @@ escort zone
 escort_
 escort-bayan
 escort-blog
+escort-bursa
+escort-chi̇ld
 escort-cocuk
+escort-fuck
 escort-google
+escort-hizmet
 escort-ilan
 escort-izmit
 escort-kocael
@@ -13492,6 +13546,7 @@ escort-zone
 escort4fun
 escortbayan
 escortblog
+escortfuck
 escortilan
 escortizmit
 escortkocael
@@ -13516,15 +13571,22 @@ escotizmit
 eshop.co
 eskort bayan
 eskort blog
+eskort bursa
 eskort cocuk
+eskort fuck
+eskort hizmet
 eskort istanbul
 eskort_
 eskort-bayan
 eskort-blog
+eskort-bursa
 eskort-cocuk
+eskort-fuck
+eskort-hizmet
 eskort-istanbul
 eskortbayan
 eskortblog
+eskortfuck
 eskortistanbul
 eskorts_
 espana online
@@ -14834,6 +14896,12 @@ flex-global
 flexglobal
 flexiblpe
 flik.us
+flip casino
+flip-casino
+flipcasino
+flipper casino
+flipper-casino
+flippercasino
 flirt fever
 flirt-fever
 flirtfever
@@ -15482,6 +15550,8 @@ fruitful-design
 fruta planta
 frutaplanta
 fuck down
+fuck escort
+fuck eskort
 fuck google
 fuck hard
 fuck my
@@ -15490,11 +15560,15 @@ fuck vid
 fuck your
 fuck_
 fuck-
+fuck-escort
+fuck-eskort
 fuckdown
 fucked_
 fucked-
 fucker_
 fucker-
+fuckescort
+fuckeskort
 fuckgoogle
 fuckhard
 fucking_
@@ -15521,12 +15595,15 @@ full length motion
 full length movie
 full length-motion
 full movie
+full porn
 full-house-for-rent
 full-length-movie
 full-movie
+full-porn
 full.com/watch
 full4k
 fullmovie
+fullporn
 fulmalware
 fun-88
 fun-sneak
@@ -16312,6 +16389,7 @@ gold earring
 gold hack
 gold ira
 gold pill
+gold porn
 gold tantric
 gold unobtain
 gold vip
@@ -16328,6 +16406,7 @@ gold-ingot
 gold-ira
 gold-jewel
 gold-pill
+gold-porn
 gold-price
 gold-seiko
 gold-tantric
@@ -16351,6 +16430,7 @@ goldira
 goldjewel
 goldpill
 goldplated
+goldporn
 goldseiko
 goldsuppl
 goldtantric
@@ -17737,6 +17817,9 @@ hogaout
 hohe bildqualitat
 hohe bildqualität
 hohe-bildqualitat
+hoki poker
+hoki-poker
+hokipoker
 hold of it!
 hold'em game
 hold’em game
@@ -21428,6 +21511,9 @@ maillotuk
 mailorder bride
 mailorder-bride
 mailorderbride
+mailvio autorespond
+mailvio-autorespond
+mailvioautorespond
 mailvirtual.win
 main longchamp
 main-longchamp
@@ -21797,7 +21883,9 @@ massive-web
 masszaz
 mastablasta
 master free spin
+master freespin
 master-free-spin
+master-freespin
 master.in
 master.pl
 master.ru
@@ -21806,6 +21894,7 @@ master.za
 masterclass through
 masterclass_
 masterclass-through
+masterfreespin
 mastermind-team
 mastermindteam
 masters free gem
@@ -25903,6 +25992,19 @@ pips hunter
 pips-daily
 pips-hunter
 pipshunter
+pirate facebook
+pirate mot de passe
+pirate-facebook
+pirate-mot-de-passe
+piratefacebook
+pirater facebook
+pirater fb
+pirater mot de passe
+pirater-facebook
+pirater-fb
+pirater-mot-de-passe
+piraterfacebook
+piraterfb
 piroxicam
 pisanie prac
 pisanie-prac
@@ -26944,6 +27046,7 @@ professional 2020
 professional blog
 professional cosmetic
 professional essay
+professional poker
 professional ugg
 professional-2018
 professional-2019
@@ -26951,10 +27054,12 @@ professional-2020
 professional-blog
 professional-cosmetic
 professional-essay
+professional-poker
 professional-ugg
 professional2018
 professional2019
 professional2020
+professionalpoker
 professionals.co
 professionalugg
 proficiency advantage
@@ -27003,6 +27108,8 @@ profit-pro
 profit-review
 profit-seek
 profitengine
+profitez d'un site web
+profitez d’un site web
 profitpro
 profitreview
 profits review
@@ -31291,11 +31398,13 @@ swarovski-jap
 swarovski-jp
 swarovskijap
 swarovskijp
+sweet article
 sweet blog
 sweet cum
 sweet page
 sweet site
 sweet web
+sweet-article
 sweet-blog
 sweet-cum
 sweet-page
@@ -31305,8 +31414,12 @@ sweetblog
 sweetpage
 sweetsite
 swegway
+swing trade
 swing trading
+swing-trade
 swing-trading
+swingtrade
+swingtrading
 swiss replica
 swiss-replica
 swissreplica
@@ -32053,6 +32166,10 @@ this grand blog
 this grand post
 this grand site
 this grand web
+this great blog
+this great content
+this great weblog
+this great webpage
 this gucci
 this landline
 this one subject
@@ -32711,13 +32828,16 @@ trade_your
 trading-method
 traffic bot
 traffic exchang
+traffic ivy
 traffic lawyer cost
 traffic software
 traffic-bot
 traffic-exchang
+traffic-ivy
 traffic-lawyer-cost
 traffic-software
 trafficbot
+trafficivy
 trafficvance
 trafficz
 trailer sale
