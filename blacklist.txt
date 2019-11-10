@@ -2309,12 +2309,14 @@ _zapat
 )-
 [..
 [/color
+[/colour
 [/move
 [/url
 [a...z]
 [a..z]
 [a.z]
 [color
+[colour
 [move
 [url
 {keyword}
@@ -10666,6 +10668,8 @@ cleaners-online
 cleanersonline
 cleaning academy
 cleaning-academy
+cleaning,the
+cleaning.the
 clear clarif
 clear clear
 clear-clarif
@@ -11404,6 +11408,7 @@ cool-blog
 cool-post
 cool-share
 cool-t-shirt
+cool-test-here
 coolarticle
 coool blog
 coool page
@@ -12878,13 +12883,21 @@ dress shoe
 dress shop
 dress web
 dress-cheap
+dress-color
+dress-colour
 dress-herve
+dress-lala
 dress-link
 dress-online
 dress-shoe
 dress-shop
 dress-uk
+dress,color
+dress,colour
 dress.cheap
+dress.color
+dress.colour
+dress.lala
 dress.rent
 dresses bcbg
 dresses cheap
@@ -12893,17 +12906,29 @@ dresses online
 dresses sale
 dresses-bcbg
 dresses-cheap
+dresses-color
+dresses-colour
 dresses-herve
+dresses-lala
 dresses-online
 dresses-sale
 dresses-uk
+dresses,color
+dresses,colour
 dresses.cheap
+dresses.color
+dresses.colour
+dresses.lala
 dresses.wed
 dressesbcbg
+dressescolor
+dressescolour
 dressesherve
+dresseslala
 dressesonline
 dressherve
 dresshop
+dresslala
 dresslink
 dressonline
 dresssale
@@ -12941,6 +12966,8 @@ droid whiz
 droid-whiz
 droidwhiz
 drop me a mail
+drop,dehy
+drop.dehy
 drug buy
 drug cheap
 drug-buy
@@ -13197,9 +13224,11 @@ el-gordo.c
 elamale
 elavil
 electronic advert
+electronic mail ad
 electronic mail address
 electronic market
 electronic-advert
+electronic-mail-ad
 electronic-market
 elektrik malzeme
 elektrik-malzeme
@@ -13522,6 +13551,7 @@ escort bursa
 escort chi̇ld
 escort cocuk
 escort fuck
+escort girl
 escort google
 escort hizmet
 escort ilan
@@ -13536,6 +13566,7 @@ escort-bursa
 escort-chi̇ld
 escort-cocuk
 escort-fuck
+escort-girl
 escort-google
 escort-hizmet
 escort-ilan
@@ -13547,6 +13578,7 @@ escort4fun
 escortbayan
 escortblog
 escortfuck
+escortgirl
 escortilan
 escortizmit
 escortkocael
@@ -13574,6 +13606,7 @@ eskort blog
 eskort bursa
 eskort cocuk
 eskort fuck
+eskort girl
 eskort hizmet
 eskort istanbul
 eskort_
@@ -13582,11 +13615,13 @@ eskort-blog
 eskort-bursa
 eskort-cocuk
 eskort-fuck
+eskort-girl
 eskort-hizmet
 eskort-istanbul
 eskortbayan
 eskortblog
 eskortfuck
+eskortgirl
 eskortistanbul
 eskorts_
 espana online
@@ -17202,6 +17237,7 @@ hamzam
 hand tasche
 hand-tasche
 handbag distrib
+handbag firm
 handbag louis
 handbag out
 handbag sale
@@ -17210,6 +17246,7 @@ handbag uk
 handbag whole
 handbag wom
 handbag-distrib
+handbag-firm
 handbag-for
 handbag-louis
 handbag-out
@@ -17730,6 +17767,8 @@ hiii guy
 hiii people
 hiii world
 hiii you
+hilt gaining
+hilt-gaining
 him delivery
 him-delivery
 hindi pdf
@@ -17934,6 +17973,8 @@ home-based
 home-loan
 home-online
 home-remed
+home,of
+home.of
 home's vitality
 home’s vitality
 homebased
@@ -18258,9 +18299,10 @@ hydrotherapy
 hydroxatone
 hydroxy
 hygienistst
+hyper fb
+hyper link
 hyper-fb
 hyper-link
-hyperlink
 hypothyroidism
 hyprtnsion
 hyroliheze.ga
@@ -21512,8 +21554,11 @@ mailorder bride
 mailorder-bride
 mailorderbride
 mailvio autorespond
+mailvio review
 mailvio-autorespond
+mailvio-review
 mailvioautorespond
+mailvioreview
 mailvirtual.win
 main longchamp
 main-longchamp
@@ -23192,6 +23237,7 @@ must click blog
 must click link
 must click post
 must click video
+must registered
 must-click-blog
 must-click-link
 must-click-post
@@ -24151,6 +24197,8 @@ nurkowe-marsa
 nurkowemarsa
 nurse job
 nurse-job
+nurse,typ
+nurse.typ
 nutrient same
 nutrient-same
 nxvid
@@ -25466,6 +25514,8 @@ passion the web
 passion-price
 passion-the-web
 passionaqte
+passionately fond
+passionately-fond
 passo_a_passo
 passo-a-passo
 passprefix
@@ -25781,6 +25831,8 @@ peuterey-giub
 peuterey-roma
 peutereygiub
 peutereyroma
+pezo lutfu
+pezo-lutfu
 pezone mega
 pezone-mega
 pezonemega
@@ -27012,6 +27064,8 @@ procedures-for
 proceed travel in
 proceed your writing
 proceesing
+process,you
+process.you
 procoatpaint
 produce an fas
 produce article
@@ -28379,6 +28433,7 @@ robedemariee
 robedumariage
 robertalite
 robertby
+robot,or
 robotor test
 robotor wholesale
 robotor-test
@@ -31046,6 +31101,7 @@ studios-beat
 studiosbeat
 studycon
 studylook
+stuff into account
 stuff you post
 stuff-you-post
 stuffs excellent
@@ -32660,6 +32716,7 @@ top blog
 top bulgar
 top bvlgar
 top hk
+top lutfu
 top murder
 top naked
 top new
@@ -32684,6 +32741,7 @@ top-forum
 top-grade
 top-hk
 top-list
+top-lutfu
 top-murder
 top-muscle
 top-naked
@@ -32809,7 +32867,9 @@ traceserv
 tracing serv
 tracing-serv
 tracingserv
+track hyperlink
 track-back
+track-hyperlink
 track-phone-location
 track-r.
 track2 dump
@@ -32822,6 +32882,7 @@ tracker-trace
 tracker-tracing
 trackertrace
 trackertracing
+trackhyperlink
 tracking-a-phone
 tradaoquan
 trade_your
@@ -33886,6 +33947,7 @@ very internet
 very lower
 very nice:)
 very oone
+very packed location
 very superb
 very valid
 very-best-gain
@@ -37605,12 +37667,15 @@ zyvox
 로얄카지노
 루이비통
 리그중계
+링크를 통해
 마사지
 먹튀
 무료쿠폰
 바카라
 보험
 블랙잭
+성인사이트
+성인웹
 성인자
 스포츠티비
 승부예측
@@ -37618,6 +37683,7 @@ zyvox
 야동
 여자친구
 온라인카지노
+이트 순위
 인터넷카지노
 장기렌트
 저금리
@@ -37628,6 +37694,7 @@ zyvox
 토토
 트위터
 파워볼사이트
+포인트받
 필수적이다
 アークテリクス
 アイホン
