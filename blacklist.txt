@@ -4352,6 +4352,7 @@ $sixty
 1,0mg
 1,5 mg
 1,5mg
+1…?
 1.@
 1.0 mg
 1.0mg
@@ -4401,6 +4402,7 @@ $sixty
 2,0mg
 2,5 mg
 2,5mg
+2…?
 2.@
 2.0 mg
 2.0mg
@@ -4442,6 +4444,7 @@ $sixty
 3-generic
 3-powerful-technique
 3-the-best
+3…?
 3.@
 3.in
 3@1
@@ -7591,6 +7594,7 @@ bestxxx
 bet-88
 bet-khong-
 bet-link-
+bet-script
 bet88
 beta/halkomentar-
 betes0
@@ -7607,6 +7611,7 @@ betfair
 betlist
 betor.biz
 betor.ru
+betscript
 better handling driving
 better-essay-writ
 better-serv
@@ -7615,10 +7620,13 @@ betterserv
 betting article
 betting news
 betting on mlb
+betting script
 betting site
 betting-article
 betting-news
+betting-script
 betting-site
+bettingscript
 bettor than
 betweenex
 bhilt
@@ -8571,7 +8579,10 @@ brittanybattle
 brittny-battle
 brittnybattle
 broker dealer
+broker forex
 broker-dealer
+broker-forex
+brokerforex
 bronchial asthma victim
 broncos hat
 broncos-hat
@@ -9380,6 +9391,7 @@ cardy-boot
 cardyboot
 care cream
 care maintenance
+care to find out
 care-cream
 care-maintenance
 care+maintenance
@@ -13220,6 +13232,9 @@ ejaculationpill
 ekorting
 ekskluzywne zestaw
 ekskluzywne-zestaw
+ekstensywne pracochlonne
+ekstensywne pracochłonne
+ekstensywne-pracochlonne
 el-gordo.c
 elamale
 elavil
@@ -20387,6 +20402,8 @@ latonya.
 latvia stag
 latvia-stag
 latviastag
+laugh clean
+laugh-clean
 launch academy
 launch-academy
 launch-my-business
@@ -27980,6 +27997,8 @@ registryfix
 registryrepair
 registrytool
 regualar
+regulados de forex
+regulados-de-forex
 regulate their gaming
 reguliatory
 reinigungsfirmen hab
@@ -31843,6 +31862,7 @@ tees hollis
 tees-hollis
 teeshollis
 tegs:
+tekhbez
 tele gratuit
 tele realite
 télé réalité
@@ -32025,6 +32045,7 @@ the blog;
 the blog:
 the book in it
 the carfiac
+the clicking world
 the consulting firm
 the contents present
 the cruise trip
@@ -36815,6 +36836,8 @@ zyvox
 все-подробно
 всем привет
 всем-привет
+вся правда
+вся-правда
 выбрать лучшие
 выбрать-лучшие
 выигрышного комбо
@@ -37431,6 +37454,7 @@ zyvox
 телевизорами-марок
 телефона узнать
 телефона-узнать
+техбез
 торговля бинар
 торговля-бинар
 трудоустройства
