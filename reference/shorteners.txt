@@ -90,3 +90,4 @@
 /yourls.org
 /yourls.site
 /zo.ee
+/zzb.bz
