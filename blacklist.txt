@@ -5392,12 +5392,20 @@ adbeattrial
 adcrack
 add article
 add symptom
+add to fave
+add to favor
+add to favour
+add to feed
 add-article
 add-symptom
 addarticle
 addbusinessto
 addded
 added agreeable
+added to fave
+added to favor
+added to favour
+added to feed
 adderall
 adderoll
 addict xxx
@@ -6578,8 +6586,12 @@ aspiring-web
 aspnet_client
 áß
 ass lick
+ass nude
+ass porn
 ass small
 ass-lick
+ass-nude
+ass-porn
 ass-small
 assessories
 assessory
@@ -6597,11 +6609,14 @@ assist your kids cope
 assist-seo
 assist-with-seo
 asslick
+assnude
 associate link
 associate-link
 associated-article
 associateded
 assortiment
+assporn
+asssmall
 assured storm
 assured-storm
 asthma and also
@@ -7525,8 +7540,7 @@ best sex
 best shoe price
 best suppl
 best tummy
-best vpn service
-best web
+best vape
 best wordpress
 best writing compan
 best writing service
@@ -7571,9 +7585,8 @@ best-shop
 best-software-for
 best-suppl
 best-tummy
-best-vpn
+best-vape
 best-way-to
-best-web
 best-wordpress
 best-xxx
 best.;
@@ -7629,6 +7642,7 @@ bestsex
 bestshop
 bestsuppl
 besttummy
+bestvape
 bestvpn
 bestweb
 bestxxx
@@ -9692,10 +9706,12 @@ cazinos-24
 cazinos24
 cɑ
 cbd advert
+cbd beaut
 cbd best
 cbd cannabis
 cbd weed
 cbd-advert
+cbd-beaut
 cbd-best
 cbd-cannabis
 cbd-weed
@@ -12606,8 +12622,12 @@ dietplan
 dietreview
 dietsolution
 dietsuppl
+dieu hoa
+điều hòa
+dieu tri
 điều trị
-điều-trị
+dieu-hoa
+dieu-tri
 different blog
 different web page
 different web site
@@ -14609,16 +14629,18 @@ favorable-blog
 favorable-page
 favorable-single
 favorable-web
-favorite earphone
-favorite justif
+favorite ear
+favorite just
 favorite this blog
 favorite this page
 favorite this site
 favorite this web
 favorite web
-favorite-earphone
-favorite-justif
+favorite-ear
+favorite-just
 favorite-web
+favour of blog
+favour of sharing
 favourable article
 favourable blog
 favourable page
@@ -14629,15 +14651,15 @@ favourable-blog
 favourable-page
 favourable-single
 favourable-web
-favourite earphone
-favourite justif
+favourite ear
+favourite just
 favourite this blog
 favourite this page
 favourite this site
 favourite this web
 favourite web
-favourite-earphone
-favourite-justif
+favourite-ear
+favourite-just
 favourite-web
 fazer tiara
 fazer-tiara
@@ -23684,7 +23706,8 @@ my-fashion
 my-hermes
 my-homepage
 my-know-how
-my-most-favorited
+my-most-favorite
+my-most-favourite
 my-my
 my-new-ip
 my-online
@@ -23927,10 +23950,13 @@ neat-web
 neatarticle
 neatblog
 neatly favor
+neatly favour
 neatly preferred
 neatly-favor
+neatly-favour
 neatly-preferred
 neatlyfavor
+neatlyfavour
 neatpage
 neatpost
 neatsite
@@ -29996,6 +30022,9 @@ share - point
 share and sub
 share site
 share ssite
+share this blog
+share this details
+share this web
 share-and-sub
 share-site
 share-ssite
@@ -32316,10 +32345,14 @@ thanks alot :
 thanks considerably
 thanks designed
 thanks foor
+thanks for article
+thanks for blog
 thanks for posting
+thanks for share
 thanks for sharing
 thanks for the post
 thanks for this post
+thanks for web
 thanks for your post
 thanks regarding
 thanks to web
@@ -32460,6 +32493,7 @@ their email list
 their sincere idea
 their-email-list
 them inaccurate
+them middle
 them to our blog
 them to our page
 them to our site
