@@ -2591,6 +2591,7 @@ _zapat
 /allocating-
 /allocating.
 /allocating/
+/alturl.co
 /an0n.me
 /android-market-
 /android-market.
