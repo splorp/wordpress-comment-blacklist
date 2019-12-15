@@ -456,9 +456,6 @@ _zapat
 -cell-phone/
 -charms.
 -charms/
--chaterba-
--chaterba.
--chaterba/
 -cheap-
 -cheap.
 -cheap/
@@ -1614,9 +1611,6 @@ _zapat
 .cfmx
 .cgi
 .chanel-
-.chaterba-
-.chaterba.
-.chaterba/
 .cheat-
 .cheat.
 .cheat/
@@ -2821,9 +2815,6 @@ _zapat
 /chanel.
 /chanel/
 /chat/
-/chaterba-
-/chaterba.
-/chaterba/
 /chaussure-
 /chaussure.
 /chaussures-
@@ -9709,14 +9700,17 @@ cbd advert
 cbd beaut
 cbd best
 cbd cannabis
+cbd cream
 cbd weed
 cbd-advert
 cbd-beaut
 cbd-best
 cbd-cannabis
+cbd-cream
 cbd-weed
 cbdadvert
 cbdbest
+cbdcream
 cc shop
 cc-shop
 ccan visit
@@ -9978,10 +9972,14 @@ charmsthomas
 chat met vrouwen
 chat support office
 chat tarot
+chat-bait
+chat-bate
 chat-chat
 chat-met-vrouwen
 chat-tarot
+chatburt
 chatchat
+chaterba
 chatmatic bonus
 chatmatic program
 chatmatic review
@@ -9997,6 +9995,8 @@ chatmaticprogram
 chatmaticreview
 chatmaticsecret
 chatmaticsoftware
+chatrbat
+chattburt
 chatter-bait
 chatter-bate
 chatterbait
@@ -16897,8 +16897,13 @@ gosgov
 goshop.
 gossip posted
 gossip-posted
+got a article
 got a blog
+got a post
 got a web
+got a weblog
+got a webpage
+got a website
 got idea
 got much clear
 got typed the
@@ -27890,13 +27895,16 @@ quck question
 queen chiffon
 queen clutch
 queen out
+queen slot
 queen-chiffon
 queen-clutch
 queen-out
+queen-slot
 queenchiffon
 queenclutch
 queenjp
 queenout
+queenslot
 quelques autre
 quelques outre
 quelques-autre
