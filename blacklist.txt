@@ -3037,6 +3037,7 @@ _zapat
 /f_4/
 /f_5/
 /fapme.pw
+/fas.st
 /fashion-
 /faux-
 /faux.
