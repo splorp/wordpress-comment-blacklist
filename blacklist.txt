@@ -3691,6 +3691,7 @@ _zapat
 /shortcodes/
 /shorte.st
 /shorturl.at
+/shorturl.co
 /show/
 /sigareta-
 /sigareta.

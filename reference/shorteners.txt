@@ -59,6 +59,7 @@
 /schott.im
 /shorte.st
 /shorturl.at
+/shorturl.co
 /smarturl.it
 /smsh.me
 /sn.im
