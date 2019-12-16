@@ -756,6 +756,9 @@ _zapat
 -ihover-
 -ihover.
 -ihover/
+-ile-kosztuje-
+-ile-kosztuje.
+-ile-kosztuje/
 -imap.to
 -income-
 -income.
@@ -1772,6 +1775,9 @@ _zapat
 .iapple-
 .iapple.
 .iapple/
+.ile-kosztuje-
+.ile-kosztuje.
+.ile-kosztuje/
 .in,
 .in/,
 .in/?entry.
@@ -3181,6 +3187,9 @@ _zapat
 /ihover.
 /ihover/
 /ii/
+/ile-kosztuje-
+/ile-kosztuje.
+/ile-kosztuje/
 /images-
 /images.
 /img/
@@ -7519,6 +7528,7 @@ best evance
 best fanny
 best forex
 best gaming
+best gas boil
 best jers
 best lawyer
 best mcm
@@ -7535,6 +7545,8 @@ best shoe price
 best suppl
 best tummy
 best vape
+best vpn service
+best web
 best wordpress
 best writing compan
 best writing service
@@ -7559,6 +7571,7 @@ best-fake
 best-fanny
 best-forex
 best-gaming
+best-gas-boil
 best-home-cinema
 best-jers
 best-lawyer
@@ -7580,7 +7593,9 @@ best-software-for
 best-suppl
 best-tummy
 best-vape
+best-vpn
 best-way-to
+best-web
 best-wordpress
 best-xxx
 best.;
@@ -8230,6 +8245,9 @@ body-massage-in
 bodyhn
 bogus service
 bogus-service
+boiler spare
+boiler-spare
+boilerspare
 bokserki
 bola online
 bola terpercaya
@@ -9555,6 +9573,7 @@ cash-loan
 cash-masterclass
 cash-now
 cash-progress
+cash.com.
 cash4
 cashadvance
 cashbuzz
@@ -10666,7 +10685,11 @@ chrono hack
 chrono-hack
 chrr-llc
 chttp
+chua viem
+chữa viêm
+chua-viem
 chuan-nhat-hien-nay
+chuaviem
 chung cư
 chung hightop
 chung-cư
@@ -12054,6 +12077,12 @@ czesci skody
 czesci-skody
 czesciskody
 czxczx
+czytac blog
+czytać blog
+czytac post
+czytać post
+czytac-blog
+czytac-post
 cµ
 cг
 cе
@@ -13260,12 +13289,17 @@ dо
 dу
 ɗe pieza
 ɗеl mueble
+e e juice
+e e-juice
+e ejuice
 e http
 e objetivo da
 é objetivo da
 é premium
 e-biz
 e-cig
+e-e-juice
+e-ejuice
 e-evance
 e-korting
 e-mail production
@@ -14287,6 +14321,10 @@ fajna-strona
 fajnafotka
 fajnastrona
 fajne
+fajny blog
+fajny post
+fajny-blog
+fajny-post
 fake coach
 fake converse
 fake date
@@ -16084,6 +16122,9 @@ garena-free
 garenafree
 garlic health
 garlic-health
+gas boiler replace
+gas-boiler-replace
+gasboilerreplace
 gather utile
 gather-utile
 gathering utile
@@ -17762,6 +17803,12 @@ hentai
 heook
 hepcinat
 her this submit
+herb vape
+herb vapor
+herb vapour
+herb-vape
+herb-vapor
+herb-vapour
 herbal smok
 herbal tincture
 herbal-medicin
@@ -17770,6 +17817,9 @@ herbal-tincture
 herbalmedicin
 herbalsmok
 herbaltincture
+herbvape
+herbvapor
+herbvapour
 here different
 here itt
 here lol!
@@ -18563,6 +18613,8 @@ iamimport
 icon/set
 icons/set
 idanmark
+idea for your blog
+ideas for your blog
 ideea
 idenfify
 idm crack
@@ -19626,6 +19678,7 @@ japan mont
 japan new
 japan online
 japan swarovsk
+japan xxx
 japan-1
 japan-converse
 japan-dr
@@ -19636,6 +19689,7 @@ japan-mont
 japan-new
 japan-online
 japan-swarovsk
+japan-xxx
 japanconverse
 japandrmarten
 japanese converse
@@ -19643,22 +19697,26 @@ japanese dr
 japanese marc
 japanese mont
 japanese swarovsk
+japanese xxx
 japanese-converse
 japanese-dr
 japanese-marc
 japanese-mont
 japanese-swarovsk
+japanese-xxx
 japaneseconverse
 japanesedrmarten
 japanesemarcjacobs
 japanesemontblanc
 japaneseswarovsk
+japanesexxx
 japanmarcjacobs
 japanmonster
 japanmontblanc
 japannew
 japanonline
 japanswarovsk
+japanxxx
 japon kumon
 japon-kumon
 japones kumon
@@ -19960,9 +20018,11 @@ journal/item
 journey-startup
 jovial salon
 jovial-salon
+jp xxx
 jp-bag
 jp-best
 jp-sale
+jp-xxx
 jp/blog
 jp/my
 jp/shop
@@ -19976,6 +20036,7 @@ jpmarcjacob
 jpmonster
 jpsale
 jpsasic
+jpxxx
 js wing
 js-wing
 jsadidas
@@ -20137,6 +20198,8 @@ kawastrefa
 kazino
 keen of read
 keep blogging!
+keep on blogging
+keep on posting
 keep posting!
 keep up blogging
 keep up posting
@@ -21528,6 +21591,9 @@ love connect
 love cougar
 love perfect
 love yokur
+love your blog
+love your weblog
+love your webpage
 love-connect
 love-cougar
 love-lv
@@ -22754,6 +22820,8 @@ mezzo-louis
 mezzolouis
 mgetting
 mhttp
+mi na komentarz
+mi-na-komentarz
 mi40 review
 mi40-review
 miami escort
@@ -23418,6 +23486,9 @@ moviesfree
 moviesonline
 movieszone
 moviezone
+mowia w internecie
+mówią w internecie
+mowia-w-internecie
 mp-escort
 mp3 music
 mp3-download
@@ -25354,6 +25425,8 @@ outletuk
 outletusa
 outletweb
 outletwoolrich
+outlook-repair
+outlookrepair
 outnumbered gainer
 outnumbered loser
 outnumbered-gainer
@@ -27688,6 +27761,10 @@ publik-foto
 publik-seen
 publikacja
 publikfoto
+publikujesz na blog
+publikujesz na post
+publikujesz-na-blog
+publikujesz-na-post
 publish amazing
 publish-amazing
 pucci dress
@@ -30757,6 +30834,8 @@ smith sold
 smith-sold
 smithsold
 smnall
+smok priv
+smok-priv
 smoke smok
 smoke-smok
 smoke, smok
@@ -31179,6 +31258,10 @@ spotify.htm
 spotify.jsp
 spotify.php
 spotpoker
+spotykam blog
+spotykam post
+spotykam-blog
+spotykam-post
 spravochnik
 sprawdzian pdf
 sprawdzian-pdf
@@ -33509,6 +33592,10 @@ twitter-hack
 two %
 twoj blog
 twój blog
+twojego blog
+twojego post
+twojego-blog
+twojego-post
 twoo minut
 twoo-minut
 tworzenie
@@ -35818,6 +35905,12 @@ without-ya!
 withthose
 wiuth a
 wiuth the
+wlasciwy blog
+właściwy blog
+wlasciwy post
+właściwy post
+wlasciwy-blog
+wlasciwy-post
 wmfの
 wo.r.t.h
 wo.rth
@@ -38291,6 +38384,7 @@ zyvox
 保証
 信息平台
 倒
+借錢網
 光碟破解
 全球华人
 公式
