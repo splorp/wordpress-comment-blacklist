@@ -7656,8 +7656,10 @@ bestvpn
 bestweb
 bestxxx
 bet-88
-bet-khong-
-bet-link-
+bet-guru
+bet-khong
+bet-link
+bet-list
 bet-script
 bet88
 beta/halkomentar-
@@ -7672,6 +7674,9 @@ betes7
 betes8
 betes9
 betfair
+betguru
+betkhong
+betlink
 betlist
 betor.biz
 betor.ru
@@ -8245,8 +8250,12 @@ body-massage-in
 bodyhn
 bogus service
 bogus-service
+boiler ireland
 boiler spare
+boiler-ireland
 boiler-spare
+boilers ireland
+boilers-ireland
 boilerspare
 bokserki
 bola online
@@ -8749,6 +8758,7 @@ budynku-wybrac
 built bby
 buisingess
 bukmacher
+bukmekerskaya
 bulgari bague
 bulgari bijoux
 bulgari brand
@@ -13289,6 +13299,7 @@ dо
 dу
 ɗe pieza
 ɗеl mueble
+e cig trouble
 e e juice
 e e-juice
 e ejuice
@@ -13297,7 +13308,8 @@ e objetivo da
 é objetivo da
 é premium
 e-biz
-e-cig
+e-cig trouble
+e-cig-trouble
 e-e-juice
 e-ejuice
 e-evance
@@ -16732,6 +16744,7 @@ good article:
 good article!
 good blog:
 good blog!
+good blog.
 good click
 good college essay
 good erotic
@@ -16746,12 +16759,14 @@ good paragraph
 good points there
 good post:
 good post!
+good post.
 good read:
 good read!
 good replies in
 good respond
 good site:
 good site!
+good site.
 good template
 good web
 good work fellow
@@ -19467,6 +19482,8 @@ issue with your site
 issue you're speak
 issue you’re speak
 issues with your site
+issues you're speak
+issues you’re speak
 issuesing
 istanbul escort
 istanbul-escort
@@ -28967,6 +28984,7 @@ rtnreg
 ru-blacklist
 ru-proshop
 ru-wordpress
+ru.ru
 ru.top
 ruang karpet
 ruang-karpet
@@ -31954,6 +31972,12 @@ swingtrading
 swiss replica
 swiss-replica
 swissreplica
+swoj blog
+swój blog
+swoj post
+swój post
+swoj-blog
+swoj-post
 sword trade
 sword-trade
 swords trade
@@ -36213,6 +36237,10 @@ wpblog.jp
 wpcontent
 wpimage
 wpinclude
+wpisu na blog
+wpisu na post
+wpisu-na-blog
+wpisu-na-post
 wplist
 wprobot
 wpsite
@@ -37293,6 +37321,7 @@ zyvox
 бот термин
 бот-термин
 брелки
+букмекерская
 бутик отел
 бутик-отел
 быстро!
@@ -37564,6 +37593,7 @@ zyvox
 ламинин
 легальные
 ледипасвир
+леонбет
 лечение зависимости
 лечение-зависимости
 лечить наркомани
