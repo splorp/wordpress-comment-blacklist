@@ -1368,6 +1368,7 @@ _zapat
 :) love
 :) very
 :)!
+:))
 :)love
 :)very
 :///
@@ -7160,11 +7161,14 @@ bandeira politica
 bandeira política
 bandeira-politica
 bandeira-política
+bang bao gia
+bảng báo giá
 bang bros
 bang buddy
 bang gia
 bảng giá
 bang me
+bang-bao-gia
 bang-bros
 bang-buddy
 bang-gia
@@ -7190,7 +7194,10 @@ banprezzo
 banque parrainage
 banque-parrainage
 bansunglass
+bao gia may
+báo giá máy
 bảo hiểm
+bao-gia-may
 bảo-hiểm
 barata new
 barata online
@@ -8313,11 +8320,13 @@ boobs tumblr
 boobs-tumblr
 boogging
 book mark add
+book mark this
 book marked it
 book marked to
 book marking it
 book-mark add
 book-mark-add
+book-mark-this
 book-marked it
 book-marked to
 book-marking it
@@ -12865,7 +12874,10 @@ djstool
 djtool
 dlphone
 dnjurh
+dns fuck
+dns-fuck
 dns-www
+dnsfuck
 ðº
 do anything mistake
 do blogging
@@ -14187,6 +14199,7 @@ extractpill
 extreme-sport
 extremely ample
 extremely broad for
+extremely much
 extremely superb
 extremely valid point
 extremely-ample
@@ -14929,6 +14942,12 @@ fiber,idea
 fiber.idea
 ficar mais magra
 ficar-mais-magra
+fick vid
+fick-vid
+ficken vid
+ficken-vid
+fickenvid
+fickvid
 fifa 18 ultimate
 fifa 19 ultimate
 fifa 20 ultimate
@@ -15418,6 +15437,8 @@ formula replica
 formula-blog
 formula-replica
 formulareplica
+formuly rascheta
+formuly-rascheta
 forsale go
 forsale jap
 forsale jp
@@ -16102,6 +16123,7 @@ game-full-online
 game-game
 game-ionline
 game-jers
+game-money
 game-online
 game-torrent
 game-wiki
@@ -16116,6 +16138,7 @@ gamefullonline
 gamegame
 gameionline
 gamejers
+gamemoney
 gameonline
 gamers cheat
 gamers hack
@@ -18286,9 +18309,12 @@ homeloan
 homeonline
 homeplage
 homeremed
+homes price
 homes smart
+homes-price
 homes-smart
 homesforsale
+homesprice
 homessmart
 homme chaus
 homme couche
@@ -20125,10 +20151,12 @@ junk jewelry
 junk-jewelry
 junkjewelry
 jus because
+just book mark
 just cetirizine
 just like hypnosis
 just saying you
 just wanna
+just-book-mark
 just-cetirizine
 just-wanna
 justcetirizine
@@ -23673,6 +23701,9 @@ mustn''t
 mustn’’t
 mustn”t
 mustn`t
+mutter fick
+mutter-fick
+mutterfick
 mutuelle sante
 mutuelle-sante
 mutuelles sante
@@ -24850,6 +24881,7 @@ of rated film
 of several website
 of tgese
 of the casino
+of the medical doctor
 of the web page
 of this blog
 of this info
@@ -30579,6 +30611,8 @@ signoutwidget
 signozodiac
 signzodiac
 siite
+sikerim dala
+sikerim-dala
 sikik cocuk
 sikik-cocuk
 siktirip
@@ -31422,6 +31456,7 @@ stärken medikament
 starken-medikament
 stars.stars
 starsunglass
+starwarsthe
 state-of-the-art
 statement state
 statement-state
@@ -33135,6 +33170,7 @@ tipblog
 tipo mas habit
 tipo más habit
 tipo-mas-habit
+tips daily
 tips for 2018
 tips for 2019
 tips for 2020
@@ -33144,14 +33180,15 @@ tips on interest
 tips survivor
 tips to success
 tips unlimited
+tips-daily
 tips-for-
-tips-for-success
 tips-meny
 tips-survivor
 tips-to-start
 tips-unlimited
 tips.info
 tipsblog
+tipsdaily
 tipsof
 tire crushing
 tire-crushing
@@ -33326,6 +33363,7 @@ top-buzz
 top-bvlgar
 top-essay
 top-forum
+top-game
 top-grade
 top-hk
 top-list
@@ -33360,6 +33398,7 @@ topbuzz
 topbvlgar
 topcontractor
 topforum
+topgame
 topia hack
 topia-hack
 topic of blog
@@ -34962,6 +35001,27 @@ visit-homepage
 visit-visit
 visit-web
 visitant
+visited blog
+visited homepage
+visited mmy
+visited my blog
+visited my page
+visited my post
+visited my site
+visited my sitte
+visited my web
+visited myy
+visited mʏ
+visited this blog
+visited this page
+visited this site
+visited this web
+visited web
+visited your blog
+visited your page
+visited your post
+visited your site
+visited your web
 visiting this blog
 visiting this page
 visiting this site
@@ -35746,6 +35806,9 @@ white-hermes
 white-nfl
 whitehermes
 whitenfl
+whn i
+whn the
+whn you
 who don know
 who theyre
 who usess
@@ -36335,6 +36398,7 @@ wristband-with-a-message
 wristbands-austr
 wristbands-with-a-message
 wristpain
+write a blog
 write a reviews
 write an post
 write any article
@@ -36346,6 +36410,7 @@ write my paper
 write news title
 write subsequent
 write the e-book
+write-a-blog
 write-a-protocol
 write-any-article
 write-any-essay
@@ -36357,6 +36422,7 @@ write-my-paper
 write-paper
 write-subsequent
 write-up very
+writeablog
 writeessay
 writepaper
 writer-service
@@ -37404,7 +37470,7 @@ zyvox
 бот термин
 бот-термин
 брелки
-букмекерская
+букмекерск
 бутик отел
 бутик-отел
 быстро!
