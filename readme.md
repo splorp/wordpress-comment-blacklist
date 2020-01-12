@@ -2,7 +2,7 @@
 
 **Sometimes simple is better.**
 
-Since 2011, I have painstakingly identified and compiled over 38,000 phrases, patterns, and keywords commonly used by spammers and comment bots in usernames, email addresses, link text, and URIs. As with all compilations, this blacklist is a work in progress and there will always be room for improvement and optimization.
+Since 2011, I have painstakingly identified and compiled over 39,000 phrases, patterns, and keywords commonly used by spammers and comment bots in usernames, email addresses, link text, and URIs. As with all compilations, this blacklist is a work in progress and there will always be room for improvement and optimization.
 
 Suggestions and bug reports are certainly appreciated. Please use the [issue tracker](https://github.com/splorp/wordpress-comment-blacklist/issues) to let me know.
 
@@ -98,6 +98,7 @@ See the [license.txt](https://raw.githubusercontent.com/splorp/wordpress-comment
 
 ## History
 
++ 20200112 — 39,000 entries
 + 20191113 — 38,000 entries
 + 20190926 — Refactored [generic terms containing underscores](https://github.com/splorp/wordpress-comment-blacklist/commit/10afaf88e3995e3336c8d2688c4dfc8901779a0a) to better handle valid wiki links
 + 20190915 — 37,000 entries
