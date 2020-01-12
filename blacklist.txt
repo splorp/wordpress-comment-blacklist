@@ -725,15 +725,24 @@ _zapat
 -hdfilm-
 -hdfilm.
 -hdfilm/
+-health-benefit-
+-health-benefit.
+-health-benefit/
 -health-benefits-
 -health-benefits.
 -health-benefits/
 -health-related-
 -health-related.
 -health-related/
+-healthbenefit-
+-healthbenefit.
+-healthbenefit/
 -healthbenefits-
 -healthbenefits.
 -healthbenefits/
+-healthrelated-
+-healthrelated.
+-healthrelated/
 -herbal-
 -herbal.
 -herbal/
@@ -1041,6 +1050,12 @@ _zapat
 -promocional-
 -promocional.
 -promocional/
+-promotion-
+-promotion.
+-promotion/
+-promotional-
+-promotional.
+-promotional/
 -promotions-
 -promotions.
 -promotions/
@@ -1997,9 +2012,21 @@ _zapat
 .preisvergleich/
 .press-release.
 .pressrelease.
+.promo-
+.promo.
+.promo/
 .promocional-
 .promocional.
 .promocional/
+.promotion-
+.promotion.
+.promotion/
+.promotional-
+.promotional.
+.promotional/
+.promotions-
+.promotions.
+.promotions/
 .property-sales-
 .property-sales.
 .property-sales/
@@ -3145,16 +3172,24 @@ _zapat
 /hdfilm/
 /header.us
 /headlines/
+/health-benefit-
+/health-benefit.
+/health-benefit/
 /health-benefits-
 /health-benefits.
 /health-benefits/
 /health-related-
 /health-related.
 /health-related/
+/healthbenefit-
+/healthbenefit.
+/healthbenefit/
 /healthbenefits-
 /healthbenefits.
 /healthbenefits/
-/hentai
+/healthrelated-
+/healthrelated.
+/healthrelated/
 /hermes-
 /hermes.
 /herveleger
@@ -3483,6 +3518,7 @@ _zapat
 /ok7.
 /ok8.
 /ok9.
+/om-oss/
 /onip.it
 /online-
 /online.
@@ -3588,9 +3624,21 @@ _zapat
 /profile.
 /profile/
 /prolist
+/promo-
+/promo.
+/promo/
 /promocional-
 /promocional.
 /promocional/
+/promotion-
+/promotion.
+/promotion/
+/promotional-
+/promotional.
+/promotional/
+/promotions-
+/promotions.
+/promotions/
 /property-
 /property-sales-
 /property-sales.
@@ -5908,6 +5956,7 @@ all craigslist
 all incluzive
 all the earbud
 all thhe
+all typically
 all-about-the
 all-ahout
 all-craigs-list
@@ -8700,6 +8749,7 @@ breasts porn
 breasts to a platter
 breasts-porn
 breastsporn
+breathe in seriously
 breed assimilat
 breed-assimilat
 bridge in wooden
@@ -10079,13 +10129,22 @@ chatmaticprogram
 chatmaticreview
 chatmaticsecret
 chatmaticsoftware
+chatr-bat
 chatrbat
 chattburt
+chatte-bat
+chattebat
 chatter-bait
-chatter-bate
+chatter-bat
 chatterbait
-chatterbate
+chatterbat
+chattet-bat
+chattetbat
+chattrtube
+chattrube
+chattur-bat
 chatturbat
+chatur-bat
 chaturbat
 chaturbbat
 chaturrbat
@@ -17692,6 +17751,7 @@ hanging with friend
 hanging-with-friend
 hangingwithfriend
 haohao
+happy fresh year
 happy tht
 happybirthday1
 happychristmasimage
@@ -23580,6 +23640,10 @@ moore-about
 more clash of
 more effective!
 more eventually
+more of your article
+more of your blog
+more of your post
+more of your web
 more pleasurable occasion
 more smartly
 more some time
@@ -23771,6 +23835,10 @@ must click blog
 must click link
 must click post
 must click video
+must read article
+must read blog
+must read post
+must read weblog
 must registered
 must-click-blog
 must-click-link
@@ -24604,6 +24672,7 @@ nnuauec
 no collateral
 no continu
 no fee apart
+no genuine difference
 no guarant
 no means understand
 no remov
@@ -25389,8 +25458,8 @@ opinions.in
 oprawki ray
 oprawki-ray
 oprawkiray
-opt-in promotion
-opt-in-promotion
+opt-in promo
+opt-in-promo
 optimalen frisur
 optimalen-frisur
 optimizacion web
@@ -27082,11 +27151,13 @@ porn tube
 porn vergin
 porn vid
 porn virgin
+porn watch
 porn wyna
 porn young
 porn_
 porn-
 porn-stream
+porn-watch
 porn.
 porn@
 pornact
@@ -27266,9 +27337,12 @@ porntube
 pornvergin
 pornvid
 pornvirgin
+pornwatch
 pornwyna
 pornyou
 pornyoung
+portage salarial
+portage-salarial
 portalu multimedia
 portalu-multimedia
 positikon
@@ -31216,6 +31290,9 @@ so verdienen sie
 so-nam-cao
 sobre tiara
 sobre-tiara
+socal tms
+socal-tms
+socaltms
 soccer betting
 soccer jersey sale
 soccer-betting
@@ -31679,6 +31756,8 @@ stimulacionsex
 stimulation sex
 stimulation-sex
 stimulationsex
+stiral-karem
+stiralkarem
 stivale timber
 stivale-timber
 stivaletimber
@@ -32818,17 +32897,19 @@ the fabulous blog
 the fabulous site
 the fabulous web
 the feed-back
+the great article
 the greatest web
 the helpful job
 the internet content
-the internet users
+the internet user
 the mobiles is
 the notify
 the online user
 the other blog
 the pokie
 the pople
-the quality promotion
+the precise very
+the quality promo
 the right blog
 the right web
 the same blog
@@ -32849,6 +32930,7 @@ the website offer
 the writing compan
 the writing service
 the_best
+the-benefit-of
 the-benefits-of
 the-best-treatment
 the-bitcoin
@@ -33331,6 +33413,9 @@ timelines-hack
 times(with
 timesamsonss
 timeshare
+tin tuc xe hoi
+tin tức xe hơi
+tin-tuc-xe-hoi
 tinder gold free
 tinder-gold-free
 tingenieur
@@ -33395,8 +33480,14 @@ tittypic
 tizanidine
 tjrs eu
 tjrs-eu
+tms depression
+tms therapy
+tms-depression
 tms-shoe
+tms-therapy
+tmsdepression
 tmsshoe
+tmstherapy
 tnf-sale
 tnfsale
 to article author
@@ -33914,6 +34005,10 @@ ty uy tin
 ty uy tín
 ty-uy-tin
 tyat pack
+typically the great article
+typically the great blog
+typically the great post
+typically the great web
 tʏ
 tⲟ
 tе
@@ -34410,7 +34505,7 @@ upgrade key
 upgrade-key
 upgrade-on-open
 upgradekey
-upload and promote
+upload and promo
 upload-file
 uploaded-file
 uploadedfile
@@ -37122,6 +37217,7 @@ your iphone regular
 your it occup
 your kids is
 your lover
+your lung area
 your movie to put
 your new important
 your new invaluable
@@ -37153,6 +37249,7 @@ your site..
 your sites prior
 your sites really
 your sites seem
+your skin layer
 your submit
 your subsequent put
 your success
@@ -37183,6 +37280,7 @@ your website seem
 your website the
 your wii game
 your wii will
+your zits
 your-account
 your-blog
 your-bloog
@@ -38188,6 +38286,7 @@ zyvox
 реклама
 рекламное
 рекламу
+рекомендации по
 рекомендуют врачи
 рекомендуют-врачи
 ремонт bosch
