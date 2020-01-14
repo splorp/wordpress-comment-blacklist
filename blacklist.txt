@@ -42,6 +42,7 @@ _forex
 _fuck
 _gabbana
 _gucci
+_handjob
 _hermes
 _herpes
 _heuer
@@ -719,6 +720,9 @@ _zapat
 -handbags-
 -handbags.
 -handbags/
+-handjob-
+-handjob.
+-handjob/
 -harley-davidson-
 -hat-to-
 -haziran-
@@ -1763,6 +1767,9 @@ _zapat
 .haberlist-
 .haberlist.
 .haberlist/
+.handjob-
+.handjob.
+.handjob/
 .hard-
 .hatenablog.
 .hatenadiary.
@@ -3165,6 +3172,9 @@ _zapat
 /haberlist/
 /haglofs-
 /haglofs.
+/handjob-
+/handjob.
+/handjob/
 /handle/
 /hats/
 /hdfilm-
@@ -13941,6 +13951,7 @@ escort hizmet
 escort ilan
 escort izmit
 escort kocael
+escort picture
 escort sant
 escort service
 escort zone
@@ -13957,6 +13968,7 @@ escort-hizmet
 escort-ilan
 escort-izmit
 escort-kocael
+escort-picture
 escort-sant
 escort-service
 escort-zone
@@ -13968,6 +13980,7 @@ escortgirl
 escortilan
 escortizmit
 escortkocael
+escortpicture
 escorts bayan
 escorts ilan
 escorts sant
@@ -13997,6 +14010,7 @@ eskort fuck
 eskort girl
 eskort hizmet
 eskort istanbul
+eskort picture
 eskort sant
 eskort_
 eskort-bayan
@@ -14007,12 +14021,14 @@ eskort-fuck
 eskort-girl
 eskort-hizmet
 eskort-istanbul
+eskort-picture
 eskort-sant
 eskortbayan
 eskortblog
 eskortfuck
 eskortgirl
 eskortistanbul
+eskortpicture
 eskorts sant
 eskorts_
 eskorts-sant
@@ -17738,6 +17754,8 @@ handbagswom
 handbagu
 handbagwhole
 handbagwom
+handjob_
+handjobs_
 handsome gold
 handsome-gold
 handtasche
@@ -18936,6 +18954,7 @@ imitrex
 immediate income
 immediate-income
 immediateincome
+immediately message
 immediatey
 immigrationcourt
 immobilier lux
@@ -19042,6 +19061,7 @@ increase-likes
 increase-traff
 increasetraff
 increasing internet
+increasing more age
 increasing-internet
 incredibble
 incredible article
@@ -19873,6 +19893,8 @@ jagowho
 jail bond
 jail-bond
 jailbond
+jajjaja
+jajjajj
 jam jord
 jam poker
 jam-jord
@@ -20099,6 +20121,7 @@ jiml.ar.d
 jimla.r.d
 jimmy-choo
 jimmychoo
+jjajjaj
 jjl
 job mom
 job on the article
@@ -23022,6 +23045,7 @@ mes hormone
 mes-hormone
 message all around
 message erotic
+message the agency
 message-erotic
 message-in-a-bottle
 message10board
@@ -28585,14 +28609,34 @@ recognize you tube
 recognize youtube
 recognized you tube
 recognized youtube
+recommend for your art
+recommend for your blog
+recommend for your page
+recommend for your site
+recommend for your web
 recommend internet
 recommend this blog
 recommend-internet
 recommend-this-blog
+recommendation for your art
+recommendation for your blog
+recommendation for your page
+recommendation for your site
+recommendation for your web
 recommendation will try
 recommendation. will try
 recommendations addi
+recommendations for your art
+recommendations for your blog
+recommendations for your page
+recommendations for your site
+recommendations for your web
 recommendations-addi
+recommended for your art
+recommended for your blog
+recommended for your page
+recommended for your site
+recommended for your web
 recommended internet
 recommended this blog
 recommended-internet
@@ -31788,6 +31832,10 @@ stone-jap
 stone-jp
 stonejap
 stonejp
+stop by my blog
+stop by my page
+stop by my site
+stop by my web
 stop smok
 stop snor
 stop-addi
@@ -31855,9 +31903,11 @@ strategic advert
 strategic market
 strategic-advert
 strategic-market
+strategies for increasing more
 strategies-for
 strategii binarny
 strategii-binarny
+strategy for increasing more
 strategy-for
 stratificat.
 strattera
@@ -37972,6 +38022,7 @@ zyvox
 казино рокс
 казино-rox
 казино-рокс
+как работать
 качест
 качественный
 квартир
@@ -38601,6 +38652,7 @@ zyvox
 دانلود آهنگ
 دانلود فیلم سکسی
 دايت
+دستگاه حضور
 دورات تدريب
 ساک
 سوپر
