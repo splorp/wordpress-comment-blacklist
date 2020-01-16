@@ -1172,6 +1172,9 @@ _zapat
 -shopping/
 -shops.
 -shops/
+-show-score-
+-show-score.
+-show-score/
 -sigareta-
 -sigareta.
 -sigareta/
@@ -1341,6 +1344,9 @@ _zapat
 -x-
 -x.site
 -xchange
+-you-win-
+-you-win.
+-you-win/
 -yuwanshe.
 -yuwanshe/
 -zero-cost-
@@ -1806,7 +1812,7 @@ _zapat
 .ile-kosztuje/
 .in,
 .in/,
-.in/?entry.
+.in/?
 .in/1-
 .in/1.
 .in/2-
@@ -1841,7 +1847,7 @@ _zapat
 .iphone-x-
 .iphone-x.
 .iphone-x/
-.it/?it
+.it/?
 .it/t/
 .jiliblog.
 .jobs1.
@@ -1936,7 +1942,7 @@ _zapat
 .page4.
 .ph,
 .ph/,
-.ph/?entry.
+.ph/?
 .ph/#
 .ph/1-
 .ph/1.
@@ -1980,7 +1986,7 @@ _zapat
 .picswe.
 .pl,
 .pl/,
-.pl/?entry.
+.pl/?
 .pl/#
 .pl/1-
 .pl/1.
@@ -2073,8 +2079,7 @@ _zapat
 .rivulet.co
 .ro,
 .ro/,
-.ro/?entry.
-.ro/?q=
+.ro/?
 .ro/#
 .ro/1-
 .ro/1.
@@ -2167,6 +2172,9 @@ _zapat
 .sg/proper
 .shapewear
 .shop1.
+.show-score-
+.show-score.
+.show-score/
 .simpsite.
 .sirenos.in
 .skque-
@@ -2187,7 +2195,7 @@ _zapat
 .spruz.
 .su,
 .su/,
-.su/?entry.
+.su/?
 .su/#
 .su/1-
 .su/1.
@@ -2299,13 +2307,16 @@ _zapat
 .xsl.pt
 .xxx
 .xzblogs.
+.you-win-
+.you-win.
+.you-win/
 .youblog.
 .ytimg.
 .yuwanshe.
 .yves
 .za,
 .za/,
-.za/?entry.
+.za/?
 .za/#
 .za/1-
 .za/1.
@@ -2392,37 +2403,15 @@ _zapat
 /_blog
 /_t
 /-_
-/?a
-/?b
-/?cat
-/?cl
-/?doc
-/?entry-
-/?entry.
-/?gid
-/?hid
-/?l1
-/?l2
-/?mid
-/?new
-/?opt
-/?pid
-/?tag
-/?tid
-/?tim
-/?tip
-/?top
-/?uid
+/-----/
+/----/
+/---/
 /.wd/
 //|
+//123-
 //123.
 //aaa-
 //aaa.
-//act-
-//act.
-//affordable
-//article
-//best
 //bitcoin
 //buy
 //casino
@@ -2432,34 +2421,23 @@ _zapat
 //eee
 //encrypted-
 //escort
-//free
-//friend
+//eskort
 //gay
 //generic
-//groups
 //hgh
 //images/
 //income
 //leverage
 //linkm
-//maestro
-//offic
 //onsale
 //pagina
 //penis
 //php
-//podcast-
-//podcast.
 //prosport
-//reality
-//royal-
+//ru-
 //ru.
-//shop
 //test
-//vpn-
-//vpn.
 //webpage
-//webs
 //wp-
 //xxx
 /~0
@@ -3766,6 +3744,9 @@ _zapat
 /shorte.st
 /shorturl.at
 /shorturl.co
+/show-score-
+/show-score.
+/show-score/
 /show/
 /sigareta-
 /sigareta.
@@ -4051,6 +4032,9 @@ _zapat
 /ya.
 /yabb
 /ylink.pro
+/you-win-
+/you-win.
+/you-win/
 /yourls.org
 /yourls.site
 /yours.
@@ -5066,6 +5050,7 @@ $sixty
 1000000$
 123456789
 a aaa
+a article author
 a blog from
 a e-mail
 a excellent
@@ -6846,6 +6831,11 @@ authentichermes
 authenticjord
 authenticstephen
 authenticugg
+author for your article
+author for your blog
+author for your page
+author for your site
+author for your web
 authored subject
 authored-subject
 auto brand
@@ -7505,6 +7495,7 @@ beautyreport
 becausethe
 become a bring
 become buying
+become our consumer
 become-a-success
 become-an-expert
 become-buying
@@ -8597,6 +8588,7 @@ botasmujere
 botasugg
 botcheat
 both educative
+both link along
 both-educative
 bots cheat
 bots-cheat
@@ -10986,11 +10978,14 @@ click compan
 click for more
 click here
 click now
+click over here
 click the blog
 click the last site
 click the link
 click the new site
+click the next page
 click the next site
+click the previous page
 click the previous site
 click the site
 click the video
@@ -11467,6 +11462,7 @@ commebt
 commencing film
 comment anyplace
 comment boost
+comment is here
 comment pirate
 comment speak
 comment you
@@ -13489,6 +13485,8 @@ earn-more-money
 earthly lover
 earthly-lover
 ease.in
+easier to available
+easily one tight
 easy naked
 easy-naked
 easy.in
@@ -15471,6 +15469,7 @@ footweardisc
 footwearjord
 footwearmbt
 footwears
+for a article
 for cheap
 for download.
 for du book
@@ -15732,6 +15731,7 @@ free flyer make
 free gay
 free hack
 free hip hop
+free if you win
 free instagram
 free internation
 free itunes gift
@@ -18218,6 +18218,7 @@ high cut pantie
 high cut panty
 high industry blog
 high pidel
+high professional top
 high-blog
 high-grade blog
 high-grade content
@@ -18669,6 +18670,7 @@ hoverboardstop
 hoverglide
 hovershop
 how a trucks
+how can easily
 how to choose you
 how to get movie
 how to make $
@@ -20489,6 +20491,12 @@ khám-nam
 khttp
 khumbu north
 khumbu-north
+kibo code assess
+kibo code eval
+kibo code review
+kibo-code-assess
+kibo-code-eval
+kibo-code-review
 kich duc
 kích dục
 kich-duc
@@ -21443,6 +21451,7 @@ listen-news
 listy,
 lite/wbb
 lite1/wbb
+literally energetic
 litte more
 litte-more
 littlegod
@@ -21561,6 +21570,7 @@ logotipohollis
 logout widget
 logout-widget
 logoutwidget
+logs/?
 lohan porn
 lohan-porn
 lohanporn
@@ -22567,6 +22577,11 @@ mat-luoi
 matchcash
 materia-lingua
 materia/lingua
+material for your article
+material for your blog
+material for your page
+material for your site
+material for your web
 material stylish
 material-stylish
 material, regards
@@ -27778,7 +27793,7 @@ pro-review
 pro99
 proactol
 probable profits of
-probably probably have
+probably probably
 probes-aloka
 probesaloka
 problem appliance
@@ -27808,6 +27823,7 @@ product-sale
 product/product
 producthermes
 production of e-mail
+products/product
 produit hermes
 produit-hermes
 produithermes
@@ -27815,8 +27831,8 @@ produk kerajinan
 produk-alat
 produk-kerajinan
 produk/alat
+produk/produk
 produkc
-produkcja
 produtos natura
 produtos-natura
 profesjonal
@@ -27828,6 +27844,7 @@ professional blog
 professional cosmetic
 professional essay
 professional poker
+professional top quality
 professional ugg
 professional-2018
 professional-2019
@@ -27865,19 +27882,26 @@ proficiency-showed
 proficiency-student
 proficiency-symbol
 proficiency-technique
+profil?
+profil/?
+profil/blog
 profil/profil
 profile?
 profile/?
 profile/blog
 profile/profil
+profiles?
+profiles/?
 profiles/blog
 profiles/profil
+profils?
+profils/?
+profils/blog
 profils/profil
 profissionais
 profissional opiniao
 profissional opinião
 profissional-opiniao
-profissional-opinião
 profit engine
 profit fast
 profit masterclass
@@ -33663,6 +33687,7 @@ top murder
 top naked
 top new
 top option
+top quality of service
 top sight
 top stop
 top tier
@@ -36038,8 +36063,10 @@ well-informed-people
 well-preferred
 wellbutrin
 wellness ailment
+wellness supplement
 wellness-ailment
 wellness-and-elegance
+wellness-supplement
 wentoutside
 weptwith
 werbegeschenke
@@ -36301,7 +36328,6 @@ will book mark
 will book-mark
 will hemp
 will look pertain
-will probably probably
 will-book-mark
 will-hemp
 will-save-you
@@ -36673,6 +36699,8 @@ worth-bookmarking
 worth-comment
 worth-of-visit
 worthbookmarking
+worthy of buying
+worthy-of-buying
 would extremely benefit
 would extremely suggest
 would genuinely benefit
@@ -37157,6 +37185,7 @@ you blog often
 you book mark
 you book-mark
 you bookmarked
+you can claim $
 you ccan
 you certain concern
 you could wished
