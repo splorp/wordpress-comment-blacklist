@@ -5705,6 +5705,7 @@ advertizing-market
 advertizing-method
 advertizing-research
 adverts_
+advice for this topic
 advice online
 advice-adult
 advice-online
@@ -8231,6 +8232,7 @@ bloggerbusiness
 bloggerd
 bloggerlove
 bloggers, business
+blogging and site
 blogging glance
 blogging look
 blogging user
@@ -9841,6 +9843,7 @@ cbd beaut
 cbd best
 cbd cannabis
 cbd cream
+cbd gum
 cbd isolate
 cbd weed
 cbd-advert
@@ -9848,17 +9851,27 @@ cbd-beaut
 cbd-best
 cbd-cannabis
 cbd-cream
+cbd-gum
 cbd-isolate
 cbd-weed
 cbdadvert
+cbdbeaut
 cbdbest
+cbdcannabis
 cbdcream
+cbdgum
 cbdisolate
 cc shop
 cc-shop
 ccan visit
 ccheap
 ccshop
+cctv dahua
+cctv distrib
+cctv malay
+cctv-dahua
+cctv-distrib
+cctv-malay
 ce billet
 ce-billet
 celeb diet
@@ -12271,6 +12284,8 @@ daftaragen
 daftarharg
 daftarjudi
 daftarpoke
+dahua cctv
+dahua-cctv
 đại lý
 đại-lý
 daikly
@@ -13493,8 +13508,10 @@ earn-more-money
 earthly lover
 earthly-lover
 ease.in
+easier consume
 easier to available
 easily one tight
+easy consume
 easy naked
 easy-naked
 easy.in
@@ -18227,6 +18244,7 @@ hien-nay
 hierbasmedicin
 hieu-suat-cao
 hiệu-suất-cao
+high anxious
 high blog
 high caliber fine
 high cut pantie
@@ -18249,6 +18267,7 @@ high.cc
 highblood
 highcut pantie
 highcut panty
+higher anxious
 higher level weapon
 higher pidel
 higher rank
@@ -22279,8 +22298,10 @@ makingmoney
 makke sure
 maklare
 malaysia casino
+malaysia cctv
 malaysia online
 malaysia-casino
+malaysia-cctv
 malaysia-online
 male enhance
 male erotic
@@ -25041,6 +25062,7 @@ obtain benefit
 obtain consol
 obtain fastidious
 obtain good exper
+obtain real relief
 obtain-consol
 obtain-fastidious
 obtained nothing in oppos
@@ -25142,6 +25164,7 @@ ofargument
 ofcourse
 offer a great service
 offer out
+offer something again
 offer watch
 offer you online
 offer-out
@@ -27321,6 +27344,7 @@ porno stack
 porno star
 porno stream
 porno survey
+porno sux
 porno tickl
 porno tube
 porno vergin
@@ -27330,6 +27354,7 @@ porno wyna
 porno young
 porno_
 porno-
+porno-sux
 porno.
 porno@
 pornoact
@@ -27386,6 +27411,7 @@ pornostack
 pornostar
 pornostream
 pornosurvey
+pornosux
 pornotickl
 pornotube
 pornovergin
@@ -27669,6 +27695,7 @@ premium cig
 premium digit
 premium dignit
 premium free
+premium improve
 premium key
 premium out
 premium-account
@@ -31545,6 +31572,7 @@ solo cheat
 solo-cheat
 solução
 solution blog
+solution paperwork
 solution review
 solution-blog
 solution-review
@@ -32290,18 +32318,21 @@ sunglassuk
 sunishne
 sunrize
 sunsetthe
+super affiliate
 super auto lock
 super casino
 super compan
 super fortnite
 super locksmith
 super real
+super-affiliate
 super-auto-lock
 super-casino
 super-compan
 super-fortnite
 super-locksmith
 super-real
+superaffiliate
 superarticle
 superb blog
 superb data
@@ -33743,6 +33774,7 @@ top murder
 top naked
 top new
 top option
+top quality as
 top quality of service
 top sight
 top stop
@@ -34960,9 +34992,8 @@ venetaport
 venetaprezzi
 vengasbong
 venlafaxine
-venta у distribucion
-venta у distribución
-venta-у-distribucion
+venta у distrib
+venta-у-distrib
 ventolin inhale
 ventures impart
 ventures note
@@ -35390,6 +35421,8 @@ virusinfect
 virusremov
 virussecur
 visijt
+vision cctv
+vision-cctv
 visit at here
 visit at this site
 visit blog
@@ -35688,6 +35721,7 @@ warfarin online
 warfarin-online
 warfarinonline
 warmjp
+warranty high
 warriors jersey
 warriors-jersey
 warriorsjersey
@@ -37236,6 +37270,7 @@ yorksportiv
 you - tube
 you – tube
 you aare
+you aided me
 you andd
 you are a favor
 you are a favour
@@ -37371,6 +37406,7 @@ your owwn
 your page prior
 your page seem
 your penis
+your personal doctor
 your phone regular
 your porn
 your positions continual
