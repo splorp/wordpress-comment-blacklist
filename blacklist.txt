@@ -6683,6 +6683,7 @@ assured storm
 assured-storm
 asthma and also
 asthma assault
+asthma attack patient
 asthma attack sign
 asthma attack simple
 asthma attack..
@@ -8324,6 +8325,7 @@ blueugg
 boa qualidade
 boa-qualidade
 boaby
+board battery power
 board sale
 board-sale
 boards sale
@@ -13342,6 +13344,12 @@ drmartenuk
 droid whiz
 droid-whiz
 droidwhiz
+drone blast
+drone gun
+drone-blast
+drone-gun
+droneblast
+dronegun
 drop me a mail
 drop,dehy
 drop.dehy
@@ -15268,6 +15276,8 @@ finest-web
 finestblog
 fineststeroid
 finewive
+finger promise
+finger-promise
 fingering my
 fingering-my
 finish high caliber
@@ -21744,12 +21754,14 @@ look at page
 look at post
 look at site
 look at web
+look on-line
 look your article
 look your blog
 look your page
 look your post
 look your site
 look your web
+look-on-line
 look-your-page
 look-your-post
 look-your-web
@@ -21762,8 +21774,12 @@ lookiing
 lookin for
 lookin-for
 looking at is great
+looking on-line
+looking-on-line
 lookingfor
 lookk
+looks on-line
+looks-on-line
 loosely user
 loosely-user
 lorazepam
@@ -24932,6 +24948,7 @@ nuestra-tienda
 nufactur
 nulled-team
 nulledteam
+number of or more
 number of well-like
 number service
 number-of-well-like
@@ -25136,6 +25153,7 @@ of on your blog
 of on your page
 of on your site
 of on your web
+of or more product
 of rated film
 of several website
 of tgese
@@ -25268,6 +25286,7 @@ okycupid
 old/dress
 old|
 omalizumab
+on board battery
 on few click
 on premises data
 on these article
@@ -27876,8 +27895,12 @@ procedures-for
 proceed travel in
 proceed your writing
 proceesing
+process process
+process, process
 process,you
 process.you
+processed processed
+processed, processed
 procoatpaint
 produce an fas
 produce article
@@ -33062,6 +33085,7 @@ the greatest web
 the helpful job
 the internet content
 the internet user
+the medical professional
 the mobiles is
 the notify
 the online user
@@ -34608,6 +34632,8 @@ unlockphone
 unono chaus
 unono-chaus
 unonochaus
+unprocessed unprocessed
+unprocessed, unprocessed
 unruffled beautiful
 untrasdend
 untrodden project
