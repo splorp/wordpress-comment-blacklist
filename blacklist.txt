@@ -1026,9 +1026,6 @@ _zapat
 -prada-
 -prada.
 -prada/
--preisvergleich-
--preisvergleich.
--preisvergleich/
 -premium-
 -premium.
 -premium/
@@ -2020,9 +2017,6 @@ _zapat
 .ppsspp-
 .ppsspp.
 .ppsspp/
-.preisvergleich-
-.preisvergleich.
-.preisvergleich/
 .press-release.
 .pressrelease.
 .promo-
@@ -2407,6 +2401,8 @@ _zapat
 /-----/
 /----/
 /---/
+/?goto=http
+/?goto=url
 /.wd/
 //|
 //123-
@@ -3127,6 +3123,14 @@ _zapat
 /gh0/
 /gh1/
 /glowna.
+/go?http
+/go?url
+/go.asp?http
+/go.asp?url
+/go.jsp?http
+/go.jsp?url
+/go.php?http
+/go.php?url
 /gold-claim.
 /gold-yukon.
 /gold.
@@ -3135,6 +3139,8 @@ _zapat
 /good.
 /goose/
 /got.by
+/goto?http
+/goto?url
 /graphics/
 /group1
 /group2
@@ -3585,9 +3591,6 @@ _zapat
 /prada-
 /prada.
 /prada/
-/preisvergleich-
-/preisvergleich.
-/preisvergleich/
 /premium-
 /premium.
 /press-release-
@@ -3937,6 +3940,8 @@ _zapat
 /uploads-
 /uploads.
 /uploads/
+/url.php?http
+/url.php?url
 /url/
 /urlms.co
 /urlr.be
@@ -7219,6 +7224,8 @@ banbarato
 bancshare
 bandage dress
 bandage-dress
+bandar togel
+bandar-togel
 bandarq
 bandeira politica
 bandeira política
@@ -10041,6 +10048,7 @@ ch.e.ap
 ch.ea.p
 ch.main
 chaacterist
+chachurbat
 chack-tip
 chacktip
 chanclas hollis
@@ -24082,6 +24090,7 @@ my site ..
 my site …
 my site looks
 my site read
+my site rolnic
 my site trek
 my site;
 my site:
@@ -27703,8 +27712,24 @@ preferred essay
 preferred-essay
 pregnancysymptom
 pregnantwere
+preis brecher
+preis ermitteln
+preis vergleich
+preis-brecher
+preis-ermitteln
+preis-vergleich
+preisbrecher
+preise brecher
 preise ermitteln
+preise vergleich
+preise-brecher
 preise-ermitteln
+preise-vergleich
+preisebrecher
+preiseermitteln
+preisermitteln
+preisevergleich
+preisvergleich
 premarin
 premature ejac
 premature-ejac
@@ -33080,9 +33105,11 @@ the fabulous blog
 the fabulous site
 the fabulous web
 the feed-back
+the fknest
 the great article
 the greatest web
 the helpful job
+the imagds
 the internet content
 the internet user
 the medical professional
@@ -33727,8 +33754,12 @@ toeshoes.co
 tofranil
 togel hk
 togel hong
+togel online
+togel singapore
 togel-hk
 togel-hong
+togel-online
+togel-singapore
 togelhk
 togelhong
 tohnwdouc
@@ -34069,6 +34100,9 @@ trong-top-5
 trong-top-10
 trong-top-five
 trong-top-ten
+trophaen erspielbar
+trophäen erspielbar
+trophaen-erspielbar
 truc-tiep-bong-da
 true search
 truly a fastidious
@@ -35929,9 +35963,16 @@ webb blog
 webb-blog
 webblog
 webbmaster
+webcam babe
+webcam chat
+webcam sex
 webcam site
+webcam-babe
+webcam-chat
+webcam-sex
 webcam-site
 webcambabe
+webcamchat
 webcamsex
 webcamsite
 webcontent
