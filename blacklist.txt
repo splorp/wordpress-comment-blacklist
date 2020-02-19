@@ -1490,6 +1490,7 @@ _zapat
 .()
 .[]
 .%
+.| y
 .1-pack-
 .1-pack.
 .1-pack/
@@ -4328,6 +4329,7 @@ _zapat
 | |
 | cheap
 | online
+| year
 ||
 |chi
 |dal
@@ -4440,6 +4442,7 @@ $sixty
 1.5 mg
 1.5mg
 1.in
+1.zero
 1@1
 1@2
 1@3
@@ -4491,6 +4494,7 @@ $sixty
 2.5 mg
 2.5mg
 2.in
+2.zero
 2@1
 2@2
 2@3
@@ -4530,6 +4534,7 @@ $sixty
 3…?
 3.@
 3.in
+3.zero
 3@1
 3@2
 3@3
@@ -5119,6 +5124,7 @@ a‡
 ä±
 ã±
 ã¬
+a| s
 ã¤
 ã¢
 ã£
@@ -6088,6 +6094,7 @@ amenity-provider
 america mineiro
 america-mineiro
 ametuer
+amid all blog
 amina mart
 amina-mart
 aminamart
@@ -8159,6 +8166,7 @@ blog moze
 blog może
 blog occasion
 blog on regular
+blog on the web
 blog platform
 blog post
 blog projet
@@ -8289,6 +8297,7 @@ blogging glance
 blogging look
 blogging service
 blogging user
+blogging viewer
 blogging visit
 blogging-glance
 blogging-look
@@ -8312,6 +8321,7 @@ blogprojet
 blogrtui.ru
 blogs article
 blogs like every
+blogs on the web
 blogs post
 blogs service
 blogs to read
@@ -8849,8 +8859,10 @@ brittany-battle
 brittanybattle
 brittny-battle
 brittnybattle
+broker blueprint
 broker dealer
 broker forex
+broker-blueprint
 broker-dealer
 broker-forex
 brokerforex
@@ -9776,6 +9788,8 @@ cashgenerat
 cashloan
 cashnow
 cashout
+casier judiciaire
+casier-judiciaire
 casino bonus
 casino enligne
 casino fish
@@ -13579,6 +13593,7 @@ e-training for dog
 e.@
 e.i'
 e.i’
+e| p
 e2by.in
 eâcute
 eagerly wiggling
@@ -13715,6 +13730,7 @@ ekstensywne-pracochlonne
 el-gordo.c
 elamale
 elavil
+elect do exercise
 electronic advert
 electronic mail ad
 electronic mail address
@@ -17090,6 +17106,7 @@ goo to visit
 good answer back
 good article:
 good article!
+good blog you have
 good blog:
 good blog!
 good blog.
@@ -17112,11 +17129,16 @@ good read:
 good read!
 good replies in
 good respond
+good site you have
 good site:
 good site!
 good site.
 good template
-good web
+good web:
+good web!
+good web.
+good weblog you have
+good website you have
 good work fellow
 good write-up
 good writeup
@@ -17466,6 +17488,7 @@ greatdoc
 greatessay
 greatest available
 greatest doc
+greatest knowledge broker
 greatest new
 greatest option
 greatest-available
@@ -19915,10 +19938,22 @@ it.cert
 it''s
 it's amazing article
 it's enormous piece
+it's good article
+it's good blog
+it's good page
+it's good post
+it's good site
+it's good web
 it'snot
 it’’s
 it’s amazing article
 it’s enormous piece
+it’s good article
+it’s good blog
+it’s good page
+it’s good post
+it’s good site
+it’s good web
 it’snot
 it”s
 it`s
@@ -21508,6 +21543,7 @@ liht therap
 liht-therap
 like & share
 like & sub
+like a slimming
 like all the point
 like and share
 like and sub
@@ -25184,6 +25220,7 @@ o¨
 ø¨
 o±
 ø±
+o| a
 o³
 ø³
 oª
@@ -26031,6 +26068,7 @@ outplacement-compan
 outplacementcompan
 outplacements
 outrank-competitor
+outset kilos
 outsourcing compan
 outsourcing-compan
 outsourcingcompan
@@ -27780,6 +27818,8 @@ potngsi
 poto therapy
 poto-therapy
 pototherapy
+pound demise
+pounds demise
 powder bene
 powder review
 powder-bene
@@ -31868,6 +31908,7 @@ solutionsblog
 solutionsinc
 some %
 some coinage
+some extra ass
 some functionalitie
 some ideas are new
 some one desire
@@ -33345,6 +33386,7 @@ the article are
 the articles is
 the bast to
 the beneficial to
+the best blog
 the blog,
 the blog;
 the blog:
@@ -33365,6 +33407,7 @@ the helpful job
 the imagds
 the internet content
 the internet user
+the knowledge broker
 the medical professional
 the mobiles is
 the notify
