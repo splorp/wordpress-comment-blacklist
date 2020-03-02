@@ -175,7 +175,7 @@ _zapat
 --rolex
 --selebriti
 --seo
---serv
+--service
 --sex
 --shut
 --stor
@@ -1600,6 +1600,7 @@ _zapat
 .blogster.
 .bloguetechno.
 .bloguetrotter.
+.blogz.
 .blogzag.
 .bluray-
 .bluray.
@@ -1829,7 +1830,7 @@ _zapat
 .in/member
 .in/page-
 .in/profil
-.in/serv
+.in/service
 .in/shop
 .in/sold
 .in/store
@@ -1960,7 +1961,7 @@ _zapat
 .ph/ph/
 .ph/profil
 .ph/pub
-.ph/serv
+.ph/service
 .ph/shop
 .ph/sold
 .ph/store
@@ -2005,7 +2006,7 @@ _zapat
 .pl/pl/
 .pl/profil
 .pl/rejestra
-.pl/serv
+.pl/service
 .pl/shop
 .pl/sold
 .pl/store
@@ -2095,7 +2096,7 @@ _zapat
 .ro/profil
 .ro/pub
 .ro/ro/
-.ro/serv
+.ro/service
 .ro/shop
 .ro/sold
 .ro/store
@@ -2139,7 +2140,7 @@ _zapat
 .ru/pub
 .ru/ru/
 .ru/serial
-.ru/serv
+.ru/service
 .ru/shop
 .ru/sold
 .ru/stati
@@ -2217,7 +2218,7 @@ _zapat
 .su/profil
 .su/pub
 .su/ru/
-.su/serv
+.su/service
 .su/shop
 .su/sold
 .su/store
@@ -2336,7 +2337,7 @@ _zapat
 .za/page-
 .za/profil
 .za/pub
-.za/serv
+.za/service
 .za/shop
 .za/sold
 .za/store
@@ -4264,7 +4265,7 @@ _zapat
 +select
 +sensual
 +seo
-+serv
++service
 +sex
 +shoe
 +shop
@@ -4712,7 +4713,9 @@ $sixty
 9generic
 9the best
 9the-best
+10 best free
 10 most
+10-best-free
 10-most
 １０％
 １０＄
@@ -6401,8 +6404,10 @@ approaching article
 approaching-article
 appropriate advertis
 appropriate advertiz
+appropriate vitamin
 appropriate-advertis
 appropriate-advertiz
+appropriate-vitamin
 approximately my
 approximately this topic
 approximately-my
@@ -7815,9 +7820,9 @@ betor.ru
 betscript
 better handling driving
 better-essay-writ
-better-serv
+better-service
 betterjudg
-betterserv
+betterservice
 betting article
 betting news
 betting on mlb
@@ -9128,6 +9133,7 @@ business collect
 business empire
 business know
 business online world
+business seo
 business train
 business-a2review
 business-boss
@@ -9145,6 +9151,7 @@ business-market
 business-net
 business-network
 business-profile
+business-seo
 business-train
 business’ status
 business’s status
@@ -9162,6 +9169,7 @@ businessloan
 businessmarket
 businessnetwork
 businessprofile
+businessseo
 businesstogoogle
 businesstrain
 busiunes
@@ -10421,6 +10429,7 @@ cheap replica
 cheap ring
 cheap sale
 cheap salv
+cheap seo
 cheap sexy
 cheap sherr
 cheap shoe
@@ -10518,6 +10527,7 @@ cheap-replica
 cheap-ring
 cheap-sale
 cheap-salv
+cheap-seo
 cheap-sex
 cheap-sexy
 cheap-sherr
@@ -10623,6 +10633,7 @@ cheaps ugg
 cheaps-ugg
 cheapsale
 cheapsalv
+cheapseo
 cheapsex
 cheapshoe
 cheapsilver
@@ -13194,11 +13205,11 @@ dolce bag
 dolce-bag
 dolcebag
 dollar jack
-dollar serv
+dollar service
 dollar-jack
-dollar-serv
+dollar-service
 dollarjack
-dollarserv
+dollarservice
 dolphins jers
 dolphins-jers
 dolphinsjers
@@ -13419,7 +13430,7 @@ drivel of an blog
 drivel of an page
 drivel of an site
 drivel of an web
-drivewayserv
+drivewayservice
 drmarten jap
 drmarten jp
 drmarten uk
@@ -14125,12 +14136,14 @@ escortkocael
 escortpicture
 escortporn
 escorts bayan
+escorts girl
 escorts ilan
 escorts porn
 escorts sant
 escorts zone
 escorts_
 escorts-bayan
+escorts-girl
 escorts-ilan
 escorts-porn
 escorts-sant
@@ -14139,6 +14152,7 @@ escorts.
 escorts4fun
 escortsbayan
 escortservice
+escortsgirl
 escortsilan
 escortsporn
 escortss
@@ -14178,11 +14192,14 @@ eskortgirl
 eskortistanbul
 eskortpicture
 eskortporn
+eskorts girl
 eskorts porn
 eskorts sant
 eskorts_
+eskorts-girl
 eskorts-porn
 eskorts-sant
+eskortsgirl
 eskortsporn
 espana online
 españa online
@@ -14197,7 +14214,7 @@ essay erudite
 essay fast
 essay leader
 essay producing
-essay serv
+essay service
 essay solution
 essay today
 essay typer
@@ -14213,7 +14230,7 @@ essay-intro
 essay-leader
 essay-pro
 essay-producing
-essay-serv
+essay-service
 essay-solution
 essay-today
 essay-typer
@@ -14234,21 +14251,21 @@ essays duration
 essays empire
 essays help
 essays intro
-essays serv
+essays service
 essays write
 essays-duration
 essays-empire
 essays-help
 essays-intro
 essays-review
-essays-serv
+essays-service
 essays-write
 essays4u
 essaysempire
-essayserv
+essayservice
 essayshelp
 essaysintro
-essaysserv
+essaysservice
 essayswrite
 essaytyper
 essaywrite
@@ -15316,7 +15333,7 @@ finance blog
 finance cash
 finance debt
 finance emerg
-finance serv
+finance service
 finance solution
 finance-
 finance-blog
@@ -15324,14 +15341,14 @@ finance-cash
 finance-debt
 finance-emerg
 finance-pak
-finance-serv
+finance-service
 finance-solution
 financeblog
 financecash
 financedebt
 financeemerg
 financepak
-financeserv
+financeservice
 financesolution
 financial advice book
 financial blog
@@ -15339,21 +15356,21 @@ financial cash
 financial content
 financial debt
 financial emerg
-financial serv
+financial service
 financial solution
 financial-blog
 financial-cash
 financial-content
 financial-debt
 financial-emerg
-financial-serv
+financial-service
 financial-solution
 financialblog
 financialcash
 financialcontent
 financialdebt
 financialemerg
-financialserv
+financialservice
 financialsolution
 financist
 financist.in
@@ -15991,7 +16008,7 @@ free-pron
 free-proxy
 free-psn
 free-real
-free-serv
+free-service
 free-simple
 free-skins
 free-spin-link
@@ -16063,7 +16080,7 @@ freerank
 freereal
 freesale
 freesalg
-freeserv
+freeservice
 freesimcard
 freeskins
 freeslotmachine
@@ -21605,7 +21622,7 @@ limitedjers
 limitedjp
 limitless gold
 limitless-gold
-limo-serv
+limo-service
 lindo post
 lindo-post
 line poker
@@ -21630,7 +21647,7 @@ link right here
 link sale
 link seller
 link seo
-link serv
+link service
 link submit
 link to their online
 link to your online
@@ -21651,7 +21668,7 @@ link-pyramid
 link-sale
 link-seller
 link-seo
-link-serv
+link-service
 link-submit
 link-track
 link-vault
@@ -21664,12 +21681,12 @@ linking camp
 linking issue
 linking market
 linking seo
-linking serv
+linking service
 linking-camp
 linking-issue
 linking-market
 linking-seo
-linking-serv
+linking-service
 linkingcamp
 linkingseo
 linkissue
@@ -21688,7 +21705,7 @@ links: prof
 linksale
 linkseller
 linkseo
-linkserv
+linkservice
 linksexchang
 linkssale
 linksseller
@@ -22723,7 +22740,7 @@ marketing monst
 marketing online
 marketing prof
 marketing samu
-marketing serv
+marketing service
 marketing software
 marketing tip
 marketing video clip
@@ -22744,7 +22761,7 @@ marketing-monst
 marketing-online
 marketing-prof
 marketing-samu
-marketing-serv
+marketing-service
 marketing-software
 marketing-tip
 marketing-video-clip
@@ -22759,7 +22776,7 @@ marketingmonst
 marketingonline
 marketingprof
 marketingsamu
-marketingserv
+marketingservice
 marketingtip
 marketingxchange
 marketnn
@@ -24786,8 +24803,8 @@ news_comment
 news-papers
 news.in
 newseo
-newsletter serv
-newsletter-serv
+newsletter service
+newsletter-service
 newss.
 newvibram
 newwebsite
@@ -26229,6 +26246,7 @@ page on snapchat
 page on twitter
 page regularly
 page scrape
+page seo
 page through google
 page truly has
 page-cryptocurrency
@@ -26239,6 +26257,7 @@ page-on-snapchat
 page-on-twitter
 page-regularly
 page-scrape
+page-seo
 page.best
 page.tl
 page/link
@@ -26257,6 +26276,7 @@ pages/more
 pages/pag
 pages/view
 pagescrape
+pageseo
 pagess/pg
 pagesscrape
 pagina web
@@ -27289,8 +27309,8 @@ plombier-durgence
 plombier-paris
 plombierparis
 plreause
-plumbing-serv
-plumbingserv
+plumbing-service
+plumbingservice
 plus date
 plus dating
 plus shapewear
@@ -27818,7 +27838,7 @@ post-extreme
 post-is-good
 post-post
 post-right-here
-post-serv
+post-service
 post-writing
 post-you-write
 post.best
@@ -28681,6 +28701,12 @@ pџ
 q http
 q.@
 qampuz
+qatar escort
+qatar eskort
+qatar-escort
+qatar-eskort
+qatarescort
+qatareskort
 qhttp
 qq blog
 qq online
@@ -29373,7 +29399,7 @@ replica ray
 replica relogio
 réplica relogio
 replica rolex
-replica serv
+replica service
 replica stella
 replica top
 replica ugg
@@ -29409,7 +29435,7 @@ replica-ray
 replica-relogio
 réplica-relogio
 replica-rolex
-replica-serv
+replica-service
 replica-stella
 replica-store
 replica-top
@@ -29461,7 +29487,7 @@ réplicas-de-
 replicas-relogio
 réplicas-relogio
 replicasde
-replicaserv
+replicaservice
 replicasrelogio
 replicastella
 replicastore
@@ -30500,11 +30526,12 @@ seo host
 seo indonesia
 seo luton
 seo online
+seo optim
 seo page
 seo pick
 seo plug
 seo rank
-seo serv
+seo service
 seo site
 seo soluton
 seo source
@@ -30537,11 +30564,12 @@ seo-host
 seo-indonesia
 seo-luton
 seo-online
+seo-optim
 seo-page
 seo-pick
 seo-plug
 seo-rank
-seo-serv
+seo-service
 seo-site
 seo-soluton
 seo-source
@@ -30568,10 +30596,11 @@ seogod
 seohighscore
 seohost
 seoluton
+seooptim
 seopick
 seoplug
 seorank
-seoserv
+seoservice
 seosoluton
 seosource
 seotoil
@@ -30652,7 +30681,7 @@ serviced-ass
 servicedoc
 services-ecommerce
 services/ecommerce
-services/serv
+services/service
 servicii profes
 servicii-profes
 servicos prestado
@@ -32341,7 +32370,7 @@ store online
 store out
 store penis
 store purchased
-store serv
+store service
 store shopping
 store whole
 store-caldle
@@ -32350,7 +32379,7 @@ store-online
 store-out
 store-penis
 store-purchased
-store-serv
+store-service
 store-shopping
 store-whole
 store.bl
@@ -32364,7 +32393,7 @@ storepenis
 stores for women
 stores-for-women
 stores.bl
-storeserv
+storeservice
 stories funny
 stories-funny
 storiesfunny
@@ -33289,6 +33318,8 @@ tempte.s.t
 tempte.st
 temptes.t
 temptest
+ten best free
+ten-best-free
 tengo una web
 tennisstream
 tenormin
@@ -34180,6 +34211,7 @@ toolkit obtain
 tooth tooth
 tooth-new
 toothnew
+top 10 best
 top advanture
 top article
 top available
@@ -34338,12 +34370,12 @@ tra dao quan
 trà đạo quán
 tra-dao-quan
 trà-đạo-quán
-trace serv
-trace-serv
-traceserv
-tracing serv
-tracing-serv
-tracingserv
+trace service
+trace-service
+traceservice
+tracing service
+tracing-service
+tracingservice
 track hyperlink
 track-back
 track-hyperlink
@@ -35944,7 +35976,9 @@ vissit
 visxit
 vital infos
 vitalikor
+vitamin supplement
 vitamin-for
+vitamin-supplement
 vitaminfor
 vitamins-for
 vitaminsfor
@@ -36303,6 +36337,7 @@ web pharm
 web porn
 web promo
 web scheme
+web seo
 web sie
 web sikte
 web site ..
@@ -36347,6 +36382,7 @@ web-porn
 web-pro
 web-promo
 web-scheme
+web-seo
 web-sie
 web-site
 web-sitte
@@ -36451,6 +36487,7 @@ webseiten bookmark
 webseiten download
 webseiten-bookmark
 webseiten-download
+webseo
 websex
 webshop/image
 websit was
@@ -37386,7 +37423,7 @@ writing-manually
 writing-paper
 writing-person
 writing-posted
-writing-serv
+writing-service
 writing-tactic
 writing-taste
 writing-writing
@@ -37394,7 +37431,7 @@ writing, great job
 writingessay
 writinghelper
 writingpaper
-writingserv
+writingservice
 wrote the e-book
 wtf brand
 wtf florida
