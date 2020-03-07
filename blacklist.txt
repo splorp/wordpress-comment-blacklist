@@ -1,5 +1,6 @@
 _abercrom
 _adidas
+_adsense
 _advant
 _advert
 _afford
@@ -1501,6 +1502,9 @@ _zapat
 .acgi
 .adboard
 .adsboard
+.adsense-
+.adsense.
+.adsense/
 .adultnet.
 .advertising-of-
 .advertising-of.
@@ -2604,6 +2608,9 @@ _zapat
 /adorable-
 /adorable.
 /ads/
+/adsense-
+/adsense.
+/adsense/
 /adult.xyz
 /advertising-of-
 /advertising-of.
@@ -5601,6 +5608,10 @@ ads-live
 adsages
 adsbygoogle
 adscrack
+adsense hack
+adsense_
+adsense-hack
+adsensehack
 adsjeremy
 adslive
 adsplus
@@ -11100,6 +11111,7 @@ cleveland-jers
 click advert
 click affiliate
 click bank
+click buy now
 click compan
 click for more
 click here
@@ -11126,6 +11138,7 @@ click_
 click-advert
 click-affiliate
 click-bank
+click-buy-now
 click-compan
 click-for-more
 click-here
@@ -13304,6 +13317,7 @@ download futbal
 download gratis
 download intrusion
 download joomla
+download online
 download provide
 download-android
 download-apk
@@ -13318,20 +13332,28 @@ download-futbal
 download-gratis
 download-intrusion
 download-joomla
+download-online
 download-provide
 downloadablegame
 downloadarab
 downloadbrace
 downloadcam
+downloader online
+downloader-online
 downloadfootbal
 downloadfotbal
 downloadfreebie
 downloadfutbal
+downloading online
+downloading-online
 downloadism
 downloads arab
+downloads online
 downloads-arab
+downloads-online
 downloadsarab
 downlowd
+downlownload
 doxycycline
 dr prescription
 dr-prescription
@@ -15548,6 +15570,9 @@ fluccun
 fluconazole
 fluoxetine
 fluticasone
+flvto conv
+flvto-conv
+flvtoconv
 fmovie
 fobur.in
 fodbold trojer
@@ -17467,6 +17492,7 @@ graypanther
 grayson bag
 grayson-bag
 graysonbag
+grea web
 great blog
 great blog roll
 great blog you
@@ -19654,6 +19680,8 @@ intelligently about
 intelligently-about
 interact internet
 interact-internet
+interested? – click
+interested? click
 interestijg
 interesting blog
 interesting post
@@ -33801,9 +33829,13 @@ tho i love
 tho-prudential
 thọ-prudential
 thoatvidia
+thoi trang
+thời trang
 thoi trang cong
 thời trang công
+thoi-trang
 thoi-trang-cong
+thoitrang
 thomas sabot
 thomas-fat
 thomas-sabot
@@ -38099,6 +38131,7 @@ youtubetv
 youtubevi
 youtvplay
 youu
+youur
 youve
 youviral
 youyou
@@ -39677,6 +39710,7 @@ zyvox
 評価
 試，
 谋t
+谷歌seo
 財布
 貿易
 资的回报
