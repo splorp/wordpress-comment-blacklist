@@ -2413,6 +2413,7 @@ _zapat
 /-----/
 /----/
 /---/
+/——-
 /?goto=http
 /?goto=url
 /.wd/
@@ -5446,6 +5447,8 @@ actually excellent
 actually fruitful
 actually many sort
 actually medicine
+actually quickly becoming
+actually several follow
 actually thank
 actually-certainly
 actually-dont
@@ -12648,6 +12651,7 @@ defammatory-post
 default/member
 default1
 default2
+deference to post
 defiantly brilliant
 defiantly-brilliant
 defiantlybrilliant
@@ -12727,10 +12731,14 @@ dentalveneer
 dentist online
 dentist-online
 dentistonline
+dep nhat
+đẹp nhất
+dep-nhat
 depart your blog
 depart your page
 depart your site
 depart your web
+depnhat
 depoimentos reais
 depoimentos-reais
 deposit casino
@@ -15785,6 +15793,7 @@ formula-replica
 formulareplica
 formuly rascheta
 formuly-rascheta
+forr post
 forsale go
 forsale jap
 forsale jp
@@ -22206,6 +22215,10 @@ loveblog
 loveconnect
 lovecougar
 loved onein
+loved your blog
+loved your post
+loved your site
+loved your web
 loved-onein
 loveers
 lovelv
@@ -23162,8 +23175,10 @@ medbaz
 medecine
 medeniz
 media market
+media sosial
 media-market
 media-palitra
+media-sosial
 media/sys
 mediamarket
 mediapalitra
@@ -23713,6 +23728,7 @@ moi xem ne
 mới xem nè
 moi-gioi
 moi-xem-ne
+moidotcom
 moisture cloth
 mold inspection
 mold-inspection
@@ -24501,6 +24517,7 @@ myowndomain
 myqrop
 myresume
 myreview.co
+myriads of enthusiast
 myspacee
 myssite
 myswlf
@@ -27112,11 +27129,23 @@ phpbb2
 phpinfo
 phpoakley
 phttp
+phuc 2018
+phục 2018
+phuc 2019
+phục 2019
+phuc 2020
+phục 2020
 phục áo phông
 phuc ao thun
 phục áo thun
+phuc-2018
+phuc-2019
+phuc-2020
 phuc-ao-phong
 phuc-ao-thun
+phuc2018
+phuc2019
+phuc2020
 phukhoasaigon
 phync
 physician formula
@@ -30553,6 +30582,7 @@ seo hiz
 seo host
 seo indonesia
 seo luton
+seo mumbai
 seo online
 seo optim
 seo page
@@ -30591,6 +30621,7 @@ seo-hiz
 seo-host
 seo-indonesia
 seo-luton
+seo-mumbai
 seo-online
 seo-optim
 seo-page
@@ -30624,6 +30655,7 @@ seogod
 seohighscore
 seohost
 seoluton
+seomumbai
 seooptim
 seopick
 seoplug
@@ -32050,6 +32082,8 @@ sooemne
 soomeone
 soon:-
 soon:)
+sosial media
+sosial-media
 sound like you know
 source blossom
 source-blossom
@@ -34456,12 +34490,16 @@ traitement-des
 tramadol
 trang chu
 trang chủ
+trang dep
+trang đẹp
 trang manly
 trang y te
 trang y tế
 trang-chu
+trang-dep
 trang-manly
 trang-y-te
+trangdep
 trangmanly
 transform-vhs
 translation christ
@@ -37934,6 +37972,7 @@ your digital business
 your display screen
 your expertise within
 your glorious overview
+your innfo
 your iphone film
 your iphone regular
 your it occup
