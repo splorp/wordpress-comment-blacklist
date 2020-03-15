@@ -1724,6 +1724,12 @@ _zapat
 .dosityna-
 .dosityna.
 .dosityna/
+.drmarten-
+.drmarten.
+.drmarten/
+.drmartens-
+.drmartens.
+.drmartens/
 .ee/ee/
 .equal-
 .erchant-
@@ -3027,7 +3033,11 @@ _zapat
 /doudoune.
 /download.
 /drmarten-
+/drmarten.
+/drmarten/
 /drmartens-
+/drmartens.
+/drmartens/
 /drug-
 /drug.
 /dsquared-
@@ -8382,9 +8392,13 @@ blow-job
 blowjob
 blu-cig
 blucig
+blue chew
 blue ugg
+blue_chew
 blue_pill
+blue-chew
 blue-pill
+blue-tube
 blue-ugg
 bluecap turbo
 bluecap-turbo
@@ -8392,6 +8406,7 @@ bluecaps turbo
 bluecaps-turbo
 bluecapsturbo
 bluecapturbo
+bluechew
 bluefin-trad
 bluefintrad
 bluehost-review
@@ -8402,6 +8417,7 @@ bluetooth-head
 bluetooth-jammer
 bluetoothhead
 bluetoothjammer
+bluetube
 blueugg
 boa qualidade
 boa-qualidade
@@ -13186,7 +13202,9 @@ docteur-marten
 docteurdre
 docteurmarten
 doctor verif
+doctor visit online
 doctor-verif
+doctor-visit-online
 document/bv
 document/celine
 document/chanel
@@ -13364,7 +13382,9 @@ downlowd
 downlownload
 doxycycline
 dr prescription
+dr visit online
 dr-prescription
+dr-visit-online
 dragon avail
 dragon-avail
 dragons avail
@@ -25804,6 +25824,7 @@ online-outlet
 online-pharm
 online-poker
 online-pokie
+online-prescription
 online-profit
 online-reader
 online-reddit
@@ -34609,8 +34630,11 @@ tthis other
 ttlink
 tto find
 tto put
+tube sex
+tube-sex
 tube-zzz
 tubee.tv
+tubesex
 tubezzz
 tuc online
 tức online
