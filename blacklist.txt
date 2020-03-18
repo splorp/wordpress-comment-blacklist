@@ -901,6 +901,9 @@ _zapat
 -meme-
 -meme.
 -meme/
+-memy-
+-memy.
+-memy/
 -men-jers
 -mens-jers
 -mens.
@@ -1918,6 +1921,9 @@ _zapat
 .meme-
 .meme.
 .meme/
+.memy-
+.memy.
+.memy/
 .mihanblog.
 .moncler-
 .mrwhite-
@@ -3447,6 +3453,9 @@ _zapat
 /meme-
 /meme.
 /meme/
+/memy-
+/memy.
+/memy/
 /message-show
 /middles.
 /mk-us/
@@ -6982,6 +6991,7 @@ awesome-weblog
 awesome-webpage
 awesome-webpost
 awesome-website
+awesomee
 awesoome
 awokehim
 awordpress.
@@ -8157,6 +8167,7 @@ blog before
 blog blog
 blog center
 blog centre
+blog de forma
 blog diaria
 blog diária
 blog diet
@@ -8230,6 +8241,7 @@ blog-before
 blog-blog
 blog-center
 blog-centre
+blog-de-forma
 blog-diaria
 blog-diária
 blog-diet
@@ -8773,6 +8785,8 @@ bow-ugg
 bowling footwear
 bowling-footwear
 bowugg
+box iphone
+box-iphone
 boxing hack
 boxing-hack
 boxshopping.ru
@@ -18261,6 +18275,8 @@ help.htm
 help.jsp
 help.php
 helpcry
+helper download
+helper-download
 helpessay
 helpful blog
 helpful content
@@ -22299,6 +22315,9 @@ lublina.
 luck jers
 luck-jers
 luckjers
+lucky patcher
+lucky-patcher
+luckypatcher
 lucrar renda
 lucrar-renda
 luggage tote
@@ -25538,10 +25557,12 @@ ofargument
 ofcourse
 offer a great service
 offer out
+offer promo
 offer something again
 offer watch
 offer you online
 offer-out
+offer-promo
 offer-watch
 offer-you-online
 offer.net
@@ -25556,6 +25577,8 @@ offered you with quite
 offering free
 offering-free
 offerout
+offers promo
+offers-promo
 offerta occhia
 offerta ray
 offerta-occhia
@@ -26297,6 +26320,7 @@ packersjers
 packs fanny
 packs-fanny
 page ::
+page are equip
 page cryptocurrency
 page fully about
 page give pleasant
@@ -26845,6 +26869,8 @@ pefcret
 pen montblanc
 pen-montblanc
 penetrar uma
+penetrative sex
+penetrative-sex
 pengemarked
 peni natur
 peni-natur
@@ -32272,6 +32298,8 @@ spotify.asp
 spotify.htm
 spotify.jsp
 spotify.php
+spotify++ 2020
+spotify++ ios
 spotpoker
 spotykam blog
 spotykam post
@@ -33668,6 +33696,9 @@ theme sale
 theme-basic
 theme-generat
 theme-sale
+theme?excellent
+theme?fantastic
+theme?wonderful
 themebasic
 themegenerat
 themes sale
@@ -35866,6 +35897,8 @@ videosex
 videosporn
 vidéosporn
 videosport
+videostar++ 2020
+videostar++ ios
 videosview
 vidéosview
 videosvue
@@ -36037,6 +36070,8 @@ visit-homepage
 visit-visit
 visit-web
 visitant
+visitar blog
+visitar-blog
 visited blog
 visited homepage
 visited mmy
@@ -37221,6 +37256,7 @@ wonderful article
 wonderful blog
 wonderful business online
 wonderful educational
+wonderful for you together
 wonderful goods
 wonderful homepage
 wonderful informative
@@ -37357,6 +37393,9 @@ work you have here
 work you write
 work-review
 work-you-write
+work!excellent
+work!fantastic
+work!wonderful
 workable symptom
 working, great job
 workout-sale
@@ -38106,6 +38145,7 @@ your-skin
 your-subsequent-put
 your-success
 your-ugg
+your-ultimate
 your-weblog
 your-webpage
 your-website-for
@@ -38150,6 +38190,7 @@ yoursijte
 yoursite
 yoursuccess
 yourugg
+yourultimate
 yourweblog
 yourwebpage
 yourwebsite
