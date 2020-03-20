@@ -4540,6 +4540,9 @@ $sixty
 2hand
 2health
 2itb
+2k20 vc
+2k20-vc
+2k20vc
 2minut
 2ping
 2purse
@@ -16464,8 +16467,6 @@ gagprincess
 gain important assist
 gain to your business
 gain v buck
-gain weight
-gain-weight
 gained from your blog
 gained from your page
 gained from your site
@@ -16474,7 +16475,6 @@ gainers beat
 gainers outnumbered
 gainers-beat
 gainers-outnumbered
-gainweight
 galaxy nail
 galaxy-nail
 galaxy-s4-ban
@@ -22109,6 +22109,7 @@ los replica
 los-beneficio
 los-replica
 lose at casino
+lose weight motivat
 lose weight simply
 lose-weight
 losers beat
@@ -24146,6 +24147,8 @@ mostra-vid
 mostravid
 mother fuck
 mother-fuck
+motivation book
+motivation-book
 motor whole
 motor-whole
 mount sex
@@ -25458,6 +25461,7 @@ obtain real relief
 obtain-consol
 obtain-fastidious
 obtained nothing in oppos
+obtained to job
 obulvosiy
 obuv mesh
 obuv nach
@@ -26662,6 +26666,7 @@ parti-rni
 particular article
 particular broker
 particular proficiency
+particular same
 particular wearer
 particular-article
 particular-broker
@@ -31443,6 +31448,7 @@ shouldn”t
 shouldn`t
 show-news
 show-topic
+showbox for iphone
 shownews
 showroom gucci
 showroom-gucci
@@ -32871,6 +32877,7 @@ superaffiliate
 superarticle
 superb blog
 superb data
+superb information
 superb page
 superb site
 superb subject matter
@@ -35579,6 +35586,10 @@ variant2
 variant3
 vbucks
 vbyj
+vc free
+vc glitch
+vc-free
+vc-glitch
 vecaro lifestyle
 vecaro_
 vecaro-lifestyle
@@ -36398,6 +36409,7 @@ watchseiko
 watchwrestling
 water-weight
 waterprrof
+waterweight
 wating for you
 way of amateur
 way of blogging
@@ -36551,6 +36563,7 @@ webexplore
 webfarm
 webhostapp
 weblink
+weblog every once
 weblog post
 weblog thank
 weblog. thank
@@ -36629,6 +36642,8 @@ website building
 website daily
 website easily
 website easy
+website every day
+website every once
 website everyday
 website for every
 website from where
@@ -36680,6 +36695,7 @@ website-building
 website-daily
 website-easily
 website-easy
+website-every-day
 website-everyday
 website-for-every
 website-inquiry
@@ -36775,14 +36791,13 @@ weekly.in
 weeklyincome
 weeklyprofit
 weelhtiar
+weight 101
 weight natur
 weight work
 weight-101
 weight-natur
 weight-work
 weight101
-weightgain
-weightloss
 weightnatur
 weightwork
 welcome-to-my-blog
