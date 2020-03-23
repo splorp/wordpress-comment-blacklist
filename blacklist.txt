@@ -1438,11 +1438,9 @@ _zapat
 ?affil=
 ?affiliate=
 ?birkin
-?browse
 ?bvlgari
 ?celine
 ?coach
-?domain
 ?ducati
 ?fendi
 ?firma
@@ -1451,13 +1449,8 @@ _zapat
 ?gucci
 ?hermes
 ?hollis
-?jp
-?kat
-?key
-?lang
 ?longchamp
 ?mbt
-?mod
 ?mulberry
 ?nike
 ?p_
@@ -1475,16 +1468,12 @@ _zapat
 ?t_
 ?t-
 ?timber
-?title
 ?tumi
 ?twid
 ?u_
 ?u-
-?url=
-?user
 ?utm_source=
 ?utm_term=
-?view
 ?youtube
 . ?i
 .-0
@@ -3155,12 +3144,16 @@ _zapat
 /gh0/
 /gh1/
 /glowna.
+/go?go
 /go?http
 /go?url
+/go.asp?go
 /go.asp?http
 /go.asp?url
+/go.jsp?go
 /go.jsp?http
 /go.jsp?url
+/go.php?go
 /go.php?http
 /go.php?url
 /gold-claim.
@@ -3171,8 +3164,21 @@ _zapat
 /good.
 /goose/
 /got.by
+/goto?go
 /goto?http
 /goto?url
+/gourl?go
+/gourl?http
+/gourl?url
+/gourl.asp?go
+/gourl.asp?http
+/gourl.asp?url
+/gourl.jsp?go
+/gourl.jsp?http
+/gourl.jsp?url
+/gourl.php?go
+/gourl.php?http
+/gourl.php?url
 /graphics/
 /group1
 /group2
@@ -3978,6 +3984,10 @@ _zapat
 /uploads-
 /uploads.
 /uploads/
+/url?go
+/url?http
+/url?url
+/url.php?go
 /url.php?http
 /url.php?url
 /url/
@@ -7145,9 +7155,12 @@ baccaratview
 bacfk
 bachelor college degree
 back data over
+background check free
 background checker free
+background-check-free
 background-checker-free
 backgroundcheckerfree
+backgroundcheckfree
 backlink
 baclofen
 bad credit
@@ -12880,6 +12893,7 @@ devilspite
 devlin design
 devlin-design
 devlindesign
+dewapoker
 dewelop
 df!
 dfy suite
@@ -13115,6 +13129,7 @@ discuss over the blog
 discuss over the internet
 discuss over the net
 discuss over the page
+discuss your want
 discussing on the blog
 discussing on the internet
 discussing on the net
@@ -17536,9 +17551,9 @@ grayson bag
 grayson-bag
 graysonbag
 grea web
-great blog
 great blog roll
 great blog you
+great blog, keep
 great blogroll
 great educational post
 great good
@@ -17554,12 +17569,12 @@ great read:
 great read!
 great sex party
 great site you
+great site, keep
 great trailer program
 great trailer strateg
 great weblog
-great weblog you
+great weblog, keep
 great webpage
-great website
 great website you
 great written
 great-blog-roll
@@ -18042,6 +18057,7 @@ hanging-with-friend
 hangingwithfriend
 haohao
 happens you are deal
+happy and ready
 happy fresh year
 happy tht
 happybirthday1
@@ -18305,7 +18321,11 @@ hence choose
 hentai
 heook
 hepcinat
+her escort
+her eskort
 her this submit
+her-escort
+her-eskort
 herb vape
 herb vapor
 herb vapour
@@ -18333,6 +18353,8 @@ heremethotrexate
 heren timber
 heren-timber
 herentimber
+herescort
+hereskort
 herhrh
 hermes abrasif
 hermes austr
@@ -18545,7 +18567,13 @@ hipster tumblr
 hipster-tumblr
 hiring cafe
 hiring-cafe
+his escort
+his eskort
 his web
+his-escort
+his-eskort
+hisescort
+hiseskort
 hisslipper
 historia spodni
 historia-spodni
@@ -19194,7 +19222,6 @@ im-please
 im-very
 im-wonder
 image-old
-image/?
 image/bv
 image/cache
 image/celine
@@ -19209,7 +19236,6 @@ image/rolex
 image/table
 image/ugg
 images-old
-images/?
 images/blogs
 images/bv
 images/cache
@@ -24177,7 +24203,6 @@ movie-123
 movie-full
 movie-online
 movie-zone
-movie/?
 movie123
 moviefull
 movieonline
@@ -24194,7 +24219,6 @@ movies-free
 movies-online
 movies-trailer
 movies-zone
-movies/?
 movies123
 moviesandfilm
 moviesdl
@@ -24298,6 +24322,7 @@ musics-24
 musics24
 musicviral
 must be pay
+must check this out
 must click blog
 must click link
 must click post
@@ -25559,6 +25584,7 @@ of-the-casino
 of-you-develop
 ofargument
 ofcourse
+off topic but
 offer a great service
 offer out
 offer promo
@@ -26029,6 +26055,7 @@ organic hemp
 organic seo
 organic-hemp
 organic-seo
+organicseo
 organizovana zlo
 organizovana-zlo
 organogold
@@ -28426,20 +28453,12 @@ proficiency-showed
 proficiency-student
 proficiency-symbol
 proficiency-technique
-profil?
-profil/?
 profil/blog
 profil/profil
-profile?
-profile/?
 profile/blog
 profile/profil
-profiles?
-profiles/?
 profiles/blog
 profiles/profil
-profils?
-profils/?
 profils/blog
 profils/profil
 profissionais
@@ -29109,6 +29128,7 @@ reading your site
 reading your web
 reading-poker
 reading-taste
+ready and happy
 readyto
 reaing this
 real excellent info
@@ -29141,6 +29161,7 @@ really like this blog
 really like this post
 really marvellous info
 really marvelous info
+really real
 really seldom
 really terminal
 really tremendously
@@ -30617,6 +30638,7 @@ senuke-vps
 senukevps
 seo & marketing
 seo add
+seo advert
 seo and cms
 seo and marketing
 seo barn
@@ -30655,6 +30677,7 @@ seo with
 seo_
 seo-1337
 seo-add
+seo-advert
 seo-and-cms
 seo-and-marketing
 seo-barn
@@ -30696,6 +30719,7 @@ seo,
 seo?
 seo1337
 seoadd
+seoadvert
 seoagenc
 seobarn
 seocheck
@@ -30860,6 +30884,7 @@ sex position you
 sex positions you
 sex scan
 sex search
+sex service
 sex sex
 sex shop
 sex show
@@ -30907,6 +30932,7 @@ sex-pc
 sex-porn
 sex-scan
 sex-search
+sex-service
 sex-sex
 sex-shop
 sex-show
@@ -30965,6 +30991,7 @@ sexs live
 sexs-live
 sexscan
 sexsearch
+sexservice
 sexsex
 sexshop
 sexshow
@@ -31387,6 +31414,7 @@ shop.top
 shopboot
 shopcoupon
 shopcustomer
+shopee.tw
 shopent.ru
 shopent.su
 shoperotic
@@ -32184,6 +32212,7 @@ spamrespon
 sparkle ugg
 sparkle-ugg
 sparkleugg
+speaking approximate
 special approximate
 special daay
 special-approximate
@@ -32902,11 +32931,12 @@ superdryoutlet
 superfortnite
 superheroz
 superior compan
-superior resource
+superior resourc
 superior-compan
-superior-resource
+superior-resourc
 superior-sport
 superiorcompan
+superiorresourc
 superiorsport
 superlocksmith
 superseller
@@ -32915,16 +32945,34 @@ superstar status
 superstar-class
 superstar-status
 superstarclass
+superstarstatus
 suplemento natural
 suplemento-natural
 suplose
+supplement citra
 supplement energy
+supplement natural
+supplement review
+supplement-citra
 supplement-energy
+supplement-natural
+supplement-review
+supplementcitra
 supplementenergy
-supplements citrate
+supplementnatural
+supplementreview
+supplements citra
 supplements energy
+supplements natural
+supplements review
+supplements-citra
 supplements-energy
+supplements-natural
+supplements-review
+supplementscitra
 supplementsenergy
+supplementsnatural
+supplementsreview
 suppliers that'
 suppliers that’
 suppliers-that
@@ -33924,10 +33972,7 @@ thọ-prudential
 thoatvidia
 thoi trang
 thời trang
-thoi trang cong
-thời trang công
 thoi-trang
-thoi-trang-cong
 thoitrang
 thomas sabot
 thomas-fat
@@ -34549,16 +34594,22 @@ traitement-des
 tramadol
 trang chu
 trang chủ
+trang cong
 trang dep
 trang đẹp
+trang hot
 trang manly
 trang y te
 trang y tế
 trang-chu
+trang-cong
 trang-dep
+trang-hot
 trang-manly
 trang-y-te
+trangcong
 trangdep
+tranghot
 trangmanly
 transform-vhs
 translation christ
@@ -36175,6 +36226,8 @@ vpn-4-free
 vpn-dns-leak
 vpn4free
 vpn外网
+vs seo
+vs-seo
 vtx-fair
 vtxfair
 vuitton austr
@@ -38187,6 +38240,7 @@ youre talk
 youre-incred
 youre-so
 youre-talk
+youreally
 yourfree
 yourloan
 yourls
@@ -39740,6 +39794,7 @@ zyvox
 口コミ
 吉田カバン
 商品
+商城
 块钱
 基測|
 外贸
