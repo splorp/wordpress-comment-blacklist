@@ -21,7 +21,8 @@ Repeat this procedure each time you want to install an updated version of the bl
 If you prefer a more hands-off approach, there are several plugins that will check whether the [master blacklist](https://raw.github.com/splorp/wordpress-comment-blacklist/master/blacklist.txt) has changed and then automatically install the most recent version. How handy is that?
 
 + [Blacklist Updater](https://wordpress.org/plugins/blacklist-updater/) by [Sergej Müller](https://github.com/sergejmueller)
-+ [Comment Blacklist Manager](https://wordpress.org/plugins/comment-blacklist-manager/) by [Andrew Norcross](https://github.com/norcross) 
++ [Comment Blacklist Manager](https://wordpress.org/plugins/comment-blacklist-manager/) by [Andrew Norcross](https://github.com/norcross)
++ [Comment Blacklist Updater](https://wordpress.org/plugins/comment-blacklist-updater/) by [Apasionados](https://apasionados.es/)
 + [Shield Security for WordPress](https://wordpress.org/plugins/wp-simple-firewall/) by [One Dollar Plugin](https://onedollarplugin.com/)
 
 ## Does It Really Work?
@@ -106,6 +107,7 @@ See the [license.txt](https://raw.githubusercontent.com/splorp/wordpress-comment
 + 20190721 — Fixed bug that affected comments containing the common term “[product](https://github.com/splorp/wordpress-comment-blacklist/commit/1e6264186298ff8f573c4401d7fe10aa70f5917f)”
 + 20190720 — Fixed bug that affected comments containing the common term “[while](https://github.com/splorp/wordpress-comment-blacklist/commit/dc42a98623998d591c426dab2a05c0780088b3a5)”
 + 20190420 — 35,000 entries
++ 20190217 — Apasionados’ [Comment Blacklist Updater](https://wordpress.org/plugins/comment-blacklist-updater/) plugin released
 + 20190212 — 34,000 entries
 + 20190107 — 33,000 entries
 + 20181125 — 32,000 entries
