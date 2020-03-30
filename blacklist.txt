@@ -8,7 +8,10 @@ _albion
 _alviero
 _annonce
 _asshole
+_barata
+_barato
 _bitcoin
+_biz
 _blackjack
 _blahnik
 _bulgar
@@ -48,6 +51,7 @@ _hermes
 _herpes
 _heuer
 _http
+_jord
 _lacoste
 _latisse
 _lesbian
@@ -6840,10 +6844,12 @@ aulas de manicure
 aulas-de-manicure
 aumentare il seno
 aumentare-il-seno
+auspicious blog
+auspicious post
 auspicious repl
+auspicious site
+auspicious web
 auspicious writ
-auspicious-repl
-auspicious-writ
 australia boot
 australia clearance
 australia jersey
@@ -6868,10 +6874,7 @@ autentica cheap
 autentica hermes
 autentica jord
 autentica ugg
-autentica_cheap
-autentica_hermes
-autentica_jord
-autentica_ugg
+autentica_
 autentica-cheap
 autentica-jord
 autentica-ugg
@@ -6882,10 +6885,6 @@ autenticaugg
 autentico cheap
 autentico hermes
 autentico jord
-autentico_cheap
-autentico_hermes
-autentico_jord
-autentico_ugg
 autentico-cheap
 autentico-jord
 autentico-ugg
@@ -6900,11 +6899,7 @@ authentic cheap
 authentic hermes
 authentic jord
 authentic stephen
-authentic_cheap
-authentic_hermes
-authentic_jord
 authentic_stephen
-authentic_ugg
 authentic-cheap
 authentic-hermes
 authentic-jord
@@ -7358,10 +7353,6 @@ barata online
 barata person
 barata ropa
 barata_
-barata_new
-barata_online
-barata_person
-barata_ropa
 barata-new
 barata-online
 barata-person
@@ -7374,11 +7365,7 @@ baratas new
 baratas online
 baratas person
 baratas ropa
-baratas_new
-baratas_online
-baratas_person
-baratas_ropa
-baratas-new
+baratas_
 baratas-online
 baratas-person
 baratas-ropa
@@ -7390,10 +7377,7 @@ barato new
 barato online
 barato person
 barato ropa
-barato_new
-barato_online
-barato_person
-barato_ropa
+barato_
 barato-new
 barato-online
 barato-person
@@ -7406,10 +7390,7 @@ baratos new
 baratos online
 baratos person
 baratos ropa
-baratos_new
-baratos_online
-baratos_person
-baratos_ropa
+baratos_
 baratos-new
 baratos-online
 baratos-person
@@ -8090,6 +8071,7 @@ biuro-solido
 biz advert
 biz market
 biz news
+biz_
 biz-advert
 biz-market
 biz-news
@@ -9704,15 +9686,7 @@ cannabis proceed
 cannabis same
 cannabis seed
 cannabis weed
-cannabis_buy
-cannabis_carry
-cannabis_grow
-cannabis_gum
-cannabis_oil
-cannabis_proceed
-cannabis_same
-cannabis_seed
-cannabis_weed
+cannabis_
 cannabis-buy
 cannabis-carry
 cannabis-grow
@@ -10368,6 +10342,7 @@ chaussureboutique
 chaussurembt
 chaussurenike
 chaussureparis
+chaussures abil
 chaussures adidas
 chaussures boutique
 chaussures christ
@@ -10384,7 +10359,7 @@ chaussures ski
 chaussures sport
 chaussures ugg
 chaussures_
-chaussures- abil
+chaussures-abil
 chaussures-adidas
 chaussures-asic
 chaussures-boutique
@@ -14970,7 +14945,6 @@ fast life style
 fast loan
 fast money
 fast quick
-fast_biz
 fast-biz
 fast-bookmark
 fast-cash
@@ -17884,6 +17858,7 @@ hack ios
 hack mod
 hack money
 hack online
+hack pokemon
 hack robux
 hack ros
 hack snapchat
@@ -17924,6 +17899,7 @@ hack-money
 hack-my-game
 hack-online
 hack-pass
+hack-pokemon
 hack-robux
 hack-ros
 hack-snapchat
@@ -17951,6 +17927,7 @@ hackfb
 hackgem
 hackinstant
 hackonline
+hackpokemon
 hacks1
 hackthesec
 hacktool
@@ -18514,7 +18491,6 @@ hi, it’s me
 hi, its good
 hi, its me
 hi, yup
-hid_
 hidro-ponik
 hidroponik
 hien nay
@@ -21271,7 +21247,9 @@ lady shoe for
 lady_top
 lady-porn
 lady-shoe-for
+lady-top
 ladyporn
+ladytop
 lamborghini hover
 lamborghini-hover
 lamictal
@@ -21600,6 +21578,7 @@ lesbianbdsm
 lesbianfuck
 lesbianmilf
 lesbianporn
+lesbians_
 lesbianschool
 lesbiansex
 lesbianteen
@@ -21610,6 +21589,7 @@ lesbo porn
 lesbo school
 lesbo sex
 lesbo teen
+lesbo_
 lesbo-bdsm
 lesbo-fuck
 lesbo-milf
@@ -26058,7 +26038,6 @@ order an essay
 order forte
 order generic
 order parafon
-order_type
 order-an-essay
 order-flower
 order-forte
@@ -27923,6 +27902,7 @@ pornpreach
 pornprev
 pornpriva
 porns_
+porns-
 pornscan
 pornsearch
 pornserch
