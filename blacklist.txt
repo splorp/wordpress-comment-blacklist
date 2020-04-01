@@ -6554,6 +6554,7 @@ article content
 article dude
 article fully about
 article he/she
+article i am
 article is fastidious
 article is genuine
 article is perfect
@@ -9991,6 +9992,7 @@ cbdcannabis
 cbdcream
 cbdgum
 cbdisolate
+çç
 cc shop
 cc-shop
 ccan visit
@@ -11238,7 +11240,10 @@ clotrimazole
 clou replica
 clou-replica
 cloud integration train
+cloud mining
 cloud-integration-train
+cloud-mining
+cloudmining
 clredheel
 clsale
 clshoe
@@ -11435,6 +11440,7 @@ coffeeblogger
 cofoubder
 cohttp
 coin cheat
+coin cloud
 coin foot
 coin fut
 coin game
@@ -11445,6 +11451,7 @@ coin master hack
 coin offering
 coin xbox
 coin-cheat
+coin-cloud
 coin-foot
 coin-fut
 coin-game
@@ -11456,6 +11463,7 @@ coin-master-hack
 coin-offering
 coin-xbox
 coincheat
+coincloud
 coinfoot
 coinfut
 coingame
@@ -13243,6 +13251,7 @@ dog proprietor
 dog-proprietor
 dog's dog day
 dog’s dog day
+dogecoin
 doggy dan
 doggy-dan
 doggydan
@@ -15072,6 +15081,7 @@ fave and share
 fave it
 fave the
 fave this
+fave this link
 fave to
 fave-it
 fave-the
@@ -15738,6 +15748,9 @@ for this web
 for wonderful information
 for yolur
 for your article
+for your blog
+for your page
+for your web
 for_business
 for-business-advert
 for-cheap
@@ -18337,6 +18350,7 @@ here different
 here itt
 here lol!
 here methotrexate
+here with mates
 here-different
 here-methotrexate
 heremethotrexate
@@ -21687,8 +21701,11 @@ like and sub
 like fingers washing
 like google look
 like this blog
+like this link
+like this video
 like this web
 like your blog
+like your video
 like your web
 likes on facebook
 likes on instagram
@@ -23639,7 +23656,9 @@ mini credit
 mini-credit
 minicredit
 mining cash
+mining legit
 mining-cash
+mining-legit
 mining.cash
 miningcash
 minirin
@@ -39516,6 +39535,8 @@ zyvox
 دورات تدريب
 ساک
 سوپر
+شبكه سنارة
+شبكه سناره
 شركة نقل
 طارد الحمام
 فقدان الوزن
@@ -39532,10 +39553,14 @@ zyvox
 کیر
 لتحميل
 مدونة
+مدونه سنارة
+مدونه سناره
 مراكز التدريب
 مشاهدة الافلام
 معاهد تدريب
 مقاله و بلاگ
+موقع سنارة
+موقع سناره
 نجار بالدما
 وظائف
 ߋ
@@ -39550,6 +39575,7 @@ zyvox
 เดรสราคาถูก
 ต่างหู
 นพนัน
+บริการดีสุด
 ปลาฟรี
 ป้าย ราคาถูก
 ป้าย-ราคาถูก
@@ -39563,6 +39589,8 @@ zyvox
 รับจำนอง
 รีวิวสินค้า
 เล่นเกมไ
+เว็บแทง
+เว็บไหน
 สถานที่ จัดงานแต่งงาน
 สถานที่-จัดงานแต่งงาน
 สูตรบาคาร่า
