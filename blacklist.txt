@@ -3267,6 +3267,7 @@ _zapat
 /http
 /huit.re
 /hyperurl.co
+/hypr.ink
 /hyundai.
 /iapple-
 /iapple.

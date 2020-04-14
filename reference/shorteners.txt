@@ -37,6 +37,7 @@
 /hfg.cc
 /huit.re
 /hyperurl.co
+/hypr.ink
 /is.gd
 /j.mp
 /just.as
