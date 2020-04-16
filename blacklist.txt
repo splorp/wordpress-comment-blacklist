@@ -1952,7 +1952,12 @@ _zapat
 .org/,
 .outlet.biz
 .outlet.co
+.page.link
+.page1.
+.page2.
+.page3.
 .page4.
+.page5.
 .ph,
 .ph/,
 .ph/?
@@ -12195,6 +12200,17 @@ couyld
 cover-whole
 coverages
 coverwhole
+covid self
+covid_19_self
+covid_self
+covid-19 self
+covid-19-self
+covid-self
+covid19 self
+covid19_self
+covid19-self
+covid19self
+covidself
 cozy on perhaps
 cozy resting
 cozy ugg
@@ -22721,8 +22737,6 @@ magasinchemise
 magasinhollis
 magasinlongchamp
 magasinrobe
-magazine/page1
-magazine/page2
 magicmoncler
 magister kesehatan
 magister-kesehatan
@@ -30863,6 +30877,7 @@ seekingmen
 seekingwom
 seeming vexation
 seeming-vexation
+seen in this article
 seen in this your
 seg-board
 segboard
