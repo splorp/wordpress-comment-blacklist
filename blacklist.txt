@@ -704,7 +704,21 @@ _zapat
 -free-shipping-
 -free-shipping.
 -free-shipping/
--fuck
+-fuck-
+-fuck.
+-fuck/
+-fucked-
+-fucked.
+-fucked/
+-fucker-
+-fucker.
+-fucker/
+-fucking-
+-fucking.
+-fucking/
+-fucks-
+-fucks.
+-fucks/
 -full-movie-
 -fund-
 -fund.
@@ -717,7 +731,6 @@ _zapat
 -gaming/
 -get-free-
 -get-professional-
--gifts-
 -haberlist-
 -haberlist.
 -haberlist/
@@ -1770,6 +1783,21 @@ _zapat
 .freecam
 .freeforum
 .freeoda.co
+.fuck-
+.fuck.
+.fuck/
+.fucked-
+.fucked.
+.fucked/
+.fucker-
+.fucker.
+.fucker/
+.fucking-
+.fucking.
+.fucking/
+.fucks-
+.fucks.
+.fucks/
 .full-design.
 .games.in
 .games.pl
@@ -3147,7 +3175,21 @@ _zapat
 /free-shipping/
 /free/
 /freest.at
-/fuck
+/fuck-
+/fuck.
+/fuck/
+/fucked-
+/fucked.
+/fucked/
+/fucker-
+/fucker.
+/fucker/
+/fucking-
+/fucking.
+/fucking/
+/fucks-
+/fucks.
+/fucks/
 /function/
 /functions/
 /futbol-
@@ -7945,6 +7987,8 @@ betting-site
 bettingscript
 bettor than
 betweenex
+bezpieczne leczenie
+bezpieczne-leczenie
 bhilt
 bhttp
 bi chong trom
@@ -8298,6 +8342,7 @@ blog service
 blog site
 blog soon
 blog struct
+blog structure
 blog sys
 blog through google
 blog thus
@@ -8415,6 +8460,7 @@ bloggerlove
 bloggers service
 bloggers-service
 bloggers, business
+bloggibg
 bloggin ad
 bloggin-ad
 blogging ad
@@ -16459,29 +16505,24 @@ fuck pic
 fuck vid
 fuck your
 fuck_
-fuck-
 fuck-buddy
 fuck-escort
 fuck-eskort
 fuckbuddy
 fuckdown
 fucked_
-fucked-
 fucker_
-fucker-
 fuckescort
 fuckeskort
 fuckgoogle
 fuckhard
 fucking_
-fucking-
 fuckmy
 fuckpic
 fucks down
 fucks hard
 fucks your
 fucks_
-fucks-
 fucksdown
 fuckshard
 fucksyour
@@ -17068,6 +17109,7 @@ gift singapore
 gift v buck
 gift-click
 gift-singapore
+gift%20card
 gift4promo
 giftclick
 gifts click
@@ -17776,6 +17818,14 @@ greatarticle
 greatbet
 greatblog
 greatdoc
+greate article
+greate blog
+greate home
+greate page
+greate post
+greate read
+greate site
+greate web
 greatessay
 greatest article on
 greatest articles on
@@ -20732,6 +20782,8 @@ join-super
 joinsuper
 joint-pain
 jointpain
+joker casino
+joker-casino
 joker123
 jokerfull
 joma jewelery
@@ -21266,6 +21318,8 @@ kommissionen-tager
 kompanii
 komputer
 konkurs
+konopiami indyjskimi
+konopiami-indyjskimi
 konsalting
 konstenlos sex
 konstenlos-sex
@@ -22576,6 +22630,8 @@ lpgn-moldova
 lpgn-product
 ltongealp
 ltonser
+lub cbd
+lub thc
 lublin.
 lublina.
 luck jers
@@ -27640,6 +27696,8 @@ plaesure
 plagorism
 plain profit
 plain-profit
+plan eartique
+plan-eartique
 plansare
 plarusee
 plastic ambalaje
@@ -28683,12 +28741,16 @@ producer excellent
 producer-excellent
 producing provider
 producing-provider
+product cbd
 product hermes
+product thc
 product-hermes
 product-sale
 product/product
 producthermes
 production of e-mail
+products cbd
+products thc
 products/product
 produit hermes
 produit-hermes
@@ -28699,6 +28761,14 @@ produk-kerajinan
 produk/alat
 produk/produk
 produkc
+produkt cbd
+produkt thc
+produkt z cbd
+produkt z thc
+produkty cbd
+produkty thc
+produkty z cbd
+produkty z thc
 produtos natura
 produtos-natura
 profesjonal
@@ -28940,6 +29010,7 @@ psn hack
 psn-code
 psn-gift
 psn-hack
+psn%20gift
 psori nano
 psori-nano
 psorinano
@@ -37727,8 +37798,18 @@ wondering your situation
 wonderiung
 wonderous kreation
 wonderous-kreation
+woo game
+woo house
+woo sex
+woo site
+woo-game
+woo-house
+woo-sex
+woo-site
 wooden-splitting
 woodgundy.us
+woogame
+woohouse
 woolrich amster
 woolrich arctic
 woolrich bliz
@@ -37811,12 +37892,8 @@ woolrichwool
 woori casino
 woori-casino
 wooricasino
-woowoo-house
-woowoo-sex
-woowoo-site
-woowoohouse
-woowoosex
-woowoosite
+woosex
+woosite
 wor.t.h
 wor.th
 wordpress web
@@ -37824,8 +37901,11 @@ wordpress-web
 wordpressweb
 words eartique
 words essay
+words in your article
 words in your blog
 words in your content
+words in your page
+words in your post
 words in your web
 words-eartique
 words-essay
