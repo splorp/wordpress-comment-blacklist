@@ -99,6 +99,7 @@ See the [license.txt](https://raw.githubusercontent.com/splorp/wordpress-comment
 
 ## History
 
++ 20200424 — Removed [generic terms containing equal signs](https://github.com/splorp/wordpress-comment-blacklist/commit/b83d8e432e550ccff4c41e1af816a3f5f6673d1d) to better handle valid search strings
 + 20200406 — 40,000 entries
 + 20200112 — 39,000 entries
 + 20191113 — 38,000 entries
