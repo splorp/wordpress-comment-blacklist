@@ -2419,6 +2419,7 @@ _zapat
 (twitter)
 )-
 [..
+[/blo
 [/col
 [/hot
 [/key
@@ -2427,13 +2428,13 @@ _zapat
 [a...z]
 [a..z]
 [a.z]
+[blo
 [col
 [hot
 [key
 [mov
 [url
 {keyword}
-{scarpe
 {url}
 【
 】
@@ -2461,7 +2462,9 @@ _zapat
 /----/
 /---/
 /——-
+/?goto=go
 /?goto=http
+/?goto=link
 /?goto=url
 /.wd/
 //|
@@ -3206,15 +3209,19 @@ _zapat
 /glowna.
 /go?go
 /go?http
+/go?link
 /go?url
 /go.asp?go
 /go.asp?http
+/go.asp?link
 /go.asp?url
 /go.jsp?go
 /go.jsp?http
+/go.jsp?link
 /go.jsp?url
 /go.php?go
 /go.php?http
+/go.php?link
 /go.php?url
 /gold-claim.
 /gold-yukon.
@@ -3226,18 +3233,23 @@ _zapat
 /got.by
 /goto?go
 /goto?http
+/goto?link
 /goto?url
 /gourl?go
 /gourl?http
+/gourl?link
 /gourl?url
 /gourl.asp?go
 /gourl.asp?http
+/gourl.asp?link
 /gourl.asp?url
 /gourl.jsp?go
 /gourl.jsp?http
+/gourl.jsp?link
 /gourl.jsp?url
 /gourl.php?go
 /gourl.php?http
+/gourl.php?link
 /gourl.php?url
 /graphics/
 /group1
@@ -4047,9 +4059,11 @@ _zapat
 /uploads/
 /url?go
 /url?http
+/url?link
 /url?url
 /url.php?go
 /url.php?http
+/url.php?link
 /url.php?url
 /url/
 /urlms.co
@@ -6315,9 +6329,9 @@ analsex
 analvibra
 analysis sport
 analysis-sport
-ananizi sikicek
-ananizi-sikicek
-ananızı sikicek
+ananizi siki
+ananizi-siki
+ananızı siki
 anchor0
 anchor1
 anchor2
@@ -9686,11 +9700,13 @@ calvinmujer
 calzature mbt
 calzature-mbt
 calzaturembt
+cam chat
 cam fav
 cam girl
 cam model site
 cam sex
 cam-am-hoc-sao
+cam-chat
 cam-fav
 cam-girl
 cam-sex
@@ -9698,6 +9714,7 @@ cam2cam
 camam-hocsao
 camam.hocsao
 cambogia
+camchat
 camera thumb
 cameras thumb
 camfav
@@ -10414,6 +10431,7 @@ chatmaticprogram
 chatmaticreview
 chatmaticsecret
 chatmaticsoftware
+chatourbat
 chatporn
 chatr-bat
 chatrbat
@@ -11062,6 +11080,8 @@ chloie
 chlorzoxazone
 cho vay mua
 cho-vay-mua
+chof-spor
+chofspor
 choice approach
 choice ok,
 choice ok.
@@ -11527,14 +11547,14 @@ cocuk isteyen
 cocuk pazar
 cocuk porn
 cocuk sex
-cocuk sikik
+cocuk siki
 cocuk-escort
 cocuk-eskort
 cocuk-isteyen
 cocuk-pazar
 cocuk-porn
 cocuk-sex
-cocuk-sikik
+cocuk-siki
 cocukpazar
 cocukporn
 cocuksex
@@ -12947,6 +12967,12 @@ derniers-modèle
 derniersmodele
 derogatory circum
 derogatory item
+derun escort
+derun eskort
+derun-escort
+derun-eskort
+derunescort
+deruneskort
 des services web
 des-services-web
 desconto
@@ -16195,6 +16221,7 @@ free pron
 free proxy
 free psn
 free real
+free sex
 free simple
 free skins
 free spin link
@@ -16269,6 +16296,7 @@ free-proxy
 free-psn
 free-real
 free-service
+free-sex
 free-simple
 free-skins
 free-spin-link
@@ -16341,6 +16369,7 @@ freereal
 freesale
 freesalg
 freeservice
+freesex
 freesimcard
 freeskins
 freeslotmachine
@@ -19265,11 +19294,19 @@ hqsteroid
 hqve the
 href%3dhttp
 htaccrss
+htm?go=
+htm?http=
+htm?link=
+htm?url=
 html coin
 html-article
 html-coin
 html-link
 html-new
+html?go=
+html?http=
+html?link=
+html?url=
 htmlarticle
 htmlcoin
 htmlht
@@ -23963,6 +24000,9 @@ missed hookup
 missed-hookup
 missedhookup
 misshookup
+missionary sex
+missionary-sex
+missionarysex
 mister-design
 misterboy
 mit rezept
@@ -31243,6 +31283,7 @@ sex pc
 sex porn
 sex position you
 sex positions you
+sex room
 sex scan
 sex search
 sex service
@@ -31291,6 +31332,7 @@ sex-mp
 sex-papa
 sex-pc
 sex-porn
+sex-room
 sex-scan
 sex-search
 sex-service
@@ -31348,6 +31390,7 @@ sexomon
 sexpapa
 sexpc
 sexporn
+sexroom
 sexs live
 sexs-live
 sexscan
@@ -31908,8 +31951,18 @@ sihe-site
 siite
 sikerim dala
 sikerim-dala
+siki cocuk
+siki seni
+siki-cocuk
+siki-seni
+sikicem cocuk
+sikicem seni
+sikicem-cocuk
+sikicem-seni
 sikik cocuk
+sikik seni
 sikik-cocuk
+sikik-seni
 siktirip
 silagra
 silberbarren
@@ -34153,6 +34206,7 @@ theo-yeu-cau
 theo.yeu.cau
 theraapy
 there admin
+there discussing online
 there wwas
 there-admin
 thereadmin
@@ -34181,7 +34235,9 @@ theuniversity
 they loophole
 they the t
 they-loophole
+they're discussing online
 they've relating
+they’re discussing online
 they’ve relating
 theyll
 theyoutuber
@@ -39958,6 +40014,7 @@ zyvox
 شبكه سناره
 شركة تنظيف
 شركة نقل
+شوف سبور
 طارد الحمام
 فقدان الوزن
 فقدان-الوزن
