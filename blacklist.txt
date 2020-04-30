@@ -521,6 +521,7 @@ _zapat
 -coins.
 -coins/
 -comfort-
+-computer-recycle.
 -computer-recycling.
 -computer-repair.
 -computer-repairs.
@@ -1389,23 +1390,10 @@ _zapat
 ,"
 ,#
 ,|
-,ag
-,an
 ,co science
-,en
+,death note
 ,great job
-,he
-,in
 ,iq science
-,ka
-,m,
-,me
-,no
-,of
-,on
-,th
-,ti
-,we
 ､､
 ;; http
 ;&#x
@@ -13850,6 +13838,7 @@ dо
 dу
 ɗe pieza
 ɗеl mueble
+e |o
 e cig trouble
 e e juice
 e e-juice
@@ -13877,6 +13866,7 @@ e.@
 e.i'
 e.i’
 e| p
+e| t
 e2by.in
 eâcute
 eagerly wiggling
@@ -14828,6 +14818,7 @@ f.j.oga
 f.jo.ga
 f.jog.a
 f.joga
+f| l
 fa.s.h.i.o.n
 fa.s.h.i.on
 fa.s.h.io.n
@@ -19397,10 +19388,12 @@ i eally
 i http
 i needs
 i not to mention
+i porn
 i quitg
 i-aint
 i-needs
 i-only-done
+i-porn
 i-will-be
 i?ll
 i?m
@@ -20256,6 +20249,7 @@ ipod-repair
 ipod-suppl
 ipodrepair
 ipodsuppl
+iporn
 iprofit
 ipアドレス
 iq option
@@ -21516,6 +21510,7 @@ kе
 l http
 l.@
 l.uk.e.w.a.rm
+l| r
 la pillule
 la-mentira
 la-pillule
@@ -21961,12 +21956,15 @@ licu=urn
 lid pants
 lid-pants
 lies sound truth
+life sex
+life-sex
 life.acne
 life.cert
 lifeinsur
 lifelock
 lifepharm laminin
 lifepharm-laminin
+lifesex
 lifestyle proficiency
 lifestyle vid
 lifestyle-proficiency
@@ -23622,6 +23620,8 @@ megaprov
 megasena
 megateta
 megatetona
+mehrkosten verbunden
+mehrkosten-verbunden
 meilleur casino
 meilleur cassino
 meilleur-casino
@@ -24883,6 +24883,7 @@ my-online
 my-pzge
 my-sitte
 my-ssite
+my-trending
 my-virus
 my-wallet-is
 my-webb
@@ -24927,6 +24928,7 @@ myspacee
 myssite
 myswlf
 mytest
+mytrending
 myvape
 myvirus
 myweb
@@ -24952,6 +24954,7 @@ mztindex
 m谩s
 n http
 n.@
+n| a
 n1-takeaway
 n1takeaway
 na disney se
@@ -25728,6 +25731,7 @@ o¨
 o±
 ø±
 o| a
+o| t
 o³
 ø³
 oª
@@ -30426,6 +30430,7 @@ rу
 ɍo
 ɍu
 ɍy
+s |f
 s http
 s:.
 s.@
@@ -30440,6 +30445,7 @@ s.por.t
 s.the
 s.two
 s.webeden
+s| a
 sabo charm
 sabo out
 sabo ring
@@ -33582,6 +33588,7 @@ t.w.it
 t.wi.t
 t.wit.
 t.witt.
+t| c
 t᧐
 tabak fumar
 tabak tanzh
@@ -39806,7 +39813,6 @@ zyvox
 сроке службы
 сроке-службы
 сруба
-ссылка
 статей
 стать богатым
 стать-богатым
@@ -39839,7 +39845,6 @@ zyvox
 телевизорами-марок
 телефона узнать
 телефона-узнать
-техбез
 торговля бинар
 торговля-бинар
 трудоустройства
