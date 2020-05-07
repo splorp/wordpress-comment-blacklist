@@ -7241,6 +7241,12 @@ baccaratview
 bacfk
 bachelor college degree
 back data over
+back to your article
+back to your blog
+back to your page
+back to your weblog
+back to your webpage
+back to your website
 background check free
 background checker free
 background-check-free
@@ -8943,6 +8949,8 @@ brand jap
 brand jp
 brand mlb
 brand nba
+brand new ipad
+brand new iphone
 brand nfl
 brand nhl
 brand sale
@@ -19578,6 +19586,7 @@ improvements shop
 improvements-shop
 improves reminiscence
 imptortant
+imqge
 imtmdiae
 in a ll
 in blog commenting
@@ -23043,6 +23052,8 @@ manicshop
 manies lesson
 manies-lesson
 maninuk
+manned guarding
+manned-guarding
 manner puma
 månner puma
 manner-puma
@@ -26354,6 +26365,8 @@ oprawki-ray
 oprawkiray
 opt-in promo
 opt-in-promo
+optimal-optimal
+optimal/optimal
 optimalen frisur
 optimalen-frisur
 optimizacion web
@@ -28327,6 +28340,8 @@ post fully about
 post give pleasant
 post gives good
 post gives pleasant
+post he/she
+post him/her
 post is fastidious
 post is good
 post is invaluable
@@ -30098,6 +30113,7 @@ retina-247
 retro jord
 retro-jord
 retrojord
+return of this question
 revenue master
 revenue-master
 reverse cell
@@ -37302,6 +37318,7 @@ websiteusa
 websitevisit
 websitte
 websolution
+webssite
 webste
 websute
 webtherefore
