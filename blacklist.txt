@@ -2453,6 +2453,7 @@ _zapat
 /?goto=go
 /?goto=http
 /?goto=link
+/?goto=q
 /?goto=url
 /.wd/
 //|
@@ -3198,18 +3199,22 @@ _zapat
 /go?go
 /go?http
 /go?link
+/go?q
 /go?url
 /go.asp?go
 /go.asp?http
 /go.asp?link
+/go.asp?q
 /go.asp?url
 /go.jsp?go
 /go.jsp?http
 /go.jsp?link
+/go.jsp?q
 /go.jsp?url
 /go.php?go
 /go.php?http
 /go.php?link
+/go.php?q
 /go.php?url
 /gold-claim.
 /gold-yukon.
@@ -3222,22 +3227,27 @@ _zapat
 /goto?go
 /goto?http
 /goto?link
+/goto?q
 /goto?url
 /gourl?go
 /gourl?http
 /gourl?link
+/gourl?q
 /gourl?url
 /gourl.asp?go
 /gourl.asp?http
 /gourl.asp?link
+/gourl.asp?q
 /gourl.asp?url
 /gourl.jsp?go
 /gourl.jsp?http
 /gourl.jsp?link
+/gourl.jsp?q
 /gourl.jsp?url
 /gourl.php?go
 /gourl.php?http
 /gourl.php?link
+/gourl.php?q
 /gourl.php?url
 /graphics/
 /group1
@@ -4048,10 +4058,12 @@ _zapat
 /url?go
 /url?http
 /url?link
+/url?q
 /url?url
 /url.php?go
 /url.php?http
 /url.php?link
+/url.php?q
 /url.php?url
 /url/
 /urlms.co
@@ -8277,6 +8289,7 @@ blog before
 blog blog
 blog center
 blog centre
+blog coin
 blog de forma
 blog diaria
 blog diária
@@ -8353,6 +8366,7 @@ blog-before
 blog-blog
 blog-center
 blog-centre
+blog-coin
 blog-de-forma
 blog-diaria
 blog-diária
@@ -8425,6 +8439,7 @@ blog1
 blogbased
 blogbeast
 blogblog
+blogcoin
 blogdiet
 blogentry
 blogg platform
@@ -9016,6 +9031,7 @@ bridges-must
 brilliant blog
 brilliant content
 brilliant page
+brilliant paragraph
 brilliant post
 brilliant site
 brilliant web
@@ -9404,6 +9420,8 @@ buy n95
 buy off wish
 buy online
 buy privat
+buy proxies
+buy proxy
 buy qsymia
 buy resume
 buy reviews
@@ -9465,6 +9483,8 @@ buy-pill
 buy-plus
 buy-privat
 buy-proper
+buy-proxies
+buy-proxy
 buy-qsymia
 buy-resume
 buy-reviews
@@ -14642,6 +14662,7 @@ excellent content
 excellent gifts for
 excellent movies clip
 excellent page
+excellent paragraph
 excellent pick-up
 excellent post
 excellent proper
@@ -15166,6 +15187,7 @@ fastesr
 fastidious answer
 fastidious art
 fastidious blog
+fastidious content
 fastidious data
 fastidious design
 fastidious dial
@@ -15177,6 +15199,7 @@ fastidious job
 fastidious know
 fastidious my
 fastidious page
+fastidious para
 fastidious piece
 fastidious post
 fastidious repl
@@ -16462,12 +16485,14 @@ from my web
 from subsequent
 from this blog
 from this content
+from this paragraph
 from this post
 from this site
 from this web
 from your article
 from your blog
 from your content
+from your paragraph
 from your web
 from ypur
 from-maltreating
@@ -18544,6 +18569,8 @@ helper-download
 helpessay
 helpful blog
 helpful content
+helpful paragraph
+helpful weblog
 helpful-blog
 helpful-content
 helpful-info
@@ -19296,12 +19323,14 @@ htaccrss
 htm?go=
 htm?http=
 htm?link=
+htm?q=
 htm?url=
 html coin
 html-article
 html-coin
 html-link
 html-new
+html?a=
 html?go=
 html?http=
 html?link=
@@ -27071,6 +27100,7 @@ particular-proficiency
 particular-wearer
 particularly great article
 particularly great content
+particularly great paragraph
 partidos online
 partidos-online
 partner-biz
@@ -29267,6 +29297,7 @@ quality content
 quality new
 quality option
 quality page
+quality paragraph
 quality porn
 quality post
 quality quartz
@@ -29504,6 +29535,7 @@ read it fully
 read of your article
 read of your blog
 read of your content
+read of your paragraph
 read of your post
 read of your site
 read of your web
@@ -29528,11 +29560,15 @@ reading poker
 reading taste
 reading this article
 reading this blog
+reading this content
 reading this page
+reading this paragraph
 reading this site
 reading your article
 reading your blog
+reading your content
 reading your page
+reading your paragraph
 reading your site
 reading your web
 reading-poker
@@ -36139,12 +36175,18 @@ vecaro lifestyle
 vecaro_
 vecaro-lifestyle
 vecarolifestyle
+vegas escort
+vegas eskort
 vegas hotel
 vegas show
 vegas social
+vegas-escort
+vegas-eskort
 vegas-hotel
 vegas-show
 vegas-social
+vegasescort
+vegaseskort
 veja mais
 veja-mais
 vendida separadamente
