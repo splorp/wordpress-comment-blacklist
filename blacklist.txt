@@ -2942,6 +2942,7 @@ _zapat
 /cld-
 /cld.
 /clearance/
+/clickfrm.co
 /clit-
 /clit.
 /clrb-
