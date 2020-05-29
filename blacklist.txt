@@ -3379,6 +3379,7 @@ _zapat
 /iphone-x/
 /is.gd
 /iss.
+/ity.im
 /j.mp
 /jacket-
 /jacket.
