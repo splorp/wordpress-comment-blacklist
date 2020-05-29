@@ -5917,18 +5917,21 @@ affiliat blog
 affiliat-blog
 affiliatblog
 affiliate blog
+affiliate bonus
 affiliate click
 affiliate commission
 affiliate link
 affiliate ppc
 affiliate review
 affiliate-blog
+affiliate-bonus
 affiliate-click
 affiliate-commission
 affiliate-link
 affiliate-ppc
 affiliate-review
 affiliateblog
+affiliatebonus
 affiliateclick
 affiliatelink
 affiliateppc
@@ -8160,9 +8163,12 @@ bisapp
 bishop-knot
 bishopknot
 bit at an era
+bit casino
 bit koin
+bit-casino
 bit-koin
 bitartrate
+bitcasino
 bitcoin + crypto
 bitcoin $
 bitcoin acc
@@ -8486,6 +8492,7 @@ blogger. thank
 bloggerbusiness
 bloggerd
 bloggerlove
+bloggerr
 bloggers service
 bloggers-service
 bloggers, business
@@ -8505,6 +8512,7 @@ blogging-glance
 blogging-look
 blogging-service
 blogging-visit
+bloggingg
 blogginglook
 bloggybest
 bloghome
@@ -11441,6 +11449,8 @@ clientarea
 climacool
 clindamycin
 clinica-psihologie
+clip-art-center
+clip-art-centre
 cliquant
 clit sex
 clit vibra
@@ -24187,6 +24197,8 @@ mintcash
 mintcoin
 minuium
 minumum
+minute affiliate
+minute-affiliate
 minutes a villa
 mir gefallen
 mir-gefallen
@@ -30354,6 +30366,7 @@ reversephone
 revia med
 revia-med
 review best
+review bonus
 review my blog
 review my page
 review my sire
@@ -30365,6 +30378,7 @@ review site
 review website
 review you tube
 review-best
+review-bonus
 review-on
 review-sale
 review-site
@@ -30380,6 +30394,7 @@ review.in
 review.jsp
 review.php
 reviewbest
+reviewbonus
 reviewon
 reviews best
 reviews online
@@ -36740,6 +36755,7 @@ videosxblog
 videosyoutube
 vidéosyoutube
 videothrill
+videotik
 videotube
 videoview
 vidéoview
@@ -38785,6 +38801,7 @@ you – tube
 you aand
 you aare
 you aided me
+you all action
 you andd
 you are a favor
 you are a favour
