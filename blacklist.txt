@@ -4000,6 +4000,7 @@ _zapat
 /timberland-
 /timberland.
 /tiny.cc
+/tinylink.in
 /tinyls.net
 /tinyurl.co
 /tischkicker-

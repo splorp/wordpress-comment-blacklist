@@ -75,6 +75,7 @@
 /tgi.link
 /tiggi.es
 /tiny.cc
+/tinylink.in
 /tinyls.net
 /tinyurl.co
 /tlkm.my
