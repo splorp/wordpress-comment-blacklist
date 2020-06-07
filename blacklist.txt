@@ -1486,6 +1486,7 @@ _zapat
 . ?i
 .-0
 .-1
+.,
 ….
 ..a
 .()
@@ -12689,6 +12690,9 @@ cytotec
 cz celeb
 cz-celeb
 cz/love
+czas futbol
+czas-futbol
+czasfutbol
 czceleb
 czesci skody
 czesci-skody
@@ -21708,6 +21712,7 @@ kvepalai-internet
 ky-tot
 kỳ-tốt
 kе
+k�
 l http
 l.@
 l.uk.e.w.a.rm
@@ -22946,6 +22951,7 @@ lⲟ
 lі
 lо
 l猫
+l�
 m http
 m.@
 m4a download
@@ -23213,6 +23219,7 @@ man gaga
 man in uk
 man online
 man seeking man
+man uga fast
 man-cheap
 man-e-juice
 man-ejuice
@@ -24552,7 +24559,9 @@ money adder
 money buzz
 money fast
 money generat
+money man uga
 money now loan
+money online
 money phone
 money prim
 money robot
@@ -24565,6 +24574,7 @@ money-illusion
 money-loan
 money-mak
 money-now-loan
+money-online
 money-phone
 money-prim
 money-robot
@@ -24583,6 +24593,7 @@ moneygenerat
 moneyillusion
 moneyloan
 moneymak
+moneyonline
 moneyprim
 moneyrobot
 monica-santa
@@ -26900,6 +26911,7 @@ oһ
 oь
 oս
 oᥙ
+o�
 p http
 p.@
 p.y.t.h.o.n
@@ -28257,6 +28269,8 @@ polos ralph
 polos-ralph
 poloshoe
 polosralph
+polsce pdf
+polsce-pdf
 pomyslow prezent
 pomysłow prezent
 pomyslow-prezent
@@ -32265,6 +32279,7 @@ simplified-divorce
 simplified-marriage
 simply demonstration
 simply extremely
+simply recently
 simply shared
 simply use internet
 simply-extremely
@@ -32282,6 +32297,9 @@ singeltjejer
 single need to have
 sirop mangustin
 sirop-mangustin
+sistem antalya
+sistem-antalya
+sistemantalya
 sistemas bolsa
 sistemas populare
 sistemas-bolsa
@@ -34956,6 +34974,7 @@ tipblog
 tipo mas habit
 tipo más habit
 tipo-mas-habit
+tips blog
 tips daily
 tips for 2018
 tips for 2019
@@ -34966,6 +34985,7 @@ tips on interest
 tips survivor
 tips to success
 tips unlimited
+tips-blog
 tips-daily
 tips-for-
 tips-meny
