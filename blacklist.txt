@@ -284,6 +284,12 @@ _zapat
 -acne-
 -acne.
 -acne/
+-acompanhante-
+-acompanhante.
+-acompanhante/
+-acompanhantes-
+-acompanhantes.
+-acompanhantes/
 -adrenalin-
 -adsense-
 -adsense.
@@ -1501,6 +1507,12 @@ _zapat
 .2u4.us
 .7x.cz
 .acgi
+.acompanhante-
+.acompanhante.
+.acompanhante/
+.acompanhantes-
+.acompanhantes.
+.acompanhantes/
 .adboard
 .adsboard
 .adsense-
@@ -2631,6 +2643,12 @@ _zapat
 /accueil.
 /acidreflux-
 /acidreflux.
+/acompanhante-
+/acompanhante.
+/acompanhante/
+/acompanhantes-
+/acompanhantes.
+/acompanhantes/
 /activity-
 /activity.
 /add-on/
@@ -5526,6 +5544,8 @@ acnecyst
 acneface
 acneprescript
 acnetreatment
+acompanhante anunci
+acompanhantes anunci
 acomplia
 acquire me vip
 acros thee
@@ -14491,6 +14511,7 @@ escort blog
 escort bursa
 escort chi̇ld
 escort cocuk
+escort edge
 escort fuck
 escort girl
 escort google
@@ -14509,6 +14530,7 @@ escort-blog
 escort-bursa
 escort-chi̇ld
 escort-cocuk
+escort-edge
 escort-fuck
 escort-girl
 escort-google
@@ -14524,6 +14546,7 @@ escort-zone
 escort4fun
 escortbayan
 escortblog
+escortedge
 escortfuck
 escortgirl
 escortilan
@@ -14532,6 +14555,7 @@ escortkocael
 escortpicture
 escortporn
 escorts bayan
+escorts edge
 escorts girl
 escorts ilan
 escorts porn
@@ -14539,6 +14563,7 @@ escorts sant
 escorts zone
 escorts_
 escorts-bayan
+escorts-edge
 escorts-girl
 escorts-ilan
 escorts-porn
@@ -14547,6 +14572,7 @@ escorts-zone
 escorts.
 escorts4fun
 escortsbayan
+escortsedge
 escortservice
 escortsgirl
 escortsilan
@@ -14562,6 +14588,7 @@ eskort bayan
 eskort blog
 eskort bursa
 eskort cocuk
+eskort edge
 eskort fuck
 eskort girl
 eskort hizmet
@@ -14574,6 +14601,7 @@ eskort-bayan
 eskort-blog
 eskort-bursa
 eskort-cocuk
+eskort-edge
 eskort-fuck
 eskort-girl
 eskort-hizmet
@@ -14583,18 +14611,22 @@ eskort-porn
 eskort-sant
 eskortbayan
 eskortblog
+eskortedge
 eskortfuck
 eskortgirl
 eskortistanbul
 eskortpicture
 eskortporn
+eskorts edge
 eskorts girl
 eskorts porn
 eskorts sant
 eskorts_
+eskorts-edge
 eskorts-girl
 eskorts-porn
 eskorts-sant
+eskortsedge
 eskortsgirl
 eskortsporn
 espana online
@@ -24079,6 +24111,7 @@ metro star
 metro-star
 metronidazole
 metrostar
+meu teor send
 mezzo louis
 mezzo-louis
 mezzolouis
@@ -30742,6 +30775,8 @@ sabouk
 sac celine
 sac chanel
 sac chloe
+sac du phong
+sạc dự phòng
 sac gucci
 sac guess
 sac hermes
@@ -30758,6 +30793,7 @@ sac-a-main
 sac-celine
 sac-chanel
 sac-chloe
+sac-du-phong
 sac-gucci
 sac-guess
 sac-hermes
@@ -30773,6 +30809,7 @@ sac-vuitton
 sacceline
 sacchanel
 sacchloe
+sacduphong
 sacgucci
 sacguess
 sachermes
@@ -37945,6 +37982,7 @@ wikka.htm
 wikka.jsp
 wikka.php
 wild-star
+will [get
 will bbe
 will book mark
 will book-mark
