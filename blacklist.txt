@@ -3026,6 +3026,7 @@ _zapat
 /customer-care/
 /customercare-
 /customercare.
+/cutt.ly
 /cutt.us
 /danh-muc/
 /dat/

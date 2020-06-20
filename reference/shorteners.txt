@@ -22,6 +22,7 @@
 /cort.as
 /corta.co
 /crwl.it
+/cutt.ly
 /cutt.us
 /dlvr.it
 /eccl.es
