@@ -8422,6 +8422,9 @@ blog writer
 blog you write
 blog zaslu
 blog zasłu
+blog-0
+blog-1
+blog-2
 blog-based
 blog-beast
 blog-before
@@ -8499,7 +8502,9 @@ blog/online
 blog/owner
 blog/post
 blog/view
+blog0
 blog1
+blog2
 blogbased
 blogbeast
 blogblog
@@ -24913,12 +24918,14 @@ movie on-line
 movie online
 movie release america
 movie review are
+movie sponge
 movie video
 movie way too
 movie-123
 movie-full
 movie-gaming
 movie-online
+movie-sponge
 movie-video
 movie123
 moviefull
@@ -24947,6 +24954,7 @@ moviesdl
 moviesfree
 moviesmatrix
 moviesonline
+moviesponge
 moviesvideo
 movieszone
 movievideo
@@ -25361,6 +25369,8 @@ naar sex zit
 nachste level
 nächste level
 nachste-level
+nadech luxusu
+nadech-luxusu
 ñæ
 naga poker
 naga-poker
@@ -25894,6 +25904,7 @@ niña modelo
 nina-modelo
 ninamodelo
 nine %
+ninfetas
 ninja sword
 ninja-sword
 ninjasword
@@ -32511,6 +32522,7 @@ site amor
 site and comment
 site and save
 site asian
+site assim
 site backup
 site congratulation
 site give pleasant
@@ -32551,6 +32563,7 @@ site wordpress
 site--
 site-amor
 site-asian
+site-assim
 site-backup
 site-google
 site-however
@@ -39323,6 +39336,7 @@ yourpersonal
 yourporn
 yourprofile
 yourrs
+yours is the great
 yours nowaday
 yours-nowaday
 yourself beautiful
