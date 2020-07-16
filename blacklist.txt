@@ -1467,6 +1467,7 @@ _zapat
 ?mbt
 ?mulberry
 ?nike
+?option=com_
 ?p_
 ?p-
 ?p=404
@@ -10416,6 +10417,9 @@ cervejas-de-mais
 cetirizine online
 cetirizine-online
 cetirizineonline
+cfd trade
+cfd-trade
+cfdtrade
 cgi-bin
 cgibin
 cgsaleca
@@ -13046,6 +13050,8 @@ delivers-result
 deliversresult
 delivery philippine
 delivery-philippine
+delta-marketing
+deltamarketing
 deltasone
 dem gay
 đệm gây
@@ -16197,6 +16203,7 @@ forex + bitcoin
 forex + btc
 forex + crypto
 forex $
+forex cfd
 forex dual
 forex forum
 forex halal
@@ -16211,6 +16218,7 @@ forex robot
 forex sign
 forex wealth
 forex_
+forex-cfd
 forex-dual
 forex-forum
 forex-halal
@@ -16225,6 +16233,7 @@ forex-robot
 forex-sign
 forex-valu
 forex-wealth
+forexcfd
 forexdual
 forexforum
 forexmaster
@@ -20584,6 +20593,12 @@ irresistible-site
 irresistible-web
 is as nicely
 is goping
+is great article
+is great blog
+is great post
+is great weblog
+is great webpage
+is great website
 is merely good to
 is my blog
 is my page
@@ -21277,6 +21292,7 @@ just wanna
 just-book-mark
 just-cetirizine
 just-wanna
+justcan do
 justcetirizine
 justcloud
 justificar prova
@@ -21504,8 +21520,11 @@ kids-baby
 kids-nike
 kids-ugg
 kidsnike
+kik fuck
 kik xxx
+kik-fuck
 kik-xxx
+kikfuck
 kikxxx
 killer blog
 killer headline
@@ -21648,6 +21667,7 @@ knowledgebroker
 knowledgebusiness
 known blog
 known-blog
+knowso much
 kobe ont
 kobe-ont
 kobe-shoe
@@ -25014,6 +25034,7 @@ mrantsneak
 msgnum
 mua ban xe
 mua-ban-xe
+much approximately
 much big names
 much clear idea
 much for the content
@@ -40617,6 +40638,8 @@ zyvox
 תיקון מזגנים
 أغراس
 اتش دى فيلم
+اثر انگشت
+اثرانگشت
 افضل شركه
 اقل اسعار
 ال جى
