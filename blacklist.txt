@@ -3838,6 +3838,11 @@ _zapat
 /retina247/
 /ri.ms
 /rih.co
+/rk.php?go
+/rk.php?http
+/rk.php?link
+/rk.php?q
+/rk.php?url
 /rlu.ru
 /roulette-
 /roulette.
@@ -14186,6 +14191,9 @@ ekologiczne-logo
 ekorting
 ekskluzywne zestaw
 ekskluzywne-zestaw
+ekspedisi murah
+ekspedisi-murah
+ekspedisimurah
 ekstensywne pracochlonne
 ekstensywne pracochłonne
 ekstensywne-pracochlonne
@@ -35888,6 +35896,8 @@ u.@
 ùˆ
 u4nba
 ua-eqt-sup
+uaepearl
+uaewomensclub
 uau incrivel
 uau incrível
 uau uau
