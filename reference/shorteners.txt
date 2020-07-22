@@ -53,6 +53,7 @@
 /nblo.gs
 /onip.it
 /ow.ly
+/owl.li
 /owtf.co.uk
 /past.is
 /posts.gle
