@@ -1210,6 +1210,9 @@ _zapat
 -sigarety-
 -sigarety.
 -sigarety/
+-signbook-
+-signbook.
+-signbook/
 -sims-3.
 -sims-3/
 -skque-
@@ -1472,6 +1475,7 @@ _zapat
 ?p-
 ?p=404
 ?pandora
+?popup
 ?prada
 ?ray
 ?scarpe
@@ -1487,8 +1491,6 @@ _zapat
 ?twid
 ?u_
 ?u-
-?utm_source=
-?utm_term=
 ?youtube
 . ?i
 .-0
@@ -2223,6 +2225,9 @@ _zapat
 .show-score-
 .show-score.
 .show-score/
+.signbook-
+.signbook.
+.signbook/
 .simpsite.
 .sirenos.in
 .skque-
@@ -2630,6 +2635,7 @@ _zapat
 /300-500.
 /400-500.
 /a-
+/a&gt
 /a#
 /abc-
 /abc.
@@ -3904,6 +3910,9 @@ _zapat
 /sigareta.
 /sigarety-
 /sigarety.
+/signbook-
+/signbook.
+/signbook/
 /sims-3.
 /sinsaku
 /site/
@@ -7009,7 +7018,9 @@ audio song
 audio-song
 auf dem markt
 auf dich ->
+auf meinem news
 auf-dem-markt
+auf-meinem-news
 aufsatz hilfe
 aufsatz-hilfe
 aufsatzhilfe
@@ -8447,6 +8458,7 @@ blog writer
 blog you write
 blog zaslu
 blog zasłu
+blog_comente
 blog-0
 blog-1
 blog-2
@@ -8457,6 +8469,7 @@ blog-blog
 blog-center
 blog-centre
 blog-coin
+blog-comente
 blog-de-forma
 blog-diaria
 blog-diária
@@ -14205,6 +14218,7 @@ egypt-jers
 egyptjers
 ehttp
 eight %
+eine seite widmen
 einkommen
 ejaculate help
 ejaculate pharm
@@ -16805,6 +16819,8 @@ frozencloth
 frozendress
 frozenheart
 fruitful design
+fruitful in favor
+fruitful in favour
 fruitful-design
 fruta planta
 frutaplanta
@@ -18018,6 +18034,7 @@ gotcu-ibne
 gotowkowa
 gotowkowe
 gotten the therap
+gotten very good thing
 gowatchs
 gown love
 gown online
@@ -21934,6 +21951,7 @@ krossoverov
 ku42.
 kugelbahn
 kult und genuss
+kulturtasche habe
 kunjungi kami
 kunjungi web
 kunjungi-kami
@@ -23369,6 +23387,7 @@ main.jsp
 main.php
 main/main
 mainlongchamp
+mainostoimisto hinta
 mains lancel
 mains-lancel
 mains.asp
@@ -36669,6 +36688,8 @@ utilize warranty
 utilize-portal
 utilized use
 utilized-use
+utm_source
+utm_term
 utorrent
 uugg
 uuse
@@ -39247,11 +39268,14 @@ yo.u.r
 yodick
 yoga for beginner
 yoga gypsy
+yoga kissen
 yoga out
 yoga-for-beginner
 yoga-gypsy
+yoga-kissen
 yoga-out
 yogagypsy
+yogakissen
 yogaout
 yoigucci
 yokur blog
