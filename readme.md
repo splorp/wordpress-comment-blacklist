@@ -99,6 +99,7 @@ See the [license.txt](https://raw.githubusercontent.com/splorp/wordpress-comment
 
 ## History
 
++ 20200905 — Fixed bug that affected comments containing the common character pair “[oy](https://github.com/splorp/wordpress-comment-blacklist/commit/a2357f30a8c04cf327f0cda6d823d5dad41add89)”
 + 20200626 — 41,000 entries
 + 20200424 — Removed [generic terms containing equal signs](https://github.com/splorp/wordpress-comment-blacklist/commit/b83d8e432e550ccff4c41e1af816a3f5f6673d1d) to better handle valid search strings
 + 20200406 — 40,000 entries
