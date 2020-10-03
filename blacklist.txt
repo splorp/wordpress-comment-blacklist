@@ -8516,7 +8516,6 @@ blog; this
 blog::
 blog:quan
 blog:quần
-blog!|
 blog.;
 blog.:
 blog..
@@ -13687,8 +13686,10 @@ dolphins jers
 dolphins-jers
 dolphinsjers
 domain-123
+domain-world
 domain123
 domainbie
+domainworld
 domen kupi
 domen-kupi
 domeny
@@ -14119,7 +14120,9 @@ e-objetivo-da
 é-premium
 e-sportowa
 e-training for dog
+e!|
 e.@
+e.|
 e.i'
 e.i’
 e| p
@@ -17005,7 +17008,9 @@ g-star jean
 g-star-jean
 g-starjean
 g-string
+g!|
 g.@
+g.|
 g.o.a.d.k
 g.o.a.dk
 g.o.ad.k
@@ -22001,7 +22006,9 @@ kỳ-tốt
 kе
 k�
 l http
+l!|
 l.@
+l.|
 l.uk.e.w.a.rm
 l| r
 la pillule
@@ -25536,7 +25543,9 @@ mzt-index
 mztindex
 m谩s
 n http
+n!|
 n.@
+n.|
 n| a
 n1-takeaway
 n1takeaway
@@ -26314,7 +26323,9 @@ nո
 nօ
 o artigo!
 o http
+o!|
 o.@
+o.|
 o.all
 o.for
 o.the
@@ -26753,6 +26764,11 @@ online for website
 online free
 online gambl
 online game play
+online game store
+online games play
+online games store
+online gaming play
+online gaming store
 online gefunden
 online gratis
 online gry
@@ -26815,6 +26831,12 @@ online-eurax
 online-flash
 online-free
 online-gambl
+online-game-play
+online-game-store
+online-games-play
+online-games-store
+online-gaming-play
+online-gaming-store
 online-gefunden
 online-gratis
 online-gry
@@ -27347,7 +27369,6 @@ page-on-twitter
 page-regularly
 page-scrape
 page-seo
-page!|
 page.best
 page.tl
 page/link
@@ -32825,7 +32846,6 @@ site-web
 site-wordpress
 site:-
 site:)
-site!|
 site? my web
 site.co
 site.in
@@ -34314,7 +34334,9 @@ sօ
 sᥙ
 t http
 t_/
+t!|
 t.@
+t.|
 t.all
 t.e.mptest
 t.em.ptest
