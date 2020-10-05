@@ -79,6 +79,7 @@
 /tgi.link
 /tiggi.es
 /tiny.cc
+/tiny.dk
 /tinylink.in
 /tinyls.net
 /tinyurl.co

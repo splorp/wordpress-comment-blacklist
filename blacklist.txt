@@ -4035,6 +4035,7 @@ _zapat
 /timberland-
 /timberland.
 /tiny.cc
+/tiny.dk
 /tinylink.in
 /tinyls.net
 /tinyurl.co
