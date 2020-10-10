@@ -8376,8 +8376,7 @@ blog ..
 blog …
 blog (wordpress
 blog a menudo
-blog article on
-blog articles on
+blog article
 blog based
 blog beast
 blog before
@@ -10091,6 +10090,7 @@ cash flow bonus
 cash flow house
 cash flow review
 cash free
+cash fuck
 cash generat
 cash loan
 cash masterclass
@@ -10104,6 +10104,7 @@ cash-flow-bonus
 cash-flow-house
 cash-flow-review
 cash-free
+cash-fuck
 cash-generat
 cash-loan
 cash-masterclass
@@ -10121,6 +10122,7 @@ cashflowhouse
 cashflowreview
 cashforgold
 cashforsilver
+cashfuck
 cashgenerat
 cashloan
 cashnow
@@ -16852,6 +16854,7 @@ frutaplanta
 fsdfds
 fsdfsd
 fuck buddy
+fuck cash
 fuck down
 fuck escort
 fuck eskort
@@ -16864,6 +16867,7 @@ fuck vid
 fuck you
 fuck_
 fuck-buddy
+fuck-cash
 fuck-down
 fuck-escort
 fuck-eskort
@@ -16874,6 +16878,7 @@ fuck-pic
 fuck-vid
 fuck-you
 fuckbuddy
+fuckcash
 fuckdown
 fucked_
 fucker_
@@ -17506,6 +17511,7 @@ giletmoncler
 ginkgo beneficio
 ginkgo-beneficio
 ginzza
+girl beaut
 girl blog
 girl eblog
 girl escort
@@ -17521,6 +17527,7 @@ girl pantie
 girl panty
 girl rape
 girl spouse
+girl-beaut
 girl-blog
 girl-day-dress
 girl-eblog
@@ -17537,6 +17544,7 @@ girl-rape
 girl-spouse
 girl4escort
 girl4eskort
+girlbeaut
 girlblog
 girldaydress
 girleblog
@@ -17552,10 +17560,12 @@ girlopop
 girlpantie
 girlpanty
 girlrape
+girls beaut
 girls blog
 girls eblog
 girls escort
 girls eskort
+girls-beaut
 girls-blog
 girls-day-dress
 girls-eblog
@@ -17565,6 +17575,7 @@ girls-for-dubai
 girls-in-dubai
 girls4escort
 girls4eskort
+girlsbeaut
 girlsblog
 girlsdaydress
 girlseblog
@@ -18226,11 +18237,13 @@ great article. exact
 great article. great
 great article. really
 great blog and
+great blog by
 great blog continue
 great blog exact
 great blog great
 great blog roll
 great blog you
+great blog, by
 great blog, continue
 great blog, exact
 great blog, great
@@ -25482,6 +25495,7 @@ my weblg
 my weblog -
 my weblog –
 my weblog —
+my weblog goes
 my weblog read
 my weblog trek
 my webpage
@@ -25490,6 +25504,7 @@ my website –
 my website —
 my website ..
 my website …
+my website goes
 my website read
 my website trek
 my website;
