@@ -6955,7 +6955,6 @@ asthma assault
 asthma attack patient
 asthma attack sign
 asthma attack simple
-asthma attack..
 asthma invasion
 asthma sign
 astounding1
@@ -7879,6 +7878,8 @@ benzo-generat
 benzoclin
 benzogenerat
 benzoylmethyl
+berberine loaded
+berberine-loaded
 berlin moncler
 berlin-moncler
 berlinmoncler
@@ -10793,7 +10794,8 @@ cheap pokemon
 cheap price
 cheap proclip
 cheap ray
-cheap red
+cheap real jordan
+cheap real nike
 cheap replic
 cheap ring
 cheap sale
@@ -10891,7 +10893,8 @@ cheap-pokemon
 cheap-prada
 cheap-price
 cheap-proclip
-cheap-red
+cheap-real-jordan
+cheap-real-nike
 cheap-replic
 cheap-ring
 cheap-sale
@@ -10996,7 +10999,8 @@ cheappaper
 cheapprada
 cheapproclip
 cheapray
-cheapred
+cheaprealjordan
+cheaprealnike
 cheapreplic
 cheapring
 cheaps ugg
@@ -25448,7 +25452,6 @@ my blog –
 my blog —
 my blog ;
 my blog :
-my blog ..
 my blog …
 my blog audience
 my blog fer
@@ -25571,7 +25574,6 @@ my webpage
 my website -
 my website –
 my website —
-my website ..
 my website …
 my website goes
 my website read
@@ -27209,8 +27211,14 @@ origami-origami
 origamilesson origami
 origamilesson-origami
 original devise
+original jordan
+original nike
 original-devise
+original-jordan
+original-nike
+originaljordan
 originally referred
+originalnike
 orlistat
 orologi uomo
 orologi-uomo
@@ -31895,6 +31903,8 @@ selling-iphone
 selling-machine
 selllancel
 sellnow
+sembol clan
+sembol-clan
 send earn
 send-earn
 send.sohbet
@@ -34409,12 +34419,16 @@ sventeenligne
 sverige online
 sverige-online
 sverigeonline
+svet zen
+svět žen
+svet-zen
 svetaine pardavimas
 svetainė pardavimas
 svetaine-pardavimas
 svetaines pardavimas
 svetainės pardavimas
 svetaines-pardavimas
+svetzen
 swan vibra
 swan-vibra
 swarovski jap
@@ -34462,6 +34476,8 @@ swords-trade
 swordstrade
 swordtrade
 syaneru
+symbol clan
+symbol-clan
 symptom med
 symptom-med
 symptommed
