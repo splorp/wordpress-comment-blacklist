@@ -3229,21 +3229,25 @@ _zapat
 /go?http
 /go?link
 /go?q
+/go?sa
 /go?url
 /go.asp?go
 /go.asp?http
 /go.asp?link
 /go.asp?q
+/go.asp?sa
 /go.asp?url
 /go.jsp?go
 /go.jsp?http
 /go.jsp?link
 /go.jsp?q
+/go.jsp?sa
 /go.jsp?url
 /go.php?go
 /go.php?http
 /go.php?link
 /go.php?q
+/go.php?sa
 /go.php?url
 /gold-claim.
 /gold-yukon.
@@ -3257,26 +3261,31 @@ _zapat
 /goto?http
 /goto?link
 /goto?q
+/goto?sa
 /goto?url
 /gourl?go
 /gourl?http
 /gourl?link
 /gourl?q
+/gourl?sa
 /gourl?url
 /gourl.asp?go
 /gourl.asp?http
 /gourl.asp?link
 /gourl.asp?q
+/gourl.asp?sa
 /gourl.asp?url
 /gourl.jsp?go
 /gourl.jsp?http
 /gourl.jsp?link
 /gourl.jsp?q
+/gourl.jsp?sa
 /gourl.jsp?url
 /gourl.php?go
 /gourl.php?http
 /gourl.php?link
 /gourl.php?q
+/gourl.php?sa
 /gourl.php?url
 /graphics/
 /group1
@@ -3847,6 +3856,7 @@ _zapat
 /rk.php?http
 /rk.php?link
 /rk.php?q
+/rk.php?sa
 /rk.php?url
 /rlu.ru
 /roulette-
@@ -4106,6 +4116,7 @@ _zapat
 /url.php?http
 /url.php?link
 /url.php?q
+/url.php?sa
 /url.php?url
 /url/
 /urlms.co
@@ -6394,6 +6405,10 @@ analysis-sport
 ananizi siki
 ananizi-siki
 ananızı siki
+anasi siki
+anasi-siki
+anası siki
+anası-siki
 anchor0
 anchor1
 anchor2
@@ -8436,6 +8451,7 @@ blog platform
 blog post
 blog projet
 blog quite
+blog regardless
 blog sante
 blog santé
 blog service
@@ -15930,6 +15946,7 @@ filenamesdat
 files/new
 filestube
 film erotic
+film it would also
 film porn
 film semi
 film song download
@@ -17009,6 +17026,8 @@ funds.pl
 funds.ru
 funds.su
 funds.za
+funnelvio review
+funnelvio-review
 funny meme
 funny-meme
 funnymeme
@@ -17767,6 +17786,7 @@ gmail-prox
 gmail.coml
 gmaills
 gmailmirror
+gmailmy
 gmailprox
 gmod stalker
 gmod-stalker
@@ -19845,6 +19865,7 @@ htm?go=
 htm?http=
 htm?link=
 htm?q=
+htm?sa=
 htm?url=
 html coin
 html-article
@@ -19855,6 +19876,8 @@ html?a=
 html?go=
 html?http=
 html?link=
+html?q=
+html?sa=
 html?url=
 htmlarticle
 htmlcoin
@@ -20002,6 +20025,7 @@ if your.
 if youre
 ifyou
 ig.o.r
+igi-game
 ihone-4
 ihone-5
 ihone-6
@@ -28360,6 +28384,7 @@ phonesforsale
 phonesss
 phonestore
 phonstore
+photo it would also
 photo/bv
 photo/celine
 photo/chanel
@@ -34371,13 +34396,18 @@ supraonline
 suprashoe
 suprax
 supreme boost
+supreme essay
 supreme quote
+supreme search
 supreme_
 supreme-boost
 supreme-essay
 supreme-quote
+supreme-search
 supremeboost
 supremeessay
+supremequote
+supremesearch
 sure nice point
 sure-nice-point
 surf my blog
@@ -37346,6 +37376,7 @@ video clip port
 video concen
 video erotic
 video ist cool
+video it would also
 video magnif
 video marketing
 video ought not
@@ -38158,6 +38189,7 @@ webdesign.co
 webexplore
 webfarm
 webhostapp
+webimar
 weblink
 weblog every once
 weblog link
@@ -38819,12 +38851,14 @@ wohh just
 woman agency
 woman bikini
 woman fetish
+woman sandal
 woman seeking man
 woman seeking wom
 woman sex
 woman-agency
 woman-bikini
 woman-fetish
+woman-sandal
 woman-seeking-man
 woman-seeking-wom
 woman-sex
@@ -38834,6 +38868,7 @@ woman+
 womanagency
 womanbikini
 womanfetish
+womansandal
 womanseeking
 womansex
 womax
@@ -38865,6 +38900,7 @@ womens-gold
 womens-high-heel
 womens-narrow
 womens-sandal
+womensandal
 womenseeking
 womensex
 won article
