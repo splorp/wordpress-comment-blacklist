@@ -12446,6 +12446,9 @@ couldn”t
 coumadin
 counter sex
 counter-sex
+counterfeit steroid
+counterfeit-steroid
+counterfeitsteroid
 countersex
 countertopt
 coupe faim
@@ -13264,11 +13267,15 @@ des-services-web
 desconto
 describes feasible
 describes-feasible
+descriptive article
 descriptive blog
 descriptive post
+descriptive site
 descriptive weblog
+descriptive-article
 descriptive-blog
 descriptive-post
+descriptive-site
 descriptive-weblog
 design cheap
 design industrial design
@@ -15326,6 +15333,7 @@ fake mirror
 fake oakley
 fake passport
 fake ray
+fake steroid
 fake sunglass
 fake ugg
 fake watch
@@ -15338,6 +15346,7 @@ fake-mirror
 fake-oakley
 fake-passport
 fake-ray
+fake-steroid
 fake-sunglass
 fake-ugg
 fake=
@@ -15351,6 +15360,7 @@ fakeoakley
 fakeok
 fakepassport
 fakeray
+fakesteroid
 fakesunglass
 fakeugg
 fakewatch
@@ -33837,6 +33847,36 @@ stellar sale
 stellar-sale
 stellarsale
 stendra
+steroid counter
+steroid fake
+steroid online
+steroid ripoff
+steroid scam
+steroid-counter
+steroid-fake
+steroid-online
+steroid-ripoff
+steroid-scam
+steroidcounter
+steroidfake
+steroidonline
+steroidripoff
+steroids counter
+steroids fake
+steroids online
+steroids ripoff
+steroids scam
+steroids-counter
+steroids-fake
+steroids-online
+steroids-ripoff
+steroids-scam
+steroidscam
+steroidscounter
+steroidsfake
+steroidsonline
+steroidsripoff
+steroidsscam
 stevewynnloan
 stewart furniture
 stewart patio
@@ -38417,11 +38457,14 @@ weebpage
 weebsite
 week reaction
 week.in
+weekly casino
 weekly income
 weekly profit
+weekly-casino
 weekly-income
 weekly-profit
 weekly.in
+weeklycasino
 weeklyincome
 weeklyprofit
 weelhtiar
