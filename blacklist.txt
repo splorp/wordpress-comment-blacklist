@@ -1001,8 +1001,6 @@ _zapat
 -online-8-
 -online-9-
 -online-free-
--online.
--online/
 -order-at-
 -oulu
 -outlet.
@@ -3666,9 +3664,6 @@ _zapat
 /ok9.
 /om-oss/
 /onip.it
-/online-
-/online.
-/online/
 /ooindex.
 /open.
 /orderpage
