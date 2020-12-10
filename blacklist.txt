@@ -1424,25 +1424,34 @@ _zapat
 :usuario
 ！
 ! ,
-! !
 ! .
 ! this blog
 ! this post
 ! this site
 ! this web
 !--
+!,!
+!,?
 !,i
-!! you
+!,y
 !!}
 !!\
 !?'
 !?’
 !..
+!.i
+!.y
 ![]
 !}
 !@#
 ? relevant!
 ? thanks !
+?,!
+?,?
+?,i
+?,y
+?.i
+?.y
 ?/pag
 ?|
 ?a=stats
@@ -3544,6 +3553,24 @@ _zapat
 /maillot-
 /maillot.
 /maillot/
+/mainframe.asp?go
+/mainframe.asp?http
+/mainframe.asp?link
+/mainframe.asp?q
+/mainframe.asp?sa
+/mainframe.asp?url
+/mainframe.jsp?go
+/mainframe.jsp?http
+/mainframe.jsp?link
+/mainframe.jsp?q
+/mainframe.jsp?sa
+/mainframe.jsp?url
+/mainframe.php?go
+/mainframe.php?http
+/mainframe.php?link
+/mainframe.php?q
+/mainframe.php?sa
+/mainframe.php?url
 /malware-
 /malware.
 /malware/
@@ -12306,6 +12333,7 @@ cool article
 cool blog
 cool post
 cool share
+cool site which
 cool stuff to buy
 cool thx!
 cool-article
@@ -13346,6 +13374,10 @@ details necessities
 details though
 details-necessities
 details-though
+detective privado
+detective-privado
+detectives privado
+detectives-privado
 detektiv
 detik sport
 detik-sport
@@ -29961,6 +29993,7 @@ proxy free
 proxy-free
 proxyfree
 prozac-
+prue fair
 prywatne
 przeglosuje
 przepisane
@@ -34730,6 +34763,7 @@ taionline
 tak tak tak
 takako ajasin
 takako-ajasin
+take a appear
 take a in the
 take an expense
 take angry
