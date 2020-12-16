@@ -24,6 +24,7 @@ If you prefer a more hands-off approach, there are several plugins that will che
 + [Comment Blacklist Manager](https://wordpress.org/plugins/comment-blacklist-manager/) by [Andrew Norcross](https://github.com/norcross)
 + [Comment Blacklist Updater](https://wordpress.org/plugins/comment-blacklist-updater/) by [Apasionados](https://apasionados.es/)
 + [Shield Security for WordPress](https://wordpress.org/plugins/wp-simple-firewall/) by [One Dollar Plugin](https://onedollarplugin.com/)
++ [WP Toolbelt](https://github.com/BinaryMoon/wp-toolbelt) by [Ben Gillbanks](https://github.com/BinaryMoon)
 
 ## Does It Really Work?
 
@@ -83,7 +84,7 @@ For example, in an earlier version of the blacklist the keyword `::` had been in
 
 *“So much for using Akismet.”*
 
-Thanks to [Mika Epstein](https://github.com/ipstenu), [Paul Goodchild](https://twitter.com/PaulGoodchild), [Sergej Müller](https://github.com/sergejmueller), [Andrew Norcross](https://github.com/norcross), [Fabrizio Salmi](https://github.com/fabriziosalmi), [Volker Schmidt](https://github.com/volkerjschmidt), and [Claudio Schwarz](https://github.com/purzlbaum) for their various contributions, suggestions, and reports from the field.
+Thanks to [Mika Epstein](https://github.com/ipstenu), [Ben Gillbanks](https://github.com/BinaryMoon), [Paul Goodchild](https://twitter.com/PaulGoodchild), [Sergej Müller](https://github.com/sergejmueller), [Andrew Norcross](https://github.com/norcross), [Fabrizio Salmi](https://github.com/fabriziosalmi), [Volker Schmidt](https://github.com/volkerjschmidt), and [Claudio Schwarz](https://github.com/purzlbaum) for their various contributions, suggestions, and reports from the field.
 
 Likewise, [Chris Burton](https://chrisburton.me/) deserves a virtual fist bump for the above quote.
 
@@ -108,6 +109,7 @@ See the [license.txt](https://raw.githubusercontent.com/splorp/wordpress-comment
 + 20191113 — 38,000 entries
 + 20190926 — Refactored [generic terms containing underscores](https://github.com/splorp/wordpress-comment-blacklist/commit/10afaf88e3995e3336c8d2688c4dfc8901779a0a) to better handle valid wiki links
 + 20190915 — 37,000 entries
++ 20190820 — Ben Gillbanks’ [WP Toolbelt](https://github.com/BinaryMoon/wp-toolbelt) plugin released
 + 20190726 — 36,000 entries
 + 20190721 — Fixed bug that affected comments containing the common term “[product](https://github.com/splorp/wordpress-comment-blacklist/commit/1e6264186298ff8f573c4401d7fe10aa70f5917f)”
 + 20190720 — Fixed bug that affected comments containing the common term “[while](https://github.com/splorp/wordpress-comment-blacklist/commit/dc42a98623998d591c426dab2a05c0780088b3a5)”
