@@ -4233,6 +4233,7 @@ _zapat
 /xe/
 /xml/
 /xmlrpc/
+/xor.tw
 /xtl.jp
 /xurl.es
 /xxs.yt
