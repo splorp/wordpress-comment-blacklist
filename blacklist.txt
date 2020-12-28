@@ -5446,6 +5446,7 @@ aand we
 aand you
 aany better
 aare feel
+aare king
 aat least
 aat this
 abalroar dentro
@@ -7074,6 +7075,7 @@ attractive sex
 attractive-sex
 audience engagement
 audience-engagement
+audijence
 audio song
 audio-song
 auf dem markt
@@ -8641,6 +8643,7 @@ blogging ad
 blogging and site
 blogging glance
 blogging look
+blogging myself
 blogging service
 blogging user
 blogging viewer
@@ -10234,6 +10237,7 @@ casino partic
 casino phish
 casino script
 casino site
+casino slot
 casino today
 casino view
 casino_
@@ -10254,6 +10258,7 @@ casino-partic
 casino-phish
 casino-script
 casino-site
+casino-slot
 casino-today
 casino-view
 casino-x
@@ -10276,6 +10281,7 @@ casinos-
 casinos-today
 casinoscript
 casinosite
+casinoslot
 casinoview
 casinox
 casolete plastic
@@ -19184,6 +19190,7 @@ heilhitler
 hellllo
 helllo
 hello admin
+hello bonus
 hello colleague
 hello dear
 hello dress
@@ -19214,6 +19221,7 @@ hello world please
 hello world you
 hello_world
 hello-admin
+hello-bonus
 hello-dress
 hello-people
 hello-please
@@ -19233,10 +19241,14 @@ hello, please suggest
 hello!my
 hello.this
 helloadmin
+hellobonus
 hellodress
 hellosex
 hellothat
 hellothis
+helo bonus
+helo-bonus
+helobonus
 help allow you
 help cry
 help essay
@@ -23888,6 +23900,7 @@ manteau karen
 manteau-karen
 manteaukaren
 many-utilizes
+manyy
 maqnage
 maquiagem para
 maquiagem profes
@@ -26878,6 +26891,7 @@ of-the-casino
 of-you-develop
 ofargument
 ofcourse
+off blog
 off topic but
 offer a great service
 offer out
@@ -30587,6 +30601,7 @@ reading-taste
 ready and happy
 readyto
 reaing this
+real casino
 real excellent info
 real fantastic info
 real interesting info
@@ -30594,10 +30609,12 @@ real lesbian
 real marvellous info
 real marvelous info
 real mastery
+real-casino
 real-estate-web
 real-estate.web
 real-lesbian
 real-mastery
+realcasino
 realestate.co
 realestate.web
 realestate.wordpress
@@ -30779,8 +30796,11 @@ reebokital
 reebokscarpe
 reebokzig
 reegzniocd
+reel casino
+reel-casino
 reel-game
 reel-king-slot
+reelcasino
 reelgame
 reeview
 refer-open
@@ -31189,6 +31209,7 @@ revia med
 revia-med
 review best
 review bonus
+review discount
 review my blog
 review my page
 review my sire
@@ -31201,6 +31222,7 @@ review website
 review you tube
 review-best
 review-bonus
+review-discount
 review-on
 review-sale
 review-site
@@ -31217,6 +31239,7 @@ review.jsp
 review.php
 reviewbest
 reviewbonus
+reviewdiscount
 reviewon
 reviews best
 reviews online
@@ -34564,6 +34587,7 @@ superb information
 superb page
 superb site
 superb subject matter
+superb thought
 superb web
 superb-blog
 superb-data
@@ -41440,6 +41464,7 @@ zyvox
 شركة نقل
 شوف سبور
 طارد الحمام
+فروشگاه کاکتوس
 فقدان الوزن
 فقدان-الوزن
 قم نجار
