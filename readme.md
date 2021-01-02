@@ -92,7 +92,7 @@ I’d also like to acknowledge [John Hughes](https://themeisle.com/blog/stop-com
 
 ## License
 
-Copyright © 2011–2020 Grant Hutchinson
+Copyright © 2011–2021 Grant Hutchinson
 
 This project is licensed under the short and sweet [MIT License](https://opensource.org/licenses/MIT). This license allows you to do anything pretty much anything you want with the contents of the repository, as long as you provide proper attribution and don’t hold anyone liable.
 
