@@ -2483,6 +2483,8 @@ _zapat
 /?goto=http
 /?goto=link
 /?goto=q
+/?goto=rct
+/?goto=sa
 /?goto=url
 /.wd/
 //|
@@ -3239,24 +3241,28 @@ _zapat
 /go?http
 /go?link
 /go?q
+/go?rct
 /go?sa
 /go?url
 /go.asp?go
 /go.asp?http
 /go.asp?link
 /go.asp?q
+/go.asp?rct
 /go.asp?sa
 /go.asp?url
 /go.jsp?go
 /go.jsp?http
 /go.jsp?link
 /go.jsp?q
+/go.jsp?rct
 /go.jsp?sa
 /go.jsp?url
 /go.php?go
 /go.php?http
 /go.php?link
 /go.php?q
+/go.php?rct
 /go.php?sa
 /go.php?url
 /gold-claim.
@@ -3271,30 +3277,35 @@ _zapat
 /goto?http
 /goto?link
 /goto?q
+/goto?rct
 /goto?sa
 /goto?url
 /gourl?go
 /gourl?http
 /gourl?link
 /gourl?q
+/gourl?rct
 /gourl?sa
 /gourl?url
 /gourl.asp?go
 /gourl.asp?http
 /gourl.asp?link
 /gourl.asp?q
+/gourl.asp?rct
 /gourl.asp?sa
 /gourl.asp?url
 /gourl.jsp?go
 /gourl.jsp?http
 /gourl.jsp?link
 /gourl.jsp?q
+/gourl.jsp?rct
 /gourl.jsp?sa
 /gourl.jsp?url
 /gourl.php?go
 /gourl.php?http
 /gourl.php?link
 /gourl.php?q
+/gourl.php?rct
 /gourl.php?sa
 /gourl.php?url
 /graphics/
@@ -3559,18 +3570,21 @@ _zapat
 /mainframe.asp?http
 /mainframe.asp?link
 /mainframe.asp?q
+/mainframe.asp?rct
 /mainframe.asp?sa
 /mainframe.asp?url
 /mainframe.jsp?go
 /mainframe.jsp?http
 /mainframe.jsp?link
 /mainframe.jsp?q
+/mainframe.jsp?rct
 /mainframe.jsp?sa
 /mainframe.jsp?url
 /mainframe.php?go
 /mainframe.php?http
 /mainframe.php?link
 /mainframe.php?q
+/mainframe.php?rct
 /mainframe.php?sa
 /mainframe.php?url
 /malware-
@@ -3881,6 +3895,7 @@ _zapat
 /rk.php?http
 /rk.php?link
 /rk.php?q
+/rk.php?rct
 /rk.php?sa
 /rk.php?url
 /rlu.ru
@@ -4135,12 +4150,14 @@ _zapat
 /url?http
 /url?link
 /url?q
+/url?rct
 /url?sa
 /url?url
 /url.php?go
 /url.php?http
 /url.php?link
 /url.php?q
+/url.php?rct
 /url.php?sa
 /url.php?url
 /url/
@@ -11188,6 +11205,8 @@ check out the page
 check out the site
 check out the sitte
 check out the web
+check the ideas
+check this ideas
 check this link
 check this video
 check us out guy
@@ -17280,6 +17299,7 @@ gainers beat
 gainers outnumbered
 gainers-beat
 gainers-outnumbered
+gainful day
 gal fetish
 gal-fetish
 galaxy nail
@@ -20019,10 +20039,12 @@ hqsteroid
 hqve the
 href%3dhttp
 htaccrss
+htm?a=
 htm?go=
 htm?http=
 htm?link=
 htm?q=
+htm?rct=
 htm?sa=
 htm?url=
 html coin
@@ -20035,6 +20057,7 @@ html?go=
 html?http=
 html?link=
 html?q=
+html?rct=
 html?sa=
 html?url=
 htmlarticle
@@ -27492,7 +27515,9 @@ out assim
 out my blog
 out seems to be
 out soime
+out the ideas
 out the journey
+out this ideas
 out-assim
 outelt
 outfits seller
@@ -35128,13 +35153,16 @@ tatuagen-feminin
 tatuagens feminin
 tatuagens_
 tatuagens-feminin
-tax ideas
+tax book
+tax debt
+tax idea
 tax-book
 tax-debt
-tax-ideas
+tax-idea
 taxbook
 taxdebt
 taxi business
+taxidea
 taylormade_
 tɑ
 te.m.ptest
@@ -35439,6 +35467,7 @@ the greatest article
 the greatest blog
 the greatest web
 the helpful job
+the ideas for
 the imagds
 the internet content
 the internet user
@@ -35660,6 +35689,7 @@ this grand web
 this great blog
 this great content
 this gucci
+this ideas for
 this info then
 this internet site
 this landline
@@ -41496,6 +41526,7 @@ zyvox
 الديتوكس
 السياحة العلاجي
 العقاري
+العلوم،ديالى
 القضيب
 ايفون مجانية
 بازی انفجار
@@ -41516,6 +41547,7 @@ zyvox
 دايت
 دستگاه حضور
 دورات تدريب
+ديالى،علوم
 زواج المسيار
 زواج سعودية
 زواج,مسيار
