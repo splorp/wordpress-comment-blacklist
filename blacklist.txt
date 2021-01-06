@@ -19,6 +19,7 @@ _btc
 _bulgar
 _buyout
 _bvlgar
+_bytecoin
 _calvin
 _camiseta
 _campaign
@@ -58,6 +59,7 @@ _jord
 _lacoste
 _latisse
 _lesbian
+_litecoin
 _longchamp
 _loubou
 _lululemon
@@ -117,6 +119,7 @@ _zapat
 --bulgar
 --buyout
 --bvlgar
+--bytecoin
 --calvin
 --camiseta
 --campaign
@@ -154,6 +157,7 @@ _zapat
 --lacoste
 --latisse
 --lesbian
+--litecoin
 --longchamp
 --loubou
 --lululemon
@@ -438,6 +442,9 @@ _zapat
 -buying-a-house-
 -buying-a-house.
 -buying-a-house/
+-bytecoin-
+-bytecoin.
+-bytecoin/
 -cable-speaker-
 -cable-speaker.
 -cable-speaker/
@@ -872,6 +879,9 @@ _zapat
 -lineshake/
 -link.
 -link/
+-litecoin-
+-litecoin.
+-litecoin/
 -loan-
 -loans-
 -longchamp-
@@ -1109,9 +1119,6 @@ _zapat
 -qsymia.
 -qsymia/
 -questions.in
--quitsmoking-
--quitsmoking.
--quitsmoking/
 -r.co
 -r.in
 -r.pl
@@ -1476,6 +1483,7 @@ _zapat
 ?hollis
 ?longchamp
 ?mbt
+?mod=space
 ?mulberry
 ?nike
 ?option=com_
@@ -1662,6 +1670,9 @@ _zapat
 .buying-a-house-
 .buying-a-house.
 .buying-a-house/
+.bytecoin-
+.bytecoin.
+.bytecoin/
 .canadagoose-
 .cartier-
 .cause-
@@ -1788,6 +1799,9 @@ _zapat
 .first-home.
 .first-home/
 .fitnell.
+.forex-
+.forex.
+.forex/
 .fr,
 .fr/,
 .fragmenting.us
@@ -1942,6 +1956,9 @@ _zapat
 .lineshake.
 .lineshake/
 .lipoly.ru
+.litecoin-
+.litecoin.
+.litecoin/
 .longchamp-
 .look4blog.
 .louboutin-
@@ -2116,9 +2133,6 @@ _zapat
 .qsymia-
 .qsymia.
 .qsymia/
-.quitsmoking-
-.quitsmoking.
-.quitsmoking/
 .r.e.d
 .rar.
 .rediff.
@@ -2494,6 +2508,7 @@ _zapat
 //aaa.
 //bitcoin
 //buy
+//bytecoin
 //casino
 //cheap
 //compare
@@ -2509,6 +2524,7 @@ _zapat
 //income
 //leverage
 //linkm
+//litecoin
 //onsale
 //pagina
 //penis
@@ -2869,6 +2885,9 @@ _zapat
 /buyma.
 /bvlgari-
 /bvlgari.
+/bytecoin-
+/bytecoin.
+/bytecoin/
 /cache-
 /cache.
 /cache/
@@ -3535,6 +3554,9 @@ _zapat
 /liposuction
 /list-
 /list.
+/litecoin-
+/litecoin.
+/litecoin/
 /loans
 /logs/
 /longchamp-
@@ -3854,9 +3876,6 @@ _zapat
 /qsymia-
 /qsymia.
 /qsymia/
-/quitsmoking-
-/quitsmoking.
-/quitsmoking/
 /r4i-
 /r4i.
 /ra.
@@ -6416,6 +6435,7 @@ amped page
 amped-page
 ampedpage
 ampicillin
+amplia experiencia
 ampmexterm
 amulet coin
 amulet-coin
@@ -7878,11 +7898,15 @@ becausethe
 become a bring
 become bitcoin
 become buying
+become bytecoin
+become litecoin
 become our consumer
 become-a-success
 become-an-expert
 become-bitcoin
 become-buying
+become-bytecoin
+become-litecoin
 bed are satisfy
 bee given
 beeday
@@ -7892,6 +7916,8 @@ beegfriend
 beenpaid
 before long find
 before-purchas
+begeni hilesi
+begeni-hilesi
 beggun
 beginner blog
 beginner-blog
@@ -9685,6 +9711,7 @@ buy silver
 buy snapchat
 buy soccer
 buy thesis
+buy tiktok
 buy toms
 buy traff
 buy trusted
@@ -9750,6 +9777,7 @@ buy-snapchat
 buy-soccer
 buy-soma
 buy-thesis
+buy-tiktok
 buy-toms
 buy-top
 buy-traff
@@ -9882,7 +9910,7 @@ byo.co
 byt.es
 byte coin
 byte-coin
-bytecoin
+bytecoin_
 bе
 bі
 bу
@@ -12781,6 +12809,7 @@ cryp.trade
 crypto + bitcoin
 crypto + btc
 crypto + forex
+crypto bitcoin
 crypto btc
 crypto curren
 crypto hack
@@ -12788,6 +12817,7 @@ crypto moneda
 crypto script
 crypto tab
 crypto_
+crypto-bitcoin
 crypto-btc
 crypto-curren
 crypto-hack
@@ -13962,6 +13992,7 @@ download android
 download apk
 download arab
 download brace
+download bytecoin
 download cam
 download drama
 download footbal
@@ -13971,6 +14002,7 @@ download futbal
 download gratis
 download intrusion
 download joomla
+download litecoin
 download m4a
 download mp3
 download mp4
@@ -13980,6 +14012,7 @@ download-android
 download-apk
 download-arab
 download-brace
+download-bytecoin
 download-cam
 download-drama
 download-footbal
@@ -13989,6 +14022,7 @@ download-futbal
 download-gratis
 download-intrusion
 download-joomla
+download-litecoin
 download-m4a
 download-mp3
 download-mp4
@@ -15220,6 +15254,7 @@ experience-boat
 experience-simply
 experienced businesses
 experienced-businesses
+experiencia en el sector
 expert presence
 expert suggestion
 expert writing
@@ -16526,7 +16561,10 @@ forex + bitcoin
 forex + btc
 forex + crypto
 forex $
+forex bitcoin
+forex btc
 forex cfd
+forex crypto
 forex dual
 forex forum
 forex halal
@@ -16541,7 +16579,10 @@ forex robot
 forex sign
 forex wealth
 forex_
+forex-bitcoin
+forex-btc
 forex-cfd
+forex-crypto
 forex-dual
 forex-forum
 forex-halal
@@ -17612,12 +17653,14 @@ get a preparations
 get bangladesh
 get bitcoin
 get blog
+get bytecoin
 get face
 get fastidious
 get fuck
 get hold this
 get know how
 get know-how
+get litecoin
 get more blog
 get more traffic
 get more weblog
@@ -17640,12 +17683,14 @@ get-bangladesh
 get-bitcoin
 get-blog
 get-boot
+get-bytecoin
 get-face
 get-fantastic
 get-fastidious
 get-fuck
 get-hermes
 get-know-how
+get-litecoin
 get-massive
 get-money-for
 get-more-blog
@@ -17666,10 +17711,12 @@ get-widget
 getaloan
 getastyle
 getbitcoin
+getbytecoin
 getface
 getgiftcard
 gethermes
 getjoy
+getlitecoin
 getmassive
 getpokego
 getridof
@@ -19579,6 +19626,8 @@ hiii guy
 hiii people
 hiii world
 hiii you
+hilesi paket
+hilesi-paket
 hilt gaining
 hilt-gaining
 him delivery
@@ -20881,11 +20930,15 @@ invasions de puces
 invest binary
 invest in bitcoin
 invest in btc
+invest in bytecoin
 invest in crypto
+invest in litecoin
 invest-binary
 invest-in-bitcoin
 invest-in-btc
+invest-in-bytecoin
 invest-in-crypto
+invest-in-litecoin
 invest-money
 invest-off
 invest.in
@@ -20903,28 +20956,40 @@ investimentos-process
 investimentos+process
 investing in bitcoin
 investing in btc
+investing in bytecoin
 investing in crypto
+investing in litecoin
 investing-in-bitcoin
 investing-in-btc
+investing-in-bytecoin
 investing-in-crypto
+investing-in-litecoin
 investing/stock
 investing+
 investinwell
 investir
 investment in bitcoin
 investment in btc
+investment in bytecoin
 investment in crypto
+investment in litecoin
 investment tips
 investment-in-bitcoin
 investment-in-btc
+investment-in-bytecoin
 investment-in-crypto
+investment-in-litecoin
 investment-tips
 investments in bitcoin
 investments in btc
+investments in bytecoin
 investments in crypto
+investments in litecoin
 investments-in-bitcoin
 investments-in-btc
+investments-in-bytecoin
 investments-in-crypto
+investments-in-litecoin
 investmenttips
 investmoney
 investoff
@@ -22989,6 +23054,7 @@ listentoyoutube
 listy,
 lite/wbb
 lite1/wbb
+litecoin_
 literally energetic
 litte more
 litte-more
@@ -25728,6 +25794,7 @@ my bookmark site
 my bookmarks
 my bpog
 my btc
+my bytecoin
 my cryptocurren
 my custom golf
 my excerpt
@@ -25738,6 +25805,7 @@ my hermes
 my homepage
 my internet browser
 my know-how
+my litecoin
 my myspace
 my online
 my own blog
@@ -25837,6 +25905,7 @@ my-betor
 my-bitcoin
 my-bookmark
 my-btc
+my-bytecoin
 my-cryptocurren
 my-custom-golf
 my-excerpt
@@ -25844,6 +25913,7 @@ my-fashion
 my-hermes
 my-homepage
 my-know-how
+my-litecoin
 my-most-favorite
 my-most-favourite
 my-my
@@ -25867,6 +25937,7 @@ mybetor
 mybitcoin
 mybookmark
 mybusiness
+mybytecoin
 mycin online
 mycin-online
 mycinonline
@@ -25882,6 +25953,7 @@ myjke wysokocis
 myjke-wysokocis
 myknee
 myleadsys
+mylitecoin
 mylupus
 mynewsite
 mynfl
@@ -26116,11 +26188,17 @@ neatpost
 neatsite
 neatweb
 need bitcoin
+need bytecoin
+need litecoin
 need sex
 need wondrous
 need-bitcoin
+need-bytecoin
+need-litecoin
 need-sex
 needbitcoin
+needbytecoin
+needlitecoin
 needmoney
 needs wondrous
 needsex
@@ -29132,6 +29210,7 @@ popular-teenage
 popularna
 popularną markę
 popuoar
+por los cliente
 por tu blog
 por tu site
 por um blog
@@ -30471,6 +30550,7 @@ quincyfemme
 quinoa stomach
 quinoa-stomach
 quit-smok
+quit-smoking
 quit9to5
 quite business
 quite photo
@@ -30478,6 +30558,7 @@ quite-business
 quite-photo
 quited in
 quitge like
+quitsmoking
 quotes saying
 quotes-saying
 quwlity
@@ -35506,6 +35587,7 @@ the-benefit-of
 the-benefits-of
 the-best-treatment
 the-bitcoin
+the-bytecoin
 the-carfiac
 the-consulting-firm
 the-contents-present
@@ -35519,6 +35601,7 @@ the-helpful-job
 the-hoverboard
 the-hypothyroid
 the-latest-
+the-litecoin
 the-notify
 the-pokie
 the-right-blog
@@ -35532,6 +35615,7 @@ theattempt
 theaverage
 thebest
 thebitcoin
+thebytecoin
 thedevelop
 thedirect
 thee internet
@@ -35543,6 +35627,7 @@ thehypothyroid
 their email list
 their sincere idea
 their-email-list
+thelitecoin
 them inaccurate
 them middle
 them to our blog
@@ -35928,12 +36013,15 @@ tik tok fan
 tik-tok-fan
 tiki-index
 tiktok advert
+tiktok begeni
+tiktok beğeni
 tiktok fan
 tiktok intro
 tiktok monetiz
 tiktok money
 tiktok privado
 tiktok-advert
+tiktok-begeni
 tiktok-fan
 tiktok-hack
 tiktok-intro
@@ -36209,6 +36297,9 @@ tones-way
 tongue retain
 tongue-retain
 tongueretain
+tonic scam
+tonic-scam
+tonicscam
 too big or too
 too business
 too much real
@@ -37268,6 +37359,7 @@ urfa-eskort
 urfaescort
 urfaeskort
 urgent custom
+uricasino
 urine strip
 urine-strip
 url fx
@@ -38332,10 +38424,16 @@ wanna-say
 wanna-state
 wanna-tell
 want bitcoin
+want bytecoin
+want litecoin
 want to commentary
 want-bitcoin
+want-bytecoin
+want-litecoin
 wantbitcoin
+wantbytecoin
 wantfull
+wantlitecoin
 wantsand
 warcraftguide
 wardrobe appli
@@ -40833,6 +40931,7 @@ zyvox
 еw
 есть скидка
 есть-скидка
+жақсы телефон
 жизненные проблем
 жизненные-проблем
 жизненые проблем
@@ -41534,6 +41633,7 @@ zyvox
 بهاء-و-کيفيت
 بهترین
 پازل باند
+تحميل العاب
 ترافيک نيم
 ترافيک-نيم
 تسديد قروض
@@ -41573,6 +41673,7 @@ zyvox
 كشف الذهب
 كشف المعادن
 كلية القانون
+كلية,رقم 
 کیر
 لتحميل
 لرش المبيد ات
@@ -41588,8 +41689,10 @@ zyvox
 مشاهدة الافلام
 معاهد تدريب
 مقاله و بلاگ
+موقع سؤال
 موقع سنارة
 موقع سناره
+موقع صنديد
 نجار بالدما
 ها و بلاگ
 و بلاگ ها
