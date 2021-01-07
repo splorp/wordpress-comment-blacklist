@@ -32,6 +32,7 @@ _chaussure
 _cheap
 _cheat
 _choles
+_cialis
 _click
 _clitor
 _crack
@@ -131,6 +132,7 @@ _zapat
 --cheap
 --cheat
 --choles
+--cialis
 --click
 --clitor
 --crack
@@ -501,6 +503,9 @@ _zapat
 -cheats/
 -chung-cu-
 -cia.co
+-cialis-
+-cialis.
+-cialis/
 -cigar-
 -cigar.
 -cigar/
@@ -1696,6 +1701,9 @@ _zapat
 .cheats-
 .cheats.
 .cheats/
+.cialis-
+.cialis.
+.cialis/
 .clit-
 .clit.
 .clit/
@@ -2511,6 +2519,7 @@ _zapat
 //bytecoin
 //casino
 //cheap
+//cialis
 //compare
 //contact
 //eee
@@ -2973,6 +2982,9 @@ _zapat
 /chrome/
 /chrome=
 /chung-cu-
+/cialis-
+/cialis.
+/cialis/
 /cigar-
 /cigar.
 /cigar/
@@ -11498,7 +11510,8 @@ chung hightop
 chung-cư
 chung-hightop
 cɦ
-cialis
+ciaalis
+cialis_
 ciallis
 cig buy
 cig holder

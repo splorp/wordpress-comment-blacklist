@@ -100,6 +100,7 @@ See the [license.txt](https://raw.githubusercontent.com/splorp/wordpress-comment
 
 ## History
 
++ 20210107 — Fixed bug that affected comments containing the term “[cialis](https://github.com/splorp/wordpress-comment-blacklist/commit/)”, such as “specialist”
 + 20210106 — 42,000 entries
 + 20201203 — Removed [several “online” terms](https://github.com/splorp/wordpress-comment-blacklist/commit/b83d8e432e550ccff4c41e1af816a3f5f6673d1d) to better handle valid email domains
 + 20200905 — Fixed bug that affected comments containing the common character pair “[oy](https://github.com/splorp/wordpress-comment-blacklist/commit/a2357f30a8c04cf327f0cda6d823d5dad41add89)”
