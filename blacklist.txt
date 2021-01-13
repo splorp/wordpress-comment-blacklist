@@ -1645,8 +1645,6 @@ _zapat
 .blogster.
 .bloguetechno.
 .bloguetrotter.
-.blogz.
-.blogzag.
 .bluray-
 .bluray.
 .bodhidharma-
@@ -1816,8 +1814,6 @@ _zapat
 .fr,
 .fr/,
 .fragmenting.us
-.free-blogz.
-.freeblogz.
 .freecam
 .freeforum
 .freeoda.co
@@ -6237,11 +6233,13 @@ alat kesehatan
 alat-kesehatan
 albanian-travel
 albaniantravel
+albendazole deal
 albendazole generic
 albendazole on line
 albendazole online
 albendazole over
 albendazole price
+albendazole-deal
 albendazole-generic
 albendazole-online
 albendazole-over
@@ -8813,6 +8811,7 @@ blogue1
 blogviewer
 blogweb
 blogworld
+blogz
 bloig
 blokg
 blolg
@@ -9696,7 +9695,7 @@ bux cheap
 bux-cheap
 buy acrylic
 buy ageless
-buy albendazole
+buy albenda
 buy albenza
 buy blade
 buy canadagoose
@@ -9757,7 +9756,7 @@ buy you tube
 buy your tote
 buy youtube
 buy-acrylic
-buy-albendazole
+buy-albenda
 buy-albenza
 buy-blade
 buy-canadagoose
@@ -11536,7 +11535,10 @@ chung-cư
 chung-hightop
 cɦ
 ciaalis
+cialis generic
 cialis_
+cialis-generic
+cialisgeneric
 ciallis
 cig buy
 cig holder
@@ -16904,6 +16906,7 @@ free-atm
 free-bbs
 free-bets
 free-bid
+free-blog
 free-brows
 free-casino
 free-cassino
@@ -16982,7 +16985,9 @@ freeauto
 freebbs
 freebees
 freebid
+freeblog
 freebrows
+freecamsite
 freecasino
 freecassino
 freechat
@@ -17659,12 +17664,15 @@ generator2019
 generator2020
 generator2021
 generatorpro
-generic albendazole
+generic albenda
 generic albenza
+generic cialis
 generic principen
-generic-albendazole
+generic-albenda
 generic-albenza
+generic-cialis
 generic-principen
+genericcialis
 genuine email are
 genuine email as
 genuine email is
@@ -26366,6 +26374,9 @@ new mastery
 new seo
 new the web
 new things you post
+new to this blog
+new to this site
+new to this web
 new zune
 new-balance
 new-buzz
@@ -27318,7 +27329,7 @@ onestime
 onestrap
 online |
 online 24
-online albendazole
+online albenda
 online albenza
 online bag
 online betting
@@ -27396,7 +27407,7 @@ online webpage
 online website
 online бесплатно
 online-24
-online-albendazole
+online-albenda
 online-albenza
 online-bag
 online-betting
@@ -36516,6 +36527,7 @@ topbuzz
 topbvlgar
 topcontractor
 topforum
+topfreecam
 topgame
 topia hack
 topia-hack
@@ -37570,6 +37582,7 @@ ustanovka-kanali
 usual discuss
 usual-discuss
 usualdiscuss
+usually posts some
 usually relative
 usually to difficult
 usually-relative
