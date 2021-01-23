@@ -868,6 +868,8 @@ _zapat
 -kontakt.
 -kontakt/
 -lacoste-
+-lacoste.
+-lacoste/
 -law-firm-
 -law-firm.
 -law-firm/
@@ -1947,6 +1949,9 @@ _zapat
 .kartridzhej-
 .kartridzhej.
 .kartridzhej/
+.lacoste-
+.lacoste.
+.lacoste/
 .law-firm-
 .law-firm.
 .law-firm/
@@ -3522,6 +3527,7 @@ _zapat
 /l2u.su
 /lacoste-
 /lacoste.
+/lacoste/
 /lang-es/
 /latestmk-
 /latestmk.
@@ -12210,6 +12216,7 @@ comentarios prova oab
 comentários prova oab
 comentarios-prova-oab
 comentários-prova-oab
+comercio al por menor
 comhttp
 coming article
 coming back sometime
@@ -12353,6 +12360,7 @@ composing-article
 composing-blog
 composing-essay
 composing-post
+compra y venta
 comprar
 comprasion
 compre os melhores
@@ -12913,6 +12921,7 @@ csgo-skin
 csgofree
 css.asp
 cszwyojl
+cualquier buscador
 cuc ki đat
 cực kì đắt
 cuc ky thu
@@ -18587,6 +18596,7 @@ gratuit roulette
 gratuit-annonce
 gratuit-paris
 gratuit-roulette
+gratuita para el cliente
 gratuitannonce
 gratuite annonce
 gratuite roulette
@@ -19308,6 +19318,7 @@ havve you
 hawks jers
 hawks-jers
 hawksjers
+hay 100 localidad
 hɑ
 hcg boost
 hcg-boost
@@ -22778,6 +22789,12 @@ leaks-2019
 leaks-2020
 leaks-2021
 learn about keto
+learn about this blog
+learn about this page
+learn about this paragraph
+learn about this site
+learn about this topic
+learn about this web
 learn face
 learn help
 learn my thought
@@ -27755,6 +27772,7 @@ out about this site
 out about this topic
 out about this web
 out assim
+out more details
 out my blog
 out seems to be
 out soime
@@ -32639,6 +32657,7 @@ seowith
 sepid-shimi
 sepidshimi
 ser aprovado no
+sera gratuita para
 serch engin
 serch-engin
 serenity full
@@ -41143,8 +41162,10 @@ zyvox
 длительное-лечени
 для взлома
 для сайта
+для тела
 для-взлома
 для-сайта
+для-тела
 добавим специал
 добавим-специал
 домены
@@ -41314,6 +41335,8 @@ zyvox
 любит-глубокое
 магаз
 маркет
+массажер тренажер
+массажер-тренажер
 массажистка
 материал
 машины bosch
