@@ -4774,13 +4774,6 @@ $sixty
 3@seo
 3casino
 3cigar
-3d coins
-3d max
-3d моделе
-3d-coins
-3d-max
-3d-моделе
-3dmax
 3generic
 3hand
 3health
@@ -7485,12 +7478,15 @@ baccaratview
 bacfk
 bachelor college degree
 back data over
+back forex
 back to your article
 back to your blog
 back to your page
 back to your weblog
 back to your webpage
 back to your website
+back-forex
+backforex
 background check free
 background checker free
 background-check-free
@@ -8143,6 +8139,7 @@ best.:
 best4
 bestad.
 bestads.
+bestairjordan
 bestbut
 bestcartier
 bestcase
@@ -8407,6 +8404,7 @@ bitcoin + crypto
 bitcoin $
 bitcoin acc
 bitcoin add
+bitcoin bot
 bitcoin buy
 bitcoin casino
 bitcoin cassino
@@ -9413,6 +9411,7 @@ brustvergrößerung
 bt-coin
 btc + crypto
 btc $
+btc bot
 btc from $
 btc per day
 btc per week
@@ -9956,6 +9955,7 @@ byo.co
 byt.es
 byte coin
 byte-coin
+bytecoin bot
 bytecoin_
 bе
 bі
@@ -11194,6 +11194,7 @@ cheappaper
 cheapprada
 cheapproclip
 cheapray
+cheaprealair
 cheaprealjordan
 cheaprealnike
 cheapreplic
@@ -15273,7 +15274,9 @@ excelent
 excellent article
 excellent blog
 excellent content
+excellent gift for
 excellent gifts for
+excellent movie clip
 excellent movies clip
 excellent page
 excellent paragraph
@@ -15290,7 +15293,10 @@ excellent written
 excellent-article
 excellent-blog
 excellent-content
+excellent-gift-for
 excellent-gifts-for
+excellent-movie-clip
+excellent-movies-clip
 excellent-page
 excellent-pick-up
 excellent-post
@@ -17892,10 +17898,12 @@ gift singapore
 gift v buck
 gift-click
 gift-singapore
+gift, gift
 gift%20card
 gift4promo
 giftclick
 gifts click
+gifts guide
 gifts singapore
 gifts-click
 gifts-singapore
@@ -21385,6 +21393,8 @@ its grewat
 its helped
 its like you
 its really really
+its true whether
+its true, whether
 its up to
 its-fastidious
 its-helped
@@ -23200,6 +23210,7 @@ listentoyoutube
 listy,
 lite/wbb
 lite1/wbb
+litecoin bot
 litecoin_
 literally energetic
 litte more
