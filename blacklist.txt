@@ -6167,6 +6167,7 @@ agents-marbella
 ago|
 âgrâve
 ahaa,
+ahorro de cost
 ahttp
 aint breaking
 aint goin
@@ -6689,6 +6690,7 @@ apg apartment
 apg no fee
 apg-apartment
 apg-no-fee
+aplicacin
 app full download
 app growth education
 app hacked
@@ -6835,6 +6837,7 @@ aroma-paradise
 aromaparadise
 arpels replic
 arpels-replic
+arreglo urgente
 arrticle
 arsenal jers
 arsenal shirt
@@ -7685,53 +7688,66 @@ báo giá máy
 bảo hiểm
 bao-gia-may
 bảo-hiểm
+barata comparme
 barata new
 barata online
 barata person
 barata ropa
 barata_
+barata-comparme
 barata-new
 barata-online
 barata-person
 barata-ropa
+baratacomparme
 baratanew
 barataonline
 barataperson
 barataropa
+baratas comparme
 baratas new
 baratas online
 baratas person
 baratas ropa
 baratas_
+baratas-comparme
+baratas-new
 baratas-online
 baratas-person
 baratas-ropa
+baratascomparme
 baratasnew
 baratasonline
 baratasperson
 baratasropa
+barato comparme
 barato new
 barato online
 barato person
 barato ropa
 barato_
+barato-comparme
 barato-new
 barato-online
 barato-person
 barato-ropa
+baratocomparme
 baratonew
 baratoonline
 baratoperson
 baratoropa
+baratos comparme
 baratos new
 baratos online
 baratos person
 baratos ropa
 baratos_
+baratos-comparme
 baratos-new
 baratos-online
 baratos-person
 baratos-ropa
+baratoscomparme
 baratosnew
 baratosonline
 baratosperson
@@ -8562,6 +8578,7 @@ blog center
 blog centre
 blog coin
 blog de forma
+blog delight
 blog diaria
 blog diária
 blog diet
@@ -8646,6 +8663,7 @@ blog-centre
 blog-coin
 blog-comente
 blog-de-forma
+blog-delight
 blog-diaria
 blog-diária
 blog-diet
@@ -8723,24 +8741,31 @@ blogbased
 blogbeast
 blogblog
 blogcoin
+blogdelight
 blogdiet
 blogentry
 blogg platform
 blogger business
+blogger delight
 blogger love
 blogger service
 blogger thank
 blogger-business
+blogger-delight
 blogger-love
 blogger-service
 blogger. thank
 bloggerbusiness
 bloggerd
+bloggerdelight
 bloggerlove
 bloggerr
+bloggers delight
 bloggers service
+bloggers-delight
 bloggers-service
 bloggers, business
+bloggersdelight
 bloggibg
 bloggin ad
 bloggin-ad
@@ -12471,6 +12496,7 @@ continuuous
 contoh plakat
 contoh-plakat
 contohplakat
+contratacin 
 control diet
 control-diet
 controldiet
@@ -13383,6 +13409,7 @@ dejtingsida
 dejtingtips
 dekorativno prikladno
 dekorativno-prikladno
+del sitio web
 deliver noticeable result
 deliver overtly
 deliver result
@@ -13757,6 +13784,7 @@ directt
 dirt-bike
 discard.email
 disclaim.asp
+disco innovador para
 discount afl
 discount anta
 discount bag
@@ -15083,6 +15111,7 @@ espana-online
 españa-online
 espanaonline
 españaonline
+especializado en la marca
 esportowa
 essay composing
 essay creat
@@ -15171,6 +15200,7 @@ established poker
 established-blog
 established-poker
 estadounidense
+estamos especializado
 estate pro
 estate whether
 estate-pro
@@ -17574,6 +17604,7 @@ gaogb
 gaoland
 gapscent
 garantizadas por escrito
+garantizar la calidad
 garantizar product
 garantizar-product
 garcinia
@@ -18570,6 +18601,8 @@ grafik emas
 grafik-emas
 gran calidad
 gran experiencia dentro
+gran experiencia en
+gran flexibilidad
 gran-calidad
 grand opening giveaway
 grand-opening-giveaway
@@ -20711,6 +20744,8 @@ informa karpet
 informa-karpet
 informacion de riesgo
 información de riesgo
+informacion sobre cookies
+información sobre cookies
 informacyjne
 informakarpet
 informasjon.asp
@@ -20752,6 +20787,7 @@ informativeweb
 informativge
 informativo web
 informativo-web
+informtica
 informztion
 infos-
 infos/
@@ -22554,6 +22590,7 @@ l.|
 l.uk.e.w.a.rm
 l| r
 la pillule
+la vida privada
 la-mentira
 la-pillule
 laarzen kopen
@@ -24196,6 +24233,8 @@ maquiagem profis
 maquiagem-para
 maquiagem-profes
 maquiagem-profis
+maquinaria de ultima
+maquinaria de última
 mar skin
 mar-skin
 maran-train
@@ -24209,6 +24248,9 @@ marantboot
 marantrain
 marantshoe
 marantsneak
+marca capacitado
+marca del mercado
+marcas capacitado
 marcas del mercado
 mare steady
 mare-steady
@@ -24373,6 +24415,8 @@ marvelous-blog
 marvelous-me
 marvelous-post
 marvelous-write
+mas barato
+más barato
 mas calorias
 mas-calorias
 masalah member
@@ -26927,9 +26971,13 @@ nudesharing
 nudeteen
 nudevid
 nudewallpaper
+nuestra division
+nuestra división
 nuestra tienda
 nuestra web para
 nuestra-tienda
+nuestro proceso
+nuestro sitio web
 nuestros client
 nuestros profesional
 nuestros servicio
@@ -28289,8 +28337,10 @@ papercollege
 paqst
 par/index
 para impotencia
+para seus cliente
 para tiara
 para-impotencia
+para-seus-cliente
 para-tiara
 paradise-internation
 paradiseinternation
@@ -31497,6 +31547,9 @@ reports.cfm
 reports.htm
 reports.jsp
 reports.php
+requerida por el cliente
+requeridas por el cliente
+requerido por el cliente
 request e-mail
 requests swiftly
 requests-swiftly
@@ -31526,6 +31579,8 @@ résult choquant
 result hong
 result-choquant
 résult-choquant
+resultado relacionado
+resultados relacionado
 resultat pmu
 résultat pmu
 resultat-pmu
@@ -34183,6 +34238,7 @@ somente download
 somente-download
 someonethat
 someplace within the sentence
+somos una empresa
 son copain
 son-copain
 soncopain
@@ -35518,6 +35574,8 @@ technological-globe
 tecnicas para voce
 técnicas para você
 tecnicas-para-voce
+tecnico y asistencia tecnica
+tecnico y servicio tecnica
 teen cam
 teen female
 teen lesb
