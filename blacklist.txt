@@ -27,8 +27,6 @@ _campaign
 _cannabis
 _cartier
 _casino
-_cassino
-_cazino
 _chaussure
 _cheap
 _cheat
@@ -130,8 +128,6 @@ _zapat
 --cannabis
 --cartier
 --casino
---cassino
---cazino
 --cheap
 --cheat
 --choles
@@ -473,11 +469,6 @@ _zapat
 -casino-
 -casino.
 -casino/
--cassino.
--cassino/
--cazino-
--cazino.
--cazino/
 -cell-phone-
 -cell-phone.
 -cell-phone/
@@ -1685,9 +1676,6 @@ _zapat
 .cartier-
 .cause-
 .causes-
-.cazino-
-.cazino.
-.cazino/
 .cfm/
 .cfmx
 .cgi
@@ -2946,13 +2934,8 @@ _zapat
 /casino-
 /casino.
 /casino/
-/cassino-
-/cassino.
 /categories-
 /category-
-/cazino-
-/cazino.
-/cazino/
 /cek.li
 /celine/
 /cell-phone-
@@ -4417,7 +4400,6 @@ _zapat
 +build
 +campaign
 +casino
-+cassino
 +celine
 +cheap
 +christ
@@ -7150,7 +7132,11 @@ attorney seo
 attorney-seo
 attraction market
 attraction-market
+attractive blog
+attractive post
 attractive sex
+attractive site
+attractive weblog
 attractive-sex
 audience engagement
 audience-engagement
@@ -8137,6 +8123,7 @@ best-porn
 best-priced
 best-probiotic
 best-prostate
+best-real
 best-sandal
 best-seller-bag
 best-sellers-bag
@@ -8201,6 +8188,7 @@ bestphone
 bestpricebuy
 bestpricesbuy
 bestprobiotic
+bestreal
 bestsalesell
 bestsellerbag
 bestsellersbag
@@ -8426,7 +8414,6 @@ bitcoin add
 bitcoin bot
 bitcoin buy
 bitcoin casino
-bitcoin cassino
 bitcoin code
 bitcoin crypto
 bitcoin declin
@@ -8447,7 +8434,6 @@ bitcoin-acc
 bitcoin-add
 bitcoin-buy
 bitcoin-casino
-bitcoin-cassino
 bitcoin-code
 bitcoin-crypto
 bitcoin-declin
@@ -8977,11 +8963,8 @@ bonne copie
 bonne-copie
 bonnecopie
 bono casino
-bono cassino
 bono-casino
-bono-cassino
 bonocasino
-bonocassino
 bons ganhos
 bons resultado
 bons-ganhos
@@ -10443,28 +10426,7 @@ casque beats
 casque-beats
 casquebeats
 casquette
-cassino bonus
-cassino enligne
-cassino game
-cassino online
-cassino only
-cassino_
-cassino-24
-cassino-bonus
-cassino-enligne
-cassino-game
-cassino-online
-cassino-only
-cassino.co
-cassino24
-cassinobonus
-cassinoenligne
-cassinoer
-cassinogame
-cassinoonline
-cassinoonly
-cassinos_
-cassinos-
+cassino
 castwindows10
 câsuâl
 casual sex
@@ -10505,12 +10467,7 @@ cấu hình tối
 cau-hinh-toi
 cavin-klein
 cavinklein
-cazino_
-cazino-24
-cazino24
-cazinos_
-cazinos-24
-cazinos24
+cazino
 cɑ
 cbd advert
 cbd beaut
@@ -11371,17 +11328,15 @@ chez-skechers
 chf iraq
 chf-iraq
 chguigng
-chic cassino
+chic casino
 chic luxury
 chic mcm
 chic-casino
-chic-cassino
 chic-luxury
 chic-mcm
 chica chat
 chica-chat
 chiccasino
-chiccassino
 chicken - you
 chicken – you
 chicluxury
@@ -11395,16 +11350,14 @@ chicos gay
 chicos-chat
 chicos-gay
 chid casino
+chid-casino
 chien marrant
 chien-marrant
 chiens marrant
 chiens-marrant
 chik casino
-chik cassino
 chik-casino
-chik-cassino
 chikcasino
-chikcassino
 chil escort
 chil eskort
 chil fuck
@@ -16281,6 +16234,7 @@ filestube
 film erotic
 film it would also
 film izle
+film kovasi
 film makinesi
 film porn
 film semi
@@ -16289,6 +16243,7 @@ film streaming complet
 film x
 film-erotic
 film-izle
+film-kovasi
 film-makinesi
 film-porn
 film-semi
@@ -16298,6 +16253,7 @@ film-x
 filmakinesi
 filmerotic
 filmizle
+filmkovasi
 filmmodu
 filmporn
 films enables
@@ -16931,7 +16887,6 @@ free atm
 free bets
 free cash app
 free casino
-free cassino
 free chat
 free cinemamovie
 free crypto
@@ -17003,7 +16958,6 @@ free-bid
 free-blog
 free-brows
 free-casino
-free-cassino
 free-chat
 free-cinemamovie
 free-coin
@@ -17083,7 +17037,6 @@ freeblog
 freebrows
 freecamsite
 freecasino
-freecassino
 freechat
 freecinemamovie
 freecrypto
@@ -17537,7 +17490,6 @@ gamblinggame
 gamblingonline
 game bong
 game casino
-game cassino
 game ionline
 game jers
 game online
@@ -17546,7 +17498,6 @@ game torrent
 game wiki
 game-bong
 game-casino
-game-cassino
 game-copy
 game-full-online
 game-game
@@ -17558,7 +17509,6 @@ game-torrent
 game-wiki
 gamebong
 gamecasino
-gamecassino
 gamecopy
 gamecube_game
 gamecube-game
@@ -17576,17 +17526,14 @@ gamers-hack
 gamerscheat
 gamershack
 games casino
-games cassino
 games especially built
 games heart
 games reports
 games-casino
-games-cassino
 games-especially-built
 games-reports
 games4king
 gamescasino
-gamescassino
 gamesreports
 gamewiki
 gaming maus
@@ -17921,6 +17868,8 @@ ghdgold
 ghdpascher
 ghdstraight
 ghduk
+ghostwrite service
+ghostwriter service
 ghttp
 gia cong
 gia công
@@ -17962,6 +17911,7 @@ giletmoncler
 ginkgo beneficio
 ginkgo-beneficio
 ginzza
+giongcaytrong
 girl beaut
 girl blog
 girl eblog
@@ -19388,6 +19338,7 @@ hd-porn
 hd-sex
 hd.hd
 hderotic
+hdfilmc
 hdfuck
 hdmuscle
 hdporn
@@ -21849,6 +21800,7 @@ jojobet
 joker casino
 joker-casino
 joker123
+jokercasino
 jokerfull
 joma jewelery
 joma jewellery
@@ -22115,6 +22067,7 @@ kartu poker
 kartu-poker
 karuteie
 kasino
+kassino
 kat.h.l.e.en
 kat.h.l.ee.n
 kat.h.l.een
@@ -24147,6 +24100,7 @@ malaysia online
 malaysia-casino
 malaysia-cctv
 malaysia-online
+malaysiacasino
 male enhance
 male erotic
 male extra review
@@ -24829,17 +24783,11 @@ megatetona
 mehrkosten verbunden
 mehrkosten-verbunden
 meilleur casino
-meilleur cassino
 meilleur-casino
-meilleur-cassino
 meilleurcasino
-meilleurcassino
 meilleurs casino
-meilleurs cassino
 meilleurs-casino
-meilleurs-cassino
 meilleurscasino
-meilleurscassino
 mein sofa
 mein-sofa
 meine seite
@@ -25659,7 +25607,10 @@ montazh-obsluzh
 montazh/montazh
 montblanc ballpoint
 montblanc boutique
+montblanc chin
+montblanc chín
 montblanc franc
+montblanc hanoi
 montblanc jap
 montblanc jp
 montblanc kuge
@@ -25673,7 +25624,9 @@ montblanc uk
 montblanc_
 montblanc-ballpoint
 montblanc-boutique
+montblanc-chin
 montblanc-franc
+montblanc-hanoi
 montblanc-jap
 montblanc-jp
 montblanc-kuge
@@ -25687,6 +25640,7 @@ montblanc-uk
 montblancballpoint
 montblancboutique
 montblancfranc
+montblanchanoi
 montblancjap
 montblancjp
 montblanckuge
@@ -25746,7 +25700,11 @@ mortgage.php
 mortgagecalc
 most competitively
 most high-need
+most useful blog
+most useful post
 most useful site
+most useful weblog
+most useful website
 most visited android
 most well-liked
 most-competitively
@@ -27390,6 +27348,7 @@ oil-analytic
 oilanalytic
 oit|
 ojectx
+ok helpful
 ok-cheap
 ok-sex
 okanyway
@@ -27474,6 +27433,7 @@ online 24
 online albenda
 online albenza
 online bag
+online best
 online betting
 online boot
 online business admin
@@ -27481,7 +27441,6 @@ online business offer
 online buy
 online cash
 online casino
-online cassino
 online cheap
 online cheat
 online dat
@@ -27552,6 +27511,7 @@ online-24
 online-albenda
 online-albenza
 online-bag
+online-best
 online-betting
 online-blog
 online-boot
@@ -27559,7 +27519,6 @@ online-business
 online-buy
 online-cash
 online-casino
-online-cassino
 online-cert
 online-cheap
 online-cheat
@@ -27641,13 +27600,13 @@ online.php
 online.web
 onlinebackup
 onlinebag
+onlinebest
 onlinebetting
 onlineblog
 onlinebusiness
 onlinebuy
 onlinecash
 onlinecasino
-onlinecassino
 onlinecert
 onlinecheap
 onlinedat
@@ -28177,6 +28136,7 @@ paintings you write
 paketbody
 palace casino
 palace-casino
+palacecasino
 palavras-chave:
 palavraschave:
 pale onto
@@ -31858,6 +31818,7 @@ rox казино
 rox-casino
 rox-slot
 rox-казино
+roxcasino
 roxy ugg
 roxy-ugg
 roxyugg
@@ -35791,6 +35752,7 @@ thanks for blog
 thanks for post
 thanks for share
 thanks for sharing
+thanks for the efforts
 thanks for the post
 thanks for this post
 thanks for web
@@ -37714,6 +37676,8 @@ urfa-eskort
 urfaescort
 urfaeskort
 urgent custom
+uri casino
+uri-casino
 uricasino
 urine strip
 urine-strip
@@ -39345,6 +39309,7 @@ wewe are
 wewe have
 wewe will
 wewewe
+what assets is
 what blog
 what does turn
 what theyre
@@ -39593,10 +39558,12 @@ wilson jers
 wilson-jers
 wilsonjers
 win at casino
+win casino
 win iphone
 win million
 win ranks from
 win v buck
+win-casino
 win-iphone
 win-million
 win7.co
@@ -39604,6 +39571,7 @@ win7pro
 win8.co
 win8pro
 win2888
+wincasino
 window-file
 windowfile
 windows anytime
@@ -39630,6 +39598,7 @@ winiphone
 winner casino
 winner of made
 winner-casino
+winnercasino
 winter jassen
 winter-jassen
 winterjassen
@@ -42055,6 +42024,7 @@ zyvox
 شركة نقل
 شوف سبور
 طارد الحمام
+علاج الادمان
 علاجات طبيعية
 فروشگاه کاکتوس
 فقدان الوزن
