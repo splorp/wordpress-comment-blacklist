@@ -614,6 +614,9 @@ _zapat
 -e-guide-
 -easily-
 -ebay
+-ecig-
+-ecig.
+-ecig/
 -eguide-
 -elisa.ru
 -enlargement.
@@ -1765,6 +1768,9 @@ _zapat
 .drmartens-
 .drmartens.
 .drmartens/
+.ecig-
+.ecig.
+.ecig/
 .ee/ee/
 .equal-
 .erchant-
@@ -3143,6 +3149,7 @@ _zapat
 /eccl.es
 /ecig-
 /ecig.
+/ecig/
 /economical-
 /edenic.
 /editdone/
@@ -10933,9 +10940,16 @@ cheap cheap
 cheap china
 cheap chinese
 cheap christ
+cheap cig
 cheap denver
 cheap dildo
 cheap dump
+cheap e-cig
+cheap e-juice
+cheap e-liquid
+cheap ecig
+cheap ejuice
+cheap eliquid
 cheap erythro
 cheap essay
 cheap evening dress
@@ -11031,10 +11045,14 @@ cheap-cheap
 cheap-china
 cheap-chinese
 cheap-christ
+cheap-cig
 cheap-converse
 cheap-denver
 cheap-dildo
 cheap-dump
+cheap-ecig
+cheap-ejuice
+cheap-eliquid
 cheap-erythro
 cheap-essay
 cheap-evening-dress
@@ -11540,9 +11558,12 @@ chung-hightop
 cɦ
 ciaalis
 cialis generic
+cialis online
 cialis_
 cialis-generic
+cialis-online
 cialisgeneric
+cialisonline
 ciallis
 cig buy
 cig holder
@@ -12473,11 +12494,17 @@ converse-jap
 converse-jp
 conversejap
 conversejp
+convert flvto
+convert-flvto
 converter technician
 converter-technician
+convertidor flvto
+convertidor-flvto
 convertire file
 convertire-file
 convertirefile
+convertor flvto
+convertor-flvto
 convey her.
 convey in academy
 convey in college
@@ -14473,6 +14500,9 @@ ecco out
 ecco-out
 eccoout
 ecent yeas
+ecig review
+ecig-review
+ecigreview
 ecom email
 ecom success
 ecom-email
@@ -14549,6 +14579,9 @@ ejaculation-pill
 ejaculationhelp
 ejaculationpharm
 ejaculationpill
+ejuice review
+ejuice-review
+ejuicereview
 ekologiczne logo
 ekologiczne-logo
 ekorting
@@ -14583,6 +14616,9 @@ elementary-entry
 eli online
 eli porno
 eli-online
+eliquid review
+eliquid-review
+eliquidreview
 elite escort
 elite eskort
 elite jers
@@ -35524,6 +35560,8 @@ tatuagen-feminin
 tatuagens feminin
 tatuagens_
 tatuagens-feminin
+tavsiye filmler izle
+tavsiye-filmler-izle
 tax book
 tax debt
 tax idea
