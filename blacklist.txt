@@ -6052,26 +6052,28 @@ affiliatblog
 affiliate blog
 affiliate bonus
 affiliate click
-affiliate commission
+affiliate commis
 affiliate funnel
 affiliate link
-affiliate marketing
+affiliate market
 affiliate ppc
 affiliate review
 affiliate-blog
 affiliate-bonus
 affiliate-click
-affiliate-commission
+affiliate-commis
 affiliate-funnel
 affiliate-link
-affiliate-marketing
+affiliate-market
 affiliate-ppc
 affiliate-review
 affiliateblog
 affiliatebonus
 affiliateclick
+affiliatecommis
 affiliatefunnel
 affiliatelink
+affiliatemarket
 affiliateppc
 affiliatereview
 affliction jean
@@ -7257,6 +7259,8 @@ automaticpay
 automobile profit
 automobile proper
 automobile-profit
+autopilot income
+autopilot-income
 autopost unlimit
 autopost-unlimit
 autopostunlimit
@@ -12302,6 +12306,7 @@ commission account
 commission hero
 commission-account
 commission-hero
+commissionaccount
 commissionhero
 commokn
 communal authent
@@ -14457,6 +14462,11 @@ eaglefight.eaglefight
 eairfix
 early-signs-of
 earn $
+earn 1000 a month
+earn 2000 a month
+earn 3000 a month
+earn 4000 a month
+earn 5000 a month
 earn cash through
 earn more cash
 earn more money
@@ -16714,6 +16724,7 @@ forex forum
 forex halal
 forex islam
 forex master
+forex north
 forex peace
 forex piece
 forex pip
@@ -16721,6 +16732,8 @@ forex pro
 forex rev
 forex robot
 forex sign
+forex south
+forex trade
 forex wealth
 forex_
 forex-bitcoin
@@ -16732,6 +16745,7 @@ forex-forum
 forex-halal
 forex-islam
 forex-master
+forex-north
 forex-peace
 forex-piece
 forex-pip
@@ -16739,6 +16753,8 @@ forex-pro
 forex-rev
 forex-robot
 forex-sign
+forex-south
+forex-trade
 forex-valu
 forex-wealth
 forexcfd
@@ -16752,6 +16768,7 @@ forexpro
 forexrev
 forexrobot
 forexsign
+forextrade
 forexvalu
 forexwealth
 forfree
@@ -28495,6 +28512,8 @@ passion-the-web
 passionaqte
 passionately fond
 passionately-fond
+passive income system
+passive-income-system
 passo_a_passo
 passo-a-passo
 passprefix
