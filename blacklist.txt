@@ -6058,6 +6058,7 @@ affiliate link
 affiliate market
 affiliate ppc
 affiliate review
+affiliate system
 affiliate-blog
 affiliate-bonus
 affiliate-click
@@ -6067,6 +6068,7 @@ affiliate-link
 affiliate-market
 affiliate-ppc
 affiliate-review
+affiliate-system
 affiliateblog
 affiliatebonus
 affiliateclick
@@ -6076,6 +6078,7 @@ affiliatelink
 affiliatemarket
 affiliateppc
 affiliatereview
+affiliatesystem
 affliction jean
 affliction men
 affliction new
@@ -9928,10 +9931,19 @@ buytoms
 buytraff
 buyvpn
 buywomen
+buzz invest
+buzz social
+buzz vest
 buzz vid
+buzz-invest
 buzz-media
+buzz-social
+buzz-vest
 buzz-vid
+buzzinvest
 buzzmedia
+buzzsocial
+buzzvest
 buzzvid
 bvlgari bague
 bvlgari bijoux
@@ -12444,6 +12456,10 @@ considerations-prior-to
 considering-innovation
 consolidation loan
 consolidation-loan
+constantly this blog
+constantly this page
+constantly this site
+constantly this web
 construct chicken
 construct-chicken
 constructionn
@@ -12455,6 +12471,9 @@ consultation-lawyer
 consultationattorney
 consultationlawyer
 consulte nuestro servicio
+consumer buzz
+consumer-buzz
+consumerbuzz
 consyltancy
 contact/contact
 contactos chico
@@ -14462,6 +14481,11 @@ eaglefight.eaglefight
 eairfix
 early-signs-of
 earn $
+earn 100 a day
+earn 200 a day
+earn 300 a day
+earn 400 a day
+earn 500 a day
 earn 1000 a month
 earn 2000 a month
 earn 3000 a month
@@ -21235,6 +21259,7 @@ iphone for free
 iphone give away
 iphone giveaway
 iphone hd
+iphone monetiz
 iphone movie use
 iphone repair
 iphone suppl
@@ -21254,6 +21279,7 @@ iphone-for-free
 iphone-give-away
 iphone-giveaway
 iphone-hd
+iphone-monetiz
 iphone-repair
 iphone-suppl
 iphone-x-case
@@ -24105,6 +24131,7 @@ make wonderful vid
 make-backup
 make-blogging
 make-csgo
+make-dollar
 make-hemp
 make-me-rich
 make-million
@@ -24123,6 +24150,7 @@ make-up-machiaj
 make-ur-own
 makebaby
 makecsgo
+makedollar
 makeme
 makemoney
 makeownhood
@@ -38451,6 +38479,7 @@ vipleague
 viral adremus
 viral eas
 viral hit
+viral iphone
 viral play
 viral storie
 viral story
@@ -38459,6 +38488,7 @@ viral_
 viral-adremus
 viral-eas
 viral-hit
+viral-iphone
 viral-play
 viral-storie
 viral-story
@@ -38468,6 +38498,8 @@ viral.online
 viraladremus
 viraleas
 viralhit
+virality iphone
+virality-iphone
 viralplay
 viralstorie
 viralstory
