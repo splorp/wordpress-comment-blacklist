@@ -2487,6 +2487,7 @@ _zapat
 @mail-
 @pro.wire
 @ro.ru
+@sex.
 @toke.
 @www.
 @xyz.net
@@ -6052,7 +6053,7 @@ affiliatblog
 affiliate blog
 affiliate bonus
 affiliate click
-affiliate commis
+affiliate commission
 affiliate funnel
 affiliate link
 affiliate market
@@ -6062,7 +6063,7 @@ affiliate system
 affiliate-blog
 affiliate-bonus
 affiliate-click
-affiliate-commis
+affiliate-commission
 affiliate-funnel
 affiliate-link
 affiliate-market
@@ -6072,7 +6073,7 @@ affiliate-system
 affiliateblog
 affiliatebonus
 affiliateclick
-affiliatecommis
+affiliatecommission
 affiliatefunnel
 affiliatelink
 affiliatemarket
@@ -9440,18 +9441,26 @@ bt-coin
 btc + crypto
 btc $
 btc bot
+btc crypto
 btc from $
 btc per day
 btc per week
 btc pro
+btc turk
 btc wallet
 btc_
+btc-bot
+btc-crypto
 btc-per-day
 btc-per-week
 btc-pro
+btc-turk
 btc-wallet
+btcbot
+btccrypto
 btcoin
 btcpro
+btcturk
 btcwallet
 btitish
 btn-phone
@@ -13133,6 +13142,7 @@ d http
 ð¿
 d.@
 d.the
+đ´đ
 ð½
 ð¾
 da man!
@@ -13922,6 +13932,7 @@ diy divorce
 diy-divorce
 djstool
 djtool
+đľđ
 dlphone
 dnjurh
 dns fuck
@@ -14326,6 +14337,7 @@ drugz
 drunk singapore
 drupal-temp
 drupal-theme
+đšđ
 dsquared giub
 dsquared jean
 dsquared online
@@ -14434,6 +14446,7 @@ dynamic-market
 dyubetika
 dzieki!
 ðµ
+đµđ
 dⲟ
 dг
 dе
