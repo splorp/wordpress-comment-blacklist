@@ -4272,6 +4272,7 @@ _zapat
 /wirisi-
 /wirisi.
 /wirisi/
+/wmj.su
 /wntdco.mx
 /wo.
 /woolrich-
@@ -4691,6 +4692,7 @@ $sixty
 1hand
 1health
 1hommes
+1mil email
 1minut
 1ping
 1purse
@@ -4750,6 +4752,7 @@ $sixty
 2k20 vc
 2k20-vc
 2k20vc
+2mil email
 2minut
 2ping
 2purse
@@ -4784,6 +4787,7 @@ $sixty
 3hand
 3health
 3j3j3
+3mil email
 3minut
 3ping
 3purse
@@ -4851,6 +4855,7 @@ $sixty
 4k polecacie
 4k-polecacie
 4less
+4mil email
 4minut
 4plus
 4purse
@@ -4887,6 +4892,7 @@ $sixty
 5generic
 5hand
 5health
+5mil email
 5minut
 5purse
 5test
@@ -7631,6 +7637,8 @@ ban barata
 ban barato
 ban handle
 ban händle
+ban hang don gian
+bán hàng đơn giản
 ban jack
 ban lage
 ban mirror
@@ -7647,6 +7655,7 @@ ban verspie
 ban wayfare
 ban-barata
 ban-barato
+ban-hang-don-gian
 ban-jack
 ban-mirror
 ban-occhiali
@@ -8171,6 +8180,7 @@ best-way-to
 best-web
 best-webmaster
 best-wordpress
+best,egy
 best.;
 best.:
 best4
@@ -9578,7 +9588,9 @@ bulk jewelry
 bulk-clock
 bulk-computer
 bulk-jewelry
+bulk-mail
 bulkjewelry
+bulkmail
 bulky for cumber
 bulky-for-cumber
 bulletproof merced
@@ -11363,6 +11375,7 @@ checkwhocall
 cheeerd
 cheers a lot
 cheers alot
+cheers considerably
 cheesefruit
 chefk
 chemale movie
@@ -14629,6 +14642,8 @@ effortlessly know it
 effotless
 egemtr
 egoodshop
+egy-best
+egybest
 egypt jers
 egypt-jers
 egyptjers
@@ -14732,12 +14747,14 @@ email advertis
 email advertiz
 email doa
 email extract
+email starter
 email vip
 email-academy
 email-advertis
 email-advertiz
 email-doa
 email-extract
+email-starter
 email-vip
 email.asp
 email.cfm
@@ -14747,8 +14764,10 @@ email.php
 email.tst
 emailacademy
 emails sometime
+emails starter
 emails vip
 emails-sometime
+emails-starter
 emails-vip
 emailsvip
 emailvip
@@ -18004,6 +18023,9 @@ giants-jers
 giants-shop
 giantsjers
 giantsshop
+giao dien don gian
+giao diện đơn giản
+giao-dien-don-gian
 gift click
 gift ideas list
 gift singapore
@@ -28964,8 +28986,11 @@ pg/post
 pg/profil
 pg/view
 pgconcern
+phan mem quan
+phần mềm quản
 phan-mem
 phần-mềm
+phan-mem-quan
 pharm_
 pharm.
 pharma canad
@@ -30861,7 +30886,10 @@ quality.the
 qualuty
 quan lot nam
 quần lót nam
+quan ly ban hang
+quản lý bán hàng
 quan-lot-nam
+quan-ly-ban-hang
 quang cao
 quảng cáo
 quang-cao
@@ -32697,8 +32725,10 @@ sellnow
 sembol clan
 sembol-clan
 send earn
+send-bulk
 send-earn
 send.sohbet
+sendbulk
 sendflowers
 seni siteleri
 sense bravo
@@ -36163,6 +36193,12 @@ thingway
 thinking on many item
 thinking playing
 thinking-playing
+this amazing article
+this amazing blog
+this amazing page
+this amazing post
+this amazing site
+this amazing web
 this article certain
 this article could
 this article fully
@@ -36555,6 +36591,9 @@ tin-tuc-xe-hoi
 tinder gold free
 tinder-gold-free
 tingenieur
+tinh tien don gian
+tính tiền đơn giản
+tinh-tien-don-gian
 tinned baked
 tinned-baked
 tinnitus tin
@@ -42115,6 +42154,7 @@ zyvox
 از وبلاگ
 افراد ارزان
 افضل شركه
+افلام اونلاين
 اقل اسعار
 ال جى
 الأندرويد
@@ -42128,8 +42168,13 @@ zyvox
 العقاري
 العلوم،ديالى
 القضيب
+اونلاين انمي
+اونلاين,انمي
+ايجي بست
 ايفون مجانية
 بازی انفجار
+بست افلام
+بست,افلام
 بهاء و کيفيت
 بهاء-و-کيفيت
 بهترین
