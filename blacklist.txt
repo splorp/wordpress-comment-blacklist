@@ -10798,7 +10798,12 @@ chanelreplique
 chanelsac
 chanelsale
 chanelspring
+change-counselling
+change-my-life
 change-your-life
+changecounselling
+changemylife
+changeyourlife
 channel obtain
 channel-operator
 channels obtain
@@ -17646,6 +17651,14 @@ game-money
 game-online
 game-torrent
 game-wiki
+game,arcad
+game,board
+game,driv
+game,fight
+game,puzzl
+game,shoot 
+game,sport
+game,strat
 gamebong
 gamecasino
 gamecopy
@@ -17671,6 +17684,14 @@ games reports
 games-casino
 games-especially-built
 games-reports
+games,arcad
+games,board
+games,driv
+games,fight
+games,puzzl
+games,shoot 
+games,sport
+games,strat
 games4king
 gamescasino
 gamesreports
@@ -19272,10 +19293,12 @@ hai thiet
 hai thiệt
 hai-thiet
 hair complexion
+hair removal product
 hair transplant
 hair-again
 hair-grow
 hair-remov
+hair-removal-product
 hair-straight
 hair-transplant
 hairagain
@@ -36574,6 +36597,7 @@ time only promo
 time video clip
 time-only-promo
 time-synchronisation.co
+timeforchange
 timeline cheat
 timeline hack
 timeline-cheat
@@ -36790,6 +36814,7 @@ tooth tooth
 tooth-new
 toothnew
 top 10 best
+top 10 hair
 top advanture
 top article
 top available
