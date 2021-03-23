@@ -100,6 +100,7 @@ See the [license.txt](https://raw.githubusercontent.com/splorp/wordpress-comment
 
 ## History
 
++ 20210319 — Pluginkollektiv renames the Blacklist Updater plugin to [Block List Updater](https://wordpress.org/plugins/blacklist-updater/)
 + 20210107 — Fixed bug that affected comments containing the term “[cialis](https://github.com/splorp/wordpress-comment-blacklist/commit/ab010aea0873cfef78bcde1f38875fa19df2e1b9)”, such as “specialist”
 + 20210106 — 42,000 entries
 + 20201203 — Removed [several “online” terms](https://github.com/splorp/wordpress-comment-blacklist/commit/b83d8e432e550ccff4c41e1af816a3f5f6673d1d) to better handle valid email domains
@@ -136,6 +137,7 @@ See the [license.txt](https://raw.githubusercontent.com/splorp/wordpress-comment
 + 20160123 — 21,000 entries
 + 20150926 — 20,000 entries
 + 20150801 — 19,000 entries
++ 20150630 — [Pluginkollektiv](https://pluginkollektiv.org/) takes over maintenance of Sergej Müller’s [Blacklist Updater](https://wordpress.org/plugins/blacklist-updater/) plugin
 + 20150522 — 18,000 entries
 + 20150313 — 17,000 entries
 + 20150108 — 16,000 entries
