@@ -2824,6 +2824,7 @@ _zapat
 /bitcoin.
 /bitcoin/
 /bitly.co
+/biturl.top
 /biz-
 /biz.
 /biz/
