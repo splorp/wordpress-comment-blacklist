@@ -9092,9 +9092,13 @@ bookmsrk
 boom-beach-hack
 boombeachhack
 boost lung work
-boost you
+boost our roi
+boost roi
+boost your roi
 boost-my-game
-boost-you
+boost-our-roi
+boost-roi
+boost-your-roi
 boosting lung work
 boostr
 boostyou
@@ -21703,6 +21707,12 @@ jacketssale
 jacketsunglass
 jacketswom
 jackewest
+jackpot bet
+jackpot bingo
+jackpot-bet
+jackpot-bingo
+jackpotbet
+jackpotbingo
 jackpotsa
 jacobs cartera
 jacobs geldb
