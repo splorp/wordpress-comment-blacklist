@@ -8205,6 +8205,7 @@ bestcase
 bestcbd
 bestcontractor
 bestcrypto
+bestdatabase
 bestdigital
 bestdirect
 bestdisc
@@ -8234,6 +8235,7 @@ bestgasmileage
 bestjers
 bestlaptop
 bestlawyer
+bestlocaldata
 bestmcm
 bestpant
 bestpayment
@@ -32197,7 +32199,9 @@ rу
 ɍu
 ɍy
 s |f
+s best database
 s http
+s top database
 s:.
 s!.
 s.@
@@ -36962,6 +36966,7 @@ topbulgar
 topbuzz
 topbvlgar
 topcontractor
+topdatabase
 topforum
 topfreecam
 topgame
@@ -36990,6 +36995,7 @@ topics.thank
 topiic
 topiramate
 toplist
+toplocaldata
 topman123
 topmuscle
 topnaked
@@ -42284,6 +42290,8 @@ zyvox
 ال جى
 الأندرويد
 الاستثمار
+التركية حوالات
+التركية,حوالات
 التسويق الإلكتروني
 الديتوكس
 الرياضة  موقع
@@ -42309,6 +42317,8 @@ zyvox
 تخصصی نمای
 ترافيک نيم
 ترافيک-نيم
+تركيا أرخص
+تركيا,أرخص
 ترین خدمات
 تسديد قروض
 تعلم الماني
@@ -42342,6 +42352,8 @@ zyvox
 زواج,مسيار
 ساک
 سوپر
+سوريا أرخص
+سوريا,أرخص
 سيو
 شبكه سنارة
 شبكه سناره
