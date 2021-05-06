@@ -2522,6 +2522,7 @@ _zapat
 //casino
 //cheap
 //cialis
+//clicks.
 //compare
 //contact
 //eee
@@ -6543,6 +6544,7 @@ anchortext
 and additional raise
 and bye.
 and good post
+and i in finding
 and shate
 and-shate
 and-special
@@ -15579,19 +15581,23 @@ extensive-internet
 extensive-page
 extensive-site
 extensive-web
+external_link
+external-link
+externer_link
+externer-link
 extra 10 discount
 extra 20 discount
 extra gry
 extract pill
 extract-pill
 extractpill
-extreme-sport
 extremely ample
 extremely broad for
 extremely much
 extremely superb
 extremely valid point
 extremely-ample
+extremely-much
 extremely-superb
 extremely}
 extremley
@@ -18552,6 +18558,7 @@ google rank
 google saya
 google solution
 google us
+google voice pva
 google-bind
 google-click
 google-fuck
@@ -18566,6 +18573,7 @@ google-porn
 google-rank
 google-solution
 google-us
+google-voice-pva
 googlebind
 googlefuck
 googlehack
@@ -28457,6 +28465,7 @@ paneraiwatch
 panier site
 panier-site
 paniersite
+pannel boss
 pantalone hollis
 pantalone-hollis
 pantalonehollis
@@ -34263,6 +34272,7 @@ smiling visitor here
 smith sold
 smith-sold
 smithsold
+smm pannel
 smnall
 smok priv
 smok-priv
@@ -34695,8 +34705,11 @@ sport-interaction
 sport-tronch
 sport-tvp
 sport-workforce
+sportbase
 sportbikepart
 sportbook
+sportfoot
+sporthockey
 sportowefakty
 sports akcesoria
 sports analysis
@@ -34715,13 +34728,18 @@ sports-fanshop
 sports-fanstore
 sports-workfor
 sportsanalysis
+sportsbase
 sportsbet
 sportsbook
 sportsfanshop
 sportsfanstore
+sportsfoot
 sportsgear
+sportshockey
 sportsjers
+sportstennis
 sportsworkfor
+sporttennis
 sporttronch
 sporttvp
 sporty akcesoria
