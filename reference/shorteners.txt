@@ -102,6 +102,7 @@
 /v.ht
 /vk.io
 /webhop.se
+/wi.cr
 /wntdco.mx
 /x.co
 /xor.tw
