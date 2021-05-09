@@ -3067,6 +3067,7 @@ _zapat
 /coupons.
 /coupons/
 /cp/
+/cpmlink.net
 /credit-
 /credit.
 /crimea-
