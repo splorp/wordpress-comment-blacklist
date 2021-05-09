@@ -3918,6 +3918,7 @@ _zapat
 /rayban/
 /readme.
 /readnews.
+/rebrand.ly
 /recap/
 /redirect/
 /redirecter/
