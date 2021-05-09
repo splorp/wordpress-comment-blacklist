@@ -74,6 +74,7 @@
 /shorte.st
 /shorturl.at
 /shorturl.co
+/shrinke.me
 /smarturl.it
 /smsh.me
 /sn.im

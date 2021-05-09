@@ -4013,6 +4013,7 @@ _zapat
 /show-score.
 /show-score/
 /show/
+/shrinke.me
 /sigareta-
 /sigareta.
 /sigarety-
