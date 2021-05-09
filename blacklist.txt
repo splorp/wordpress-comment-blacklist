@@ -76,6 +76,7 @@ _nordstrom
 _northface
 _nude
 _oakley
+_outlink
 _pandora
 _penis
 _pharm
@@ -1020,6 +1021,9 @@ _zapat
 -oulu
 -outlet.
 -outlet/
+-outlink-
+-outlink.
+-outlink/
 -parafon.
 -parafon/
 -party-boat-
@@ -2017,6 +2021,9 @@ _zapat
 .org/,
 .outlet.biz
 .outlet.co
+.outlink-
+.outlink.
+.outlink/
 .page.link
 .page1.
 .page2.
@@ -3762,6 +3769,9 @@ _zapat
 /oulu
 /outils
 /outlet/
+/outlink-
+/outlink.
+/outlink/
 /ow.ly
 /owl.li
 /owtf.co.uk
@@ -5570,7 +5580,9 @@ about blog
 about home is
 about marijuana
 about on the blog
+about on the internet
 about on the net
+about on the page
 about on the web
 about over the blog
 about over the internet
@@ -22584,7 +22596,9 @@ knockoff-eyewear
 knockoff-hand
 knockoffhand
 knolckoff
+know about this issue
 know about this subject
+know about this topic
 know whatt
 know-about-this-subject
 know-web
@@ -23081,6 +23095,7 @@ learn about this blog
 learn about this page
 learn about this paragraph
 learn about this site
+learn about this subject
 learn about this topic
 learn about this web
 learn face
@@ -26013,6 +26028,8 @@ moustacheplay
 mouth location
 movement-part
 movementpart
+mover los angeles
+movers los angeles
 movie are general
 movie full
 movie game play
@@ -28089,6 +28106,7 @@ our-link
 our-shapewear
 ourlink
 out about this blog
+out about this issue
 out about this page
 out about this paragraph
 out about this site
@@ -28225,6 +28243,7 @@ outletuk
 outletusa
 outletweb
 outletwoolrich
+outlink_
 outlook-repair
 outlookrepair
 outnumbered gainer
@@ -39192,6 +39211,8 @@ watch-seiko
 watch-this-site
 watch-trailer-and
 watch-vid
+watch-watch
+watch/watch/
 watches quartz
 watches replic
 watches-quartz
