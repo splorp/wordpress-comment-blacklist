@@ -2,7 +2,7 @@
 
 **Sometimes simple is better.**
 
-Since 2011, I have painstakingly identified and compiled over 42,000 phrases, patterns, and keywords commonly used by spammers and comment bots in usernames, email addresses, link text, and URIs. As with all compilations, this blacklist is a work in progress and there will always be room for improvement and optimization.
+Since 2011, I have painstakingly identified, compiled, and optimized over 43,000 phrases, patterns, and keywords commonly used by spammers and comment bots in usernames, email addresses, link text, and URIs. As with all compilations, this blacklist is a work in progress and there will always be room for improvement and optimization.
 
 Suggestions and bug reports are certainly appreciated. Please use the [issue tracker](https://github.com/splorp/wordpress-comment-blacklist/issues) to let me know.
 
@@ -100,6 +100,7 @@ See the [license.txt](https://raw.githubusercontent.com/splorp/wordpress-comment
 
 ## History
 
++ 20210512 — 43,000 entries
 + 20210319 — Pluginkollektiv renames the Blacklist Updater plugin to [Block List Updater](https://wordpress.org/plugins/blacklist-updater/)
 + 20210107 — Fixed bug that affected comments containing the term “[cialis](https://github.com/splorp/wordpress-comment-blacklist/commit/ab010aea0873cfef78bcde1f38875fa19df2e1b9)”, such as “specialist”
 + 20210106 — 42,000 entries
