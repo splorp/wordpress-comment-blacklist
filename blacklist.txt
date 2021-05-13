@@ -1,6 +1,8 @@
 _abercrom
 _adidas
 _adsense
+_adserv
+_adsrv
 _advant
 _advert
 _afford
@@ -300,6 +302,12 @@ _zapat
 -adsense-
 -adsense.
 -adsense/
+-adserv-
+-adserv.
+-adserv/
+-adsrv-
+-adsrv.
+-adsrv/
 -advertising-of-
 -advertising-of.
 -advertising-of/
@@ -1556,6 +1564,12 @@ _zapat
 .adsense-
 .adsense.
 .adsense/
+.adserv-
+.adserv.
+.adserv/
+.adsrv-
+.adsrv.
+.adsrv/
 .adultnet.
 .advertising-of-
 .advertising-of.
@@ -2737,6 +2751,12 @@ _zapat
 /adsense-
 /adsense.
 /adsense/
+/adserv-
+/adserv.
+/adserv/
+/adsrv-
+/adsrv.
+/adsrv/
 /adult.xyz
 /advertising-of-
 /advertising-of.
@@ -3031,9 +3051,11 @@ _zapat
 /cld.
 /clearance/
 /cli.re
+/click?
 /clickfrm.co
 /clit-
 /clit.
+/clk?
 /clrb-
 /clrb.
 /coach-
@@ -3299,6 +3321,7 @@ _zapat
 /go?rct
 /go?rdr
 /go?sa
+/go?site
 /go?to
 /go?url
 /go.asp?go
@@ -3309,6 +3332,7 @@ _zapat
 /go.asp?rct
 /go.asp?rdr
 /go.asp?sa
+/go.asp?site
 /go.asp?to
 /go.asp?url
 /go.jsp?go
@@ -3319,6 +3343,7 @@ _zapat
 /go.jsp?rct
 /go.jsp?rdr
 /go.jsp?sa
+/go.jsp?site
 /go.jsp?to
 /go.jsp?url
 /go.php?go
@@ -3329,6 +3354,7 @@ _zapat
 /go.php?rct
 /go.php?rdr
 /go.php?sa
+/go.php?site
 /go.php?to
 /go.php?url
 /gold-claim.
@@ -3347,6 +3373,7 @@ _zapat
 /goto?rct
 /goto?rdr
 /goto?sa
+/goto?site
 /goto?to
 /goto?url
 /gourl?go
@@ -3357,6 +3384,7 @@ _zapat
 /gourl?rct
 /gourl?rdr
 /gourl?sa
+/gourl?site
 /gourl?to
 /gourl?url
 /gourl.asp?go
@@ -3367,6 +3395,7 @@ _zapat
 /gourl.asp?rct
 /gourl.asp?rdr
 /gourl.asp?sa
+/gourl.asp?site
 /gourl.asp?to
 /gourl.asp?url
 /gourl.jsp?go
@@ -3377,6 +3406,7 @@ _zapat
 /gourl.jsp?rct
 /gourl.jsp?rdr
 /gourl.jsp?sa
+/gourl.jsp?site
 /gourl.jsp?to
 /gourl.jsp?url
 /gourl.php?go
@@ -3387,6 +3417,7 @@ _zapat
 /gourl.php?rct
 /gourl.php?rdr
 /gourl.php?sa
+/gourl.php?site
 /gourl.php?to
 /gourl.php?url
 /graphics/
@@ -3552,6 +3583,7 @@ _zapat
 /jump?rct
 /jump?rdr
 /jump?sa
+/jump?site
 /jump?to
 /jump?url
 /jump.asp?go
@@ -3562,6 +3594,7 @@ _zapat
 /jump.asp?rct
 /jump.asp?rdr
 /jump.asp?sa
+/jump.asp?site
 /jump.asp?to
 /jump.asp?url
 /jump.jsp?go
@@ -3572,6 +3605,7 @@ _zapat
 /jump.jsp?rct
 /jump.jsp?rdr
 /jump.jsp?sa
+/jump.jsp?site
 /jump.jsp?to
 /jump.jsp?url
 /jump.php?go
@@ -3582,6 +3616,7 @@ _zapat
 /jump.php?rct
 /jump.php?rdr
 /jump.php?sa
+/jump.php?site
 /jump.php?to
 /jump.php?url
 /just.
@@ -3702,6 +3737,7 @@ _zapat
 /mainframe.asp?rct
 /mainframe.asp?rdr
 /mainframe.asp?sa
+/mainframe.asp?site
 /mainframe.asp?to
 /mainframe.asp?url
 /mainframe.jsp?go
@@ -3712,6 +3748,7 @@ _zapat
 /mainframe.jsp?rct
 /mainframe.jsp?rdr
 /mainframe.jsp?sa
+/mainframe.jsp?site
 /mainframe.jsp?to
 /mainframe.jsp?url
 /mainframe.php?go
@@ -3722,6 +3759,7 @@ _zapat
 /mainframe.php?rct
 /mainframe.php?rdr
 /mainframe.php?sa
+/mainframe.php?site
 /mainframe.php?to
 /mainframe.php?url
 /malware-
@@ -4018,6 +4056,7 @@ _zapat
 /rdr?rct
 /rdr?rdr
 /rdr?sa
+/rdr?site
 /rdr?to
 /rdr?url
 /rdr.asp?go
@@ -4028,6 +4067,7 @@ _zapat
 /rdr.asp?rct
 /rdr.asp?rdr
 /rdr.asp?sa
+/rdr.asp?site
 /rdr.asp?to
 /rdr.asp?url
 /rdr.jsp?go
@@ -4038,6 +4078,7 @@ _zapat
 /rdr.jsp?rct
 /rdr.jsp?rdr
 /rdr.jsp?sa
+/rdr.jsp?site
 /rdr.jsp?to
 /rdr.jsp?url
 /rdr.php?go
@@ -4048,6 +4089,7 @@ _zapat
 /rdr.php?rct
 /rdr.php?rdr
 /rdr.php?sa
+/rdr.php?site
 /rdr.php?to
 /rdr.php?url
 /rdr/
@@ -4077,6 +4119,7 @@ _zapat
 /rk.asp?q
 /rk.asp?rct
 /rk.asp?sa
+/rk.asp?site
 /rk.asp?to
 /rk.asp?url
 /rk.jsp?go
@@ -4085,6 +4128,7 @@ _zapat
 /rk.jsp?q
 /rk.jsp?rct
 /rk.jsp?sa
+/rk.jsp?site
 /rk.jsp?to
 /rk.jsp?url
 /rk.php?go
@@ -4095,6 +4139,7 @@ _zapat
 /rk.php?rct
 /rk.php?rdr
 /rk.php?sa
+/rk.php?site
 /rk.php?to
 /rk.php?url
 /rlu.ru
@@ -4137,6 +4182,40 @@ _zapat
 /seo.
 /seo/
 /sex
+/share?site
+/share.asp?go
+/share.asp?http
+/share.asp?key
+/share.asp?link
+/share.asp?q
+/share.asp?rct
+/share.asp?rdr
+/share.asp?sa
+/share.asp?site
+/share.asp?to
+/share.asp?url
+/share.jsp?go
+/share.jsp?http
+/share.jsp?key
+/share.jsp?link
+/share.jsp?q
+/share.jsp?rct
+/share.jsp?rdr
+/share.jsp?sa
+/share.jsp?site
+/share.jsp?to
+/share.jsp?url
+/share.php?go
+/share.php?http
+/share.php?key
+/share.php?link
+/share.php?q
+/share.php?rct
+/share.php?rdr
+/share.php?sa
+/share.php?site
+/share.php?to
+/share.php?url
 /she desire
 /sheet/
 /shop-for-
@@ -4354,6 +4433,7 @@ _zapat
 /url?rct
 /url?rdr
 /url?sa
+/url?site
 /url?to
 /url?url
 /url.jsp?go
@@ -4362,6 +4442,7 @@ _zapat
 /url.jsp?q
 /url.jsp?rct
 /url.jsp?sa
+/url.jsp?site
 /url.jsp?to
 /url.jsp?url
 /url.php?go
@@ -4372,6 +4453,7 @@ _zapat
 /url.php?rct
 /url.php?rdr
 /url.php?sa
+/url.php?site
 /url.php?to
 /url.php?url
 /url/
@@ -4403,6 +4485,17 @@ _zapat
 /video/youtube/
 /viewstory
 /vip.
+/visit?go
+/visit?http
+/visit?key
+/visit?link
+/visit?q
+/visit?rct
+/visit?rdr
+/visit?sa
+/visit?site
+/visit?to
+/visit?url
 /visit.
 /visite.
 /vk.io
@@ -6064,9 +6157,11 @@ adsense hack
 adsense_
 adsense-hack
 adsensehack
+adserv_
 adsjeremy
 adslive
 adsplus
+adsrv_
 adsuse
 adswings
 adulfrenf
@@ -8804,6 +8899,7 @@ blog félicit
 blog for any
 blog forest
 blog format
+blog frequently
 blog fully about
 blog give pleasant
 blog gives pleasant
@@ -8889,6 +8985,7 @@ blog-felicit
 blog-for-any
 blog-forest
 blog-format
+blog-frequently
 blog-glance
 blog-here
 blog-is-loading
@@ -9213,16 +9310,33 @@ boobs tumblr
 boobs-tumblr
 boogging
 book mark add
+book mark it
+book mark my
+book mark the
 book mark this
+book mark to
+book mark your
+book marked add
 book marked it
+book marked my
+book marked the
+book marked this
 book marked to
+book marked your
+book marking add
 book marking it
+book marking my
+book marking the
+book marking this
+book marking to
+book marking your
 book-mark add
 book-mark-add
 book-mark-this
 book-marked it
 book-marked to
 book-marking it
+book-marking to
 book-marks
 book-ot-
 bookark
@@ -20622,6 +20736,7 @@ htm?q
 htm?rct
 htm?rdr
 htm?sa
+htm?site
 htm?to
 htm?url
 html coin
@@ -20638,6 +20753,7 @@ html?q
 html?rct
 html?rdr
 html?sa
+html?site
 html?to
 html?url
 htmlarticle
