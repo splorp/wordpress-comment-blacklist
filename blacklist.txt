@@ -1157,6 +1157,24 @@ _zapat
 -rdnk-
 -real-estate-
 -realestate-
+-redir-
+-redir.
+-redir/
+-redireccion-
+-redireccion.
+-redireccion/
+-redirect-
+-redirect.
+-redirect/
+-redirecter-
+-redirecter.
+-redirecter/
+-redirector-
+-redirector.
+-redirector/
+-redirects-
+-redirects.
+-redirects/
 -remote-access
 -remote-desktop
 -repair.co
@@ -1514,6 +1532,8 @@ _zapat
 ?prada
 ?ray
 ?rdr=
+?redir=
+?redireccion=
 ?redirect=
 ?redirecter=
 ?redirector=
@@ -2176,10 +2196,24 @@ _zapat
 .rar.
 .rdr.
 .rediff.
+.redir-
+.redir.
+.redir/
+.redireccion-
+.redireccion.
+.redireccion/
+.redirect-
 .redirect.
+.redirect/
+.redirecter-
 .redirecter.
+.redirecter/
+.redirector-
 .redirector.
+.redirector/
+.redirects-
 .redirects.
+.redirects/
 .rekla
 .remote-desktop
 .remotedesktop
@@ -3496,8 +3530,21 @@ _zapat
 /jump?
 /jump.asp?
 /jump.aspx?
+/jump.cfm?
+/jump.cgi?
+/jump.htm?
+/jump.html?
 /jump.jsp?
 /jump.php?
+/jumplink?
+/jumplink.asp?
+/jumplink.aspx?
+/jumplink.cfm?
+/jumplink.cgi?
+/jumplink.htm?
+/jumplink.html?
+/jumplink.jsp?
+/jumplink.php?
 /just.
 /kabriolet-
 /kabriolet.
@@ -3563,7 +3610,15 @@ _zapat
 /lingerie-
 /lingerie.
 /link-
-/link.
+/link?
+/link.asp?
+/link.aspx?
+/link.cfm?
+/link.cgi?
+/link.htm?
+/link.html?
+/link.jsp?
+/link.php?
 /link/
 /linkdetail
 /linknum
@@ -3745,15 +3800,37 @@ _zapat
 /optout?
 /optout.asp?
 /optout.aspx?
+/optout.cfm?
+/optout.cgi?
+/optout.htm?
+/optout.html?
 /optout.jsp?
 /optout.php?
 /orderpage
 /orgasm
 /oulu
+/out?
+/out.asp?
+/out.aspx?
+/out.cfm?
+/out.cgi?
+/out.htm?
+/out.html?
+/out.jsp?
+/out.php?
 /outils
 /outlet/
 /outlink-
+/outlink?
 /outlink.
+/outlink.asp?
+/outlink.aspx?
+/outlink.cfm?
+/outlink.cgi?
+/outlink.htm?
+/outlink.html?
+/outlink.jsp?
+/outlink.php?
 /outlink/
 /ow.ly
 /owl.li
@@ -3903,6 +3980,15 @@ _zapat
 /ralphlauren-
 /ralphlauren.
 /ralphlauren/
+/rank?
+/rank.asp?
+/rank.aspx?
+/rank.cfm?
+/rank.cgi?
+/rank.htm?
+/rank.html?
+/rank.jsp?
+/rank.php?
 /ray-ban-
 /ray-ban.
 /ray-ban/
@@ -3919,9 +4005,23 @@ _zapat
 /readnews.
 /rebrand.ly
 /recap/
+/redir-
+/redir.
+/redir/
+/redireccion-
+/redireccion.
+/redireccion/
+/redirect-
+/redirect.
 /redirect/
+/redirecter-
+/redirecter.
 /redirecter/
+/redirector-
+/redirector.
 /redirector/
+/redirects-
+/redirects.
 /redirects/
 /refreshers.
 /rejuvenate-
@@ -3938,6 +4038,10 @@ _zapat
 /rk?
 /rk.asp?
 /rk.aspx?
+/rk.cfm?
+/rk.cgi?
+/rk.htm?
+/rk.html?
 /rk.jsp?
 /rk.php?
 /rlu.ru
@@ -11871,6 +11975,7 @@ click-affiliate
 click-bank
 click-buy-now
 click-comp
+click-count
 click-for-more
 click-fraud
 click-here
@@ -11886,6 +11991,7 @@ clickad
 clickaffiliate
 clickbank
 clickcomp
+clickcount
 clickforu
 clickfraud
 clicking it
@@ -13498,6 +13604,8 @@ dedanslongchamp
 dedicated to gaming
 dedrease
 deep inhale
+deep_link
+deep-link
 deepnude
 defammatory post
 defammatory-post
@@ -18572,6 +18680,7 @@ google java
 google keyword
 google look for
 google mapa
+google marketing
 google number
 google porn
 google rank
@@ -18588,6 +18697,7 @@ google-high
 google-java
 google-keyword
 google-mapa
+google-marketing
 google-number
 google-porn
 google-rank
@@ -22522,7 +22632,9 @@ kindle cash
 kindle-cash
 kindlecash
 king hack
+king slot
 king-hack
+king-slot
 kinghack
 kinh doanh
 kinh-doanh
@@ -24612,6 +24724,7 @@ marketing prof
 marketing samu
 marketing service
 marketing software
+marketing specialist
 marketing tip
 marketing video clip
 marketing with social
@@ -24635,6 +24748,7 @@ marketing-prof
 marketing-samu
 marketing-service
 marketing-software
+marketing-specialist
 marketing-tip
 marketing-video-clip
 marketing-xchange
@@ -31502,21 +31616,37 @@ redi_url
 redi-url
 redir.asp
 redir.cfm
+redir.cgi
 redir.htm
 redir.jsp
 redir.php
+redireccion.asp
+redireccion.cfm
+redireccion.cgi
+redireccion.htm
+redireccion.jsp
+redireccion.php
 redirect.asp
 redirect.cfm
+redirect.cgi
 redirect.htm
 redirect.jsp
 redirect.php
+redirecter.asp
+redirecter.cfm
+redirecter.cgi
+redirecter.htm
+redirecter.jsp
+redirecter.php
 redirector.asp
 redirector.cfm
+redirector.cgi
 redirector.htm
 redirector.jsp
 redirector.php
 redirects.asp
 redirects.cfm
+redirects.cgi
 redirects.htm
 redirects.jsp
 redirects.php
@@ -31540,7 +31670,6 @@ reegzniocd
 reel casino
 reel-casino
 reel-game
-reel-king-slot
 reelcasino
 reelgame
 reeview
