@@ -1627,10 +1627,6 @@ _zapat
 .asics-
 .asics.
 .asics/
-.asp?tab
-.asp/
-.aspx?tab
-.aspx/
 .asses-
 .asses.
 .asses/
@@ -2757,6 +2753,15 @@ _zapat
 /acompanhantes/
 /activity-
 /activity.
+/adclick?
+/adclick.asp?
+/adclick.aspx?
+/adclick.cfm?
+/adclick.cgi?
+/adclick.htm?
+/adclick.html?
+/adclick.jsp?
+/adclick.php?
 /add-on/
 /add-ons/
 /add.
@@ -3137,6 +3142,10 @@ _zapat
 /cs?
 /cs.asp?
 /cs.aspx?
+/cs.cfm?
+/cs.cgi?
+/cs.htm?
+/cs.html?
 /cs.jsp?
 /cs.php?
 /css/
@@ -3312,6 +3321,10 @@ _zapat
 /frame?
 /frame.asp?
 /frame.aspx?
+/frame.cfm?
+/frame.cgi?
+/frame.htm?
+/frame.html?
 /frame.jsp?
 /frame.php?
 /free-shipping-
@@ -3352,6 +3365,10 @@ _zapat
 /go?
 /go.asp?
 /go.aspx?
+/go.cfm?
+/go.cgi?
+/go.htm?
+/go.html?
 /go.jsp?
 /go.php?
 /gold-claim.
@@ -3365,11 +3382,19 @@ _zapat
 /goto?
 /goto.asp?
 /goto.aspx?
+/goto.cfm?
+/goto.cgi?
+/goto.htm?
+/goto.html?
 /goto.jsp?
 /goto.php?
 /gourl?
 /gourl.asp?
 /gourl.aspx?
+/gourl.cfm?
+/gourl.cgi?
+/gourl.htm?
+/gourl.html?
 /gourl.jsp?
 /gourl.php?
 /graphics/
@@ -3569,6 +3594,15 @@ _zapat
 /kitchenknife.
 /kitchenknives-
 /kitchenknives.
+/klik?
+/klik.asp?
+/klik.aspx?
+/klik.cfm?
+/klik.cgi?
+/klik.htm?
+/klik.html?
+/klik.jsp?
+/klik.php?
 /kommentar
 /kontakt-
 /kontakt.
@@ -3659,6 +3693,10 @@ _zapat
 /m?
 /m.asp?
 /m.aspx?
+/m.cfm?
+/m.cgi?
+/m.htm?
+/m.html?
 /m.jsp?
 /m.php?
 /m88-
@@ -3671,6 +3709,10 @@ _zapat
 /mainframe?
 /mainframe.asp?
 /mainframe.aspx?
+/mainframe.cfm?
+/mainframe.cgi?
+/mainframe.htm?
+/mainframe.html?
 /mainframe.jsp?
 /mainframe.php?
 /malware-
@@ -3998,6 +4040,10 @@ _zapat
 /rdr?
 /rdr.asp?
 /rdr.aspx?
+/rdr.cfm?
+/rdr.cgi?
+/rdr.htm?
+/rdr.html?
 /rdr.jsp?
 /rdr.php?
 /rdr/
@@ -4086,6 +4132,10 @@ _zapat
 /share?
 /share.asp?
 /share.aspx?
+/share.cfm?
+/share.cgi?
+/share.htm?
+/share.html?
 /share.jsp?
 /share.php?
 /sheet/
@@ -4269,6 +4319,15 @@ _zapat
 /top100.
 /tr.im
 /trac/ticket/
+/track?
+/track.asp?
+/track.aspx?
+/track.cfm?
+/track.cgi?
+/track.htm?
+/track.html?
+/track.jsp?
+/track.php?
 /trackback
 /transexual-
 /transexual.
@@ -4299,6 +4358,10 @@ _zapat
 /url?
 /url.asp?
 /url.aspx?
+/url.cfm?
+/url.cgi?
+/url.htm?
+/url.html?
 /url.jsp?
 /url.php?
 /url/
@@ -4333,6 +4396,10 @@ _zapat
 /visit?
 /visit.asp?
 /visit.aspx?
+/visit.cfm?
+/visit.cgi?
+/visit.htm?
+/visit.html?
 /visit.jsp?
 /visit.php?
 /visite.
@@ -12372,6 +12439,7 @@ com-install
 com.asp
 com.cheap
 com.com
+com/?url
 com//
 com/autocom
 com/ftp
@@ -18569,9 +18637,11 @@ good \o/
 good answer back
 good argument, exact
 good argument, great
+good argument, i
 good argument, really
 good argument. exact
 good argument. great
+good argument. i
 good argument. really
 good arguments, exact
 good arguments, great
@@ -18591,6 +18661,7 @@ good article, continue
 good article, cool
 good article, exact
 good article, great
+good article, i
 good article, really
 good article, stick
 good article:
@@ -18600,6 +18671,7 @@ good article. continue
 good article. cool
 good article. exact
 good article. great
+good article. i
 good article. really
 good blog you have
 good blog:
@@ -18965,9 +19037,11 @@ graysonbag
 grea web
 great argument, exact
 great argument, great
+great argument, i
 great argument, really
 great argument. exact
 great argument. great
+great argument. i
 great argument. really
 great arguments, exact
 great arguments, great
@@ -18987,6 +19061,7 @@ great article, continue
 great article, cool
 great article, exact
 great article, great
+great article, i
 great article, really
 great article, stick
 great article:
@@ -22304,6 +22379,7 @@ jovial-salon
 jp-bag
 jp-best
 jp-sale
+jp/?url
 jp/blog
 jp/my
 jp/shop
@@ -23550,6 +23626,7 @@ link vault
 link-bait
 link-build
 link-camp
+link-click
 link-competence
 link-creati
 link-directory
@@ -23566,9 +23643,11 @@ link-service
 link-submit
 link-track
 link-vault
+link/click
 linkbait
 linkbuild
 linkcamp
+linkclick
 linkdirect
 linkexchang
 linking camp
@@ -26257,6 +26336,7 @@ much-gucci
 much-important
 much-utile
 muchgucci
+mucho tu post
 mudar dieta
 mudar-dieta
 muhammad christ
@@ -31626,6 +31706,8 @@ redireccion.cgi
 redireccion.htm
 redireccion.jsp
 redireccion.php
+redirect_link
+redirect-link
 redirect.asp
 redirect.cfm
 redirect.cgi
@@ -32078,6 +32160,7 @@ retro jord
 retro-jord
 retrojord
 return of this question
+return=http
 revenue master
 revenue-master
 reverse cell
@@ -36354,6 +36437,7 @@ the greatest web
 the helpful job
 the ideas for
 the imagds
+the information procured
 the internet content
 the internet user
 the knowledge broker
@@ -36587,6 +36671,7 @@ this great content
 this gucci
 this ideas for
 this info then
+this information procured
 this internet site
 this landline
 this one subject
@@ -37310,13 +37395,16 @@ tracing-service
 tracingservice
 track hyperlink
 track-back
+track-click
 track-hyperlink
 track-phone-location
 track-r.
+track/click
 track2 dump
 track2-dump
 trackback-link
 trackback-url
+trackclick
 tracker trace
 tracker tracing
 tracker-trace
@@ -38211,6 +38299,7 @@ url-query
 url-status
 url-tracker
 url-tracking
+url=http
 urlacher jers
 urlacher-jers
 urlacherjers
