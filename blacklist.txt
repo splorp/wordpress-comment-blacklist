@@ -1518,6 +1518,8 @@ _zapat
 ?gucci
 ?hermes
 ?hollis
+?link=
+?lnk=
 ?longchamp
 ?mbt
 ?mod=space
@@ -5878,7 +5880,7 @@ actualeffort
 actualit manga
 actualit-manga
 actually actual
-actually certainly
+actually certain
 actually dont
 actually dowsing
 actually excellent
@@ -5889,7 +5891,7 @@ actually medicine
 actually quickly becoming
 actually several follow
 actually thank
-actually-certainly
+actually-certain
 actually-dont
 actually-dowsing
 actually-excellent
@@ -8205,6 +8207,8 @@ being photographer
 being pput
 being-photographer
 being-pput
+beli produk
+beli-produk
 believe youre
 belize proper
 belize-proper
@@ -10935,14 +10939,17 @@ ceritasex
 cerpolo.com.br
 cert line
 cert-line
-certain approximately
+certain approximate
+certain comeback
 certain mastery
 certain pronoun
-certain-approximately
+certain-approximate
+certain-comeback
 certain-mastery
 certain-pronoun
 certainly comeback
 certainly pronoun
+certainly-comeback
 certainly-pronoun
 certtain
 cerveja artesanal
@@ -16701,6 +16708,8 @@ financist
 financist.in
 financpak
 finanse
+finansial tersebut
+finansial-tersebut
 finansow
 finasteride
 find 2
@@ -19209,6 +19218,7 @@ greazt
 greece-holid
 greeceholid
 green smoker
+green walkway
 green-smoker
 green-think
 greensmoker
@@ -19392,6 +19402,8 @@ gull-minnow.gull-minnow
 gull-minnow.top
 gun bisnis
 gun-bisnis
+guncangan finansial
+guncangan-finansial
 gung online
 gung-online
 guns for sale
@@ -20634,7 +20646,7 @@ how to get $
 how to get blog
 how to get movie
 how to make $
-how would certainly
+how would certain
 how_do
 howdy just wanted
 however before
@@ -20967,8 +20979,12 @@ impressive-post
 impressive-share
 impressive-weblog
 impressive-website
+improve home exterior
 improve reminiscence
+improve your home
 improve your income
+improve-home-exterior
+improve-your-home
 improve-your-income
 improvements shop
 improvements-shop
@@ -26324,19 +26340,22 @@ mrantsneak
 msgnum
 mua ban xe
 mua-ban-xe
-much approximately
+much approximate
 much big names
 much clear idea
 much for the content
 much important
 much time both
 much utile
+much-approximate
 much-boot
 much-gucci
 much-important
 much-utile
 muchgucci
 mucho tu post
+mudah beli
+mudah-beli
 mudar dieta
 mudar-dieta
 muhammad christ
@@ -27709,7 +27728,7 @@ oesale
 of activity life
 of asthma sign
 of awesome info
-of certainly
+of certain
 of course this post
 of deemed
 of deficiency of
@@ -27745,7 +27764,7 @@ of weblog
 of website
 of wriers
 of you develop
-of-certainly
+of-certain
 of-deemed
 of-deficiency-of
 of-essay-writing
@@ -36685,6 +36704,7 @@ this page truly
 this paragraph certain
 this paragraph truly
 this posst
+this post certain
 this post give
 this post is genuine
 this post is nice
@@ -36695,6 +36715,7 @@ this post will assist
 this proficiency
 this publish
 this site before
+this site certain
 this site defin
 this site give
 this site is nice
@@ -36721,6 +36742,7 @@ this weblog was
 this weblog;
 this weblog:
 this webpage
+this website certain
 this website defin
 this website is
 this website is nice
