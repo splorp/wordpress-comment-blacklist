@@ -75,11 +75,13 @@
 /shorturl.at
 /shorturl.co
 /shrinke.me
+/shrtfly.co
 /smarturl.it
 /smsh.me
 /sn.im
 /snipurl.co
 /stan.to
+/stfly.me
 /su0.ru
 /swish.st
 /t.co

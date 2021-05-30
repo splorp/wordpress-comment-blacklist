@@ -4156,6 +4156,7 @@ _zapat
 /show-score/
 /show/
 /shrinke.me
+/shrtfly.co
 /sigareta-
 /sigareta.
 /sigarety-
@@ -4206,6 +4207,7 @@ _zapat
 /stan.to
 /start.
 /stats/
+/stfly.me
 /strona-
 /strona/
 /strony-
