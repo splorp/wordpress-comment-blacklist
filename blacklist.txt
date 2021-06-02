@@ -2511,15 +2511,27 @@ _zapat
 (: .
 (:.
 (buzzfeed)
+(buzzfeed/
+(facebook)
+(facebook/
 (instagram)
+(instagram/
 (linkedin)
+(linkedin/
 (no follow)
 (nofollow)
 (reddit)
+(reddit/
 (snapchat)
+(snapchat/
 (stumbleupon)
+(stumbleupon/
 (tiktok)
+(tiktok/
 (twitter)
+(twitter/
+(youtube)
+(youtube/
 )-
 [..
 [/blo
@@ -7461,6 +7473,10 @@ author for your site
 author for your web
 authored subject
 authored-subject
+authority of a article
+authority of a blog
+authority of a page
+authority of a post
 auto brand
 auto-approve-list
 auto-brand
@@ -8164,6 +8180,7 @@ bebek porn
 bebek-porn
 bebekporn
 beberapa tips
+beberapa-tips
 becausethe
 become a bring
 become bitcoin
@@ -8215,6 +8232,8 @@ being photographer
 being pput
 being-photographer
 being-pput
+belanja online
+belanja-online
 beli produk
 beli-produk
 believe youre
@@ -8869,6 +8888,7 @@ blog to rank
 blog topic
 blog truly has
 blog using
+blog utilizing
 blog various
 blog vid
 blog viewer
@@ -13170,6 +13190,7 @@ credit score
 credit_
 credit-card
 credit-direct
+credit-format
 credit-repair
 credit-report
 credit-score
@@ -13178,6 +13199,7 @@ credit.eu
 creditcard.org
 creditcard.us
 creditdirect
+creditformat
 creditrepair
 creditreport
 creditscore
@@ -20886,6 +20908,10 @@ iis already
 iit does
 iit is
 iit was
+iklan lebih
+iklan-lebih
+iklanan
+iklanlebih
 ilegal untuk
 ilegal-untuk
 ilistdzb
@@ -21147,6 +21173,7 @@ induces a invasion
 induces an asthma
 induces an invasion
 industrial de gran
+industrial living room
 industry of movie
 inetry
 inexpensive dollar
@@ -25370,6 +25397,8 @@ melhores relogio
 melhores-metodos
 melhores-relogio
 meloxicam
+membeli tips
+membeli-tips
 member hack
 member-hack
 member.asp
@@ -26913,6 +26942,7 @@ nbshoe
 ñç
 nce nce
 near near
+nearly like a clean
 neat article
 neat blog
 neat page
@@ -37093,6 +37123,7 @@ tipblog
 tipo mas habit
 tipo más habit
 tipo-mas-habit
+tips beberapa
 tips blog
 tips daily
 tips for 2019
@@ -37106,9 +37137,11 @@ tips propert
 tips survivor
 tips to success
 tips unlimited
+tips-beberapa
 tips-blog
 tips-daily
 tips-for-
+tips-membeli
 tips-meny
 tips-propert
 tips-survivor
@@ -37233,6 +37266,10 @@ token-generat
 token-hack
 tokengenerat
 tokenhack
+toko offline
+toko online
+toko-offline
+toko-online
 tokyo-lv
 told u?
 toll that asthma
@@ -38545,6 +38582,8 @@ vanilla-balance
 vanilla-gift
 vanillabalance
 vanillagift
+vano directory
+vano-directory
 vape box
 vape clearance
 vape cloud
@@ -39613,6 +39652,7 @@ web people
 web pharm
 web porn
 web promo
+web property
 web scheme
 web seo
 web sie
@@ -39662,6 +39702,7 @@ web-pharm
 web-porn
 web-pro
 web-promo
+web-property
 web-scheme
 web-seo
 web-sie
@@ -39763,6 +39804,7 @@ webpharm
 webporn
 webpro
 webpromo
+webproperty
 webscheme
 webseite bookmark
 webseite download
@@ -41220,6 +41262,7 @@ your acne break
 your amazing useful
 your asthma so
 your bed furniture
+your bedroom play
 your blog on
 your blog prior
 your blog pro
