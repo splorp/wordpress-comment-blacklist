@@ -1972,6 +1972,7 @@ _zapat
 .jobs3.
 .jpg.asp
 .jpg.cfm
+.jpg.cgi
 .jpg.htm
 .jpg.jsp
 .jpg.php
@@ -2632,6 +2633,8 @@ _zapat
 /00.asp
 /0.cfm
 /00.cfm
+/0.cgi
+/00.cgi
 /0.htm
 /00.htm
 /0.jsp
@@ -2645,6 +2648,8 @@ _zapat
 /1.asp
 /01.cfm
 /1.cfm
+/01.cgi
+/1.cgi
 /01.htm
 /1.htm
 /01.jsp
@@ -2656,6 +2661,8 @@ _zapat
 /2.asp
 /02.cfm
 /2.cfm
+/02.cgi
+/2.cgi
 /02.htm
 /2.htm
 /02.jsp
@@ -2668,6 +2675,8 @@ _zapat
 /3.asp
 /03.cfm
 /3.cfm
+/03.cgi
+/3.cgi
 /03.htm
 /3.htm
 /03.jsp
@@ -2680,6 +2689,8 @@ _zapat
 /4.asp
 /04.cfm
 /4.cfm
+/04.cgi
+/4.cgi
 /04.htm
 /4.htm
 /04.jsp
@@ -2694,6 +2705,8 @@ _zapat
 /5.asp
 /05.cfm
 /5.cfm
+/05.cgi
+/5.cgi
 /05.htm
 /5.htm
 /05.jsp
@@ -2703,31 +2716,37 @@ _zapat
 /10-top-
 /10.asp
 /10.cfm
+/10.cgi
 /10.htm
 /10.jsp
 /10.php
 /11.asp
 /11.cfm
+/11.cgi
 /11.htm
 /11.jsp
 /11.php
 /12.asp
 /12.cfm
+/12.cgi
 /12.htm
 /12.jsp
 /12.php
 /13.asp
 /13.cfm
+/13.cgi
 /13.htm
 /13.jsp
 /13.php
 /14.asp
 /14.cfm
+/14.cgi
 /14.htm
 /14.jsp
 /14.php
 /15.asp
 /15.cfm
+/15.cgi
 /15.htm
 /15.jsp
 /15.php
@@ -2873,6 +2892,15 @@ _zapat
 /authentic.
 /avto-
 /avto.
+/away?
+/away.asp?
+/away.aspx?
+/away.cfm?
+/away.cgi?
+/away.htm?
+/away.html?
+/away.jsp?
+/away.php?
 /b54.in
 /baby-
 /baby.
@@ -3514,6 +3542,13 @@ _zapat
 /index-3
 /index-4
 /index-5
+/index.asp?/
+/index.aspx?/
+/index.cfm?/
+/index.cgi?/
+/index.htm?/
+/index.html?/
+/index.jsp?/
 /index.php?/
 /index0
 /index1
@@ -4335,6 +4370,15 @@ _zapat
 /top100.
 /tr.im
 /trac/ticket/
+/trace?
+/trace.asp?
+/trace.aspx?
+/trace.cfm?
+/trace.cgi?
+/trace.htm?
+/trace.html?
+/trace.jsp?
+/trace.php?
 /track?
 /track.asp?
 /track.aspx?
@@ -4592,6 +4636,7 @@ _zapat
 +.-
 +.asp
 +.cfm
++.cgi
 +.htm
 +.jsp
 +.php
@@ -5397,6 +5442,7 @@ $sixty
 368bet
 404.asp
 404.cfm
+404.cgi
 404.htm
 404.jsp
 404.php
@@ -6509,9 +6555,12 @@ all congratulation
 all craigs list
 all craigslist
 all incluzive
+all of your article
 all of your blog
+all of your page
 all of your post
-all of your web
+all of your weblog
+all of your website
 all the earbud
 all thhe
 all typically
@@ -6525,8 +6574,7 @@ all4web
 allbestedmed
 allbestmed
 allcraigslist
-allergies difficulties
-allergies difficulty
+allergies difficult
 allincluzive
 allinone
 alll the
@@ -7356,7 +7404,10 @@ ativan
 atm machine
 atm-machine
 atmㅋ
+atom seo
+atom-seo
 atomoxetine
+atomseo
 atonemen's tip
 atonemen’s tip
 atonemens tip
@@ -8022,6 +8073,8 @@ barn timber
 barn-timber
 barntimber
 base housing final
+basement-reno-tip
+basement-renovation-tip
 basket chanel
 basket isabel
 basket jord
@@ -8337,6 +8390,8 @@ best gas boil
 best jers
 best lawyer
 best mcm
+best nautical decor
+best nautical home
 best online
 best pant
 best payment
@@ -9865,8 +9920,10 @@ bulk-clock
 bulk-computer
 bulk-jewelry
 bulk-mail
+bulk-near-me
 bulkjewelry
 bulkmail
+bulknearme
 bulky for cumber
 bulky-for-cumber
 bulletproof merced
@@ -14007,6 +14064,7 @@ dich-vu-seo
 dichvuseo
 diclofenac
 did yoou
+didnít
 didrex online
 didrex-online
 die kuhlbox
@@ -23398,12 +23456,16 @@ lawoffice.net
 laws symbol
 laws-symbol
 lawyer free
+lawyer near me
 lawyer seo
 lawyer sex
 lawyer-free
+lawyer-near-me
 lawyer-seo
 lawyer-sex
 lawyerfree
+lawyers near me
+lawyers-near-me
 layout look great
 layout of your blog
 layout of your page
@@ -24664,6 +24726,7 @@ mains-lancel
 mains.asp
 mainslancel
 maintain advert
+maintain me on
 maintain prevent
 maintain your tonsil
 maintain-advert
@@ -25333,6 +25396,7 @@ me aare
 me also comment
 me greatly
 me haha
+me on observe
 me out loads
 me passionne
 me to comment!
@@ -26983,6 +27047,8 @@ naughty xmas
 naughty-christmas
 naughty-xmas
 nautical-bath-decor
+nautical-home-decor
+nautical-home-office
 nautical-kitchen-decor
 nautical-room-decor
 navstevni kniha
@@ -31664,6 +31730,8 @@ reach-me-down
 reach-profit
 react consequent
 read a blog
+read and leave comment
+read and leaving comment
 read everthing
 read it fully
 read it with pleasure
@@ -31695,6 +31763,8 @@ reading a blog
 reading a post
 reading a site
 reading a web
+reading and leave comment
+reading and leaving comment
 reading poker
 reading taste
 reading this article
@@ -36622,6 +36692,7 @@ the carfiac
 the consulting firm
 the contents present
 the cruise trip
+the eating expertise
 the fabulous blog
 the fabulous site
 the fabulous web
