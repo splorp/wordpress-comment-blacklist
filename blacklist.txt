@@ -1553,6 +1553,7 @@ _zapat
 ?twid
 ?u_
 ?u-
+?ww=www
 ?youtube
 . ?i
 .-0
@@ -3012,6 +3013,15 @@ _zapat
 /buyma.
 /bvlgari-
 /bvlgari.
+/bye?
+/bye.asp?
+/bye.aspx?
+/bye.cfm?
+/bye.cgi?
+/bye.htm?
+/bye.html?
+/bye.jsp?
+/bye.php?
 /bytecoin-
 /bytecoin.
 /bytecoin/
@@ -8075,6 +8085,8 @@ barn timber
 barn-timber
 barntimber
 base housing final
+basement_reno_tip
+basement_renovation_tip
 basement-reno-tip
 basement-renovation-tip
 basket chanel
@@ -8415,6 +8427,7 @@ best wordpress
 best writing comp
 best writing serv
 best you can see
+best_small_
 best-anal
 best-blogging
 best-bodycon
@@ -8457,6 +8470,7 @@ best-sex
 best-shapewear
 best-shoe-price
 best-shop
+best-small-
 best-software-for
 best-suppl
 best-tummy
@@ -11757,11 +11771,12 @@ chf iraq
 chf-iraq
 chguigng
 chic casino
-chic home inspiration
+chic home
 chic luxury
 chic mcm
+chic_home
 chic-casino
-chic-home-inspiration
+chic-home
 chic-luxury
 chic-mcm
 chica chat
@@ -20555,13 +20570,9 @@ hollisteruk
 hollywood-online
 hollywoodonline
 home online
-home plan decor
-home plans decor
 home-based
 home-loan
 home-online
-home-plan-decor
-home-plans-decor
 home-remed
 home,of
 home.of
@@ -27062,11 +27073,14 @@ naughty christmas
 naughty xmas
 naughty-christmas
 naughty-xmas
-nautical-bath-decor
-nautical-home-decor
-nautical-home-office
-nautical-kitchen-decor
-nautical-room-decor
+nautical_bath_
+nautical_home_
+nautical_kitchen_
+nautical_room_
+nautical-bath-
+nautical-home-
+nautical-kitchen-
+nautical-room-
 navstevni kniha
 navstevni-kniha
 nba 2k
@@ -29891,12 +29905,14 @@ plaesure
 plagorism
 plain profit
 plain-profit
-plan decor idea
+plan decor
 plan eartique
-plan-decor-idea
+plan_decor
+plan-decor
 plan-eartique
-plans decor idea
-plans-decor-idea
+plans decor
+plans_decor
+plans-decor
 plansare
 plarusee
 plastic ambalaje
@@ -31853,10 +31869,9 @@ realtor-promo
 reap the most effect
 reason your brand
 reason-your-brand
-reasonable-trendy-apartment
-reasonable-trendy-condo
-reasonable, trendy apartment
-reasonable, trendy condo
+reasonable_trendy_
+reasonable-trendy-
+reasonable, trendy
 reasonabpe
 reasons your brand
 reasons-why
@@ -34763,9 +34778,11 @@ slutsporn
 slvrenew
 smaler post
 small kapsule
-small-japanese-apartment
-small-japanese-condo
+small_japanese_
+small_trendy_
+small-japanese-
 small-kapsule
+small-trendy-
 smallbusinessplan
 smaller amount western
 smaller article
@@ -35655,6 +35672,8 @@ studiobeat
 studios beat
 studios-beat
 studiosbeat
+study_room
+study-room
 studycon
 studylook
 stuff into account
@@ -37843,7 +37862,6 @@ trong-top-ten
 trophaen erspielbar
 trophäen erspielbar
 trophaen-erspielbar
-tropical-study-room
 trruly
 truc-tiep-bong-da
 true search
@@ -40432,6 +40450,7 @@ whorebutt
 whttp
 whwn choos
 why designing shabby
+why_designing_shabby
 why-designing-shabby
 why-would-you
 wɦ
