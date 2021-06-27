@@ -4106,6 +4106,7 @@ _zapat
 /rdr.jsp?
 /rdr.php?
 /rdr/
+/rdr=
 /readme.
 /readnews.
 /rebrand.ly
@@ -4113,21 +4114,27 @@ _zapat
 /redir-
 /redir.
 /redir/
+/redir=
 /redireccion-
 /redireccion.
 /redireccion/
+/redireccion=
 /redirect-
 /redirect.
 /redirect/
+/redirect=
 /redirecter-
 /redirecter.
 /redirecter/
+/redirecter=
 /redirector-
 /redirector.
 /redirector/
+/redirector=
 /redirects-
 /redirects.
 /redirects/
+/redirects=
 /refreshers.
 /rejuvenate-
 /rejuvenate.
@@ -4578,8 +4585,13 @@ _zapat
 &#080;&#097;&#117;&#108;&#032;&#083;&#109;&#105;&#116;&#104;
 &#116;&#105;&#109;&#098;&#101;&#114;&#108;&#097;&#110;&#100;
 &~
+&aff=
+&affil=
+&affiliate=
 &amp;amp
 &gt;&lt;
+&link=
+&lnk=
 &lt;!-
 &lt;&gt;
 &x6
@@ -10356,6 +10368,7 @@ bxh pháp
 bxh-phap
 bxhphap
 bxox.in
+by all the opinion
 by-dr-dre
 bymean
 byo.co
@@ -11744,11 +11757,13 @@ chez-skechers
 chf iraq
 chf-iraq
 chguigng
+chic abode
 chic casino
 chic home
 chic luxury
 chic mcm
 chic_home
+chic-abode
 chic-casino
 chic-home
 chic-luxury
@@ -18456,6 +18471,7 @@ girl jord
 girl jp
 girl pantie
 girl panty
+girl porn
 girl rape
 girl spouse
 girl-beaut
@@ -18472,6 +18488,7 @@ girl-jord
 girl-jp
 girl-pantie
 girl-panty
+girl-porn
 girl-rape
 girl-spouse
 girl4escort
@@ -18492,6 +18509,7 @@ girljp
 girlopop
 girlpantie
 girlpanty
+girlporn
 girlrape
 girls beaut
 girls blog
@@ -18499,6 +18517,8 @@ girls eblog
 girls escort
 girls eskort
 girls fuck
+girls on porn
+girls porn
 girls-beaut
 girls-blog
 girls-day-dress
@@ -18508,6 +18528,8 @@ girls-eskort
 girls-for-dubai
 girls-fuck
 girls-in-dubai
+girls-on-porn
+girls-porn
 girls4escort
 girls4eskort
 girlsbeaut
@@ -18519,6 +18541,7 @@ girlseskort
 girlsfordubai
 girlsfuck
 girlsindubai
+girlsporn
 girlspouse
 git escort
 git eskort
@@ -27015,7 +27038,6 @@ naruto hottest
 naruto-hottest
 nashivki leibly
 nashivki-leibly
-nat&#252;rlich
 nateddrink
 nato apostando
 nato-apostando
@@ -30264,6 +30286,7 @@ porn photo
 porn pic
 porn play
 porn please
+porn podcast
 porn porn
 porn post
 porn pour
@@ -30293,6 +30316,7 @@ porn-
 porn-hd
 porn-izle
 porn-play
+porn-podcast
 porn-rape
 porn-stream
 porn-watch
@@ -30464,6 +30488,7 @@ pornphoto
 pornpic
 pornplay
 pornplease
+pornpodcast
 pornporn
 pornpost
 pornpour
