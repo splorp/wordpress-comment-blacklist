@@ -1353,6 +1353,7 @@ _zapat
 -titties/
 -top-info
 -tours.co
+-track.app
 -traffic.
 -trainings.
 -trainings/
@@ -4118,26 +4119,32 @@ _zapat
 /rebrand.ly
 /recap/
 /redir-
+/redir?
 /redir.
 /redir/
 /redir=
 /redireccion-
+/redireccion?
 /redireccion.
 /redireccion/
 /redireccion=
 /redirect-
+/redirect?
 /redirect.
 /redirect/
 /redirect=
 /redirecter-
+/redirecter?
 /redirecter.
 /redirecter/
 /redirecter=
 /redirector-
+/redirector?
 /redirector.
 /redirector/
 /redirector=
 /redirects-
+/redirects?
 /redirects.
 /redirects/
 /redirects=
@@ -8233,7 +8240,9 @@ beaut beaut
 beaut bio
 beaut-beaut
 beaut-bio
+beautiful design mono
 beautiful vibrant result
+beautiful-design-mono
 beautiful-vibrant-result
 beautiful-wom
 beautifully vibrant result
@@ -11965,6 +11974,10 @@ christianloubou
 christianmiengle
 christmas loan
 christmas-loan
+chrome kid room
+chrome kids room
+chrome-kid-room
+chrome-kids-room
 chronic edge
 chronic-edge
 chrono hack
@@ -17904,6 +17917,8 @@ furnishings establishment
 furnishings top
 furnishings-top
 furnishingsale
+furniture decoration
+furniture-decoration
 furnituresale
 furosemide
 further former
@@ -21330,8 +21345,10 @@ induces a asthma
 induces a invasion
 induces an asthma
 induces an invasion
+industrial bedroom
 industrial de gran
 industrial living room
+industrial-bedroom
 industry of movie
 inetry
 inexpensive dollar
@@ -27246,6 +27263,8 @@ new jord
 new large
 new manolo
 new mastery
+new room decor
+new rooms decor
 new seo
 new the web
 new things you post
@@ -27265,6 +27284,7 @@ new-manolo
 new-mastery
 new-oakley
 new-proxy-list
+new-room-decor
 new-rooms-decor
 new-seo
 new-vibram
@@ -32859,6 +32879,8 @@ sac chanel
 sac chloe
 sac du phong
 sạc dự phòng
+sac ekimi
+saç ekimi
 sac gucci
 sac guess
 sac hermes
@@ -32876,6 +32898,7 @@ sac-celine
 sac-chanel
 sac-chloe
 sac-du-phong
+sac-ekimi
 sac-gucci
 sac-guess
 sac-hermes
@@ -35141,6 +35164,7 @@ source blossom
 source of incomes
 source-blossom
 source-of-incomes
+sourcehere
 sovaldi
 sozedde.co
 sozedde.in
@@ -38651,7 +38675,9 @@ url-query
 url-status
 url-tracker
 url-tracking
+url=//
 url=http
+url=www
 urlacher jers
 urlacher-jers
 urlacherjers
@@ -42521,6 +42547,7 @@ zyvox
 новость-убила
 новых автомоби
 ԩ`
+о)))
 оa
 оc
 оd
@@ -42716,6 +42743,7 @@ zyvox
 русском национализ
 русском-национализ
 рф
+с)))
 с¶
 с‰
 с†
@@ -43002,6 +43030,7 @@ zyvox
 اخبار, الرياضة
 اخر اخبار
 ارائه ی تخصصی
+ارخص سيرفر
 از وبلاگ
 ازواج حكاية
 ازواج,حكاية
@@ -43036,6 +43065,7 @@ zyvox
 بهاء و کيفيت
 بهاء-و-کيفيت
 بهترین
+بيع متابعين
 پازل باند
 تحميل العاب
 تخصصی ترین
@@ -43070,11 +43100,13 @@ zyvox
 دستگاه حضور
 دورات تدريب
 ديالى،علوم
+رتويت تويتر
 زواج المسيار
 زواج سعودية
 زواج مسيار
 زواج, مسيار
 زواج,مسيار
+زياده متابعين
 ساک
 سوپر
 سوريا أرخص
@@ -43119,6 +43151,8 @@ zyvox
 لماني,تعلم
 لمكافحه الحشر ات
 لمكافحه الحشرات
+متابعين انستقرام
+متابعين سناب
 متجرالبخور
 متجرالعطور
 متجرالهدايا
