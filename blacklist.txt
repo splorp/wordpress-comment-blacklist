@@ -1955,7 +1955,6 @@ _zapat
 .in/top
 .in/user
 .in/wiki
-.in#
 .info.
 .info/,
 .insanity-
@@ -2082,7 +2081,6 @@ _zapat
 .ph,
 .ph/,
 .ph/?
-.ph/#
 .ph/1-
 .ph/1.
 .ph/2-
@@ -2105,7 +2103,6 @@ _zapat
 .ph/store
 .ph/top
 .ph/user
-.ph#
 .phan-biet-
 .phan-biet.
 .phan-biet/
@@ -2126,7 +2123,6 @@ _zapat
 .pl,
 .pl/,
 .pl/?
-.pl/#
 .pl/1-
 .pl/1.
 .pl/2-
@@ -2150,7 +2146,6 @@ _zapat
 .pl/store
 .pl/top
 .pl/user
-.pl#
 .plotexchange.us
 .pointblog.
 .porn
@@ -2228,7 +2223,6 @@ _zapat
 .ro,
 .ro/,
 .ro/?
-.ro/#
 .ro/1-
 .ro/1.
 .ro/2-
@@ -2252,7 +2246,6 @@ _zapat
 .ro/store
 .ro/top
 .ro/user
-.ro#
 .roulette-
 .roulette.
 .roulette/
@@ -2261,7 +2254,6 @@ _zapat
 .ru,
 .ru/,
 .ru/?
-.ru/#
 .ru/1-
 .ru/1.
 .ru/2-
@@ -2302,7 +2294,6 @@ _zapat
 .ru/vid
 .ru/vip
 .ru/word
-.ru#
 .rusex-
 .rusex.
 .rusex/
@@ -2351,7 +2342,6 @@ _zapat
 .su,
 .su/,
 .su/?
-.su/#
 .su/1-
 .su/1.
 .su/2-
@@ -2379,7 +2369,6 @@ _zapat
 .su/top
 .su/user
 .su/vip
-.su#
 .sunglasses-
 .superslot-
 .superslot.
@@ -2474,7 +2463,6 @@ _zapat
 .za,
 .za/,
 .za/?
-.za/#
 .za/1-
 .za/1.
 .za/2-
@@ -2498,7 +2486,6 @@ _zapat
 .za/top
 .za/user
 .za/za/
-.za#
 .zero-cost-
 .zero-cost.
 .zero-cost/
@@ -2768,7 +2755,6 @@ _zapat
 /400-500.
 /a-
 /a&gt
-/a#
 /abc-
 /abc.
 /abcmart-
@@ -4609,10 +4595,7 @@ _zapat
 &lt;&gt;
 &x6
 &x7
-#/a
 #&amp;
-#file
-#random
 % guns
 % güns
 %$
