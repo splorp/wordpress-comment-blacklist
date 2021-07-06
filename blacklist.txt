@@ -4589,11 +4589,14 @@ _zapat
 &affil=
 &affiliate=
 &amp;amp
+&b_u
 &gt;&lt;
 &link=
 &lnk=
+&logout
 &lt;!-
 &lt;&gt;
+&outlink=
 &trackback
 &x6
 &x7
@@ -4778,6 +4781,7 @@ _zapat
 +woolr
 ±o
 <a>
+=logout
 >.}
 >]
 >sex
@@ -5849,6 +5853,7 @@ accordion-hurricane
 accouchement
 account halal
 account islam
+account premium
 account receiv
 account the install
 account your article
@@ -5857,13 +5862,16 @@ account your page
 account your site
 account your web
 account-islam
+account-premium
 account-receiv
 account-your-article
 account-your-blog
 account-your-page
 account-your-site
 account-your-web
+accounts premium
 accounts receiv
+accounts-premium
 accounts-receiv
 accupril
 accutane
@@ -5992,7 +6000,6 @@ add to fave
 add to favor
 add to favour
 add to feed
-add toö
 add-article
 add-symptom
 addarticle
@@ -6003,7 +6010,6 @@ added to fave
 added to favor
 added to favour
 added to feed
-added toö
 adderall
 adderoll
 addicted-to
@@ -7781,7 +7787,6 @@ back to your page
 back to your weblog
 back to your webpage
 back to your website
-back toö
 back-forex
 backforex
 background check free
@@ -7973,6 +7978,7 @@ bankbybank
 bankcredit
 bankowoz
 bankrobber
+banner_track
 banonline
 banprezzo
 banque parrainage
@@ -8265,6 +8271,10 @@ become-buying
 become-bytecoin
 become-litecoin
 bed are satisfy
+bedava hesap
+bedava zenmate
+bedava-hesap
+bedava-zenmate
 bee given
 beeday
 beeg friend
@@ -10664,7 +10674,6 @@ cardyboot
 care cream
 care maintenance
 care to find out
-care toö
 care-cream
 care-maintenance
 care+maintenance
@@ -18877,7 +18886,6 @@ good site!
 good site.
 good template
 good thorough idea
-good toö
 good web:
 good web!
 good web.
@@ -19916,7 +19924,6 @@ have remarked these
 have remarked this
 have seern
 have thhe
-have toö
 have understand
 have-understand
 haveasite
@@ -20262,6 +20269,8 @@ herren-timber
 herrenkaufen
 herrenmoncler
 herrentimber
+hesap premium
+hesap-premium
 hete meid
 hete vrouw
 hete-meid
@@ -21311,6 +21320,7 @@ indelicious
 inderal
 indeutsch
 index betting
+index_banner
 index-betting
 index-css
 index-old
@@ -37598,6 +37608,7 @@ too small or too
 too thun
 too-thun
 too.acne
+toöhaha
 toolkit obtain
 tooth tooth
 tooth-new
@@ -38595,7 +38606,6 @@ up new post
 up new site
 up new web
 up till
-up toö
 up tto
 up-new-blog
 up-new-site
@@ -39787,7 +39797,6 @@ want bitcoin
 want bytecoin
 want litecoin
 want to commentary
-want toö
 want-bitcoin
 want-bytecoin
 want-litecoin
@@ -39795,7 +39804,6 @@ wantbitcoin
 wantbytecoin
 wantfull
 wantlitecoin
-wants toö
 wantsand
 warcraftguide
 wardrobe appli
@@ -41943,6 +41951,10 @@ zealous of
 zealous-of
 zed-bull
 zedbull
+zenmate free
+zenmate hesap
+zenmate-free
+zenmate-hesap
 zenonia
 zeny nike
 ženy nike
