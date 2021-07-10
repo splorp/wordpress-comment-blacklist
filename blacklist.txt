@@ -1511,6 +1511,7 @@ _zapat
 ?bvlgari
 ?celine
 ?coach
+?director=
 ?ducati
 ?fendi
 ?firma
@@ -3236,6 +3237,14 @@ _zapat
 /diet.
 /dieta.
 /dior.
+/director.asp?
+/director.aspx?
+/director.cfm?
+/director.cgi?
+/director.htm?
+/director.html?
+/director.jsp?
+/director.php?
 /dirigente/
 /div/
 /dlia/
@@ -9770,6 +9779,7 @@ brittany-battle
 brittanybattle
 brittny-battle
 brittnybattle
+bro thank you
 broker blueprint
 broker dealer
 broker forex
@@ -15336,6 +15346,7 @@ entailed triggered
 enter into great
 enterprise highly
 enterprise-highly
+enticing and imaginative
 entreprenuer
 entrykey
 entryview
@@ -27420,6 +27431,7 @@ nice annd
 nice answer back
 nice article
 nice blog
+nice bro thank
 nice designed
 nice info
 nice page
@@ -32689,6 +32701,7 @@ rona-online
 roofingcontractor
 room by hour
 room-by-hour
+room-decorating-idea
 rooms by hour
 rooms-by-hour
 rooted android
