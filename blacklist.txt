@@ -209,9 +209,7 @@ _zapat
 --www
 --youtube
 --zapat
--(
 -+.
--=
 -0.co
 -0.in
 -0.ro
@@ -339,9 +337,7 @@ _zapat
 -anonymous-
 -anonymous.
 -anonymous/
--app-rating-
--app-rating.
--app-rating/
+-app-rating
 -argente-
 -argente.
 -argente/
@@ -1618,9 +1614,7 @@ _zapat
 .annalewandowska-
 .annalewandowska.
 .annalewandowska/
-.app-rating-
-.app-rating.
-.app-rating/
+.app-rating
 .ararblog.
 .armani-
 .armani/
@@ -2847,9 +2841,7 @@ _zapat
 /anonymous.
 /answer-
 /answer.
-/app-rating-
-/app-rating.
-/app-rating/
+/app-rating
 /archive.li
 /armani-
 /armpit-
