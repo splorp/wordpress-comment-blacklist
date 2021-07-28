@@ -6744,6 +6744,13 @@ an affectionate welcome
 an authentic gift
 an avid web
 an fascinating view
+an ideal article
+an ideal blog
+an ideal page
+an ideal paragraph
+an ideal post
+an ideal site
+an ideal web
 an online user
 an-on-line
 anabolic
@@ -6954,10 +6961,8 @@ anyone to success
 anyone-folk
 anyone-supply
 anywasy
-ao go
 áo gỗ
 ao-go
-áo-gỗ
 aobe photoshop
 aobe-photoshop
 ãœ
@@ -7915,9 +7920,9 @@ ballystore
 ban aviat
 ban barata
 ban barato
+bán đạm
 ban handle
 ban händle
-ban hang don gian
 bán hàng đơn giản
 ban jack
 ban lage
@@ -7935,6 +7940,7 @@ ban verspie
 ban wayfare
 ban-barata
 ban-barato
+ban-dam
 ban-hang-don-gian
 ban-jack
 ban-mirror
@@ -7955,11 +7961,9 @@ bandeira politica
 bandeira política
 bandeira-politica
 bandeira-política
-bang bao gia
 bảng báo giá
 bang bros
 bang buddy
-bang gia
 bảng giá
 bang me
 bang-bao-gia
@@ -7993,11 +7997,10 @@ banque-parrainage
 bansunglass
 banyaknya situs
 banyaknya-situs
-bao gia may
 báo giá máy
 bảo hiểm
 bao-gia-may
-bảo-hiểm
+bao-hiem
 barata comparme
 barata new
 barata online
@@ -10388,7 +10391,6 @@ bvlgarishop
 bvlgarisshop
 bvlgaristore
 bvlgariuk
-bxh phap
 bxh pháp
 bxh-phap
 bxhphap
@@ -10427,6 +10429,8 @@ c.reas.e
 c.urr.ent
 c¶
 c|pro
+cả uy tín
+ca-uy-tin
 ca.r.ol
 ca.ro.l
 caan you
@@ -10442,12 +10446,10 @@ cabins it
 cabins lithu
 cabins-it
 cabins-lithu
-cach doc
 cách đọc
 cách trị
 cach-doc
-cách-đọc
-cách-trị
+cach-tri
 caderea parului
 caderea-parului
 caellis
@@ -12673,7 +12675,6 @@ comee on
 comentarios prova oab
 comentários prova oab
 comentarios-prova-oab
-comentários-prova-oab
 comercio al por menor
 comhttp
 coming article
@@ -15166,6 +15167,7 @@ email advertis
 email advertiz
 email doa
 email extract
+email marketing
 email starter
 email to unlimited list
 email vip
@@ -15174,6 +15176,7 @@ email-advertis
 email-advertiz
 email-doa
 email-extract
+email-marketing
 email-message-should
 email-messages-should
 email-starter
@@ -15185,6 +15188,7 @@ email.jsp
 email.php
 email.tst
 emailacademy
+emailmarketing
 emails sometime
 emails starter
 emails to unlimited list
@@ -17403,7 +17407,6 @@ fradidas
 fragil emocional
 frágil emocional
 fragil-emocional
-frágil-emocional
 frame cheap
 frame-cheap
 framecheap
@@ -17847,7 +17850,6 @@ ful-malware
 fulgor fantastic
 fulgor fantástic
 fulgor-fantastic
-fulgor-fantástic
 full download page
 full length motion
 full length movie
@@ -18132,7 +18134,6 @@ gamyba
 ganadora clasica
 ganadora clásica
 ganadora-clasica
-ganadora-clásica
 gang-bang
 gangbang
 gangprofil
@@ -18154,8 +18155,10 @@ garlic health
 garlic-health
 garota de goias
 garota de goiás
+garota-de-goias
 garotas de goias
 garotas de goiás
+garotas-de-goias
 gas boiler replace
 gas-boiler-replace
 gasboilerreplace
@@ -18454,12 +18457,9 @@ ghduk
 ghostwrite service
 ghostwriter service
 ghttp
-gia cong
 gia công
 giá rẻ
 gia-cong
-gia-công
-giá-rẻ
 giant 100%
 giant-100%
 giants jers
@@ -18985,6 +18985,7 @@ googlehack
 googlehigh
 googleing
 googlejava
+googlemarketing
 googleporn
 googlerank
 googlesolution
@@ -20460,11 +20461,9 @@ hobo-bag
 hobo-fuchsia
 hobobag
 hobofuchsia
-hoc sao
 học sáo
 hoc-3d-max
-học-sáo
-hoc-seo
+hoc-sao
 hoc3dmax
 hocsao
 hoga out
@@ -22918,7 +22917,6 @@ kfcnfl
 kham nam
 khám nam
 kham-nam
-khám-nam
 khau trang
 khẩu trang
 khau-trang
@@ -27991,9 +27989,7 @@ obuv-nach
 obuv-nike
 obuv-run
 obuv-seda
-obuv-šedá
 obuv-zeny
-obuv-ženy
 obuvmesh
 obuvnach
 obuvnike
@@ -29828,9 +29824,7 @@ phục 2020
 phuc 2021
 phục 2021
 phục áo phông
-phuc ao thun
 phục áo thun
-phuc bon mua
 phục bon mua
 phuc hot
 phuc trend
@@ -31623,13 +31617,10 @@ quality-weblog
 quality-writing
 quality.the
 qualuty
-quan lot nam
 quần lót nam
-quan ly ban hang
 quản lý bán hàng
 quan-lot-nam
 quan-ly-ban-hang
-quang cao
 quảng cáo
 quang-cao
 quanlotnam
@@ -33199,7 +33190,6 @@ santé blog
 sante-blog
 santehnik krug
 santehnik-krug
-sao truc
 sáo trúc
 sáo-trúc
 saotruc
@@ -34338,7 +34328,6 @@ shoesuk
 shoesus
 shoeuk
 shoot-tequila
-shop ban phu
 shop bán phụ
 shop blog
 shop boot
@@ -34355,6 +34344,7 @@ shop sells perfume
 shop thai
 shop web
 shop-afl
+shop-ban-phu
 shop-blog
 shop-boot
 shop-bought
@@ -35012,12 +35002,13 @@ snoring-mouth
 snoringexpert
 snoringmouth
 snowplplow
+sở bán ầm
 so do who you
 so here it occur
 so much a person
-so nam cao
 sở nam cao
 so verdienen sie
+so-ban-am
 so-nam-cao
 sobre los precio
 sobre tiara
@@ -36769,7 +36760,6 @@ thankyou.htm
 thankyou.jsp
 thankyou.php
 that ad decid
-that gia re
 thất giá rẻ
 that i may subscribe
 that iis
@@ -37446,7 +37436,6 @@ tinytowtimmy.co
 tion?i
 tip#1
 tipblog
-tipo mas habit
 tipo más habit
 tipo-mas-habit
 tips beberapa
@@ -37810,10 +37799,8 @@ towarowe anna lewandowska
 town|
 toys,sex
 toys,vibra
-tra dao quan
 trà đạo quán
 tra-dao-quan
-trà-đạo-quán
 trace service
 trace-service
 traceservice
@@ -38525,8 +38512,8 @@ ungbuou
 unhas decoradas
 unhas-decoradas
 uni#que#
-unico y mas
 único y más
+unico-y-mas
 uniform-for-sale
 uniformforsale
 uniforms-for-sale
@@ -40431,6 +40418,7 @@ whenshe
 where buy
 where get
 where is admin?
+where is moderator?
 where sell
 where-buy
 where-can-i
@@ -42371,6 +42359,7 @@ zyvox
 для-тела
 добавим специал
 добавим-специал
+добрый день друзья
 домены
 дорогие россияне
 дорогие-россияне
