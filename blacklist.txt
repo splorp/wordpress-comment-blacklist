@@ -3932,6 +3932,15 @@ _zapat
 /owl.li
 /owtf.co.uk
 /p-laid-
+/p?
+/p.asp?
+/p.aspx?
+/p.cfm?
+/p.cgi?
+/p.htm?
+/p.html?
+/p.jsp?
+/p.php?
 /p/
 /page1.
 /page2.
@@ -8855,6 +8864,10 @@ biżuteria
 black bodycon
 black gay
 black lesb
+black magic love
+black magic removal
+black magic spell
+black magic wealth
 black tight
 black tits
 black ugg
@@ -8862,6 +8875,10 @@ black-bodycon
 black-friday
 black-gay
 black-lesb
+black-magic-love
+black-magic-removal
+black-magic-spell
+black-magic-wealth
 black-tight
 black-tits
 black-ugg
@@ -8879,6 +8896,7 @@ blackjack, slot
 blackjackpit
 blacklabelj
 blacklesb
+blackmagicand
 blacktight
 blacktits
 blackugg
@@ -10144,6 +10162,7 @@ buy acrylic
 buy ageless
 buy albenda
 buy albenza
+buy black magic
 buy blade
 buy canadagoose
 buy cetirizine
@@ -10151,6 +10170,7 @@ buy cheap
 buy crypto
 buy didrex
 buy discount
+buy djinn
 buy dump
 buy duvet
 buy essay
@@ -10160,6 +10180,7 @@ buy facebook
 buy fifa
 buy forskolin
 buy generic
+buy genie
 buy gig
 buy gold
 buy google
@@ -10175,6 +10196,10 @@ buy kratom
 buy likes
 buy lol
 buy louis
+buy love spell
+buy magic book
+buy magic love
+buy magic wealth
 buy methotrexate
 buy movie
 buy my thesis
@@ -10200,6 +10225,8 @@ buy trusted
 buy twitter
 buy v buck
 buy vpn service
+buy wealth magic
+buy wealth spell
 buy women
 buy you tube
 buy your tote
@@ -10207,6 +10234,7 @@ buy youtube
 buy-acrylic
 buy-albenda
 buy-albenza
+buy-black-magic
 buy-blade
 buy-canadagoose
 buy-cetirizine
@@ -10216,6 +10244,7 @@ buy-cock
 buy-crypto
 buy-didrex
 buy-discount
+buy-djinn
 buy-dump
 buy-duvet
 buy-essay
@@ -10224,6 +10253,7 @@ buy-facebook
 buy-fifa
 buy-forskolin
 buy-generic
+buy-genie
 buy-gig
 buy-gold
 buy-google
@@ -10239,6 +10269,10 @@ buy-kratom
 buy-likes
 buy-lol
 buy-louis
+buy-love-spell
+buy-magic-book
+buy-magic-love
+buy-magic-wealth
 buy-methotrexate
 buy-movie
 buy-n95
@@ -10268,6 +10302,8 @@ buy-traff
 buy-trusted
 buy-twitter
 buy-vpn
+buy-wealth-magic
+buy-wealth-spell
 buy-women
 buy-you-tube
 buy-youtube
@@ -13763,6 +13799,8 @@ dau-tot-nhat
 daunen weste
 daunen-weste
 daunenweste
+dawkach witamin
+dawkach-witamin
 day bountiful
 day lengthy
 day loan
@@ -15852,6 +15890,8 @@ excellent submit
 excellent task
 excellent topic
 excellent web
+excellent write-up
+excellent writeup
 excellent written
 excellent-article
 excellent-blog
@@ -15867,6 +15907,8 @@ excellent-site
 excellent-task
 excellent-topic
 excellent-web
+excellent-write-up
+excellent-writeup
 excellent-written
 excellentarticle
 excellentblog
@@ -22290,6 +22332,8 @@ jail-bond
 jailbond
 jajjaja
 jajjajj
+jakie witamin
+jakie-witamin
 jam jord
 jam poker
 jam-jord
@@ -23068,6 +23112,9 @@ klub.ro
 klub.ru
 klub.su
 klub.za
+kluczowa witamin
+kluczową witamin
+kluczowa-witamin
 knee-joint
 knee-pain
 kneejoint
@@ -24475,6 +24522,7 @@ love (:
 love connect
 love cougar
 love perfect
+love spell cast
 love this article!
 love this blog!
 love this page!
@@ -24491,6 +24539,7 @@ love-cougar
 love-lv
 love-master
 love-perfect
+love-spell-cast
 loveblog
 loveconnect
 lovecougar
@@ -24715,6 +24764,12 @@ magasinchemise
 magasinhollis
 magasinlongchamp
 magasinrobe
+magic love spell
+magic spell cast
+magic wealth spell
+magic-love-spell
+magic-spell-cast
+magic-wealth-spell
 magicmoncler
 magister kesehatan
 magister-kesehatan
@@ -27499,6 +27554,9 @@ nichter-shop
 nicki-mariah
 nicoban
 nicolasbit
+niektorymi witamin
+niektórymi witamin
+niektorymi-witamin
 nieng rang mac cai
 niềng răng mắc cài
 nieng-rang-mac-cai
@@ -27507,6 +27565,9 @@ nieruchomości
 nieuwe zonnebrillen
 nieuwe-zonnebrillen
 nieuwezonnebrillen
+niezbedna witamin
+niezbędna witamin
+niezbedna-witamin
 nike 5.0
 nike andy
 nike designa
@@ -27819,6 +27880,9 @@ nullednull
 nulledopen
 nulledperf
 nulledteam
+number 1 black
+number 1 magic
+number 1 spell
 number of or more
 number of well-like
 number service
@@ -31872,6 +31936,14 @@ read of your paragraph
 read of your post
 read of your site
 read of your web
+read ones article
+read ones blog
+read ones own
+read ones page
+read ones paragraph
+read ones post
+read ones site
+read ones web
 read smaler
 read smaller
 read this blog
@@ -32313,7 +32385,9 @@ remorseless vapour
 remote viewing train
 remote-viewing-train
 removal clearwater
+remove black magic
 remove me from that
+remove-black-magic
 rencontre amicale
 rencontre coquine
 rencontre gougar
@@ -34092,6 +34166,14 @@ shaping pant
 shaping-pant
 share - point
 share and sub
+share ones article
+share ones blog
+share ones own
+share ones page
+share ones paragraph
+share ones post
+share ones site
+share ones web
 share site
 share ssite
 share this blog
@@ -36564,6 +36646,8 @@ taxi business
 taxidea
 taylormade_
 tɑ
+te witamin
+te-witamin
 te.m.ptest
 te.mp.test
 te.mpt.est
@@ -39976,8 +40060,10 @@ we vigorous
 we-are-you
 we-vigorous
 wealth affiliate
+wealth spell cast
 wealth strat
 wealth-affiliate
+wealth-spell-cast
 wealth-strat
 wealthaffiliate
 wealthstrat
@@ -40725,6 +40811,10 @@ wise-quote
 wishing for blog
 wispy lash
 wispy-lash
+witamina jest
+witamina-jest
+witaminy musisz
+witaminy-musisz
 witgh
 with blog commenting
 with declare
@@ -40786,6 +40876,8 @@ wlasciwy post
 właściwy post
 wlasciwy-blog
 wlasciwy-post
+wlewy witamin
+wlewy-witamin
 wmfの
 wo.r.t.h
 wo.rth
