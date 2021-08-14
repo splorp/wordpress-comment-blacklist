@@ -629,6 +629,9 @@ _zapat
 -eronplus-
 -eronplus.
 -eronplus/
+-erotag-
+-erotag.
+-erotag/
 -escort-
 -escort.
 -escort/
@@ -1824,6 +1827,9 @@ _zapat
 .eronplus-
 .eronplus.
 .eronplus/
+.erotag-
+.erotag.
+.erotag/
 .escort-
 .escort.
 .escort/
@@ -3296,6 +3302,9 @@ _zapat
 /eronplus-
 /eronplus.
 /eronplus/
+/erotag-
+/erotag.
+/erotag/
 /errorx/
 /escort-
 /escort.
@@ -4145,6 +4154,7 @@ _zapat
 /redirects.
 /redirects/
 /redirects=
+/ref=sr_
 /refreshers.
 /rejuvenate-
 /rejuvenate.
@@ -4617,6 +4627,8 @@ _zapat
 %5b
 %5d
 %7c
+%20%20
+%20www
 %anchor
 %article
 %bb
@@ -7578,6 +7590,7 @@ autobrand
 autoclinics.co.
 autocom
 automatic-pay
+automatic-swimming
 automaticbackup.
 automaticpay
 automobile profit
@@ -9375,10 +9388,14 @@ bons-ganhos
 bons-resultado
 bontril
 bonus casino
+bonus code
+bonus money
 bonus-casino
 bonus-code
+bonus-money
 bonuscasino
 bonuscode
+bonusmoney
 boobs tumblr
 boobs-tumblr
 boogging
@@ -11418,6 +11435,7 @@ cheap china
 cheap chinese
 cheap christ
 cheap cig
+cheap deals
 cheap denver
 cheap dildo
 cheap dump
@@ -11524,6 +11542,7 @@ cheap-chinese
 cheap-christ
 cheap-cig
 cheap-converse
+cheap-deals
 cheap-denver
 cheap-dildo
 cheap-dump
@@ -11627,6 +11646,7 @@ cheapchinese
 cheapclean
 cheapcoach
 cheapconverse
+cheapdeals
 cheaper essay
 cheaper-essay
 cheapessay
@@ -13840,9 +13860,17 @@ deal this page
 deal this site
 deal this web
 deal-benefit
+deal-eu
+deal-uk
+deal-us
 deal.bl
+dealeu
 dealongamento
 dealonline
+deals-eu
+deals-uk
+deals-us
+dealseu
 dealsuk
 dealsus
 dealuk
@@ -30396,6 +30424,8 @@ pool date
 pool dating
 pool-date
 pool-dating
+pool+cover+pump
+poolcoverpump
 poopx
 poor-loan
 popular brand
@@ -31419,12 +31449,15 @@ protandim
 protein bene
 protein powder
 protein review
+protein tozu
 protein-bene
 protein-diet
 protein-powder
 protein-review
+protein-tozu
 proteinbene
 proteindiet
+proteintozu
 prova da oab
 prova-da-oab
 provase concur
