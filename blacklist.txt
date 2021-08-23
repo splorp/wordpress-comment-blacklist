@@ -2788,6 +2788,7 @@ _zapat
 /adclick.html?
 /adclick.jsp?
 /adclick.php?
+/adclick/?
 /add-on/
 /add-ons/
 /add.
@@ -2892,6 +2893,7 @@ _zapat
 /away.html?
 /away.jsp?
 /away.php?
+/away/?
 /b54.in
 /baby-
 /baby.
@@ -3012,6 +3014,7 @@ _zapat
 /bye.html?
 /bye.jsp?
 /bye.php?
+/bye/?
 /bytecoin-
 /bytecoin.
 /bytecoin/
@@ -3193,6 +3196,7 @@ _zapat
 /cs.html?
 /cs.jsp?
 /cs.php?
+/cs/?
 /css/
 /custom-control
 /custom/de/
@@ -3235,6 +3239,7 @@ _zapat
 /diet.
 /dieta.
 /dior.
+/director?
 /director.asp?
 /director.aspx?
 /director.cfm?
@@ -3243,6 +3248,7 @@ _zapat
 /director.html?
 /director.jsp?
 /director.php?
+/director/?
 /dirigente/
 /div/
 /dlia/
@@ -3383,6 +3389,7 @@ _zapat
 /frame.html?
 /frame.jsp?
 /frame.php?
+/frame/?
 /free-shipping-
 /free-shipping.
 /free-shipping/
@@ -3427,6 +3434,7 @@ _zapat
 /go.html?
 /go.jsp?
 /go.php?
+/go/?
 /gold-claim.
 /gold-yukon.
 /gold.
@@ -3444,6 +3452,7 @@ _zapat
 /goto.html?
 /goto.jsp?
 /goto.php?
+/goto/?
 /gourl?
 /gourl.asp?
 /gourl.aspx?
@@ -3453,6 +3462,7 @@ _zapat
 /gourl.html?
 /gourl.jsp?
 /gourl.php?
+/gourl/?
 /graphics/
 /group1
 /group2
@@ -3624,6 +3634,7 @@ _zapat
 /jump.html?
 /jump.jsp?
 /jump.php?
+/jump/?
 /jumplink?
 /jumplink.asp?
 /jumplink.aspx?
@@ -3633,6 +3644,7 @@ _zapat
 /jumplink.html?
 /jumplink.jsp?
 /jumplink.php?
+/jumplink/?
 /just.
 /kabriolet-
 /kabriolet.
@@ -3666,6 +3678,7 @@ _zapat
 /klik.html?
 /klik.jsp?
 /klik.php?
+/klik/?
 /kommentar
 /kontakt-
 /kontakt.
@@ -3717,6 +3730,7 @@ _zapat
 /link.jsp?
 /link.php?
 /link/
+/link/?
 /linkdetail
 /linknum
 /links-
@@ -3762,6 +3776,7 @@ _zapat
 /m.html?
 /m.jsp?
 /m.php?
+/m/?
 /m88-
 /m88.
 /m88/
@@ -3778,6 +3793,7 @@ _zapat
 /mainframe.html?
 /mainframe.jsp?
 /mainframe.php?
+/mainframe/?
 /malware-
 /malware.
 /malware/
@@ -3911,6 +3927,7 @@ _zapat
 /optout.html?
 /optout.jsp?
 /optout.php?
+/optout/?
 /orderpage
 /orgasm
 /oulu
@@ -3923,11 +3940,11 @@ _zapat
 /out.html?
 /out.jsp?
 /out.php?
+/out/?
 /outils
 /outlet/
 /outlink-
 /outlink?
-/outlink.
 /outlink.asp?
 /outlink.aspx?
 /outlink.cfm?
@@ -3937,6 +3954,7 @@ _zapat
 /outlink.jsp?
 /outlink.php?
 /outlink/
+/outlink/?
 /ow.ly
 /owl.li
 /owtf.co.uk
@@ -3951,6 +3969,7 @@ _zapat
 /p.jsp?
 /p.php?
 /p/
+/p/?
 /page1.
 /page2.
 /page3.
@@ -4103,6 +4122,7 @@ _zapat
 /rank.html?
 /rank.jsp?
 /rank.php?
+/rank/?
 /ray-ban-
 /ray-ban.
 /ray-ban/
@@ -4119,6 +4139,7 @@ _zapat
 /rdr.jsp?
 /rdr.php?
 /rdr/
+/rdr/?
 /rdr=
 /readme.
 /readnews.
@@ -4176,6 +4197,7 @@ _zapat
 /rk.html?
 /rk.jsp?
 /rk.php?
+/rk/?
 /rlu.ru
 /roulette-
 /roulette.
@@ -4224,6 +4246,7 @@ _zapat
 /share.html?
 /share.jsp?
 /share.php?
+/share/?
 /sheet/
 /shop-for-
 /shop-for.
@@ -4416,6 +4439,7 @@ _zapat
 /trace.html?
 /trace.jsp?
 /trace.php?
+/trace/?
 /track?
 /track.asp?
 /track.aspx?
@@ -4425,6 +4449,7 @@ _zapat
 /track.html?
 /track.jsp?
 /track.php?
+/track/?
 /trackback
 /transexual-
 /transexual.
@@ -4462,6 +4487,7 @@ _zapat
 /url.jsp?
 /url.php?
 /url/
+/url/?
 /urlms.co
 /urlr.be
 /urls/
@@ -4499,6 +4525,7 @@ _zapat
 /visit.html?
 /visit.jsp?
 /visit.php?
+/visit/?
 /visite.
 /vk.io
 /voltaren
@@ -7001,6 +7028,12 @@ apg apartment
 apg no fee
 apg-apartment
 apg-no-fee
+apk deponuz
+apk ucretsiz
+apk-deponuz
+apk-ucretsiz
+apkdeponuz
+apkucretsiz
 aplicacin
 app full download
 app growth education
@@ -7589,10 +7622,12 @@ autoapprove
 autobrand
 autoclinics.co.
 autocom
+automatic pay
 automatic-pay
 automatic-swimming
-automaticbackup.
+automatic+swimming
 automaticpay
+automaticswimming
 automobile profit
 automobile proper
 automobile-profit
@@ -10086,6 +10121,7 @@ bursa kiz
 bursa masoz
 bursa sandal
 bursa site
+bursa transfer
 bursa-bayan
 bursa-birlik
 bursa-escort
@@ -10094,6 +10130,7 @@ bursa-kiz
 bursa-masoz
 bursa-sandal
 bursa-site
+bursa-transfer
 bursabayan
 bursabirlik
 bursada escort
@@ -10105,6 +10142,7 @@ bursaeskort
 bursakiz
 bursamasoz
 bursasite
+bursatransfer
 bursted out laugh
 busca sexo
 busca-sexo
@@ -23195,6 +23233,8 @@ kobeshoe
 kode kupon
 kode-kupon
 kodekupon
+kolay bir web
+kolay-bir-web
 kollagen intensiv
 kollagen-intensiv
 kombat hack
@@ -23209,6 +23249,9 @@ kommissionen tager
 kommissionen-tager
 kompanii
 komputer
+konforlu secenek
+konforlu seçenek
+konforlu-secenek
 konkurs
 konopiami indyjskimi
 konopiami-indyjskimi
@@ -23369,6 +23412,10 @@ ku42.
 kugelbahn
 kult und genuss
 kulturtasche habe
+kumas alanla
+kumaş alanla
+kumas-alanla
+kumasalanla
 kunjungi kami
 kunjungi web
 kunjungi-kami
@@ -38048,6 +38095,9 @@ trangcong
 trangdep
 tranghot
 trangmanly
+transfer hizmeti
+transfer-hizmeti
+transferhizmeti
 transform-vhs
 translation christ
 translation-christ
@@ -41566,6 +41616,8 @@ y.@
 y.o.ur
 y.ou.r
 y᧐
+yada web
+yada-web
 ýæ
 yahoo me
 yahoo spy
