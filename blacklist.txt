@@ -2576,6 +2576,7 @@ _zapat
 /——-
 /?go=
 /?goto=
+/?ref=
 /.wd/
 //|
 //123-
@@ -3377,6 +3378,16 @@ _zapat
 /form.
 /forum0
 /forum1
+/forwarder?
+/forwarder.asp?
+/forwarder.aspx?
+/forwarder.cfm?
+/forwarder.cgi?
+/forwarder.htm?
+/forwarder.html?
+/forwarder.jsp?
+/forwarder.php?
+/forwarder/?
 /fotka.
 /foto.
 /fpdb/
@@ -6807,6 +6818,8 @@ anabolicsteroid
 anabolik steroid
 anabolik-steroid
 anaboliksteroid
+anahtar kelime
+anahtar-kelime
 anal bead
 anal dildo
 anal escort
@@ -6815,6 +6828,7 @@ anal extreme
 anal fuck
 anal hook
 anal plug
+anal porn
 anal sex
 anal vibra
 anal-bead
@@ -6825,6 +6839,7 @@ anal-extreme
 anal-fuck
 anal-hook
 anal-plug
+anal-porn
 anal-sex
 anal-vibra
 analbead
@@ -6836,6 +6851,7 @@ analisis de uso
 análisis de uso
 analisis-de-uso
 analplug
+analporn
 analsex
 analvibra
 analysis sport
@@ -7032,8 +7048,10 @@ apg no fee
 apg-apartment
 apg-no-fee
 apk deponuz
+apk deposu
 apk ucretsiz
 apk-deponuz
+apk-deposu
 apk-ucretsiz
 apkdeponuz
 apkucretsiz
@@ -14027,7 +14045,9 @@ demontag
 den-led-am-tran
 den-pha-led
 den-pha-metal
+deneme icerik
 deneme mal
+deneme-icerik
 deneme-mal
 denschlaf
 dental chat room
@@ -16022,6 +16042,7 @@ exercice
 exgirlfriend
 exists lots
 exit.asp
+exmo.co
 expect laser hair
 expecteded
 expensive haver
@@ -18320,12 +18341,16 @@ geekbb
 geiles madel
 geiles mädel
 geiles-madel
+gel get
+gel git
 gel virage
 gel-virage
 gelatine free
 gelatine-free
 geld sparen
 geld-sparen
+gelget
+gelgit
 gelisen ve musteri
 gelişen ve müşteri
 gelisen-ve-musteri
@@ -19723,6 +19748,8 @@ guncangan finansial
 guncangan-finansial
 gung online
 gung-online
+gunler bayim
+gunler-bayim
 guns for sale
 gunstig kaufen
 günstig kaufen
@@ -20324,6 +20351,8 @@ herentimber
 herescort
 hereskort
 herhrh
+herkes merkes
+herkes-merkes
 hermes abrasif
 hermes austr
 hermes bag
@@ -20446,6 +20475,7 @@ hghsup
 hhave to
 hhttp
 hi … thought
+hi bu hi
 hi dear
 hi hi
 hi it's good
@@ -22895,6 +22925,8 @@ ka.thle.e.n
 ka.thle.en
 ka.thlee.n
 kaboom it was
+kac test
+kac-test
 kaepernick jers
 kaepernick men
 kaepernick wom
@@ -29843,6 +29875,8 @@ personenbezogener daten
 personenbezogener-daten
 personnalis
 perxon
+pesimdesiniz
+peşimdesiniz
 peso saudavel
 peso saudável
 peso-saudavel
@@ -33106,6 +33140,8 @@ s.the
 s.two
 s.webeden
 s| a
+sabah pasam
+sabah-pasam
 sabo charm
 sabo out
 sabo ring
@@ -36906,7 +36942,9 @@ terrific-weblog
 tesouras completo
 tesouras-completo
 test post
+test yapili
 test-post
+test-yapili
 test.ca
 test.in
 test.tumblr
@@ -41734,6 +41772,8 @@ yopenis
 york sportiv
 york-sportiv
 yorksportiv
+yorumu yazıyoruz
+yorumu-yazıyoruz
 you - tube
 you – tube
 you aand
@@ -42428,6 +42468,7 @@ zyvox
 алкогольн
 алкогольные
 альтернатива
+анальной ебли
 андроид
 анилиновые краси
 анилиновые-краси
@@ -42518,6 +42559,7 @@ zyvox
 взрослых россиян
 взрослых-россиян
 виагра
+видео анальной
 видео о времени
 видео чат
 видео-о-времени
