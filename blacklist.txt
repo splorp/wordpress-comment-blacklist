@@ -1726,6 +1726,7 @@ _zapat
 .cartier-
 .cause-
 .causes-
+.cf/chk/
 .cfm/
 .cfmx
 .cgi
@@ -2407,6 +2408,7 @@ _zapat
 .tischkicker.
 .tischkicker/
 .tistory.
+.tk/chk/
 .top/?
 .top/gal
 .top/thumb
@@ -4648,7 +4650,10 @@ _zapat
 &affiliate=
 &amp;amp
 &b_u
+&ftp:
 &gt;&lt;
+&http:
+&https:
 &link=
 &lnk=
 &logout
@@ -19094,6 +19099,7 @@ google gain
 google hack
 google have a
 google high
+google hizmet
 google java
 google keyword
 google look for
@@ -19112,6 +19118,7 @@ google-fuck
 google-gain
 google-hack
 google-high
+google-hizmet
 google-java
 google-keyword
 google-mapa
@@ -19903,6 +19910,7 @@ hackthesec
 hacktool
 hackxyz
 hadheard
+haha)
 hai thiet
 hai thiệt
 hai-thiet
@@ -20593,6 +20601,8 @@ hithis
 hitm4a
 hitmp3
 hitmp4
+hizmetleri sorunsuz
+hizmetleri-sorunsuz
 hjblog
 hk lengkap
 hk-lengkap
@@ -21116,7 +21126,6 @@ hyclate
 hydraulik-
 hydrocodone
 hydroponicsys
-hydrotherapy
 hydroxatone
 hydroxy
 hygienistst
@@ -21124,11 +21133,8 @@ hyper fb
 hyper link
 hyper-fb
 hyper-link
-hypothyroidism
 hyprtnsion
-hyroliheze.ga
-hyroliheze.ml
-hyroliheze.tk
+hyroliheze
 hyzaar
 hⲟ
 hо
@@ -21607,6 +21613,7 @@ information approximate
 information for my mission
 information is invaluable
 information is priceless
+information offered by you
 information-approximate
 information?i
 information.asp
@@ -23570,6 +23577,7 @@ laplap
 laranita free
 laranita-free
 laranitafree
+large list of crypto
 large longchamp
 large penis
 large tote
@@ -28398,6 +28406,8 @@ oksunglass
 okycupid
 old/dress
 old|
+olur oturum
+olur-oturum
 omalizumab
 on board battery
 on da chia se
@@ -32915,6 +32925,14 @@ robedemariee
 robedumariage
 robertalite
 robertby
+roblox bedava
+roblox free
+roblox game
+roblox oyunu
+roblox-bedava
+roblox-free
+roblox-game
+roblox-oyunu
 robot,or
 robotor test
 robotor wholesale
@@ -37908,8 +37926,6 @@ too small or too
 too thun
 too-thun
 too.acne
-toohaha
-toöhaha
 toolkit obtain
 tooth tooth
 tooth-new
@@ -38156,9 +38172,8 @@ trangcong
 trangdep
 tranghot
 trangmanly
-transfer hizmeti
-transfer-hizmeti
-transferhizmeti
+transfer hizmet
+transfer-hizmet
 transform-vhs
 translation christ
 translation-christ
@@ -40836,6 +40851,7 @@ why_designing_shabby
 why-designing-shabby
 why-would-you
 wɦ
+wide trading opportun
 widespread prescription
 widespread-prescription
 widespread-sorts
@@ -41807,6 +41823,7 @@ you for the blog
 you for the post
 you for the share
 you gucci
+you is very effective
 you mayy
 you miws
 you need is often
@@ -42159,6 +42176,7 @@ yslfemme
 yslschuh
 yu move
 yu-move
+yuj423
 yumeeyum
 yup this article
 yup this paragraph
