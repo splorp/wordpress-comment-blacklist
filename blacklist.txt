@@ -1631,6 +1631,8 @@ _zapat
 .asics-
 .asics.
 .asics/
+.asp?smartemail
+.aspx?smartemail
 .asses-
 .asses.
 .asses/
@@ -1727,9 +1729,11 @@ _zapat
 .cause-
 .causes-
 .cf/chk/
+.cfm?smartemail
 .cfm/
 .cfmx
 .cgi
+.cgi?smartemail
 .chanel-
 .cheat-
 .cheat.
@@ -1923,7 +1927,9 @@ _zapat
 .hot-teen.
 .hot-teen/
 .hotblog.
+.htm?smartemail
 .htm/
+.html?smartemail
 .html/
 .htn
 .iapple-
@@ -1984,6 +1990,7 @@ _zapat
 .jpg.jsp
 .jpg.php
 .jpg/
+.jsp?smartemail
 .jsp/
 .kapselfibrose-
 .kapselfibrose.
@@ -2115,6 +2122,7 @@ _zapat
 .phexin-
 .phexin.
 .phexin/
+.php?smartemail
 .php/
 .picload-
 .picload.
@@ -13732,10 +13740,16 @@ dahua-cctv
 đại-lý
 daikly
 dailly
+daily vape
+daily vaping
 daily-life-meaning
+daily-vape
+daily-vaping
 daily.bl
 dailyreview.co
 dailystrength
+dailyvape
+dailyvaping
 dailyz
 daintree residence
 daintree-residence
@@ -15332,6 +15346,7 @@ email.htm
 email.jsp
 email.php
 email.tst
+email=@
 emailacademy
 emailmarketing
 emails sometime
@@ -15466,6 +15481,9 @@ enjoy your post
 enjoy your site
 enjoy your web
 enjoy-more
+enjoying by these
+enjoying by this
+enjoying by those
 enjoying your blog
 enjoying your page
 enjoying your post
@@ -19046,6 +19064,7 @@ good homepage
 good page
 good paragraph
 good points there
+good post and good
 good post:
 good post!
 good post.
@@ -39019,6 +39038,7 @@ urfa-eskort
 urfaescort
 urfaeskort
 urgent custom
+urging comment
 uri casino
 uri-casino
 uricasino
