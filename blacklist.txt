@@ -38278,6 +38278,9 @@ trong-top-ten
 trophaen erspielbar
 trophäen erspielbar
 trophaen-erspielbar
+trova prezzi
+trova-prezzi
+trovaprezzi
 trruly
 truc-tiep-bong-da
 true search
@@ -43088,7 +43091,10 @@ zyvox
 приватные прокси
 приватные-прокси
 привет друзья
+привет ствует
 привет-друзья
+привет-ствует
+привет!
 приветствует вас господа
 приветствует сайт
 приветствует-вас-господа
@@ -43328,6 +43334,8 @@ zyvox
 уa
 уe
 уo
+удачного выбора
+удачного-выбора
 удивительные
 уже пол
 уже-пол
