@@ -4125,6 +4125,16 @@ _zapat
 /qsymia-
 /qsymia.
 /qsymia/
+/r?
+/r.asp?
+/r.aspx?
+/r.cfm?
+/r.cgi?
+/r.htm?
+/r.html?
+/r.jsp?
+/r.php?
+/r/?
 /r4i-
 /r4i.
 /ra.
@@ -7097,6 +7107,7 @@ appear like post
 appear like site
 appear like web
 appear-conseq
+appearing reasonable original
 appears like blog
 appears like page
 appears like post
@@ -9720,6 +9731,7 @@ botulinumtoxin
 bought mme
 boulder boulder
 boulder-boulder
+boundless online
 bountiful with
 bountiful-with
 boursorama banque
@@ -11041,27 +11053,33 @@ cbd beaut
 cbd best
 cbd cannabis
 cbd cream
+cbd extract
 cbd gum
 cbd isolate
 cbd lube
+cbd mean
 cbd weed
 cbd-advert
 cbd-beaut
 cbd-best
 cbd-cannabis
 cbd-cream
+cbd-extract
 cbd-gum
 cbd-isolate
 cbd-lube
+cbd-mean
 cbd-weed
 cbdadvert
 cbdbeaut
 cbdbest
 cbdcannabis
 cbdcream
+cbdextract
 cbdgum
 cbdisolate
 cbdlube
+cbdmean
 çç
 cc shop
 cc-shop
@@ -16156,8 +16174,11 @@ externer-link
 extra 10 discount
 extra 20 discount
 extra gry
+extract cbd
 extract pill
+extract-cbd
 extract-pill
+extractcbd
 extractpill
 extremely ample
 extremely broad for
@@ -16170,7 +16191,9 @@ extremely-superb
 extremely}
 extremley
 extremrly
+eye lingerie
 eye porn
+eye-lingerie
 eye-porn
 eyeglass sale
 eyeglass-sale
@@ -16180,7 +16203,9 @@ eyeglasssale
 eyelash extension
 eyelash-extension
 eyeporn
+eyes lingerie
 eyes porn
+eyes-lingerie
 eyes-porn
 eyesporn
 eyewear present
@@ -20185,6 +20210,7 @@ hdwallss
 hdwallst
 hdzfilm
 he contact admin
+he is discussing online
 heading out throughout
 headphone power cord
 headset 2019
@@ -21262,6 +21288,7 @@ if you're.
 if you’re.
 if your.
 if youre
+ifashionstyle
 ifyou
 ig.o.r
 igi-game
@@ -21857,6 +21884,7 @@ installvirtual
 instalment loan
 instalment-loan
 instalmentloan
+instant approval and easy
 instant blog
 instant cash
 instant loan
@@ -27701,6 +27729,9 @@ nice share
 nice site
 nice understand
 nice web
+nice write up
+nice write-up
+nice writeup
 nice written
 nice-article
 nice-blog
@@ -27714,6 +27745,8 @@ nice-share
 nice-site
 nice-understand
 nice-web
+nice-write-up
+nice-writeup
 nice-written
 nicearticle
 niceblog
@@ -28326,6 +28359,7 @@ of weblog
 of website
 of wriers
 of you develop
+of your writing while
 of-certain
 of-deemed
 of-deficiency-of
@@ -28581,6 +28615,7 @@ online games store
 online gaming play
 online gaming store
 online gefunden
+online grant app
 online gratis
 online gry
 online heel
@@ -28656,6 +28691,7 @@ online-games-store
 online-gaming-play
 online-gaming-store
 online-gefunden
+online-grant-app
 online-gratis
 online-gry
 online-guide-of
@@ -28780,7 +28816,6 @@ onsale.htm
 onsale.jsp
 onsale.php
 onsales.co
-ontario high risk
 ontheir
 ontheweb
 oº
@@ -29111,6 +29146,8 @@ outstandingtopic
 outstandingweb
 outstdanding
 ovariancyst
+over the internet
+over-the-internet
 overabundance of compare
 overall glance
 overall-advert
@@ -36669,7 +36706,9 @@ take sized you
 take snapshot
 take-curcumin
 taken gravely
+taken with cbd
 taken-gravely
+taken-with-cbd
 takenwith
 takie poglosk
 takie pogłosk
@@ -37089,6 +37128,7 @@ thanks for web
 thanks for your post
 thanks regarding
 thanks to web
+thanks xo
 thanks-admin
 thanks-designed
 thanks-for-the-post
@@ -37314,6 +37354,7 @@ thespacious
 thetopdog
 thetwo
 theuniversity
+they are discussing online
 they loophole
 they the t
 they-loophole
@@ -38833,6 +38874,9 @@ ultra hoverboard
 ultra-hoverboard
 ultrahoverboard
 ultram
+umitkoy implant
+umitkoy-implant
+umitkoyimplant
 umschuldung
 umuporn
 uncertainty very
@@ -41860,6 +41904,7 @@ you all action
 you andd
 you are a favor
 you are a favour
+you are discussing online
 you are travel,
 you aree
 you article
