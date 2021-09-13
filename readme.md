@@ -100,6 +100,7 @@ See the [license.txt](https://raw.githubusercontent.com/splorp/wordpress-comment
 
 ## History
 
++ 20210913 — Fixed bug that affected email addresses from German service provider [t-online](https://github.com/splorp/wordpress-comment-blacklist/commit/22ded9e489799be02276da25da0fa9325a9fb60f)
 + 20210902 — 44,000 entries
 + 20210705 — Removed [several terms containing number signs](https://github.com/splorp/wordpress-comment-blacklist/commit/bcc822b246ae549e4833fd20bd2685adccff6a80) to  better handle valid anchor references
 + 20210512 — 43,000 entries
