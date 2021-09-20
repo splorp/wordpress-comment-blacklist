@@ -17397,6 +17397,10 @@ footwearjord
 footwearmbt
 footwears
 for a article
+for black mans
+for black mens
+for black womans
+for black womens
 for cheap
 for download.
 for du book
@@ -17414,6 +17418,10 @@ for thhe
 for this article
 for this blog
 for this web
+for white mans
+for white mens
+for white womans
+for white womens
 for winning product
 for wonderful information
 for yolur
@@ -33820,7 +33828,9 @@ seen in this you
 seg-board
 segboard
 segun servicio tecnico
+segun servicio técnico
 según servicio tecnico
+según servicio técnico
 segway-fun
 segwayfun
 sehmale movie
@@ -34099,6 +34109,8 @@ servicii-profes
 servicio postventa
 servicio servicio
 servicio tan robusto
+servicio tecnico madrid
+servicio técnico madrid
 servicio tecnico oficial
 servicio técnico oficial
 servicio-postventa
@@ -36956,9 +36968,10 @@ technological globe
 technological-globe
 tecnicas para voce
 técnicas para você
-tecnicas-para-voce
 tecnico y asistencia tecnica
+técnico y asistencia tecnica
 tecnico y servicio tecnica
+técnico y servicio tecnica
 teen cam
 teen female
 teen lesb
@@ -43332,6 +43345,8 @@ zyvox
 синяк-макияжем
 сироп мангустина
 сироп-мангустина
+скам деньги
+скам на деньги
 скандал жк
 скандал-жк
 скандальных путе
