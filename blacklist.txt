@@ -941,6 +941,7 @@ _zapat
 -mbt/
 -mbts.
 -mbts/
+-med.ru
 -media-wiki-
 -media-wiki.
 -media-wiki/
@@ -3339,6 +3340,16 @@ _zapat
 /event-
 /event.
 /executive-
+/exit?
+/exit.asp?
+/exit.aspx?
+/exit.cfm?
+/exit.cgi?
+/exit.htm?
+/exit.html?
+/exit.jsp?
+/exit.php?
+/exit/?
 /extreme-
 /f_0/
 /f_1/
@@ -4174,6 +4185,16 @@ _zapat
 /rdr=
 /readme.
 /readnews.
+/reauexit?
+/reauexit.asp?
+/reauexit.aspx?
+/reauexit.cfm?
+/reauexit.cgi?
+/reauexit.htm?
+/reauexit.html?
+/reauexit.jsp?
+/reauexit.php?
+/reauexit/?
 /rebrand.ly
 /recap/
 /redir-
@@ -11149,6 +11170,9 @@ celebshair
 celebsnude
 celecoxib
 celexa
+celik konstruk
+çelik konstrük
+celik-konstruk
 celine bag
 celine bors
 celine boston
@@ -33084,6 +33108,11 @@ rolnictwo-towarowe
 rom-galaxy
 rona online
 rona-online
+ronn1e
+ronn1ie
+ronn11e
+ronni1e
+ronniie
 roofingcontractor
 room by hour
 room-by-hour
@@ -41139,6 +41168,7 @@ with professional skill
 with retinoid
 with thhe
 with this blog
+with this page showing?
 with this web
 with you my business
 with your blog
@@ -42681,6 +42711,7 @@ zyvox
 блог
 боброва люб
 боброва-люб
+больных королев
 бот термин
 бот-термин
 брелки
