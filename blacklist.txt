@@ -2264,6 +2264,7 @@ _zapat
 .royal-
 .rshacks.
 .ru,
+.ru@
 .ru/,
 .ru/?
 .ru/1-
@@ -8467,6 +8468,9 @@ belanja online
 belanja-online
 beli produk
 beli-produk
+believe my blog
+believe that blog
+believe your blog
 believe youre
 belize proper
 belize-proper
@@ -9735,6 +9739,8 @@ botasugg
 botcheat
 both educative
 both link along
+both read and comment
+both reading and comment
 both-educative
 bots cheat
 bots-cheat
@@ -13939,6 +13945,7 @@ datecasual
 datedirect
 dateguide
 datekiss
+daterape
 dateservice
 datesider
 datesite
@@ -15671,6 +15678,7 @@ eron plus
 eron-plus
 eronplus
 erotic asphyx
+erotic candy
 erotic couple
 erotic death
 erotic desire
@@ -15691,6 +15699,7 @@ erotic wallpaper
 erotic workout
 erotic_
 erotic-asphyx
+erotic-candy
 erotic-couple
 erotic-death
 erotic-desire
@@ -15708,6 +15717,7 @@ erotic-thrill
 erotic-toy
 erotic-wallpaper
 erotic-workout
+eroticcandy
 eroticdeath
 eroticerotic
 erotichd
@@ -23594,6 +23604,7 @@ kumas alanla
 kumaş alanla
 kumas-alanla
 kumasalanla
+kunilingus
 kunjungi kami
 kunjungi web
 kunjungi-kami
@@ -25519,6 +25530,7 @@ mas calorias
 mas-calorias
 masalah member
 masalah-member
+masokist
 mass article
 mass face
 mass traffic
@@ -32264,6 +32276,9 @@ read your site
 read your web
 read-everthing
 read-smaller
+reader but your article
+reader but your blog
+reader but your web
 readers-base
 readers' base
 readers’ base
@@ -32725,6 +32740,8 @@ repair shop near you
 repair shops near me
 repair shops near you
 repair virgin
+repair-near-me
+repair-near-your
 repair-virgin
 repairs near me
 repairs near you
@@ -34140,6 +34157,8 @@ server.download
 server2019
 server2020
 server2021
+service near me
+service near you
 service now!
 service pencil
 service-ecommerce
@@ -34148,6 +34167,8 @@ service/ecommerce
 serviced ass
 serviced-ass
 servicedoc
+services near me
+services near you
 services-ecommerce
 services/ecommerce
 services/service
@@ -36862,12 +36883,29 @@ tantriclondon
 tape a tale
 tapeworm.us
 tapicerowane
+target blog
+target keyword
+target traff
+target visit
+target weblog
+target webpage
+target website
+target-blog
+target-keyword
+target-traff
+target-visit
+target-weblog
+target-webpage
+target-website
+target=http
+targetblog
 targeted keyword
 targeted traff
 targeted visit
 targeted-keyword
 targeted-traff
 targeted-visit
+targetedkeyword
 targetedtraff
 targetedvisit
 targeting blog
@@ -36878,12 +36916,18 @@ targeting-blog
 targeting-weblog
 targeting-webpage
 targeting-website
+targetkeyword
 targetted traff
 targetted visit
 targetted-traff
 targetted-visit
 targettedtraff
 targettedvisit
+targettraff
+targetvisit
+targetweblog
+targetwebpage
+targetwebsite
 tarif-malin
 tarifmalin
 tariki shoe
@@ -37481,6 +37525,7 @@ things-we-love
 things-you-post
 thingsto
 thingway
+think your blog
 thinking on many item
 thinking playing
 thinking-playing
@@ -39327,6 +39372,7 @@ va-garanteaza
 vaballgown
 vacant screen
 vacant-screen
+vagiina
 vagina live
 vagina online
 vagina-live
@@ -42105,9 +42151,12 @@ youngporn
 youporn
 your acne break
 your amazing useful
+your article kept
 your asthma so
 your bed furniture
 your bedroom play
+your blog kept
+your blog might
 your blog on
 your blog prior
 your blog pro
@@ -42190,6 +42239,7 @@ your web log
 your web page
 your web prior
 your web site
+your weblog kept
 your weblog on
 your weblog prior
 your weblog pro
@@ -42197,6 +42247,7 @@ your weblog seem
 your website but
 your website for
 your website it
+your website kept
 your website offer
 your website on
 your website prior
@@ -43280,6 +43331,7 @@ zyvox
 прошивка
 психоло
 путешествую
+р·
 р¶
 р°
 р±
@@ -43327,7 +43379,7 @@ zyvox
 ресурс
 рецепты красо
 рецепты-красо
-рєр
+рє
 рњ
 рокс казино
 рокс-казино
