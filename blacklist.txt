@@ -6677,6 +6677,9 @@ all automotive, auto
 all congratulation
 all craigs list
 all craigslist
+all in this article
+all in this paragraph
+all in this post
 all incluzive
 all of your article
 all of your blog
@@ -10810,6 +10813,7 @@ cann't
 cann’t
 cannabis buy
 cannabis carry
+cannabis cart
 cannabis grow
 cannabis gum
 cannabis oil
@@ -10820,6 +10824,7 @@ cannabis weed
 cannabis_
 cannabis-buy
 cannabis-carry
+cannabis-cart
 cannabis-grow
 cannabis-gum
 cannabis-oil
@@ -10828,6 +10833,7 @@ cannabis-same
 cannabis-seed
 cannabis-weed
 cannabisbuy
+cannabiscart
 cannabisgrow
 cannabisoil
 cannabisseed
@@ -13875,8 +13881,11 @@ damskie
 dangerous post
 dangerous-post
 dangerouspost
+dank vape
+dank-vape
 danke fur die tip
 danke für die tip
+dankvape
 dannerjp
 dans one piece
 dao tao seo
@@ -17255,6 +17264,8 @@ fish casino
 fish-casino
 fishcasino
 fit web
+fit your price
+fit your taste
 fit-web
 fitch gilet
 fitch grenoble
@@ -24108,6 +24119,8 @@ libraries.cfm
 libraries.htm
 libraries.jsp
 libraries.php
+library family
+library-family
 library.asp
 library.cfm
 library.htm
@@ -39433,6 +39446,7 @@ vanillagift
 vano directory
 vano-directory
 vape box
+vape cart
 vape clearance
 vape cloud
 vape e-juice
@@ -39445,6 +39459,7 @@ vape save
 vape stick
 vape_
 vape-box
+vape-cart
 vape-clearance
 vape-cloud
 vape-e-juice
@@ -39456,6 +39471,7 @@ vape-review
 vape-save
 vape-stick
 vapebox
+vapecart
 vapeclearance
 vapecloud
 vapeejuice
@@ -39466,9 +39482,12 @@ vaper ejuice
 vaper-e-juice
 vaper-ejuice
 vaperejuice
+vapes cart
 vapes kit
+vapes-cart
 vapes-kit
 vapesave
+vapescart
 vapestick
 vapo save
 vapo-save
@@ -41254,9 +41273,8 @@ withher
 withhim
 within thee
 within this article
-within this blog
 within this page
-within this site
+within this post
 within this web
 within your blog
 within your page
@@ -42184,7 +42202,8 @@ your it occup
 your kids is
 your lover
 your lung area
-your mode of describing
+your mode of describ
+your mode of explain
 your movie to put
 your new important
 your new invaluable
