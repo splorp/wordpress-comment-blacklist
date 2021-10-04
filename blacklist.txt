@@ -5436,6 +5436,7 @@ $sixty
 100 most
 100 saison
 100-gratuit
+100-like
 100-most
 100-saison
 100.xyz
@@ -5629,6 +5630,7 @@ $sixty
 999k free
 999k-diamond
 999k-free
+1000-like
 1000$
 1337 seo
 1337-seo
@@ -8566,6 +8568,7 @@ best gaming
 best gas boil
 best jers
 best lawyer
+best local data
 best mcm
 best nautical decor
 best nautical home
@@ -8616,6 +8619,7 @@ best-gas-boil
 best-home-cinema
 best-jers
 best-lawyer
+best-local-data
 best-mcm
 best-pant
 best-payment
@@ -8977,18 +8981,26 @@ bitkoin
 bittrex
 biuro-solido
 biz advert
+biz capital
+biz cash
 biz market
 biz news
+biz wealth
 biz_
 biz-advert
+biz-capital
+biz-cash
 biz-market
 biz-news
+biz-wealth
 biz.in
 biz.pl
 biz.ru
 biz.su
 biz.za
 bizadvert
+bizcapital
+bizcash
 bizmarket
 biznes
 biznews
@@ -9000,6 +9012,7 @@ biztehno
 biztekno
 biztout
 biżuteria
+bizwealth
 black bodycon
 black gay
 black lesb
@@ -10378,6 +10391,7 @@ buy silver
 buy snapchat
 buy soccer
 buy social account
+buy targeted
 buy thesis
 buy tiktok
 buy toms
@@ -10446,6 +10460,7 @@ buy-proper
 buy-proxies
 buy-proxy
 buy-qsymia
+buy-rapid-test
 buy-resume
 buy-reviews
 buy-run
@@ -10455,6 +10470,7 @@ buy-snapchat
 buy-soccer
 buy-social-account
 buy-soma
+buy-targeted
 buy-thesis
 buy-tiktok
 buy-toms
@@ -10535,6 +10551,7 @@ buyseo
 buysilver
 buysoccer
 buysoma
+buytargeted
 buytoms
 buytraff
 buyvpn
@@ -10866,6 +10883,8 @@ captcha snip
 captcha-snip
 captchasnip
 car requirement
+car-e-site
+car-esite
 car-requirement
 car.o.l
 cara detox
@@ -10961,6 +10980,7 @@ cash generat
 cash loan
 cash masterclass
 cash progress
+cash team
 cash-advance
 cash-buzz
 cash-call
@@ -10976,7 +10996,9 @@ cash-loan
 cash-masterclass
 cash-now
 cash-progress
+cash-team
 cash.com.
+cash.xyz
 cash4
 cashadvance
 cashbuzz
@@ -10993,6 +11015,7 @@ cashgenerat
 cashloan
 cashnow
 cashout
+cashteam
 casier judiciaire
 casier-judiciaire
 casino account
@@ -13950,6 +13973,8 @@ date-casual
 date-class
 date-date
 date-direct
+date-e-site
+date-esite
 date-guide
 date-kiss
 date-netflix
@@ -13965,6 +13990,8 @@ datedirect
 dateguide
 datekiss
 daterape
+dates-e-site
+dates-esite
 dateservice
 datesider
 datesite
@@ -13985,6 +14012,8 @@ dating-casual
 dating-class
 dating-date
 dating-direct
+dating-e-site
+dating-esite
 dating-guide
 dating-kiss
 dating-personal
@@ -14047,17 +14076,25 @@ deal this blog
 deal this page
 deal this site
 deal this web
+deal-4-u
+deal-4u
 deal-benefit
 deal-eu
 deal-uk
 deal-us
 deal.bl
+deal4u
 dealeu
 dealongamento
 dealonline
+deals-4-u
+deals-4u
 deals-eu
+deals-site
 deals-uk
 deals-us
+deals4u
+dealse-site
 dealseu
 dealsuk
 dealsus
@@ -14071,15 +14108,13 @@ death-attorney
 death-erotic
 deatherotic
 debt money
+debt solution
 debt_
-debt-help
-debt-management
 debt-money
-debt-relief
 debt-solution
-debthelp
 debthit
-debtrelief
+debtmoney
+debtsolution
 decent blog
 decent page
 decent points here
@@ -14500,12 +14535,15 @@ dinner soup
 dinner-soup
 diorkan
 dir an ->
+direct biz
 direct guideline;
 direct guideline:
+direct-biz
 direct-fund
 direct-health
 direct-lend
 direct-lone
+directbiz
 directed expensive
 directhealth
 directlend
@@ -14751,10 +14789,13 @@ dollarservice
 dolphins jers
 dolphins-jers
 dolphinsjers
+domain site
 domain-123
+domain-site
 domain-world
 domain123
 domainbie
+domainsite
 domainworld
 domen kupi
 domen-kupi
@@ -16214,6 +16255,9 @@ explain-the-biz
 explain-the-business
 explain-your-biz
 explain-your-business
+explainer video
+explainer-video
+explainervideo
 explainthebiz
 explainthebusiness
 explainyourbiz
@@ -16672,6 +16716,7 @@ fashionmen
 fashionstore
 fashiontrend
 fashionwomen
+fast biz
 fast bookmark
 fast cash
 fast coupon
@@ -18349,9 +18394,12 @@ gambleonline
 gambling casino
 gambling game
 gambling online
+gambling-4-u
+gambling-4u
 gambling-casino
 gambling-game
 gambling-online
+gambling4u
 gamblingcasino
 gamblinggame
 gamblingonline
@@ -20828,7 +20876,25 @@ hoki-poker
 hokipoker
 hold of it!
 hold'em game
+hold'em poker
+hold'em soft
+hold'em texas
 hold’em game
+hold’em poker
+hold’em soft
+hold’em texas
+holdem game
+holdem poker
+holdem soft
+holdem texas
+holdem-game
+holdem-poker
+holdem-soft
+holdem-texas
+holdemgame
+holdempoker
+holdemsoft
+holdemtexas
 holdinga
 holdning
 holiday lets
@@ -21093,7 +21159,15 @@ hot.php
 hotburberry
 hotel deal
 hotel-deal
+hotel-e-site
+hotel-esite
+hotel-site
 hoteldeal
+hotele-site
+hotels-e-site
+hotels-esite
+hotels-site
+hotelse-site
 hotgirl
 hotgyrl
 hotlove
@@ -21126,6 +21200,7 @@ hottesttech
 hottesttrend
 hottestupdate
 hottrend
+hourfunding
 hourpayday
 hous insur
 house exterior luxury
@@ -21679,6 +21754,18 @@ individual stuffs
 individual-friendly
 individual-pleasant
 individual-stuffs
+indo blackjack
+indo casino
+indo-blackjack
+indo-casino
+indoblackjack
+indocasino
+indonesia blackjack
+indonesia casino
+indonesia-blackjack
+indonesia-casino
+indonesiablackjack
+indonesiacasino
 indownload
 indre pengemark
 indre-pengemark
@@ -22019,6 +22106,7 @@ instructorcar
 insurance auto
 insurance broker
 insurance car
+insurance deal
 insurance dubai
 insurance home
 insurance house
@@ -22028,12 +22116,14 @@ insurance-auto
 insurance-broker
 insurance-car
 insurance-comp
+insurance-deal
 insurance-home
 insurance-house
 insurance-quote
 insuranceauto
 insurancecar
 insurancecomp
+insurancedeal
 insurancehome
 insurancehouse
 insurancequote
@@ -24442,6 +24532,7 @@ loans-online
 loans.co
 loans.in
 loans.net
+loans.xyz
 loans1
 loans2
 loans3
@@ -25977,6 +26068,9 @@ meisterstuck pen
 meisterstuck-pen
 meisterstuckpen
 meizitang
+meja casino
+meja-casino
+mejacasino
 mejor servicio
 mejor-servicio
 mejores booster
@@ -26883,12 +26977,15 @@ morpg
 morre about
 morre-about
 mortgage loan program
+mortgage-4-u
+mortgage-4u
 mortgage-loan-program
 mortgage.asp
 mortgage.cfm
 mortgage.htm
 mortgage.jsp
 mortgage.php
+mortgage4u
 mortgagecalc
 most competitively
 most high-need
@@ -29159,6 +29256,7 @@ outlet.eu
 outlet.mobi
 outlet.name
 outlet.net
+outlet.online
 outlet.org
 outlet.uk
 outlet.us
@@ -30139,6 +30237,7 @@ pharmacy 24
 pharmacy canad
 pharmacy from
 pharmacy online
+pharmacy outlet
 pharmacy without
 pharmacy_
 pharmacy-24
@@ -30146,10 +30245,12 @@ pharmacy-at
 pharmacy-canad
 pharmacy-from
 pharmacy-online
+pharmacy-outlet
 pharmacy-without
 pharmacy24
 pharmacyat
 pharmacyonline
+pharmacyoutlet
 pharmaeuro
 pharmancies_
 pharmaun
@@ -30600,7 +30701,16 @@ pokemoncoin
 pokemongocheat
 pokemongocoin
 pokemontcg
-poker 99
+poker 0
+poker 1
+poker 2
+poker 3
+poker 4
+poker 5
+poker 6
+poker 7
+poker 8
+poker 9
 poker annual
 poker book
 poker cc
@@ -32124,8 +32234,11 @@ quite-photo
 quited in
 quitge like
 quitsmoking
+quotes deal
 quotes saying
+quotes-deal
 quotes-saying
+quotesdeal
 quwlity
 qux
 qvc
@@ -32759,6 +32872,10 @@ renewal amenit
 rent luxury
 rent_in
 rent-luxury
+rental-e-site
+rental-esite
+rentals-e-site
+rentals-esite
 renting-a-small
 rentinsur
 rentluxury
@@ -34035,9 +34152,12 @@ seo plug
 seo rank
 seo service
 seo share
+seo shop
 seo site
 seo soluton
 seo source
+seo special
+seo technic
 seo toil
 seo tool
 seo vps
@@ -34078,9 +34198,12 @@ seo-plug
 seo-rank
 seo-service
 seo-share
+seo-shop
 seo-site
 seo-soluton
 seo-source
+seo-special
+seo-technic
 seo-toil
 seo-tool
 seo-tram
@@ -34114,8 +34237,11 @@ seoplug
 seorank
 seoservice
 seoshare
+seoshop
 seosoluton
 seosource
+seospecial
+seotechnic
 seotoil
 seotool
 seotram
@@ -35769,12 +35895,15 @@ specifucally
 spedified
 speed proxi
 speed proxy
+speed seo
 speed-loan
 speed-proxi
 speed-proxy
+speed-seo
 speedloan
 speedproxi
 speedproxy
+speedseo
 speedy cash
 speedy-cash
 speedy-product
@@ -36870,7 +36999,9 @@ talk-with-webpage
 talk-with-website
 talking about online
 talknig
+talkwithcustom
 talkwithcustomer
+talkwithweb
 talkwithwebpage
 talkwithwebsite
 talkwithwebvisit
@@ -36917,35 +37048,30 @@ target blog
 target keyword
 target traff
 target visit
-target weblog
-target webpage
-target website
+target web
 target-blog
 target-keyword
 target-traff
 target-visit
-target-weblog
-target-webpage
-target-website
+target-web
 target=http
 targetblog
 targeted keyword
 targeted traff
 targeted visit
+targeted web
 targeted-keyword
 targeted-traff
 targeted-visit
+targeted-web
 targetedkeyword
 targetedtraff
 targetedvisit
+targetedweb
 targeting blog
-targeting weblog
-targeting webpage
-targeting website
+targeting web
 targeting-blog
-targeting-weblog
-targeting-webpage
-targeting-website
+targeting-web
 targetkeyword
 targetted traff
 targetted visit
@@ -36955,9 +37081,7 @@ targettedtraff
 targettedvisit
 targettraff
 targetvisit
-targetweblog
-targetwebpage
-targetwebsite
+targetweb
 tarif-malin
 tarifmalin
 tariki shoe
@@ -38090,8 +38214,11 @@ to.p.ic
 to.pi.c
 toasterovensnow
 tobuy.in
+today news
+today-news
 today/article
 today4u
+todaynews
 todescribe
 tods jap
 tods jp
@@ -38211,7 +38338,10 @@ top-blog
 top-bulgar
 top-buzz
 top-bvlgar
+top-e-site
+top-esite
 top-essay
+top-fake-id
 top-forum
 top-game
 top-grade
@@ -38250,6 +38380,7 @@ topbuzz
 topbvlgar
 topcontractor
 topdatabase
+topfakeid
 topforum
 topfreecam
 topgame
@@ -38521,14 +38652,20 @@ truly-thk
 truly-very
 trump 202
 trump mask
+trump train
+trump trump
 trump vote
 trump won
 trump-202
 trump-mask
+trump-train
+trump-trump
 trump-vote
 trump-won
 trump202
 trumpmask
+trumptrain
+trumptrump
 trumpvote
 trumpwon
 truth however
@@ -39029,15 +39166,21 @@ ulkotours
 ultimas tecnica
 ultimas técnica
 ultimas-tecnica
+ultimate marketer
+ultimate marketing
 ultimate microsoft
 ultimate news
 ultimate sp1
 ultimate stag
+ultimate-marketer
+ultimate-marketing
 ultimate-microsoft
 ultimate-news
 ultimate-sp1
 ultimate-stag
 ultimate-tab
+ultimatemarketer
+ultimatemarketing
 ultimatemicrosoft
 ultimatenews
 ultimatestag
@@ -41320,6 +41463,8 @@ without-invest
 without-prescript
 without-ya!
 withthose
+withwebtraffic
+withwebvisit
 wiuth a
 wiuth the
 wlasciwy blog
@@ -42237,6 +42382,7 @@ your it occup
 your kids is
 your lover
 your lung area
+your marketer
 your mode of describ
 your mode of explain
 your movie to put
@@ -42265,6 +42411,7 @@ your publish
 your rest room
 your self from
 your self inside
+your seo
 your sijte
 your site platform
 your site prior
@@ -42333,6 +42480,7 @@ your-iphone-regular
 your-it-occup
 your-loan
 your-lover
+your-marketer
 your-new-important
 your-new-stuff-regular
 your-next-blog
@@ -42348,6 +42496,7 @@ your-posts-is
 your-profile
 your-publish
 your-rest-room
+your-seo
 your-sijte
 your-site
 your-skin
@@ -42387,6 +42536,7 @@ yourfree
 yourloan
 yourls
 yourmail@
+yourmarketer
 yourpage
 yourpenis
 yourpersonal
@@ -42398,6 +42548,7 @@ yours nowaday
 yours-nowaday
 yourself beautiful
 yourself-beautiful
+yourseo
 yoursijte
 yoursite
 yoursuccess
@@ -43036,6 +43187,7 @@ zyvox
 ѕs
 и origin
 и-origin
+игорного
 игорное заведение
 игорное-заведение
 игровом клубе
@@ -43642,6 +43794,7 @@ zyvox
 хочется уз
 хочется-уз
 худеть
+хуй
 һa
 һe
 һi
