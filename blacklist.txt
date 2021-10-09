@@ -644,10 +644,12 @@ _zapat
 -eskorts-
 -eskorts.
 -eskorts/
+-essay-topic-
+-essay-topic.
+-essay-topic/
 -essay-topics-
+-essay-topics.
 -essay-topics/
--essay.
--essay/
 -essential-element
 -event.
 -event/
@@ -1546,8 +1548,7 @@ _zapat
 ?seo
 ?sexy
 ?shoe
-?shop
-?store
+?smartemail
 ?t_
 ?t-
 ?timber
@@ -1632,8 +1633,6 @@ _zapat
 .asics-
 .asics.
 .asics/
-.asp?smartemail
-.aspx?smartemail
 .asses-
 .asses.
 .asses/
@@ -1730,11 +1729,6 @@ _zapat
 .cause-
 .causes-
 .cf/chk/
-.cfm?smartemail
-.cfm/
-.cfmx
-.cgi
-.cgi?smartemail
 .chanel-
 .cheat-
 .cheat.
@@ -1928,11 +1922,6 @@ _zapat
 .hot-teen.
 .hot-teen/
 .hotblog.
-.htm?smartemail
-.htm/
-.html?smartemail
-.html/
-.htn
 .iapple-
 .iapple.
 .iapple/
@@ -1987,12 +1976,10 @@ _zapat
 .jpg.asp
 .jpg.cfm
 .jpg.cgi
+.jpg.ctr
 .jpg.htm
 .jpg.jsp
 .jpg.php
-.jpg/
-.jsp?smartemail
-.jsp/
 .kapselfibrose-
 .kapselfibrose.
 .kapselfibrose/
@@ -2123,8 +2110,6 @@ _zapat
 .phexin-
 .phexin.
 .phexin/
-.php?smartemail
-.php/
 .picload-
 .picload.
 .picload/
@@ -2642,6 +2627,8 @@ _zapat
 /00.cfm
 /0.cgi
 /00.cgi
+/0.ctr
+/00.ctr
 /0.htm
 /00.htm
 /0.jsp
@@ -2657,6 +2644,8 @@ _zapat
 /1.cfm
 /01.cgi
 /1.cgi
+/01.ctr
+/1.ctr
 /01.htm
 /1.htm
 /01.jsp
@@ -2670,6 +2659,8 @@ _zapat
 /2.cfm
 /02.cgi
 /2.cgi
+/02.ctr
+/2.ctr
 /02.htm
 /2.htm
 /02.jsp
@@ -2684,6 +2675,8 @@ _zapat
 /3.cfm
 /03.cgi
 /3.cgi
+/03.ctr
+/3.ctr
 /03.htm
 /3.htm
 /03.jsp
@@ -2698,6 +2691,8 @@ _zapat
 /4.cfm
 /04.cgi
 /4.cgi
+/04.ctr
+/4.ctr
 /04.htm
 /4.htm
 /04.jsp
@@ -2714,6 +2709,8 @@ _zapat
 /5.cfm
 /05.cgi
 /5.cgi
+/05.ctr
+/5.ctr
 /05.htm
 /5.htm
 /05.jsp
@@ -2724,36 +2721,42 @@ _zapat
 /10.asp
 /10.cfm
 /10.cgi
+/10.ctr
 /10.htm
 /10.jsp
 /10.php
 /11.asp
 /11.cfm
 /11.cgi
+/11.ctr
 /11.htm
 /11.jsp
 /11.php
 /12.asp
 /12.cfm
 /12.cgi
+/12.ctr
 /12.htm
 /12.jsp
 /12.php
 /13.asp
 /13.cfm
 /13.cgi
+/13.ctr
 /13.htm
 /13.jsp
 /13.php
 /14.asp
 /14.cfm
 /14.cgi
+/14.ctr
 /14.htm
 /14.jsp
 /14.php
 /15.asp
 /15.cfm
 /15.cgi
+/15.ctr
 /15.htm
 /15.jsp
 /15.php
@@ -2797,6 +2800,7 @@ _zapat
 /adclick.aspx?
 /adclick.cfm?
 /adclick.cgi?
+/adclick.ctr?
 /adclick.htm?
 /adclick.html?
 /adclick.jsp?
@@ -2902,6 +2906,7 @@ _zapat
 /away.aspx?
 /away.cfm?
 /away.cgi?
+/away.ctr?
 /away.htm?
 /away.html?
 /away.jsp?
@@ -2915,10 +2920,28 @@ _zapat
 /bag.sh/
 /bags/
 /baidu.
-/banner-
-/banner.
-/banners-
-/banners.
+/banner?
+/banner.asp?
+/banner.aspx?
+/banner.cfm?
+/banner.cgi?
+/banner.ctr?
+/banner.htm?
+/banner.html?
+/banner.jsp?
+/banner.php?
+/banner/?
+/banners?
+/banners.asp?
+/banners.aspx?
+/banners.cfm?
+/banners.cgi?
+/banners.ctr?
+/banners.htm?
+/banners.html?
+/banners.jsp?
+/banners.php?
+/banners/?
 /bazar-
 /bazar.
 /bbqr.me
@@ -3023,6 +3046,7 @@ _zapat
 /bye.aspx?
 /bye.cfm?
 /bye.cgi?
+/bye.ctr?
 /bye.htm?
 /bye.html?
 /bye.jsp?
@@ -3205,6 +3229,7 @@ _zapat
 /cs.aspx?
 /cs.cfm?
 /cs.cgi?
+/cs.ctr?
 /cs.htm?
 /cs.html?
 /cs.jsp?
@@ -3257,6 +3282,7 @@ _zapat
 /director.aspx?
 /director.cfm?
 /director.cgi?
+/director.ctr?
 /director.htm?
 /director.html?
 /director.jsp?
@@ -3337,7 +3363,12 @@ _zapat
 /eskorts-
 /eskorts.
 /eskorts/
+/essay-topic-
+/essay-topic.
+/essay-topic/
 /essay-topics-
+/essay-topics.
+/essay-topics/
 /event-
 /event.
 /executive-
@@ -3346,6 +3377,7 @@ _zapat
 /exit.aspx?
 /exit.cfm?
 /exit.cgi?
+/exit.ctr?
 /exit.htm?
 /exit.html?
 /exit.jsp?
@@ -3405,6 +3437,7 @@ _zapat
 /forwarder.aspx?
 /forwarder.cfm?
 /forwarder.cgi?
+/forwarder.ctr?
 /forwarder.htm?
 /forwarder.html?
 /forwarder.jsp?
@@ -3418,6 +3451,7 @@ _zapat
 /frame.aspx?
 /frame.cfm?
 /frame.cgi?
+/frame.ctr?
 /frame.htm?
 /frame.html?
 /frame.jsp?
@@ -3458,11 +3492,23 @@ _zapat
 /gh0/
 /gh1/
 /glowna.
+/go_url?
+/go_url.asp?
+/go_url.aspx?
+/go_url.cfm?
+/go_url.cgi?
+/go_url.ctr?
+/go_url.htm?
+/go_url.html?
+/go_url.jsp?
+/go_url.php?
+/go_url/?
 /go?
 /go.asp?
 /go.aspx?
 /go.cfm?
 /go.cgi?
+/go.ctr?
 /go.htm?
 /go.html?
 /go.jsp?
@@ -3476,21 +3522,45 @@ _zapat
 /good.
 /goose/
 /got.by
+/goto_url?
+/goto_url.asp?
+/goto_url.aspx?
+/goto_url.cfm?
+/goto_url.cgi?
+/goto_url.ctr?
+/goto_url.htm?
+/goto_url.html?
+/goto_url.jsp?
+/goto_url.php?
+/goto_url/?
 /goto?
 /goto.asp?
 /goto.aspx?
 /goto.cfm?
 /goto.cgi?
+/goto.ctr?
 /goto.htm?
 /goto.html?
 /goto.jsp?
 /goto.php?
 /goto/?
+/gotourl?
+/gotourl.asp?
+/gotourl.aspx?
+/gotourl.cfm?
+/gotourl.cgi?
+/gotourl.ctr?
+/gotourl.htm?
+/gotourl.html?
+/gotourl.jsp?
+/gotourl.php?
+/gotourl/?
 /gourl?
 /gourl.asp?
 /gourl.aspx?
 /gourl.cfm?
 /gourl.cgi?
+/gourl.ctr?
 /gourl.htm?
 /gourl.html?
 /gourl.jsp?
@@ -3603,6 +3673,7 @@ _zapat
 /index.aspx?/
 /index.cfm?/
 /index.cgi?/
+/index.ctr?/
 /index.htm?/
 /index.html?/
 /index.jsp?/
@@ -3663,6 +3734,7 @@ _zapat
 /jump.aspx?
 /jump.cfm?
 /jump.cgi?
+/jump.ctr?
 /jump.htm?
 /jump.html?
 /jump.jsp?
@@ -3673,6 +3745,7 @@ _zapat
 /jumplink.aspx?
 /jumplink.cfm?
 /jumplink.cgi?
+/jumplink.ctr?
 /jumplink.htm?
 /jumplink.html?
 /jumplink.jsp?
@@ -3707,6 +3780,7 @@ _zapat
 /klik.aspx?
 /klik.cfm?
 /klik.cgi?
+/klik.ctr?
 /klik.htm?
 /klik.html?
 /klik.jsp?
@@ -3758,6 +3832,7 @@ _zapat
 /link.aspx?
 /link.cfm?
 /link.cgi?
+/link.ctr?
 /link.htm?
 /link.html?
 /link.jsp?
@@ -3776,12 +3851,24 @@ _zapat
 /litecoin-
 /litecoin.
 /litecoin/
+/lnkcnt?
+/lnkcnt.asp?
+/lnkcnt.aspx?
+/lnkcnt.cfm?
+/lnkcnt.cgi?
+/lnkcnt.ctr?
+/lnkcnt.htm?
+/lnkcnt.html?
+/lnkcnt.jsp?
+/lnkcnt.php?
+/lnkcnt/?
 /loans
 /logout?
 /logout.asp?
 /logout.aspx?
 /logout.cfm?
 /logout.cgi?
+/logout.ctr?
 /logout.htm?
 /logout.html?
 /logout.jsp?
@@ -3815,6 +3902,7 @@ _zapat
 /m.aspx?
 /m.cfm?
 /m.cgi?
+/m.ctr?
 /m.htm?
 /m.html?
 /m.jsp?
@@ -3832,6 +3920,7 @@ _zapat
 /mainframe.aspx?
 /mainframe.cfm?
 /mainframe.cgi?
+/mainframe.ctr?
 /mainframe.htm?
 /mainframe.html?
 /mainframe.jsp?
@@ -3966,6 +4055,7 @@ _zapat
 /optout.aspx?
 /optout.cfm?
 /optout.cgi?
+/optout.ctr?
 /optout.htm?
 /optout.html?
 /optout.jsp?
@@ -3979,6 +4069,7 @@ _zapat
 /out.aspx?
 /out.cfm?
 /out.cgi?
+/out.ctr?
 /out.htm?
 /out.html?
 /out.jsp?
@@ -3992,6 +4083,7 @@ _zapat
 /outlink.aspx?
 /outlink.cfm?
 /outlink.cgi?
+/outlink.ctr?
 /outlink.htm?
 /outlink.html?
 /outlink.jsp?
@@ -4007,6 +4099,7 @@ _zapat
 /p.aspx?
 /p.cfm?
 /p.cgi?
+/p.ctr?
 /p.htm?
 /p.html?
 /p.jsp?
@@ -4152,6 +4245,7 @@ _zapat
 /r.aspx?
 /r.cfm?
 /r.cgi?
+/r.ctr?
 /r.htm?
 /r.html?
 /r.jsp?
@@ -4171,6 +4265,7 @@ _zapat
 /rank.aspx?
 /rank.cfm?
 /rank.cgi?
+/rank.ctr?
 /rank.htm?
 /rank.html?
 /rank.jsp?
@@ -4187,6 +4282,7 @@ _zapat
 /rdr.aspx?
 /rdr.cfm?
 /rdr.cgi?
+/rdr.ctr?
 /rdr.htm?
 /rdr.html?
 /rdr.jsp?
@@ -4201,6 +4297,7 @@ _zapat
 /reauexit.aspx?
 /reauexit.cfm?
 /reauexit.cgi?
+/reauexit.ctr?
 /reauexit.htm?
 /reauexit.html?
 /reauexit.jsp?
@@ -4256,6 +4353,7 @@ _zapat
 /rk.aspx?
 /rk.cfm?
 /rk.cgi?
+/rk.ctr?
 /rk.htm?
 /rk.html?
 /rk.jsp?
@@ -4305,6 +4403,7 @@ _zapat
 /share.aspx?
 /share.cfm?
 /share.cgi?
+/share.ctr?
 /share.htm?
 /share.html?
 /share.jsp?
@@ -4498,6 +4597,7 @@ _zapat
 /trace.aspx?
 /trace.cfm?
 /trace.cgi?
+/trace.ctr?
 /trace.htm?
 /trace.html?
 /trace.jsp?
@@ -4508,6 +4608,7 @@ _zapat
 /track.aspx?
 /track.cfm?
 /track.cgi?
+/track.ctr?
 /track.htm?
 /track.html?
 /track.jsp?
@@ -4545,6 +4646,7 @@ _zapat
 /url.aspx?
 /url.cfm?
 /url.cgi?
+/url.ctr?
 /url.htm?
 /url.html?
 /url.jsp?
@@ -4584,6 +4686,7 @@ _zapat
 /visit.aspx?
 /visit.cfm?
 /visit.cgi?
+/visit.ctr?
 /visit.htm?
 /visit.html?
 /visit.jsp?
@@ -4749,6 +4852,7 @@ _zapat
 +.asp
 +.cfm
 +.cgi
++.ctr
 +.htm
 +.jsp
 +.php
@@ -5557,6 +5661,7 @@ $sixty
 404.asp
 404.cfm
 404.cgi
+404.ctr
 404.htm
 404.jsp
 404.php
@@ -5741,6 +5846,8 @@ a0.asp
 a00.asp
 a0.cfm
 a00.cfm
+a0.ctr
+a00.ctr
 a0.htm
 a00.htm
 a0.jsp
@@ -5752,6 +5859,8 @@ a1.asp
 a01.cfm
 a1.cfm
 a1.co
+a01.ctr
+a1.ctr
 a01.htm
 a1.htm
 a01.jsp
@@ -5762,6 +5871,8 @@ a02.asp
 a2.asp
 a02.cfm
 a2.cfm
+a02.ctr
+a2.ctr
 a02.htm
 a2.htm
 a02.jsp
@@ -5774,6 +5885,8 @@ a03.asp
 a3.asp
 a03.cfm
 a3.cfm
+a03.ctr
+a3.ctr
 a03.htm
 a3.htm
 a03.jsp
@@ -5784,6 +5897,8 @@ a04.asp
 a4.asp
 a04.cfm
 a4.cfm
+a04.ctr
+a4.ctr
 a04.htm
 a4.htm
 a04.jsp
@@ -5794,6 +5909,8 @@ a05.asp
 a5.asp
 a05.cfm
 a5.cfm
+a05.ctr
+a5.ctr
 a05.htm
 a5.htm
 a05.jsp
@@ -5804,6 +5921,8 @@ a06.asp
 a6.asp
 a06.cfm
 a6.cfm
+a06.ctr
+a6.ctr
 a06.htm
 a6.htm
 a06.jsp
@@ -5814,6 +5933,8 @@ a07.asp
 a7.asp
 a07.cfm
 a7.cfm
+a07.ctr
+a7.ctr
 a07.htm
 a7.htm
 a07.jsp
@@ -5824,6 +5945,8 @@ a08.asp
 a8.asp
 a08.cfm
 a8.cfm
+a08.ctr
+a8.ctr
 a08.htm
 a8.htm
 a08.jsp
@@ -5834,6 +5957,8 @@ a09.asp
 a9.asp
 a09.cfm
 a9.cfm
+a09.ctr
+a9.ctr
 a09.htm
 a9.htm
 a09.jsp
@@ -6211,6 +6336,7 @@ adlive
 admin of this site
 admin.asp
 admin.cfm
+admin.ctr
 admin.htm
 admin.jsp
 admin.php
@@ -6428,6 +6554,7 @@ aereas-barata
 aéreas-barata
 aff.asp
 aff.cfm
+aff.ctr
 aff.htm
 aff.php
 affair date
@@ -6500,6 +6627,7 @@ afl-replic
 afl-shop
 afl.asp
 afl.cfm
+afl.ctr
 afl.htm
 afl.jsp
 afl.php
@@ -6794,6 +6922,7 @@ amazon-lider
 amazon.asp
 amazon.cfm
 amazon.cm
+amazon.ctr
 amazon.htm
 amazon.jsp
 amazon.php
@@ -7133,6 +7262,7 @@ app-nana-sync
 app.asp
 app.cfm
 app.cheap
+app.ctr
 app.htm
 app.jsp
 app.lk
@@ -7833,6 +7963,8 @@ b0.asp
 b00.asp
 b0.cfm
 b00.cfm
+b0.ctr
+b00.ctr
 b0.htm
 b00.htm
 b0.jsp
@@ -7843,6 +7975,8 @@ b01.asp
 b1.asp
 b01.cfm
 b1.cfm
+b01.ctr
+b1.ctr
 b01.htm
 b1.htm
 b01.jsp
@@ -7853,6 +7987,8 @@ b02.asp
 b2.asp
 b02.cfm
 b2.cfm
+b02.ctr
+b2.ctr
 b02.htm
 b2.htm
 b02.jsp
@@ -7863,6 +7999,8 @@ b03.asp
 b3.asp
 b03.cfm
 b3.cfm
+b03.ctr
+b3.ctr
 b03.htm
 b3.htm
 b03.jsp
@@ -7873,6 +8011,8 @@ b04.asp
 b4.asp
 b04.cfm
 b4.cfm
+b04.ctr
+b4.ctr
 b04.htm
 b4.htm
 b04.jsp
@@ -7883,6 +8023,8 @@ b05.asp
 b5.asp
 b05.cfm
 b5.cfm
+b05.ctr
+b5.ctr
 b05.htm
 b5.htm
 b05.jsp
@@ -7893,6 +8035,8 @@ b06.asp
 b6.asp
 b06.cfm
 b6.cfm
+b06.ctr
+b6.ctr
 b06.htm
 b6.htm
 b06.jsp
@@ -7903,6 +8047,8 @@ b07.asp
 b7.asp
 b07.cfm
 b7.cfm
+b07.ctr
+b7.ctr
 b07.htm
 b7.htm
 b07.jsp
@@ -7913,6 +8059,8 @@ b08.asp
 b8.asp
 b08.cfm
 b8.cfm
+b08.ctr
+b8.ctr
 b08.htm
 b8.htm
 b08.jsp
@@ -7923,6 +8071,8 @@ b09.asp
 b9.asp
 b09.cfm
 b9.cfm
+b09.ctr
+b9.ctr
 b09.htm
 b9.htm
 b09.jsp
@@ -7984,6 +8134,7 @@ bag-online
 bag-out
 bag.asp
 bag.cfm
+bag.ctr
 bag.htm
 bag.jsp
 bag.php
@@ -8739,6 +8890,7 @@ betrueger dreck
 betrueger-dreck
 betruegerdreck
 betscript
+better essay writ
 better handling driving
 better-essay-writ
 better-service
@@ -11099,6 +11251,7 @@ casub.co
 catalog-tabak
 catalog.asp
 catalog.cfm
+catalog.ctr
 catalog.htm
 catalog.jsp
 catalog.php
@@ -11107,16 +11260,19 @@ catalog/tabak
 catalogo/preview
 catalogs.asp
 catalogs.cfm
+catalogs.ctr
 catalogs.htm
 catalogs.jsp
 catalogs.php
 catalogue.asp
 catalogue.cfm
+catalogue.ctr
 catalogue.htm
 catalogue.jsp
 catalogue.php
 catalogues.asp
 catalogues.cfm
+catalogues.ctr
 catalogues.htm
 catalogues.jsp
 catalogues.php
@@ -12817,10 +12973,10 @@ collections-shops
 collections-supply
 collegasintekst
 college persuasive
-college-essays
+college-essay
 college-loan
 college-persuasive
-collegeessays
+collegeessay
 collegeloan
 collezione celine
 collezione moncler
@@ -12859,51 +13015,61 @@ com/smf/ind
 com%2c
 com0.asp
 com0.cfm
+com0.ctr
 com0.htm
 com0.jsp
 com0.php
 com1.asp
 com1.cfm
+com1.ctr
 com1.htm
 com1.jsp
 com1.php
 com2.asp
 com2.cfm
+com2.ctr
 com2.htm
 com2.jsp
 com2.php
 com3.asp
 com3.cfm
+com3.ctr
 com3.htm
 com3.jsp
 com3.php
 com4.asp
 com4.cfm
+com4.ctr
 com4.htm
 com4.jsp
 com4.php
 com5.asp
 com5.cfm
+com5.ctr
 com5.htm
 com5.jsp
 com5.php
 com6.asp
 com6.cfm
+com6.ctr
 com6.htm
 com6.jsp
 com6.php
 com7.asp
 com7.cfm
+com7.ctr
 com7.htm
 com7.jsp
 com7.php
 com8.asp
 com8.cfm
+com8.ctr
 com8.htm
 com8.jsp
 com8.php
 com9.asp
 com9.cfm
+com9.ctr
 com9.htm
 com9.jsp
 com9.php
@@ -14464,6 +14630,7 @@ diet-suppl
 diet.asp
 diet.cfm
 diet.co
+diet.ctr
 diet.htm
 diet.jsp
 diet.php
@@ -15494,6 +15661,7 @@ email-starter
 email-vip
 email.asp
 email.cfm
+email.ctr
 email.htm
 email.jsp
 email.php
@@ -16295,6 +16463,7 @@ external_link
 external_url
 external-link
 external-url
+externallink
 externalurl
 externer_link
 externer-link
@@ -16936,6 +17105,7 @@ feature christs
 feature-christs
 feature.asp
 feature.cfm
+feature.ctr
 feature.htm
 feature.jsp
 feature.php
@@ -16945,6 +17115,7 @@ features christs
 features-christs
 features.asp
 features.cfm
+features.ctr
 features.htm
 features.jsp
 features.php
@@ -17300,6 +17471,7 @@ firma-reinigung
 firma-sprzata
 firma.asp
 firma.cfm
+firma.ctr
 firma.htm
 firma.jsp
 firma.php
@@ -18219,6 +18391,7 @@ fun-with-window
 fun88
 func.asp
 func.cfm
+func.ctr
 func.htm
 func.jsp
 func.php
@@ -19423,6 +19596,7 @@ goose-york
 goose-youth
 goose.asp
 goose.cfm
+goose.ctr
 goose.htm
 goose.jsp
 goose.php
@@ -19710,6 +19884,7 @@ great-blog-roll
 great-blog-you
 great-blogroll
 great-educational-post
+great-essay
 great-good
 great-homepage
 great-keep
@@ -20488,6 +20663,7 @@ helobonus
 help allow you
 help cry
 help essay
+help ged essay
 help help
 help open to you
 help tax
@@ -20497,6 +20673,7 @@ help-ged-essay
 help-tax
 help.asp
 help.cfm
+help.ctr
 help.htm
 help.jsp
 help.php
@@ -20655,6 +20832,8 @@ herrenmoncler
 herrentimber
 hesap premium
 hesap-premium
+hesaplama prog
+hesaplama-prog
 hete meid
 hete vrouw
 hete-meid
@@ -21152,6 +21331,7 @@ hot-tech
 hot-women-for
 hot.asp
 hot.cfm
+hot.ctr
 hot.hot
 hot.htm
 hot.jsp
@@ -21850,6 +22030,7 @@ informacyjne
 informakarpet
 informasjon.asp
 informasjon.cfm
+informasjon.ctr
 informasjon.htm
 informasjon.jsp
 informasjon.php
@@ -21868,6 +22049,7 @@ information-approximate
 information?i
 information.asp
 information.cfm
+information.ctr
 information.htm
 information.jsp
 information.php
@@ -21981,6 +22163,7 @@ insanity-journal
 insanity-workout
 insanity.asp
 insanity.cfm
+insanity.ctr
 insanity.htm
 insanity.jsp
 insanity.php
@@ -22367,6 +22550,7 @@ iphone-xs-lock
 iphone-you
 iphone.asp
 iphone.cfm
+iphone.ctr
 iphone.htm
 iphone.jsp
 iphone.php
@@ -22531,6 +22715,7 @@ italyshop
 italystore
 item.asp
 item.cfm
+item.ctr
 item.htm
 item.jsp
 item.php
@@ -22833,6 +23018,7 @@ jersey-soccer
 jersey-whole
 jersey.asp
 jersey.cfm
+jersey.ctr
 jersey.htm
 jersey.jsp
 jersey.php
@@ -24202,6 +24388,7 @@ letrozole
 lett you
 letter-template.asp
 letter-template.cfm
+letter-template.ctr
 letter-template.htm
 letter-template.jsp
 letter-template.psp
@@ -24222,6 +24409,7 @@ libido-health
 libidohealth
 libraries.asp
 libraries.cfm
+libraries.ctr
 libraries.htm
 libraries.jsp
 libraries.php
@@ -24229,11 +24417,13 @@ library family
 library-family
 library.asp
 library.cfm
+library.ctr
 library.htm
 library.jsp
 library.php
 librarys.asp
 librarys.cfm
+librarys.ctr
 librarys.htm
 librarys.jsp
 librarys.php
@@ -24561,6 +24751,7 @@ login-uk
 login-widget
 login.asp
 login.cfm
+login.ctr
 login.htm
 login.jsp
 login.php
@@ -24681,6 +24872,7 @@ longchamp-uk
 longchamp-yama
 longchamp.asp
 longchamp.cfm
+longchamp.ctr
 longchamp.htm
 longchamp.jsp
 longchamp.php
@@ -25250,6 +25442,7 @@ main longchamp
 main-longchamp
 main.asp
 main.cfm
+main.ctr
 main.htm
 main.jsp
 main.php
@@ -26095,12 +26288,14 @@ member hack
 member-hack
 member.asp
 member.cfm
+member.ctr
 member.htm
 member.jsp
 member.php
 memberhack
 memberlist.asp
 memberlist.cfm
+memberlist.ctr
 memberlist.htm
 memberlist.jsp
 memberlist.php
@@ -26109,6 +26304,7 @@ membership hack
 membership-hack
 membership.asp
 membership.cfm
+membership.ctr
 membership.htm
 membership.jsp
 membership.php
@@ -26508,6 +26704,7 @@ mlb-mlb
 mlb-shop
 mlb.asp
 mlb.cfm
+mlb.ctr
 mlb.htm
 mlb.jsp
 mlb.php
@@ -26593,6 +26790,7 @@ moderowany
 moduleinstance
 modules.asp
 modules.cfm
+modules.ctr
 modules.htm
 modules.jsp
 modules.php
@@ -26738,6 +26936,7 @@ moncler-westen
 moncler.arkis
 moncler.asp
 moncler.cfm
+moncler.ctr
 moncler.htm
 moncler.jsp
 moncler.php
@@ -26841,6 +27040,7 @@ money-with
 money: grab
 money.asp
 money.cfm
+money.ctr
 money.htm
 money.jsp
 money.php
@@ -26982,6 +27182,7 @@ mortgage-4u
 mortgage-loan-program
 mortgage.asp
 mortgage.cfm
+mortgage.ctr
 mortgage.htm
 mortgage.jsp
 mortgage.php
@@ -27644,6 +27845,7 @@ nba-sko
 nba-utah
 nba.asp
 nba.cfm
+nba.ctr
 nba.htm
 nba.jsp
 nba.php
@@ -27862,6 +28064,7 @@ nfl-replic
 nfl-shop
 nfl.asp
 nfl.cfm
+nfl.ctr
 nfl.htm
 nfl.jsp
 nfl.php
@@ -27874,6 +28077,7 @@ nflshop
 nfl중계
 nfr.asp
 nfr.cfm
+nfr.ctr
 nfr.htm
 nfr.jsp
 nfr.php
@@ -27905,6 +28109,7 @@ nhl-replic
 nhl-shop
 nhl.asp
 nhl.cfm
+nhl.ctr
 nhl.htm
 nhl.jsp
 nhl.php
@@ -28254,6 +28459,7 @@ nude-vid
 nude-wallpaper
 nude.asp
 nude.cfm
+nude.ctr
 nude.htm
 nude.jsp
 nude.php
@@ -28947,6 +29153,7 @@ online:look
 online:shop
 online.asp
 online.cfm
+online.ctr
 online.htm
 online.in
 online.jsp
@@ -29016,6 +29223,7 @@ onsale-
 onsale.asp
 onsale.cfm
 onsale.co
+onsale.ctr
 onsale.htm
 onsale.jsp
 onsale.php
@@ -31457,6 +31665,7 @@ presbyterian health
 presbyterian-health
 prescript.asp
 prescript.cfm
+prescript.ctr
 prescript.htm
 prescript.jsp
 prescript.php
@@ -31464,6 +31673,7 @@ prescription acne
 prescription-acne
 prescription.asp
 prescription.cfm
+prescription.ctr
 prescription.htm
 prescription.jsp
 prescription.php
@@ -32622,12 +32832,14 @@ redi-url
 redir.asp
 redir.cfm
 redir.cgi
+redir.ctr
 redir.htm
 redir.jsp
 redir.php
 redireccion.asp
 redireccion.cfm
 redireccion.cgi
+redireccion.ctr
 redireccion.htm
 redireccion.jsp
 redireccion.php
@@ -32636,24 +32848,28 @@ redirect-link
 redirect.asp
 redirect.cfm
 redirect.cgi
+redirect.ctr
 redirect.htm
 redirect.jsp
 redirect.php
 redirecter.asp
 redirecter.cfm
 redirecter.cgi
+redirecter.ctr
 redirecter.htm
 redirecter.jsp
 redirecter.php
 redirector.asp
 redirector.cfm
 redirector.cgi
+redirector.ctr
 redirector.htm
 redirector.jsp
 redirector.php
 redirects.asp
 redirects.cfm
 redirects.cgi
+redirects.ctr
 redirects.htm
 redirects.jsp
 redirects.php
@@ -33030,6 +33246,7 @@ repliquefemme
 repliquehomme
 reports.asp
 reports.cfm
+reports.ctr
 reports.htm
 reports.jsp
 reports.php
@@ -33102,7 +33319,13 @@ retro jord
 retro-jord
 retrojord
 return of this question
+return_link
+return_url
+return-link
+return-url
 return=http
+returnlink
+returnurl
 revenue master
 revenue-master
 reverse cell
@@ -33141,6 +33364,7 @@ review-youtube
 review.asp
 review.bl
 review.cfm
+review.ctr
 review.htm
 review.in
 review.jsp
@@ -33162,6 +33386,7 @@ reviews-youtube
 reviews.asp
 reviews.bl
 reviews.cfm
+reviews.ctr
 reviews.htm
 reviews.in
 reviews.jsp
@@ -33351,6 +33576,7 @@ rss kami
 rss kamu
 rss.asp
 rss.cfm
+rss.ctr
 rss.htm
 rss.jsp
 rss.php
@@ -33716,6 +33942,7 @@ salomon-run
 salomon-speedcross
 salomon.asp
 salomon.cfm
+salomon.ctr
 salomon.htm
 salomon.jsp
 salomon.php
@@ -33839,6 +34066,7 @@ scam store
 scam-store
 scam.asp
 scam.cfm
+scam.ctr
 scam.htm
 scam.in
 scam.jsp
@@ -34485,6 +34713,7 @@ sex-web
 sex-wyna
 sex.asp
 sex.cfm
+sex.ctr
 sex.htm
 sex.jsp
 sex.php
@@ -34605,6 +34834,7 @@ sexy-women
 sexy.asp
 sexy.cfm
 sexy.co
+sexy.ctr
 sexy.girl
 sexy.htm
 sexy.jsp
@@ -34866,6 +35096,7 @@ shoe-woman
 shoe-women
 shoe.asp
 shoe.cfm
+shoe.ctr
 shoe.htm
 shoe.jsp
 shoe.mobi
@@ -35191,6 +35422,7 @@ sincere-understand
 sinequan
 singapore.asp
 singapore.cfm
+singapore.ctr
 singapore.htm
 singapore.jsp
 singapore.php
@@ -35930,6 +36162,7 @@ spilivanie derevev
 spilivanie-derevev
 spip.asp
 spip.cfm
+spip.ctr
 spip.htm
 spip.jsp
 spip.php
@@ -37420,6 +37653,7 @@ thankyou for
 thankyou lots
 thankyou.asp
 thankyou.cfm
+thankyou.ctr
 thankyou.htm
 thankyou.jsp
 thankyou.php
@@ -37442,6 +37676,13 @@ that youre
 that-gia-re
 that-i-may-subscribe
 that-isnt
+that, great article
+that, great blog
+that, great page
+that, great paragraph
+that, great site
+that, great web
+that, great writing
 thatattempt
 thatgiare
 thatover
@@ -37823,6 +38064,7 @@ thjng
 thkuafnl
 thm.asp
 thm.cfm
+thm.ctr
 thm.htm
 thm.jsp
 thm.php
@@ -37908,6 +38150,7 @@ tht you
 thttp
 thumb.asp
 thumb.cfm
+thumb.ctr
 thumb.gif
 thumb.htm
 thumb.jpeg
@@ -37917,6 +38160,7 @@ thumb.php
 thumb.png
 thumbs.asp
 thumbs.cfm
+thumbs.ctr
 thumbs.gif
 thumbs.htm
 thumbs.jpeg
@@ -38386,6 +38630,7 @@ topfreecam
 topgame
 topia hack
 topia-hack
+topic in fact
 topic of blog
 topic of page
 topic of that
@@ -38738,6 +38983,7 @@ turtlehome
 turystyka
 tutorial.asp
 tutorial.cfm
+tutorial.ctr
 tutorial.htm
 tutorial.jsp
 tutorial.php
@@ -38971,6 +39217,7 @@ ugg-usa
 ugg-wom
 ugg.asp
 ugg.cfm
+ugg.ctr
 ugg.htm
 ugg.jsp
 ugg.php
@@ -39997,6 +40244,7 @@ vidéo-youtube
 video?this
 video.asp
 video.cfm
+video.ctr
 video.hoc
 video.htm
 video.jsp
@@ -40047,6 +40295,7 @@ videos-youtube
 vidéos-youtube
 videos.asp
 videos.cfm
+videos.ctr
 videos.htm
 videos.jsp
 videos.php
@@ -41332,6 +41581,7 @@ wiki/user
 wikisuck
 wikka.asp
 wikka.cfm
+wikka.ctr
 wikka.htm
 wikka.jsp
 wikka.php
@@ -42631,6 +42881,10 @@ yup this paragraph
 yur web
 yutyca
 yuuguu
+yuzde hesaplama
+yüzde hesaplama
+yuzde-hesaplama
+yuzdehesaplama
 yyou
 yyy
 ÿþ
@@ -42732,6 +42986,7 @@ zawiera-witamin
 zawieszki
 zboard.asp
 zboard.cfm
+zboard.ctr
 zboard.htm
 zboard.jsp
 zboard.php
@@ -43937,6 +44192,7 @@ zyvox
 بازی انفجار
 بست افلام
 بست,افلام
+بغایت مهمی
 بهاء و کيفيت
 بهاء-و-کيفيت
 بهترین
@@ -43973,6 +44229,7 @@ zyvox
 دانلود آهنگ
 دانلود فیلم سکسی
 دايت
+درمانی کلینیک
 دستگاه حضور
 دورات تدريب
 ديالى،علوم
@@ -43996,6 +44253,7 @@ zyvox
 شوف سبور
 طارد الحمام
 طلاق
+عاطفه مطلوب
 علاج الادمان
 علاجات طبيعية
 عملکرد ناپسندی
@@ -44042,6 +44300,7 @@ zyvox
 مراكز التدريب
 مسيار,زواج
 مشاهدة الافلام
+مشاوره خانواده
 معاهد تدريب
 مقاله و بلاگ
 منوعات حبيبة
