@@ -1275,6 +1275,7 @@ _zapat
 -somehack.
 -somehack/
 -speed-up-
+-sport.site
 -store.
 -store/
 -strona-
@@ -8911,12 +8912,16 @@ betterservice
 betting article
 betting news
 betting on mlb
+betting online
 betting script
 betting site
+betting website
 betting-article
 betting-news
+betting-online
 betting-script
 betting-site
+betting-website
 bettingscript
 bettor than
 between tthe
@@ -10779,7 +10784,9 @@ bxh-phap
 bxhphap
 bxox.in
 by all the opinion
+by experienced people
 by-dr-dre
+by-experienced-people
 bymean
 byo.co
 byt.es
@@ -22037,8 +22044,8 @@ informa karpet
 informa-karpet
 informacion de riesgo
 información de riesgo
-informacion sobre cookies
-información sobre cookies
+informacion sobre cookie
+información sobre cookie
 informacyjne
 informakarpet
 informasjon.asp
@@ -30029,7 +30036,10 @@ particularly great content
 particularly great paragraph
 partidos online
 partidos-online
+partner cookie
 partner-biz
+partner-cookie
+partnercookie
 partners reviews
 partners-reviews
 partnership to success
@@ -37630,7 +37640,9 @@ thai camp
 thai massage
 thai-camp
 thai-massage
+thailand betting
 thailand m88
+thailand-betting
 thailand-m88
 thailandm88
 thailove
@@ -40092,6 +40104,7 @@ very nice internet
 very nice:)
 very oone
 very packed location
+very smart person!
 very superb
 very valid
 very-best-gain
