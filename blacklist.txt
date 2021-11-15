@@ -1205,6 +1205,7 @@ _zapat
 -salvia-
 -scarpe-
 -search-engine
+-search.ir
 -searchengine
 -secret-
 -secret.
@@ -8351,7 +8352,13 @@ banprezzo
 banque parrainage
 banque-parrainage
 bansunglass
+banyak game
+banyak situs
+banyak-game
+banyak-situs
+banyaknya game
 banyaknya situs
+banyaknya-game
 banyaknya-situs
 báo giá máy
 bảo hiểm
@@ -10606,6 +10613,7 @@ buy snapchat
 buy soccer
 buy social account
 buy targeted
+buy telegram
 buy thesis
 buy tiktok
 buy toms
@@ -10688,6 +10696,7 @@ buy-soccer
 buy-social-account
 buy-soma
 buy-targeted
+buy-telegram
 buy-thesis
 buy-tiktok
 buy-toms
@@ -13424,6 +13433,7 @@ content-material
 content?.
 contents are masterpiece
 contents?.
+continentfal
 continually have got
 continue assim
 continue-assim
@@ -15626,6 +15636,7 @@ egypt-jers
 egyptjers
 ehttp
 eight %
+eigyht
 eine seite widmen
 einkommen
 ejaculate help
@@ -22033,10 +22044,13 @@ indoblackjack
 indocasino
 indonesia blackjack
 indonesia casino
+indonesia slot
 indonesia-blackjack
 indonesia-casino
+indonesia-slot
 indonesiablackjack
 indonesiacasino
+indonesiaslot
 indownload
 indre pengemark
 indre-pengemark
@@ -24634,6 +24648,7 @@ link download
 link exchang
 link issue
 link juice
+link logger
 link market
 link pyramid
 link redirect
@@ -24658,6 +24673,7 @@ link-download
 link-exchang
 link-issue
 link-juice
+link-logger
 link-market
 link-pyramid
 link-redirect
@@ -24692,6 +24708,7 @@ linkingseo
 linkissue
 linkjuice
 linklegend
+linklogger
 linkman
 linkmarket
 linkpyramid
@@ -27279,6 +27296,7 @@ moore-about
 more clash of
 more effective!
 more eventually
+more message here
 more of your article
 more of your blog
 more of your post
@@ -29162,6 +29180,7 @@ online gratis
 online gry
 online heel
 online hn
+online indonesia
 online internet
 online journ
 online life coach
@@ -29239,6 +29258,7 @@ online-gry
 online-guide-of
 online-heel
 online-hn
+online-indonesia
 online-internet
 online-invest
 online-journ
@@ -30406,6 +30426,7 @@ people about the topic
 people about this subject
 people about this topic
 people can deeply
+people eat music
 people for the subject
 people for the topic
 people for this subject
@@ -31776,6 +31797,7 @@ premarin
 premature ejac
 premature-ejac
 prematureejac
+premium anschluss
 premium anti
 premium cig
 premium digit
@@ -31785,6 +31807,7 @@ premium improve
 premium key
 premium out
 premium-account
+premium-anschluss
 premium-anti
 premium-cig
 premium-digit
@@ -32373,16 +32396,26 @@ punishment upon
 pupil loan
 pupil-loan
 puppy hating dan
+purchase facebook
 purchase generic
 purchase guilt
+purchase instagram
 purchase pitch
 purchase privilege
+purchase telegram
 purchase tiffany
+purchase tiktok
+purchase twitter
+purchase-facebook
 purchase-generic
 purchase-guilt
+purchase-instagram
 purchase-pitch
 purchase-privilege
+purchase-telegram
 purchase-tiffany
+purchase-tiktok
+purchase-twitter
 purchase!cock
 purchasegeneric
 purchases pitch
@@ -35734,11 +35767,14 @@ situs ilegal
 situs judi
 situs poker
 situs qq
+situs slot
 situs togel
+situs_slot
 situs-ilegal
 situs-judi
 situs-poker
 situs-qq
+situs-slot
 situs-togel
 situsqq
 siutpd
@@ -35839,9 +35875,16 @@ slippers-khaki
 slipperskhaki
 slme genuine
 slongchamp
+slot gacor
 slot machine
+slot online
+slot_gacor
+slot-gacor
 slot-machine
+slot-online
+slotgacor
 slotmachine
+slotonline
 slots blackjack
 slots machine
 slots rtp
@@ -39655,7 +39698,9 @@ unique-broker
 unique-interact
 uniquebroker
 uniqueinteract
+united stattes
 unitedidesign
+unitted states
 universal key
 universal-key
 universalkey
@@ -41252,7 +41297,6 @@ webpage for any
 webpage from
 webpage is loading
 webpage it is
-webpage link
 webpage on regular
 webpage post
 webpage thank
@@ -41262,7 +41306,6 @@ webpage you
 webpage-for-any
 webpage-from
 webpage-is-loading
-webpage-link
 webpage-visit
 webpage-you
 webpage;
@@ -41274,6 +41317,7 @@ webpage's post
 webpage’s article
 webpage’s blog
 webpage’s post
+webpagelink
 webpages article
 webpages blog
 webpages post
@@ -41393,6 +41437,7 @@ website’s article
 website’s post
 website}
 website1
+websitelink
 websitelook
 websitenet
 websiteonline
