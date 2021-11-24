@@ -672,6 +672,9 @@ _zapat
 -femdom-
 -femdom.
 -femdom/
+-file-word-
+-file-word.
+-file-word/
 -filmi
 -filmy
 -filosov-
@@ -1853,6 +1856,8 @@ _zapat
 .femdom-
 .femdom.
 .femdom/
+.file-word-
+.file-word.
 .filmi-
 .filmy-
 .filosov-
@@ -3415,6 +3420,9 @@ _zapat
 /fendi.
 /ferragamo-
 /ferragamo.
+/file-word-
+/file-word.
+/file-word/
 /file/
 /files/
 /filmi
@@ -6066,6 +6074,8 @@ abonnez like
 abonnez partage
 about blog
 about home is
+about iran from
+about iraq from
 about marijuana
 about on the blog
 about on the internet
@@ -8242,6 +8252,10 @@ baguebulgar
 baguebvlgar
 bahaya lemak
 bahaya-lemak
+bahis giris
+bahis giriş
+bahis-giris
+bahisgiris
 baikal extreme
 baikal rest
 baikal-extreme
@@ -9341,6 +9355,7 @@ blog if you
 blog is a center
 blog is a centre
 blog is actually
+blog is extreme
 blog is fastidious
 blog is invaluable
 blog is loading
@@ -10483,6 +10498,8 @@ bursamasoz
 bursasite
 bursatransfer
 bursted out laugh
+bus upholstery
+bus-upholstery
 busca sexo
 busca-sexo
 buscando soluções
@@ -11002,6 +11019,14 @@ camisetas-personalizada
 camisetas-polo
 camisetashollis
 camisetaspolo
+camper cabinet
+camper lighting
+camper upgrade
+camper windshield
+camper-cabinet
+camper-lighting
+camper-upgrade
+camper-windshield
 campervanhire
 camsex
 can assist you have
@@ -13239,7 +13264,9 @@ commerceretail
 commercesale
 commercewhole
 commercial office move
+commercial slideout
 commercial-office-move
+commercial-slideout
 commerical lender
 commerical-lender
 commericallender
@@ -27359,7 +27386,15 @@ motivation-book
 motor whole
 motor-whole
 motorhome cabinet
+motorhome lighting
+motorhome mechanic
+motorhome upgrade
+motorhome windshield
 motorhome-cabinet
+motorhome-lighting
+motorhome-mechanic
+motorhome-upgrade
+motorhome-windshield
 mount sex
 mount-sex
 mountsex
@@ -36490,7 +36525,11 @@ sprawdzonenarzędzia
 sprinkler tune
 sprinkler-tune
 sprinklertune
+sprinter awning
+sprinter body
 sprinter repair
+sprinter-awning
+sprinter-body
 sprinter-repair
 sprzataniu powier
 sprzataniu-powier
@@ -40093,7 +40132,9 @@ value-site
 value-web
 valueble
 valueserver
+van counter
 van washing
+van-counter
 van-washing
 vanilla balance
 vanilla gift
