@@ -48,6 +48,7 @@
 /is.gd
 /ity.im
 /j.mp
+/jl.ms
 /just.as
 /l.linklyhq.com
 /l2u.su
