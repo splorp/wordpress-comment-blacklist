@@ -98,6 +98,7 @@
 /tnyhs.com
 /to.ly
 /tr.im
+/url.kn
 /urlms.co
 /urlr.be
 /utiny.ml

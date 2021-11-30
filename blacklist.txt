@@ -4694,6 +4694,7 @@ _zapat
 /url.htm?
 /url.html?
 /url.jsp?
+/url.kn
 /url.php?
 /url/
 /url/?
