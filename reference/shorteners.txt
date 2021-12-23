@@ -59,6 +59,7 @@
 /nblo.gs
 /oke.io
 /onip.it
+/ov.ms
 /ow.ly
 /owl.li
 /owtf.co.uk
