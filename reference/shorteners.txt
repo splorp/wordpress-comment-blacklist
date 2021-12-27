@@ -86,6 +86,7 @@
 /stan.to
 /stfly.me
 /su0.ru
+/surl.li
 /swish.st
 /t.co
 /tgi.link
