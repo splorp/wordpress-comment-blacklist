@@ -16632,9 +16632,7 @@ excessively skill
 excessively-skill
 exchange buying and selling
 exchange link
-exchange paysafecard
 exchange-link
-exchange-paysafecard
 exchangelink
 exchanging link
 exchanging-link
@@ -18250,6 +18248,7 @@ free crypto
 free csgo
 free diamond
 free download
+free ecard
 free escort
 free eskort
 free facebook
@@ -18324,6 +18323,7 @@ free-crypto
 free-csgo
 free-diamond
 free-download
+free-ecard
 free-escort
 free-eskort
 free-facebook
@@ -18412,6 +18412,7 @@ freedom-review
 freedomevaluation
 freedomreview
 freedownload
+freeecard
 freeescort
 freeeskort
 freefor.co
@@ -22582,7 +22583,6 @@ instant blog
 instant cash
 instant loan
 instant pay
-instant paysafecard
 instant traff
 instant web
 instant week
@@ -22591,7 +22591,6 @@ instant-blog
 instant-cash
 instant-loan
 instant-pay
-instant-paysafecard
 instant-traff
 instant-web
 instant-week
@@ -24903,6 +24902,7 @@ link to their online
 link to your online
 link track
 link vault
+link_go
 link-bait
 link-build
 link-camp
@@ -24912,6 +24912,7 @@ link-creati
 link-directory
 link-download
 link-exchang
+link-go
 link-issue
 link-juice
 link-logger
@@ -30577,10 +30578,7 @@ paypalcash
 paypall
 paypalmoney
 payroll-calc
-paysafecard exchang
-paysafecard instant
-paysafecard-exchang
-paysafecard-instant
+paysafecard
 pazarlayan pezevengin
 pazarlayan-pezevengin
 pbrolme
@@ -33342,7 +33340,9 @@ redireccion.htm
 redireccion.jsp
 redireccion.php
 redirect_link
+redirect_to
 redirect-link
+redirect-to
 redirect.asp
 redirect.cfm
 redirect.cgi
@@ -42336,7 +42336,10 @@ winterjassen
 wirh you
 wise quote
 wise-quote
+wish online
+wish-online
 wishing for blog
+wishonline
 wispy lash
 wispy-lash
 witamina jest
@@ -45027,6 +45030,7 @@ zyvox
 موقع سناره
 موقع صنديد
 نجار بالدما
+نقد فیلم
 نمو الشعر
 نيوز , اخبار
 نيوز اخبار
