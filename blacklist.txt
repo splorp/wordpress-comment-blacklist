@@ -3723,6 +3723,7 @@ _zapat
 /insurance-
 /insurance.
 /internal/
+/inx.lv
 /ip/
 /iphone-s-
 /iphone-s.

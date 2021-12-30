@@ -45,6 +45,7 @@
 /huit.re
 /hyperurl.co
 /hypr.ink
+/inx.lv
 /is.gd
 /ity.im
 /j.mp
