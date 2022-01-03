@@ -1279,6 +1279,9 @@ _zapat
 -somehack.
 -somehack/
 -speed-up-
+-spielideen-
+-spielideen.
+-spielideen/
 -sport.site
 -store.
 -store/
@@ -2350,6 +2353,9 @@ _zapat
 .space/femme
 .space/free
 .space/homme
+.spielideen-
+.spielideen.
+.spielideen/
 .spruz.
 .stream/wiki
 .su,
@@ -4512,6 +4518,9 @@ _zapat
 /specialprojects.
 /specials-
 /specials.
+/spielideen-
+/spielideen.
+/spielideen/
 /stan.to
 /start.
 /stats/
@@ -8827,7 +8836,9 @@ bermutu-ting
 berracom.ph
 besstet
 best anal
+best article about
 best birthday bouquet
+best blog about
 best blogging
 best bodycon
 best booster
@@ -8853,7 +8864,9 @@ best mcm
 best nautical decor
 best nautical home
 best online
+best page about
 best pant
+best paragraph about
 best payment
 best places botox
 best porn
@@ -8864,11 +8877,12 @@ best sandal
 best sex
 best shapewear
 best shoe price
+best site about
 best suppl
 best tummy
 best vape
 best vpn service
-best web
+best web about
 best webmaster
 best wordpress
 best writing comp
@@ -9384,6 +9398,7 @@ blog ::
 blog ..
 blog (wordpress
 blog a menudo
+blog about animal
 blog admin
 blog article
 blog based
@@ -35425,6 +35440,8 @@ seznamce
 sg-launch
 sgames.co
 sglaunch
+shade theme
+shade-theme
 shag.ru
 shame on google
 shanghai date
@@ -36021,6 +36038,7 @@ site !
 site .
 site (:
 site =)
+site about animal
 site amor
 site and comment
 site and save
@@ -41599,6 +41617,7 @@ wear-shapewear
 wearinbed
 weave-hair
 weavehair
+web about animal
 web anal
 web based college
 web blog;
