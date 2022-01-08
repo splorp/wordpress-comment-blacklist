@@ -1340,7 +1340,7 @@ _zapat
 -tatuagens-
 -tatuagens.
 -tatuagens/
--tax-attorney
+-tax-attorn
 -tax-relief
 -tax-settlement
 -teen-in-
@@ -4577,7 +4577,7 @@ _zapat
 /tatuagens-
 /tatuagens.
 /tatuagens/
-/tax-attorney
+/tax-attorn
 /telecharger-
 /telecharger.
 /temp/
@@ -5215,6 +5215,7 @@ $sixty
 1the-best
 1title
 1to1
+1vine
 1xbet
 1you
 2 appli
@@ -5305,8 +5306,9 @@ $sixty
 3the best
 3the-best
 3title
-3win8
-3ww3
+3twenty
+3win
+3ww
 3you
 4 cash
 4 casino
@@ -6149,11 +6151,11 @@ acai-
 acai-diet
 acai.diet
 acaiberry
-accident attorney
+accident attorn
 accident lawyer
-accident-attorney
+accident-attorn
 accident-lawyer
-accidentattorney
+accidentattorn
 accidentlawyer
 according you
 according-you
@@ -8837,6 +8839,7 @@ berracom.ph
 besstet
 best anal
 best article about
+best attorn
 best birthday bouquet
 best blog about
 best blogging
@@ -8890,6 +8893,7 @@ best writing serv
 best you can see
 best_small_
 best-anal
+best-attorn
 best-blogging
 best-bodycon
 best-booster
@@ -8950,6 +8954,7 @@ best4
 bestad.
 bestads.
 bestairjordan
+bestattorn
 bestblog
 bestbut
 bestcartier
@@ -13569,11 +13574,11 @@ construct chicken
 construct-chicken
 constructionn
 construtor
-consultation attorney
+consultation attorn
 consultation lawyer
-consultation-attorney
+consultation-attorn
 consultation-lawyer
-consultationattorney
+consultationattorn
 consultationlawyer
 consulte nuestro servicio
 consumer buzz
@@ -14526,9 +14531,9 @@ dealuk
 dealus
 dear-lover
 dearlover
-death attorney
+death attorn
 death erotic
-death-attorney
+death-attorn
 death-erotic
 deatherotic
 debt money
@@ -15599,6 +15604,10 @@ duchesssatin
 dude.de
 dudes.de
 dugg some
+dui attorn
+dui lawyer
+dui-attorn
+dui-lawyer
 dulichtrongoi
 dulichtuxu
 dummytest
@@ -15643,8 +15652,8 @@ dvd-asphyx
 dvd-erotic
 dvdbox
 dvdrip
-dwi-attorney
-dwiattorney
+dwi-attorn
+dwiattorn
 dwn.linksind.
 dylongfa
 dynamic advert
@@ -16562,7 +16571,7 @@ every info
 every stuff
 every wearer
 every-advert
-every-great-attorney
+every-great-attorn
 every-info
 every-leg
 every-light
@@ -22468,20 +22477,20 @@ initial traffic?
 injection fact
 injection-fact
 injectionfact
-injuries attorney
+injuries attorn
 injuries insur
 injuries lawyer
-injuries-attorney
+injuries-attorn
 injuries-insur
 injuries-lawyer
-injuriesattorney
+injuriesattorn
 injuriesinsur
 injurieslawyer
-injury attorney
+injury attorn
 injury lawyer
-injury-attorney
+injury-attorn
 injury-lawyer
-injuryattorney
+injuryattorn
 injurylawyer
 inn accordance
 inna cena
@@ -26082,12 +26091,14 @@ mariageorig
 mariages simplif
 mariages-simplif
 marihuana
+marijuana attorn
 marijuana bene
 marijuana etf
 marijuana fact
 marijuana lawyer
 marijuana sample
 marijuana strain
+marijuana-attorn
 marijuana-bene
 marijuana-etf
 marijuana-fact
@@ -36252,7 +36263,9 @@ sky-pharm
 skypharm
 skyrocket you
 skyrocket-you
+sleazy attorn
 sleazy lawyer
+sleazy-attorn
 sleazy-lawyer
 sledge baseball
 sledge bat
@@ -39401,15 +39414,17 @@ tracking-a-phone
 tradaoquan
 trade_you
 trading-method
+traffic attorn
 traffic bot
 traffic exchang
 traffic ivy
-traffic lawyer cost
+traffic lawyer
 traffic software
+traffic-attorn
 traffic-bot
 traffic-exchang
 traffic-ivy
-traffic-lawyer-cost
+traffic-lawyer
 traffic-software
 trafficbot
 trafficivy
