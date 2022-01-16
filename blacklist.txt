@@ -6539,6 +6539,7 @@ advert market
 advert on this
 advert on your
 advert research
+advert track
 advert_
 advert-crack
 advert-flag
@@ -6547,6 +6548,7 @@ advert-live
 advert-market
 advert-research
 advert-sage
+advert-track
 advert-wiki
 advertise market
 advertise on this
@@ -6614,6 +6616,7 @@ adverts-flag
 adverts-live
 adverts-sage
 adverts-wiki
+adverttrack
 advice for this topic
 advice on this topic
 advice online
@@ -12357,13 +12360,18 @@ check out my sitte
 check out my web
 check out new post
 check out the blog
+check out the link
 check out the page
 check out the site
 check out the sitte
 check out the web
+check out this link
+check out this site
 check the ideas
+check this blog
 check this ideas
 check this link
+check this site
 check this video
 check us out guy
 check weblog
@@ -12376,7 +12384,13 @@ check-caller
 check-out out
 check-out-new-post
 check-out-out
+check-out-the-link
+check-out-the-site
+check-out-this-link
+check-out-this-site
+check-this-blog
 check-this-link
+check-this-site
 check-this-video
 check-weblog
 check-who-call
@@ -13658,6 +13672,8 @@ conydot
 cooker ninja
 cooker-ninja
 cookerninja
+cooking fever free
+cooking-fever-free
 cool article
 cool blog
 cool post
@@ -14610,7 +14626,9 @@ deliverresult
 delivers result
 delivers-result
 deliversresult
+delivery flower
 delivery philip
+delivery-flower
 delivery-philip
 delta-marketing
 deltamarketing
@@ -14817,6 +14835,7 @@ devlindesign
 dewapoker
 dewelop
 df!
+dfsfds
 dfy suite
 dfy-suite
 dfysuite
@@ -16088,11 +16107,13 @@ enhancementpill
 enhancepill
 enhanceyou
 enhttp
+enjoy mobile game
 enjoy your blog
 enjoy your page
 enjoy your post
 enjoy your site
 enjoy your web
+enjoy-mobile-game
 enjoy-more
 enjoying by these
 enjoying by this
@@ -16778,10 +16799,13 @@ extremely ample
 extremely broad for
 extremely much
 extremely superb
+extremely university
 extremely valid point
+extremely_university
 extremely-ample
 extremely-much
 extremely-superb
+extremely-university
 extremely}
 extremley
 extremrly
@@ -17530,6 +17554,8 @@ fetishman
 fetishmen
 fetishsex
 fetishwom
+fever free gem
+fever-free-gem
 few web log
 few web page
 few web site
@@ -17886,8 +17912,12 @@ flo-wiki
 floating-board
 floatingboard
 floridaflee
+flower tomorrow
+flower-tomorrow
+flowers tomorrow
 flowers-on-line
 flowers-online
+flowers-tomorrow
 floxacin
 fluccun
 fluconazole
@@ -18166,7 +18196,9 @@ forteinfo
 fortemuscle
 forteparafon
 forthcoming post
+forthcoming submit
 forthcoming-post
+forthcoming-submit
 fortnite aimbot
 fortnite cheat
 fortnite hack
@@ -19212,6 +19244,7 @@ get blog
 get bytecoin
 get face
 get fastidious
+get free gem
 get fuck
 get hold this
 get know how
@@ -19244,6 +19277,7 @@ get-cash
 get-face
 get-fantastic
 get-fastidious
+get-free-gem
 get-fuck
 get-hermes
 get-know-how
@@ -20073,6 +20107,8 @@ granny porn
 granny-porn
 grannyporn
 grateest
+gratifying operate
+gratifying-operate
 gratis coin
 gratis online
 gratis sex
@@ -23341,6 +23377,7 @@ jassen-out
 jassendames
 jassenneder
 jassenout
+jayngarl
 jazz jers
 jazz-jers
 jazzjers
@@ -24896,7 +24933,9 @@ lili-porno
 liliporno
 limit hold'em
 limit hold’em
+limited free gem
 limited jers
+limited-free-gem
 limited-japan
 limited-jers
 limited-jp
@@ -30892,7 +30931,9 @@ pezonesmega
 pflegeversicherung
 pflegezusatzversicherung
 pg concern
+pg slot
 pg-concern
+pg-slot
 pg/blog
 pg/forum
 pg/page
@@ -30900,6 +30941,7 @@ pg/post
 pg/profil
 pg/view
 pgconcern
+pgslot
 phan mem quan
 phần mềm quản
 phan-mem
@@ -34779,6 +34821,7 @@ sdelat-makijazh
 sdfasd
 sdfklj
 sdfsdf
+sdfsfd
 sdlkfj
 seaddons
 seahawks jers
@@ -36676,6 +36719,7 @@ solutionsinc
 some %
 some coinage
 some extra ass
+some free gem
 some functionalitie
 some genuinely great
 some ideas are new
@@ -36685,6 +36729,7 @@ some onee
 some real interest
 some really interest
 some-coinage
+some-free-gem
 some-functionalitie
 somedias
 somee one
@@ -39404,7 +39449,9 @@ traceservice
 tracing service
 tracing-service
 tracingservice
+track a phone
 track hyperlink
+track-a-phone
 track-back
 track-click
 track-hyperlink
@@ -39423,6 +39470,7 @@ tracker-tracing
 trackertrace
 trackertracing
 trackhyperlink
+tracking a phone
 tracking-a-phone
 tradaoquan
 trade_you
@@ -40194,6 +40242,9 @@ unitted states
 universal key
 universal-key
 universalkey
+university suggest
+university_suggest
+university-suggest
 unknown.co
 unknown.in
 unknown.pl
@@ -41075,6 +41126,11 @@ viewarticle
 viewblog
 viewentry
 viewer to click
+viewers of article
+viewers of blog
+viewers of page
+viewers of site
+viewers of web
 viewers to click
 viewijng
 viewlink
@@ -42132,6 +42188,7 @@ where-get
 where-sell
 where-to-buy
 where-to-get
+where-to-purchase
 where-to-sell
 where+can
 where+to
