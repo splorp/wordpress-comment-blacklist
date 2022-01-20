@@ -3656,6 +3656,7 @@ _zapat
 /hop.cfm?
 /hop.cgi?
 /hop.ctr?
+/hop.cx
 /hop.htm?
 /hop.html?
 /hop.jsp?

@@ -42,6 +42,7 @@
 /got.by
 /gul.ly
 /hfg.cc
+/hop.cx
 /huit.re
 /hyperurl.co
 /hypr.ink
