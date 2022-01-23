@@ -6295,6 +6295,7 @@ ad-crack
 ad-flag
 ad-listing
 ad-live
+ad-portal
 ad-sage
 ad-wiki
 adbeat distrib
@@ -6412,12 +6413,17 @@ admin.htm
 admin.jsp
 admin.php
 admin5
+admire your blog
+admire your web
+admire your writing
 adopt curcumin
 adopt-curcumin
 adore foregathering
 ados populaire
 ados-populaire
 adospopulaire
+adport.al
+adportal
 adremus viral
 adremus-viral
 adremusviral
@@ -13610,6 +13616,8 @@ contactos mujeres
 contactos-chico
 contactos-mujeres
 contactus/contact
+contain nice material
+contains nice material
 contemporize the
 contemporizes the
 content ,
@@ -15738,6 +15746,7 @@ e| p
 e| t
 e2by.in
 eâcute
+eager of read
 eagerly wiggling
 eagerly-wiggling
 eaglefight.eaglefight
@@ -30963,6 +30972,12 @@ phần mềm quản
 phan-mem
 phần-mềm
 phan-mem-quan
+phap ly hung
+pháp lý hưng
+phap ly vung
+pháp lý vững
+phap-ly-hung
+phap-ly-vung
 pharm_
 pharm.
 pharma canad
@@ -38695,6 +38710,7 @@ this blog;
 this blog:
 this blog's post
 this blog’s post
+this blogs post
 this complete blog
 this complete page
 this complete post
@@ -39200,6 +39216,9 @@ to-operates
 to-truly
 to.p.ic
 to.pi.c
+toan dau tu
+toàn đầu tư
+toan-dau-tu
 toasterovensnow
 tobuy.in
 today news
