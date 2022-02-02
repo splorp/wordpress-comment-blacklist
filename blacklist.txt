@@ -10626,6 +10626,7 @@ business know
 business online world
 business seo
 business setup
+business to google
 business train
 business-a2review
 business-award
@@ -10634,19 +10635,15 @@ business-catalyst
 business-collect
 business-daily
 business-empire
-business-finder
 business-first
 business-formation
 business-in
 business-intel
 business-know
 business-loan
-business-market
-business-net
-business-network
-business-profile
 business-seo
 business-setup
+business-to-google
 business-train
 business’ status
 business’s status
@@ -10657,17 +10654,12 @@ businesscollect
 businessdaily
 businesses status
 businesses-status
-businessfinder
 businessfirst
 businessintel
 businessknow
 businessloan
-businessmarket
-businessnetwork
-businessprofile
 businessseo
 businesstogoogle
-businesstrain
 busiunes
 buspirone
 busquemail
@@ -17087,10 +17079,13 @@ familiarity daily
 family motor vehicle
 family-motor-vehicle
 famous blog
+famous news
 famous palmist
-famous social network
+famous social net
 famous-blog
+famous-news
 famous-palmist
+famousnews
 fan hack
 fan-hack
 fanalert
@@ -17951,12 +17946,16 @@ flo-wiki
 floating-board
 floatingboard
 floridaflee
+flower store
 flower tomorrow
+flower_store
+flower-store
 flower-tomorrow
 flowers tomorrow
 flowers-on-line
 flowers-online
 flowers-tomorrow
+flowerstore
 floxacin
 fluccun
 fluconazole
@@ -32846,16 +32845,19 @@ purchase guilt
 purchase instagram
 purchase pitch
 purchase privilege
+purchase sympathy
 purchase telegram
 purchase tiffany
 purchase tiktok
 purchase twitter
+purchase_sympathy
 purchase-facebook
 purchase-generic
 purchase-guilt
 purchase-instagram
 purchase-pitch
 purchase-privilege
+purchase-sympathy
 purchase-telegram
 purchase-tiffany
 purchase-tiktok
@@ -36421,10 +36423,12 @@ slongchamp
 slot gacor
 slot machine
 slot online
+slot terga
 slot_gacor
 slot-gacor
 slot-machine
 slot-online
+slot-terga
 slotgacor
 slotmachine
 slotonline
@@ -38283,12 +38287,15 @@ teeshollis
 teeth teeth
 tegs:
 tekhbez
+tele entulho
 tele gratuit
 tele realite
 télé réalité
+tele-entulho
 tele-gratuit
 tele-realite
 télé-réalité
+teleentulho
 telefono de informacion
 teléfono de información
 telegratuit
