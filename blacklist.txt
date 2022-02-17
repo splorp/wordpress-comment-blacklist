@@ -1059,6 +1059,12 @@ _zapat
 -phexin-
 -phexin.
 -phexin/
+-phone-info-
+-phone-info.
+-phone-info/
+-phoneinfo-
+-phoneinfo.
+-phoneinfo/
 -picload-
 -picload.
 -picload/
@@ -2129,6 +2135,12 @@ _zapat
 .phexin-
 .phexin.
 .phexin/
+.phone-info-
+.phone-info.
+.phone-info/
+.phoneinfo-
+.phoneinfo.
+.phoneinfo/
 .picload-
 .picload.
 .picload/
@@ -4185,6 +4197,12 @@ _zapat
 /phexin-
 /phexin.
 /phexin/
+/phone-info-
+/phone-info.
+/phone-info/
+/phoneinfo-
+/phoneinfo.
+/phoneinfo/
 /php.
 /picload-
 /picload.
@@ -7370,6 +7388,8 @@ apk-ucretsiz
 apkdeponuz
 apkucretsiz
 aplicacin
+aplikasi bintang
+aplikasi-bintang
 app full download
 app growth education
 app hacked
@@ -9199,6 +9219,9 @@ binary-crypto
 binary-option
 binarycrypto
 binaryoption
+bintang 4d
+bintang-4d
+bintang4d
 bio bronz
 bio skin
 bio-bronz
@@ -10334,6 +10357,7 @@ brittanybattle
 brittny-battle
 brittnybattle
 bro thank you
+brockenstube
 broker blueprint
 broker dealer
 broker forex
@@ -14764,8 +14788,10 @@ depression 6
 depression 7
 depression 8
 depression 9
-depression and pregnancy
+depression and obs
+depression and preg
 depression definition
+depression ecg
 depression m kya
 depression medication
 depression symptom
@@ -15170,6 +15196,9 @@ disfuncao eretil
 disfunçăo erétil
 disfuncao-eretil
 disfunçăo-erétil
+disi birak
+disi-birak
+disibirak
 disney se pega
 disorder quiz
 disorder-quiz
@@ -15204,6 +15233,7 @@ divorces-simplif
 divulgaemail
 diy divorce
 diy-divorce
+dışı bırak
 djstool
 djtool
 đľđ
@@ -15620,7 +15650,6 @@ drop me a mail
 drop your premium
 drop,dehy
 drop.dehy
-dropshipping winning
 drug buy
 drug cheap
 drug-buy
@@ -19365,6 +19394,7 @@ get tinder
 get tthe
 get tthis
 get v buck
+get you winning
 get yours here
 get_rid
 get_started
@@ -19401,6 +19431,7 @@ get-tinder
 get-translate
 get-u-promo
 get-widget
+get-you-winning
 getaloan
 getastyle
 getbitcoin
@@ -19485,7 +19516,10 @@ gifts4promo
 giftsclick
 giftsingapore
 giftssingapore
+giga porn
+giga-porn
 gigantix.co
+gigaporn
 gikves
 gilet moncler
 gilet-moncler
@@ -22714,6 +22748,8 @@ inscritas-cerveja
 insdier
 inseminacion artificial
 inseminacion-artificial
+insert my data
+insert your data
 inside an setting
 inside reputation
 inside-reputation
@@ -25107,6 +25143,7 @@ link camp
 link change arrange
 link competence
 link creati
+link dapatkan
 link directory
 link download
 link exchang
@@ -25133,6 +25170,7 @@ link-camp
 link-click
 link-competence
 link-creati
+link-dapatkan
 link-directory
 link-download
 link-exchang
@@ -25343,8 +25381,10 @@ log.se.
 log/?
 logcabins
 login uk
+login wap
 login widget
 login-uk
+login-wap
 login-widget
 login.asp
 login.cfm
@@ -35831,6 +35871,8 @@ shield your self
 shift dress
 shift-dress
 shiftdress
+shipping winning
+shipping-winning
 shirt cease
 shirt cheap
 shirt custom
@@ -36739,12 +36781,15 @@ socal-tms
 socaltms
 soccer betting
 soccer jersey sale
+soccer wager
 soccer-betting
 soccer-jersey-sale
+soccer-wager
 soccerbet
 soccerjerseyclub
 soccerjerseysale
 soccerjerseysclub
+soccerwager
 sociable worker
 social butler
 social buzz
