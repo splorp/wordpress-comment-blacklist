@@ -100,6 +100,7 @@ See the [license.txt](https://raw.githubusercontent.com/splorp/wordpress-comment
 
 ## History
 
++ 20220217 — Fixed bug that affected valid links containing [site.co or site.in](https://github.com/splorp/wordpress-comment-blacklist/commit/ffabc58e443a7dc1a5a2f798d3b9edf252079083)
 + 20211124 — 45,000 entries
 + 20210913 — Fixed bug that affected email addresses from German service provider [t-online](https://github.com/splorp/wordpress-comment-blacklist/commit/22ded9e489799be02276da25da0fa9325a9fb60f)
 + 20210902 — 44,000 entries
