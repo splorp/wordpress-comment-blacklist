@@ -7673,6 +7673,8 @@ articlessub
 articlestag
 articlesub
 articletag
+articulo como este
+articulos como este
 artiicle
 artikel
 artiklar snart
@@ -9992,7 +9994,14 @@ bookmarked-you
 bookmarked!
 bookmarking and checking
 bookmarking it
+bookmarking land
+bookmarking web
+bookmarking-it
+bookmarking-land
+bookmarking-web
+bookmarkingit
 bookmarkingland
+bookmarkingweb
 bookmarks thank
 bookmarks web
 bookmarks-thank
@@ -12899,6 +12908,7 @@ click in profile
 click now
 click on secure
 click over here
+click that link
 click the blog
 click the last site
 click the link
@@ -12948,6 +12958,9 @@ clickcount
 clickforu
 clickfraud
 clicking it
+clicking that link
+clicking the link
+clicking this link
 clicking world
 clicking-world
 clicknow
@@ -14574,6 +14587,7 @@ day-bountiful
 day-diet
 day-lengthy
 day-loubou
+day-to-day deal
 day. bye
 day.did
 dayloubou
@@ -14598,6 +14612,7 @@ de-site
 de-tivi
 dead composed subject
 deal benefit
+deal livingsocial
 deal of problem
 deal this blog
 deal this page
@@ -14722,6 +14737,7 @@ dem-gay
 dem-kauf-eines
 dem-tien
 đếm-tiền
+demasiado tu post
 demo0
 demo1
 demo2
@@ -15517,6 +15533,7 @@ downloadsfree
 downloadsonline
 downlowd
 downlown
+downtown quintessence
 doxycycline
 dr prescription
 dr visit online
@@ -16142,6 +16159,7 @@ encouirag
 endlaved
 endocrinol meta
 endocrinol-meta
+enemy to covid
 enerbetic
 energetic article
 energetic blog
@@ -22157,6 +22175,7 @@ i'd care to find
 i'd hump to
 i'll bookmark and
 i'm bookmarking and
+i'm horny
 i'm will soon
 i'mnot
 i'v got
@@ -22166,6 +22185,7 @@ i’d care to find
 i’d hump to
 i’ll bookmark and
 i’m bookmarking and
+i’m horny
 i’m will soon
 i’mn
 i’ts
@@ -22249,6 +22269,7 @@ illusion origami
 illusion-origami
 im grateful
 im happy
+im horny
 im looking
 im not
 im please
@@ -25291,6 +25312,7 @@ liveroulette
 livesex
 livesmale
 living by google
+livingsocial discount
 livro advert
 livro marketing
 livro-advert
@@ -28004,6 +28026,7 @@ much-gucci
 much-important
 much-utile
 muchgucci
+mucho mas articulo
 mucho tu post
 mudah beli
 mudah-beli
@@ -30023,6 +30046,8 @@ orderforte
 ordergeneric
 orderparafon
 ordersoma
+org download
+org-download
 organic hemp
 organic seo
 organic-hemp
@@ -30032,6 +30057,7 @@ organizovana zlo
 organizovana-zlo
 organogold
 orgazma
+orgdownload
 orghttp
 oriflame
 origami origami
@@ -32107,6 +32133,7 @@ possess
 possible kill you
 possibly can constant
 possibly kill you
+possibly possibly
 possui publicidade
 possui zero
 possui-publicidade
@@ -32244,6 +32271,7 @@ ppvcpa
 ppvtraff
 pr článek
 pr článk
+pr-bookmark
 pra acabar
 pra-acabar
 prac licencjackich
@@ -32314,6 +32342,7 @@ prawnik
 prazer sexual
 prazer-sexual
 prazosin
+prbookmark
 prdetty
 precios_
 precisely lots
@@ -33215,6 +33244,7 @@ quincy-femme
 quincyfemme
 quinoa stomach
 quinoa-stomach
+quintessence causing
 quit masturbat
 quit-masturbat
 quit-smok
@@ -35492,6 +35522,7 @@ sex indian
 sex kat
 sex kontakt
 sex live
+sex love
 sex mama
 sex mount
 sex movie
@@ -35547,6 +35578,7 @@ sex-indian
 sex-kat
 sex-kontakt
 sex-live
+sex-love
 sex-mama
 sex-mount
 sex-movie
@@ -35603,6 +35635,7 @@ sexinyou
 sexkat
 sexkontakt
 sexlive
+sexlove
 sexmama
 sexmount
 sexmovie
@@ -37676,6 +37709,7 @@ subsequent-submit
 substance deal
 substance-deal
 substancedeal
+substantive congestion
 subtitle indo
 subtitle-indo
 subtitleindo
@@ -44329,6 +44363,7 @@ zyvox
 бутик отел
 бутик-отел
 быстро!
+в ватсап
 валка деревьев
 валка-деревьев
 вариантов дизайна несколько
@@ -44373,6 +44408,7 @@ zyvox
 винтовой-нас
 вклады сбербанк
 вклады-сбербанк
+во ватсап
 вольво (
 вольво-вольво
 вот - http
@@ -44738,6 +44774,7 @@ zyvox
 оs
 оt
 оv
+образец обслуживания
 обрезка деревьев
 обрезка-деревьев
 обучение
@@ -45708,6 +45745,7 @@ zyvox
 基測|
 壯陽
 外贸
+大除毛
 奖网
 好評
 婚庆礼仪
@@ -45821,6 +45859,7 @@ zyvox
 锘縉
 锟斤拷
 门户网
+除毛雷射
 革の
 靴
 韓国音楽
