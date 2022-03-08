@@ -22043,6 +22043,8 @@ how to make $
 how would certain
 how_do
 howdy just wanted
+howdy superb
+howdy-superb
 however before
 however good topic
 however great topic
@@ -27746,6 +27748,7 @@ mondayugg
 monetize you
 monetize-you
 money adder
+money bonus
 money buzz
 money fast
 money generat
@@ -27758,6 +27761,7 @@ money prim
 money robot
 money vault
 money-adder
+money-bonus
 money-buzz
 money-fast
 money-game
@@ -27781,6 +27785,7 @@ money.ctr
 money.htm
 money.jsp
 money.php
+moneybonus
 moneybuzz
 moneyfast
 moneygame
@@ -45624,6 +45629,7 @@ zyvox
 축구중계
 출장업소
 카지노
+쿠폰
 태풍티비
 토토
 트위터
