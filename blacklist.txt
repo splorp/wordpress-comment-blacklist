@@ -226,6 +226,9 @@ _zapat
 -1.ru
 -1.su
 -1.za
+-1win-
+-1win.
+-1win/
 -2.co
 -2.in
 -2.ro
@@ -1594,6 +1597,9 @@ _zapat
 .1-pack.
 .1-pack/
 .1com
+.1win-
+.1win.
+.1win/
 .2com
 .2u4.us
 .7x.cz
@@ -2691,6 +2697,9 @@ _zapat
 /01.php
 /1.php
 /1i1.me
+/1win-
+/1win.
+/1win/
 /02.asp
 /2.asp
 /02.cfm
@@ -2834,6 +2843,7 @@ _zapat
 /activity-
 /activity.
 /adclick?
+/adclick.ashx?
 /adclick.asp?
 /adclick.aspx?
 /adclick.cfm?
@@ -2940,6 +2950,7 @@ _zapat
 /avto-
 /avto.
 /away?
+/away.ashx?
 /away.asp?
 /away.aspx?
 /away.cfm?
@@ -2959,6 +2970,7 @@ _zapat
 /bags/
 /baidu.
 /banner?
+/banner.ashx?
 /banner.asp?
 /banner.aspx?
 /banner.cfm?
@@ -2970,6 +2982,7 @@ _zapat
 /banner.php?
 /banner/?
 /banners?
+/banners.ashx?
 /banners.asp?
 /banners.aspx?
 /banners.cfm?
@@ -3080,6 +3093,7 @@ _zapat
 /bvlgari-
 /bvlgari.
 /bye?
+/bye.ashx?
 /bye.asp?
 /bye.aspx?
 /bye.cfm?
@@ -3265,6 +3279,7 @@ _zapat
 /crimea-
 /crwl.it
 /cs?
+/cs.ashx?
 /cs.asp?
 /cs.aspx?
 /cs.cfm?
@@ -3317,6 +3332,7 @@ _zapat
 /dieta.
 /dior.
 /director?
+/director.ashx?
 /director.asp?
 /director.aspx?
 /director.cfm?
@@ -3412,6 +3428,7 @@ _zapat
 /event.
 /executive-
 /exit?
+/exit.ashx?
 /exit.asp?
 /exit.aspx?
 /exit.cfm?
@@ -3475,6 +3492,7 @@ _zapat
 /forum0
 /forum1
 /forwarder?
+/forwarder.ashx?
 /forwarder.asp?
 /forwarder.aspx?
 /forwarder.cfm?
@@ -3489,6 +3507,7 @@ _zapat
 /foto.
 /fpdb/
 /frame?
+/frame.ashx?
 /frame.asp?
 /frame.aspx?
 /frame.cfm?
@@ -3535,6 +3554,7 @@ _zapat
 /gh1/
 /glowna.
 /go_url?
+/go_url.ashx?
 /go_url.asp?
 /go_url.aspx?
 /go_url.cfm?
@@ -3546,6 +3566,7 @@ _zapat
 /go_url.php?
 /go_url/?
 /go?
+/go.ashx?
 /go.asp?
 /go.aspx?
 /go.cfm?
@@ -3565,6 +3586,7 @@ _zapat
 /goose/
 /got.by
 /goto_url?
+/goto_url.ashx?
 /goto_url.asp?
 /goto_url.aspx?
 /goto_url.cfm?
@@ -3576,6 +3598,7 @@ _zapat
 /goto_url.php?
 /goto_url/?
 /goto?
+/goto.ashx?
 /goto.asp?
 /goto.aspx?
 /goto.cfm?
@@ -3587,6 +3610,7 @@ _zapat
 /goto.php?
 /goto/?
 /gotourl?
+/gotourl.ashx?
 /gotourl.asp?
 /gotourl.aspx?
 /gotourl.cfm?
@@ -3598,6 +3622,7 @@ _zapat
 /gotourl.php?
 /gotourl/?
 /gourl?
+/gourl.ashx?
 /gourl.asp?
 /gourl.aspx?
 /gourl.cfm?
@@ -3668,6 +3693,7 @@ _zapat
 /homepage.
 /homepage/
 /hop?
+/hop.ashx?
 /hop.asp?
 /hop.aspx?
 /hop.cfm?
@@ -3723,6 +3749,7 @@ _zapat
 /index-3
 /index-4
 /index-5
+/index.ashx?/
 /index.asp?/
 /index.aspx?/
 /index.cfm?/
@@ -3786,6 +3813,7 @@ _zapat
 /js.
 /js/
 /jump?
+/jump.ashx?
 /jump.asp?
 /jump.aspx?
 /jump.cfm?
@@ -3797,6 +3825,7 @@ _zapat
 /jump.php?
 /jump/?
 /jumplink?
+/jumplink.ashx?
 /jumplink.asp?
 /jumplink.aspx?
 /jumplink.cfm?
@@ -3832,6 +3861,7 @@ _zapat
 /kitchenknives-
 /kitchenknives.
 /klik?
+/klik.ashx?
 /klik.asp?
 /klik.aspx?
 /klik.cfm?
@@ -3885,6 +3915,7 @@ _zapat
 /lingerie.
 /link-
 /link?
+/link.ashx?
 /link.asp?
 /link.aspx?
 /link.cfm?
@@ -3909,6 +3940,7 @@ _zapat
 /litecoin.
 /litecoin/
 /lnkcnt?
+/lnkcnt.ashx?
 /lnkcnt.asp?
 /lnkcnt.aspx?
 /lnkcnt.cfm?
@@ -3921,6 +3953,7 @@ _zapat
 /lnkcnt/?
 /loans
 /logout?
+/logout.ashx?
 /logout.asp?
 /logout.aspx?
 /logout.cfm?
@@ -3955,6 +3988,7 @@ _zapat
 /lv/
 /lvl.vn
 /m?
+/m.ashx?
 /m.asp?
 /m.aspx?
 /m.cfm?
@@ -3973,6 +4007,7 @@ _zapat
 /maillot.
 /maillot/
 /mainframe?
+/mainframe.ashx?
 /mainframe.asp?
 /mainframe.aspx?
 /mainframe.cfm?
@@ -4111,6 +4146,7 @@ _zapat
 /openlink.
 /openlink/
 /optout?
+/optout.ashx?
 /optout.asp?
 /optout.aspx?
 /optout.cfm?
@@ -4125,6 +4161,7 @@ _zapat
 /orgasm
 /oulu
 /out?
+/out.ashx?
 /out.asp?
 /out.aspx?
 /out.cfm?
@@ -4139,6 +4176,7 @@ _zapat
 /outlet/
 /outlink-
 /outlink?
+/outlink.ashx?
 /outlink.asp?
 /outlink.aspx?
 /outlink.cfm?
@@ -4156,6 +4194,7 @@ _zapat
 /owtf.co.uk
 /p-laid-
 /p?
+/p.ashx?
 /p.asp?
 /p.aspx?
 /p.cfm?
@@ -4309,6 +4348,7 @@ _zapat
 /qsymia.
 /qsymia/
 /r?
+/r.ashx?
 /r.asp?
 /r.aspx?
 /r.cfm?
@@ -4329,6 +4369,7 @@ _zapat
 /ralphlauren.
 /ralphlauren/
 /rank?
+/rank.ashx?
 /rank.asp?
 /rank.aspx?
 /rank.cfm?
@@ -4346,6 +4387,7 @@ _zapat
 /rayban.
 /rayban/
 /rdr?
+/rdr.ashx?
 /rdr.asp?
 /rdr.aspx?
 /rdr.cfm?
@@ -4361,6 +4403,7 @@ _zapat
 /readme.
 /readnews.
 /reauexit?
+/reauexit.ashx?
 /reauexit.asp?
 /reauexit.aspx?
 /reauexit.cfm?
@@ -4417,6 +4460,7 @@ _zapat
 /ri.ms
 /rih.co
 /rk?
+/rk.ashx?
 /rk.asp?
 /rk.aspx?
 /rk.cfm?
@@ -4469,6 +4513,7 @@ _zapat
 /seo.
 /seo/
 /share?
+/share.ashx?
 /share.asp?
 /share.aspx?
 /share.cfm?
@@ -4667,6 +4712,7 @@ _zapat
 /tr.im
 /trac/ticket/
 /trace?
+/trace.ashx?
 /trace.asp?
 /trace.aspx?
 /trace.cfm?
@@ -4678,6 +4724,7 @@ _zapat
 /trace.php?
 /trace/?
 /track?
+/track.ashx?
 /track.asp?
 /track.aspx?
 /track.cfm?
@@ -4696,6 +4743,7 @@ _zapat
 /transexuelle.
 /transexuelle/
 /trs?
+/trs.ashx?
 /trs.asp?
 /trs.aspx?
 /trs.cfm?
@@ -4727,6 +4775,7 @@ _zapat
 /uploads.
 /uploads/
 /url?
+/url.ashx?
 /url.asp?
 /url.aspx?
 /url.cfm?
@@ -4768,6 +4817,7 @@ _zapat
 /viewstory
 /vip.
 /visit?
+/visit.ashx?
 /visit.asp?
 /visit.aspx?
 /visit.cfm?
