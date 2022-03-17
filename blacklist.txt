@@ -14189,33 +14189,52 @@ creditcard.us
 creditdirect
 creditformat
 creditloan
+credito gratis
+crédito gratis
 credito inmediato
 crédito inmediato
 credito online
 crédito online
+credito personal
+crédito personal
 credito por internet
-credito rapido
-crédito rápido
+credito rapid
+crédito rápid
+credito-gratis
 credito-inmediato
 credito-online
+credito-personal
 credito-por-internet
-credito-rapido
+credito-rapid
+creditogratis
 creditoinmediato
 creditoonline
-creditorapido
+creditopersonal
+creditorapid
+creditos gratis
+créditos gratis
 creditos inmediato
 créditos inmediato
 creditos online
 créditos online
+creditos personal
+créditos personal
 creditos por internet
+creditos rapid
 creditos rapido
 créditos rápido
+creditos-gratis
 creditos-inmediato
 creditos-online
+creditos-personal
 creditos-por-internet
+creditos-rapid
 creditos-rapido
+creditosgratis
 creditosinmediato
 creditosonline
+creditospersonal
+creditosrapid
 creditosrapido
 creditrepair
 creditreport
@@ -27087,11 +27106,27 @@ meja casino
 meja-casino
 mejacasino
 mejor calidad
+mejor credito
+mejor crédito
+mejor prestamo
+mejor préstamo
 mejor servicio
 mejor-calidad
+mejor-credito
+mejor-prestamo
 mejor-servicio
+mejorcredito
 mejores booster
+mejores credito
+mejores crédito
+mejores prestamo
+mejores préstamo
 mejores-booster
+mejores-credito
+mejores-prestamo
+mejorescredito
+mejoresprestamo
+mejorprestamo
 melatonin
 melhor preco
 melhor preço
@@ -32667,13 +32702,17 @@ prestamos inmediato
 préstamos inmediato
 prestamos online
 préstamos online
+prestamos personal
+préstamos personal
 prestamos rapidos
 préstamos rapidos
 prestamos-inmediato
 prestamos-online
+prestamos-personal
 prestamos-rapidos
 prestamosinmediato
 prestamosonline
+prestamospersonal
 prestamosrapidos
 prestarapidos
 pretty candy as
