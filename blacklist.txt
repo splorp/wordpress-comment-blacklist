@@ -66,6 +66,7 @@ _latisse
 _lesbian
 _litecoin
 _longchamp
+_lotto
 _loubou
 _lululemon
 _marijuana
@@ -5145,10 +5146,13 @@ _zapat
 | online
 | year
 ||
+|cash
 |chi
 |dal
 |det
 |for
+|loan
+|payday
 |per
 |porn
 |year
@@ -10770,6 +10774,7 @@ businesses-status
 businessfirst
 businessintel
 businessknow
+businesslisting
 businessloan
 businessseo
 businesstogoogle
@@ -11512,6 +11517,7 @@ cash-progress
 cash-team
 cash.com.
 cash.xyz
+cash|
 cash4
 cashadvance
 cashbuzz
@@ -21262,6 +21268,10 @@ healthrecipe
 healthrelated
 healthstock
 healthsuppl
+hearing aid near
+hearing aids near
+hearing-aid-near
+hearing-aids-near
 heart food consult
 heart site
 heart-food-consult
@@ -25504,6 +25514,7 @@ loan comp
 loan fast
 loan lender
 loan online
+loan payday
 loan-canad
 loan-cash
 loan-comp
@@ -25511,10 +25522,12 @@ loan-direct
 loan-fast
 loan-lender
 loan-online
+loan-payday
 loan.bid
 loan.co
 loan.in
 loan.net
+loan|
 loanalys
 loancash
 loancomp
@@ -25522,19 +25535,23 @@ loandirect
 loanfast
 loanlender
 loanonline
+loanpayday
 loans canad
 loans compan
 loans fast
 loans online
+loans payday
 loans-canad
 loans-compan
 loans-direct
 loans-fast
 loans-online
+loans-payday
 loans.co
 loans.in
 loans.net
 loans.xyz
+loans|
 loans1
 loans2
 loans3
@@ -25544,6 +25561,7 @@ loanscompan
 loansdirect
 loansfast
 loansonline
+loanspayday
 locate-cell-phone
 locatecellphone
 lociraj
@@ -25843,7 +25861,11 @@ lotterypro
 lottie maxi
 lottie-maxi
 lottiemaxi
+lotto power
+lotto_
+lotto-power
 lotto-tip
+lottopower
 lottotip
 loubiton
 louboutin bianca
@@ -31032,7 +31054,9 @@ paulsmithsu
 paxil
 pay_day
 pay-as-you-go
+payday cash
 payday loan
+payday-cash
 payday-loan
 payday-on
 payday.co
@@ -31042,6 +31066,8 @@ payday.ro
 payday.ru
 payday.su
 payday.za
+payday|
+paydaycash
 paydayloan
 paydaynote
 paydayon
@@ -35360,8 +35386,10 @@ secured-result
 secureimage
 securesmtp
 security ip camera
+security quantity
 security-for
 security-ip-camera
+security-quantity
 see this blog
 see this site
 see this weblog
@@ -45782,6 +45810,8 @@ zyvox
 검증사이트
 게임
 경마배팅
+놀이터 보너
+놀이터보너
 대출
 로얄카지노
 루이비통
@@ -45814,6 +45844,7 @@ zyvox
 태풍티비
 토토
 트위터
+파워볼
 파워볼사이트
 포인트받
 필수적이다
