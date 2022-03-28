@@ -6269,6 +6269,7 @@ accupril
 accutane
 ace 33
 ace-33
+acedemic
 acel google
 acel-google
 acellphone
@@ -10760,6 +10761,7 @@ business seo
 business setup
 business to google
 business train
+business website
 business-a2review
 business-award
 business-boss
@@ -10777,6 +10779,7 @@ business-seo
 business-setup
 business-to-google
 business-train
+business-website
 business’ status
 business’s status
 businessaward
@@ -25049,6 +25052,7 @@ learn-traffic-law
 learn+health
 learnface
 learnhelp
+learning speaking
 learningxchange
 learnpain
 learnpianohere
@@ -37375,6 +37379,7 @@ sparkle ugg
 sparkle-ugg
 sparkleugg
 speaking approximate
+speaking learning
 special approximate
 special daay
 special-approximate
