@@ -3775,6 +3775,7 @@ _zapat
 /insurance-
 /insurance.
 /internal/
+/inx.inbox.lv
 /inx.lv
 /ip/
 /iphone-s-
