@@ -542,6 +542,7 @@ _zapat
 -coin/
 -coins.
 -coins/
+-com/activity/
 -comfort-
 -computer-recycle.
 -computer-recycling.
@@ -7662,6 +7663,7 @@ article suggest
 article tag
 article to rank
 article to your life
+article totally
 article writing
 article you write
 article-blog
@@ -7682,8 +7684,10 @@ article-snatch
 article-sub
 article-suggest
 article-tag
+article-totally
 article-writing
 article-you-write
+article, totally
 article,i
 article?.
 article.many
@@ -16062,11 +16066,17 @@ easier consume
 easier to available
 easily one tight
 easy agency
+easy blog
 easy consume
 easy naked
+easy weblog
+easy website
 easy with your present
 easy-agency
+easy-blog
 easy-naked
+easy-weblog
+easy-website
 easy.in
 easyagency
 easyloan
@@ -18356,6 +18366,7 @@ footwearjord
 footwearmbt
 footwears
 for a article
+for a easy
 for black mans
 for black mens
 for black womans
@@ -25321,6 +25332,10 @@ librarys.htm
 librarys.jsp
 librarys.php
 librium
+license key cheap
+license key free
+license-key-cheap
+license-key-free
 licensed appliance
 licensed-appliance
 licenzija
@@ -31124,6 +31139,8 @@ past-lives-memory
 pastebin.fun
 patagonia-zone
 patagoniazone
+paternity dna
+paternity-dna
 patience maxi
 patience-maxi
 patiencemaxi
@@ -35879,6 +35896,7 @@ sex beba
 sex blog
 sex budd
 sex cam
+sex chat
 sex clermont
 sex club
 sex dat
@@ -35934,6 +35952,7 @@ sex-beba
 sex-blog
 sex-budd
 sex-cam
+sex-chat
 sex-clermont
 sex-club
 sex-dat
@@ -35994,6 +36013,7 @@ sexbeba
 sexblog
 sexbudd
 sexcam
+sexchat
 sexclub
 sexdat
 sexelist
@@ -42927,6 +42947,7 @@ whereget
 wheresell
 wheretobuy
 wheretoget
+whgile
 whho did
 whho has
 whho will
