@@ -32630,6 +32630,7 @@ possui-publicidade
 possui-zero
 post ::
 post aat
+post as well as
 post at this site
 post como este
 post composing
@@ -33035,11 +33036,14 @@ prezzigiub
 price cheap
 price for advair
 price now!
+price per click
 price philip
 price replic
 price sunglass
 price-cheap
+price-for-advair
 price-of-gold
+price-per-click
 price-philip
 price-replic
 price-sunglass
@@ -37205,6 +37209,7 @@ slot gacor
 slot game
 slot machine
 slot online
+slot qq
 slot tempat
 slot terbaik
 slot terbesar
@@ -37217,6 +37222,7 @@ slot-gacor
 slot-game
 slot-machine
 slot-online
+slot-qq
 slot-tempat
 slot-terbaik
 slot-terbesar
@@ -37226,6 +37232,7 @@ slot-terpercaya
 slotgacor
 slotmachine
 slotonline
+slotqq
 slots blackjack
 slots machine
 slots online
@@ -40273,6 +40280,7 @@ topbuzz
 topbvlgar
 topcontractor
 topdatabase
+topdatalist
 topfakeid
 topforum
 topfreecam
@@ -41588,6 +41596,7 @@ vape box
 vape cart
 vape clearance
 vape cloud
+vape daily
 vape e-juice
 vape ejuice
 vape juice
@@ -41601,6 +41610,7 @@ vape-box
 vape-cart
 vape-clearance
 vape-cloud
+vape-daily
 vape-e-juice
 vape-ejuice
 vape-juice
@@ -41613,6 +41623,7 @@ vapebox
 vapecart
 vapeclearance
 vapecloud
+vapedaily
 vapeejuice
 vapejuice
 vapepen
@@ -41622,51 +41633,66 @@ vaper-e-juice
 vaper-ejuice
 vaperejuice
 vapes cart
+vapes daily
 vapes kit
 vapes-cart
+vapes-daily
 vapes-kit
 vapesave
 vapescart
+vapesdaily
 vapestick
 vapo save
 vapo-save
 vapor cloud
+vapor daily
 vapor ix
 vapor juice
 vapor pen
 vapor stick
 vapor x
 vapor-cloud
+vapor-daily
 vapor-ix
 vapor-juice
 vapor-pen
 vapor-stick
 vapor-x
 vaporcloud
+vapordaily
 vaporix
 vaporizer pen
 vaporizer-pen
 vaporjuice
 vaporpen
+vapors daily
+vapors-daily
+vaporsdaily
 vaporstick
 vaporx
 vaposave
+vapour daily
 vapour ix
 vapour juice
 vapour pen
 vapour stick
 vapour x
 vapour-cloud
+vapour-daily
 vapour-ix
 vapour-juice
 vapour-pen
 vapour-stick
 vapour-x
 vapourcloud
+vapourdaily
 vapourix
 vapourizer pen
 vapourizer-pen
 vapourjuice
+vapours daily
+vapours-daily
+vapoursdaily
 vapourstick
 vapourx
 varabella
