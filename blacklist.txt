@@ -4230,6 +4230,7 @@ _zapat
 /parafon/
 /party-boat-
 /past.is
+/pastein.ru
 /phan-biet-
 /phan-biet.
 /phan-biet/
