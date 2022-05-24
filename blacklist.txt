@@ -4636,6 +4636,7 @@ _zapat
 /tafil.
 /tafil/
 /tagged/
+/taraa.xyz
 /tattoo-
 /tattoo.
 /tattoo/

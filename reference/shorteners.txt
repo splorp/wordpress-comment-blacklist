@@ -93,6 +93,7 @@
 /surl.li
 /swish.st
 /t.co
+/taraa.xyz
 /tgi.link
 /tiggi.es
 /tiny.cc
