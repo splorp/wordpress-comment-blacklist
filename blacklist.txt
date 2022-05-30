@@ -8423,8 +8423,10 @@ baguebulgar
 baguebvlgar
 bahaya lemak
 bahaya-lemak
+bahis casino
 bahis giris
 bahis giriş
+bahis-casino
 bahis-giris
 bahisgiris
 baikal extreme
@@ -9207,6 +9209,7 @@ bettingscript
 bettor than
 between tthe
 betweenex
+bevefage
 bezpieczne leczenie
 bezpieczne-leczenie
 bhilt
@@ -14924,6 +14927,8 @@ dejtingtips
 dekorativno prikladno
 dekorativno-prikladno
 del sitio web
+deliuveries
+deliuvery
 deliver noticeable result
 deliver overtly
 deliver result
@@ -14934,9 +14939,13 @@ deliverresult
 delivers result
 delivers-result
 deliversresult
+delivery can deliver
+delivery deliver
 delivery flower
 delivery philip
 delivery-flower
+delivery-near-me
+delivery-nearme
 delivery-philip
 delta-marketing
 deltamarketing
@@ -19366,6 +19375,7 @@ gamblinggame
 gamblingonline
 game bong
 game casino
+game gold
 game ionline
 game jers
 game online
@@ -19378,6 +19388,7 @@ game-casino
 game-copy
 game-full-online
 game-game
+game-gold
 game-ionline
 game-jers
 game-money
@@ -19401,6 +19412,7 @@ gamecube-game
 gamedesigndegree
 gamefullonline
 gamegame
+gamegold
 gameionline
 gamejers
 gamemoney
@@ -22282,6 +22294,7 @@ house.cozy
 houseforsale
 housesforsale
 housing final even
+houur
 hover-glide
 hover-shop
 hoverboard 360
@@ -25651,6 +25664,7 @@ lip filler
 lip-filler
 lipi=urn
 lipitor
+liqulr
 lirtle effort
 lisinopril
 lisseur-pascher
@@ -25665,6 +25679,7 @@ listen to youtube
 listen-news
 listen-to-youtube
 listentoyoutube
+listing from google
 listy,
 lite/wbb
 lite1/wbb
@@ -29035,6 +29050,7 @@ nbshoe
 ñç
 nce nce
 near near
+near_me
 nearby rv
 nearly like a clean
 neat article
@@ -30184,6 +30200,7 @@ online 24
 online albenda
 online albenza
 online bag
+online bahis
 online best
 online betting
 online boot
@@ -30222,6 +30239,7 @@ online games store
 online gaming play
 online gaming store
 online gefunden
+online gold
 online grant app
 online gratis
 online gry
@@ -30271,6 +30289,7 @@ online-24
 online-albenda
 online-albenza
 online-bag
+online-bahis
 online-best
 online-betting
 online-blog
@@ -30303,6 +30322,7 @@ online-games-store
 online-gaming-play
 online-gaming-store
 online-gefunden
+online-gold
 online-grant-app
 online-gratis
 online-gry
@@ -30385,6 +30405,7 @@ onlineforsale
 onlinefree
 onlinegambl
 onlinegame
+onlinegold
 onlineheel
 onlineinternet
 onlineinvest
@@ -34891,7 +34912,9 @@ ripoff a consumer
 ripoff the consumer
 ripoff their consumer
 ripoffreport
+rise online
 rise-hire
+rise-online
 risehire
 rizatriptan
 road of success
@@ -35670,6 +35693,7 @@ search gogle
 search master knowledge
 search optim
 search porn
+search_firm
 search-engine-
 search-engines-
 search-expired-
