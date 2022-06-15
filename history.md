@@ -1,8 +1,8 @@
 # Comment Blacklist for WordPress
 
-## History
-
 A chronological list of changes, bug fixes, and other milestones
+
+## History
 
 + 20220314 — 46,000 entries
 + 20220217 — Fixed bug that affected valid links containing [site.co or site.in](https://github.com/splorp/wordpress-comment-blacklist/commit/ffabc58e443a7dc1a5a2f798d3b9edf252079083)
