@@ -9396,6 +9396,7 @@ bitcoin from $
 bitcoin million
 bitcoin mine
 bitcoin mining
+bitcoin mix
 bitcoin per day
 bitcoin per week
 bitcoin rush
@@ -9417,6 +9418,7 @@ bitcoin-dump
 bitcoin-million
 bitcoin-mine
 bitcoin-mining
+bitcoin-mix
 bitcoin-per-day
 bitcoin-per-week
 bitcoin-rush
@@ -9436,6 +9438,7 @@ bitcoindepos
 bitcoindonat
 bitcoindump
 bitcoinmillion
+bitcoinmix
 bitcoinrush
 bitcoins
 bitcointalk
@@ -14989,6 +14992,7 @@ deneme icerik
 deneme mal
 deneme-icerik
 deneme-mal
+dengan maksimum
 denschlaf
 dental chat room
 dental guru
@@ -19477,6 +19481,7 @@ ganoolq
 gaogb
 gaoland
 gapscent
+garansi kepuasan
 garantizadas por escrito
 garantizar la calidad
 garantizar product
@@ -19514,6 +19519,7 @@ gấu bông dore
 gau-bong-dore
 gauge the potency
 gave attain
+gave succeed
 gawab.com
 gay cartoon
 gay chat
@@ -23844,6 +23850,7 @@ jacobsjap
 jacobsjp
 jacobspurse
 jacobsuk
+jadi maksimum
 jagody acai
 jagody-acai
 jagowho
@@ -24200,6 +24207,7 @@ jordan4
 jordanbrand
 jordangamma
 jordangrise
+jordanian bookish
 jordankicks
 jordanmilan
 jordannoir
@@ -24487,6 +24495,7 @@ kensington-parka
 kensingtonparka
 keo nha cai
 kèo-bóng
+kepuasan konsumen
 kerja hotel
 kerja-hotel
 kerjahotel
@@ -26187,6 +26196,9 @@ louisvitton
 louisvuit.
 louisvuitton
 louiswuitton
+lova begravning
+lova-begravning
+lovabegravning
 love (:
 love connect
 love cougar
@@ -26280,6 +26292,7 @@ lublina.
 luck jers
 luck-jers
 luckjers
+lucky me i found
 lucky patcher
 lucky-patcher
 luckypatcher
@@ -27472,6 +27485,7 @@ membership.htm
 membership.jsp
 membership.php
 membershiphack
+membuka link ini
 memerangi keragu
 memerangi-keragu
 memevioro
@@ -40471,8 +40485,11 @@ totosite
 totosly
 touche. great
 touche. so
+tour site
 tour-discount
+tour-site
 tourdiscount
+toursite
 towarowe anna lewandowska
 town|
 toys,sex
@@ -42928,6 +42945,7 @@ weblog every once
 weblog link
 weblog post
 weblog thank
+weblog unintention
 weblog-link
 weblog. thank
 weblogg
@@ -43046,6 +43064,7 @@ website that cost
 website through google
 website traff
 website training
+website unintention
 website usa
 website using
 website visit
@@ -44532,6 +44551,7 @@ your article kept
 your asthma so
 your bed furniture
 your bedroom play
+your bitcoin
 your blog kept
 your blog might
 your blog on
@@ -44641,6 +44661,7 @@ your wii will
 your wweb
 your zits
 your-account
+your-bitcoin
 your-blog
 your-blog-real
 your-blogs-real
@@ -44696,6 +44717,7 @@ your-you
 your.mail@
 youraccount
 yourbanker
+yourbitcoin
 yourblog
 yourbudget
 yourcredit
@@ -46375,6 +46397,7 @@ zyvox
 안마
 야구중계
 야동
+여우알바
 여자친구
 온라인카지노
 유흥구인
