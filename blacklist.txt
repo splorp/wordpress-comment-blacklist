@@ -6318,6 +6318,9 @@ acneprescript
 acnetreatment
 acompanhante anunci
 acompanhantes anunci
+acompanhantes go
+acompanhantes-go
+acompanhantesgo
 acomplia
 acquire me vip
 acros thee
@@ -10016,6 +10019,10 @@ bollywood-moi
 bolsos marc
 bolsos-marc
 bolsosmarc
+bom artigo
+bom postagem
+bom-artigo
+bom-postagem
 bon copie
 bon-copie
 boncopie
@@ -20052,6 +20059,8 @@ giveaway win
 giveaway-win
 giveaway! win
 gives fastidious
+gives good understand
+gives great understand
 gives quality base
 gives-fastidious
 gkhk
@@ -24945,8 +24954,11 @@ krediyonetim
 kredyt
 kredyyt
 kripto borsasi
+kripto egitim
+kripto eğitim
 kripto para
 kripto-borsasi
+kripto-egitim
 kripto-para
 kriptopara
 kristi longchamp
@@ -28573,6 +28585,10 @@ muhammad christ
 muhammad-christ
 muhammadchrist
 muhst say
+muita artigo
+muita postagem
+muita-artigo
+muita-postagem
 mujer timberland
 mujer-timberland
 mujeres solteras
@@ -35897,9 +35913,11 @@ selecting-a-strain
 selecting-great-white
 self google
 self on instagram
+self-coin
 self-google
 self-help
 self-on-instagram
+selfcoin
 selfgoogle
 selfiestick
 sell dump
@@ -40737,6 +40755,7 @@ truly data you
 truly fastidious
 truly fruitful
 truly peaked
+truly pleasant thing
 truly sharing nice
 truly suppose
 truly thk
