@@ -28805,19 +28805,14 @@ my apple iphone
 my apple macbook
 my bebo
 my bitcoin
-my blg -
-my blg –
-my blg —
 my blg ;
 my blg :
 my blg;
 my blg:
 my blo look
-my blog -
-my blog –
-my blog —
 my blog ;
 my blog :
+my blog ..
 my blog …
 my blog audience
 my blog fer
@@ -28831,9 +28826,6 @@ my blog:
 my blog..
 my blog…
 my blopg
-my boog -
-my boog –
-my boog —
 my boog ;
 my boog :
 my boog ..
@@ -28863,9 +28855,8 @@ my online
 my own blog
 my own web
 my paage
-my page -
-my page –
-my page —
+my page ;
+my page :
 my page ..
 my page …
 my page 24
@@ -28897,9 +28888,6 @@ my site:
 my site..
 my site…
 my sitee
-my sitte -
-my sitte –
-my sitte —
 my sitte ;
 my sitte :
 my sitte ..
@@ -28917,9 +28905,8 @@ my view its
 my wallet is
 my wblg
 my wblog
-my web -
-my web –
-my web —
+my web ;
+my web :
 my web ..
 my web …
 my web blog
@@ -28935,16 +28922,17 @@ my web..
 my web…
 my webb
 my weblg
-my weblog -
-my weblog –
-my weblog —
+my weblog ;
+my weblog :
+my weblog ..
+my weblog …
 my weblog goes
 my weblog read
 my weblog trek
 my webpage
-my website -
-my website –
-my website —
+my website ;
+my website :
+my website ..
 my website …
 my website goes
 my website read
@@ -37230,11 +37218,9 @@ sistemas populare
 sistemas-bolsa
 sistemas-populare
 sistershit
-site -
-site ,
 site ::
 site !
-site .
+site ..
 site (:
 site =)
 site about animal
@@ -43030,6 +43016,8 @@ web market
 web online
 web optim
 web owner
+web page ;
+web page :
 web page ..
 web page …
 web page daily
@@ -43267,6 +43255,8 @@ website unintention
 website usa
 website using
 website visit
+website was ;
+website was :
 website was ..
 website was …
 website was..
