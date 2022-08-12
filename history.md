@@ -4,6 +4,7 @@ A chronological list of changes, bug fixes, and other milestones
 
 ## History
 
++ 20220812 — 47,000 entries
 + 20220731 — Fixed bug that affected terms [ending with a space and a hyphen](https://github.com/splorp/wordpress-comment-blacklist/commit/fecd02ca29ebc8817ae4dac97a09153f1ccdce42)
 + 20220314 — 46,000 entries
 + 20220217 — Fixed bug that affected valid links containing [site.co or site.in](https://github.com/splorp/wordpress-comment-blacklist/commit/ffabc58e443a7dc1a5a2f798d3b9edf252079083)
