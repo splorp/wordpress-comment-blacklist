@@ -1794,6 +1794,8 @@ _zapat
 .com illegal
 .com wild
 .com,
+.com'da
+.com’da
 .com/,
 .com/%
 .com/1-
@@ -40942,6 +40944,7 @@ truck-resto
 true search
 truly a fastidious
 truly data you
+truly enjoy
 truly fastidious
 truly fruitful
 truly peaked
@@ -40952,6 +40955,7 @@ truly thk
 truly typically
 truly very
 truly when some
+truly-enjoy
 truly-fastidious
 truly-fruitful
 truly-peaked
@@ -41866,6 +41870,8 @@ uugg
 uuse
 uustore
 uy/image
+uygun fiyatlarla
+uygun-fiyatlarla
 uг
 uѕ
 v buck buy
