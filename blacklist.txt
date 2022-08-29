@@ -6996,6 +6996,7 @@ alive hack
 alive-cheat
 alive-hack
 alışveriş sepetiniz
+alkogoli
 alkotla
 all ahout
 all automobile, auto
@@ -25427,6 +25428,8 @@ lebron shoe
 lebron-shoe
 lebronshoe
 lebronxshoe
+lechenie narkomani
+lechenie-narkomani
 lechit narkomaniy
 lechit-narkomaniy
 led thumb
@@ -26443,6 +26446,7 @@ lpgn product
 lpgn-laminin
 lpgn-moldova
 lpgn-product
+ltd. electric
 ltongealp
 ltonser
 lub cbd
@@ -30483,7 +30487,6 @@ online vietnam
 online weblog
 online webpage
 online website
-online бесплатно
 online-24
 online-albenda
 online-albenza
@@ -30572,7 +30575,6 @@ online-weblog
 online-webpage
 online-website
 online-zapatilla
-online-бесплатно
 online,look
 online,shop
 online:look
@@ -41055,6 +41057,7 @@ turtle home
 turtle-home
 turtlehome
 turystyka
+tutor near me
 tutorial.asp
 tutorial.cfm
 tutorial.ctr
@@ -45428,8 +45431,7 @@ zyvox
 адекватного-муж
 админу
 активировать счет
-алкогольн
-алкогольные
+алкогол
 альтернатива
 анальной ебли
 андроид
@@ -45469,10 +45471,6 @@ zyvox
 бесплатная-демо
 бесплатная-диаг
 бесплатно
-бесплатной демо
-бесплатной диаг
-бесплатной-демо
-бесплатной-диаг
 бетор фирма
 бетор-фирма
 беторфирма
@@ -45792,7 +45790,10 @@ zyvox
 леонбет
 лечение зависимости
 лечение мето
+лечение наркомании
 лечение-зависимости
+лечение-мето
+лечение-наркомании
 лечить наркомани
 лечить-наркомани
 лига легенд
