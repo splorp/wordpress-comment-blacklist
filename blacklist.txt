@@ -5279,33 +5279,54 @@ $sixty
 1@2
 1@3
 1@seo
+1ackn
+1arge
+1arti
 1big
-1bodog
+1bodo
 1c.in
-1casino
-1cigar
-1femmes
-1generic
+1casi
+1ciga
+1comm	
+1comp
+1corr
+1dome
+1esto
+1fact
+1femm
+1frie
+1gene
 1hand
-1health
-1hommes
+1heal
+1homm
+1inop
+1lear
 1mil email
-1minut
+1minu
+1muti
 1ping
-1purse
+1pros
+1purs
+1reca
 1st comment
 1st-best
 1stbest
+1ster
 1stop
-1taylor
+1tayl
 1test
 1the best
 1the-best
-1title
+1titl
 1to1
+1town
+1twen
+1valu
+1vari
 1vine
 1xbet
 1you
+1zoop
 2 appli
 2 casino
 2 into $
@@ -5336,32 +5357,53 @@ $sixty
 2@seo
 2a aplicacao
 2a-aplicacao
+2ackn
+2arge
+2arti
 2bj.ru
 2buy
 2c.in
-2casino
-2cigar
-2generic
-2global
-2gogame
+2casi
+2ciga
+2comm	
+2comp
+2corr
+2dome
+2esto
+2fact
+2frie
+2gene
+2glob
+2goga
 2hand
-2health
+2heal
+2inop
 2itb
 2k20 vc
 2k20-vc
 2k20vc
+2lear
 2mil email
-2minut
+2minu
+2muti
 2ping
-2purse
+2pros
+2purs
+2reca
 2sale
-2taylor
+2ster
+2tayl
 2test
 2the best
 2the-best
-2title
+2titl
+2town
+2twen
 2u.org
+2valu
+2vari
 2you
+2zoop
 3 casino
 3 into $
 3 jailbreak
@@ -5379,25 +5421,45 @@ $sixty
 3@2
 3@3
 3@seo
-3casino
-3cigar
-3generic
+3ackn
+3arge
+3arti
+3casi
+3ciga
+3comm	
+3comp
+3corr
+3dome
+3esto
+3fact
+3frie
+3gene
 3hand
-3health
+3heal
+3inop
 3j3j3
+3lear
 3mil email
 3minut
+3muti
 3ping
-3purse
-3taylor
+3pros
+3purs
+3reca
+3ster
+3tayl
 3test
 3the best
 3the-best
-3title
-3twenty
+3titl
+3town
+3twen
+3valu
+3vari
 3win
 3ww
 3you
+3zoop
 4 cash
 4 casino
 4 cheap
