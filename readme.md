@@ -25,6 +25,7 @@ If you prefer a more hands-off approach, there are several plugins that will che
 + [Comment Blacklist Updater](https://wordpress.org/plugins/comment-blacklist-updater/) by [Apasionados](https://apasionados.es/)
 + [Shield Security](https://wordpress.org/plugins/wp-simple-firewall/) by [Shield Security](https://getshieldsecurity.com/)
 + [WP Toolbelt](https://github.com/BinaryMoon/wp-toolbelt) by [Ben Gillbanks](https://github.com/BinaryMoon)
++ [Zero Spam for WordPress](https://wordpress.org/plugins/zero-spam/) by [Highfivery](https://www.highfivery.com/)
 
 ## Does It Really Work?
 
