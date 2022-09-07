@@ -8260,6 +8260,7 @@ aү
 aх
 aһ
 aь
+aꮶ
 ɑb
 ɑc
 ɑd
@@ -12713,6 +12714,7 @@ check out the web
 check out this link
 check out this site
 check the ideas
+check this article
 check this blog
 check this ideas
 check this link
@@ -14712,11 +14714,13 @@ czytac-post
 cµ
 cг
 cе
+cк
 cҟ
 cу
 cһ
 cս
 cօ
+cꮶ
 d http
 ð¿
 d.@
@@ -17409,11 +17413,13 @@ eг
 eԁ
 eе
 eѕ
+eк
 eҟ
 eу
 eх
 eһ
 eь
+eꮶ
 f http
 f.@
 f.a.s.h.i.o.n
@@ -20437,6 +20443,10 @@ good site:
 good site!
 good site.
 good template
+good the man
+good the men
+good the woman
+good the women
 good thorough idea
 good web:
 good web!
@@ -23981,7 +23991,9 @@ iρ
 iг
 iԁ
 iѕ
+iк
 iҟ
+iꮶ
 i贸
 j http
 j.@
@@ -26645,7 +26657,9 @@ lyricafor
 lyricaprice
 lⲟ
 lі
+lк
 lо
+lꮶ
 l猫
 l�
 m http
@@ -27168,6 +27182,8 @@ marketingtip
 marketingxchange
 marketnn
 marketonline
+marketplace nft
+marketplace-nft
 marketprices
 marketpricing
 marketresearch
@@ -28709,6 +28725,7 @@ movie is not going
 movie on-line
 movie online
 movie release america
+movie relieve
 movie review are
 movie sponge
 movie video
@@ -29574,7 +29591,9 @@ nfr.ctr
 nfr.htm
 nfr.jsp
 nfr.php
+nft indo
 nft market
+nft-indo
 nft-market
 nftmarket
 nghiệp google
@@ -31138,6 +31157,7 @@ oϲ
 oг
 oԁ
 oѕ
+oк
 oҟ
 oо
 oх
@@ -31145,6 +31165,7 @@ oһ
 oь
 oս
 oᥙ
+oꮶ
 o�
 p http
 p.@
@@ -41981,6 +42002,8 @@ uygun fiyatlarla
 uygun-fiyatlarla
 uг
 uѕ
+uк
+uꮶ
 v buck buy
 v buck card
 v buck com
@@ -45816,6 +45839,12 @@ zyvox
 іn
 іs
 іt
+кa
+кe
+кi
+кo
+кu
+кy
 кабриолет
 казино
 казино rox
@@ -46768,6 +46797,12 @@ zyvox
 ꭼw
 ꭼx
 ꭼy
+ꮶa
+ꮶe
+ꮶi
+ꮶo
+ꮶu
+ꮶy
 강남건마
 검증사이트
 게임
