@@ -8709,6 +8709,8 @@ baratosnew
 baratosonline
 baratosperson
 baratosropa
+barbarian online
+barbarian-online
 barbour cloth
 barbour coat
 barbour jack
@@ -19570,6 +19572,7 @@ gamblingonline
 gamblingsite
 game bong
 game casino
+game game
 game gold
 game ionline
 game jers
@@ -19612,6 +19615,9 @@ gameionline
 gamejers
 gamemoney
 gameonline
+gamer game
+gamer-game
+gamergame
 gamers cheat
 gamers hack
 gamers-cheat
@@ -19620,10 +19626,12 @@ gamerscheat
 gamershack
 games casino
 games especially built
+games game
 games heart
 games reports
 games-casino
 games-especially-built
+games-game
 games-reports
 games,arcad
 games,board
@@ -19635,15 +19643,19 @@ games,sport
 games,strat
 games4king
 gamescasino
+gamesgame
 gamesreports
 gamewiki
+gaming game
 gaming maus
 gaming mäus
 gaming torrent
+gaming-game
 gaming-maus
 gaming-mäus
 gaming-torrent
 gaming.co.
+gaminggame
 gamma blue
 gamma-blue
 gammablue
@@ -31521,6 +31533,7 @@ paragraph is truly
 paragraph offer
 paragraph post
 paragraph present
+paragraph to get
 paragraph writ
 paragraph-at-this
 paragraph-here
@@ -32384,6 +32397,7 @@ plastische-chirurgie
 plated watch
 plated-watch
 plavix
+play car game
 play film trailer
 play films trailer
 play fortuna
@@ -32392,6 +32406,7 @@ play matka
 play video review
 play videos review
 play website
+play-car-game
 play-film-trailer
 play-films-trailer
 play-fortuna
@@ -32404,6 +32419,7 @@ play-runescape
 play-video-review
 play-videos-review
 play-website
+playcargame
 playedd
 playerblock
 playfortuna
@@ -33141,6 +33157,7 @@ powder-review
 powderbene
 power level
 power proficien
+power waste problem
 power-level
 power-proficien
 powerball
@@ -45049,6 +45066,7 @@ your positions continual
 your post seem
 your posting
 your posts is
+your power waste
 your publish
 your rest room
 your self from
