@@ -9634,10 +9634,8 @@ black-bodycon
 black-friday
 black-gay
 black-lesb
-black-magic-love
 black-magic-removal
 black-magic-spell
-black-magic-wealth
 black-militari
 black-tight
 black-tits
@@ -11048,9 +11046,7 @@ buy lol
 buy louis
 buy love spell
 buy lyrica
-buy magic book
-buy magic love
-buy magic wealth
+buy magic
 buy methotrex
 buy movie
 buy my thesis
@@ -11081,8 +11077,7 @@ buy trusted
 buy twitter
 buy v buck
 buy vpn service
-buy wealth magic
-buy wealth spell
+buy wealth
 buy women
 buy you tube
 buy your tote
@@ -11109,7 +11104,6 @@ buy-dump
 buy-duvet
 buy-essay
 buy-face
-buy-facebook
 buy-fifa
 buy-forskolin
 buy-generic
@@ -11121,7 +11115,6 @@ buy-gucci
 buy-hair
 buy-hoverboard
 buy-insta
-buy-instagram
 buy-jap
 buy-jord
 buy-jp
@@ -11131,9 +11124,7 @@ buy-lol
 buy-louis
 buy-love-spell
 buy-lyrica
-buy-magic-book
-buy-magic-love
-buy-magic-wealth
+buy-magic
 buy-methotrex
 buy-movie
 buy-n95
@@ -11149,7 +11140,7 @@ buy-proper
 buy-proxies
 buy-proxy
 buy-qsymia
-buy-rapid-test
+buy-rapid
 buy-resume
 buy-reviews
 buy-run
@@ -11157,7 +11148,7 @@ buy-seo
 buy-silver
 buy-snapchat
 buy-soccer
-buy-social-account
+buy-social
 buy-soma
 buy-targeted
 buy-telegram
@@ -11169,8 +11160,7 @@ buy-traff
 buy-trusted
 buy-twitter
 buy-vpn
-buy-wealth-magic
-buy-wealth-spell
+buy-wealth
 buy-women
 buy-you-tube
 buy-youtube
@@ -11237,6 +11227,7 @@ buykratom
 buylikes
 buylouis
 buylyrica
+buymagic
 buymethotrex
 buymovie
 buyn95
@@ -11258,6 +11249,7 @@ buytargeted
 buytoms
 buytraff
 buyvpn
+buywealth
 buywomen
 buzz invest
 buzz social
@@ -12416,6 +12408,7 @@ cheap evening dress
 cheap evening gown
 cheap ferrag
 cheap fifa
+cheap find
 cheap flower
 cheap footbal
 cheap fotbal
@@ -12458,6 +12451,7 @@ cheap replic
 cheap ring
 cheap sale
 cheap salv
+cheap seek
 cheap seo
 cheap sexy
 cheap sherr
@@ -12524,6 +12518,7 @@ cheap-evening-dress
 cheap-evening-gown
 cheap-ferrag
 cheap-fifa
+cheap-find
 cheap-flower
 cheap-footbal
 cheap-fotbal
@@ -12566,6 +12561,7 @@ cheap-replic
 cheap-ring
 cheap-sale
 cheap-salv
+cheap-seek
 cheap-seo
 cheap-sex
 cheap-sexy
@@ -12621,7 +12617,13 @@ cheapcoach
 cheapconverse
 cheapdeals
 cheaper essay
+cheaper find
+cheaper seek
 cheaper-essay
+cheaper-find
+cheaper-seek
+cheaperfind
+cheaperseek
 cheapessay
 cheapest hockey
 cheapest lowest
@@ -12641,6 +12643,7 @@ cheapestlow
 cheapestprice
 cheapestsmm
 cheapferrag
+cheapfind
 cheapflowergirl
 cheapfootbal
 cheapfotbal
@@ -12683,6 +12686,7 @@ cheaps ugg
 cheaps-ugg
 cheapsale
 cheapsalv
+cheapseek
 cheapseo
 cheapsex
 cheapshoe
@@ -19613,13 +19617,17 @@ gallery-world
 galleryporn
 galleryworld
 gamble online
+gamble tour
 gamble-online
+gamble-tour
 gambleonline
+gambletour
 gambling boat
 gambling casino
 gambling game
 gambling online
 gambling site
+gambling tour
 gambling-4-u
 gambling-4u
 gambling-boat
@@ -19627,11 +19635,13 @@ gambling-casino
 gambling-game
 gambling-online
 gambling-site
+gambling-tour
 gambling4u
 gamblingcasino
 gamblinggame
 gamblingonline
 gamblingsite
+gamblingtour
 game bong
 game casino
 game game
@@ -26035,6 +26045,9 @@ lipi=urn
 lipitor
 liqulr
 lirtle effort
+lisensi window
+lisensi-window
+lisensiwindow
 lisinopril
 lisseur-pascher
 lisseurpascher
@@ -26821,13 +26834,15 @@ magasinchemise
 magasinhollis
 magasinlongchamp
 magasinrobe
-magic love spell
+magic love
 magic spell cast
-magic wealth spell
-magic-love-spell
+magic wealth
+magic-love
 magic-spell-cast
-magic-wealth-spell
+magic-wealth
+magiclove
 magicmoncler
+magicwealth
 magister kesehatan
 magister-kesehatan
 magnetic marketing
@@ -43340,10 +43355,11 @@ we vigorous
 we-are-you
 we-vigorous
 wealth affiliate
-wealth spell cast
+wealth magic
+wealth spell
 wealth strat
 wealth-affiliate
-wealth-spell-cast
+wealth-spell
 wealth-strat
 wealthaffiliate
 wealthstrat
@@ -46123,6 +46139,8 @@ zyvox
 миллион
 мир визиток
 мир-визиток
+мікро займ
+мікрозайм
 млм
 многое другое
 многое-другое
