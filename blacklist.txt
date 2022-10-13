@@ -16330,6 +16330,8 @@ e-training for dog
 e!|
 e.@
 e.|
+e.d. pill
+e.d.pill
 e.i'
 e.i’
 e| p
@@ -18356,48 +18358,60 @@ finally talking about
 finally writing about
 financ-pak
 finance blog
+finance bot
 finance cash
 finance debt
 finance emerg
 finance provider
+finance robot
 finance service
 finance solution
 finance-
 finance-blog
+finance-bot
 finance-cash
 finance-debt
 finance-emerg
 finance-pak
 finance-provider
+finance-robot
 finance-service
 finance-solution
 financeblog
+financebot
 financecash
 financedebt
 financeemerg
 financepak
+financerobot
 financeservice
 financesolution
 financial advice book
 financial blog
+financial bot
 financial cash
 financial content
 financial debt
 financial emerg
+financial robot
 financial service
 financial solution
 financial-blog
+financial-bot
 financial-cash
 financial-content
 financial-debt
 financial-emerg
+financial-robot
 financial-service
 financial-solution
 financialblog
+financialbot
 financialcash
 financialcontent
 financialdebt
 financialemerg
+financialrobot
 financialservice
 financialsolution
 financist
@@ -18768,6 +18782,7 @@ forex + btc
 forex + crypto
 forex $
 forex bitcoin
+forex bot
 forex btc
 forex cfd
 forex crypto
@@ -18789,6 +18804,7 @@ forex trade
 forex wealth
 forex_
 forex-bitcoin
+forex-bot
 forex-btc
 forex-cfd
 forex-crypto
@@ -18809,6 +18825,7 @@ forex-south
 forex-trade
 forex-valu
 forex-wealth
+forexbot
 forexcfd
 forexdual
 forexforum
@@ -23121,6 +23138,8 @@ inbox9
 inboxcash
 inboxdollar
 inbto
+inc pharm
+inc-pharm
 incessantly thought
 incessantly-thought
 inch dildo
@@ -23145,6 +23164,7 @@ incomes-from-google
 incomes-of-google
 inconvenience comprehens
 inconvenience-comprehens
+incpharm
 increase likes
 increase traff
 increase your perspectives
@@ -27731,6 +27751,14 @@ medical-marijuana
 medicament info
 medicament-info
 medicarefraud
+medication shop
+medication-shop
+medication.shop
+medications shop
+medications-shop
+medications.shop
+medicationshop
+medicationsshop
 medicinez
 medicinz
 medico postura
@@ -28609,6 +28637,7 @@ monetize you
 monetize-you
 money adder
 money bonus
+money bot
 money buzz
 money fast
 money generat
@@ -28622,6 +28651,7 @@ money robot
 money vault
 money-adder
 money-bonus
+money-bot
 money-buzz
 money-fast
 money-game
@@ -28646,6 +28676,7 @@ money.htm
 money.jsp
 money.php
 moneybonus
+moneybot
 moneybuzz
 moneyfast
 moneygame
@@ -30945,14 +30976,17 @@ optimize enhance
 optimize-enhance
 option binaire
 option binary
+option bot
 option broker
 option include medi
 option robot
 option-binaire
 option-binary
+option-bot
 option-broker
 option-include-medi
 option-robot
+optionbot
 optionbroker
 optionrobot
 options binaire
@@ -32163,12 +32197,15 @@ phap ly vung
 pháp lý vững
 phap-ly-hung
 phap-ly-vung
+pharm online
 pharm rx
 pharm store
 pharm_
+pharm-online
 pharm-rx
 pharm-store
 pharm.
+pharm.online
 pharma canad
 pharma euro
 pharma from
@@ -32202,6 +32239,7 @@ pharmacy-outlet
 pharmacy-rx
 pharmacy-store
 pharmacy-without
+pharmacy.online
 pharmacy4u
 pharmacy24
 pharmacyat
@@ -32213,6 +32251,7 @@ pharmancies_
 pharmaun
 pharmi
 pharmo
+pharmonline
 pharmrx
 pharms
 pharmz
@@ -44574,12 +44613,15 @@ wowohouse
 wowosex
 wowosite
 woxok
+wp bot
 wp robot
+wp-bot
 wp-pad
 wp-phone
 wp-robot
 wpadmin
 wpblog.jp
+wpbot
 wpcontent
 wpimage
 wpinclude
