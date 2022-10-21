@@ -4,6 +4,7 @@ A chronological list of changes, bug fixes, and other milestones
 
 ## History
 
++ 20221021 — Fixed bug that affected comments containing the common punctuation pair “[.,](https://github.com/splorp/wordpress-comment-blacklist/commit/26812596fc84f55a08cf58d26473522a1cac59f8)”
 + 20220812 — 47,000 entries
 + 20220731 — Fixed bug that affected terms [ending with a space and a hyphen](https://github.com/splorp/wordpress-comment-blacklist/commit/fecd02ca29ebc8817ae4dac97a09153f1ccdce42)
 + 20220314 — 46,000 entries
