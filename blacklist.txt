@@ -4885,6 +4885,7 @@ _zapat
 /wp-content
 /wp-image
 /wp-include
+/wp-json
 /wp-list
 /wp-plugin
 /wp-site

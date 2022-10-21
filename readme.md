@@ -57,7 +57,9 @@ Spammers will also utilize links that include URLs that are specific to WordPres
 + /wp-content
 + /wp-image
 + /wp-include
++ /wp-json
 + /wp-list
++ /wp-plugin
 + /wp-site
 
 **Non-English Comments**
