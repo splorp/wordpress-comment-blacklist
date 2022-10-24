@@ -1458,30 +1458,10 @@ _zapat
 -zlatehory-
 -zlatehory.
 -zlatehory/
-･ ・
-･・
-, ,
-, .
-, |
-, annd
-, contact.
-,,
-,.
-,"
-,#
-,|
-,co science
-,death note
-,great job
-,iq science
 ,seo
-､､
-; test
 ;; http
 ;&#x
-;#
 : (.
-: d.
 :: blog
 :: web
 :) love
@@ -1500,8 +1480,6 @@ _zapat
 :user
 :usuario
 ！
-! ,
-! .
 ! this blog
 ! this post
 ! this site
@@ -1521,8 +1499,10 @@ _zapat
 ![]
 !}
 !@#
+? relevant !
 ? relevant!
 ? thanks !
+? thanks!
 ?,!
 ?,?
 ?,i
@@ -1530,7 +1510,6 @@ _zapat
 ?.i
 ?.y
 ?/pag
-?|
 ?a=stats
 ?add
 ?adidas
@@ -1590,13 +1569,10 @@ _zapat
 . ?i
 .-0
 .-1
-….
-…mumbai
 ..a
 .()
 .[]
 .%
-.| y
 .1-pack-
 .1-pack.
 .1-pack/
@@ -5150,23 +5126,19 @@ _zapat
 >.}
 >]
 >sex
-| |
 | cheap
+| loan
 | online
-| year
-||
+| payday
+| porn
+| yr
 |cash
-|chi
-|dal
-|det
-|for
+|cheap
 |loan
+|online
 |payday
-|per
 |porn
-|year
 |yr
-|基測
 ¦¦¦
 ¤¤
 $ porn
@@ -6063,7 +6035,6 @@ a‡
 ä±
 ã±
 ã¬
-a| s
 ã¤
 ã¢
 ã£
@@ -6910,7 +6881,6 @@ agario hack
 agario-hack
 agariohack
 age.webeden
-age|
 agedepot
 ageless female
 ageless male
@@ -6943,7 +6913,6 @@ agent-marbella
 agentdenim
 agents marbella
 agents-marbella
-ago|
 âgrâve
 ahaa,
 ahorro de cost
@@ -12597,6 +12566,7 @@ cheap-yeti
 cheap-yoga
 cheap-youth
 cheap+
+cheap|
 cheapadobe
 cheapadvair
 cheapafl
@@ -16305,7 +16275,6 @@ dу
 dս
 ɗe pieza
 ɗеl mueble
-e |o
 e cig trouble
 e e juice
 e e-juice
@@ -16329,15 +16298,11 @@ e-objetivo-da
 é-premium
 e-sportowa
 e-training for dog
-e!|
 e.@
-e.|
 e.d. pill
 e.d.pill
 e.i'
 e.i’
-e| p
-e| t
 e2by.in
 eâcute
 eager of read
@@ -17554,7 +17519,6 @@ f.j.oga
 f.jo.ga
 f.jog.a
 f.joga
-f| l
 fa.s.h.i.o.n
 fa.s.h.i.on
 fa.s.h.io.n
@@ -18776,7 +18740,6 @@ for-whole-sale
 for-wholesale
 for-windows-8
 for-your-need
-for|
 forball.top
 forboot
 forcheap
@@ -19568,9 +19531,7 @@ g-star-jean
 g-starjean
 g-string
 g!.
-g!|
 g.@
-g.|
 g.o.a.d.k
 g.o.a.dk
 g.o.ad.k
@@ -25360,11 +25321,8 @@ kỳ-tốt
 kе
 k�
 l http
-l!|
 l.@
-l.|
 l.uk.e.w.a.rm
-l| r
 la pillule
 la vida privada
 la-mentira
@@ -25467,7 +25425,6 @@ largest-penis
 largestpenis
 largetote
 lariam
-las|
 lasart.es
 laser heat paper
 laser tattoo
@@ -26166,6 +26123,7 @@ loaded your page
 loaded your site
 loaded your web
 loaded-vid
+loan |
 loan canad
 loan cash
 loan comp
@@ -26194,6 +26152,7 @@ loanfast
 loanlender
 loanonline
 loanpayday
+loans |
 loans canad
 loans compan
 loans fast
@@ -29364,10 +29323,7 @@ mzt-index
 mztindex
 m谩s
 n http
-n!|
 n.@
-n.|
-n| a
 n1-takeaway
 n1takeaway
 na disney se
@@ -30087,7 +30043,6 @@ not fake
 not suure
 not-dienst
 not-fake
-not|
 notable void
 notable-void
 notdienst
@@ -30256,9 +30211,7 @@ nո
 nօ
 o artigo!
 o http
-o!|
 o.@
-o.|
 o.all
 o.for
 o.the
@@ -30280,8 +30233,6 @@ o¨
 º©
 o±
 ø±
-o| a
-o| t
 o³
 ø³
 oª
@@ -30601,7 +30552,6 @@ ohttp
 oil analytic
 oil-analytic
 oilanalytic
-oit|
 ojectx
 ok helpful
 ok-cheap
@@ -30615,7 +30565,6 @@ oksex
 oksunglass
 okycupid
 old/dress
-old|
 olur oturum
 olur-oturum
 omalizumab
@@ -30889,6 +30838,7 @@ online.htm
 online.in
 online.jsp
 online.php
+online|
 onlinebackup
 onlinebag
 onlinebest
@@ -31870,6 +31820,7 @@ paulsmithsu
 paxil
 pay_day
 pay-as-you-go
+payday |
 payday cash
 payday loan
 payday-cash
@@ -32707,7 +32658,6 @@ point massage
 point_massage
 point-generat
 point-massage
-point|
 pointgenerat
 pointmassage
 points ,
@@ -35787,14 +35737,12 @@ rу
 ɍo
 ɍu
 ɍy
-s |f
 s best database
 s http
 s top database
 s:.
 s!.
 s.@
-s.|
 s.all
 s.for
 s.p.o.r.t
@@ -35806,7 +35754,6 @@ s.por.t
 s.the
 s.two
 s.webeden
-s| a
 sabah pasam
 sabah-pasam
 sabo charm
@@ -39472,9 +39419,7 @@ sօ
 sᥙ
 t http
 t_/
-t!|
 t.@
-t.|
 t.all
 t.e.mptest
 t.em.ptest
@@ -39493,7 +39438,6 @@ t.w.it
 t.wi.t
 t.wit.
 t.witt.
-t| c
 t᧐
 tabak fumar
 tabak tanzh
@@ -41139,7 +41083,6 @@ tour-site
 tourdiscount
 toursite
 towarowe anna lewandowska
-town|
 toys,sex
 toys,vibra
 trà đạo quán
@@ -47330,7 +47273,6 @@ zyvox
 商品
 商城
 块钱
-基測|
 壯陽
 外贸
 大除毛
