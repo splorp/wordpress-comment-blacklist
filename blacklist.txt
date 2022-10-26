@@ -17631,6 +17631,9 @@ facts door
 facts-about
 facts-door
 factthat
+fafa slot
+fafa-slot
+fafaslot
 fag-sex
 fagance
 fagsex
@@ -24040,8 +24043,7 @@ item.htm
 item.jsp
 item.php
 itemnotfound
-itís good
-itís hard
+itís
 itoakley
 its actually awesome
 its amazing article
@@ -25724,6 +25726,7 @@ leibly-nashivki
 lend-direct
 lenddirect
 lendsomemoney
+lengthy defunct
 lenjerie
 lensamovie
 lenses protection
@@ -36479,6 +36482,7 @@ seo & cms
 seo & mark
 seo add
 seo advert
+seo agent
 seo algo
 seo and cms
 seo and mark
@@ -36526,6 +36530,7 @@ seo_
 seo-1337
 seo-add
 seo-advert
+seo-agent
 seo-algo
 seo-and-cms
 seo-and-mark
@@ -40026,8 +40031,20 @@ that, great post
 that, great site
 that, great web
 that, great writing
+that?ll
+that?s
+that''ll
+that''s
+that’’ll
+that’’s
+that”ll
+that”s
+that`ll
+that`s
 thatattempt
 thatgiare
+thatíll
+thatís
 thatover
 thatprofit
 thatrapid
@@ -40097,6 +40114,7 @@ the other blog
 the pokie
 the pople
 the precise very
+the precise world
 the quality promo
 the right blog
 the right web
@@ -40954,6 +40972,7 @@ top new
 top option
 top quality as
 top quality of service
+top samara
 top sight
 top stop
 top tier
@@ -40987,6 +41006,7 @@ top-naked
 top-new
 top-option
 top-rank
+top-samara
 top-search
 top-sight
 top-site
@@ -41053,6 +41073,7 @@ topnew
 topoic
 toprank
 toprega
+topsamara
 topsearch
 topseo
 topsite
@@ -43836,6 +43857,8 @@ weight-work
 weight101
 weightnatur
 weightwork
+weitere seo
+weitere-seo
 welcome-to-my-blog
 welcome-to-my-page
 welcome-to-my-site
@@ -45159,22 +45182,26 @@ you,look
 you:-
 you:)
 you!look
+you?d
 you?ll
 you?re
 you.look
 you.whe
+you''d
 you''ll
 you''re
 you're bettor
 you're discussing online
 you're info
 you're sill
+you’’d
 you’’ll
 you’’re
 you’re bettor
 you’re discussing online
 you’re info
 you’re sill
+you”d
 you”ll
 you”re
 you@example
@@ -45189,6 +45216,7 @@ youhr business
 youhr info
 youhr web
 youíd
+youíll
 youíre
 youll
 youmovie
@@ -46653,6 +46681,7 @@ zyvox
 удивительные
 уже пол
 уже-пол
+управляющую компан
 ура наконецто
 ура-наконецто
 услуг
