@@ -27,6 +27,8 @@ If you prefer a more hands-off approach, there are several plugins that will che
 + [WP Toolbelt](https://github.com/BinaryMoon/wp-toolbelt) by [Ben Gillbanks](https://github.com/BinaryMoon)
 + [Zero Spam for WordPress](https://wordpress.org/plugins/zero-spam/) by [Highfivery](https://www.highfivery.com/)
 
+For users of the [Gravity Forms](https://www.gravityforms.com/) custom form builder, [Gravity Forms Blocklist](https://gravitywiz.com/documentation/gravity-forms-blocklist/) is an add-on that takes advantage of the automatic blacklist updates provided by one of the aforementioned plugins.
+
 ## Does It Really Work?
 
 I don’t blame you if you’re skeptical about how well this blacklist works compared to a commercial solution like [Akismet](https://akismet.com/). Because I am subjectively including keywords based on comment spam submitted to my own sites, there is a chance that the blacklist will “overclean” your comment queue.
@@ -86,7 +88,7 @@ For example, in an earlier version of the blacklist the keyword `::` had been in
 
 *“So much for using Akismet.”*
 
-Thanks to [Mika Epstein](https://github.com/ipstenu), [Ben Gillbanks](https://github.com/BinaryMoon), [Paul Goodchild](https://twitter.com/PaulGoodchild), [Sergej Müller](https://github.com/sergejmueller), [Andrew Norcross](https://github.com/norcross), [Fabrizio Salmi](https://github.com/fabriziosalmi), [Volker Schmidt](https://github.com/volkerjschmidt), and [Claudio Schwarz](https://github.com/purzlbaum) for their various contributions, suggestions, and reports from the field.
+Thanks to [Mika Epstein](https://github.com/ipstenu), [Ben Gillbanks](https://github.com/BinaryMoon), [Paul Goodchild](https://twitter.com/PaulGoodchild), [Sergej Müller](https://github.com/sergejmueller), [Andrew Norcross](https://github.com/norcross), [Clifford Paulick](https://github.com/cliffordp), [Fabrizio Salmi](https://github.com/fabriziosalmi), [Volker Schmidt](https://github.com/volkerjschmidt), and [Claudio Schwarz](https://github.com/purzlbaum) for their various contributions, suggestions, and reports from the field.
 
 Likewise, [Chris Burton](https://chrisburton.me/) deserves a virtual fist bump for the above quote.
 
