@@ -2589,7 +2589,6 @@ _zapat
 @xyz.net
 @yahoo.a.
 *@
-/ http
 /_blog
 /_t
 /-_
@@ -5990,7 +5989,6 @@ a fastidious one
 a few web
 a ffew
 a final results
-a http
 a impressive article
 a impressive blog
 a impressive page
@@ -8276,7 +8274,6 @@ aꮶ
 ɑv
 ɑw
 ɑy
-b http
 b-ig-event
 b.@
 b.a.g.s
@@ -11304,7 +11301,6 @@ bу
 bү
 bս
 bօ
-c http
 c.@
 c.a.rol
 c.ar.ol
@@ -14793,7 +14789,6 @@ cһ
 cս
 cօ
 cꮶ
-d http
 ð¿
 d.@
 d.the
@@ -16302,7 +16297,6 @@ e cig trouble
 e e juice
 e e-juice
 e ejuice
-e http
 e objetivo da
 é objetivo da
 é premium
@@ -17377,8 +17371,10 @@ exmo.co
 expect laser hair
 expecteded
 expensive haver
+expensive marketing tool
 expensive vaca
 expensive-haver
+expensive-marketing-tool
 expensive-vaca
 expensivehaver
 expensivevaca
@@ -17504,7 +17500,6 @@ eх
 eһ
 eь
 eꮶ
-f http
 f.@
 f.a.s.h.i.o.n
 f.a.s.h.i.on
@@ -18182,6 +18177,9 @@ fendi1
 fendi2
 fendibelt
 fendidonna
+feng shui shop
+feng-shui-shop
+fengshuishop
 fenoma
 fenster geputzt
 fenteetum
@@ -19555,7 +19553,6 @@ fа
 fе
 fо
 g -)
-g http
 g spot vibrator
 g-spot-vibrator
 g-star jean
@@ -21346,7 +21343,6 @@ gyslera
 gⲟ
 gо
 gѡo
-h http
 h.@
 haarige beichte
 haarige-beichte
@@ -22863,7 +22859,6 @@ i conceive you
 i contact admin
 i dugg
 i eally
-i http
 i like your quality
 i needs
 i not to mention
@@ -23978,9 +23973,19 @@ isabel marant
 isabel-marant
 isabelmarant
 islam femme
+islam relief
 islam vid
 islam-femme
+islam-relief
 islam-vid
+islamic femme
+islamic relief team
+islamic vid
+islamic-femme
+islamic-relief-team
+islamic-vid
+islamicvid
+islamrelief
 islamvid
 island jack
 island-jack
@@ -24145,7 +24150,6 @@ iк
 iҟ
 iꮶ
 i贸
-j http
 j.@
 j.i.mlard
 j.o.s.h
@@ -24718,7 +24722,6 @@ justificar prova
 justificar-prova
 justness
 jս
-k http
 k--k.
 k.@
 k.a.t.h.leen
@@ -25368,7 +25371,6 @@ ky-tot
 kỳ-tốt
 kе
 k�
-l http
 l.@
 l.uk.e.w.a.rm
 la pillule
@@ -26823,7 +26825,6 @@ lо
 lꮶ
 l猫
 l�
-m http
 m.@
 m4a converter free
 m4a2mp3
@@ -29373,7 +29374,6 @@ mʏ web
 mzt-index
 mztindex
 m谩s
-n http
 n.@
 n1-takeaway
 n1takeaway
@@ -30260,8 +30260,6 @@ nу
 nү
 nո
 nօ
-o artigo!
-o http
 o.@
 o.all
 o.for
@@ -31368,7 +31366,6 @@ oս
 oᥙ
 oꮶ
 o�
-p http
 p.@
 p.y.t.h.o.n
 p.y.t.h.on
@@ -34290,7 +34287,6 @@ pѓ
 pђ
 pо
 pџ
-q http
 q.@
 qampuz
 qatar escort
@@ -34429,9 +34425,7 @@ quotes-saying
 quotesdeal
 quwlity
 qux
-qvc
 qᥙ
-r http
 r?f?rence
 r.@
 r.all
@@ -35793,7 +35787,6 @@ rу
 ɍu
 ɍy
 s best database
-s http
 s top database
 s:.
 s!.
@@ -37420,6 +37413,7 @@ shop-ban-phu
 shop-blog
 shop-boot
 shop-bought
+shop-business
 shop-coupon
 shop-erotic
 shop-jap
@@ -37440,6 +37434,7 @@ shop-web
 shop.asia
 shop.top
 shopboot
+shopbusiness
 shopcoupon
 shopcustomer
 shopee.tw
@@ -39483,7 +39478,6 @@ sһ
 sս
 sօ
 sᥙ
-t http
 t_/
 t.@
 t.all
@@ -41558,7 +41552,6 @@ tу
 tү
 tօ
 tᥙ
-u http
 u.@
 ú†
 ù†
@@ -42329,7 +42322,6 @@ v bucks gift
 v bucks give
 v bucks price
 v bucks win
-v http
 v-i-s-a-r-t
 v.@
 va ballgown
@@ -43303,7 +43295,6 @@ vzloma-zaparolennogo
 vzlomat
 vе
 vіctoinox
-w http
 w.@
 w.il.lkom.men
 w.o.r.t.h
@@ -43618,6 +43609,8 @@ web-visitor
 web-web
 web-wordpress
 web.best
+web's article
+web’s article
 web/icon
 web/index
 web4s
@@ -43707,6 +43700,7 @@ webporn
 webpro
 webpromo
 webproperty
+webs article
 webscheme
 webseite bookmark
 webseite download
@@ -44942,7 +44936,6 @@ wо
 wһ
 wօ
 x adidas
-x http
 x libido
 x portant
 x rumer
@@ -45028,7 +45021,6 @@ xzzy.ru
 xzzy.su
 xzzy.za
 y culo
-y http
 y pezone
 y teta
 y tetona
@@ -45582,7 +45574,6 @@ yⲟ
 yе
 yо
 yօ
-z http
 z.@
 zabaw
 zaden kopen
@@ -46834,6 +46825,12 @@ zyvox
 աn
 աo
 աu
+գa
+գe
+գi
+գo
+գu
+գy
 ոa
 ոe
 ոi
