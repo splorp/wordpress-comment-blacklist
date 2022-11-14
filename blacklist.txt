@@ -57,7 +57,6 @@ _forex
 _fuck
 _gabbana
 _gucci
-_handjob
 _hermes
 _herpes
 _heuer
@@ -475,8 +474,6 @@ _zapat
 -canada-goose
 -canadagoose
 -capital-partner
--car.co
--car.in
 -casas-en-
 -cash.
 -cash/
@@ -510,7 +507,6 @@ _zapat
 -cheats.
 -cheats/
 -chung-cu-
--cia.co
 -cialis-
 -cialis.
 -cialis/
@@ -762,6 +758,12 @@ _zapat
 -gambling-
 -gambling.
 -gambling/
+-games.in
+-games.pl
+-games.ro
+-games.ru
+-games.su
+-games.za
 -gaming-
 -gaming.
 -gaming/
@@ -776,9 +778,6 @@ _zapat
 -handbags-
 -handbags.
 -handbags/
--handjob-
--handjob.
--handjob/
 -harley-davidson-
 -hat-to-
 -haziran-
@@ -1203,10 +1202,22 @@ _zapat
 -remote-access
 -remote-desktop
 -repair.co
+-repair.in
+-repair.pl
+-repair.ro
+-repair.ru
+-repair.su
+-repair.za
 -retina247-
 -retina247.
 -retina247/
 -review.co
+-review.in
+-review.pl
+-review.ro
+-review.ru
+-review.su
+-review.za
 -review/
 -rims-
 -roulette-
@@ -1395,7 +1406,6 @@ _zapat
 -transexuelle/
 -transpiration-
 -treatment-
--tw.in
 -uae/service
 -uggs-
 -uggs.
@@ -1904,9 +1914,6 @@ _zapat
 .haberlist-
 .haberlist.
 .haberlist/
-.handjob-
-.handjob.
-.handjob/
 .hard-
 .hatenablog.
 .hatenadiary.
@@ -2991,6 +2998,7 @@ _zapat
 /birkenstocks.
 /birkin-
 /birkin.
+/birkin/
 /bisnis-
 /bisnis.
 /bisnis/
@@ -3630,9 +3638,6 @@ _zapat
 /haberlist/
 /haglofs-
 /haglofs.
-/handjob-
-/handjob.
-/handjob/
 /handle/
 /hats/
 /hdfilm-
@@ -6171,6 +6176,9 @@ aaa replic
 aaa-replic
 aaabbb
 aaik392m
+aajni news
+aajni-news
+aajninews
 aall my
 aall-my
 aam happy
@@ -9571,8 +9579,10 @@ biz-cash
 biz-market
 biz-news
 biz-wealth
+biz.co
 biz.in
 biz.pl
+biz.ro
 biz.ru
 biz.su
 biz.za
@@ -11285,7 +11295,6 @@ bvlgariuk
 bxh pháp
 bxh-phap
 bxhphap
-bxox.in
 by all the opinion
 by experienced people
 by-dr-dre
@@ -13950,7 +13959,6 @@ computergam
 computerpc
 computerperform
 computerpressrelease
-computers.in
 comreview
 comunity
 concentrate exist
@@ -14834,7 +14842,6 @@ daily-life-meaning
 daily-vape
 daily-vaping
 daily.bl
-dailyreview.co
 dailystrength
 dailyvape
 dailyvaping
@@ -14912,10 +14919,8 @@ data-nonetheless
 data-togel
 data-tools
 database of leads
-database.co
 datafastprox
 dataput.ru
-datarecovery.co
 datarecoveryhospital
 datatogel
 dataz
@@ -15435,7 +15440,6 @@ die besten nativ
 die kuhlbox
 die kühlbox
 die-kühlbox
-dienst.in
 diesel denim
 diesel hot
 diesel jap
@@ -15625,7 +15629,6 @@ discount-ugg
 discount-voucher
 discount-wheel
 discount.co
-discount.co.
 discount.org
 discountafl
 discountbag
@@ -16325,7 +16328,6 @@ e.d. pill
 e.d.pill
 e.i'
 e.i’
-e2by.in
 eâcute
 eager of read
 eagerly wiggling
@@ -16352,7 +16354,6 @@ earn-more-cash
 earn-more-money
 earthly lover
 earthly-lover
-ease.in
 easier consume
 easier to available
 easily one tight
@@ -16368,7 +16369,6 @@ easy-blog
 easy-naked
 easy-weblog
 easy-website
-easy.in
 easyagency
 easyloan
 easynaked
@@ -17354,6 +17354,7 @@ exclusive rendez
 exclusive-rendez
 exclusive.in
 exclusive.pl
+exclusive.ro
 exclusive.ru
 exclusive.su
 exclusive.za
@@ -18416,7 +18417,6 @@ financialrobot
 financialservice
 financialsolution
 financist
-financist.in
 financpak
 finanse
 finansial terse
@@ -18489,11 +18489,6 @@ firearmstore
 firefox-setting
 firefoxik
 firefoxsetting
-firm.in
-firm.pl
-firm.ru
-firm.su
-firm.za
 firma betor
 firma reinigung
 firma sprzata
@@ -18635,7 +18630,6 @@ flvto conv
 flvto-conv
 flvtoconv
 fmovie
-fobur.in
 fodbold trojer
 fodbold trøjer
 fodbold-trojer
@@ -18881,7 +18875,7 @@ forsale-go
 forsale-jap
 forsale-jp
 forsale-uk
-forsale.in
+forsale.biz
 forsale.market
 forsale.shop
 forsaledirect
@@ -19009,11 +19003,7 @@ frauenpuma
 frdern
 freaky deaky
 freaky-deaky
-frebvic.in
-frebvic.pl
-frebvic.ro
-frebvic.ru
-frebvic.za
+frebvic
 free .tv
 free adult game
 free and uncut
@@ -19175,7 +19165,6 @@ free-v-bucks
 free-watch
 free-web
 free-xbox
-free.in
 freearticle
 freeatm
 freeauto
@@ -19479,23 +19468,8 @@ fund market
 fund trend
 fund-market
 fund-trend
-fund.in
-fund.pl
-fund.ru
-fund.su
-fund.za
 fundamsntal
-funding.in
-funding.pl
-funding.ru
-funding.su
-funding.za
 fundmarket
-funds.in
-funds.pl
-funds.ru
-funds.su
-funds.za
 funnelvio review
 funnelvio-review
 funny meme
@@ -20456,6 +20430,7 @@ gold-unobtain
 gold-vip
 gold.in
 gold.pl
+gold.ro
 gold.ru
 gold.su
 gold.za
@@ -21308,6 +21283,9 @@ guidebook-you
 guidelines denotes
 guidewant
 guiltfree
+gujarati news
+gujarati-news
+gujaratinews
 gull-minnow.gull-minnow
 gull-minnow.top
 gun ammo
@@ -21584,8 +21562,7 @@ handbagswom
 handbagu
 handbagwhole
 handbagwom
-handjob_
-handjobs_
+handjob
 handsome gold
 handsome-gold
 handtasche
@@ -23180,7 +23157,6 @@ income masterclass
 income-from-google
 income-masterclass
 income-of-google
-income.in
 incomes-from-google
 incomes-of-google
 inconvenience comprehens
@@ -23720,7 +23696,6 @@ internet-visit
 internet-web
 internet-worship
 internet-writers
-internet.in
 internet/article
 internetblog
 internetchurch
@@ -23771,8 +23746,6 @@ invest-in-crypto
 invest-in-litecoin
 invest-money
 invest-off
-invest.in
-invest.net
 invest.pl
 invest.ro
 invest.ru
@@ -23830,14 +23803,12 @@ investmenttips
 investmoney
 investoff
 investor-rebel
-investor.in
 investor.pl
 investor.ro
 investor.ru
 investor.su
 investor.za
 investors-rebel
-investors.in
 investors.pl
 investors.ro
 investors.ru
@@ -24831,6 +24802,12 @@ karpet-karakter
 karpet-ruang
 karpetkarakter
 karpetruang
+kartal escort
+kartal eskort
+kartal-escort
+kartal-eskort
+kartalescort
+kartaleskort
 kartu poker
 kartu-poker
 karuteie
@@ -25507,6 +25484,7 @@ latelier-give
 later-with
 later.with
 latest blog
+latest gujarati
 latest weblog
 latest-blog
 latest-weblog
@@ -25979,7 +25957,6 @@ line poker
 line-poker
 lingerie-sea
 lingeriesea
-linguim.co
 link bait
 link build
 link camp
@@ -26202,10 +26179,6 @@ loan-fast
 loan-lender
 loan-online
 loan-payday
-loan.bid
-loan.co
-loan.in
-loan.net
 loan|
 loanalys
 loancash
@@ -26227,10 +26200,6 @@ loans-direct
 loans-fast
 loans-online
 loans-payday
-loans.co
-loans.in
-loans.net
-loans.xyz
 loans|
 loans1
 loans2
@@ -26942,12 +26911,6 @@ mai-buna-folie
 mai-buna-pret
 mail order bride
 mail-order-bride
-mail.in
-mail.pl
-mail.ro
-mail.ru
-mail.su
-mail.za
 mailftp
 maillot bundes
 maillot de
@@ -27345,7 +27308,6 @@ marketing-strategy
 marketing-tip
 marketing-video-clip
 marketing-xchange
-marketing.in
 marketingblog
 marketingbook
 marketingexchang
@@ -27458,7 +27420,6 @@ master freespin
 master-cheat
 master-free-spin
 master-freespin
-master.in
 master.pl
 master.ru
 master.su
@@ -27476,7 +27437,6 @@ masters hack
 masters-cheat
 masters-free-gem
 masters-hack
-masters.in
 masters.pl
 masters.ro
 masters.ru
@@ -27709,7 +27669,6 @@ mcm-new
 mcm-purse
 mcm-shop
 mcm-stark
-mcm.co
 mcmbackpack
 mcmbag
 mcmbelt
@@ -27808,7 +27767,6 @@ medieval cost
 medieval-cost
 medievalcost
 medigital
-medikal.co
 medium and huge
 medizinische
 medphrase
@@ -28070,6 +28028,8 @@ menthol-dunhill
 mentimber
 mentioned very interest
 menu/menu
+menuimov
+menumov
 mequinol
 meratol
 mercado e ativo
@@ -28083,7 +28043,6 @@ mercati-di
 mercedes vip
 mercedes-vip
 mercedesvip
-mercenary.co
 mercurial 2020
 mercurial 2021
 mercurial 2022
@@ -28394,7 +28353,6 @@ mlskev
 mlsp suit
 mlsp-suit
 mlspweapon
-mmcenter.in
 mmm i really
 mmy blog
 mmy page
@@ -28446,7 +28404,6 @@ models-in-dubai
 models-in-uae
 models-of-france
 models-uae
-models.in
 modelsagency
 modelsindubai
 modelsinuae
@@ -28913,7 +28870,6 @@ movement-part
 movementpart
 mover los angeles
 movers los angeles
-movi.co
 movie are general
 movie full
 movie game play
@@ -29360,6 +29316,11 @@ mypromo
 myqrop
 myresume
 myreview.co
+myreview.in
+myreview.ro
+myreview.ru
+myreview.su
+myreview.za
 myriads of enthusiast
 myspacee
 myssite
@@ -29649,7 +29610,6 @@ net-turtle
 net-viewer
 netbiz
 nethttp
-netload.in
 nett fonts
 nett-fonts
 nette web
@@ -29744,7 +29704,6 @@ news papers
 news update post
 news_comment
 news-papers
-news.in
 news.ru/news
 news.ru/novost
 newseo
@@ -30147,8 +30106,6 @@ novost.ru/news
 novost.ru/novost
 now now
 now-now
-now.in
-now.the
 nowe zdjecia
 nowe zdjęcia
 nowe_zdj_cie
@@ -30898,7 +30855,6 @@ online.asp
 online.cfm
 online.ctr
 online.htm
-online.in
 online.jsp
 online.php
 online|
@@ -30999,8 +30955,6 @@ openning
 operated respir
 operated-respir
 operationms
-opinion.in
-opinions.in
 oprawki ray
 oprawki-ray
 oprawkiray
@@ -31732,6 +31686,7 @@ parduodu versla
 parduodu verslą
 parduodu-versla
 pareagraph
+parent university parent
 paretologic
 paris bors
 paris securis
@@ -33315,8 +33270,6 @@ posts.pw
 posts.real
 posts.thank
 posttestimonial
-posturad.in
-posturads.in
 posylka-iz-kitaya
 posylka-izkitaya
 posylka.izkitaya
@@ -35435,7 +35388,6 @@ review.bl
 review.cfm
 review.ctr
 review.htm
-review.in
 review.jsp
 review.php
 reviewbest
@@ -35460,7 +35412,6 @@ reviews.bl
 reviews.cfm
 reviews.ctr
 reviews.htm
-reviews.in
 reviews.jsp
 reviews.net
 reviews.org
@@ -35529,10 +35480,10 @@ right-blog
 right-webmaster
 rightblog
 riight
-rilopkais.in
+rilopkais
 rimedi natural
 rimedi-natural
-rin.in
+rimjob
 riot points
 riot-points
 riotpoints
@@ -36201,15 +36152,6 @@ sɑ
 sbobet
 scam store
 scam-store
-scam.asp
-scam.cfm
-scam.ctr
-scam.htm
-scam.in
-scam.jsp
-scam.net
-scam.org
-scam.php
 scar repair
 scar-repair
 scarpe air
@@ -36345,6 +36287,7 @@ search ffor
 search gogle
 search master knowledge
 search optim
+search out success
 search porn
 search_engine_you
 search_engines_you
@@ -38257,12 +38200,6 @@ software-house
 software-kasir
 software-program-operate
 software-secret
-software.in
-software.pl
-software.ro
-software.ru
-software.su
-software.za
 softwarehouse
 softwares
 softwaresecret
@@ -38285,13 +38222,6 @@ solde-canad
 solde-lancel
 solde-loubou
 solde-ralph
-solde.co
-solde.in
-solde.pl
-solde.ro
-solde.ru
-solde.su
-solde.za
 soldebotte
 soldecanad
 soldelancel
@@ -38307,13 +38237,6 @@ soldes-canad
 soldes-lancel
 soldes-loubou
 soldes-ralph
-soldes.co
-soldes.in
-soldes.pl
-soldes.ro
-soldes.ru
-soldes.su
-soldes.za
 soldesbotte
 soldescanad
 soldeslancel
@@ -38409,12 +38332,6 @@ source-blossom
 source-of-incomes
 sourcehere
 sovaldi
-sozedde.co
-sozedde.in
-sozedde.pl
-sozedde.ro
-sozedde.ru
-sozedde.za
 sp.o.r.t
 sp1 key
 sp1-key
@@ -38487,11 +38404,12 @@ speedproxi
 speedproxy
 speedseo
 speedy cash
+speedy paper
 speedy-cash
+speedy-paper
 speedy-product
 speedycash
-speedypaper info
-speedypaper.in
+speedypaper
 spend careful attention
 spend on convenience
 spendding
@@ -39965,8 +39883,6 @@ test post
 test yapili
 test-post
 test-yapili
-test.ca
-test.in
 test.tumblr
 test1.
 tested resume
@@ -40247,6 +40163,7 @@ them to our site
 them to our web
 them-inaccurate
 them.the
+themaidu
 theme for blog
 theme generat
 theme of your blog
@@ -40922,7 +40839,6 @@ toan dau tu
 toàn đầu tư
 toan-dau-tu
 toasterovensnow
-tobuy.in
 today news
 today-4u
 today-news
@@ -41171,6 +41087,11 @@ tosurveu
 total free
 total-free
 totaldns.in
+totaldns.pl
+totaldns.ro
+totaldns.ru
+totaldns.su
+totaldns.za
 totalfree
 totalizador
 totally free
@@ -41308,7 +41229,6 @@ trazodone
 treatement
 treatment gyno
 treatment-gyno
-treatment.in
 treatmentgyno
 treatyment
 trello freetalk
@@ -41593,7 +41513,11 @@ uaeescort
 uaeeskort
 uaepearl
 uaeshop
+uaewomanclub
+uaewomansclub
+uaewomenclub
 uaewomensclub
+uarmene
 uau incrivel
 uau incrível
 uau uau
@@ -42012,6 +41936,7 @@ unitted states
 universal key
 universal-key
 universalkey
+university parent university
 university suggest
 university_suggest
 university-suggest
@@ -43399,15 +43324,6 @@ wardrobe-appli
 wardrobeappli
 ware-crack
 warecrack
-warehouse.in
-warehouse.net
-warehouse.org
-warehouse.pl
-warehouse.ro
-warehouse.ru
-warehouse.su
-warehouse.us
-warehouse.za
 warepics
 warez
 warfarin online
@@ -43901,14 +43817,12 @@ weebmaster
 weebpage
 weebsite
 week reaction
-week.in
 weekly casino
 weekly income
 weekly profit
 weekly-casino
 weekly-income
 weekly-profit
-weekly.in
 weeklycasino
 weeklyincome
 weeklyprofit
@@ -47033,6 +46947,7 @@ zyvox
 فقدان الوزن
 فقدان-الوزن
 قم نجار
+قیمت مناسب
 قیمت نبشی
 قیمت و خرید
 كاشف الذهب
@@ -47051,6 +46966,7 @@ zyvox
 كوفيد تمارين
 كوفيد, تمارين
 كوفيد,تمارين
+کاملا مناسب
 کرپٹوکرنسی
 کیر
 لتحميل
