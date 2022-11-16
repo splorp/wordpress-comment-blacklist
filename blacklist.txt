@@ -345,6 +345,9 @@ _zapat
 -anonymous.
 -anonymous/
 -app-rating
+-appliancerepair-
+-appliancerepair.
+-appliancerepair/
 -argente-
 -argente.
 -argente/
@@ -1636,6 +1639,9 @@ _zapat
 .annalewandowska.
 .annalewandowska/
 .app-rating
+.appliancerepair-
+.appliancerepair.
+.appliancerepair/
 .ararblog.
 .armani-
 .armani/
@@ -2902,6 +2908,9 @@ _zapat
 /answer-
 /answer.
 /app-rating
+/appliancerepair-
+/appliancerepair.
+/appliancerepair/
 /archive.li
 /armani-
 /armpit-
@@ -7209,6 +7218,8 @@ ammo-shop
 ammo-store
 ammoshop
 ammostore
+ammunitionandgunshop
+ammunitiongunshop
 amor barulhento
 amor de volta
 amor tarot
@@ -11017,6 +11028,7 @@ buy forskolin
 buy generic
 buy genie
 buy gig
+buy glock
 buy gold
 buy google
 buy hair
@@ -11096,6 +11108,7 @@ buy-forskolin
 buy-generic
 buy-genie
 buy-gig
+buy-glock
 buy-gold
 buy-google
 buy-gucci
@@ -11174,6 +11187,7 @@ buyessay
 buyexpressvpn
 buyface
 buygeneric
+buyglock
 buygold
 buyhair
 buyhermes
@@ -12405,6 +12419,7 @@ cheap fotbal
 cheap futbol
 cheap ga
 cheap galaxy
+cheap glock
 cheap gold
 cheap hockey
 cheap hotel
@@ -12514,6 +12529,7 @@ cheap-footbal
 cheap-fotbal
 cheap-futbol
 cheap-ga
+cheap-glock
 cheap-gold
 cheap-gucci
 cheap-hat
@@ -12640,6 +12656,7 @@ cheapfootbal
 cheapfotbal
 cheapfutbal
 cheapga
+cheapglock
 cheapgold
 cheapgucci
 cheaphat
@@ -15165,6 +15182,7 @@ delivery-near-me
 delivery-nearme
 delivery-philip
 delta-marketing
+deltaamarketing
 deltamarketing
 deltasone
 dem gay
@@ -18639,6 +18657,9 @@ fodboldtrøjer
 foglio prada
 foglio-prada
 foglioprada
+folding glock
+folding-glock
+foldingglock
 folia auto llumar
 foliei llumar
 follixin
@@ -20339,6 +20360,9 @@ globally-known
 globallyknown
 globalmailserver
 globalnpn
+glock online
+glock-online
+glockonline
 glubokoye glot
 glubokoye-glot
 glucophage
@@ -47343,6 +47367,7 @@ zyvox
 投注网站
 摔死女
 攜心山
+數位媒體
 春藥
 晶燈
 服务
