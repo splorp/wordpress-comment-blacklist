@@ -823,6 +823,9 @@ _zapat
 -hot-teen-
 -hot-teen.
 -hot-teen/
+-household-cleaning-
+-household-cleaning.
+-household-cleaning/
 -iapple-
 -iapple.
 -iapple/
@@ -1945,6 +1948,10 @@ _zapat
 .hot-teen.
 .hot-teen/
 .hotblog.
+.household-cleaning-
+.household-cleaning.
+.household-cleaning/
+.i-rama.
 .iapple-
 .iapple.
 .iapple/
@@ -3708,6 +3715,9 @@ _zapat
 /hot-teen/
 /hot.
 /hotdeal
+/household-cleaning-
+/household-cleaning.
+/household-cleaning/
 /how-to-
 /how-to.
 /howto-
@@ -9361,6 +9371,7 @@ big 100%
 big bling
 big casino
 big cock
+big law does
 big porn
 big pussy
 big replic
@@ -17444,6 +17455,9 @@ explosive-growth
 express index
 express-index
 expressindex
+exquisite tutor
+exquisite-tutor
+exquisitetutor
 extended essay
 extended-essay
 extensive article
@@ -19353,6 +19367,7 @@ frmoncler
 from -this-site
 from maltreating
 from my web
+from our argument made
 from subsequent
 from this blog
 from this content
@@ -29602,6 +29617,7 @@ need-sex
 needbitcoin
 needbytecoin
 needed it hard
+needed legal service
 needlitecoin
 needmoney
 needs wondrous
@@ -39744,6 +39760,14 @@ te.mptes.t
 te.mptest
 teach english learn
 teach-you-every
+teacher linguistic
+teacher math
+teacher-linguistic
+teacher-math
+teachers linguistic
+teachers math
+teachers-linguistic
+teachers-math
 teachingand
 team shirt
 team tshirt
@@ -40002,6 +40026,7 @@ thankyou.htm
 thankyou.jsp
 thankyou.php
 that ad decid
+that big law
 thất giá rẻ
 that i may subscribe
 that iis
@@ -41445,7 +41470,11 @@ turtle-home
 turtlehome
 turystyka
 tutessed
+tutor africa
+tutor kenya
 tutor near me
+tutor-africa
+tutor-kenya
 tutorial.asp
 tutorial.cfm
 tutorial.ctr
@@ -41453,6 +41482,10 @@ tutorial.htm
 tutorial.jsp
 tutorial.php
 tutoringand
+tutors africa
+tutors kenya
+tutors-africa
+tutors-kenya
 tv francaise annee
 tv netflix
 tv-francaise-annee
@@ -44722,7 +44755,15 @@ write-up very
 writeablog
 writeessay
 writepaper
+writer africa
+writer kenya
+writer-africa
+writer-kenya
 writer-service
+writers africa
+writers kenya
+writers-africa
+writers-kenya
 writers-service
 writerservice
 writersservice
@@ -46841,6 +46882,8 @@ zyvox
 תיקון מזגנים
 آگهی ارزان
 آموزش شرط
+آموزش نصب
+آموزش-نصب
 أخبار , اخبار
 أخبار اخبار
 أخبار, اخبار
