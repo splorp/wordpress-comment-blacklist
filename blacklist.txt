@@ -24645,10 +24645,7 @@ jordan gamma
 jordan grise
 jordan milan
 jordan noir
-jordan out
-jordan pas
 jordan retro
-jordan sc
 jordan shoe
 jordan store
 jordan-1
@@ -24663,11 +24660,8 @@ jordan-gamma
 jordan-grise
 jordan-milan
 jordan-noir
-jordan-out
-jordan-pas
 jordan-retro
 jordan-sale
-jordan-sc
 jordan-shoe
 jordan-store
 jordan1
@@ -33293,7 +33287,6 @@ positively useful
 positively-helpful
 positively-incorporate
 positively-useful
-possess
 possible kill you
 possibly can constant
 possibly kill you
@@ -36406,7 +36399,6 @@ searchengines-
 searchengines.
 searchengines/
 searchhing
-searching
 searchoptim
 searchporn
 seat cover shop
@@ -38802,7 +38794,6 @@ stighollis
 stigonline
 stikll am
 still am, thank
-stimate
 stimulacion sex
 stimulacion-sex
 stimulacionsex
