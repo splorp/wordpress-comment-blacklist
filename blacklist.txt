@@ -1409,12 +1409,6 @@ _zapat
 -traffic.
 -trainings.
 -trainings/
--transexual-
--transexual.
--transexual/
--transexuelle-
--transexuelle.
--transexuelle/
 -transpiration-
 -treatment-
 -uae/service
@@ -2459,12 +2453,6 @@ _zapat
 .top/?
 .top/gal
 .top/thumb
-.transexual-
-.transexual.
-.transexual/
-.transexuelle-
-.transexuelle.
-.transexuelle/
 .travel.pl
 .tv show
 .twiclub.
@@ -10313,7 +10301,6 @@ boot online
 boot oxford
 boot queen
 boot schwei
-boot store online
 boot stores online
 boot ugg
 boot uk
@@ -10322,7 +10309,6 @@ boot-online
 boot-oxford
 boot-queen
 boot-schwei
-boot-store-online
 boot-stores-online
 boot-ugg
 boot-uk
@@ -37323,7 +37309,6 @@ shoe promo
 shoe sale
 shoe sol
 shoe store for
-shoe store online
 shoe stores for
 shoe stores online
 shoe uk
@@ -37348,7 +37333,6 @@ shoe-promo
 shoe-sale
 shoe-sol
 shoe-store-for
-shoe-store-online
 shoe-stores-for
 shoe-stores-online
 shoe-uk
