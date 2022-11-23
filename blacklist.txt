@@ -57,6 +57,7 @@ _forex
 _fuck
 _gabbana
 _gucci
+_harvoni
 _hermes
 _herpes
 _heuer
@@ -157,6 +158,7 @@ _zapat
 --generic
 --gucci
 --hack
+--harvoni
 --hermes
 --herpes
 --heuer
@@ -782,6 +784,9 @@ _zapat
 -handbags.
 -handbags/
 -harley-davidson-
+-harvoni-
+-harvoni.
+-harvoni/
 -hat-to-
 -haziran-
 -hdfilm-
@@ -1924,6 +1929,9 @@ _zapat
 .haberlist.
 .haberlist/
 .hard-
+.harvoni-
+.harvoni.
+.harvoni/
 .hatenablog.
 .hatenadiary.
 .hdfilm-
@@ -2640,6 +2648,7 @@ _zapat
 //eskort
 //gay
 //generic
+//harvoni
 //hgh
 //images/
 //income
@@ -3655,6 +3664,9 @@ _zapat
 /haglofs-
 /haglofs.
 /handle/
+/harvoni-
+/harvoni.
+/harvoni/
 /hats/
 /hdfilm-
 /hdfilm.
@@ -5525,7 +5537,9 @@ $sixty
 4the best
 4the-best
 4u cialis
+4u harvoni
 4u-cialis
+4u-harvoni
 4u.club
 4u.co
 4u.in
@@ -5536,6 +5550,7 @@ $sixty
 4u.su
 4u.za
 4ucialis
+4uharvoni
 4you
 5 casino
 5 into $
@@ -11043,6 +11058,7 @@ buy glock
 buy gold
 buy google
 buy hair
+buy harvoni
 buy hermes
 buy hoverboard
 buy insta
@@ -11124,6 +11140,7 @@ buy-gold
 buy-google
 buy-gucci
 buy-hair
+buy-harvoni
 buy-hoverboard
 buy-insta
 buy-jap
@@ -11201,6 +11218,7 @@ buygeneric
 buyglock
 buygold
 buyhair
+buyharvoni
 buyhermes
 buyhover
 buying and selling system
@@ -13082,7 +13100,9 @@ chung-hightop
 cɦ
 ciaalis
 cialis 4u
+cialis buy
 cialis canada
+cialis cost
 cialis deliver
 cialis generic
 cialis me
@@ -13090,6 +13110,7 @@ cialis online
 cialis price
 cialis_
 cialis-4u
+cialis-buy
 cialis-canada
 cialis-deliver
 cialis-generic
@@ -15632,6 +15653,7 @@ discount afl
 discount anta
 discount bag
 discount cialis
+discount harvoni
 discount jord
 discount kratom
 discount mbt
@@ -15649,6 +15671,7 @@ discount-anta
 discount-bag
 discount-cialis
 discount-cig
+discount-harvoni
 discount-jord
 discount-kratom
 discount-mbt
@@ -19951,12 +19974,15 @@ generatorpro
 generic albenda
 generic albenza
 generic cialis
+generic harvoni
 generic principen
 generic-albenda
 generic-albenza
 generic-cialis
+generic-harvoni
 generic-principen
 genericcialis
+genericharvoni
 genuine email are
 genuine email as
 genuine email is
@@ -21658,6 +21684,34 @@ hargalisensi
 harnessedthem
 hartmann repeated
 hartmann-repeated
+harvoni 4u
+harvoni buy
+harvoni canada
+harvoni cost
+harvoni deliver
+harvoni generic
+harvoni me
+harvoni online
+harvoni price
+harvoni_
+harvoni-4u
+harvoni-buy
+harvoni-canada
+harvoni-cost
+harvoni-deliver
+harvoni-generic
+harvoni-me
+harvoni-online
+harvoni-price
+harvoni4u
+harvonibuy
+harvonicanada
+harvonicost
+harvonideliver
+harvonigeneric
+harvonime
+harvonionline
+harvoniprice
 has bilt
 has cuisine
 has tto
@@ -27314,6 +27368,7 @@ marketing search
 marketing service
 marketing software
 marketing specialist
+marketing speharvonit
 marketing strategy
 marketing tip
 marketing video clip
@@ -27343,6 +27398,7 @@ marketing-search
 marketing-service
 marketing-software
 marketing-specialist
+marketing-speharvonit
 marketing-strategy
 marketing-tip
 marketing-video-clip
@@ -32259,6 +32315,7 @@ pharmacies-canad
 pharmacies-from
 pharmacy 4u
 pharmacy 24
+pharmacy buy
 pharmacy canad
 pharmacy from
 pharmacy online
@@ -32270,6 +32327,7 @@ pharmacy_
 pharmacy-4u
 pharmacy-24
 pharmacy-at
+pharmacy-buy
 pharmacy-canad
 pharmacy-from
 pharmacy-online
