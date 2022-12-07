@@ -296,6 +296,7 @@ _zapat
 -abercrombiefitch-
 -abercrombiefitch.
 -abercrombiefitch/
+-academy.ru
 -acne-
 -acne.
 -acne/
@@ -531,6 +532,7 @@ _zapat
 -cigs.
 -cigs/
 -click-
+-click?
 -click.
 -click/
 -clit-
@@ -1023,6 +1025,7 @@ _zapat
 -newbalance-
 -newports/
 -news-explained-
+-nn.ru
 -noreferer-
 -noreferer.
 -noreferer/
@@ -3213,21 +3216,31 @@ _zapat
 /cl-
 /cl.
 /cl/
+/clck?
 /clck.
+/clck/
 /cld-
 /cld.
 /clearance/
 /cli.re
+/clic?
 /clic.
+/clic/
 /click-
 /click?
 /click.
 /click/
+/clickfrm?
 /clickfrm.
+/clickfrm/
+/clik?
 /clik.
+/clik/
 /clit-
 /clit.
 /clk?
+/clk.
+/clk/
 /clrb-
 /clrb.
 /coach-
@@ -6643,6 +6656,7 @@ adult friendr
 adult girl
 adult gyrl
 adult hub
+adult manhattan
 adult personal
 adult porn
 adult sex
@@ -6662,6 +6676,7 @@ adult-friendr
 adult-girl
 adult-gyrl
 adult-hub
+adult-manhattan
 adult-net
 adult-personal
 adult-porn
@@ -6670,6 +6685,7 @@ adult-story
 adult-toy
 adult-vid
 adult-web
+adult.manhattan
 adultbase
 adultblog
 adultchat
@@ -8940,9 +8956,11 @@ beautifulwom
 beauty hospital
 beauty luxury
 beauty report
+beauty useful
 beauty-hospital
 beauty-luxury
 beauty-report
+beauty-useful
 beautyhospital
 beautyluxury
 beautyreport
@@ -9471,8 +9489,11 @@ bintang 4d
 bintang-4d
 bintang4d
 bio bronz
+bio oil yield
 bio skin
 bio-bronz
+bio-oil yield
+bio-oil-yield
 bio-shield-pill
 bio-skin
 biobronz
@@ -17266,6 +17287,7 @@ estrogeni per
 estrogeni-per
 estudos para concur
 estudos-para-concur
+etc in add
 etherdq
 etraining for dog
 euille lancel
@@ -18492,6 +18514,8 @@ finanzrobot
 finasteride
 find away concern
 find best theme
+find educated people
+find educated person
 find excellent writing
 find good essay
 find good info from
@@ -27245,6 +27269,8 @@ mangaga
 mangas actualit
 mangas-actualit
 mangoosteen
+manhattan massage
+manhattan-massage
 manicshop
 manies lesson
 manies-lesson
@@ -27511,12 +27537,14 @@ massage downtown
 massage envy
 massage erotic
 massage massage
+massage personal
 massage velvet
 massage-close
 massage-downtown
 massage-envy
 massage-erotic
 massage-massage
+massage-personal
 massage-velvet
 massages erotic
 massages_
@@ -32038,6 +32066,7 @@ pdf/chanel
 pdf/prada
 pdf/rolex
 pdfebook
+peacock paisley
 pece of writing
 pecefrt
 peculiar article
@@ -33318,6 +33347,8 @@ portray & decorat
 portray &amp; decorat
 portray and decorat
 posamochod opinie
+poshagovyh receptov
+poshagovyh-receptov
 positikon
 positive credit history
 positively helpful
@@ -36768,6 +36799,7 @@ serie-tv-2020
 serie-tv-2021
 serie-tv-2022
 series erotic
+series fo exhibit
 series tv 2020
 series tv 2021
 series tv 2022
@@ -39291,11 +39323,14 @@ sunrize
 sunsetthe
 super affiliate
 super auto lock
+super auto-lock
 super casino
 super comp
 super fortnite
 super locksmith
+super positive customer
 super real
+super strona
 super-affiliate
 super-auto-lock
 super-casino
@@ -39305,6 +39340,7 @@ super-locksmith
 super-positive customer
 super-positive-customer
 super-real
+super-strona
 superaffiliate
 superarticle
 superb blog
@@ -40696,6 +40732,8 @@ tiara-infant
 tiara-passo
 tiaras passo
 tiaras-passo
+tidur victor
+tidur-victor
 tienda barata
 tienda barato
 tienda futbol
@@ -44720,6 +44758,10 @@ workdoer
 working, great job
 workout-sale
 workoutsale
+workplace is optimised
+workplace is optimized
+workplace-is-optimised
+workplace-is-optimized
 workreview
 works guys
 works-guys
@@ -46566,6 +46608,7 @@ zyvox
 похудение живота
 похудение-живота
 похудению
+пошаговых рецептов
 предла
 представляем новы
 представляем сайт
@@ -46826,6 +46869,7 @@ zyvox
 телевизорами-марок
 телефона узнать
 телефона-узнать
+топ тренер
 торговля бинар
 торговля-бинар
 трудоустройства
@@ -46901,6 +46945,7 @@ zyvox
 цены
 через поисск
 через-поисск
+чувственность
 шаблон wordpress
 шаблон вордпресс
 шаблон-wordpress
@@ -47010,6 +47055,7 @@ zyvox
 اثرانگشت
 اخبار , الرياضة
 اخبار الرياضة
+اخبار جدید
 اخبار, الرياضة
 اخر اخبار
 ادائیگی
@@ -47056,6 +47102,7 @@ zyvox
 بهترین
 بيع متابعين
 پازل باند
+پزشکی تعهدی
 تبخال ها
 تحميل العاب
 تخصصی ترین
@@ -47081,6 +47128,7 @@ zyvox
 حزينه, حزينة
 حزينه,حزينة
 خبر عن الرياضة
+خبرهای گوناگون
 خرید تلویزیون
 خرید رپورتاژ
 خسارة الوزن
