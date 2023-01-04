@@ -93,6 +93,7 @@ _pokie
 _porn
 _prada
 _precios
+_redirect=
 _rolex
 _selebriti
 _seo
@@ -1561,6 +1562,7 @@ _zapat
 ?pandora
 ?popup
 ?prada
+?r_link=
 ?ray
 ?rdr=
 ?redir=
@@ -4963,6 +4965,7 @@ _zapat
 &amp;amp
 &b_u
 &ftp:
+&goto=
 &gt;&lt;
 &http:
 &https:
@@ -4972,7 +4975,13 @@ _zapat
 &lt;!-
 &lt;&gt;
 &outlink=
+&page=
+&redir=
+&ref=
+&send=
 &trackback
+&url=
+&urls=
 &x6
 &x7
 #&amp;
@@ -7200,6 +7209,7 @@ amazing-post
 amazing-sell
 amazing-sex
 amazing-videos
+amazingness life
 amazingsex
 amazn.co
 amazon cbd
@@ -7699,6 +7709,7 @@ ardguest.php
 are added-
 are desirous
 are fastidious
+äre präis
 are pround
 are travel good
 are travel with
@@ -9739,6 +9750,7 @@ blg post
 blitzeblank geputzt
 blkog post
 block puzzel
+block-money
 block-puzzel
 blocker preco
 blocker preço
@@ -9746,6 +9758,7 @@ blocker queda
 blocker-preco
 blocker-preço
 blocker-queda
+blockmoney
 blog _
 blog ::
 blog (wordpress
@@ -11017,6 +11030,7 @@ business know
 business online world
 business seo
 business setup
+business showbiz
 business to google
 business train
 business website
@@ -11035,9 +11049,11 @@ business-know
 business-loan
 business-seo
 business-setup
+business-showbiz
 business-to-google
 business-train
 business-website
+business, showbiz
 business’ status
 business’s status
 businessaward
@@ -12027,9 +12043,11 @@ cecha talentu
 cechą talentu
 celeb diet
 celeb hair
+celeb news
 celeb nude
 celeb-diet
 celeb-hair
+celeb-news
 celeb-nude
 celebdiet
 celebhair
@@ -13139,6 +13157,7 @@ chữa viêm
 chua-viem
 chuan-nhat-hien-nay
 chuaviem
+chulki.ml
 chung cư
 chung hightop
 chung-cư
@@ -13404,6 +13423,7 @@ clicks2
 clicks4
 clicksor
 clicksure
+clickthru
 client maximal
 clientarea
 cliente contento
@@ -14132,6 +14152,7 @@ consumer buzz
 consumer-buzz
 consumerbuzz
 consyltancy
+contact us sign
 contact/contact
 contactos chico
 contactos mujeres
@@ -15380,6 +15401,7 @@ derunescort
 deruneskort
 des services web
 des-services-web
+desain dinding
 desconto
 describes feasible
 describes-feasible
@@ -16571,7 +16593,9 @@ effective-marketing
 effectively generally
 effexor
 efficiency customer
+efficiency device
 efficiency-customer
+efficiency-device
 effort to opine
 effort tto
 effortlessly know it
@@ -18779,6 +18803,7 @@ folding-glock
 foldingglock
 folia auto llumar
 foliei llumar
+folkd.com/submit
 follixin
 follower facebook
 follower instagram
@@ -18801,6 +18826,7 @@ followers tiktok
 followers twitter
 followers-love
 followershop
+following best thing
 following rank
 following their blog
 following their site
@@ -18877,6 +18903,7 @@ for him smile
 for himm
 for interact
 for on-line
+for sale new york
 for she smile
 for thhe
 for this article
@@ -18989,6 +19016,7 @@ forlanga penis
 förlänga penis
 forlanga-penis
 forless.co
+form_send=success
 forma pra
 forma-pra
 formal tweet account
@@ -19944,6 +19972,7 @@ gay-porn
 gay-redtube
 gay-sex
 gay-video
+gaya desain
 gaycartoon
 gaychat
 gayporn
@@ -20131,6 +20160,7 @@ get know how
 get know-how
 get litecoin
 get more blog
+get more performed
 get more traffic
 get more weblog
 get more webpage
@@ -21847,6 +21877,7 @@ have movies clip
 have remarked some
 have remarked these
 have remarked this
+have remember you
 have seern
 have thhe
 have understand
@@ -24887,6 +24918,7 @@ junkjewelry
 jus because
 just book mark
 just cetirizine
+just extremely wonder
 just like hypno
 just saying you
 just subscribe
@@ -25702,9 +25734,12 @@ latviastag
 laugh clean
 laugh-clean
 launch academy
+launch discount
 launch-academy
+launch-discount
 launch-my-business
 launchacademy
+launchdiscount
 lauren amster
 lauren aus
 lauren belg
@@ -25794,6 +25829,7 @@ lawyer-free
 lawyer-seo
 lawyer-sex
 lawyerfree
+lawyering is simply
 lawyers near me
 lawyers near you
 layout look great
@@ -26115,6 +26151,7 @@ like comment here
 like comments here
 like fingers washing
 like google look
+like on the cause
 like this blog
 like this link
 like this video
@@ -29060,6 +29097,12 @@ most visited android
 most well-liked
 most-competitively
 mostaffordable
+mostbet app
+mostbet download
+mostbet site
+mostbet-app
+mostbet-download
+mostbet-site
 mostcomfortable
 mostcompetitive
 mosteffective
@@ -31331,6 +31374,7 @@ out about this web
 out assim
 out more details
 out my blog
+out our blog
 out seems to be
 out soime
 out the ideas
@@ -32830,6 +32874,7 @@ pleasant good
 pleasant knowledge
 pleasant paragraph
 pleasant post
+pleasant secret
 pleasant site
 pleasant understand
 pleasant vehicle
@@ -32840,6 +32885,7 @@ pleasant-good
 pleasant-knowledge
 pleasant-paragraph
 pleasant-post
+pleasant-secret
 pleasant-site
 pleasant-understand
 pleasant-vehicle
@@ -35507,6 +35553,11 @@ reports.ctr
 reports.htm
 reports.jsp
 reports.php
+repost my article
+repost my blog
+repost my page
+repost my paragraph
+repost my web
 requerida por el cliente
 requeridas por el cliente
 requerido por el cliente
@@ -35892,6 +35943,8 @@ rugs fur
 rugs-fur
 rugsfur
 ruhttp
+rumah rumah
+rumah-rumah
 run chaus
 run cpa
 run obuv
@@ -37728,6 +37781,9 @@ shouldnít
 shouldnt
 show-news
 show-topic
+showbiz gaming
+showbiz-gaming
+showbiz, gaming
 showbox for iphone
 shower sex
 shower-sex
@@ -37852,6 +37908,8 @@ silveringot
 silverjewel
 silversuite
 sim-only
+similar dream similar
+similar dreams similar
 similarities some similar
 simonly
 simple should you
@@ -39757,6 +39815,7 @@ take curcumin
 take flight any
 take sized you
 take snapshot
+take your life
 take-curcumin
 taken gravely
 taken with cbd
@@ -41045,6 +41104,8 @@ tipsblog
 tipsdaily
 tipsof
 tipspropert
+tiptop influenc
+tiptop-influenc
 tire crushing
 tire-crushing
 tire-disc
@@ -43238,6 +43299,7 @@ viral adremus
 viral eas
 viral hit
 viral iphone
+viral launch
 viral play
 viral storie
 viral story
@@ -43247,6 +43309,7 @@ viral-adremus
 viral-eas
 viral-hit
 viral-iphone
+viral-launch
 viral-play
 viral-storie
 viral-story
@@ -43258,6 +43321,7 @@ viraleas
 viralhit
 virality iphone
 virality-iphone
+virallaunch
 viralplay
 viralstorie
 viralstory
@@ -46290,6 +46354,7 @@ zyvox
 головные устройс
 головные-устройс
 город топ
+горящих туров
 готовые решения
 грузоперевозки
 давайте обсудим
@@ -46711,6 +46776,8 @@ zyvox
 полезные-совет
 помыть машин
 помыть-машин
+популярных туров
+популярных экскурс
 порно
 портал
 посетител
@@ -46987,6 +47054,7 @@ zyvox
 трудоустройства
 туалетных кабин
 туалетных-кабин
+туристическом рынке
 турыспортивные туры
 турыспортивные-туры
 у᧐u
@@ -46996,6 +47064,7 @@ zyvox
 удачного выбора
 удачного-выбора
 удивительные
+удобная витрина
 уже пол
 уже-пол
 управляющую компан
@@ -47252,6 +47321,7 @@ zyvox
 خرید یو پی اس
 خسارة الوزن
 خصم,كود
+خصوصی زبان
 خلاصه داستان - دانلود
 خلاصه داستان : دانلود
 خلاصه داستان-دانلود
@@ -47267,6 +47337,8 @@ zyvox
 رابطه جنسی
 رپورتاژ آگهی
 رتويت تويتر
+ردیاب خودرو
+زبان انگلیسی
 زواج المسيار
 زواج سعودية
 زواج مسيار
@@ -47295,7 +47367,7 @@ zyvox
 فروشگاه کاکتوس
 فقدان الوزن
 فقدان-الوزن
-قطره و خبرهای 
+قطره و خبرهای
 قم نجار
 قیمت مناسب
 قیمت نبشی
