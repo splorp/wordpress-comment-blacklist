@@ -3953,6 +3953,18 @@ _zapat
 /links-
 /links.
 /links/
+/linkto?
+/linkto.ashx?
+/linkto.asp?
+/linkto.aspx?
+/linkto.cfm?
+/linkto.cgi?
+/linkto.ctr?
+/linkto.htm?
+/linkto.html?
+/linkto.jsp?
+/linkto.php?
+/linkto/?
 /lipo-suction
 /liposuction
 /list-
@@ -4473,6 +4485,18 @@ _zapat
 /refreshers.
 /rejuvenate-
 /rejuvenate.
+/relink?
+/relink.ashx?
+/relink.asp?
+/relink.aspx?
+/relink.cfm?
+/relink.cgi?
+/relink.ctr?
+/relink.htm?
+/relink.html?
+/relink.jsp?
+/relink.php?
+/relink/?
 /remote-desktop
 /remotedesktop
 /res/
@@ -4500,6 +4524,18 @@ _zapat
 /roulette/
 /rozwod
 /rrsm.nl
+/rs_linkto?
+/rs_linkto.ashx?
+/rs_linkto.asp?
+/rs_linkto.aspx?
+/rs_linkto.cfm?
+/rs_linkto.cgi?
+/rs_linkto.ctr?
+/rs_linkto.htm?
+/rs_linkto.html?
+/rs_linkto.jsp?
+/rs_linkto.php?
+/rs_linkto/?
 /ru/news/
 /rusex-
 /rusex.
@@ -4974,14 +5010,17 @@ _zapat
 &logout
 &lt;!-
 &lt;&gt;
+&origine=
 &outlink=
 &page=
 &redir=
 &ref=
 &send=
 &trackback
+&unsublink=
 &url=
 &urls=
+&urm_np=
 &x6
 &x7
 #&amp;
@@ -9027,7 +9066,10 @@ beenpaid
 before long find
 before-purchas
 begeni hilesi
+begeni satin
+beğeni satin
 begeni-hilesi
+begeni-satin
 begenisi satin
 begenisi satın
 begenisi satn
@@ -14694,6 +14736,7 @@ crypto script
 crypto stak
 crypto tab
 crypto thumb
+crypto trad
 crypto_
 crypto-ad
 crypto-bitcoin
@@ -14708,6 +14751,7 @@ crypto-script
 crypto-stak
 crypto-tab
 crypto-thumb
+crypto-trad
 crypto/btc
 cryptoad
 cryptobot
@@ -14727,6 +14771,7 @@ cryptoscript
 cryptostak
 cryptotab
 cryptothumb
+cryptotrad
 crystal hack
 crystal-hack
 crystalhack
@@ -17751,6 +17796,7 @@ facebook privado
 facebook takipci
 facebook takipçi
 facebook traff
+facebook yorum
 facebook-ad
 facebook-cash
 facebook-fan
@@ -17760,6 +17806,7 @@ facebook-like
 facebook-privado
 facebook-takipci
 facebook-traff
+facebook-yorum
 facebookad
 facebookcash
 facebookfan
@@ -23779,6 +23826,7 @@ instagram-sifresiz
 instagram-story-view
 instagram-takipci
 instagram-trick
+instagram-yorum
 instagramfollow
 instagramhack
 instagramin
@@ -24157,6 +24205,9 @@ irresistible-blog
 irresistible-page
 irresistible-site
 irresistible-web
+is a good weblog
+is a good webpage
+is a good website
 is about advert
 is as nicely
 is consice
@@ -27958,6 +28009,7 @@ me on observe
 me out loads
 me passionne
 me to comment!
+me to subscribe
 me tto
 me vip on
 me-greatly
@@ -28620,6 +28672,8 @@ mmy blog
 mmy page
 mmy web
 mobi/news
+mobil odeme
+mobil-odeme
 mobilabonnementer
 mobile casino
 mobile hack
@@ -28636,6 +28690,7 @@ mobilecasino
 mobilehack
 mobileporn
 mobiles-a2review
+mobilodeme
 mobistealth
 moblie phone
 moblie-phone
@@ -30623,6 +30678,7 @@ obtain benefit
 obtain consol
 obtain fastidious
 obtain good exper
+obtain more done
 obtain real relief
 obtain-consol
 obtain-fastidious
@@ -30676,6 +30732,9 @@ odds checker
 odds of affect
 odds-checker
 oddschecker
+odeme bahis
+odeme-bahis
+odemebahis
 odszkodowania
 oduvan4ik
 odziez
@@ -39787,6 +39846,7 @@ tadapox
 tag/event
 tags:
 tähän tauluun
+tahnxs
 tai chinh day
 tài chính đầy
 tai game
@@ -40950,6 +41010,7 @@ tiktok money
 tiktok privado
 tiktok takipci
 tiktok takipçi
+tiktok yorum
 tiktok-advert
 tiktok-begeni
 tiktok-fan
@@ -40960,6 +41021,7 @@ tiktok-monetiz
 tiktok-money
 tiktok-privado
 tiktok-takipci
+tiktok-yorum
 tiktokfan
 till today
 till-today
@@ -41825,6 +41887,7 @@ twitter privado
 twitter shop
 twitter takipci
 twitter takipçi
+twitter yorum
 twitter-advert
 twitter-hack
 twitter-intro
@@ -41834,6 +41897,7 @@ twitter-money
 twitter-privado
 twitter-shop
 twitter-takipci
+twitter-yorum
 two %
 two posts are $
 twoj blog
@@ -42508,6 +42572,8 @@ url-status
 url-tracker
 url-tracking
 url=//
+url==http
+url==www
 url=http
 url=www
 urlacher jers
@@ -45462,7 +45528,9 @@ yopenis
 york sportiv
 york-sportiv
 yorksportiv
-yorum begenisi
+yorum begeni
+yorum beğeni
+yorum-begeni
 yorumu yazıyoruz
 yorumu-yazıyoruz
 you - tube
