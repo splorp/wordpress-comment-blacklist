@@ -10,9 +10,9 @@ Suggestions and bug reports are certainly appreciated. Please use the [issue tra
 
 **Manual Installation**
 
-Copy the list of keywords found in the [blacklist.txt](https://raw.githubusercontent.com/splorp/wordpress-comment-blacklist/master/blacklist.txt) file, paste it into the [Comment Blacklist](https://codex.wordpress.org/Combating_Comment_Spam#Comment_Blacklist) field of your WordPress [Discussion Settings](https://wordpress.org/support/article/settings-discussion-screen/) panel, and click the “Save Changes” button.
+Copy the list of keywords found in the [blacklist.txt](https://raw.githubusercontent.com/splorp/wordpress-comment-blacklist/master/blacklist.txt) file, paste it into the [Disallowed Comment Keys](https://wordpress.org/support/article/comment-moderation/#comment-blocking) field of your WordPress [Discussion Settings](https://wordpress.org/support/article/settings-discussion-screen/) panel, and click the “Save Changes” button.
 
-That’s it.
+Note that the Disallowed Comment Keys field was previously named [Comment Blocklist](https://wordpress.org/support/article/settings-discussion-screen/#comment-blocklist) in WordPress 5.4 and [Comment Blacklist](https://codex.wordpress.org/Combating_Comment_Spam#Comment_Blacklist) in WordPress 5.3 and earlier.
 
 Repeat this procedure each time you want to install an updated version of the blacklist.
 
