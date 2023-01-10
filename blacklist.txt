@@ -1604,12 +1604,18 @@ _zapat
 .2u4.us
 .7x.cz
 .acgi
+.acidblog.
+.acidblogs.
 .acompanhante-
 .acompanhante.
 .acompanhante/
 .acompanhantes-
 .acompanhantes.
 .acompanhantes/
+.activablog.
+.activablogs.
+.actoblog.
+.actoblogs.
 .adboard
 .adminka.cc
 .adsboard
@@ -1629,6 +1635,10 @@ _zapat
 .advertizing-of-
 .advertizing-of.
 .advertizing-of/
+.ageekblog.
+.ageekblogs.
+.ageeksblog.
+.ageeksblogs.
 .aioblogs.
 .airmax-
 .airmax.
@@ -1639,6 +1649,10 @@ _zapat
 .android-market-
 .android-market.
 .android-market/
+.anerdblog.
+.anerdblogs.
+.anerdsblog.
+.anerdsblogs.
 .anna-lewandowska-
 .anna-lewandowska.
 .anna-lewandowska/
@@ -1700,20 +1714,30 @@ _zapat
 .blog3
 .blog4
 .blog5
+.blogadvize.
 .blogbox.
+.blogdigy.
+.blogdiloz.
 .blogdon.
 .bloggerpr.
+.blogidea.
+.blogideas.
 .blogkoo.
 .bloglovin.
+.blogmaker.
 .blogminds.
 .blogola.
 .blogolize.
+.blogpostie.
+.blogrelation.
 .blogs0
 .blogs1
 .blogs2
 .blogs3
 .blogs4
 .blogs5
+.blogsidea.
+.blogsideas.
 .blogspace.
 .blogster.
 .bloguetechno.
@@ -1754,6 +1778,8 @@ _zapat
 .bytecoin.
 .bytecoin/
 .canadagoose-
+.canariblog.
+.canariblogs.
 .cartier-
 .cause-
 .causes-
@@ -1843,6 +1869,10 @@ _zapat
 .dosityna-
 .dosityna.
 .dosityna/
+.dreamblog.
+.dreamblogs.
+.dreamyblog.
+.dreamyblogs.
 .drmarten-
 .drmarten.
 .drmarten/
@@ -1922,6 +1952,8 @@ _zapat
 .games.su
 .games.za
 .gif/
+.glifeblog.
+.glifeblogs.
 .gucci-
 .gull.gull
 .haberlist-
@@ -1962,6 +1994,7 @@ _zapat
 .iapple-
 .iapple.
 .iapple/
+.idblogmaker.
 .ile-kosztuje-
 .ile-kosztuje.
 .ile-kosztuje/
@@ -2003,6 +2036,8 @@ _zapat
 .iphone-x/
 .it/?
 .it/t/
+.izrablog.
+.izrablogs.
 .jclick-
 .jclick.
 .jclick/
@@ -2074,6 +2109,8 @@ _zapat
 .memy/
 .mihanblog.
 .moncler-
+.mpeblog.
+.mpeblogs.
 .mrwhite-
 .mrwhite.
 .mrwhite/
@@ -2110,6 +2147,8 @@ _zapat
 .outlink-
 .outlink.
 .outlink/
+.p2blog.
+.p2blogs.
 .page.link
 .page1.
 .page2.
@@ -2387,6 +2426,8 @@ _zapat
 .spielideen.
 .spielideen/
 .spruz.
+.ssnblog.
+.ssnblogs.
 .stream/wiki
 .su,
 .su/,
@@ -2419,6 +2460,8 @@ _zapat
 .su/user
 .su/vip
 .sunglasses-
+.suomiblog.
+.suomiblogs.
 .superslot-
 .superslot.
 .superslot/
@@ -2445,6 +2488,16 @@ _zapat
 .telrock.net
 .tension
 .thearticle
+.thegeekblog.
+.thegeekblogs.
+.thegeeksblog.
+.thegeeksblogs.
+.thelateblog.
+.thelateblogs.
+.thenerdblog.
+.thenerdblogs.
+.thenerdsblog.
+.thenerdsblogs.
 .thezenweb.
 .thxgamers-
 .thxgamers.
@@ -2494,6 +2547,7 @@ _zapat
 .wirisi/
 .worktop.
 .worktops.
+.worldblogged.
 .xblog.in
 .xsl.pt
 .xzblogs.
@@ -3441,6 +3495,7 @@ _zapat
 /essay-topics-
 /essay-topics.
 /essay-topics/
+/even?url
 /event-
 /event.
 /executive-
@@ -4160,6 +4215,7 @@ _zapat
 /oakleycan
 /occhiali-
 /occhiali.
+/odd?url
 /offering/
 /ok0.
 /ok1.
@@ -7142,6 +7198,8 @@ all automotive, auto
 all congratulation
 all craigs list
 all craigslist
+all in one feature
+all in one life
 all in this article
 all in this paragraph
 all in this post
@@ -7159,6 +7217,10 @@ all-about-the
 all-ahout
 all-craigs-list
 all-craigslist
+all-in-one feature
+all-in-one life
+all-in-one-feature
+all-in-one-life
 all-incluzive
 all-the-earbud
 all4web
@@ -7273,9 +7335,6 @@ ambalaje-cofetar
 ambalaje-plastic
 ambalajecofetar
 ambalajeplastic
-ambassador john thornhill
-ambassador-john-thornhill
-ambassadorjohnthorn
 ambien
 amend your blog
 amend your page
@@ -7953,12 +8012,15 @@ asdsdf
 asia escort
 asia eskort
 asia fuck
+asia gaming
 asia-escort
 asia-eskort
 asia-fuck
+asia-gaming
 asiaescort
 asiaeskort
 asiafuck
+asiagaming
 asian escort
 asian eskort
 asian lesb
@@ -8068,6 +8130,8 @@ asthma attack sign
 asthma attack simple
 asthma invasion
 asthma sign
+astounding benefit
+astounding-benefit
 astounding1
 astounding2
 astounding3
@@ -9242,10 +9306,12 @@ best shapewear
 best shoe price
 best site about
 best skin care
+best small van
 best smm
 best social media
 best suppl
 best tummy
+best vans to
 best vape
 best vpn service
 best web about
@@ -9424,6 +9490,7 @@ betsgiris
 better essay writ
 better handling driving
 better it is easy
+better with amazingness
 better-essay-writ
 better-service
 betterjudg
@@ -14171,6 +14238,7 @@ consent with
 consent-with
 consequently styl
 consequently-styl
+conserving life change
 considerably this article
 considerably this blog
 considerably this page
@@ -14869,8 +14937,11 @@ current videos short
 curry jers
 curry-jers
 curryjers
+cursinho de injecao
+cursinho de injeção
 cursinho de magica
 cursinho de mágica
+cursinho de marcenaria
 cursinho de mecanica
 cursinho de mecânica
 cursinho de pilotagem
@@ -14881,8 +14952,11 @@ cursinho de sustent
 cursinho de trading
 cursinho enfase
 cursinho ênfase
+cursinho injecao
+cursinho injeção
 cursinho magica
 cursinho mágica
+cursinho marcenaria
 cursinho mecanica
 cursinho mecânica
 cursinho pilotagem
@@ -14891,7 +14965,9 @@ cursinho sublimacao
 cursinho sublimação
 cursinho sustent
 cursinho trading
+cursinho-de-injecao
 cursinho-de-magica
+cursinho-de-marcenaria
 cursinho-de-mecanica
 cursinho-de-pilotagem
 cursinho-de-sinuca
@@ -14899,15 +14975,20 @@ cursinho-de-sublimacao
 cursinho-de-sustent
 cursinho-de-trading
 cursinho-enfase
+cursinho-injecao
 cursinho-magica
+cursinho-marcenaria
 cursinho-mecanica
 cursinho-pilotagem
 cursinho-sinuca
 cursinho-sublimacao
 cursinho-sustent
 cursinho-trading
+curso de injecao
+curso de injeção
 curso de magica
 curso de mágica
+curso de marcenaria
 curso de mecanica
 curso de mecânica
 curso de pilotagem
@@ -14918,8 +14999,11 @@ curso de sustent
 curso de trading
 curso enfase
 curso ênfase
+curso injecao
+curso injeção
 curso magica
 curso mágica
+curso marcenaria
 curso mecanica
 curso mecânica
 curso pilotagem
@@ -14928,7 +15012,9 @@ curso sublimacao
 curso sublimação
 curso sustent
 curso trading
+curso-de-injecao
 curso-de-magica
+curso-de-marcenaria
 curso-de-mecanica
 curso-de-pilotagem
 curso-de-sinuca
@@ -14936,15 +15022,20 @@ curso-de-sublimacao
 curso-de-sustent
 curso-de-trading
 curso-enfase
+curso-injecao
 curso-magica
+curso-marcenaria
 curso-mecanica
 curso-pilotagem
 curso-sinuca
 curso-sublimacao
 curso-sustent
 curso-trading
+cursos de injecao
+cursos de injeção
 cursos de magica
 cursos de mágica
+cursos de marcenaria
 cursos de mecanica
 cursos de mecânica
 cursos de pilotagem
@@ -14955,8 +15046,11 @@ cursos de sustent
 cursos de trading
 cursos enfase
 cursos ênfase
+cursos injecao
+cursos injeção
 cursos magica
 cursos mágica
+cursos marcenaria
 cursos mecanica
 cursos mecânica
 cursos pilotagem
@@ -14965,7 +15059,9 @@ cursos sublimacao
 cursos sublimação
 cursos sustent
 cursos trading
+cursos-de-injecao
 cursos-de-magica
+cursos-de-marcenaria
 cursos-de-mecanica
 cursos-de-pilotagem
 cursos-de-sinuca
@@ -14973,7 +15069,9 @@ cursos-de-sublimacao
 cursos-de-sustent
 cursos-de-trading
 cursos-enfase
+cursos-injecao
 cursos-magica
+cursos-marcenaria
 cursos-mecanica
 cursos-pilotagem
 cursos-sinuca
@@ -15603,12 +15701,16 @@ designed on a place
 designed to me
 designed-to-me
 designeed
+designer near me
+designer near you
 designer-bag
 designer-brand
 designer-in-chennai
 designer-in-mumbai
 designer-jewel
 designer-label
+designer-near-me
+designer-near-you
 designer-shoe
 designerbag
 designerbrand
@@ -15991,6 +16093,8 @@ disorder-quiz
 dispensary near me
 dispensary near you
 dispensary war
+dispensary-near-me
+dispensary-near-you
 dispensary-war
 display screen defend
 dissertation making
@@ -17601,6 +17705,7 @@ ex-marido
 exactly web
 exactly-web
 examine the online
+examine-this-report
 examjple
 example1.co
 exboyfriend
@@ -20150,6 +20255,8 @@ gay-redtube
 gay-sex
 gay-video
 gaya desain
+gaya kursi
+gaya-kursi
 gaycartoon
 gaychat
 gayporn
@@ -20697,6 +20804,12 @@ globalnpn
 glock online
 glock-online
 glockonline
+glorious article
+glorious blog
+glorious overview
+glorious page
+glorious paragraph
+glorious web
 glubokoye glot
 glubokoye-glot
 glucophage
@@ -22077,6 +22190,7 @@ have remarked these
 have remarked this
 have remember you
 have seern
+have served create
 have thhe
 have understand
 have-understand
@@ -23596,6 +23710,8 @@ increasing internet
 increasing more age
 increasing-internet
 incredibble
+incredible allows me
+incredible allows you
 incredible article
 incredible blog
 incredible layout
@@ -23987,7 +24103,11 @@ instakink
 install virtual
 install-virtual
 installation bang
+installation near me
+installation near you
 installation-bang
+installation-near-me
+installation-near-you
 installment loan
 installment-loan
 installmentloan
@@ -26029,12 +26149,16 @@ lawyer near you
 lawyer seo
 lawyer sex
 lawyer-free
+lawyer-near-me
+lawyer-near-you
 lawyer-seo
 lawyer-sex
 lawyerfree
 lawyering is simply
 lawyers near me
 lawyers near you
+lawyers-near-me
+lawyers-near-you
 layout look great
 layout of your blog
 layout of your page
@@ -26317,6 +26441,9 @@ licu=urn
 lid pants
 lid-pants
 lies sound truth
+life changing service
+life changing tool
+life management tool
 life sex
 life teaching
 life-sex
@@ -27426,6 +27553,10 @@ maintain your tonsil
 maintain-advert
 maintain-prevent
 maintainprevent
+maintenance near me
+maintenance near you
+maintenance-near-me
+maintenance-near-you
 maior hormonio
 maior hormônio
 maior-hormonio
@@ -29334,11 +29465,15 @@ motor-whole
 motorhome cabinet
 motorhome lighting
 motorhome mechanic
+motorhome near me
+motorhome near you
 motorhome upgrade
 motorhome windshield
 motorhome-cabinet
 motorhome-lighting
 motorhome-mechanic
+motorhome-near-me
+motorhome-near-you
 motorhome-upgrade
 motorhome-windshield
 mount sex
@@ -30914,6 +31049,7 @@ of entry this
 of essay writing
 of herpes
 of internet
+of living design
 of lucrative offer
 of manies
 of of the
@@ -31140,6 +31276,10 @@ one thing else
 one who are
 one-logins
 one-nike
+one-of-a-kind feature
+one-of-a-kind life
+one-of-a-kind-feature
+one-of-a-kind-life
 one-shapewear
 one:-
 one:)
@@ -32115,10 +32255,12 @@ pantysplay
 pantyssex
 paper write service
 paper writer service
+paper writing expert
 paper writing service
 paper-college
 paper-write-service
 paper-writer-service
+paper-writing-expert
 paper-writing-service
 papercollege
 paqst
@@ -32336,6 +32478,7 @@ paulsmithsu
 paxil
 pay_day
 pay-as-you-go
+pay-for-a-good
 payday |
 payday cash
 payday loan
@@ -34066,6 +34209,7 @@ presentations.builder
 presented in your article
 presented in your blog
 presented in your post
+presenting amazingness
 presently fascinate
 presently-fascinate
 preserveness
@@ -35514,6 +35658,7 @@ remarkable article
 remarkable blog
 remarkable info
 remarkable job
+remarkable life chang
 remarkable page
 remarkable paragraph
 remarkable post
@@ -35603,17 +35748,16 @@ rentluxury
 reockn
 repair near me
 repair near you
-repair shop near me
-repair shop near you
-repair shops near me
-repair shops near you
 repair virgin
 repair your abode
 repair-near-me
+repair-near-you
 repair-near-your
 repair-virgin
 repairs near me
 repairs near you
+repairs-near-me
+repairs-near-you
 repairvirgin
 reparacion aire
 reparacion calenta
@@ -36166,6 +36310,7 @@ rugs fur
 rugs-fur
 rugsfur
 ruhttp
+rule-for-repair-shop
 rumah rumah
 rumah-rumah
 run chaus
@@ -36252,25 +36397,35 @@ russkom-nacionaliz
 rusztowania
 ruwordpress
 rv bathroom
+rv collision
 rv counter
 rv door
 rv fabric
+rv interior
+rv maint
+rv mattress
 rv mechanic
 rv reno
 rv repair
 rv resto
 rv seat
 rv solar
+rv upgrade
 rv-bathroom
+rv-collision
 rv-counter
 rv-door
 rv-fabric
+rv-interior
+rv-maint
+rv-mattress
 rv-mechanic
 rv-reno
 rv-repair
 rv-resto
 rv-seat
 rv-solar
+rv-upgrade
 rx pharmacy
 rx-pharm
 rxpharm
@@ -36445,6 +36600,8 @@ sale coupon
 sale louis
 sale lulu
 sale miami
+sale near me
+sale near you
 sale neder
 sale now!
 sale oakley
@@ -36466,6 +36623,8 @@ sale-longchamp
 sale-louis
 sale-lulu
 sale-miami
+sale-near-me
+sale-near-you
 sale-neder
 sale-oakley
 sale-online
@@ -36495,11 +36654,15 @@ saleneder
 saleoakley
 saleonline
 saleout
+sales near me
+sales near you
 sales now!
 sales-class
 sales-factor
 sales-inspir
 sales-lead
+sales-near-me
+sales-near-you
 sales-train
 sales.co.
 sales+
@@ -36898,6 +37061,7 @@ seen in this article
 seen in this you
 seg-board
 segboard
+segredos do home
 segun servicio tecnico
 segun servicio técnico
 según servicio tecnico
@@ -37214,6 +37378,8 @@ service near you
 service now!
 service pencil
 service-ecommerce
+service-near-me
+service-near-you
 service-pencil
 service/ecommerce
 serviced ass
@@ -37222,6 +37388,8 @@ servicedoc
 services near me
 services near you
 services-ecommerce
+services-near-me
+services-near-you
 services/ecommerce
 services/service
 servicii profes
@@ -37899,6 +38067,8 @@ shop erotic
 shop jap
 shop jp
 shop makeup
+shop near me
+shop near you
 shop online
 shop our homecoming
 shop place near
@@ -37919,6 +38089,7 @@ shop-jap
 shop-jp
 shop-makeup
 shop-near-me
+shop-near-you
 shop-nfl
 shop-now
 shop-online
@@ -37954,6 +38125,8 @@ shopping blog
 shopping getaway
 shopping harmony
 shopping job
+shopping near me
+shopping near you
 shopping site
 shopping ugg
 shopping web
@@ -37962,6 +38135,8 @@ shopping-getaway
 shopping-harmony
 shopping-ind
 shopping-job
+shopping-near-me
+shopping-near-you
 shopping-site
 shopping-tupina
 shopping-ugg
@@ -37974,7 +38149,11 @@ shoppingharmony
 shoppingonline
 shoppingsite
 shoppingugg
+shops near me
+shops near you
 shops-collections
+shops-near-me
+shops-near-you
 shopshoe
 shopthai
 shoptoyou
@@ -38798,6 +38977,7 @@ soleilray
 solicitar un presta
 solicitar-un-presta
 solicitous afternoon
+solid human cancer
 solidcord german
 solidcord philip
 solidcord platform
@@ -40694,6 +40874,7 @@ the-feed-back
 the-flashboard
 the-greatest-award
 the-greatest-blog
+the-greatest-guide
 the-greatest-site
 the-greatest-web
 the-helpful-job
@@ -41570,6 +41751,7 @@ top-option
 top-rank
 top-samara
 top-search
+top-semi-truck
 top-sight
 top-site
 top-stop
@@ -41798,6 +41980,8 @@ tranghot
 trangmanly
 transfer hizmet
 transfer-hizmet
+transform my life
+transform your life
 transform-vhs
 translation christ
 translation-christ
@@ -41892,6 +42076,7 @@ truck-centre
 truck-counter
 truck-paint
 truck-reno
+truck-repair-secret
 truck-resto
 true search
 truly a fastidious
@@ -42011,8 +42196,11 @@ tutessed
 tutor africa
 tutor kenya
 tutor near me
+tutor near you
 tutor-africa
 tutor-kenya
+tutor-near-me
+tutor-near-you
 tutorial.asp
 tutorial.cfm
 tutorial.ctr
@@ -42022,8 +42210,12 @@ tutorial.php
 tutoringand
 tutors africa
 tutors kenya
+tutors near me
+tutors near you
 tutors-africa
 tutors-kenya
+tutors-near-me
+tutors-near-you
 tv francaise annee
 tv netflix
 tv-francaise-annee
@@ -42831,6 +43023,7 @@ utile stuf
 utile-info
 utile-stuf
 utilize chinese medicine
+utilize it ideal
 utilize portal
 utilize warranty
 utilize-portal
@@ -42931,6 +43124,7 @@ valueserver
 van bathroom
 van body
 van counter
+van gas mileage
 van sound
 van washing
 van-bathroom
@@ -45278,6 +45472,10 @@ wplist
 wprobot
 wpsite
 wpthemegen
+wraps near me
+wraps near you
+wraps-near-me
+wraps-near-you
 wrinkle lotion
 wrinkle-lotion
 wrinting
@@ -45775,6 +45973,7 @@ you-blog-real
 you-blogs-real
 you-book-mark
 you-bookmarked
+you-can-use-today
 you-gucci
 you-porn
 you-sees
@@ -45866,7 +46065,6 @@ your dick
 your digital business
 your display screen
 your expertise within
-your glorious overview
 your innfo
 your iphone film
 your iphone regular
@@ -47692,6 +47890,7 @@ zyvox
 ต่างหู
 นพนัน
 บริการดีสุด
+บาคาร่า
 ปลาฟรี
 ป้าย ราคาถูก
 ป้าย-ราคาถูก
