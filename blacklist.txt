@@ -3654,6 +3654,7 @@ _zapat
 /gold.
 /goo.gl
 /goo.io
+/goo.su
 /good.
 /goose/
 /got.by

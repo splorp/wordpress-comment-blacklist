@@ -39,6 +39,7 @@
 /gg.gg
 /goo.gl
 /goo.io
+/goo.su
 /got.by
 /gul.ly
 /hfg.cc
