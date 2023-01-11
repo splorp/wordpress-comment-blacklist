@@ -6142,6 +6142,8 @@ a final results
 a impressive article
 a impressive blog
 a impressive page
+a impressive paragraph
+a impressive post
 a impressive site
 a impressive story
 a impressive web
@@ -9640,6 +9642,8 @@ biobronz
 biofinite skin
 biofinite-skin
 biofiniteskin
+biohack academy
+biohack-academy
 bioshieldpill
 bioskin
 bird hack
@@ -14938,6 +14942,8 @@ current videos short
 curry jers
 curry-jers
 curryjers
+cursinho biohack
+cursinho de biohack
 cursinho de injecao
 cursinho de injeção
 cursinho de magica
@@ -14966,6 +14972,8 @@ cursinho sublimacao
 cursinho sublimação
 cursinho sustent
 cursinho trading
+cursinho-biohack
+cursinho-de-biohack
 cursinho-de-injecao
 cursinho-de-magica
 cursinho-de-marcenaria
@@ -14985,6 +14993,8 @@ cursinho-sinuca
 cursinho-sublimacao
 cursinho-sustent
 cursinho-trading
+curso biohack
+curso de biohack
 curso de injecao
 curso de injeção
 curso de magica
@@ -15013,6 +15023,8 @@ curso sublimacao
 curso sublimação
 curso sustent
 curso trading
+curso-biohack
+curso-de-biohack
 curso-de-injecao
 curso-de-magica
 curso-de-marcenaria
@@ -15032,6 +15044,8 @@ curso-sinuca
 curso-sublimacao
 curso-sustent
 curso-trading
+cursos biohack
+cursos de biohack
 cursos de injecao
 cursos de injeção
 cursos de magica
@@ -15060,6 +15074,8 @@ cursos sublimacao
 cursos sublimação
 cursos sustent
 cursos trading
+cursos-biohack
+cursos-de-biohack
 cursos-de-injecao
 cursos-de-magica
 cursos-de-marcenaria
@@ -19203,6 +19219,7 @@ for your article
 for your blog
 for your page
 for your web
+for your write
 for_business
 for-business-advert
 for-cheap
@@ -21018,6 +21035,12 @@ good read:
 good read!
 good replies in
 good respond
+good short article
+good short blog
+good short page
+good short paragraph
+good short post
+good short web
 good site you
 good site:
 good site!
@@ -22064,6 +22087,7 @@ handbagu
 handbagwhole
 handbagwom
 handjob
+handleclick
 handsome gold
 handsome-gold
 handtasche
@@ -26160,6 +26184,9 @@ lawyers near me
 lawyers near you
 lawyers-near-me
 lawyers-near-you
+layer7 boot
+layer7 ddos
+layer7 stress
 layout look great
 layout of your blog
 layout of your page
@@ -35784,6 +35811,10 @@ reparacioncocina
 reparatii-masini-spa
 repeated galdi
 repeated-galdi
+replacement near me
+replacement near you
+replacement-near-me
+replacement-near-you
 replica bag
 replica birk
 replica cartier
