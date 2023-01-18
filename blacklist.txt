@@ -1951,6 +1951,12 @@ _zapat
 .games.ru
 .games.su
 .games.za
+.gaming.in
+.gaming.pl
+.gaming.ro
+.gaming.ru
+.gaming.su
+.gaming.za
 .gif/
 .glifeblog.
 .glifeblogs.
@@ -10132,6 +10138,7 @@ blogging-service
 blogging-visit
 bloggingg
 blogginglook
+bloggnews
 bloggold
 bloggybest
 bloghome
@@ -19506,6 +19513,7 @@ free cash app
 free casino
 free chat
 free cinemamovie
+free credit
 free crypto
 free csgo
 free diamond
@@ -19585,6 +19593,7 @@ free-casino
 free-chat
 free-cinemamovie
 free-coin
+free-credit
 free-crypto
 free-csgo
 free-diamond
@@ -19671,6 +19680,7 @@ freecamsite
 freecasino
 freechat
 freecinemamovie
+freecredit
 freecrypto
 freecsgo
 freedat
@@ -26574,12 +26584,14 @@ lili-porno
 liliporno
 limit hold'em
 limit hold’em
-limited free gem
+limited free
 limited jers
-limited-free-gem
+limited suppy
+limited-free
 limited-japan
 limited-jers
 limited-jp
+limitedfree
 limitedjapan
 limitedjers
 limitedjp
@@ -26608,6 +26620,7 @@ link juice
 link logger
 link market
 link of this app
+link postegro
 link pyramid
 link redirect
 link right here
@@ -26636,6 +26649,7 @@ link-issue
 link-juice
 link-logger
 link-market
+link-postegro
 link-pyramid
 link-redirect
 link-sale
@@ -28085,10 +28099,6 @@ master freespin
 master-cheat
 master-free-spin
 master-freespin
-master.pl
-master.ru
-master.su
-master.za
 mastercheat
 masterclass through
 masterclass_
@@ -28102,11 +28112,6 @@ masters hack
 masters-cheat
 masters-free-gem
 masters-hack
-masters.pl
-masters.ro
-masters.ru
-masters.su
-masters.za
 masterscheat
 mastery class
 mastery degree
@@ -30677,8 +30682,6 @@ niue-pokemon
 nized.;
 nized.:
 nizoral
-nm.ru
-nm.su
 nneed-from
 nngid.ru
 nnuauec
@@ -33984,6 +33987,12 @@ posted on your blog
 posted on your page
 posted on your site
 posted on your web
+postegro beaut
+postegro link
+postegro web
+postegro-beaut
+postegro-link
+postegro-web
 postfully
 posting comment
 posting movies frequent
@@ -35444,6 +35453,7 @@ reccomend this
 reccomend-this
 reccommend
 receive carried
+receive comms
 receive-carried
 recent seo
 recent-seo
@@ -36282,8 +36292,6 @@ rofxreview
 roger vivier
 roger-vivier
 rogervivier
-rok.ru
-rok.su
 rokettube
 roleplay
 rolex market
@@ -41831,6 +41839,7 @@ top-murder
 top-muscle
 top-naked
 top-new
+top-of-the-line
 top-option
 top-rank
 top-samara
@@ -44369,6 +44378,7 @@ web paqge
 web people
 web pharm
 web porn
+web postegro
 web promo
 web property
 web scheme
@@ -44421,6 +44431,7 @@ web-owner
 web-people
 web-pharm
 web-porn
+web-postegro
 web-pro
 web-promo
 web-property
