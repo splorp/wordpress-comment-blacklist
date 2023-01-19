@@ -1714,17 +1714,25 @@ _zapat
 .blog3
 .blog4
 .blog5
+.blogactivo.
 .blogadvize.
 .blogbox.
+.blogcudinti.
+.blogdanica.
+.blogdeazar.
 .blogdigy.
 .blogdiloz.
 .blogdon.
+.blogdosaga.
+.bloggactivo.
 .bloggerpr.
+.bloggsactivo.
 .blogidea.
 .blogideas.
 .blogkoo.
 .bloglovin.
 .blogmaker.
+.blogmazing.
 .blogminds.
 .blogola.
 .blogolize.
@@ -1736,6 +1744,10 @@ _zapat
 .blogs3
 .blogs4
 .blogs5
+.blogsactivo.
+.blogsdanica.
+.blogsdeazar.
+.blogsdosaga.
 .blogsidea.
 .blogsideas.
 .blogspace.
@@ -1745,6 +1757,7 @@ _zapat
 .bluray-
 .bluray.
 .bluxeblog.
+.bluxeblogs.
 .bodhidharma-
 .bodhidharma.
 .bodhidharma/
@@ -1925,10 +1938,8 @@ _zapat
 .forex/
 .fr,
 .fr/,
-.fragmenting.us
-.freecam
-.freeforum
-.freeoda.co
+.freeoda.
+.frewwebs.
 .fuck-
 .fuck.
 .fuck/
@@ -2044,6 +2055,8 @@ _zapat
 .it/t/
 .izrablog.
 .izrablogs.
+.jaiblog.
+.jaiblogs.
 .jclick-
 .jclick.
 .jclick/
@@ -2266,6 +2279,7 @@ _zapat
 .propertysales.
 .propertysales/
 .proxy-connect.
+.prublogger.
 .ps:
 .pussie-
 .pussie.
@@ -2431,6 +2445,8 @@ _zapat
 .spielideen-
 .spielideen.
 .spielideen/
+.spintheblog.
+.spintheblogs.
 .spruz.
 .ssnblog.
 .ssnblogs.
@@ -2491,6 +2507,7 @@ _zapat
 .tatuagens-
 .tatuagens.
 .tatuagens/
+.tblogz.
 .telrock.net
 .tension
 .thearticle
@@ -2504,6 +2521,9 @@ _zapat
 .thenerdblogs.
 .thenerdsblog.
 .thenerdsblogs.
+.theoblog.
+.theoblogger.
+.theoblogs.
 .thezenweb.
 .thxgamers-
 .thxgamers.
@@ -2514,6 +2534,8 @@ _zapat
 .tischkicker/
 .tistory.
 .tk/chk/
+.tkzblog.
+.tkzblogs.
 .top/?
 .top/gal
 .top/thumb
@@ -2540,6 +2562,7 @@ _zapat
 .web3.
 .webgarden.at
 .webgarden.cz
+.weblogco.
 .webs.co
 .website/?
 .wego.shop
@@ -2551,6 +2574,10 @@ _zapat
 .wirisi-
 .wirisi.
 .wirisi/
+.wizzardblog.
+.wizzardblogs.
+.wizzardsblog.
+.wizzardsblogs.
 .worktop.
 .worktops.
 .worldblogged.
@@ -8019,6 +8046,10 @@ asd@
 asdasd
 asdf
 asdsdf
+aseguranza carros
+aseguranza de carros
+aseguranza-carros
+aseguranza-de-carros
 asia escort
 asia eskort
 asia fuck
@@ -11705,15 +11736,18 @@ camisetas-polo
 camisetashollis
 camisetaspolo
 camper bathroom
+camper body repair
 camper cabinet
 camper counter
 camper fabric
 camper lighting
+camper paint shop
 camper reno
 camper resto
 camper slide
 camper solar
 camper upgrade
+camper van repair
 camper windshield
 camper-bathroom
 camper-cabinet
@@ -11725,6 +11759,7 @@ camper-resto
 camper-slide
 camper-solar
 camper-upgrade
+camper-van-repair
 camper-windshield
 campervanhire
 cams site full
@@ -13263,6 +13298,10 @@ chooboot
 choolesterol
 choose calorie
 choose-calorie
+choose-the-ideal
+choose-the-perfect
+choosing-the-ideal
+choosing-the-perfect
 chose appnana
 chose-app-nana
 chose-appnana
@@ -13924,6 +13963,7 @@ collezione-celine
 collezione-moncler
 collezioneceline
 collezionemoncler
+collision repair nearby
 colon broom
 colon-broom
 colonbroom
@@ -15723,6 +15763,10 @@ descriptive-site
 descriptive-weblog
 descubra mais
 descubra-mais
+descuento para
+descuento-para
+descuentos para
+descuentos-para
 design cheap
 design firm style
 design industrial design
@@ -16135,9 +16179,11 @@ disorder quiz
 disorder-quiz
 dispensary near me
 dispensary near you
+dispensary nearby
 dispensary war
 dispensary-near-me
 dispensary-near-you
+dispensary-nearby
 dispensary-war
 display screen defend
 dissertation making
@@ -19473,6 +19519,7 @@ fradidas
 fragil emocional
 frágil emocional
 fragil-emocional
+fragmenting.us
 frame cheap
 frame-cheap
 framecheap
@@ -19676,6 +19723,7 @@ freebees
 freebid
 freeblog
 freebrows
+freecam
 freecamsite
 freecasino
 freechat
@@ -19697,6 +19745,7 @@ freeescort
 freeeskort
 freefor.co
 freefortnite
+freeforum
 freegay
 freegold
 freehookup
@@ -21843,6 +21892,7 @@ gunler bayim
 gunler-bayim
 guns for sale
 guns online
+guns-for-sale
 guns-online
 gunsonline
 gunstig kaufen
@@ -24176,9 +24226,11 @@ install-virtual
 installation bang
 installation near me
 installation near you
+installation nearby
 installation-bang
 installation-near-me
 installation-near-you
+installation0nearby
 installment loan
 installment-loan
 installmentloan
@@ -26218,19 +26270,24 @@ laws-symbol
 lawyer free
 lawyer near me
 lawyer near you
+lawyer nearby
 lawyer seo
 lawyer sex
 lawyer-free
 lawyer-near-me
 lawyer-near-you
+lawyer-nearby
 lawyer-seo
 lawyer-sex
 lawyerfree
 lawyering is simply
+lawyernear-me
 lawyers near me
 lawyers near you
+lawyers nearby
 lawyers-near-me
 lawyers-near-you
+lawyers-nearby
 layer7 boot
 layer7 ddos
 layer7 stress
@@ -27314,10 +27371,8 @@ lover-tshirt
 loving natural
 loving-natural
 lovingnatural
-low priced
+low learning threshold
 low rake
-low-cost-
-low-priced
 low-rake
 lowest rake
 lowest-rake
@@ -27634,8 +27689,10 @@ maintain-prevent
 maintainprevent
 maintenance near me
 maintenance near you
+maintenance nearby
 maintenance-near-me
 maintenance-near-you
+maintenance-nearby
 maior hormonio
 maior hormônio
 maior-hormonio
@@ -28814,6 +28871,7 @@ microsoft - crack
 microsoft crack
 microsoft-crack
 microsoftcrack
+middle-in-your-area
 miditom4a
 miditomp3
 miditomp4
@@ -29541,6 +29599,7 @@ motorhome lighting
 motorhome mechanic
 motorhome near me
 motorhome near you
+motorhome nearby
 motorhome upgrade
 motorhome windshield
 motorhome-cabinet
@@ -29548,6 +29607,7 @@ motorhome-lighting
 motorhome-mechanic
 motorhome-near-me
 motorhome-near-you
+motorhome-nearby
 motorhome-upgrade
 motorhome-windshield
 mount sex
@@ -33110,6 +33170,7 @@ physique-temperature
 phytoceramide
 pɦân phối
 pɦân-phối
+picking-the-top
 pics-expensive
 pics, expensive
 picture blog
@@ -33337,6 +33398,7 @@ pleasat thought
 please click
 please-click
 pleassant
+pleasure in the benefit
 pleasure secret
 pleasure-secret
 pleasuresecret
@@ -34733,6 +34795,10 @@ propip
 propiska sobstvennik
 propiska-sobstvennik
 propranolol
+proscar for sale
+proscar online
+proscar-for-sale
+proscar-online
 proshop.ru
 prospects of decay
 prostaphytol
@@ -34813,6 +34879,7 @@ psychedelic-parent
 psychedelicparent
 pubg mobil
 pubg-mobil
+public chain ecology
 public fuck
 public laptop
 public sex
@@ -35123,7 +35190,9 @@ quinoa stomach
 quinoa-stomach
 quintessence causing
 quit mastur
+quit shop
 quit-mastur
+quit-shop
 quit-smok
 quit-smoking
 quit9to5
@@ -37059,6 +37128,7 @@ seaddons
 seahawks jers
 seahawks-jers
 seahawksjers
+seamlessly harmony
 search engine list
 search engine market
 search engine posi
@@ -37199,6 +37269,7 @@ selalu-menang
 selebriti_
 selecting-a-strain
 selecting-great-white
+selecting-the-perfect
 self google
 self on facebook
 self on instagram
@@ -40762,10 +40833,13 @@ thai camp
 thai massage
 thai-camp
 thai-massage
+thailand baccarat
 thailand betting
 thailand m88
+thailand-baccarat
 thailand-betting
 thailand-m88
+thailand/baccarat
 thailandm88
 thailove
 than forex
@@ -40892,6 +40966,7 @@ the blog;
 the blog:
 the book in it
 the carfiac
+the chain change
 the consulting firm
 the contents present
 the cruise trip
@@ -40954,6 +41029,7 @@ the writing compan
 the writing service
 the youtuber
 the_best
+the-absolute-best
 the-benefit-of
 the-benefits-of
 the-best-treatment
@@ -43218,11 +43294,15 @@ van bathroom
 van body
 van counter
 van gas mileage
+van maintenance center
+van paint shop
 van sound
 van washing
 van-bathroom
 van-body
 van-counter
+van-maintenance-center
+van-paint-shop
 van-sound
 van-washing
 vanguard education
@@ -43342,6 +43422,9 @@ vardenafil
 variant1
 variant2
 variant3
+vaxe token
+vaxe-token
+vaxetoken
 vay tiền mặt
 vbucks
 vbyj
@@ -45314,6 +45397,10 @@ wonderful paragraph
 wonderful post
 wonderful publish
 wonderful read!
+wonderful short article
+wonderful short blog
+wonderful short paragraph
+wonderful short post
 wonderful site
 wonderful web
 wonderful write
