@@ -1686,6 +1686,7 @@ _zapat
 .assjob.
 .assjob/
 .azmya.
+.azzablog.
 .baidu
 .bbls.pl
 .bcz.co
@@ -1720,6 +1721,7 @@ _zapat
 .blogcudinti.
 .blogdanica.
 .blogdeazar.
+.blogdemls.
 .blogdigy.
 .blogdiloz.
 .blogdon.
@@ -2092,6 +2094,8 @@ _zapat
 .kartridzhej-
 .kartridzhej.
 .kartridzhej/
+.kylieblog.
+.kylieblogs.
 .lacoste-
 .lacoste.
 .lacoste/
@@ -2159,6 +2163,8 @@ _zapat
 .net/3.
 .newbalance-
 .nike-
+.nizarblog.
+.nizarblogs.
 .noreferer-
 .noreferer.
 .noreferer/
@@ -2171,6 +2177,7 @@ _zapat
 .openlink/
 .org,
 .org/,
+.ourcodeblog.
 .outlet.biz
 .outlet.co
 .outlink-
@@ -2551,6 +2558,7 @@ _zapat
 .top/gal
 .top/thumb
 .travel.pl
+.tusblogos.
 .tv show
 .twiclub.
 .twilight-
@@ -6843,6 +6851,7 @@ advair-order
 advairmd
 advaironline
 advairorder
+advance-of-buying
 advanced hemp
 advanced raw begin
 advanced-hemp
@@ -7326,6 +7335,7 @@ amazing-post
 amazing-sell
 amazing-sex
 amazing-videos
+amazingness can help
 amazingness life
 amazingsex
 amazn.co
@@ -9487,6 +9497,7 @@ bet-khong
 bet-link
 bet-list
 bet-script
+bet-tips
 bet88
 beta/halkomentar-
 betes0
@@ -10372,6 +10383,9 @@ bonem turystycz
 bonem-turystycz
 bonerz
 bong 88
+bong near me
+bong near you
+bong nearby
 bong online
 bong-88
 bong-online
@@ -10380,6 +10394,9 @@ bonga cam
 bonga-cam
 bongacam
 bongonline
+bongs near me
+bongs near you
+bongs nearby
 bonne copie
 bonne-copie
 bonnecopie
@@ -11731,6 +11748,7 @@ camper solar
 camper upgrade
 camper van build
 camper van repair
+camper van service
 camper van support
 camper windshield
 camper-bathroom
@@ -11747,6 +11765,7 @@ camper-solar
 camper-upgrade
 camper-van-build
 camper-van-repair
+camper-van-service
 camper-van-support
 camper-windshield
 campervanhire
@@ -13098,6 +13117,14 @@ cher-prada
 chermoncler
 cherprada
 chettelongchamp
+chevy van build
+chevy van repair
+chevy van service
+chevy van support
+chevy-van-build
+chevy-van-repair
+chevy-van-service
+chevy-van-support
 chez skechers
 chez-skechers
 chf iraq
@@ -18814,16 +18841,24 @@ fifaut
 fifaworld hack
 fifaworld-hack
 fifaworldhack
-figc
+fight click
 fight drone
+fight mark
+fight-click
 fight-drone
+fight-mark
+fightclick
+fighting click
+fighting drone
+fighting-click
+fighting-drone
+fightingdrone
 fightmark
 fiɡure
 file website
 file-website
 filenamedat
 filenamesdat
-files/new
 filestube
 film drinking
 film erotic
@@ -21563,6 +21598,11 @@ great publish
 great read:
 great read!
 great sex party
+great short article
+great short blog
+great short paragraph
+great short post
+great short web
 great site and
 great site continue
 great site keep
@@ -22330,8 +22370,11 @@ hdzfilm
 he contact admin
 he is discussing online
 he isnt
+head shop
+head-shop
 heading out throughout
 headphone power cord
+headshop
 healed in one vacation
 healing article
 healing blog
@@ -22789,6 +22832,7 @@ higher pidel
 higher rank
 higher-level-weapon
 higher-rank
+highest-ten-help
 highgrade
 highly effective online
 highly-effective-online
@@ -23314,6 +23358,7 @@ how-start-small
 howdy just wanted
 howdy superb
 howdy-superb
+howeever
 however before
 however good topic
 however great topic
@@ -23705,6 +23750,7 @@ in a a lot
 in a ll
 in blog commenting
 in delicious
+in faact
 in gogle
 in light up
 in logo ladi
@@ -27628,6 +27674,7 @@ mais post como
 mais-acessando
 mais-post-como
 majesticriver
+major-ten-help
 make blogging
 make comment due
 make csgo
@@ -30180,8 +30227,6 @@ nba.ctr
 nba.htm
 nba.jsp
 nba.php
-nba%202k
-nba2k
 nbahouston
 nbajers
 nbamen
@@ -34366,6 +34411,7 @@ principal-longchamp
 principallongchamp
 principen generic
 principen-generic
+prior-to-buying
 prioridad mas important
 prioridad más important
 privacy oon
@@ -34575,7 +34621,7 @@ program kasir
 program ppc
 program-kasir
 program-ppc
-programs on ways
+programs on way
 progress loan
 progress-loan
 progressive jack
@@ -35023,6 +35069,7 @@ quality-sitte
 quality-weblog
 quality-writing
 quality.the
+qualiuty
 qualuty
 quần lót nam
 quản lý bán hàng
@@ -35700,8 +35747,10 @@ relx-infinity
 relx-vape
 relxinfinity
 relxvape
+remarkable amazingness
 remarkable article
 remarkable blog
+remarkable can help
 remarkable info
 remarkable job
 remarkable life chang
@@ -36615,6 +36664,14 @@ sactrail
 sacvanessa
 sacvuitton
 sadehap
+safari van build
+safari van repair
+safari van service
+safari van support
+safari-van-build
+safari-van-repair
+safari-van-service
+safari-van-support
 safeguard exper
 safeguard-exper
 safeguarded exper
@@ -38777,10 +38834,16 @@ smmsupreme
 smnall
 smok priv
 smok-priv
+smoke shop
 smoke smok
+smoke store
+smoke-shop
 smoke-smok
+smoke-store
 smoke, smok
 smoke. smok
+smokeshop
+smokestore
 smoking news
 smoking-news
 smokingnews
@@ -40633,9 +40696,37 @@ tempte.st
 temptes.t
 temptest
 ten best free
+ten best strateg
+ten best technique
+ten best way
+ten helpful free
+ten helpful strateg
+ten helpful technique
+ten helpful way
+ten practical free
+ten practical strateg
+ten practical technique
+ten practical way
+ten useful free
+ten useful strateg
+ten useful technique
+ten useful way
 ten-best-free
-ten-helpful-ways
-ten-useful-strategies
+ten-best-strateg
+ten-best-technique
+ten-best-way
+ten-helpful-free
+ten-helpful-strateg
+ten-helpful-technique
+ten-helpful-way
+ten-practical-free
+ten-practical-strateg
+ten-practical-technique
+ten-practical-way
+ten-useful-free
+ten-useful-strateg
+ten-useful-technique
+ten-useful-way
 tengo una web
 tennisstream
 tenormin
@@ -41758,6 +41849,10 @@ top quality of service
 top samara
 top sight
 top stop
+top ten practical
+top ten strateg
+top ten technique
+top ten way
 top tier
 top top
 top venture capital
@@ -41797,6 +41892,10 @@ top-sight
 top-site
 top-stop
 top-tai
+top-ten-practical
+top-ten-strateg
+top-ten-technique
+top-ten-way
 top-tier
 top-tool
 top-top
@@ -43165,6 +43264,7 @@ valueble
 valueserver
 van bathroom
 van body
+van camper kit
 van counter
 van gas mileage
 van maintenance center
@@ -43175,6 +43275,7 @@ van sound
 van washing
 van-bathroom
 van-body
+van-camper-kit
 van-counter
 van-maintenance-center
 van-paint-shop
@@ -43299,6 +43400,7 @@ vardenafil
 variant1
 variant2
 variant3
+variouis
 vaxe token
 vaxe-token
 vaxetoken
@@ -44420,11 +44522,13 @@ web/index
 web4s
 webanal
 webb blog
+webb pate
 webb site
 webb-blog
 webb-site
 webblog
 webbmaster
+webbpate
 webbsite
 webcam babe
 webcam site
@@ -44688,6 +44792,9 @@ weeblog
 weebmaster
 weebpage
 weebsite
+weed bong
+weed-bong
+weedbong
 week reaction
 weekly casino
 weekly income
