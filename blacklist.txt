@@ -3133,6 +3133,7 @@ _zapat
 /bitcoin.
 /bitcoin/
 /bitly.co
+/bitly.ws
 /biturl.top
 /biz-
 /biz.
@@ -4852,6 +4853,7 @@ _zapat
 /tinylink.in
 /tinyls.net
 /tinyurl.co
+/tinyurl.mobi
 /tischkicker-
 /tischkicker.
 /tischkicker/
@@ -5067,6 +5069,7 @@ _zapat
 /xtl.jp
 /xurl.es
 /xxs.yt
+/xy2.eu
 /ya.
 /yabb
 /ylink.pro

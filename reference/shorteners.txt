@@ -14,6 +14,7 @@
 /bit.do
 /bit.ly
 /bitly.co
+/bitly.ws
 /biturl.top
 /cek.li
 /chilp.it
@@ -103,6 +104,7 @@
 /tinylink.in
 /tinyls.net
 /tinyurl.co
+/tinyurl.mobi
 /tlkm.my
 /tnyhs.com
 /to.ly
@@ -123,6 +125,7 @@
 /xtl.jp
 /xurl.es
 /xxs.yt
+/xy2.eu
 /ylink.pro
 /yourls.org
 /yourls.site
