@@ -3023,6 +3023,18 @@ _zapat
 /anonymous.
 /answer-
 /answer.
+/apiclick?
+/apiclick.ashx?
+/apiclick.asp?
+/apiclick.aspx?
+/apiclick.cfm?
+/apiclick.cgi?
+/apiclick.ctr?
+/apiclick.htm?
+/apiclick.html?
+/apiclick.jsp?
+/apiclick.php?
+/apiclick/?
 /app-rating
 /appliancerepair-
 /appliancerepair.
@@ -3321,8 +3333,19 @@ _zapat
 /cigs.
 /cigs/
 /ck-
-/ck.
+/ck?
+/ck.ashx?
+/ck.asp?
+/ck.aspx?
+/ck.cfm?
+/ck.cgi?
+/ck.ctr?
+/ck.htm?
+/ck.html?
+/ck.jsp?
+/ck.php?
 /ck/
+/ck/?
 /cl-
 /cl.
 /cl/
@@ -4469,6 +4492,18 @@ _zapat
 /propertysales-
 /propertysales.
 /propertysales/
+/proxy?
+/proxy.ashx?
+/proxy.asp?
+/proxy.aspx?
+/proxy.cfm?
+/proxy.cgi?
+/proxy.ctr?
+/proxy.htm?
+/proxy.html?
+/proxy.jsp?
+/proxy.php?
+/proxy/?
 /prozac
 /public/
 /pufy
@@ -11309,6 +11344,7 @@ buy estate tax
 buy face
 buy facebook
 buy fifa
+buy filagra
 buy forskolin
 buy generic
 buy genie
@@ -11391,6 +11427,7 @@ buy-duvet
 buy-essay
 buy-face
 buy-fifa
+buy-filagra
 buy-forskolin
 buy-generic
 buy-genie
@@ -12718,6 +12755,7 @@ cheap evening dress
 cheap evening gown
 cheap ferrag
 cheap fifa
+cheap filagra
 cheap find
 cheap flower
 cheap footbal
@@ -12829,6 +12867,7 @@ cheap-evening-dress
 cheap-evening-gown
 cheap-ferrag
 cheap-fifa
+cheap-filagra
 cheap-find
 cheap-flower
 cheap-footbal
@@ -25403,6 +25442,7 @@ junk-jewelry
 junkjewelry
 jus because
 just book mark
+just bookmark
 just cetirizine
 just extremely wonder
 just like hypno
@@ -25410,9 +25450,11 @@ just saying you
 just subscribe
 just wanna
 just-book-mark
+just-bookmark
 just-cetirizine
 just-subscribe
 just-wanna
+justbookmark
 justcan do
 justcetirizine
 justcloud
@@ -31495,7 +31537,7 @@ online gratis
 online gry
 online heel
 online hn
-online indonesia
+online indo
 online internet
 online journ
 online life coach
@@ -31580,7 +31622,7 @@ online-gry
 online-guide-of
 online-heel
 online-hn
-online-indonesia
+online-indo
 online-internet
 online-invest
 online-journ
@@ -35346,6 +35388,7 @@ re-upload this
 re-upload-this
 reach profit
 reach their pursuit
+reach your income
 reach-me-down
 reach-profit
 react consequent
@@ -35818,6 +35861,7 @@ remarkable practice
 remarkable site
 remarkable understand
 remarkable web
+remarkable will change
 remarkable-article
 remarkable-blog
 remarkable-info
@@ -37352,14 +37396,16 @@ seo buy
 seo check
 seo cms
 seo comp
-seo cong huong
+seo cong
+seo distort
 seo expert
 seo gain
 seo gig
 seo god
+seo high
 seo hiz
 seo host
-seo indonesia
+seo indo
 seo luton
 seo mumbai
 seo online
@@ -37400,15 +37446,15 @@ seo-buy
 seo-check
 seo-cms
 seo-comp
-seo-cong-huong
+seo-cong
+seo-distort
 seo-expert
 seo-gain
 seo-god
-seo-high-score
-seo-highscore
+seo-high
 seo-hiz
 seo-host
-seo-indonesia
+seo-indo
 seo-luton
 seo-mumbai
 seo-online
@@ -37448,10 +37494,11 @@ seobuy
 seocheck
 seocms
 seocomp
-seoconghuong
+seocong
+seodistort
 seogain
 seogod
-seohighscore
+seohigh
 seohost
 seoluton
 seomumbai
