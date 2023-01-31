@@ -96,6 +96,7 @@
 /surl.li
 /swish.st
 /t.co
+/t.ly
 /taraa.xyz
 /tgi.link
 /tiggi.es
