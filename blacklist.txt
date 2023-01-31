@@ -1569,8 +1569,12 @@ _zapat
 ?redireccion=
 ?redirect=
 ?redirecter=
+?redirection=
+?redirections=
 ?redirector=
 ?redirects=
+?referer=
+?referers=
 ?scarpe
 ?seo
 ?sexy
@@ -4974,6 +4978,18 @@ _zapat
 /uncut/
 /underc-
 /underc.
+/unknown?
+/unknown.ashx?
+/unknown.asp?
+/unknown.aspx?
+/unknown.cfm?
+/unknown.cgi?
+/unknown.ctr?
+/unknown.htm?
+/unknown.html?
+/unknown.jsp?
+/unknown.php?
+/unknown/?
 /update/
 /upload-
 /upload.
@@ -5165,9 +5181,6 @@ _zapat
 &ref=
 &send=
 &trackback
-&unsublink=
-&url=
-&urls=
 &urm_np=
 &x6
 &x7
@@ -6500,6 +6513,7 @@ acai-
 acai-diet
 acai.diet
 acaiberry
+accessdenied
 accident attorn
 accident lawyer
 accident-attorn
@@ -7359,6 +7373,10 @@ amateure-xx
 amateurexx
 amateurxx
 amatuer
+amazing benefit for me
+amazing benefit for you
+amazing benefits for me
+amazing benefits for you
 amazing blog
 amazing in favo
 amazing issues here
@@ -18075,6 +18093,7 @@ extract-cbd
 extract-pill
 extractcbd
 extractpill
+extraordinary is the one
 extremely ample
 extremely broad for
 extremely much
@@ -24873,6 +24892,9 @@ itt is
 itt was
 itzshipd
 ive been go
+ivy elation
+ivy-elation
+ivyelation
 iwant2
 iwc brand
 iwc-brand
@@ -26890,6 +26912,7 @@ litecoin_
 literally energetic
 litte more
 litte-more
+little thing is simple
 littlegod
 live article
 live hack
@@ -34921,6 +34944,7 @@ public sex
 public-fuck
 public-laptop
 public-sex
+public.sitejot
 publica foto
 publica-foto
 publicafoto
@@ -37363,6 +37387,8 @@ send.sohbet
 sendbulk
 sendflowers
 seni siteleri
+sensational is the
+sensational provide
 sense bravo
 sensible at face
 sensitjze
@@ -40845,11 +40871,13 @@ term paper service
 term-dinner
 term-loan
 term-paper-service
+term-trackback
 terminal for pharm
 terminal-for-pharm
 terminaly
 termination of your domain
 termopane
+terms-trackback
 termstrackback
 termtrackback
 terrific blog
@@ -42145,8 +42173,13 @@ track-r.
 track/click
 track2 dump
 track2-dump
+trackback-click
 trackback-link
 trackback-url
+trackback=
+trackbackclick
+trackbacklink
+trackbackurl
 trackclick
 tracker trace
 tracker tracing
@@ -43020,6 +43053,7 @@ unprocessed unprocessed
 unprocessed, unprocessed
 unruffled beautiful
 unsingapore
+unsublink
 untrasdend
 untrodden project
 untrodden-project
