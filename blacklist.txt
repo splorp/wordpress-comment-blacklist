@@ -112,6 +112,7 @@ _www
 _xt_blog
 _youtube
 _zapat
+- more info!
 --abercrom
 --acc
 --acti
@@ -9132,6 +9133,7 @@ be benefited
 be book-mark
 be on google
 be on instagram
+be on tiktok
 be rather more
 be sure to really
 be tiny needle
@@ -9141,6 +9143,7 @@ be was put
 be weary of
 be what happens you
 be-on-instagram
+be-on-tiktok
 beamten
 beanies1
 bears hat
@@ -11383,7 +11386,6 @@ buy harvoni
 buy hermes
 buy hoverboard
 buy insta
-buy instagram
 buy jap
 buy jord
 buy jp
@@ -13919,6 +13921,8 @@ coatout
 coats out
 coats-out
 coatsout
+cobertura amplia
+cobertura-amplia
 cock battle
 cock hero
 cock-battle
@@ -14889,6 +14893,8 @@ creditcard.us
 creditdirect
 creditformat
 creditloan
+credito calificacion
+crédito calificación
 credito gratis
 crédito gratis
 credito inmediato
@@ -14900,6 +14906,7 @@ crédito personal
 credito por internet
 credito rapid
 crédito rápid
+credito-calificacion
 credito-gratis
 credito-inmediato
 credito-online
@@ -18247,6 +18254,7 @@ facebook like
 facebook privado
 facebook takipci
 facebook takipçi
+facebook takipi
 facebook traff
 facebook yorum
 facebook-ad
@@ -18257,6 +18265,7 @@ facebook-lawful
 facebook-like
 facebook-privado
 facebook-takipci
+facebook-takipi
 facebook-traff
 facebook-yorum
 facebookad
@@ -23870,6 +23879,7 @@ improve your income
 improve-home-exterior
 improve-your-home
 improve-your-income
+improvement,improve
 improvements shop
 improvements-shop
 improves reminiscence
@@ -23896,6 +23906,11 @@ in tthe
 in tthis
 in web business
 in you tube
+in your instagram
+in your snapchat
+in your tiktok
+in your twitter
+in your youtube
 in youtube
 in-delicious
 in-disguise
@@ -23905,6 +23920,10 @@ in-logo-ladi
 in-skilled
 in-you-tube
 in-your-instagram
+in-your-snapchat
+in-your-tiktok
+in-your-twitter
+in-your-youtube
 in-youtube
 in' tremendous
 in’ tremendous
@@ -24183,7 +24202,12 @@ ing ffor
 ing forwad
 ing puter
 ing-forwad
+ing-on-facebook
 ing-on-instagram
+ing-on-snapchat
+ing-on-tiktok
+ing-on-twitter
+ing-on-youtube
 ing-puter
 ing,grass
 ing.grass
@@ -24332,6 +24356,7 @@ instagram şifresiz
 instagram story view
 instagram takipci
 instagram takipçi
+instagram takipi
 instagram trick
 instagram yorum
 instagram-follow
@@ -24347,6 +24372,7 @@ instagram-shop
 instagram-sifresiz
 instagram-story-view
 instagram-takipci
+instagram-takipi
 instagram-trick
 instagram-yorum
 instagramfollow
@@ -37326,6 +37352,9 @@ segun servicio tecnico
 segun servicio técnico
 según servicio tecnico
 según servicio técnico
+seguro basado
+seguro de auto
+seguro-basado
 segway-fun
 segwayfun
 sehmale movie
@@ -39020,6 +39049,7 @@ snapchat monetiz
 snapchat money
 snapchat privado
 snapchat score
+snapchat takipi
 snapchat you tube
 snapchat youtube
 snapchat-intro
@@ -39028,6 +39058,7 @@ snapchat-monetiz
 snapchat-money
 snapchat-privado
 snapchat-score
+snapchat-takipi
 snapchat-you-tube
 snapchat-youtube
 snapchat++
@@ -40495,12 +40526,17 @@ takipci hilesi
 takipçi hilesi
 takipci satin
 takipçi satın
+takipci satn
+takipçi satn
 takipci_satin
 takipci-hilesi
 takipci-satin
+takipci-satn
+takipi hilesi
 takipi satin
 takipi satın
 takipi satn
+takipi-hilesi
 takipi-satin
 takipi-satn
 takje care
@@ -41649,6 +41685,7 @@ tiktok money
 tiktok privado
 tiktok takipci
 tiktok takipçi
+tiktok takipi
 tiktok yorum
 tiktok-advert
 tiktok-begeni
@@ -41660,6 +41697,7 @@ tiktok-monetiz
 tiktok-money
 tiktok-privado
 tiktok-takipci
+tiktok-takipi
 tiktok-yorum
 tiktokfan
 till today
@@ -42548,6 +42586,7 @@ twitter privado
 twitter shop
 twitter takipci
 twitter takipçi
+twitter takipi
 twitter yorum
 twitter-advert
 twitter-hack
@@ -42558,6 +42597,7 @@ twitter-money
 twitter-privado
 twitter-shop
 twitter-takipci
+twitter-takipi
 twitter-yorum
 two %
 two posts are $
