@@ -7287,7 +7287,7 @@ alkotla
 all ahout
 all automobile, auto
 all automotive, auto
-all congratulation
+all congratulat
 all craigs list
 all craigslist
 all in one feature
@@ -12015,21 +12015,28 @@ cara-detox
 carb nite
 carb-nite
 card cheat
+card debt
 card dump
+card financia
 card-cheat
 card-debt
 card-dump
-card-financial
+card-financia
 cardano coin
 cardano-coin
 cardanocoin
 cardcheat
+carddebt
+carddump
 carder board
 carder-board
 carders board
 carders-board
+cards cheat
 cards dump
+cards-cheat
 cards-dump
+cardscheat
 cardsdump
 cardy boot
 cardy-boot
@@ -12920,6 +12927,7 @@ cheap-find
 cheap-flower
 cheap-footbal
 cheap-fotbal
+cheap-from-china
 cheap-futbol
 cheap-ga
 cheap-glock
@@ -15153,6 +15161,8 @@ cursinho de mecanica
 cursinho de mecânica
 cursinho de pdf
 cursinho de pilot
+cursinho de relacion
+cursinho de relación
 cursinho de sinuca
 cursinho de sublim
 cursinho de sustent
@@ -15168,6 +15178,8 @@ cursinho mecanica
 cursinho mecânica
 cursinho pdf
 cursinho pilot
+cursinho relacion
+cursinho relación
 cursinho sinuca
 cursinho sublim
 cursinho sustent
@@ -15182,6 +15194,7 @@ cursinho-de-marcenaria
 cursinho-de-mecanica
 cursinho-de-pdf
 cursinho-de-pilot
+cursinho-de-relacion
 cursinho-de-sinuca
 cursinho-de-sublim
 cursinho-de-sustent
@@ -15193,6 +15206,7 @@ cursinho-marcenaria
 cursinho-mecanica
 cursinho-pdf
 cursinho-pilot
+cursinho-relacion
 cursinho-sinuca
 cursinho-sublim
 cursinho-sustent
@@ -15210,6 +15224,8 @@ curso de mecanica
 curso de mecânica
 curso de pdf
 curso de pilot
+curso de relacion
+curso de relación
 curso de sinuca
 curso de sublim
 curso de sustent
@@ -15225,6 +15241,8 @@ curso mecanica
 curso mecânica
 curso pdf
 curso pilot
+curso relacion
+curso relación
 curso sinuca
 curso sublim
 curso sustent
@@ -15239,6 +15257,7 @@ curso-de-marcenaria
 curso-de-mecanica
 curso-de-pdf
 curso-de-pilot
+curso-de-relacion
 curso-de-sinuca
 curso-de-sublim
 curso-de-sustent
@@ -15250,6 +15269,7 @@ curso-marcenaria
 curso-mecanica
 curso-pdf
 curso-pilot
+curso-relacion
 curso-sinuca
 curso-sublim
 curso-sustent
@@ -15267,6 +15287,8 @@ cursos de mecanica
 cursos de mecânica
 cursos de pdf
 cursos de pilot
+cursos de relacion
+cursos de relación
 cursos de sinuca
 cursos de sublim
 cursos de sustent
@@ -15282,6 +15304,8 @@ cursos mecanica
 cursos mecânica
 cursos pdf
 cursos pilot
+cursos relacion
+cursos relación
 cursos sinuca
 cursos sublim
 cursos sustent
@@ -15296,6 +15320,7 @@ cursos-de-marcenaria
 cursos-de-mecanica
 cursos-de-pdf
 cursos-de-pilot
+cursos-de-relacion
 cursos-de-sinuca
 cursos-de-sublim
 cursos-de-sustent
@@ -15307,6 +15332,7 @@ cursos-marcenaria
 cursos-mecanica
 cursos-pdf
 cursos-pilot
+cursos-relacion
 cursos-sinuca
 cursos-sublim
 cursos-sustent
@@ -18379,6 +18405,7 @@ fake steroid
 fake sunglass
 fake ugg
 fake watch
+fake-buy
 fake-certificate
 fake-coach
 fake-converse
@@ -18392,6 +18419,7 @@ fake-steroid
 fake-sunglass
 fake-ugg
 fake=
+fakebuy
 fakecertificate
 fakecoach
 fakeconverse
@@ -20433,10 +20461,12 @@ games casino
 games especially built
 games game
 games heart
+games real
 games reports
 games-casino
 games-especially-built
 games-game
+games-real
 games-reports
 games,arcad
 games,board
@@ -21670,6 +21700,8 @@ gratuite-roulette
 gratuiteannonce
 gratuiteos
 gratuiteroulette
+gratuito presencial
+gratuito-presencial
 gratuitos
 gratuitroulette
 grawerowanie lubin
@@ -23258,7 +23290,9 @@ holo-coin
 holo-yorum
 holocoin
 holoyorum
+home and fuck
 home online
+home-and-fuck
 home-based
 home-loan
 home-online
@@ -24589,6 +24623,8 @@ internetview
 internetweb
 internetworship
 internetwriters
+interpessoal online
+interpessoal-online
 interrest
 intersting
 intifmaroon
@@ -35693,6 +35729,7 @@ recentseo
 recephalexin
 reception of this email
 reciclable
+recientemente financia
 recipe michelin
 recipe paleo
 recipe-michelin
@@ -36109,6 +36146,7 @@ replacement near me
 replacement near you
 replacement-near-me
 replacement-near-you
+replcia
 replica bag
 replica birk
 replica cartier
@@ -38694,7 +38732,8 @@ site and save
 site asian
 site assim
 site backup
-site congratulation
+site congratulat
+site derateio
 site give pleasant
 site gives pleasant
 site google
@@ -38737,11 +38776,13 @@ site vip
 site visitor
 site web site
 site wordpress
+site предлагает
 site--
 site-amor
 site-asian
 site-assim
 site-backup
+site-derateio
 site-google
 site-however
 site-is-extreme
@@ -38774,6 +38815,7 @@ site.vip
 site/essay
 site24
 sitecode
+sitederateio
 siteleri cek
 siteleri çek
 sitelink
@@ -43408,7 +43450,9 @@ using net for post
 using simplexml
 using the cash
 using the mobile phone
+using your blog
 using your online
+using your weblog
 using-simplexml
 using-the-cash
 usingn s
@@ -47589,8 +47633,14 @@ zyvox
 новейшую дам
 новейшую-дам
 новинки
+новостного web
 новостного сайт
+новостного-web
 новостного-сайт
+новостной web
+новостной сайт
+новостной-web
+новостной-сайт
 новость убила
 новость-убила
 новых автомоби
