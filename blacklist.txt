@@ -6953,6 +6953,8 @@ advertises_
 advertising accommodat
 advertising channel
 advertising consult
+advertising conteudo
+advertising conteúdo
 advertising de conteudo
 advertising de conteúdo
 advertising device
@@ -6964,8 +6966,8 @@ advertising-accommodat
 advertising-and-market
 advertising-channel
 advertising-consult
+advertising-conteudo
 advertising-de-conteudo
-advertising-de-conteúdo
 advertising-device
 advertising-market
 advertising-method
@@ -6981,6 +6983,7 @@ advertizes_
 advertizing accommodat
 advertizing channel
 advertizing consult
+advertizing conteudo
 advertizing de conteudo
 advertizing de conteúdo
 advertizing market
@@ -6991,8 +6994,8 @@ advertizing-accommodat
 advertizing-and-market
 advertizing-channel
 advertizing-consult
+advertizing-conteudo
 advertizing-de-conteudo
-advertizing-de-conteúdo
 advertizing-market
 advertizing-method
 advertizing-research
@@ -7134,7 +7137,9 @@ agen-judi
 agen-poker
 agenbola
 agencias de marketing
+agencias marketing
 agencias-de-marketing
+agencias-marketing
 agencies is going
 agencje-
 agency online
@@ -7152,6 +7157,7 @@ agents-marbella
 âgrâve
 ahaa,
 ahorro de cost
+ahorro-de-cost
 ahttp
 aim token
 aim-token
@@ -7485,6 +7491,8 @@ ampedpage
 ampicillin
 amplia experiencia
 amplia gama de product
+amplia-experiencia
+amplia-gama-de-product
 ampmexterm
 amulet coin
 amulet-coin
@@ -8463,6 +8471,9 @@ available-plus
 available-proper
 availableclock
 availclock
+avancado geek
+avançado geek
+avancado-geek
 avant la chirurgie
 avant-la-chirurgie
 avatar bactrim
@@ -15129,7 +15140,9 @@ current videos short
 curry jers
 curry-jers
 curryjers
+cursinho barbeiro
 cursinho biohack
+cursinho de barbeiro
 cursinho de biohack
 cursinho de injecao
 cursinho de injeção
@@ -15159,7 +15172,9 @@ cursinho sinuca
 cursinho sublim
 cursinho sustent
 cursinho trading
+cursinho-barbeiro
 cursinho-biohack
+cursinho-de-barbeiro
 cursinho-de-biohack
 cursinho-de-injecao
 cursinho-de-magica
@@ -15182,7 +15197,9 @@ cursinho-sinuca
 cursinho-sublim
 cursinho-sustent
 cursinho-trading
+curso barbeiro
 curso biohack
+curso de barbeiro
 curso de biohack
 curso de injecao
 curso de injeção
@@ -15212,7 +15229,9 @@ curso sinuca
 curso sublim
 curso sustent
 curso trading
+curso-barbeiro
 curso-biohack
+curso-de-barbeiro
 curso-de-biohack
 curso-de-injecao
 curso-de-magica
@@ -15235,7 +15254,9 @@ curso-sinuca
 curso-sublim
 curso-sustent
 curso-trading
+cursos barbeiro
 cursos biohack
+cursos de barbeiro
 cursos de biohack
 cursos de injecao
 cursos de injeção
@@ -15265,7 +15286,9 @@ cursos sinuca
 cursos sublim
 cursos sustent
 cursos trading
+cursos-barbeiro
 cursos-biohack
+cursos-de-barbeiro
 cursos-de-biohack
 cursos-de-injecao
 cursos-de-magica
@@ -20429,10 +20452,12 @@ gamesgame
 gamesreports
 gamewiki
 gaming game
+gaming indo
 gaming maus
 gaming mäus
 gaming torrent
 gaming-game
+gaming-indo
 gaming-maus
 gaming-mäus
 gaming-torrent
@@ -33588,6 +33613,11 @@ point ,
 point !
 point .
 point depression
+point from your blog
+point from your page
+point from your post
+point from your site
+point from your web
 point generat
 point massage
 point_massage
@@ -33598,6 +33628,11 @@ pointmassage
 points ,
 points !
 points .
+points from your blog
+points from your page
+points from your post
+points from your site
+points from your web
 points generat
 points in feature
 points you have written
@@ -37367,10 +37402,17 @@ segun servicio tecnico
 segun servicio técnico
 según servicio tecnico
 según servicio técnico
+seguro auto
 seguro basado
+seguro cobertura
+seguro conductor
 seguro de auto
 seguro mercado
+seguro-auto
 seguro-basado
+seguro-cobertura
+seguro-conductor
+seguro-de-auto
 seguro-mercado
 segway-fun
 segwayfun
@@ -37517,6 +37559,7 @@ seo service
 seo share
 seo shop
 seo site
+seo snip
 seo soluton
 seo source
 seo special
@@ -37566,6 +37609,7 @@ seo-service
 seo-share
 seo-shop
 seo-site
+seo-snip
 seo-soluton
 seo-source
 seo-special
@@ -37608,6 +37652,7 @@ seoreport
 seoservice
 seoshare
 seoshop
+seosnip
 seosoluton
 seosource
 seospecial
@@ -41830,6 +41875,10 @@ tip:the
 tipblog
 tipo más habit
 tipo-mas-habit
+tipos cobertura
+tipos de cobertura
+tipos-cobertura
+tipos-de-cobertura
 tips beberapa
 tips blog
 tips daily
@@ -42504,10 +42553,13 @@ tto put
 tu mini sitio
 tu mini-sitio
 tu sitio web
+tube porn
 tube sex
+tube-porn
 tube-sex
 tube-zzz
 tubee.tv
+tubeporn
 tubesex
 tubezzz
 tuc online
