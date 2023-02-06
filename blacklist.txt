@@ -11096,6 +11096,8 @@ budreview
 budtrader
 budynku wybrac
 budynku-wybrac
+bug pest control
+bug-pest-control
 build curso
 build-curso
 buildcurso
@@ -15159,14 +15161,17 @@ curry-jers
 curryjers
 cursinho banco
 cursinho barbeiro
+cursinho bases
 cursinho biohack
 cursinho de banco
 cursinho de barbeiro
+cursinho de bases
 cursinho de biohack
 cursinho de devop
 cursinho de gestao
 cursinho de gestão
 cursinho de google
+cursinho de impuls
 cursinho de injecao
 cursinho de injeção
 cursinho de magica
@@ -15189,6 +15194,7 @@ cursinho ênfase
 cursinho gestao
 cursinho gestão
 cursinho google
+cursinho impuls
 cursinho injecao
 cursinho injeção
 cursinho intensiv
@@ -15208,11 +15214,14 @@ cursinho sustent
 cursinho trading
 cursinho-banco
 cursinho-barbeiro
+cursinho-bases
 cursinho-biohack
 cursinho-de-banco
 cursinho-de-barbeiro
+cursinho-de-bases
 cursinho-de-biohack
 cursinho-de-gestao
+cursinho-de-impuls
 cursinho-de-injecao
 cursinho-de-intensiv
 cursinho-de-magica
@@ -15227,6 +15236,7 @@ cursinho-de-sustent
 cursinho-de-trading
 cursinho-enfase
 cursinho-gestao
+cursinho-impuls
 cursinho-injecao
 cursinho-intensiv
 cursinho-magica
@@ -15239,16 +15249,23 @@ cursinho-sinuca
 cursinho-sublim
 cursinho-sustent
 cursinho-trading
+cursinhobases
+cursinhodebases
+cursinhodeimpuls
+cursinhoimpuls
 curso banco
 curso barbeiro
+curso bases
 curso biohack
 curso de banco
 curso de barbeiro
+curso de bases
 curso de biohack
 curso de devop
 curso de gestao
 curso de gestão
 curso de google
+curso de impuls
 curso de injecao
 curso de injeção
 curso de intensiv
@@ -15273,6 +15290,7 @@ curso ênfase
 curso gestao
 curso gestão
 curso google
+curso impuls
 curso injecao
 curso injeção
 curso intensiv
@@ -15293,14 +15311,17 @@ curso sustent
 curso trading
 curso-banco
 curso-barbeiro
+curso-bases
 curso-biohack
 curso-de devop
 curso-de google
 curso-de mestre
 curso-de-banco
 curso-de-barbeiro
+curso-de-bases
 curso-de-biohack
 curso-de-gestao
+curso-de-impuls
 curso-de-injecao
 curso-de-intensiv
 curso-de-magica
@@ -15317,6 +15338,7 @@ curso-devop
 curso-enfase
 curso-gestao
 curso-google
+curso-impuls
 curso-injecao
 curso-intensiv
 curso-magica
@@ -15330,16 +15352,23 @@ curso-sinuca
 curso-sublim
 curso-sustent
 curso-trading
+cursobases
+cursodebases
+cursodeimpuls
+cursoimpuls
 cursos banco
 cursos barbeiro
+cursos bases
 cursos biohack
 cursos de banco
 cursos de barbeiro
+cursos de bases
 cursos de biohack
 cursos de devop
 cursos de gestao
 cursos de gestão
 cursos de google
+cursos de impuls
 cursos de injecao
 cursos de injeção
 cursos de intensiv
@@ -15364,6 +15393,7 @@ cursos ênfase
 cursos gestao
 cursos gestão
 cursos google
+cursos impuls
 cursos injecao
 cursos injeção
 cursos intensiv
@@ -15384,13 +15414,16 @@ cursos sustent
 cursos trading
 cursos-banco
 cursos-barbeiro
+cursos-bases
 cursos-biohack
 cursos-de-banco
 cursos-de-barbeiro
+cursos-de-bases
 cursos-de-biohack
 cursos-de-devop
 cursos-de-gestao
 cursos-de-google
+cursos-de-impuls
 cursos-de-injecao
 cursos-de-intensiv
 cursos-de-magica
@@ -15408,6 +15441,7 @@ cursos-devop
 cursos-enfase
 cursos-gestao
 cursos-google
+cursos-impuls
 cursos-injecao
 cursos-intensiv
 cursos-magica
@@ -15421,6 +15455,10 @@ cursos-sinuca
 cursos-sublim
 cursos-sustent
 cursos-trading
+cursosbases
+cursosdebases
+cursosdeimpuls
+cursosimpuls
 curvy shapewear
 curvy-shapewear
 cushion sofa
@@ -15872,6 +15910,12 @@ dejtingtips
 dekorativno prikladno
 dekorativno-prikladno
 del sitio web
+delhi escort
+delhi eskort
+delhi-escort
+delhi-eskort
+delhiescort
+delhieskort
 deliuveries
 deliuvery
 deliver noticeable result
@@ -16346,6 +16390,7 @@ discount afl
 discount anta
 discount bag
 discount cialis
+discount code http
 discount harvoni
 discount jord
 discount kratom
@@ -16358,7 +16403,6 @@ discount north
 discount reebok
 discount ugg
 discount voucher
-discount-
 discount-afl
 discount-anta
 discount-bag
@@ -16379,7 +16423,6 @@ discountafl
 discountbag
 discountcig
 discounted north
-discounted-
 discounted-north
 discounted-wheel
 discountednorth
@@ -18086,6 +18129,7 @@ excellent gift for
 excellent gifts for
 excellent movie clip
 excellent movies clip
+excellent operate
 excellent page
 excellent paragraph
 excellent pick-up
@@ -19314,9 +19358,6 @@ firearm-online
 firearm-store
 firearmonline
 firearmstore
-firefox-setting
-firefoxik
-firefoxsetting
 firma betor
 firma reinigung
 firma sprzata
@@ -19801,6 +19842,9 @@ found your post
 found your site
 found your web
 four %
+foxy massage
+foxy-massage
+foxymassage
 fr canad
 fr-canad
 fr.fr/
@@ -24043,6 +24087,8 @@ improvements shop
 improvements-shop
 improves reminiscence
 imptortant
+impulsionamento digital
+impulsionamento-digital
 imqge
 imtmdiae
 in a a lot
@@ -28387,9 +28433,15 @@ marrijott stay
 marshall guantes
 marshall-guantes
 marshallguantes
+mart de rateio
+mart rateio
+mart-de-rateio
+mart-rateio
+martderateio
 martini cagliari
 martini-cagliari
 martinicagliari
+martrateio
 marvellous blog
 marvellous info
 marvellous me
@@ -28828,28 +28880,34 @@ meet and fuck
 meet-and-fuck
 meetandfuck
 mega culo
+mega de rateio
 mega pezone
 mega prix
 méga prix
 mega prov
+mega rateio
 mega sena
 mega teta
 mega tetona
 mega-culo
+mega-de-rateio
 mega-pezone
 mega-prix
 mega-prov
+mega-rateio
 mega-sena
 mega-teta
 mega-tetona
 mega88
 megaculo
+megaderateio
 megapezone
 megapixel ip camera
 megapixel-ip-camera
 megaprix
 mégaprix
 megaprov
+megarateio
 megasena
 megateta
 megatetona
@@ -31717,6 +31775,7 @@ one-of-a-kind-life
 one-shapewear
 one:-
 one:)
+one?s
 one0.
 one1.
 one2.
@@ -35575,9 +35634,24 @@ rarely-directly
 rasalinga
 rastreadores
 rate a engag
+rateio curso
+rateio de curso
 rateio down
+rateio-curso
+rateio-de-curso
 rateio-down
+rateiocurso
+rateiodecurso
 rateiodown
+rateios curso
+rateios de curso
+rateios down
+rateios-curso
+rateios-de-curso
+rateios-down
+rateioscurso
+rateiosdecurso
+rateiosdown
 rater-24
 rater24
 rather enlightening
@@ -38411,6 +38485,7 @@ shoe america
 shoe announce
 shoe cloth
 shoe dior
+shoe fake
 shoe fetish
 shoe flat
 shoe for women
@@ -38435,6 +38510,7 @@ shoe women
 shoe-america
 shoe-cloth
 shoe-dior
+shoe-fake
 shoe-fetish
 shoe-flat
 shoe-for-women
@@ -38468,6 +38544,7 @@ shoe+
 shoeamerica
 shoecloth
 shoedior
+shoefake
 shoefetish
 shoeflat
 shoejap
@@ -38480,6 +38557,7 @@ shoepromo
 shoes america
 shoes announce
 shoes dior
+shoes fake
 shoes for women
 shoes jap
 shoes jp
@@ -38497,6 +38575,7 @@ shoes-america
 shoes-cheap
 shoes-cloth
 shoes-dior
+shoes-fake
 shoes-for-women
 shoes-jap
 shoes-jp
@@ -38518,6 +38597,7 @@ shoes+
 shoesale
 shoesamerica
 shoescloth
+shoesfake
 shoesjap
 shoesjp
 shoeskan
@@ -39957,9 +40037,11 @@ stivensortw
 stobuys
 stock plus
 stock screener
+stock trading platform
 stock-plus
 stock-screener
 stock-ticker
+stock-trading-platform
 stockscreener
 stockticker
 stodio beat
