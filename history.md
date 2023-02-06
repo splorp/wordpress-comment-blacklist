@@ -1,4 +1,4 @@
-# Comment Blacklist for WordPress
+# Comment Blocklist for WordPress
 
 A chronological list of changes, bug fixes, and other milestones
 
