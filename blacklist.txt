@@ -6024,9 +6024,11 @@ $sixty
 123 free
 123 kinja
 123 movie
+123 rateio
 123-domain
 123-kinja
 123-movie
+123-rateio
 123.biz
 123.co
 123.email
@@ -6043,6 +6045,7 @@ $sixty
 123.za
 123@
 123movie
+123rateio
 222.biz
 222.co
 222.in
@@ -10927,8 +10930,11 @@ brandsjap
 brandsjp
 brandwto
 brasil bikini
+brasil rateio
 brasil-bikini
+brasil-rateio
 brasilbikini
+brasilrateio
 bravemed
 braves jers
 braves-jers
@@ -13812,6 +13818,9 @@ clsale
 clshoe
 club-boy
 clubboy
+clubedo rateio
+clubedo-rateio
+clubedorateio
 clusive vaca
 clusive-vaca
 clusivevaca
@@ -15148,17 +15157,24 @@ current videos short
 curry jers
 curry-jers
 curryjers
+cursinho banco
 cursinho barbeiro
 cursinho biohack
+cursinho de banco
 cursinho de barbeiro
 cursinho de biohack
+cursinho de devop
+cursinho de gestao
+cursinho de gestão
+cursinho de google
 cursinho de injecao
 cursinho de injeção
 cursinho de magica
 cursinho de mágica
-cursinho de marcenaria
+cursinho de marcenar
 cursinho de mecanica
 cursinho de mecânica
+cursinho de mestre
 cursinho de pdf
 cursinho de pilot
 cursinho de relacion
@@ -15167,15 +15183,21 @@ cursinho de sinuca
 cursinho de sublim
 cursinho de sustent
 cursinho de trading
+cursinho devop
 cursinho enfase
 cursinho ênfase
+cursinho gestao
+cursinho gestão
+cursinho google
 cursinho injecao
 cursinho injeção
+cursinho intensiv
 cursinho magica
 cursinho mágica
-cursinho marcenaria
+cursinho marcenar
 cursinho mecanica
 cursinho mecânica
+cursinho mestre
 cursinho pdf
 cursinho pilot
 cursinho relacion
@@ -15184,13 +15206,17 @@ cursinho sinuca
 cursinho sublim
 cursinho sustent
 cursinho trading
+cursinho-banco
 cursinho-barbeiro
 cursinho-biohack
+cursinho-de-banco
 cursinho-de-barbeiro
 cursinho-de-biohack
+cursinho-de-gestao
 cursinho-de-injecao
+cursinho-de-intensiv
 cursinho-de-magica
-cursinho-de-marcenaria
+cursinho-de-marcenar
 cursinho-de-mecanica
 cursinho-de-pdf
 cursinho-de-pilot
@@ -15200,9 +15226,11 @@ cursinho-de-sublim
 cursinho-de-sustent
 cursinho-de-trading
 cursinho-enfase
+cursinho-gestao
 cursinho-injecao
+cursinho-intensiv
 cursinho-magica
-cursinho-marcenaria
+cursinho-marcenar
 cursinho-mecanica
 cursinho-pdf
 cursinho-pilot
@@ -15211,17 +15239,26 @@ cursinho-sinuca
 cursinho-sublim
 cursinho-sustent
 cursinho-trading
+curso banco
 curso barbeiro
 curso biohack
+curso de banco
 curso de barbeiro
 curso de biohack
+curso de devop
+curso de gestao
+curso de gestão
+curso de google
 curso de injecao
 curso de injeção
+curso de intensiv
 curso de magica
 curso de mágica
-curso de marcenaria
+curso de marcenar
 curso de mecanica
 curso de mecânica
+curso de medicin
+curso de mestre
 curso de pdf
 curso de pilot
 curso de relacion
@@ -15230,15 +15267,22 @@ curso de sinuca
 curso de sublim
 curso de sustent
 curso de trading
+curso devop
 curso enfase
 curso ênfase
+curso gestao
+curso gestão
+curso google
 curso injecao
 curso injeção
+curso intensiv
 curso magica
 curso mágica
-curso marcenaria
+curso marcenar
 curso mecanica
 curso mecânica
+curso medicin
+curso mestre
 curso pdf
 curso pilot
 curso relacion
@@ -15247,13 +15291,20 @@ curso sinuca
 curso sublim
 curso sustent
 curso trading
+curso-banco
 curso-barbeiro
 curso-biohack
+curso-de devop
+curso-de google
+curso-de mestre
+curso-de-banco
 curso-de-barbeiro
 curso-de-biohack
+curso-de-gestao
 curso-de-injecao
+curso-de-intensiv
 curso-de-magica
-curso-de-marcenaria
+curso-de-marcenar
 curso-de-mecanica
 curso-de-pdf
 curso-de-pilot
@@ -15262,11 +15313,16 @@ curso-de-sinuca
 curso-de-sublim
 curso-de-sustent
 curso-de-trading
+curso-devop
 curso-enfase
+curso-gestao
+curso-google
 curso-injecao
+curso-intensiv
 curso-magica
-curso-marcenaria
+curso-marcenar
 curso-mecanica
+curso-mestre
 curso-pdf
 curso-pilot
 curso-relacion
@@ -15274,17 +15330,26 @@ curso-sinuca
 curso-sublim
 curso-sustent
 curso-trading
+cursos banco
 cursos barbeiro
 cursos biohack
+cursos de banco
 cursos de barbeiro
 cursos de biohack
+cursos de devop
+cursos de gestao
+cursos de gestão
+cursos de google
 cursos de injecao
 cursos de injeção
+cursos de intensiv
 cursos de magica
 cursos de mágica
-cursos de marcenaria
+cursos de marcenar
 cursos de mecanica
 cursos de mecânica
+cursos de medicin
+cursos de mestre
 cursos de pdf
 cursos de pilot
 cursos de relacion
@@ -15293,15 +15358,22 @@ cursos de sinuca
 cursos de sublim
 cursos de sustent
 cursos de trading
+cursos devop
 cursos enfase
 cursos ênfase
+cursos gestao
+cursos gestão
+cursos google
 cursos injecao
 cursos injeção
+cursos intensiv
 cursos magica
 cursos mágica
-cursos marcenaria
+cursos marcenar
 cursos mecanica
 cursos mecânica
+cursos medicin
+cursos mestre
 cursos pdf
 cursos pilot
 cursos relacion
@@ -15310,14 +15382,21 @@ cursos sinuca
 cursos sublim
 cursos sustent
 cursos trading
+cursos-banco
 cursos-barbeiro
 cursos-biohack
+cursos-de-banco
 cursos-de-barbeiro
 cursos-de-biohack
+cursos-de-devop
+cursos-de-gestao
+cursos-de-google
 cursos-de-injecao
+cursos-de-intensiv
 cursos-de-magica
-cursos-de-marcenaria
+cursos-de-marcenar
 cursos-de-mecanica
+cursos-de-mestre
 cursos-de-pdf
 cursos-de-pilot
 cursos-de-relacion
@@ -15325,11 +15404,16 @@ cursos-de-sinuca
 cursos-de-sublim
 cursos-de-sustent
 cursos-de-trading
+cursos-devop
 cursos-enfase
+cursos-gestao
+cursos-google
 cursos-injecao
+cursos-intensiv
 cursos-magica
-cursos-marcenaria
+cursos-marcenar
 cursos-mecanica
+cursos-mestre
 cursos-pdf
 cursos-pilot
 cursos-relacion
@@ -15452,6 +15536,7 @@ daddy site
 daddy sitte
 daddy-site
 daddy-sitte
+dados gratuito
 dafeult
 daftar agen
 daftar game
@@ -21649,11 +21734,15 @@ grafica-preço
 grafik emas
 grafik-emas
 gran calidad
+gran de rateio
 gran experiencia dentro
 gran experiencia en
 gran fiabilidad
 gran flexibilidad
+gran rateio
 gran-calidad
+gran-de-rateio
+gran-rateio
 grand opening giveaway
 grand-opening-giveaway
 grande fotograf
@@ -21671,6 +21760,7 @@ grandes-processo
 granny porn
 granny-porn
 grannyporn
+granrateio
 grasp your feed
 grasp your rss
 grateest
@@ -27093,6 +27183,7 @@ loan |
 loan canad
 loan cash
 loan comp
+loan consolidating debt
 loan fast
 loan lender
 loan online
@@ -29214,6 +29305,8 @@ mirror femme
 mirror-femme
 mirrorfemme
 mishapen
+misplace me person
+misplaced me person
 miss hookup
 miss-hookup
 missed hookup
@@ -31043,17 +31136,27 @@ nouvelles sneaker
 nouvelles-sneaker
 nova colecao
 nova coleção
+nova de colecao
 nova-colecao
-nova-coleção
+nova-de-colecao
 novice crypto
 novice-crypto
+novo de negocio
+novo de negócio
+novo de rateio
 novo negocio
 novo negócio
+novo rateio
+novo-de-negocio
+novo-de-rateio
 novo-negocio
+novo-rateio
+novorateio
 novost.ru/news
 novost.ru/novost
 now now
 now-now
+nowadays blog
 nowe zdjecia
 nowe zdjęcia
 nowe_zdj_cie
@@ -33493,6 +33596,9 @@ plan eartique
 plan_decor
 plan-decor
 plan-eartique
+planeta rateio
+planeta-rateio
+planetarateio
 plans decor
 plans_decor
 plans-decor
@@ -35469,6 +35575,9 @@ rarely-directly
 rasalinga
 rastreadores
 rate a engag
+rateio down
+rateio-down
+rateiodown
 rater-24
 rater24
 rather enlightening
@@ -38733,6 +38842,7 @@ site asian
 site assim
 site backup
 site congratulat
+site de rateio
 site derateio
 site give pleasant
 site gives pleasant
@@ -38782,6 +38892,7 @@ site-amor
 site-asian
 site-assim
 site-backup
+site-de-rateio
 site-derateio
 site-google
 site-however
@@ -42367,6 +42478,9 @@ trade_you
 trading-method
 traditional bath design
 traditional bathroom design
+trafego pago
+tráfego pago
+trafego-pago
 traffic attorn
 traffic bot
 traffic exchang
@@ -43195,6 +43309,7 @@ unknown@
 unlim pay
 unlim-pay
 unlimited autopost
+unlimited coin
 unlimited content
 unlimited crystal
 unlimited email
@@ -43204,6 +43319,7 @@ unlimited pay
 unlimited v buck
 unlimited vbuck
 unlimited-auto
+unlimited-coin
 unlimited-content
 unlimited-crystal
 unlimited-email
@@ -43212,6 +43328,7 @@ unlimited-multi
 unlimited-pay
 unlimited-vbuck
 unlimitedauto
+unlimitedcoin
 unlimitedpay
 unlimpay
 unlock iphone
