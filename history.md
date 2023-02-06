@@ -4,6 +4,7 @@ A chronological list of changes, bug fixes, and other milestones
 
 ## History
 
++ 20230206 — 49,000 entries
 + 20230108 — 48,000 entries
 + 20221021 — Fixed bug that affected comments containing the common punctuation pair “[.,](https://github.com/splorp/wordpress-comment-blacklist/commit/26812596fc84f55a08cf58d26473522a1cac59f8)”
 + 20220812 — 47,000 entries
