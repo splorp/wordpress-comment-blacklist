@@ -46,7 +46,7 @@ _crypto
 _drmarten
 _dunhill
 _e/
-_energetica
+_energetic
 _erotic
 _escort
 _eskort
@@ -2997,6 +2997,7 @@ _zapat
 /admins/
 /adorable-
 /adorable.
+/ads.
 /ads/
 /adsense-
 /adsense.
@@ -5574,7 +5575,7 @@ $sixty
 1c.in
 1casi
 1ciga
-1comm	
+1comm
 1comp
 1corr
 1dome
@@ -5652,7 +5653,7 @@ $sixty
 2c.in
 2casi
 2ciga
-2comm	
+2comm
 2comp
 2corr
 2dome
@@ -5714,7 +5715,7 @@ $sixty
 3arti
 3casi
 3ciga
-3comm	
+3comm
 3comp
 3corr
 3dome
@@ -6625,7 +6626,6 @@ acetazolamide
 achat medica
 achat médica
 achat-medica
-achat-médica
 acheter air
 acheter base
 acheter dolce
@@ -7086,7 +7086,6 @@ adwords
 aereas barata
 aéreas barata
 aereas-barata
-aéreas-barata
 aff.asp
 aff.cfm
 aff.ctr
@@ -7470,8 +7469,9 @@ amazing-sex
 amazing-videos
 amazingness all
 amazingness can
-amazingness is a
+amazingness is
 amazingness life
+amazingness will
 amazingsex
 amazn.co
 amazon cbd
@@ -8500,10 +8500,9 @@ autoclinics.co.
 autocom
 automatic pay
 automatic-pay
-automatic-swimming
-automatic+swimming
+automatic-swim
 automaticpay
-automaticswimming
+automaticswim
 automation – website
 automobile profit
 automobile proper
@@ -8553,7 +8552,6 @@ avaxyorum
 avental indispensavel
 avental indispensável
 avental-indispensavel
-avental-indispensável
 avid web server
 avvessorie
 avvessory
@@ -9440,7 +9438,6 @@ bengalsstore
 benh nam
 bệnh nam
 benh-nam
-bệnh-nam
 benhnam
 beni sik
 beni-sik
@@ -9697,7 +9694,6 @@ betsgiris
 better essay writ
 better handling driving
 better it is easy
-better with amazingness
 better-essay-writ
 better-service
 betterjudg
@@ -10072,11 +10068,10 @@ blkog post
 block puzzel
 block-money
 block-puzzel
+blocker preç
 blocker preco
-blocker preço
 blocker queda
 blocker-preco
-blocker-preço
 blocker-queda
 blockmoney
 blog _
@@ -10201,7 +10196,6 @@ blog-comente
 blog-de-forma
 blog-delight
 blog-diaria
-blog-diária
 blog-diet
 blog-entry
 blog-felicit
@@ -10231,7 +10225,6 @@ blog-post
 blog-projet
 blog-quite
 blog-sante
-blog-santé
 blog-service
 blog-site
 blog-soon
@@ -11894,6 +11887,10 @@ camicie-abercrom
 camicie-negozi
 camicieabercrom
 camicienegozi
+camion asegurado
+camion-asegurado
+camiones asegurado
+camiones-asegurado
 camisa hollis
 camisa-hollis
 camisahollis
@@ -11933,6 +11930,7 @@ camper company near
 camper counter
 camper dealer near
 camper dealers near
+camper dent repair
 camper fab shop
 camper fabric
 camper frame repair
@@ -11944,6 +11942,7 @@ camper movers near
 camper paint shop
 camper reno
 camper repair near
+camper repair part
 camper repair suppl
 camper resto
 camper service center
@@ -11953,12 +11952,15 @@ camper slide
 camper solar
 camper upgrade
 camper van build
+camper van center
+camper van centre
 camper van conver
 camper van install
 camper van kitchen
 camper van remodel
 camper van repair
 camper van service
+camper van suppl
 camper van support
 camper windshield
 camper-bathroom
@@ -11969,6 +11971,7 @@ camper-company-near
 camper-counter
 camper-dealer-near
 camper-dealers-near
+camper-dent-repair
 camper-fab-shop
 camper-fabric
 camper-frame-repair
@@ -11980,6 +11983,7 @@ camper-movers-near
 camper-paint-shop
 camper-reno
 camper-repair-near
+camper-repair-part
 camper-repair-suppl
 camper-resto
 camper-service-center
@@ -11989,12 +11993,15 @@ camper-slide
 camper-solar
 camper-upgrade
 camper-van-build
+camper-van-center
+camper-van-centre
 camper-van-conver
 camper-van-install
 camper-van-kitchen
 camper-van-remodel
 camper-van-repair
 camper-van-service
+camper-van-suppl
 camper-van-support
 camper-windshield
 campervanhire
@@ -14067,6 +14074,10 @@ coats-out
 coatsout
 cobertura amplia
 cobertura-amplia
+coche asegurado
+coche-asegurado
+coches asegurado
+coches-asegurado
 cock battle
 cock hero
 cock-battle
@@ -14502,6 +14513,10 @@ composing-blog
 composing-essay
 composing-post
 compra y venta
+compradore buscar
+compradore-buscar
+compradores buscar
+compradores-buscar
 comprar
 comprasion
 compre os melhores
@@ -15219,7 +15234,6 @@ cul gratuit
 cul porn
 cul-femme
 cul-francais
-cul-français
 cul-gratuit
 cul-porn
 culd not
@@ -16054,7 +16068,6 @@ dem kauf eines
 dem tien
 đếm tiền
 dem-gay
-đệm-gây
 dem-kauf-eines
 dem-tien
 đếm-tiền
@@ -16082,6 +16095,8 @@ deneme-icerik
 deneme-mal
 dengan maksimum
 denschlaf
+dent repair near
+dent-repair-near
 dental chat room
 dental guru
 dental quote
@@ -16149,7 +16164,6 @@ dermexclus
 derniers modele
 derniers modèle
 derniers-modele
-derniers-modèle
 derogatory circum
 derogatory item
 derun escort
@@ -16309,8 +16323,8 @@ dial-face
 dialface
 dialog made at
 dialogue made at
-dials-replace
-dialsreplace
+dials-replac
+dialsreplac
 diamanti cartier
 diamanti-cartier
 diamanticartier
@@ -16335,7 +16349,6 @@ didrex-online
 die besten nativ
 die kuhlbox
 die kühlbox
-die-kühlbox
 diesel denim
 diesel hot
 diesel jap
@@ -16585,7 +16598,6 @@ disenamos-tu-anuncio
 disfuncao eretil
 disfunçăo erétil
 disfuncao-eretil
-disfunçăo-erétil
 disi birak
 disi-birak
 disibirak
@@ -16892,6 +16904,7 @@ downloader free
 downloader online
 downloader-free
 downloader-online
+downloader/download
 downloaderfree
 downloaderonline
 downloadfootbal
@@ -17225,13 +17238,10 @@ e-ejuice
 e-evance
 e-korting
 e-mail production
-e-mail request
 e-marketer
 e-marketing
 e-objetivo-da
-é-premium
 e-sportowa
-e-training for dog
 e.@
 e.d. pill
 e.d.pill
@@ -17589,7 +17599,6 @@ enchancment
 enchere max
 enchère max
 enchere-max
-enchère-max
 encheremax
 enchèremax
 encherisseur
@@ -17790,7 +17799,6 @@ erektion
 eretil glaucoma
 erétil glaucoma
 eretil-glaucoma
-erétil-glaucoma
 erettile
 erinvestor
 erjersey.co
@@ -18723,6 +18731,11 @@ fantastic post
 fantastic publish
 fantastic put up
 fantastic read!
+fantastic short article
+fantastic short blog
+fantastic short page
+fantastic short paragraph
+fantastic short post
 fantastic site
 fantastic topic
 fantastic treatment
@@ -19626,7 +19639,6 @@ fmovie
 fodbold trojer
 fodbold trøjer
 fodbold-trojer
-fodbold-trøjer
 fodboldtrojer
 fodboldtrøjer
 foglio prada
@@ -20493,7 +20505,6 @@ fur sex
 für sex
 fur-boot
 fur-sex
-für-sex
 furar companhia
 furboot
 furiousguy
@@ -20742,7 +20753,6 @@ gaming torrent
 gaming-game
 gaming-indo
 gaming-maus
-gaming-mäus
 gaming-torrent
 gaming.co.
 gaminggame
@@ -20787,9 +20797,9 @@ garotas de goias
 garotas de goiás
 garotas de programa
 garotas-de-goias
-gas boiler replace
-gas-boiler-replace
-gasboilerreplace
+gas boiler replac
+gas-boiler-replac
+gasboilerreplac
 gassafetycheck
 gatas prive
 gatas-prive
@@ -20833,11 +20843,9 @@ gears-pop-hack
 geburtstagsgeschenk fur
 geburtstagsgeschenk für
 geburtstagsgeschenk-fur
-geburtstagsgeschenk-für
 geburtstagsgeschenke fur
 geburtstagsgeschenke für
 geburtstagsgeschenke-fur
-geburtstagsgeschenke-für
 geekbb
 geiles madel
 geiles mädel
@@ -21898,7 +21906,6 @@ graduand
 grafica preco
 grafica preço
 grafica-preco
-grafica-preço
 grafik emas
 grafik-emas
 gran calidad
@@ -22176,15 +22183,11 @@ groomingneed
 grosen ray
 grösen ray
 grosen-ray
-grösen-ray
 grossen ray
 großen ray
 grössen ray
 größen ray
 grossen-ray
-großen-ray
-grössen-ray
-größen-ray
 grossrx
 group sex
 group-home
@@ -22382,7 +22385,6 @@ gunsonline
 gunstig kaufen
 günstig kaufen
 gunstig-kaufen
-günstig-kaufen
 gunstige pokal
 günstige pokal
 gunstige-pokal
@@ -23269,8 +23271,8 @@ hien nay
 hiện nay
 hien-nay
 hierbasmedicin
+hiệu suất cao
 hieu-suat-cao
-hiệu-suất-cao
 high anxious
 high blog
 high caliber fine
@@ -24086,6 +24088,10 @@ ihre-betriebsstaette
 ihre-gewunschte
 ihre-web
 ihttp
+ii-film
+ii-movie
+iifilm
+iimovie
 iin case
 iin many
 iin this
@@ -24563,7 +24569,6 @@ ing/bak/
 ingenieurs rni
 ingénieurs rni
 ingenieurs-rni
-ingénieurs-rni
 ingest more time
 ingputer
 ingroduce
@@ -26049,8 +26054,8 @@ keluaranhong
 kensington parka
 kensington-parka
 kensingtonparka
+kèo bóng
 keo nha cai
-kèo-bóng
 kepuasan konsumen
 kerja hotel
 kerja-hotel
@@ -27086,7 +27091,6 @@ lights-crystal
 ligne medicament
 ligne médicament
 ligne-medicament
-ligne-médicament
 ligopartner
 liht therap
 liht-therap
@@ -27703,6 +27707,9 @@ lottery-singapore
 lottery-strat
 lotteryexpert
 lotterypro
+lotteгy play
+lotteгy-play
+lotteгyplay
 lottie maxi
 lottie-maxi
 lottiemaxi
@@ -29101,7 +29108,6 @@ melhor servico
 melhor serviço
 melhor-de-rateio
 melhor-preco
-melhor-preço
 melhor-rateio
 melhor-servico
 melhorderateio
@@ -29779,7 +29785,6 @@ moncler-tibet
 moncler-uk
 moncler-uomo
 moncler-vast
-moncler-väst
 moncler-vente
 moncler-vest
 moncler-vos
@@ -30357,6 +30362,7 @@ my blog audience
 my blog fer
 my blog is
 my blog not
+my blog post
 my blog read
 my blog trek
 my blog ultra
@@ -31003,8 +31009,6 @@ nftmarket
 nftnews
 nghiệp google
 nghiep-a-z
-nghiệp-a-z
-nghiệp-google
 nguoidanviet1
 nguoidanviet2
 nguoidanviet3
@@ -31297,7 +31301,6 @@ nossos orgaos
 nossos órgãos
 nossos-comprador
 nossos-orgaos
-nossos-órgãos
 not fake
 not suure
 not-dienst
@@ -31581,7 +31584,6 @@ oakleytokyo
 oakleytwenty
 oakleyuk
 oakleyvault
-öáøåâïïê
 obey posse
 obey-posse
 obmucwwbuc
@@ -31631,7 +31633,6 @@ obuwie
 ocasiao coment
 ocasião coment
 ocasiao-coment
-ocasião-coment
 occhiali catalog
 occhiali ray
 occhiali sol
@@ -32700,7 +32701,6 @@ pagesscrape
 pagina web
 página web
 pagina-web
-página-web
 pagss
 paid autosurf
 paid google
@@ -32989,7 +32989,6 @@ paris-bors
 paris-for
 paris-royal
 paris-securis
-paris-sécuris
 parisbors
 parka france
 parka-france
@@ -33223,17 +33222,13 @@ pédophile gratuit
 pedophile notoire
 pédophile notoire
 pedophile-gratuit
-pédophile-gratuit
 pedophile-notoire
-pédophile-notoire
 pedophillie gratuit
 pédophillie gratuit
 pedophillie notoire
 pédophillie notoire
 pedophillie-gratuit
-pédophillie-gratuit
 pedophillie-notoire
-pédophillie-notoire
 peeling perform
 peeling-perform
 peer extra
@@ -33450,7 +33445,6 @@ peşimdesiniz
 peso saudavel
 peso saudável
 peso-saudavel
-peso-saudável
 petencies
 petite dress
 petite-dress
@@ -36249,7 +36243,6 @@ reflux symptom
 reflux-symptom
 refluxsymptom
 reforme-ta-sante
-réforme-ta-santé
 reformetasante
 réformetasanté
 refrain from commenting
@@ -36322,7 +36315,6 @@ relacja-live
 relacoes sexuais
 relações sexuais
 relacoes-sexuais
-relações-sexuais
 related contents
 related-contents
 relatfed
@@ -36353,7 +36345,6 @@ relogioreplic
 relogios replic
 relogios réplica
 relogios-replic
-relogios-réplica
 relogiosreplic
 relx infinity
 relx vape
@@ -36480,7 +36471,7 @@ reparacion de aire
 reparacion de calenta
 reparacion de electro
 reparacion electro
-reparacion energetica
+reparacion energetic
 reparacion frigorif
 reparacion lavadora
 reparacion-aire
@@ -36490,7 +36481,7 @@ reparacion-de-aire
 reparacion-de-calenta
 reparacion-de-electro
 reparacion-electro
-reparacion-energetica
+reparacion-energetic
 reparacion-frigorif
 reparacion-lavadora
 reparacioncocina
@@ -36540,7 +36531,6 @@ replica-chanel
 replica-china
 replica-chinese
 replica-de-
-réplica-de-
 replica-design
 replica-dial
 replica-face
@@ -36562,7 +36552,6 @@ replica-online
 replica-prada
 replica-ray
 replica-relogio
-réplica-relogio
 replica-rolex
 replica-service
 replica-stella
@@ -36612,9 +36601,7 @@ replicarolex
 replicas relogio
 réplicas relogio
 replicas-de-
-réplicas-de-
 replicas-relogio
-réplicas-relogio
 replicasde
 replicaservice
 replicasrelogio
@@ -36659,7 +36646,6 @@ research grasp
 reseaux sociaux
 réseaux sociaux
 reseaux-sociaux
-réseaux-sociaux
 reseller uk
 reseller-uk
 reselleruk
@@ -36679,17 +36665,14 @@ result choquant
 résult choquant
 result hong
 result-choquant
-résult-choquant
 resultado relacionado
 resultados relacionado
 resultat pmu
 résultat pmu
 resultat-pmu
-résultat-pmu
 resultats choquant
 résultats choquant
 resultats-choquant
-résultats-choquant
 resulthk
 resulthong
 results.htm
@@ -37123,12 +37106,13 @@ rv counter
 rv door
 rv fabric
 rv fiberglass near
-rv floor replace
+rv floor replac
 rv interior
 rv leak repair
 rv maint
 rv mattress
 rv mechanic
+rv parts near
 rv remodel compan
 rv remodeling near
 rv remodelling near
@@ -37142,6 +37126,7 @@ rv solar
 rv supplies near
 rv supply near
 rv upgrade
+rv upholstery replac
 rv-bathroom
 rv-collision
 rv-company-near
@@ -37149,12 +37134,13 @@ rv-counter
 rv-door
 rv-fabric
 rv-fiberglass-near
-rv-floor-replace
+rv-floor-replac
 rv-interior
 rv-leak-repair
 rv-maint
 rv-mattress
 rv-mechanic
+rv-parts-near
 rv-remodel-compan
 rv-remodeling-near
 rv-remodelling-near
@@ -37168,6 +37154,7 @@ rv-solar
 rv-supplies-near
 rv-supply-near
 rv-upgrade
+rv-upholstery-replac
 rx pharmacy
 rx-pharm
 rxpharm
@@ -37255,7 +37242,6 @@ sac-lancel
 sac-longchamp
 sac-louis
 sac-reutilis
-sac-réutilisable
 sac-sold
 sac-trail
 sac-vanessa
@@ -37528,7 +37514,6 @@ sante-blog
 santehnik krug
 santehnik-krug
 sáo trúc
-sáo-trúc
 saotruc
 sap-ui5
 saperne di piu qui
@@ -37557,7 +37542,6 @@ sattaporn
 saudavel perder
 saudável perder
 saudavel-perder
-saudável-perder
 sauvegarde extern
 sauvegarde-extern
 save that snap
@@ -37657,7 +37641,6 @@ schuh puma
 schuh sky
 schuh ysl
 schuh-gunstig
-schuh-günstig
 schuh-puma
 schuh-sky
 schuh-ysl
@@ -37667,7 +37650,6 @@ schuhe puma
 schuhe sky
 schuhe ysl
 schuhe-gunstig
-schuhe-günstig
 schuhe-puma
 schuhe-sky
 schuhe-ysl
@@ -39767,7 +39749,6 @@ solidrayphilip
 solidrayplatform
 solo cheat
 solo-cheat
-solução
 solucao important
 solução important
 solucao-important
@@ -39817,6 +39798,8 @@ soome real
 soomeone
 soon:-
 soon:)
+soreness drug
+soreness-drug
 sosial media
 sosial-media
 soulmate sketch
@@ -41097,9 +41080,7 @@ taniä wynajem
 tania wypozy
 taniä wypozy
 tania-wynajem
-taniä-wynajem
 tania-wypozy
-taniä-wypozy
 tanks for share
 tanks for sharing
 tantric london
@@ -41360,7 +41341,6 @@ télé réalité
 tele-entulho
 tele-gratuit
 tele-realite
-télé-réalité
 teleentulho
 telefono de informacion
 teléfono de información
@@ -41622,7 +41602,7 @@ thcforum
 thcreview
 the a lot fewer
 the ad decid
-the amazingness is
+the amazingness
 the amount info
 the article are
 the articles is
@@ -42893,7 +42873,6 @@ trening
 tres high-tech
 très high-tech
 tres-high-tech
-très-high-tech
 tresore
 tretinoin
 tri tai chinh
@@ -43292,7 +43271,6 @@ ugg-france
 ugg-glove
 ugg-gold
 ugg-gunstig
-ugg-günstig
 ugg-hobo
 ugg-hot
 ugg-italia
@@ -44005,7 +43983,9 @@ van bathroom
 van body
 van camper kit
 van center near
+van centers near
 van centre near
+van centres near
 van collision repair
 van company near
 van conversion camper
@@ -44022,13 +44002,17 @@ van repair centre
 van repair middle
 van sound
 van store near
+van supplies near
+van supply near
 van washing
 van window repair
 van-bathroom
 van-body
 van-camper-kit
 van-center-near
+van-centers-near
 van-centre-near
+van-centres-near
 van-collision-repair
 van-company-near
 van-conversion-camper
@@ -44044,6 +44028,8 @@ van-repair-centre
 van-repair-middle
 van-sound
 van-store-near
+van-supplies-near
+van-supply-near
 van-washing
 van-window-repair
 vanguard education
@@ -44431,7 +44417,6 @@ video-asphyx
 video-bokep
 video-bookmark
 video-buzz
-vidéo-buzz
 video-chat-room
 video-clip-game
 video-clip-port
@@ -44445,21 +44430,16 @@ video-poker
 video-pokie
 video-pop
 video-porn
-vidéo-porn
 video-sex
 video-sport
 video-thrill
 video-tube
 video-view
-vidéo-view
 video-viral
 video-vue
-vidéo-vue
 video-xblog
 video-you-tube
-vidéo-you-tube
 video-youtube
-vidéo-youtube
 video?this
 video.asp
 video.cfm
@@ -44499,20 +44479,14 @@ vidéos you tube
 videos youtube
 vidéos youtube
 videos-buzz
-vidéos-buzz
 videos-para-canal
 videos-porn
-vidéos-porn
 videos-rank
 videos-view
-vidéos-view
 videos-vue
-vidéos-vue
 videos-xblog
 videos-you-tube
-vidéos-you-tube
 videos-youtube
-vidéos-youtube
 videos.asp
 videos.cfm
 videos.ctr
@@ -45987,6 +45961,7 @@ witaminy musisz
 witaminy-musisz
 witgh
 with a free trial
+with amazingness
 with blog commenting
 with declare
 with imminent post
@@ -46906,6 +46881,7 @@ you mayy
 you miws
 you need is often
 you need you are
+you of $
 you please prolong
 you porn
 you sees
@@ -47492,7 +47468,6 @@ zippo zubehor
 zippo zubehör
 zippo-feuerzeuge
 zippo-zubehor
-zippo-zubehör
 zippofeuerzeuge
 zippozubehor
 zippozubehör
