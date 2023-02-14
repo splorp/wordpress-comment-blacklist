@@ -966,6 +966,8 @@ _zapat
 -market.ru
 -market.su
 -market.za
+-massage.
+-massage/
 -mastery.
 -mastery/
 -mbt.
@@ -2151,6 +2153,7 @@ _zapat
 .magnoto.
 .marant-
 .marvsz.
+.massage-
 .mee.nu
 .meme-
 .meme.
@@ -4243,7 +4246,8 @@ _zapat
 /malware/
 /manolo-blahnik
 /manoloblahnik
-/massage
+/massage-
+/massage.
 /mbt-
 /mbt.
 /mcm.
@@ -10474,7 +10478,8 @@ body shop place
 body-erotic
 body-goods
 body-hormone
-body-massage-in
+body-massage
+body-rub
 body-shapewear
 body-shop-place
 bodycon bandage
@@ -10484,6 +10489,7 @@ bodycon-bandage
 bodycon-dress
 bodycon-home
 bodyhn
+bodyrub
 bodysuit shapewear
 bodysuit-shapewear
 bogus service
@@ -12366,7 +12372,6 @@ casque-beats
 casquebeats
 casquette
 cassino
-castwindows10
 câsuâl
 casual sex
 casual-sex
@@ -19785,7 +19790,6 @@ for-the-most
 for-when-buying
 for-whole-sale
 for-wholesale
-for-windows-8
 for-your-need
 forball.top
 forboot
@@ -19954,7 +19958,6 @@ forums.thank
 forward moneyline
 forwarding-parcel-forward
 forwholesale
-forwindows8
 foryou.co
 forzest
 foto upload
@@ -20475,7 +20478,9 @@ fullz info
 fullz-info
 fullzinfo
 fulmalware
+fun sneak
 fun teaser with
+fun with window
 fun-88
 fun-sneak
 fun-teaser-with
@@ -23560,6 +23565,7 @@ home online
 home repair store
 home supplies near
 home supply near
+home toilet repair
 home upholstery near
 home-and-fuck
 home-based
@@ -23570,6 +23576,7 @@ home-remed
 home-repair-store
 home-supplies-near
 home-supply-near
+home-toilet-repair
 home-upholstery-near
 home,of
 home.of
@@ -27283,6 +27290,11 @@ lipi=urn
 lipitor
 liqulr
 lirtle effort
+lisence microsoft
+lisence-microsoft
+lisence-window
+lisencemicrosoft
+lisencewindow
 lisensi microsoft
 lisensi window
 lisensi-microsoft
@@ -27359,13 +27371,25 @@ llet alone
 llet-alone
 llifted
 llook
+load this blog
+load this page
+load this post
+load this site
+load this web
+load your blog
+load your page
+load your post
+load your site
+load your web
 loaded this blog
 loaded this page
+loaded this post
 loaded this site
 loaded this web
 loaded vid
 loaded your blog
 loaded your page
+loaded your post
 loaded your site
 loaded your web
 loaded-vid
@@ -33182,27 +33206,18 @@ paysafecard
 pazarlayan pezevengin
 pazarlayan-pezevengin
 pbrolme
-pc access
 pc game free
 pc games free
 pc health
 pc sex
-pc stuff
 pc version download
-pc windows
-pc-access
 pc-game-free
 pc-games-free
 pc-health
 pc-sex
-pc-stuff
 pc-version-download
-pc-windows
-pcaccess
 pchealth
 pcsex
-pcstuff
-pcwindows
 pdf precyzyjne
 pdf website
 pdf-precyzyjne
@@ -37570,6 +37585,7 @@ say great page
 say great post
 say great site
 say great web
+say the problem
 say this blog
 say this page
 say this site
@@ -41748,6 +41764,7 @@ theme of your site
 theme of your web
 theme sale
 theme-basic
+theme-for-blog
 theme-generat
 theme-sale
 theme?excellent
@@ -41756,10 +41773,12 @@ theme?wonderful
 themebasic
 themegenerat
 themes for blog
+themes for window
 themes sale
-themes-for-windows
+themes-for-blog
+themes-for-window
 themes-sale
-themesforwindows
+themesforwindow
 theo yeu cau
 theo yêu cầu
 theo-yeu-cau
@@ -42460,7 +42479,9 @@ togelhong
 tohnwdouc
 toile vanessa
 toile-vanessa
+toilet repair near
 toilet rework
+toilet-repair-near
 toilet-rework
 toilevanessa
 tojp.co
@@ -45897,42 +45918,25 @@ willl the
 wilson jers
 wilson-jers
 wilsonjers
+win at blackjack
 win at casino
+win blackjack
 win casino
 win iphone
 win million
 win ranks from
 win v buck
+win-blackjack
 win-casino
 win-iphone
 win-million
-win7.co
-win7pro
-win8.co
-win8pro
-win2888
+winblackjack
 wincasino
 window repair near
-window-file
 window-repair-near
-windowfile
 windows anytime
-windows ten
-windows_
-windows-7-key
-windows-7-theme
-windows-8-key
-windows-8-theme
 windows-anytime
-windows-app
-windows-file
-windows-ten
-windows7key
-windows7theme
-windows8key
-windows8theme
 windowsanytime
-windowsfile
 windowsphone.co
 winesickle
 wingsshop
@@ -47151,7 +47155,6 @@ your-website-for
 your-website-it
 your-website-provid
 your-website-the
-your-windows
 your-you
 your.mail@
 youraccount
