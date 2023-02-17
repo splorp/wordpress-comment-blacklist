@@ -4756,6 +4756,7 @@ _zapat
 /salvia/
 /scarpe-
 /schott.im
+/sco.lt
 /sconfig/
 /scripts-
 /scripts/

@@ -81,6 +81,7 @@
 /rlu.ru
 /rrsm.nl
 /schott.im
+/sco.lt
 /shorte.st
 /shorturl.at
 /shorturl.co
