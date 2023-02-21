@@ -42,6 +42,7 @@
 /goo.io
 /goo.su
 /got.by
+/gt7.de
 /gul.ly
 /hfg.cc
 /hop.cx
