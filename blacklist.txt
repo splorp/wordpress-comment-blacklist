@@ -26,7 +26,6 @@ _btc
 _bulgar
 _buyout
 _bvlgar
-_bytecoin
 _calvin
 _camiseta
 _campaign
@@ -67,7 +66,6 @@ _jord
 _lacoste
 _latisse
 _lesbian
-_litecoin
 _longchamp
 _lotto
 _loubou
@@ -133,7 +131,6 @@ _zapat
 --bulgar
 --buyout
 --bvlgar
---bytecoin
 --calvin
 --camiseta
 --campaign
@@ -171,7 +168,6 @@ _zapat
 --lacoste
 --latisse
 --lesbian
---litecoin
 --longchamp
 --loubou
 --lululemon
@@ -465,9 +461,6 @@ _zapat
 -buying-a-house-
 -buying-a-house.
 -buying-a-house/
--bytecoin-
--bytecoin.
--bytecoin/
 -cable-speaker-
 -cable-speaker.
 -cable-speaker/
@@ -924,9 +917,6 @@ _zapat
 -lineshake/
 -link.
 -link/
--litecoin-
--litecoin.
--litecoin/
 -loan-
 -loans-
 -longchamp-
@@ -1815,9 +1805,6 @@ _zapat
 .buying-a-house-
 .buying-a-house.
 .buying-a-house/
-.bytecoin-
-.bytecoin.
-.bytecoin/
 .canadagoose-
 .canariblog.
 .canariblogs.
@@ -2139,9 +2126,6 @@ _zapat
 .lineshake.
 .lineshake/
 .lipoly.ru
-.litecoin-
-.litecoin.
-.litecoin/
 .longchamp-
 .losblogos.
 .louboutin-
@@ -2757,7 +2741,6 @@ _zapat
 //aaa.
 //bitcoin
 //buy
-//bytecoin
 //casino
 //cheap
 //cialis
@@ -2776,7 +2759,6 @@ _zapat
 //income
 //leverage
 //linkm
-//litecoin
 //onsale
 //pagina
 //penis
@@ -3266,9 +3248,6 @@ _zapat
 /bye.jsp?
 /bye.php?
 /bye/?
-/bytecoin-
-/bytecoin.
-/bytecoin/
 /cache-
 /cache.
 /cache/
@@ -4161,9 +4140,6 @@ _zapat
 /list-
 /list.
 /lite.al
-/litecoin-
-/litecoin.
-/litecoin/
 /lnkcnt?
 /lnkcnt.ashx?
 /lnkcnt.asp?
@@ -6018,6 +5994,9 @@ $sixty
 60折
 60歳
 66ru.
+69 porn
+69-porn
+69porn
 ７０％
 ７０＄
 70折
@@ -6536,12 +6515,14 @@ abonnez et like
 abonnez et partage
 abonnez like
 abonnez partage
+about billion
 about blog
 about home is
 about iran from
 about iraq from
 about linebet
 about marijuana
+about million
 about on the blog
 about on the internet
 about on the net
@@ -6552,16 +6533,21 @@ about over the internet
 about over the page
 about over the site
 about over the web
+about trillion
 about your blog
 about your web
+about-billion
 about-blog
 about-linebet
 about-marijuana
+about-million
 about-trillion
 about-your-blog
 about-your-web
 about/date
+aboutbillion
 abouther
+aboutmillion
 abouton
 abouttrillion
 abrir uma empresa
@@ -6577,18 +6563,22 @@ abuse marijuana
 abuse-hash
 abuse-marijuana
 abvout
+ac repair secret
+ac-repair-secret
+academy coach
 academy krs
 academy login
-academy-coaching
+academy-coach
 academy-krs
 academy-login
-academycoaching
+academycoach
 academykrs
+academylogin
 acai diet
-acai-
 acai-diet
 acai.diet
 acaiberry
+acaidiet
 accessdenied
 accident attorn
 accident lawyer
@@ -7581,6 +7571,7 @@ amplia-gama-de-product
 ampmexterm
 amulet coin
 amulet-coin
+amuletcoin
 amusement account
 amzon.co
 an affectionate welcome
@@ -8614,7 +8605,9 @@ awesome-webpost
 awesome-website
 awesomee
 awesoome
+awning repair secret
 awning replacement near
+awning-repair-secret
 awning-replacement-near
 awokehim
 awordpress.
@@ -9325,8 +9318,6 @@ becausethe
 become a bring
 become bitcoin
 become buying
-become bytecoin
-become litecoin
 become member,
 become member.
 become our consumer
@@ -9335,8 +9326,6 @@ become-a-success
 become-an-expert
 become-bitcoin
 become-buying
-become-bytecoin
-become-litecoin
 bed are satisfy
 bed replacement near
 bed-replacement-near
@@ -9492,6 +9481,7 @@ bermutu ting
 bermutu-ting
 berracom.ph
 besstet
+best 10 handy
 best anal
 best article about
 best attorn
@@ -9504,6 +9494,7 @@ best body shop
 best bodycon
 best booster
 best cam site
+best camper repair
 best camper van
 best cams site
 best cartier
@@ -9537,6 +9528,7 @@ best porn
 best priced
 best promo
 best prostate
+best rv repair
 best sandal
 best sex
 best shapewear
@@ -9547,6 +9539,7 @@ best small van
 best smm
 best social media
 best suppl
+best trailer repair
 best tummy
 best vans to
 best vape
@@ -9558,6 +9551,7 @@ best writing comp
 best writing serv
 best you can see
 best_small_
+best-10-handy
 best-anal
 best-attorn
 best-blogging
@@ -9565,6 +9559,7 @@ best-body-shop
 best-bodycon
 best-booster
 best-cam-site
+best-camper-repair
 best-camper-van
 best-cams-site
 best-cartier
@@ -9600,6 +9595,7 @@ best-probiotic
 best-promo
 best-prostate
 best-real
+best-rv-repair
 best-sandal
 best-seller-bag
 best-sellers-bag
@@ -9613,6 +9609,7 @@ best-smm
 best-social-media
 best-software-for
 best-suppl
+best-trailer-repair
 best-tummy
 best-vape
 best-vpn
@@ -11803,8 +11800,7 @@ byo.co
 byt.es
 byte coin
 byte-coin
-bytecoin bot
-bytecoin_
+bytecoin
 bе
 bі
 bу
@@ -11963,7 +11959,9 @@ camisetas-personalizada
 camisetas-polo
 camisetashollis
 camisetaspolo
+camper ac repair
 camper alignment repair
+camper awning repair
 camper awning replac
 camper bathroom remodel
 camper bed near
@@ -12035,7 +12033,9 @@ camper van suppl
 camper van support
 camper van upgrade
 camper windshield
+camper-ac-repair
 camper-alignment-repair
+camper-awning-repair
 camper-awning-replac
 camper-bathroom-remodel
 camper-bed-near
@@ -16862,6 +16862,8 @@ dog-treat-dog
 dog-treats-dog
 dog's dog day
 dog’s dog day
+doge coin
+doge-coin
 dogecoin
 doggy dan
 doggy-dan
@@ -16990,7 +16992,6 @@ download android
 download apk
 download arab
 download brace
-download bytecoin
 download cam
 download drama
 download footbal
@@ -17000,7 +17001,6 @@ download futbal
 download gratis
 download intrusion
 download joomla
-download litecoin
 download m4a
 download mp3
 download mp4
@@ -17010,7 +17010,6 @@ download-android
 download-apk
 download-arab
 download-brace
-download-bytecoin
 download-cam
 download-drama
 download-footbal
@@ -17020,7 +17019,6 @@ download-futbal
 download-gratis
 download-intrusion
 download-joomla
-download-litecoin
 download-m4a
 download-mp3
 download-mp4
@@ -20217,7 +20215,6 @@ free nude
 free number
 free on-line
 free online
-free pokecoin
 free poker
 free porn
 free prescript
@@ -20306,7 +20303,6 @@ free-offer
 free-on-line
 free-online
 free-pc-game
-free-pokecoin
 free-poker
 free-porn
 free-prescript
@@ -20399,7 +20395,6 @@ freenom.link
 freenude
 freeoffer
 freeonline
-freepokecoin
 freepoker
 freeprivate
 freeprog
@@ -21153,7 +21148,6 @@ get a preparations
 get bangladesh
 get bitcoin
 get blog
-get bytecoin
 get face
 get fastidious
 get free gem
@@ -21162,7 +21156,6 @@ get hold this
 get into touch
 get know how
 get know-how
-get litecoin
 get more blog
 get more performed
 get more traffic
@@ -21190,7 +21183,6 @@ get-bangladesh
 get-bitcoin
 get-blog
 get-boot
-get-bytecoin
 get-cash
 get-face
 get-fantastic
@@ -21199,7 +21191,6 @@ get-free-gem
 get-fuck
 get-hermes
 get-know-how
-get-litecoin
 get-massive
 get-money-for
 get-more-blog
@@ -21225,13 +21216,11 @@ get-you-winning
 getaloan
 getastyle
 getbitcoin
-getbytecoin
 getcash
 getface
 getgiftcard
 gethermes
 getjoy
-getlitecoin
 getmassive
 getozempic
 getpokego
@@ -22584,6 +22573,7 @@ hack boost
 hack boxing
 hack cash
 hack cheat
+hack coin
 hack cydia
 hack diamante
 hack diamond
@@ -22672,6 +22662,7 @@ hackapk
 hackasphalt
 hackcash
 hackcheat
+hackcoin
 hackcydia
 hackeer
 hacker 123
@@ -25118,15 +25109,11 @@ invasions de puces
 invest binary
 invest in bitcoin
 invest in btc
-invest in bytecoin
 invest in crypto
-invest in litecoin
 invest-binary
 invest-in-bitcoin
 invest-in-btc
-invest-in-bytecoin
 invest-in-crypto
-invest-in-litecoin
 invest-money
 invest-off
 invest.pl
@@ -25148,40 +25135,28 @@ investimentos-process
 investimentos+process
 investing in bitcoin
 investing in btc
-investing in bytecoin
 investing in crypto
-investing in litecoin
 investing-in-bitcoin
 investing-in-btc
-investing-in-bytecoin
 investing-in-crypto
-investing-in-litecoin
 investing/stock
 investing+
 investinwell
 investir
 investment in bitcoin
 investment in btc
-investment in bytecoin
 investment in crypto
-investment in litecoin
 investment tips
 investment-in-bitcoin
 investment-in-btc
-investment-in-bytecoin
 investment-in-crypto
-investment-in-litecoin
 investment-tips
 investments in bitcoin
 investments in btc
-investments in bytecoin
 investments in crypto
-investments in litecoin
 investments-in-bitcoin
 investments-in-btc
-investments-in-bytecoin
 investments-in-crypto
-investments-in-litecoin
 investmenttips
 investmoney
 investoff
@@ -26748,6 +26723,7 @@ kwatery w centrum
 kwatery-w-centrum
 ky-tot
 kỳ-tốt
+kzits.in
 kе
 k�
 l.@
@@ -27517,8 +27493,7 @@ listing from goog
 listy,
 lite/wbb
 lite1/wbb
-litecoin bot
-litecoin_
+litecoin
 literally energetic
 litte more
 litte-more
@@ -30599,7 +30574,6 @@ my bookmark site
 my bookmarks
 my bpog
 my btc
-my bytecoin
 my cryptocurren
 my custom golf
 my euro ticket
@@ -30611,7 +30585,6 @@ my hermes
 my homepage
 my internet browser
 my know-how
-my litecoin
 my myspace
 my online
 my own blog
@@ -30714,7 +30687,6 @@ my-betor
 my-bitcoin
 my-bookmark
 my-btc
-my-bytecoin
 my-cryptocurren
 my-custom-golf
 my-excerpt
@@ -30722,7 +30694,6 @@ my-fashion
 my-hermes
 my-homepage
 my-know-how
-my-litecoin
 my-most-favorite
 my-most-favourite
 my-my
@@ -30747,7 +30718,6 @@ mybetor
 mybitcoin
 mybookmark
 mybusiness
-mybytecoin
 mycin online
 mycin-online
 mycinonline
@@ -30763,7 +30733,6 @@ myjke wysokocis
 myjke-wysokocis
 myknee
 myleadsys
-mylitecoin
 mylupus
 mynewsite
 mynfl
@@ -31042,20 +31011,14 @@ neatsite
 neatweb
 necesidades de sus cliente
 need bitcoin
-need bytecoin
-need litecoin
 need sex
 need to strategy
 need wondrous
 need-bitcoin
-need-bytecoin
-need-litecoin
 need-sex
 needbitcoin
-needbytecoin
 needed it hard
 needed legal service
-needlitecoin
 needmoney
 needs wondrous
 needsex
@@ -34485,6 +34448,7 @@ porn model
 porn movie
 porn photo
 porn pic
+porn place
 porn play
 porn please
 porn podcast
@@ -34520,6 +34484,7 @@ porn-clip
 porn-hd
 porn-izle
 porn-king
+porn-place
 porn-play
 porn-podcast
 porn-rape
@@ -34598,6 +34563,7 @@ porno model
 porno movie
 porno photo
 porno pic
+porno place
 porno please
 porno pop
 porno porn
@@ -34628,6 +34594,7 @@ porno-
 porno-365
 porno-izle
 porno-model
+porno-place
 porno-sux
 porno.
 porno@
@@ -34667,6 +34634,7 @@ pornomodel
 pornomovie
 pornophoto
 pornopic
+pornoplace
 pornoplease
 pornopop
 pornoporn
@@ -34698,6 +34666,7 @@ pornowyna
 pornoyoung
 pornphoto
 pornpic
+pornplace
 pornplay
 pornplease
 pornpodcast
@@ -36678,6 +36647,8 @@ repair stores near
 repair supplies near
 repair supply near
 repair virgin
+repair work center
+repair work centre
 repair your abode
 repair-near-me
 repair-near-you
@@ -36687,6 +36658,8 @@ repair-stores-near
 repair-supplies-near
 repair-supply-near
 repair-virgin
+repair-work-center
+repair-work-centre
 repairs near me
 repairs near you
 repairs-near-me
@@ -37345,7 +37318,9 @@ russkom nacionaliz
 russkom-nacionaliz
 rusztowania
 ruwordpress
+rv ac repair
 rv alignment repair
+rv awning repair
 rv awning replac
 rv bathroom remodel
 rv bed near
@@ -37395,7 +37370,9 @@ rv tv repair
 rv upgrade
 rv upholstery replac
 rv van upgrade
+rv-ac-repair
 rv-alignment-repair
+rv-awning-repair
 rv-awning-replac
 rv-bathroom-remodel
 rv-bed-near
@@ -38389,12 +38366,14 @@ sertraline
 serum buy
 serum-buy
 serumbuy
+servant appear
+servant-appear
 servantappear
 served bitch
 served-bitch
-server coaching
+server coach
 server download
-server-coaching
+server-coach
 server-download
 server.download
 service by credit card
@@ -41467,6 +41446,7 @@ targetted-visit
 targettedtraff
 targettedvisit
 targettraff
+targeturl
 targetvisit
 targetweb
 tarif-malin
@@ -42029,7 +42009,6 @@ the-benefit-of
 the-benefits-of
 the-best-treatment
 the-bitcoin
-the-bytecoin
 the-carfiac
 the-consulting-firm
 the-contents-present
@@ -42044,7 +42023,6 @@ the-helpful-job
 the-hoverboard
 the-hypothyroid
 the-latest-
-the-litecoin
 the-notify
 the-pokie
 the-right-blog
@@ -42058,7 +42036,6 @@ theattempt
 theaverage
 thebest
 thebitcoin
-thebytecoin
 thedevelop
 thedirect
 thee internet
@@ -42072,7 +42049,6 @@ their enjoying future
 their sincere idea
 their website home
 their-email-list
-thelitecoin
 them inaccurate
 them middle
 them to our blog
@@ -42881,6 +42857,10 @@ top available
 top blog
 top bulgar
 top bvlgar
+top conversion camper
+top conversion rv
+top conversion trailer
+top conversion van
 top de rateio
 top hk
 top lutfu
@@ -42913,6 +42893,10 @@ top-blog
 top-bulgar
 top-buzz
 top-bvlgar
+top-conversion-camper
+top-conversion-rv
+top-conversion-trailer
+top-conversion-van
 top-de-rateio
 top-e-site
 top-esite
@@ -43132,6 +43116,8 @@ trafficivy
 trafficvance
 trafficz
 traffscience
+trailer ac repair
+trailer awning repair
 trailer awning replac
 trailer bed replac
 trailer bedroom remodel
@@ -43161,6 +43147,8 @@ trailer slide out
 trailer technician near
 trailer tire repair
 trailer upholstery replac
+trailer-ac-repair
+trailer-awning-repair
 trailer-awning-replac
 trailer-bed-replac
 trailer-bedroom-remodel
@@ -45418,16 +45406,10 @@ wanna-say
 wanna-state
 wanna-tell
 want bitcoin
-want bytecoin
-want litecoin
 want to commentary
 want-bitcoin
-want-bytecoin
-want-litecoin
 wantbitcoin
-wantbytecoin
 wantfull
-wantlitecoin
 wantsand
 warcraftguide
 wardrobe appli
@@ -45892,7 +45874,14 @@ website; this
 website. thank
 website..
 website…
+website.asp
+website.cfm
+website.cgi
+website.ctr
+website.htm
+website.jsp
 website.keep
+website.php
 website's article
 website's post
 website’s article
@@ -47506,9 +47495,8 @@ your wweb
 your zits
 your-account
 your-bitcoin
-your-blog
 your-blog-real
-your-blogs-real
+your-blogs
 your-bloog
 your-budget
 your-content-are
