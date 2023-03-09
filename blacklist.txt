@@ -3896,6 +3896,7 @@ _zapat
 /hollister-
 /hollister.
 /hollister/
+/home.s.id
 /homepage-
 /homepage.
 /homepage/
@@ -4752,6 +4753,7 @@ _zapat
 /rusex-
 /rusex.
 /rusex/
+/s.id
 /sac-
 /sac.
 /sale-

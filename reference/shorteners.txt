@@ -45,6 +45,7 @@
 /gt7.de
 /gul.ly
 /hfg.cc
+/home.s.id
 /hop.cx
 /huit.re
 /hyperurl.co
@@ -81,6 +82,7 @@
 /rih.co
 /rlu.ru
 /rrsm.nl
+/s.id
 /schott.im
 /sco.lt
 /shorte.st
