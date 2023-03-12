@@ -7139,7 +7139,10 @@ advok
 adwings
 adwokacka
 adwokat
-adwords
+adword cennik
+adword-cennik
+adwords cennik
+adwords-cennik
 æ÷
 æá
 æñ
@@ -7210,6 +7213,7 @@ affordable traffic
 affordable-afford
 affordable-hand
 affordable-seo
+affordable-traffic
 afk arena hack
 afk-arena-hack
 afl jers
@@ -8253,12 +8257,20 @@ asd@
 asdasd
 asdf
 asdsdf
+aseguranza carro
 aseguranza carros
 aseguranza de auto
+aseguranza de carro
 aseguranza de carros
+aseguranza-carro
 aseguranza-carros
 aseguranza-de-auto
+aseguranza-de-carro
 aseguranza-de-carros
+aseguranzas carro
+aseguranzas de carro
+aseguranzas-carro
+aseguranzas-de-carro
 asia escort
 asia eskort
 asia fuck
@@ -9551,6 +9563,7 @@ bermutu-ting
 berracom.ph
 besstet
 best 10 handy
+best affordable
 best anal
 best article about
 best attorn
@@ -9622,6 +9635,7 @@ best writing serv
 best you can see
 best_small_
 best-10-handy
+best-affordable
 best-anal
 best-attorn
 best-blogging
@@ -9694,6 +9708,7 @@ best.:
 best4
 bestad.
 bestads.
+bestaffordable
 bestairjordan
 bestattorn
 bestblog
@@ -12444,6 +12459,11 @@ carrera-bat
 carrera-lune
 carreralune
 carreramoinscher
+carro barata
+carro mas barata
+carro más barata
+carro-barata
+carro-mas-barata
 cars game
 cars insur
 cars-game
@@ -22119,6 +22139,7 @@ goog luck
 goog-luck
 google arama
 google bind
+google cennik
 google click
 google for-
 google fuck
@@ -22141,6 +22162,7 @@ google us
 google yorum
 google-arama
 google-bind
+google-cennik
 google-click
 google-fuck
 google-gain
@@ -23342,11 +23364,13 @@ healing-post
 healingindu
 health advis
 health how
+health programatic
 health stock
 health suppl
 health-advis
 health-how
 health-kart
+health-programatic
 health-recipe
 health-stock
 health-suppl
@@ -30640,6 +30664,7 @@ mortgage.jsp
 mortgage.php
 mortgage4u
 mortgagecalc
+most affordable
 most competitively
 most high-need
 most useful blog
@@ -30649,6 +30674,7 @@ most useful weblog
 most useful website
 most visited android
 most well-liked
+most-affordable
 most-competitively
 mostaffordable
 mostbet app
@@ -32880,6 +32906,8 @@ options-info
 options-trad
 optionsinfo
 optionstrad
+optymalizacja seo
+optymalizacja-seo
 opyo0
 or troke
 oral porn
@@ -38637,6 +38665,7 @@ seguro conductor
 seguro de auto
 seguro mercado
 seguro para car
+seguro precio
 seguro-auto
 seguro-basado
 seguro-cobertura
@@ -38644,6 +38673,7 @@ seguro-conductor
 seguro-de-auto
 seguro-mercado
 seguro-para-car
+seguro-precio
 segway-fun
 segwayfun
 sehmale movie
@@ -38796,7 +38826,8 @@ seo snip
 seo soluton
 seo source
 seo special
-seo technic
+seo stron
+seo tech
 seo toil
 seo tool
 seo vps
@@ -38846,7 +38877,8 @@ seo-snip
 seo-soluton
 seo-source
 seo-special
-seo-technic
+seo-stron
+seo-tech
 seo-toil
 seo-tool
 seo-tram
@@ -38889,7 +38921,8 @@ seosnip
 seosoluton
 seosource
 seospecial
-seotechnic
+seostron
+seotech
 seotoil
 seotool
 seotram
@@ -41302,7 +41335,11 @@ strippers-new
 stroke to swim
 stroke-to-swim
 stromectol
+stron google
+stron internet
 stron www
+stron-google
+stron-internet
 stron-www
 strona blu
 strona-autora
@@ -46078,6 +46115,8 @@ waiter toward
 wakka=
 walamrtone
 walking online
+wall installer near
+wall-installer-near
 wallet investor
 wallet out
 wallet-investor
@@ -47658,10 +47697,12 @@ wwebsite
 wwellness
 wwhen
 wwith
+www cennik
 www directory
 www link
 www sex
 www_
+www-cennik
 www-directory
 www-link
 www-sex
