@@ -4530,6 +4530,7 @@ _zapat
 /prada/
 /premium-
 /premium.
+/prephe.ro
 /press-release-
 /press-release.
 /pressrelease-
