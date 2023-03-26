@@ -2656,6 +2656,7 @@ _zapat
 .xblog.in
 .xsl.pt
 .xzblogs.
+.yomoblog.
 .you-win-
 .you-win.
 .you-win/
@@ -3920,6 +3921,18 @@ _zapat
 /hgh/
 /hiend
 /hire-
+/hit?
+/hit.ashx?
+/hit.asp?
+/hit.aspx?
+/hit.cfm?
+/hit.cgi?
+/hit.ctr?
+/hit.htm?
+/hit.html?
+/hit.jsp?
+/hit.php?
+/hit/?
 /hollister-
 /hollister.
 /hollister/
@@ -8045,6 +8058,7 @@ appropriate vitamin
 appropriate-advertis
 appropriate-advertiz
 appropriate-vitamin
+approved for injury
 approximately my
 approximately this topic
 approximately-my
@@ -11078,7 +11092,9 @@ bow-ugg
 bowling footwear
 bowling-footwear
 bowugg
+box gift idea
 box iphone
+box-gift-idea
 box-iphone
 boxing hack
 boxing-hack
@@ -16694,8 +16710,10 @@ des services web
 des-services-web
 desain dinding
 desain eksterior
+desain simpel
 desain-dinding
 desain-eksterior
+desain-simpel
 desconto
 describes feasible
 describes-feasible
@@ -19187,6 +19205,10 @@ fail-drug
 faildrug
 fairity
 fairlaunch
+faith insurance
+faith lawyer
+faith-insurance
+faith-lawyer
 fajki
 fajna strona
 fajna-fotka
@@ -20054,6 +20076,8 @@ firearmstore
 firefox-setting
 firefoxik
 firefoxsetting
+firm insurance
+firm-insurance
 firma betor
 firma reinigung
 firma sprzata
@@ -22112,6 +22136,9 @@ gomi-bet
 gomibet
 gonna review
 gonna-review
+gonzo testing
+gonzo-testing
+gonzotesting
 goo to visit
 good \o/
 good a good
@@ -24210,6 +24237,7 @@ home supplies near
 home supply near
 home toilet repair
 home upholstery near
+home window near
 home-and-fuck
 home-based
 home-broker-near
@@ -24238,6 +24266,7 @@ home-supplies-near
 home-supply-near
 home-toilet-repair
 home-upholstery-near
+home-window-near
 home,of
 home.of
 home's vitality
@@ -24509,9 +24538,11 @@ hovershop
 how a trucks
 how can easily
 how ong do
+how rv collision
 how to choose you
 how would certain
 how_do
+how-rv-collision
 how-sleep
 how-start-business
 how-start-small
@@ -26993,6 +27024,9 @@ kobeshoe
 kode kupon
 kode-kupon
 kodekupon
+koin slot
+koin-slot
+koinslot
 kolay bir web
 kolay-bir-web
 kolbex.pt
@@ -28772,6 +28806,8 @@ mädels warten
 madels-warten
 mademilf
 madeye30
+madrid-bet
+madridbet
 maestro yahoo
 maestro-yahoo
 magasin asic
@@ -30047,6 +30083,9 @@ merely-wanna
 merger-helper
 mergerhelper
 meridia
+merit-king
+meritking
+merittking
 mes hormone
 mes-hormone
 mesin slot
@@ -38014,6 +38053,7 @@ rv bedroom river
 rv beds near
 rv blind repair
 rv blinds repair
+rv body repair
 rv body shop
 rv builder near
 rv builders near
@@ -38026,7 +38066,8 @@ rv company near
 rv detailing near
 rv fab repair
 rv fab shop
-rv fabrication
+rv fabrication repair
+rv fabrication shop
 rv fiberglass near
 rv fiberglass repair
 rv floor replac
@@ -38099,6 +38140,7 @@ rv tv repair
 rv upgrade
 rv upholstery replac
 rv van upgrade
+rv wrap near
 rv-ac-repair
 rv-airbnb-near
 rv-alignment-repair
@@ -38118,6 +38160,7 @@ rv-bedroom-river
 rv-beds-near
 rv-blind-repair
 rv-blinds-repair
+rv-body-repair
 rv-body-shop
 rv-builder-near
 rv-builders-near
@@ -38130,7 +38173,8 @@ rv-company-near
 rv-detailing-near
 rv-fab-repair
 rv-fab-shop
-rv-fabrication
+rv-fabrication-repair
+rv-fabrication-shop
 rv-fiberglass-near
 rv-fiberglass-repair
 rv-floor-replac
@@ -38201,6 +38245,7 @@ rv-tech-near
 rv-tv-repair
 rv-upholstery-replac
 rv-van-upgrade
+rv-wrap-near
 rx pharm
 rx-pharm
 rxpharm
@@ -38966,6 +39011,7 @@ sendbulk
 sendflowers
 seni siteleri
 sensational can
+sensational is a
 sensational is the
 sensational life
 sensational provide
@@ -40179,6 +40225,8 @@ similar dream similar
 similar dreams similar
 similarities some similar
 simonly
+simpel dinding
+simpel-dinding
 simple should you
 simplesmente online
 simplesmente-online
@@ -41638,7 +41686,6 @@ subject on your site
 subject on your web
 subject-of-this-subject
 subject, however, you
-subject=
 subjek hipnosis
 subjugate it!
 submissive porn
@@ -41670,8 +41717,10 @@ subscribe-and-share
 subscribe-and-smash
 subscribe-link
 subscribelink
+subscription box gift
 subscription link
 subscription now!
+subscription-box-gift
 subscription-link
 subscriptionlink
 subsequennt
@@ -47099,6 +47148,7 @@ where get
 where is admin?
 where is moderator?
 where sell
+where to replacement
 where-buy
 where-can-i
 where-get
@@ -47106,6 +47156,7 @@ where-sell
 where-to-buy
 where-to-get
 where-to-purchase
+where-to-replacement
 where-to-sell
 where+can
 where+to
@@ -50145,7 +50196,7 @@ zyvox
 حزينه, حزينة
 حزينه,حزينة
 خبر عن الرياضة
-خبرهای امروز 
+خبرهای امروز
 خبرهای فوری
 خبرهای گوناگون
 خبرهای-فوری
