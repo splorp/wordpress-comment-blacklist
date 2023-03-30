@@ -1528,6 +1528,8 @@ _zapat
 ?,?
 ?,i
 ?,y
+??.
+?. ?
 ?.i
 ?.y
 ?/pag
@@ -1756,6 +1758,8 @@ _zapat
 .bloggadores.
 .bloggerchest.
 .bloggerpr.
+.bloggerswise.
+.bloggerwise.
 .blogginaway.
 .bloggingaway.
 .bloggold.
@@ -22225,6 +22229,7 @@ good site you
 good site:
 good site!
 good site.
+good stuff, thank
 good template
 good the man
 good the men
@@ -39230,8 +39235,12 @@ served bitch
 served-bitch
 server coach
 server download
+server german
+server warframe
 server-coach
 server-download
+server-german
+server-warframe
 server.download
 service by credit card
 service near me
@@ -42315,6 +42324,8 @@ tania wypozy
 taniä wypozy
 tania-wynajem
 tania-wypozy
+tank repair near
+tank-repair-near
 tanks for share
 tanks for sharing
 tantric london
@@ -42952,6 +42963,7 @@ the-right-blog
 the-right-web
 the-seo
 the-sexting
+the-single-best
 the-smart-trick
 the-top-site
 the-very-best
@@ -47396,7 +47408,9 @@ win-million
 winblackjack
 wincasino
 window repair near
+window replacement near
 window-repair-near
+window-replacement-near
 windows anytime
 windows-anytime
 windowsanytime
@@ -50435,7 +50449,6 @@ zyvox
 안마
 야구중계
 야동
-에???
 여우알바
 여자친구
 온라인카지노
