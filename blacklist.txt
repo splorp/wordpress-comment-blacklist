@@ -2786,7 +2786,7 @@ _zapat
 //casino
 //cheap
 //cialis
-//clicks.
+//click
 //compare
 //contact
 //eee
@@ -2801,7 +2801,6 @@ _zapat
 //income
 //leverage
 //linkm
-//lyrica.
 //onsale
 //pagina
 //penis
@@ -4240,6 +4239,7 @@ _zapat
 /lv.
 /lv/
 /lvl.vn
+/lyrica.
 /m?
 /m.ashx?
 /m.asp?
@@ -7054,7 +7054,10 @@ adultsfriend
 adultstory
 adulttoy
 adultweb
+adv-adv
 adv-click
+adv/adv
+adv/click
 advair md
 advair online
 advair order
@@ -7173,6 +7176,7 @@ advice-online
 advice.adult
 adviceonline
 advok
+advtest
 adwings
 adwokacka
 adwokat
@@ -10791,6 +10795,12 @@ book-marking to
 book-marks
 book-ot-
 bookark
+bookie site
+bookie-site
+bookies site
+bookies-site
+bookiesite
+bookiessite
 bookkmark
 bookmaker book
 bookmaker, book
@@ -12580,7 +12590,15 @@ cartucho-ink
 cartuchodetinta
 cartuchoink
 cartuchos
+casa aposta
+casa de aposta
+casa-aposta
+casa-de-aposta
 casaemail
+casas aposta
+casas de aposta
+casas-aposta
+casas-de-aposta
 case-study-writer
 casebycase
 caserole plastic
@@ -12600,6 +12618,7 @@ cash flow review
 cash free
 cash fuck
 cash generat
+cash home
 cash loan
 cash masterclass
 cash porn
@@ -12616,6 +12635,7 @@ cash-flow-review
 cash-free
 cash-fuck
 cash-generat
+cash-home
 cash-loan
 cash-masterclass
 cash-now
@@ -12638,6 +12658,7 @@ cashforgold
 cashforsilver
 cashfuck
 cashgenerat
+cashhome
 cashis online
 cashis-online
 cashisonline
@@ -26405,6 +26426,7 @@ joinsuper
 joint-pain
 jointpain
 jojobet
+joker 123
 joker casino
 joker gaming
 joker slot
@@ -27938,6 +27960,7 @@ link-exchang
 link-go
 link-issue
 link-juice
+link-link
 link-logger
 link-market
 link-postegro
@@ -27951,6 +27974,7 @@ link-submit
 link-track
 link-vault
 link/click
+link/link
 link2blog
 link4blog
 linkbait
@@ -36502,6 +36526,7 @@ qsymia-india
 qtrade
 qualities-are-most
 quality article
+quality assistance
 quality available
 quality based
 quality based post
@@ -37562,6 +37587,8 @@ residentiallender
 resist comment
 resist-comment
 resources/styles
+respective app
+respective-app
 restaurant construction firm
 restaurant design firm
 restoremen
@@ -38149,6 +38176,7 @@ rv upgrade
 rv upholstery replac
 rv van upgrade
 rv wrap near
+rv wraps near
 rv-ac-repair
 rv-airbnb-near
 rv-alignment-repair
@@ -38254,6 +38282,7 @@ rv-tv-repair
 rv-upholstery-replac
 rv-van-upgrade
 rv-wrap-near
+rv-wraps-near
 rx pharm
 rx-pharm
 rxpharm
@@ -40290,10 +40319,12 @@ site about animal
 site amor
 site and comment
 site and save
+site aposta
 site asian
 site assim
 site backup
 site congratulat
+site de aposta
 site de rateio
 site derateio
 site give pleasant
@@ -40341,9 +40372,11 @@ site wordpress
 site предлагает
 site--
 site-amor
+site-aposta
 site-asian
 site-assim
 site-backup
+site-de-aposta
 site-de-rateio
 site-derateio
 site-goog
@@ -40403,11 +40436,15 @@ sitemizi-ziyaret
 siteoffic
 siteoptim
 sites and blogs
+sites aposta
+sites de aposta
 sites luke
 sites on the internet
 sites online
 sites really nice
 sites-and-blogs
+sites-aposta
+sites-de-aposta
 sites24
 sitesi tıkla
 sitesi-tıkla
@@ -40669,6 +40706,7 @@ smart-balance
 smart-buy
 smart-casino
 smart-drug
+smart-engineer
 smart-hoverboard
 smart-watch-gps
 smartbalance
@@ -40677,6 +40715,7 @@ smartbets
 smartbuy
 smartcasino
 smartdrug
+smartengineer
 smarthoverboard
 smartly written article
 smartwatch tactical
@@ -44018,7 +44057,9 @@ track-click
 track-hyperlink
 track-phone-location
 track-r.
+track-track
 track/click
+track/track
 track2 dump
 track2-dump
 trackback_
@@ -44144,6 +44185,8 @@ trailer tech near
 trailer technician near
 trailer tire repair
 trailer upholstery replac
+trailer wrap near
+trailer wraps near
 trailer-ac-repair
 trailer-airbnb-near
 trailer-awning-cali
@@ -44222,6 +44265,8 @@ trailer-tech-near
 trailer-technician-near
 trailer-tire-repair
 trailer-upholstery-replac
+trailer-wrap-near
+trailer-wraps-near
 trailersale
 train pet dog
 training pet dog
@@ -44356,6 +44401,8 @@ truck inspection near
 truck paint shop
 truck parts super
 truck repair place
+truck wrap near
+truck wraps near
 truck-body-shop
 truck-glass-replace
 truck-inspection-near
@@ -44363,6 +44410,8 @@ truck-paint-shop
 truck-parts-super
 truck-repair-place
 truck-repair-secret
+truck-wrap-near
+truck-wraps-near
 truly a fastidious
 truly data you
 truly fastidious
@@ -47119,6 +47168,7 @@ wewewe
 what assets is
 what blog does
 what does turn
+what my existence
 what theyre
 what up dear
 what weblog does
