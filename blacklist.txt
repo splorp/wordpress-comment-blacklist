@@ -2608,6 +2608,7 @@ _zapat
 .top/?
 .top/gal
 .top/thumb
+.tracker.
 .travel.pl
 .tusblogos.
 .tv show
@@ -5046,6 +5047,7 @@ _zapat
 /track.php?
 /track/?
 /trackback
+/tracker/
 /transexual-
 /transexual.
 /transexual/
@@ -6057,6 +6059,7 @@ $sixty
 49ersjers
 49ersonline
 49折
+50 รับ 100
 ５０％
 ５０＄
 50mg buy
@@ -6066,6 +6069,7 @@ $sixty
 50mg.
 50mgbuy
 50mgcheap
+50รับ100
 50折
 50歳
 55ru.
@@ -7698,6 +7702,7 @@ anabolicsteroid
 anabolik steroid
 anabolik-steroid
 anaboliksteroid
+anadvertis
 anahtar kelime
 anahtar-kelime
 anal bead
@@ -9304,6 +9309,8 @@ battlegrounds pc
 battlegrounds-hack
 battlegrounds-pc
 bauchstraffung
+bauturi alcool
+bauturi-alcool
 bayan escort
 bayan eskort
 bayan izmir
@@ -13958,6 +13965,7 @@ choo-sale
 chooboot
 choolesterol
 choose calorie
+choose your blog
 choose-calorie
 choose-the-ideal
 choose-the-perfect
@@ -15489,6 +15497,7 @@ credit loan
 credit repair
 credit report
 credit score
+credit worth
 credit_
 credit-card
 credit-check
@@ -15498,6 +15507,7 @@ credit-loan
 credit-repair
 credit-report
 credit-score
+credit-worth
 credit.cc
 credit.eu
 creditcard.org
@@ -17369,6 +17379,7 @@ don”t
 don`t
 dondash
 done a formidable
+done anything fast
 done formidable
 done grateful
 đong party
@@ -21727,6 +21738,7 @@ gets-fuck
 getsex
 getting $
 getting a loan
+getting done any
 getting down to job
 getting familiarity
 getting know
@@ -31273,6 +31285,7 @@ my sitte…
 my sjte
 my social networks
 my ssite
+my travel blog
 my vape
 my view its
 my wallet is
@@ -31325,6 +31338,7 @@ my-betor
 my-bitcoin
 my-bookmark
 my-btc
+my-consult
 my-crypto
 my-custom-golf
 my-excerpt
@@ -31359,6 +31373,7 @@ mybusiness
 mycin online
 mycin-online
 mycinonline
+myconsult
 mycrypto
 mycustomgolf
 mydead-
@@ -32081,6 +32096,7 @@ no genuine difference
 no guarant
 no means understand
 no remov
+no small half
 no way smoke
 no-cache
 no-collateral
@@ -36849,6 +36865,7 @@ read this blog
 read this post
 read this site
 read this web
+read travel blog
 read www.
 read your article
 read your blog
@@ -37596,6 +37613,9 @@ restoril
 result choquant
 résult choquant
 result hong
+result of your blog
+result of your page
+result of your post
 result-choquant
 resultado relacionado
 resultados relacionado
@@ -43588,6 +43608,8 @@ times-news-today
 times(with
 timesamsonss
 timesnewstoday
+timpul pandemi
+timpul-pandemi
 tin tuc xe hoi
 tin tức xe hơi
 tin-tuc-xe-hoi
@@ -45554,6 +45576,10 @@ vanillabalance
 vanillagift
 vano directory
 vano-directory
+vanzarile bautur
+vanzarile de bautur
+vanzarile-bautur
+vanzarile-de-bautur
 vape box
 vape cart
 vape clearance
@@ -48565,7 +48591,8 @@ your design dude
 your dick
 your digital business
 your display screen
-your expertise within
+your email message
+your expertise with
 your innfo
 your iphone film
 your iphone regular
@@ -48627,7 +48654,8 @@ your text is invaluable
 your text is priceless
 your the teeth
 your traff
-your travel suitcase
+your travel blog
+your travel suit
 your ugg
 your video game
 your web blog
@@ -48671,7 +48699,7 @@ your-desires
 your-dick
 your-digital-business
 your-email-message
-your-ex
+your-expertise-with
 your-free
 your-iphone-regular
 your-it-occup
@@ -49812,6 +49840,7 @@ zyvox
 разработать-игру
 рассылки сайт
 рассылки-сайт
+рґр
 рднк
 реальные деньги
 реальные коммент
@@ -49905,10 +49934,9 @@ zyvox
 самый-превосход
 свой сайт
 свой-сайт
-сѓ
+сѓс
 сделала видео
 сделала-видео
-сђ
 сейчас конкуренция
 сейчас-конкуренция
 секреты молодости
@@ -50426,6 +50454,7 @@ zyvox
 เดรส-ราคาถูก
 เดรสราคาถูก
 ต่างหู
+ถอนไม่อั้น
 นพนัน
 แนะนำ กัญชา
 บริการดีสุด
@@ -50434,6 +50463,8 @@ zyvox
 ป้าย ราคาถูก
 ป้าย-ราคาถูก
 ป้ายราคาถูก
+ฝาก 50
+ฝาก50
 ฟรีเครดิต
 แฟชั่น ราคาถูก
 แฟชั่น-ราคาถูก
