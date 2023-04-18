@@ -15808,8 +15808,8 @@ cursinho de goog
 cursinho de impuls
 cursinho de injecao
 cursinho de injeção
-cursinho de lideranca
-cursinho de liderança
+cursinho de introdu
+cursinho de lideran
 cursinho de magica
 cursinho de mágica
 cursinho de marcenar
@@ -15842,8 +15842,8 @@ cursinho impuls
 cursinho injecao
 cursinho injeção
 cursinho intensiv
-cursinho lideranca
-cursinho liderança
+cursinho introdu
+cursinho lideran
 cursinho magica
 cursinho mágica
 cursinho marcenar
@@ -15878,7 +15878,8 @@ cursinho-de-gestao
 cursinho-de-impuls
 cursinho-de-injecao
 cursinho-de-intensiv
-cursinho-de-lideranca
+cursinho-de-introdu
+cursinho-de-lideran
 cursinho-de-magica
 cursinho-de-marcenar
 cursinho-de-mecanica
@@ -15901,7 +15902,8 @@ cursinho-gestao
 cursinho-impuls
 cursinho-injecao
 cursinho-intensiv
-cursinho-lideranca
+cursinho-introdu
+cursinho-lideran
 cursinho-magica
 cursinho-marcenar
 cursinho-mecanica
@@ -15917,6 +15919,7 @@ cursinho-sublim
 cursinho-sustent
 cursinho-trade
 cursinho-trading
+cursinhoeasy
 curso banco
 curso barbeiro
 curso bases
@@ -15935,8 +15938,8 @@ curso de impuls
 curso de injecao
 curso de injeção
 curso de intensiv
-curso de lideranca
-curso de liderança
+curso de introdu
+curso de lideran
 curso de magica
 curso de mágica
 curso de marcenar
@@ -15970,8 +15973,8 @@ curso impuls
 curso injecao
 curso injeção
 curso intensiv
-curso lideranca
-curso liderança
+curso introdu
+curso lideran
 curso magica
 curso mágica
 curso marcenar
@@ -16010,7 +16013,8 @@ curso-de-gestao
 curso-de-impuls
 curso-de-injecao
 curso-de-intensiv
-curso-de-lideranca
+curso-de-introdu
+curso-de-lideran
 curso-de-magica
 curso-de-marcenar
 curso-de-mecanica
@@ -16035,7 +16039,8 @@ curso-goog
 curso-impuls
 curso-injecao
 curso-intensiv
-curso-lideranca
+curso-introdu
+curso-lideran
 curso-magica
 curso-marcenar
 curso-mecanica
@@ -16052,6 +16057,7 @@ curso-sublim
 curso-sustent
 curso-trade
 curso-trading
+cursoeasy
 cursos banco
 cursos barbeiro
 cursos bases
@@ -16070,8 +16076,8 @@ cursos de impuls
 cursos de injecao
 cursos de injeção
 cursos de intensiv
-cursos de lideranca
-cursos de liderança
+cursos de introdu
+cursos de lideran
 cursos de magica
 cursos de mágica
 cursos de marcenar
@@ -16105,8 +16111,8 @@ cursos impuls
 cursos injecao
 cursos injeção
 cursos intensiv
-cursos lideranca
-cursos liderança
+cursos introdu
+cursos lideran
 cursos magica
 cursos mágica
 cursos marcenar
@@ -16144,7 +16150,8 @@ cursos-de-goog
 cursos-de-impuls
 cursos-de-injecao
 cursos-de-intensiv
-cursos-de-lideranca
+cursos-de-introdu
+cursos-de-lideran
 cursos-de-magica
 cursos-de-marcenar
 cursos-de-mecanica
@@ -16170,7 +16177,8 @@ cursos-goog
 cursos-impuls
 cursos-injecao
 cursos-intensiv
-cursos-lideranca
+cursos-introdu
+cursos-lideran
 cursos-magica
 cursos-marcenar
 cursos-mecanica
@@ -16187,6 +16195,7 @@ cursos-sublim
 cursos-sustent
 cursos-trade
 cursos-trading
+cursoseasy
 curvy shapewear
 curvy-shapewear
 cushion sofa
@@ -28771,7 +28780,8 @@ luggagetote
 luis vitton
 luis-vitton
 luisvitton
-luke facebook
+luki-jet
+lukijet
 lululemon cal
 lululemon loca
 lululemon out
@@ -31326,6 +31336,7 @@ my ppage
 my profile link
 my pussy get
 my pzge
+my short article
 my sikte
 my site ;
 my site :
@@ -33241,6 +33252,7 @@ orderforte
 ordergeneric
 orderparafon
 ordersoma
+ordinary amazingness
 org download
 org-download
 organic hemp
@@ -48773,6 +48785,7 @@ your rest room
 your self from
 your self inside
 your seo
+your short article
 your sijte
 your site platform
 your site prior
