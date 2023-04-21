@@ -7205,6 +7205,7 @@ affair date
 affair dating
 affair-date
 affair-dating
+affil/?
 affiliat blog
 affiliat-blog
 affiliatblog
@@ -7230,6 +7231,7 @@ affiliate-market
 affiliate-ppc
 affiliate-review
 affiliate-system
+affiliate/?
 affiliateblog
 affiliatebonus
 affiliateclick
@@ -9920,6 +9922,7 @@ bezpieczne leczenie
 bezpieczne-leczenie
 bhilt
 bhttp
+bị chặn
 bi chong trom
 bị chống trộm
 bi-chong-trom
@@ -20271,6 +20274,7 @@ fjo.ga
 fjog.a
 fjoga
 fjrm
+fkight
 flagyl
 flappy-bird
 flappybird
@@ -32611,6 +32615,7 @@ odziez
 oem-software
 oemsoftware
 oesale
+of a average
 of activity life
 of asthma sign
 of awesome info
@@ -38276,6 +38281,7 @@ rv repair suppl
 rv restoration cali
 rv restoration los
 rv roof replace
+rv service repair
 rv shade near
 rv shade repair
 rv shades near
@@ -38386,6 +38392,7 @@ rv-repair-suppl
 rv-restoration-cali
 rv-restoration-los
 rv-roof-replace
+rv-service-repair
 rv-shade-near
 rv-shade-repair
 rv-shades-near
