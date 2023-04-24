@@ -99,6 +99,7 @@ _seo
 _sex
 _supreme
 _swarov
+_text%
 _trackback
 _tracker
 _ugg
@@ -1739,6 +1740,7 @@ _zapat
 .blogactivo.
 .blogadvize.
 .blogbox.
+.blogbright.
 .blogcudinti.
 .blogdanica.
 .blogdeazar.
@@ -5153,6 +5155,7 @@ _zapat
 /visit.php?
 /visit/?
 /visite.
+/vk.co
 /vk.io
 /voltaren
 /vuitton-
@@ -16726,18 +16729,22 @@ denschlaf
 dent repair near
 dent-repair-near
 dental chat room
+dental clinic near
 dental guru
 dental provider near
 dental providers near
 dental quote
 dental super
+dental surgeon near
 dental that
+dental-clinic-near
 dental-guru
 dental-implant
 dental-provider-near
 dental-providers-near
 dental-quote
 dental-super
+dental-surgeon-near
 dental-that
 dental-veneer
 dentalgu.ru
@@ -30263,6 +30270,8 @@ mezzanine-finance
 mezzo louis
 mezzo-louis
 mezzolouis
+mfp-rental
+mfprental
 mgetting
 mhttp
 mi na komentarz
@@ -31540,12 +31549,14 @@ nadech-luxusu
 naga poker
 naga-poker
 nagapoker
+nail salon near
 nail upon
 nail_art
 nail-art
 nail-fest
 nail-jap
 nail-jp
+nail-salon-near
 nail-upon
 nailart
 nailfest
@@ -32721,8 +32732,10 @@ offerteray
 offerwatch
 offf topic
 office autopilot
+office copier machine
 office error code
 office-autopilot
+office-copier-machine
 office-error
 officeautopilot
 officeerror
@@ -35179,11 +35192,15 @@ pomysłowy-prezent
 ponto preco
 ponto preço
 ponto-preco
+pool builder near
+pool builders near
 pool date
 pool dating
 pool management near
 pool repair near
 pool restoration near
+pool-builder-near
+pool-builders-near
 pool-date
 pool-dating
 pool-management-near
@@ -35191,6 +35208,10 @@ pool-repair-near
 pool-restoration-near
 pool+cover+pump
 poolcoverpump
+pools builder near
+pools builders near
+pools-builder-near
+pools-builders-near
 poopx
 poor-loan
 popular brand
@@ -37705,7 +37726,11 @@ reseller-uk
 reselleruk
 residence hobby
 residence-hobby
+residential landscaper near
+residential landscapers near
 residential lender
+residential-landscaper-near
+residential-landscapers-near
 residential-lender
 residentiallender
 resist comment
@@ -39956,6 +39981,8 @@ shiba coin
 shiba-coin
 shibacoin
 shield your self
+shielding clothes
+shielding-clothes
 shift dress
 shift-dress
 shiftdress
@@ -43737,6 +43764,7 @@ time video clip
 time-only-promo
 time-porn
 time-synchronisation.co
+timebusinessnews
 timeforchange
 timeline cheat
 timeline hack
@@ -50698,6 +50726,7 @@ zyvox
 경마배팅
 놀이터 보너
 놀이터보너
+다음 사이트에서
 대출
 레이디알바
 로얄카지노
@@ -50706,6 +50735,8 @@ zyvox
 링크를 통해
 마사지
 먹튀
+무료로 얻는
+무료로 찾기
 무료쿠폰
 바카라
 보너스
@@ -50729,6 +50760,7 @@ zyvox
 인터넷카지노
 장기렌트
 저금리
+정보를 무료로
 축구중계
 출장업소
 카지노
