@@ -1764,6 +1764,7 @@ _zapat
 .bloggsactivo.
 .blogidea.
 .blogideas.
+.bloginwi.
 .blogkoo.
 .bloglovin.
 .blogmaker.
@@ -12484,6 +12485,8 @@ canadiandrug
 canadianhgh
 canadianking
 canadianloan
+canal dentist near
+canal-dentist-near
 candy crash
 candy-crash
 candy-crush
@@ -17892,17 +17895,12 @@ dߋ
 ɗe pieza
 ɗеl mueble
 e cig trouble
-e e juice
-e e-juice
-e ejuice
 e objetivo da
 é objetivo da
 é premium
 e-biz
 e-cig trouble
 e-cig-trouble
-e-e-juice
-e-ejuice
 e-evance
 e-korting
 e-mail production
@@ -17984,7 +17982,6 @@ ebookporn
 ebookreadertest
 ebooktest
 ebusinesspage
-ｅc
 ecco out
 ecco-out
 eccoout
@@ -18481,8 +18478,8 @@ erettile
 erinvestor
 erjersey.co
 erjersey.net
-erogenous picture
-erogenous-picture
+erogenous pic
+erogenous-pic
 erolove
 eron plus
 eron-plus
@@ -18557,6 +18554,7 @@ es,this
 es.iodress
 es.this
 es/content
+esc istanbul
 escitalopram
 escort bayan
 escort blog
@@ -18572,7 +18570,7 @@ escort hizmet
 escort ilan
 escort izmi
 escort kocael
-escort picture
+escort pic
 escort porn
 escort sant
 escort service
@@ -18594,7 +18592,7 @@ escort-ilan
 escort-in-dubai
 escort-izmi
 escort-kocael
-escort-picture
+escort-pic
 escort-porn
 escort-sant
 escort-service
@@ -18611,7 +18609,7 @@ escortilan
 escortindubai
 escortizmi
 escortkocael
-escortpicture
+escortpic
 escortporn
 escorts bayan
 escorts edge
@@ -18646,6 +18644,7 @@ escot izmit
 escot-izmit
 escotizmit
 eshop.co
+esk istanbul
 eskort bayan
 eskort blog
 eskort bursa
@@ -18657,7 +18656,7 @@ eskort hatun
 eskort hizmet
 eskort istanbul
 eskort izmi
-eskort picture
+eskort pic
 eskort porn
 eskort sant
 eskort site
@@ -18674,7 +18673,7 @@ eskort-hizmet
 eskort-in-dubai
 eskort-istanbul
 eskort-izmi
-eskort-picture
+eskort-pic
 eskort-porn
 eskort-sant
 eskort-site
@@ -18687,7 +18686,7 @@ eskorthatun
 eskortindubai
 eskortistanbul
 eskortizmi
-eskortpicture
+eskortpic
 eskortporn
 eskorts edge
 eskorts girl
@@ -25290,7 +25289,7 @@ inflatable-castle-rent
 inflatable-house-rent
 inflatablecastlerent
 inflatablehouserent
-influenza picture
+influenza pic
 info ,
 info !
 info .
@@ -27068,6 +27067,7 @@ kitchen-remodel-near
 kitchen-worktop
 kitchenporn
 kitchenworktop
+kizicom
 kjhkjh
 kjole salg
 kjole tilbud
@@ -27485,10 +27485,15 @@ lancelad
 lancelpas
 lancelsac
 land hack
+land-based human
 land-hack
 landhack
 landing-page
 landingpage
+landscape company near
+landscape-company-near
+landscaping company near
+landscaping-company-near
 landslagstroja
 landslagströja
 lang crypto
@@ -27636,6 +27641,8 @@ lavado de dinero
 law run from
 lawful page
 lawful-page
+lawn care near
+lawn-care-near
 lawoffice.net
 laws symbol
 laws-symbol
@@ -28913,6 +28920,7 @@ lі
 lк
 lо
 lߋ
+lᥙ
 lꮶ
 l猫
 l�
@@ -34188,8 +34196,12 @@ payed off
 payed-off
 paykasa
 payment nigeria
+payment plan near
+payment plans near
 payment strat
 payment-nigeria
+payment-plan-near
+payment-plans-near
 payment-strat
 paymentnigeria
 payments nigeria
@@ -36868,6 +36880,8 @@ rarely-directly
 rasalinga
 rastreadores
 rate a engag
+rated dentist near
+rated-dentist-near
 rateio curso
 rateio de curso
 rateio de premium
@@ -37760,9 +37774,11 @@ residence hobby
 residence-hobby
 residential landscaper near
 residential landscapers near
+residential landscaping near
 residential lender
 residential-landscaper-near
 residential-landscapers-near
+residential-landscaping-near
 residential-lender
 residentiallender
 resist comment
@@ -39028,6 +39044,7 @@ sdfklj
 sdfsdf
 sdfsfd
 sdlkfj
+sea-land climate
 seaddons
 seahawks jers
 seahawks-jers
@@ -42425,7 +42442,9 @@ sysuser
 szambo
 sϲ
 sⲟ
+sⲣ
 sі
+sҝ
 sо
 sу
 sһ
@@ -43204,7 +43223,7 @@ the simple page
 the simple post
 the simple site
 the simple web
-the take picture
+the take pic
 the text is priceless
 the top site
 the travel suitcase
@@ -44108,6 +44127,8 @@ top vid
 top viral
 top_bank
 top-10-best
+top-10-help
+top-10-use
 top-article
 top-asses
 top-available
@@ -47208,6 +47229,7 @@ website through
 website traff
 website training
 website unintent
+website upon
 website usa
 website using
 website visit
@@ -49386,12 +49408,16 @@ zyvox
 ⲟd
 ⲟf
 ⲟk
+ⲟm
 ⲟn
 ⲟr
 ⲟs
 ⲟw
 ⲟx
 ⲟy
+ⲣi
+ⲣo
+ⲣr
 аl
 аr
 аs
@@ -50112,6 +50138,7 @@ zyvox
 սc
 սd
 սe
+սg
 սh
 սl
 սm
