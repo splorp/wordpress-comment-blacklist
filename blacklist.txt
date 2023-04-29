@@ -3706,6 +3706,7 @@ _zapat
 /first-home-
 /first-home.
 /first-home/
+/firsturl.de
 /flash/
 /floodai-
 /floodai.
