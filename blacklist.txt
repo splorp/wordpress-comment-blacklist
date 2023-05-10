@@ -534,6 +534,9 @@ _zapat
 -click?
 -click.
 -click/
+-clink-
+-clink.
+-clink/
 -clit-
 -clit.
 -clit/
@@ -1861,6 +1864,9 @@ _zapat
 .click-
 .click.
 .click/
+.clink-
+.clink.
+.clink/
 .clit-
 .clit.
 .clit/
@@ -3453,6 +3459,9 @@ _zapat
 /clik?
 /clik.
 /clik/
+/clink-
+/clink.
+/clink/
 /clit-
 /clit.
 /clk?
@@ -22130,6 +22139,7 @@ gives good understand
 gives great understand
 gives quality base
 gives-fastidious
+gizoogle
 gkhk
 glad reading
 glad-reading
@@ -28399,6 +28409,7 @@ lodging a tax
 lodging-a-tax
 lodz
 łódź
+log in to follow
 log.se.
 log/?
 logcabins
@@ -33783,8 +33794,12 @@ pagescrape
 pageseo
 pagess/pg
 pagesscrape
+pagina header
 pagina web
 página web
+pagina_header
+pagina_web
+pagina-header
 pagina-web
 pagss
 paid autosurf
@@ -43554,6 +43569,7 @@ this info then
 this information procured
 this internet site
 this landline
+this life hack
 this one subject
 this one supplement
 this oout
@@ -44672,6 +44688,7 @@ transit-connect-conver
 transit-van-conver
 translation christ
 translation-christ
+tranzizzle
 trashma1l
 trashmai1
 tratamente corpor
