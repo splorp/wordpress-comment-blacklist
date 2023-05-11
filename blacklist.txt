@@ -1599,6 +1599,7 @@ _zapat
 ?twid
 ?u_
 ?u-
+?u=http
 ?ww=www
 ?youtube
 . ?i
@@ -3267,6 +3268,18 @@ _zapat
 /brand3
 /brand4
 /brand5
+/bumper?
+/bumper.ashx?
+/bumper.asp?
+/bumper.aspx?
+/bumper.cfm?
+/bumper.cgi?
+/bumper.ctr?
+/bumper.htm?
+/bumper.html?
+/bumper.jsp?
+/bumper.php?
+/bumper/?
 /burberry-
 /burberry.
 /burberry1
@@ -3684,6 +3697,7 @@ _zapat
 /f_3/
 /f_4/
 /f_5/
+/f?r=
 /fapme.pw
 /fas.st
 /fashion-
@@ -6656,6 +6670,8 @@ absolutely pent written
 abssice 360
 abssice-360
 abssice360
+abundance mindset
+abundance-mindset
 abuse hash
 abuse marijuana
 abuse-hash
@@ -13132,6 +13148,10 @@ chair van repair
 chair-van-repair
 challenge discount
 challenge-discount
+champion mindset
+champion-mindset
+championship mindset
+championship-mindset
 chanclas hollis
 chanclas-hollis
 chanclashollis
@@ -19151,6 +19171,7 @@ externer_link
 externer-link
 extra 10 discount
 extra 20 discount
+extra done in
 extra gry
 extra than half
 extract cbd
@@ -24757,6 +24778,7 @@ hppp
 hqsteroid
 hqve the
 href%3dhttp
+href=http
 htaccrss
 htm?a
 htm?go
@@ -27739,6 +27761,10 @@ lead-scraper
 lead-sys
 leader price
 leader-price
+leadership behavior
+leadership behaviour
+leadership-behavior
+leadership-behaviour
 leads database
 leads for you
 leads scraper
@@ -30477,7 +30503,9 @@ million-hit
 million-link
 million-yuan
 millionaire course
+millionaire mindset
 millionaire-course
+millionaire-mindset
 millionaires course
 millionaires-course
 millionhit
@@ -32667,6 +32695,7 @@ obtain fastidious
 obtain good exper
 obtain more done
 obtain real relief
+obtain things done
 obtain-consol
 obtain-fastidious
 obtained nothing in oppos
@@ -39230,6 +39259,9 @@ see this site
 see this weblog
 see this website
 see your expertise
+seeing the blog
+seeing the weblog
+seeing the website
 seek engines
 seek-engines
 seeking for info
@@ -41392,6 +41424,7 @@ source blossom
 source of incomes
 source-blossom
 source-of-incomes
+source=http
 sourcehere
 sovaldi
 sp.o.r.t
@@ -41665,6 +41698,7 @@ spyware
 sql interview
 sql-interview
 squidoo.co
+src=http
 ßá
 sşl
 şsl
@@ -41925,15 +41959,19 @@ strapless-tiered
 straplesstiered
 strategic advert
 strategic market
+strategic mindset
 strategic-advert
 strategic-market
+strategic-mindset
 strategies for increasing more
 strategies-for
 strategii binarny
 strategii-binarny
 strategy a visit
 strategy for increasing more
+strategy mindset
 strategy-for
+strategy-mindset
 stratificat.
 strattera
 stream porn
@@ -42752,6 +42790,7 @@ target-traff
 target-visit
 target-web
 target=http
+target=true
 targetblog
 targeted keyword
 targeted traff
@@ -42769,6 +42808,7 @@ targeting blog
 targeting web
 targeting-blog
 targeting-web
+targeting=true
 targetkeyword
 targetted traff
 targetted visit
@@ -43553,6 +43593,7 @@ this excellent read
 this fabulous blog
 this fabulous site
 this fabulous web
+this fantastic product
 this grand blog
 this grand content
 this grand post
