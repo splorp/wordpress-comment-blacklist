@@ -2638,6 +2638,7 @@ _zapat
 .us/user
 .uzblog.
 .veinflower.xyz
+.verybigblog.
 .vulpyx-
 .vulpyx.
 .vulpyx/
@@ -5063,6 +5064,18 @@ _zapat
 /top-8
 /top-9
 /top100.
+/tourl?
+/tourl.ashx?
+/tourl.asp?
+/tourl.aspx?
+/tourl.cfm?
+/tourl.cgi?
+/tourl.ctr?
+/tourl.htm?
+/tourl.html?
+/tourl.jsp?
+/tourl.php?
+/tourl/?
 /tr.im
 /trac/ticket/
 /trace?
@@ -5545,6 +5558,7 @@ _zapat
 |porn
 |yr
 ¦¦¦
+~http
 ¤¤
 $ each month
 $ porn
@@ -7962,10 +7976,14 @@ anti getting
 anti psori
 anti-aging
 anti-anxious
+anti-detect-browse
+anti-detection-browse
 anti-getting
 anti-psori
 antiage
 antiaging
+antidetect-browse
+antidetection-browse
 antipsori
 antivirus/index
 antivirussen
@@ -17067,6 +17085,8 @@ devlindesign
 dewapoker
 dewelop
 df!
+dfgdfg
+dfgfdg
 dfsfds
 dfy suite
 dfy-suite
@@ -19886,6 +19906,8 @@ fbstream
 fbtraff
 fckt
 fcukfcuk
+fdgdfg
+fdgfdg
 fdsfds
 fdsfsd
 feacute-deacute
@@ -24492,6 +24514,8 @@ home shades repair
 home store near
 home supplies near
 home supply near
+home tech near
+home technician near
 home toilet repair
 home upholstery near
 home window near
@@ -24522,6 +24546,8 @@ home-shades-repair
 home-store-near
 home-supplies-near
 home-supply-near
+home-tech-near
+home-technician-near
 home-toilet-repair
 home-upholstery-near
 home-window-near
@@ -24865,12 +24891,14 @@ http::
 http://if%
 http:a
 http//
+http3a2f
 httphttp
 https www
 https-www
 https::
 https://if%
 https//
+https3a2f
 httpshttp
 httpswww
 httpwww
@@ -31905,9 +31933,11 @@ nba중계
 nbshoe
 ñç
 nce nce
+near me open
 near my location
 near near
 near_me
+near-me-open
 near-my-location
 nearby camper repair
 nearby rv repair
@@ -32625,6 +32655,8 @@ nurse,typ
 nurse.typ
 nutrient same
 nutrient-same
+nutrition coach
+nutrition-coach
 nxvid
 nе
 nо
@@ -32760,6 +32792,7 @@ obtain-consol
 obtain-fastidious
 obtained nothing in oppos
 obtained to job
+obtaining things finish
 obulvosiy
 obuv mesh
 obuv nach
@@ -48358,6 +48391,7 @@ work!fantastic
 work!wonderful
 workable symptom
 workdoer
+workflows.integration
 working, great job
 workout-sale
 workoutsale
@@ -48647,6 +48681,7 @@ www.gambl
 www.goosepa
 www.handbag
 www.howmuch
+www.http
 www.instyler
 www.isabel-
 www.link.
