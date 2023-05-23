@@ -14844,6 +14844,7 @@ com-install
 com.asp
 com.cheap
 com.com
+com.ru
 com/?url
 com//
 com/autocom
@@ -15018,6 +15019,7 @@ commission-hero
 commissionaccount
 commissionhero
 commokn
+commun.ru
 communal authent
 communal-authent
 community.atom
@@ -15918,6 +15920,7 @@ cursinho de devop
 cursinho de gestao
 cursinho de gestão
 cursinho de goog
+cursinho de hora
 cursinho de impuls
 cursinho de injecao
 cursinho de injeção
@@ -15951,6 +15954,7 @@ cursinho finch
 cursinho gestao
 cursinho gestão
 cursinho goog
+cursinho hora
 cursinho impuls
 cursinho injecao
 cursinho injeção
@@ -15989,6 +15993,7 @@ cursinho-de-bases
 cursinho-de-beatmaker
 cursinho-de-biohack
 cursinho-de-gestao
+cursinho-de-hora
 cursinho-de-impuls
 cursinho-de-injecao
 cursinho-de-intensiv
@@ -16013,6 +16018,7 @@ cursinho-easy
 cursinho-enfase
 cursinho-finch
 cursinho-gestao
+cursinho-hora
 cursinho-impuls
 cursinho-injecao
 cursinho-intensiv
@@ -16033,8 +16039,6 @@ cursinho-sublim
 cursinho-sustent
 cursinho-trade
 cursinho-trading
-cursinhocerto
-cursinhoeasy
 curso banco
 curso barbeiro
 curso bases
@@ -16050,6 +16054,7 @@ curso de devop
 curso de gestao
 curso de gestão
 curso de goog
+curso de hora
 curso de impuls
 curso de injecao
 curso de injeção
@@ -16085,6 +16090,7 @@ curso finch
 curso gestao
 curso gestão
 curso goog
+curso hora
 curso impuls
 curso injecao
 curso injeção
@@ -16127,6 +16133,7 @@ curso-de-bases
 curso-de-beatmaker
 curso-de-biohack
 curso-de-gestao
+curso-de-hora
 curso-de-impuls
 curso-de-injecao
 curso-de-intensiv
@@ -16153,6 +16160,7 @@ curso-enfase
 curso-finch
 curso-gestao
 curso-goog
+curso-hora
 curso-impuls
 curso-injecao
 curso-intensiv
@@ -16174,8 +16182,6 @@ curso-sublim
 curso-sustent
 curso-trade
 curso-trading
-cursocerto
-cursoeasy
 cursos banco
 cursos barbeiro
 cursos bases
@@ -16191,6 +16197,7 @@ cursos de devop
 cursos de gestao
 cursos de gestão
 cursos de goog
+cursos de hora
 cursos de impuls
 cursos de injecao
 cursos de injeção
@@ -16226,6 +16233,7 @@ cursos finch
 cursos gestao
 cursos gestão
 cursos goog
+cursos hora
 cursos impuls
 cursos injecao
 cursos injeção
@@ -16267,6 +16275,7 @@ cursos-de-biohack
 cursos-de-devop
 cursos-de-gestao
 cursos-de-goog
+cursos-de-hora
 cursos-de-impuls
 cursos-de-injecao
 cursos-de-intensiv
@@ -16294,6 +16303,7 @@ cursos-enfase
 cursos-finch
 cursos-gestao
 cursos-goog
+cursos-hora
 cursos-impuls
 cursos-injecao
 cursos-intensiv
@@ -16315,8 +16325,6 @@ cursos-sublim
 cursos-sustent
 cursos-trade
 cursos-trading
-cursoscerto
-cursoseasy
 curvy shapewear
 curvy-shapewear
 cushion sofa
@@ -19546,6 +19554,7 @@ fanshack
 fanshome
 fantastic article
 fantastic blog
+fantastic content
 fantastic entire
 fantastic homepage
 fantastic layout
@@ -19572,6 +19581,7 @@ fantastic write-up
 fantastic writeup
 fantastic-article
 fantastic-blog
+fantastic-content
 fantastic-entire
 fantastic-homepage
 fantastic-layout
@@ -23098,7 +23108,9 @@ grössen ray
 größen ray
 grossen-ray
 grossrx
+group coaching in
 group sex
+group-coaching-in
 group-home
 group-review
 group-sex
@@ -35170,6 +35182,7 @@ plombier paris
 plombier-durgence
 plombier-paris
 plombierparis
+plrcurso
 plreause
 plumbing repair near
 plumbing-repair-near
@@ -47832,6 +47845,7 @@ whoah this
 whoah-this
 whois tool
 whois-tool
+whoiscall		
 whoistool
 whole thing regarding
 wholesale acrylic
