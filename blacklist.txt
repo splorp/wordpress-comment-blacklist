@@ -2792,7 +2792,6 @@ _zapat
 /-----/
 /----/
 /---/
-/——-
 /.wd/
 //|
 //123-
@@ -8730,7 +8729,6 @@ automatic-pay
 automatic-swim
 automaticpay
 automaticswim
-automation – website
 automobile profit
 automobile proper
 automobile-profit
@@ -13942,7 +13940,6 @@ chica chat
 chica-chat
 chiccasino
 chicken - you
-chicken – you
 chicluxury
 chicmcm
 chico chat
@@ -15142,8 +15139,8 @@ concursopublico
 concursospublico
 conditioning repair near
 conditioning service near
-conditioning-repair–near
-conditioning-service–near
+conditioning-repair-near
+conditioning-service-near
 condo-sg
 condosg
 condotel tai
@@ -15562,7 +15559,6 @@ cr.e.as.e
 cr.e.ase
 cr.ea.se
 cr.eas.e
-crack – microsoft
 crack download
 crack license
 crack microsoft
@@ -15571,13 +15567,12 @@ crack_
 crack-dll
 crack-download
 crack-license
+crack-microsoft
 crack-pc
 crack-software
 crack-web
-crack–microsoft
 crackdll
 crackdownload
-cracked – microsoft
 cracked app
 cracked download
 cracked license
@@ -15587,11 +15582,11 @@ cracked-app
 cracked-dll
 cracked-download
 cracked-license
+cracked-microsoft
 cracked-pc
 cracked-pro
 cracked-software
 cracked-web
-cracked–microsoft
 crackeddll
 crackeddownload
 crackedlicense
@@ -17079,8 +17074,6 @@ detskiy-diskotek
 detskiy-ginekolog
 deutschland-online
 deutschlandonline
-development – digital
-development – website
 development an app
 devenir trade
 devenir-trade
@@ -19136,6 +19129,8 @@ executivecoach
 exelon
 exercice
 exgirlfriend
+exhaust repair near
+exhaust-repair-near
 exipure discount
 exipure supplement
 exipure-discount
@@ -23836,6 +23831,8 @@ heart-site
 hearted web
 hearted-web
 heartsite
+heater repair near
+heater-repair-near
 hed crypto
 hed-crypto
 hedge fund
@@ -24834,6 +24831,7 @@ hoverboardstop
 hoverglide
 hovershop
 how a trucks
+how amazingness
 how can easily
 how ong do
 how rv collision
@@ -25833,7 +25831,7 @@ interact internet
 interact-internet
 interesante contrib
 interesante-contrib
-interested? – click
+interested? - click
 interested? click
 interestijg
 interesting blog
@@ -29851,6 +29849,8 @@ matthews jers
 matthews-jers
 matthewsjers
 mattress clothes
+mattress replacement near
+mattress-replacement-near
 matural
 maverick movie
 maverick-movie
@@ -33953,9 +33953,11 @@ painrelief
 paint job near
 paint jobs near
 paint shop near
+paint shops near
 paint-job-near
 paint-jobs-near
 paint-shop-near
+paint-shops-near
 paintedfor
 painting you write
 paintings you write
@@ -38440,9 +38442,7 @@ run-your-web
 runchaus
 runcpa
 rune - scape
-rune – scape
 rune-scape
-rune–scape
 runescape classic
 runescape gold
 runescape million
@@ -38545,6 +38545,7 @@ rv fiberglass repair
 rv floor replac
 rv flooring near
 rv furniture near
+rv generator near
 rv generator repair
 rv glass near
 rv glass repair
@@ -38604,6 +38605,7 @@ rv shops near
 rv shower remodel
 rv slide out
 rv slide repair
+rv solar install
 rv spot near
 rv spots near
 rv storage near
@@ -38658,6 +38660,7 @@ rv-fiberglass-repair
 rv-floor-replac
 rv-flooring-near
 rv-furniture-near
+rv-generator-near
 rv-generator-repair
 rv-glass-near
 rv-glass-repair
@@ -38716,6 +38719,7 @@ rv-shops-near
 rv-shower-remodel
 rv-slide-out
 rv-slide-repair
+rv-solar-install
 rv-spot-near
 rv-spots-near
 rv-storage-near
@@ -41412,6 +41416,8 @@ sojebody
 sokratit rashody
 sokratit-rashody
 sokurce
+solar install near
+solar-install-near
 sold-out
 solde botte
 solde canad
@@ -47845,7 +47851,7 @@ whoah this
 whoah-this
 whois tool
 whois-tool
-whoiscall		
+whoiscall
 whoistool
 whole thing regarding
 wholesale acrylic
@@ -48991,7 +48997,6 @@ yorumu-begeni
 yorumu-satin
 yorumu-yaziy
 you - tube
-you – tube
 you aand
 you aare
 you aided me
@@ -49070,7 +49075,6 @@ you-wants-fine
 you-wants-to
 you-write-up
 you-writeup
-you–tube
 you,i
 you,look
 you:-
@@ -49312,11 +49316,15 @@ yourdui
 youre better
 youre bettor
 youre incred
-youre information
+youre info
 youre not
 youre so
 youre talk
+youre-better
+youre-bettor
 youre-incred
+youre-info
+youre-not
 youre-so
 youre-talk
 youreally
