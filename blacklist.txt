@@ -11708,6 +11708,8 @@ bus-upholstery
 busca sexo
 busca-sexo
 buscando soluções
+bushwacker camper near
+bushwacker-camper-near
 busienss
 business advert
 business award
@@ -13333,6 +13335,8 @@ chat-roulette
 chat-sex
 chat-tarot
 chat-xxx
+chat.chat
+chat.ru
 chatburt
 chatchat
 chaterba
@@ -17617,7 +17621,9 @@ don think
 don-think
 don?t
 don''t
+don't click me
 don’’t
+don’t click me
 don”t
 don`t
 dondash
@@ -17642,6 +17648,7 @@ donne donn
 donne-donn
 donnedonn
 dont cease
+dont click me
 dont fit
 dont know
 dont-cease
@@ -37180,6 +37187,7 @@ rabatt kod
 rabatt-kod
 rabattkod
 raca-do-mes
+racetrack.top
 rachunki kolek
 rachunki-kolek
 racing gaming
@@ -37630,6 +37638,7 @@ redirects.ctr
 redirects.htm
 redirects.jsp
 redirects.php
+redirectwarn
 redskinsjers
 redsoleshoe
 reductil
@@ -39628,6 +39637,7 @@ sembol clan
 sembol-clan
 semi truck repair
 semi-truck-repair
+senatorteplitz
 send bulk
 send earn
 send unlimited
