@@ -2794,6 +2794,7 @@ _zapat
 /-----/
 /----/
 /---/
+/?http
 /.wd/
 //|
 //123-
@@ -5557,6 +5558,7 @@ _zapat
 +uptime
 +url
 +util
++vouch
 +vti
 +vuitton
 +web
@@ -19987,6 +19989,9 @@ fdsfds
 fdsfsd
 feacute-deacute
 feacutedeacute
+fear casino
+fear-casino
+fearcasino
 fearful behavior
 fearful-behavior
 feasting room
@@ -21598,6 +21603,8 @@ gallery-porn
 gallery-world
 galleryporn
 galleryworld
+gambar rumah
+gambar-rumah
 gamble online
 gamble tour
 gamble-online
@@ -25013,6 +25020,7 @@ huge-savings
 huge-wallpaper
 hugecock
 hugescock
+human design coach
 human hair wig
 human site
 human verification
@@ -25340,6 +25348,7 @@ in this weblog
 in this website
 in trends lately
 in tth
+in vegas nevada
 in web business
 in you tube
 in your instagram
@@ -25437,6 +25446,7 @@ incredible page
 incredible point
 incredible quest there
 incredible site
+incredible story there
 incredible topic
 incredible web
 incredible-article
@@ -30865,6 +30875,7 @@ modafinil
 modapk
 modbro download
 modbro-download
+mode=popup
 model agency
 model new
 model uae
@@ -34516,6 +34527,7 @@ paydayon
 payed off
 payed-off
 paykasa
+payment in crypto
 payment nigeria
 payment plan near
 payment plans near
@@ -47069,6 +47081,8 @@ vote-trump-mask
 votre site
 votre-site
 votresite
+vouch copies
+vouch copy
 vouchery
 voyance amour
 voyance couple
@@ -47241,6 +47255,7 @@ walmartbuy
 walmartmail
 walnut medicin
 walnut-medicin
+wan na be
 wanelo.co
 wang bag
 wang-bag
@@ -49189,6 +49204,7 @@ you miws
 you need is often
 you need you are
 you of $
+you page has
 you please prolong
 you porn
 you sees
