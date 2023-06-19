@@ -3099,6 +3099,7 @@ _zapat
 /apiclick.html?
 /apiclick.jsp?
 /apiclick.php?
+/apiclick.pl?
 /apiclick/?
 /app-rating
 /appliancerepair-
@@ -3150,6 +3151,7 @@ _zapat
 /away.html?
 /away.jsp?
 /away.php?
+/away.pl?
 /away/?
 /b54.in
 /baby-
@@ -3167,6 +3169,7 @@ _zapat
 /backto.html?
 /backto.jsp?
 /backto.php?
+/backto.pl?
 /backto/?
 /bag.sh/
 /bags/
@@ -3182,6 +3185,7 @@ _zapat
 /banner.html?
 /banner.jsp?
 /banner.php?
+/banner.pl?
 /banner/?
 /banners?
 /banners.ashx?
@@ -3194,6 +3198,7 @@ _zapat
 /banners.html?
 /banners.jsp?
 /banners.php?
+/banners.pl?
 /banners/?
 /bazar-
 /bazar.
@@ -3285,6 +3290,7 @@ _zapat
 /bumper.html?
 /bumper.jsp?
 /bumper.php?
+/bumper.pl?
 /bumper/?
 /burberry-
 /burberry.
@@ -3319,6 +3325,7 @@ _zapat
 /bye.html?
 /bye.jsp?
 /bye.php?
+/bye.pl?
 /bye/?
 /cache-
 /cache.
@@ -3430,6 +3437,7 @@ _zapat
 /ck.html?
 /ck.jsp?
 /ck.php?
+/ck.pl?
 /ck/
 /ck/?
 /cl-
@@ -3458,6 +3466,7 @@ _zapat
 /click.html?
 /click.jsp?
 /click.php?
+/click.pl?
 /click/
 /click/?
 /clickfrm?
@@ -3474,6 +3483,7 @@ _zapat
 /clicks.html?
 /clicks.jsp?
 /clicks.php?
+/clicks.pl?
 /clicks/?
 /clik?
 /clik.
@@ -3549,6 +3559,7 @@ _zapat
 /cs.html?
 /cs.jsp?
 /cs.php?
+/cs.pl?
 /cs/?
 /custom-control
 /custom/de/
@@ -3604,6 +3615,7 @@ _zapat
 /director.html?
 /director.jsp?
 /director.php?
+/director.pl?
 /director/?
 /dirigente/
 /div/
@@ -3695,6 +3707,7 @@ _zapat
 /exit.html?
 /exit.jsp?
 /exit.php?
+/exit.pl?
 /exit/?
 /externalsite?
 /externalsite.ashx?
@@ -3707,6 +3720,7 @@ _zapat
 /externalsite.html?
 /externalsite.jsp?
 /externalsite.php?
+/externalsite.pl?
 /externalsite/?
 /extreme-
 /f_0/
@@ -3773,6 +3787,7 @@ _zapat
 /forwarder.html?
 /forwarder.jsp?
 /forwarder.php?
+/forwarder.pl?
 /forwarder/?
 /fotka.
 /foto.
@@ -3788,6 +3803,7 @@ _zapat
 /frame.html?
 /frame.jsp?
 /frame.php?
+/frame.pl?
 /frame/?
 /free-shipping-
 /free-shipping.
@@ -3835,6 +3851,7 @@ _zapat
 /go_url.html?
 /go_url.jsp?
 /go_url.php?
+/go_url.pl?
 /go_url/?
 /go?
 /go.ashx?
@@ -3847,6 +3864,7 @@ _zapat
 /go.html?
 /go.jsp?
 /go.php?
+/go.pl?
 /go/?
 /gold-claim.
 /gold-yukon.
@@ -3868,6 +3886,7 @@ _zapat
 /goto_url.html?
 /goto_url.jsp?
 /goto_url.php?
+/goto_url.pl?
 /goto_url/?
 /goto?
 /goto.ashx?
@@ -3880,6 +3899,7 @@ _zapat
 /goto.html?
 /goto.jsp?
 /goto.php?
+/goto.pl?
 /goto/?
 /gotourl?
 /gotourl.ashx?
@@ -3892,6 +3912,7 @@ _zapat
 /gotourl.html?
 /gotourl.jsp?
 /gotourl.php?
+/gotourl.pl?
 /gotourl/?
 /gourl?
 /gourl.ashx?
@@ -3904,6 +3925,7 @@ _zapat
 /gourl.html?
 /gourl.jsp?
 /gourl.php?
+/gourl.pl?
 /gourl/?
 /graphics/
 /group1
@@ -3970,6 +3992,7 @@ _zapat
 /hit.html?
 /hit.jsp?
 /hit.php?
+/hit.pl?
 /hit/?
 /hollister-
 /hollister.
@@ -3990,6 +4013,7 @@ _zapat
 /hop.html?
 /hop.jsp?
 /hop.php?
+/hop.pl?
 /hop/?
 /hot-girl-
 /hot-girl.
@@ -4048,6 +4072,7 @@ _zapat
 /index.html?/
 /index.jsp?/
 /index.php?/
+/index.pl?/
 /index0
 /index1
 /index2
@@ -4074,6 +4099,7 @@ _zapat
 /interstice.html?
 /interstice.jsp?
 /interstice.php?
+/interstice.pl?
 /interstice/?
 /inx.inbox.lv
 /inx.lv
@@ -4125,6 +4151,7 @@ _zapat
 /jump.html?
 /jump.jsp?
 /jump.php?
+/jump.pl?
 /jump/?
 /jumplink?
 /jumplink.ashx?
@@ -4137,6 +4164,7 @@ _zapat
 /jumplink.html?
 /jumplink.jsp?
 /jumplink.php?
+/jumplink.pl?
 /jumplink/?
 /just.
 /kabriolet-
@@ -4173,6 +4201,7 @@ _zapat
 /klik.html?
 /klik.jsp?
 /klik.php?
+/klik.pl?
 /klik/?
 /kommentar
 /kontakt-
@@ -4226,6 +4255,7 @@ _zapat
 /link.html?
 /link.jsp?
 /link.php?
+/link.pl?
 /link/
 /link/?
 /linkdetail
@@ -4244,6 +4274,7 @@ _zapat
 /linkto.html?
 /linkto.jsp?
 /linkto.php?
+/linkto.pl?
 /linkto/?
 /lipo-suction
 /liposuction
@@ -4261,6 +4292,7 @@ _zapat
 /lnkcnt.html?
 /lnkcnt.jsp?
 /lnkcnt.php?
+/lnkcnt.pl?
 /lnkcnt/?
 /loadsite?
 /loadsite.ashx?
@@ -4273,6 +4305,7 @@ _zapat
 /loadsite.html?
 /loadsite.jsp?
 /loadsite.php?
+/loadsite.pl?
 /loadsite/?
 /logout?
 /logout.ashx?
@@ -4285,6 +4318,7 @@ _zapat
 /logout.html?
 /logout.jsp?
 /logout.php?
+/logout.pl?
 /logout/?
 /logs/
 /longchamp-
@@ -4321,6 +4355,7 @@ _zapat
 /m.html?
 /m.jsp?
 /m.php?
+/m.pl?
 /m/?
 /m88-
 /m88.
@@ -4340,6 +4375,7 @@ _zapat
 /mainframe.html?
 /mainframe.jsp?
 /mainframe.php?
+/mainframe.pl?
 /mainframe/?
 /malware-
 /malware.
@@ -4463,6 +4499,7 @@ _zapat
 /offsite.html?
 /offsite.jsp?
 /offsite.php?
+/offsite.pl?
 /offsite/?
 /ok0.
 /ok1.
@@ -4493,6 +4530,7 @@ _zapat
 /optout.html?
 /optout.jsp?
 /optout.php?
+/optout.pl?
 /optout/?
 /orderpage
 /orgasm
@@ -4508,6 +4546,7 @@ _zapat
 /out.html?
 /out.jsp?
 /out.php?
+/out.pl?
 /out/?
 /outils
 /outlet/
@@ -4523,6 +4562,7 @@ _zapat
 /outlink.html?
 /outlink.jsp?
 /outlink.php?
+/outlink.pl?
 /outlink/
 /outlink/?
 /ov.ms
@@ -4541,6 +4581,7 @@ _zapat
 /p.html?
 /p.jsp?
 /p.php?
+/p.pl?
 /p/
 /p/?
 /page1.
@@ -4673,6 +4714,7 @@ _zapat
 /proxy.html?
 /proxy.jsp?
 /proxy.php?
+/proxy.pl?
 /proxy/?
 /prozac
 /public/
@@ -4709,6 +4751,7 @@ _zapat
 /r.html?
 /r.jsp?
 /r.php?
+/r.pl?
 /r/?
 /r4i-
 /r4i.
@@ -4730,6 +4773,7 @@ _zapat
 /rank.html?
 /rank.jsp?
 /rank.php?
+/rank.pl?
 /rank/?
 /ray-ban-
 /ray-ban.
@@ -4748,6 +4792,7 @@ _zapat
 /rdr.html?
 /rdr.jsp?
 /rdr.php?
+/rdr.pl?
 /rdr/
 /rdr/?
 /rdr=
@@ -4764,6 +4809,7 @@ _zapat
 /reauexit.html?
 /reauexit.jsp?
 /reauexit.php?
+/reauexit.pl?
 /reauexit/?
 /rebrand.ly
 /recap/
@@ -4812,6 +4858,7 @@ _zapat
 /relink.html?
 /relink.jsp?
 /relink.php?
+/relink.pl?
 /relink/?
 /remote-desktop
 /remotedesktop
@@ -4833,6 +4880,7 @@ _zapat
 /rk.html?
 /rk.jsp?
 /rk.php?
+/rk.pl?
 /rk/?
 /rlu.ru
 /roulette-
@@ -4840,18 +4888,6 @@ _zapat
 /roulette/
 /rozwod
 /rrsm.nl
-/rs_linkto?
-/rs_linkto.ashx?
-/rs_linkto.asp?
-/rs_linkto.aspx?
-/rs_linkto.cfm?
-/rs_linkto.cgi?
-/rs_linkto.ctr?
-/rs_linkto.htm?
-/rs_linkto.html?
-/rs_linkto.jsp?
-/rs_linkto.php?
-/rs_linkto/?
 /ru/news/
 /rusex-
 /rusex.
@@ -4900,6 +4936,7 @@ _zapat
 /share.html?
 /share.jsp?
 /share.php?
+/share.pl?
 /share/?
 /sheet/
 /shop-for-
@@ -5100,6 +5137,7 @@ _zapat
 /tourl.html?
 /tourl.jsp?
 /tourl.php?
+/tourl.pl?
 /tourl/?
 /tr.im
 /trac/ticket/
@@ -5114,6 +5152,7 @@ _zapat
 /trace.html?
 /trace.jsp?
 /trace.php?
+/trace.pl?
 /trace/?
 /track?
 /track.ashx?
@@ -5126,6 +5165,7 @@ _zapat
 /track.html?
 /track.jsp?
 /track.php?
+/track.pl?
 /track/?
 /trackback
 /tracker/
@@ -5146,6 +5186,7 @@ _zapat
 /trs.html?
 /trs.jsp?
 /trs.php?
+/trs.pl?
 /trs/?
 /trx/
 /twilight-
@@ -5171,6 +5212,7 @@ _zapat
 /unknown.html?
 /unknown.jsp?
 /unknown.php?
+/unknown.pl?
 /unknown/?
 /update/
 /upload-
@@ -5179,18 +5221,6 @@ _zapat
 /uploads-
 /uploads.
 /uploads/
-/url_back?
-/url_back.ashx?
-/url_back.asp?
-/url_back.aspx?
-/url_back.cfm?
-/url_back.cgi?
-/url_back.ctr?
-/url_back.htm?
-/url_back.html?
-/url_back.jsp?
-/url_back.php?
-/url_back/?
 /url?
 /url.ashx?
 /url.asp?
@@ -5203,6 +5233,7 @@ _zapat
 /url.jsp?
 /url.kn
 /url.php?
+/url.pl?
 /url/
 /url/?
 /urlms.co
@@ -5244,6 +5275,7 @@ _zapat
 /visit.html?
 /visit.jsp?
 /visit.php?
+/visit.pl?
 /visit/?
 /visite.
 /vk.co
@@ -5384,6 +5416,7 @@ _zapat
 &send=
 &su=http
 &trackback=
+&u=http
 &unsub=
 &unsublink=
 &url=
@@ -7692,6 +7725,7 @@ amazing benefits for you
 amazing blog
 amazing can function
 amazing in favo
+amazing is a unique
 amazing issues here
 amazing paragraph
 amazing post
@@ -29738,6 +29772,7 @@ marketing digital
 marketing ebook
 marketing effort
 marketing exchang
+marketing expert near
 marketing funnel
 marketing hero
 marketing letter
@@ -29767,6 +29802,7 @@ marketing-book
 marketing-digital
 marketing-effort
 marketing-exchang
+marketing-expert-near
 marketing-funnel
 marketing-hero
 marketing-letter
@@ -33015,6 +33051,8 @@ occhialisol
 oceanes-immo
 oceanesimmo
 ochudzanie
+ocrv.club
+ocrvand
 ocrvcenter
 ocrvmotor
 oculosfeminino
@@ -33143,9 +33181,11 @@ offerwatch
 offf topic
 office autopilot
 office copier machine
+office depot near
 office error code
 office-autopilot
 office-copier-machine
+office-depot-near
 office-error
 officeautopilot
 officeerror
@@ -38575,6 +38615,7 @@ rpg-online
 rpgonline
 ｒr
 ｒs
+rs_linkto
 rss kami
 rss kamu
 rss.asp
@@ -38814,6 +38855,8 @@ rv technician near
 rv toilet
 rv tv repair
 rv upgrade
+rv upgrade near
+rv upgrades near
 rv upholstery near
 rv upholstery replac
 rv van upgrade
@@ -38932,6 +38975,8 @@ rv-tech-near
 rv-technician-near
 rv-toilet
 rv-tv-repair
+rv-upgrade-near
+rv-upgrades-near
 rv-upholstery-near
 rv-upholstery-replac
 rv-van-upgrade
@@ -46077,6 +46122,7 @@ uricasino
 urine strip
 urine-strip
 url fx
+url_back
 url-click
 url-fx
 url-query
@@ -47881,8 +47927,12 @@ webviewconsult
 webviewer
 webweb
 wedding jewel
+wedding venue near
+wedding venues near
 wedding-angel
 wedding-jewel
+wedding-venue-near
+wedding-venues-near
 weddingdress
 wedtgh
 weeb blog
@@ -48010,6 +48060,7 @@ what’s up to
 what’s up,
 whatblog
 whatever done
+whatever faster
 whatll
 whats blog
 whats up to
