@@ -27598,7 +27598,6 @@ kpkfprbrq
 kraft hypno
 kraft-hypno
 krafthypno
-kraken
 krakow ceny
 kraków ceny
 krakow-ceny
@@ -51334,6 +51333,7 @@ zyvox
 ?
 蘒
 﨨
+kraken
 dark.net
 dreads
 krassota.com
@@ -51344,3 +51344,11 @@ moscowadres.ru
 vk3
 聊球通
 blackspurt
+gouterspace.com
+Goûter
+taipei9527.com
+小琪兒娛樂
+v2web.at
+voluptatem
+voluptas
+as-sports.net
