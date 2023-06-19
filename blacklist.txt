@@ -1601,6 +1601,7 @@ _zapat
 ?u_
 ?u-
 ?u=http
+?url=domain
 ?ww=www
 ?youtube
 . ?i
@@ -5178,6 +5179,18 @@ _zapat
 /uploads-
 /uploads.
 /uploads/
+/url_back?
+/url_back.ashx?
+/url_back.asp?
+/url_back.aspx?
+/url_back.cfm?
+/url_back.cgi?
+/url_back.ctr?
+/url_back.htm?
+/url_back.html?
+/url_back.jsp?
+/url_back.php?
+/url_back/?
 /url?
 /url.ashx?
 /url.asp?
@@ -6901,6 +6914,8 @@ acyclovir
 ad by goog
 ad crack
 ad live
+ad service near
+ad services near
 ad_flag
 ad_list
 ad_live
@@ -6914,6 +6929,8 @@ ad-live
 ad-portal
 ad-sage
 ad-serve
+ad-service-near
+ad-services-near
 ad-serving
 ad-wiki
 adbeat distrib
@@ -7212,6 +7229,8 @@ advertising device
 advertising market
 advertising method
 advertising research
+advertising service near
+advertising services near
 advertising_
 advertising-accommodat
 advertising-and-market
@@ -7223,6 +7242,8 @@ advertising-device
 advertising-market
 advertising-method
 advertising-research
+advertising-service-near
+advertising-services-near
 advertisings
 advertize market
 advertize you
@@ -8048,6 +8069,8 @@ ao-go
 aobe photoshop
 aobe-photoshop
 ãœ
+apartamente de vanzare
+apartamente-de-vanzare
 apartamentow
 apcrypto
 aperfect
@@ -9793,6 +9816,7 @@ best promo
 best prostate
 best rv repair
 best sandal
+best service near
 best sex
 best shapewear
 best shoe price
@@ -9866,6 +9890,7 @@ best-rv-repair
 best-sandal
 best-seller-bag
 best-sellers-bag
+best-service-near
 best-sex
 best-shapewear
 best-shoe-price
@@ -9945,6 +9970,7 @@ bestreal
 bestsalesell
 bestsellerbag
 bestsellersbag
+bestservicenear
 bestsex
 bestshop
 bestsmart
@@ -10484,6 +10510,7 @@ blog visit
 blog was ..
 blog was …
 blog was how
+blog was relevant
 blog was..
 blog was…
 blog web
@@ -17986,6 +18013,12 @@ ducatitumi
 duchess satin
 duchess-satin
 duchesssatin
+duct clean near
+duct cleaner near
+duct cleaning near
+duct-clean-near
+duct-cleaner-near
+duct-cleaning-near
 dude.de
 dudes.de
 dugg some
@@ -18361,6 +18394,8 @@ email starter
 email to unlimited
 email unlimited
 email vip
+email_location
+email_track
 email-academy
 email-advertis
 email-advertiz
@@ -18429,11 +18464,13 @@ en en linea
 en en línea
 en este website
 en iyi
+en kaliteli
 en kolay
 en private
 en ucuz
 en-en-linea
 en-iyi
+en-kaliteli
 en-ligne-paris
 en-private
 en-ucuz
@@ -18513,7 +18550,9 @@ enhance my post
 enhance my sire
 enhance my site
 enhance my web
+enhance performance reduce
 enhance pill
+enhance-performance-reduce
 enhance-pill
 enhance-you
 enhancement coach
@@ -19314,16 +19353,22 @@ eye dr near
 eye exam near
 eye exams near
 eye glasses near
+eye hospital near
 eye lingerie
 eye porn
+eye specialist near
+eye specialists near
 eye-doctor-near
 eye-doctors-near
 eye-dr-near
 eye-exam-near
 eye-exams-near
 eye-glasses-near
+eye-hospital-near
 eye-lingerie
 eye-porn
+eye-specialist-near
+eye-specialists-near
 eyeballs of the visit
 eyeglass sale
 eyeglass-sale
@@ -19682,6 +19727,8 @@ fantasy-eskort
 fantasyescort
 fantasyeskort
 far brought
+fargo atm near
+fargo-atm-near
 farmacia
 farming-secret
 farmingforfish
@@ -24931,6 +24978,7 @@ how-rv-collision
 how-sleep
 how-start-business
 how-start-small
+how? amazingness
 howdy just wanted
 howdy superb
 howdy-superb
@@ -25097,6 +25145,7 @@ i quitg
 i-aint
 i-needs
 i-only-done
+i-phone screen
 i-porn
 i-will-be
 i?d
@@ -25476,6 +25525,8 @@ index-css
 index-old
 indexcss
 indexold
+india forbes
+india-forbes
 indian escort
 indian eskort
 indian sex
@@ -28377,6 +28428,7 @@ link-vault
 link?u=
 link/click
 link/link
+link=http
 link2blog
 link4blog
 linkbait
@@ -28613,6 +28665,9 @@ local seo
 local-seo
 locate-cell-phone
 locatecellphone
+location selling
+location_track
+location-selling
 lociraj
 lock prezzi
 lock-prezzi
@@ -29822,6 +29877,7 @@ mass-face
 mass-traffic
 massa muscular
 massa-muscular
+massage bodywork
 massage close
 massage down
 massage envy
@@ -29830,6 +29886,7 @@ massage massage
 massage on site
 massage person
 massage velvet
+massage-bodywork
 massage-close
 massage-down
 massage-envy
@@ -31332,6 +31389,7 @@ mostcomfortable
 mostcompetitive
 mosteffective
 mostexpensive
+mosting like
 mostra vid
 mostra-vid
 mostravid
@@ -32958,6 +33016,7 @@ oceanes-immo
 oceanesimmo
 ochudzanie
 ocrvcenter
+ocrvmotor
 oculosfeminino
 oczyszczalnia przydomow
 oczyszczalnia-przydomow
@@ -33213,6 +33272,8 @@ on-line-site
 on-line-test
 on-premises data
 on-premises-data
+on-site massage
+on-site-massage
 on-the-web
 once once
 once-in-a-lifetime
@@ -33527,6 +33588,8 @@ onsale.htm
 onsale.jsp
 onsale.php
 onsales.co
+onsite massage
+onsite-massage
 ontheir
 ontheweb
 onuahia gi
@@ -34365,9 +34428,11 @@ part mariage
 part online
 part oof
 part store near
+part stores near
 part-mariage
 part-online
 part-store-near
+part-stores-near
 partagez abonne
 partagez commente
 partagez et abonne
@@ -34401,7 +34466,11 @@ partnership-to-success
 partnershiptosuccess
 partnerskaya program
 partnerskaya-program
+parts store near
+parts stores near
 parts superstore near
+parts-store-near
+parts-stores-near
 parts-superstore-near
 party poker
 party shirt
@@ -39921,6 +39990,9 @@ services-near-me
 services-near-you
 services/ecommerce
 services/service
+servicii complete
+servicii de inalta
+servicii de înaltă
 servicii profes
 servicii-profes
 servicio calenta
@@ -41659,8 +41731,12 @@ someonethat
 someplace within the sentence
 somos una empresa
 son copain
+son dakika haberleri
 son-copain
+son-dakika-haberleri
 soncopain
+sondakika haberleri
+sondakika-haberleri
 songs reaches
 songs thousand
 songs-reaches
