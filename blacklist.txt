@@ -3866,6 +3866,19 @@ _zapat
 /go.php?
 /go.pl?
 /go/?
+/goframe?
+/goframe.ashx?
+/goframe.asp?
+/goframe.aspx?
+/goframe.cfm?
+/goframe.cgi?
+/goframe.ctr?
+/goframe.htm?
+/goframe.html?
+/goframe.jsp?
+/goframe.php?
+/goframe.pl?
+/goframe/?
 /gold-claim.
 /gold-yukon.
 /gold.
@@ -6503,6 +6516,7 @@ a ppart
 a su servicio
 a super seller
 a weblog from
+a-business-forbes
 a-cell-phone
 a-few-web
 a-lots
@@ -31466,6 +31480,7 @@ movie gaming
 movie is not going
 movie on-line
 movie online
+movie playing near
 movie release america
 movie relieve
 movie review are
@@ -31476,6 +31491,7 @@ movie-123
 movie-full
 movie-gaming
 movie-online
+movie-playing-near
 movie-sponge
 movie-video
 movie123
@@ -31488,6 +31504,7 @@ movies free
 movies matrix
 movies on-line
 movies online
+movies playing near
 movies trailer
 movies video
 movies way too
@@ -31496,6 +31513,7 @@ movies-download
 movies-free
 movies-matrix
 movies-online
+movies-playing-near
 movies-trailer
 movies-video
 movies-zone
@@ -32167,6 +32185,7 @@ nearest camper repair
 nearest repair shop
 nearest rv repair
 nearest rv to me
+nearest rv to my
 nearest sprinter repair
 nearest trailer repair
 nearest-auto-repair
@@ -38302,6 +38321,7 @@ resumes-expert
 resumesexpert
 resurge review
 resurge-review
+ret_u=http
 retail-store
 retail-where
 retailstore
@@ -38368,6 +38388,7 @@ review.php
 reviewbest
 reviewbonus
 reviewdiscount
+reviewnearme
 reviewon
 reviewreading
 reviews best
@@ -41156,6 +41177,7 @@ site:)
 site? my web
 site.vip
 site/essay
+site=http
 site24
 sitecode
 sitederateio
