@@ -4856,6 +4856,7 @@ _zapat
 /redirects.
 /redirects/
 /redirects=
+/redirme.co
 /ref=sr_
 /refreshers.
 /rejuvenate-
