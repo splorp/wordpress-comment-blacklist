@@ -4221,6 +4221,7 @@ _zapat
 /kontakt-
 /kontakt.
 /kontakt/
+/ky.to
 /l2u.su
 /lacoste-
 /lacoste.
