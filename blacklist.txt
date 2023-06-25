@@ -1561,6 +1561,7 @@ _zapat
 ?link=
 ?lnk=
 ?longchamp
+?lp=http
 ?mbt
 ?mm_link=
 ?mod=space
@@ -1571,6 +1572,7 @@ _zapat
 ?p-
 ?p=404
 ?pandora
+?param=http
 ?popup
 ?prada
 ?r_link=
@@ -1782,6 +1784,7 @@ _zapat
 .blogminds.
 .blognody.
 .blogola.
+.blogolenta.
 .blogolize.
 .blogozz.
 .blogpixi.
@@ -5185,6 +5188,19 @@ _zapat
 /track/?
 /trackback
 /tracker/
+/tracking?
+/tracking.ashx?
+/tracking.asp?
+/tracking.aspx?
+/tracking.cfm?
+/tracking.cgi?
+/tracking.ctr?
+/tracking.htm?
+/tracking.html?
+/tracking.jsp?
+/tracking.php?
+/tracking.pl?
+/tracking/?
 /transexual-
 /transexual.
 /transexual/
@@ -7743,6 +7759,7 @@ amazing blog
 amazing can function
 amazing in favo
 amazing is a unique
+amazing is an
 amazing issues here
 amazing paragraph
 amazing post
@@ -20485,6 +20502,7 @@ fine-blog
 fine-wive
 fineblog
 finest blog
+finest delivery ordeal
 finest steroid
 finest web
 finest-blog
@@ -22226,6 +22244,7 @@ gifts4promo
 giftsclick
 giftsingapore
 giftssingapore
+gig for life
 giga porn
 giga-porn
 gigantix.co
@@ -26048,11 +26067,15 @@ interior bohemian
 interior for you
 interior great thing
 interior remodel near
+interior remodeling near
+interior remodelling near
 interior rumah
 interior-bohemian
 interior-for-you
 interior-great-thing
 interior-remodel-near
+interior-remodeling-near
+interior-remodelling-near
 interiorforyou
 internet article
 internet blog
@@ -33698,6 +33721,8 @@ ooo-watch
 ooobag
 ooobrand
 ooowatch
+open now near
+open-now-near
 openair
 opendoar
 openlink?
@@ -35142,7 +35167,9 @@ phonesforsale
 phonesss
 phonestore
 phonstore
+photo engraving near
 photo it would also
+photo-engraving-near
 photo/bv
 photo/celine
 photo/chanel
@@ -36353,6 +36380,8 @@ preferred-essay
 pregabalin-4u
 pregabalin.to
 pregabalin4u
+pregnancy massage
+pregnancy-massage
 pregnancysymptom
 pregnant state
 pregnant-state
