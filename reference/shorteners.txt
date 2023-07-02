@@ -58,6 +58,7 @@
 /j.mp
 /jl.ms
 /just.as
+/ky.to
 /l.linklyhq.com
 /l2u.su
 /lil.ink
@@ -81,6 +82,7 @@
 /qoo.by
 /qps.ru
 /rebrand.ly
+/redirme.co
 /rih.co
 /rlu.ru
 /rrsm.nl

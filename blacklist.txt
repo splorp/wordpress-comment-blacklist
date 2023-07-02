@@ -1561,6 +1561,7 @@ _zapat
 ?link=
 ?lnk=
 ?longchamp
+?lp=http
 ?mbt
 ?mm_link=
 ?mod=space
@@ -1571,6 +1572,7 @@ _zapat
 ?p-
 ?p=404
 ?pandora
+?param=http
 ?popup
 ?prada
 ?r_link=
@@ -1595,6 +1597,7 @@ _zapat
 ?t_
 ?t-
 ?timber
+?to=http
 ?trackback
 ?tumi
 ?twid
@@ -1781,6 +1784,7 @@ _zapat
 .blogminds.
 .blognody.
 .blogola.
+.blogolenta.
 .blogolize.
 .blogozz.
 .blogpixi.
@@ -4220,6 +4224,7 @@ _zapat
 /kontakt-
 /kontakt.
 /kontakt/
+/ky.to
 /l2u.su
 /lacoste-
 /lacoste.
@@ -4856,6 +4861,7 @@ _zapat
 /redirects.
 /redirects/
 /redirects=
+/redirme.co
 /ref=sr_
 /refreshers.
 /rejuvenate-
@@ -5182,6 +5188,19 @@ _zapat
 /track/?
 /trackback
 /tracker/
+/tracking?
+/tracking.ashx?
+/tracking.asp?
+/tracking.aspx?
+/tracking.cfm?
+/tracking.cgi?
+/tracking.ctr?
+/tracking.htm?
+/tracking.html?
+/tracking.jsp?
+/tracking.php?
+/tracking.pl?
+/tracking/?
 /transexual-
 /transexual.
 /transexual/
@@ -7740,6 +7759,7 @@ amazing blog
 amazing can function
 amazing in favo
 amazing is a unique
+amazing is an
 amazing issues here
 amazing paragraph
 amazing post
@@ -8367,6 +8387,7 @@ article is priceless
 article is really practical
 article is truly
 article it is defin
+article like your
 article many
 article much
 article online
@@ -11741,6 +11762,8 @@ burch-out
 burch-sale
 burchout
 burchsale
+burger king near
+burger-king-near
 burnout cheat
 burnout hack
 burnout-cheat
@@ -12256,7 +12279,9 @@ cagoosesale
 caida del cabello
 caída del cabello
 caida-del-cabello
+cake factory near
 cake online
+cake-factory-near
 cake-online
 calculation their
 calculations their
@@ -13044,6 +13069,8 @@ catering expert
 catering solution
 catering-expert
 catering-solution
+catholic church near
+catholic-church-near
 cau hinh toi
 cấu hình tối
 cau-hinh-toi
@@ -14267,6 +14294,12 @@ chung cư
 chung hightop
 chung-cư
 chung-hightop
+church open near
+church service near
+church services near
+church-open-near
+church-service-near
+church-services-near
 cɦ
 ｃi
 ciaalis
@@ -14517,6 +14550,8 @@ clickaffiliate
 clickbank
 clickcomp
 clickcount
+clicker unblock
+clicker-unblock
 clickforu
 clickfraud
 clicking it
@@ -15407,6 +15442,9 @@ conydot
 cooker ninja
 cooker-ninja
 cookerninja
+cookie click
+cookie-click
+cookieclick
 cooking fever free
 cooking-fever-free
 cool article
@@ -16966,6 +17004,7 @@ dengan maksimum
 denschlaf
 dent repair near
 dent-repair-near
+dental care near
 dental chat room
 dental clinic near
 dental guru
@@ -16977,6 +17016,7 @@ dental quote
 dental super
 dental surgeon near
 dental that
+dental-care-near
 dental-clinic-near
 dental-guru
 dental-implant
@@ -17000,6 +17040,8 @@ dentist online
 dentist-office-near
 dentist-online
 dentistonline
+denture dentist near
+denture-dentist-near
 dep nhat
 đẹp nhất
 dep-nhat
@@ -20478,6 +20520,7 @@ fine-blog
 fine-wive
 fineblog
 finest blog
+finest delivery ordeal
 finest steroid
 finest web
 finest-blog
@@ -21940,6 +21983,8 @@ gems-no-hack
 gen porn
 gen-porn
 genemy
+general dentist near
+general-dentist-near
 general/genera
 generally not totally
 generate cash
@@ -22219,6 +22264,7 @@ gifts4promo
 giftsclick
 giftsingapore
 giftssingapore
+gig for life
 giga porn
 giga-porn
 gigantix.co
@@ -23692,6 +23738,10 @@ hairycam
 halki diabetes
 halki-diabetes
 halkidiabetes
+halloween store near
+halloween stores near
+halloween-store-near
+halloween-stores-near
 halt8cheat
 halt8hack
 hamilton norge
@@ -23966,11 +24016,13 @@ healing-blog
 healing-post
 healingindu
 health advis
+health coaching
 health how
 health programatic
 health stock
 health suppl
 health-advis
+health-coaching
 health-how
 health-kart
 health-programatic
@@ -26037,11 +26089,15 @@ interior bohemian
 interior for you
 interior great thing
 interior remodel near
+interior remodeling near
+interior remodelling near
 interior rumah
 interior-bohemian
 interior-for-you
 interior-great-thing
 interior-remodel-near
+interior-remodeling-near
+interior-remodelling-near
 interiorforyou
 internet article
 internet blog
@@ -27793,9 +27849,11 @@ laby-boy
 labyboy
 lace bodycon
 lace bodysuit
+lace engraving near
 lace wigs
 lace-bodycon
 lace-bodysuit
+lace-engraving-near
 lace-wigs
 lacoste out
 lacoste_
@@ -28549,6 +28607,10 @@ lip filler
 lip-filler
 lipitor
 liqulr
+liquor store near
+liquor stores near
+liquor-store-near
+liquor-stores-near
 lirtle effort
 lisence microsoft
 lisence-microsoft
@@ -28709,8 +28771,12 @@ loansdirect
 loansfast
 loansonline
 loanspayday
+local engraving near
 local seo
+local solar panel
+local-engraving-near
 local-seo
+local-solar-panel
 locate-cell-phone
 locatecellphone
 location selling
@@ -29214,6 +29280,10 @@ lululemon-out
 lululemoncal
 lululemonloca
 lululemonout
+lumber yard near
+lumber yards near
+lumber-yard-near
+lumber-yards-near
 lumigan
 luminor watch
 luminor-watch
@@ -29517,6 +29587,7 @@ make some buck
 make this bookmark
 make ur own
 make wonderful vid
+make you amazing
 make you rich
 make-backup
 make-blogging
@@ -29538,6 +29609,7 @@ make-up-automachiaj
 make-up-incepatori
 make-up-machiaj
 make-ur-own
+make-you-amazing
 make-you-rich
 makebaby
 makecsgo
@@ -29782,6 +29854,7 @@ marketexchang
 marketing agency
 marketing blog
 marketing book
+marketing company near
 marketing digital
 marketing ebook
 marketing effort
@@ -29813,6 +29886,7 @@ marketing-and-advert
 marketing-approach
 marketing-blog
 marketing-book
+marketing-company-near
 marketing-digital
 marketing-effort
 marketing-exchang
@@ -29835,6 +29909,7 @@ marketing-speharvonit
 marketing-strategy
 marketing-the-free
 marketing-tip
+marketing-trends-for
 marketing-video-clip
 marketing-xchange
 marketingblog
@@ -30296,7 +30371,9 @@ mediamarket
 mediapalitra
 medias sociaux
 medias-sociaux
+medical dentist near
 medical marijuana
+medical-dentist-near
 medical-marijuana
 medicament info
 medicament-info
@@ -30600,6 +30677,7 @@ mensnike
 menspuma
 menssale
 menstimber
+menstruaci
 mentalprocess
 mentforsale
 menthol dunhill
@@ -33280,6 +33358,8 @@ okpay
 oksex
 oksunglass
 okycupid
+olive garden near
+olive-garden-near
 olta coin
 olta-coin
 oltacoin
@@ -33667,6 +33747,8 @@ ooo-watch
 ooobag
 ooobrand
 ooowatch
+open now near
+open-now-near
 openair
 opendoar
 openlink?
@@ -34231,9 +34313,11 @@ pandorajewel
 pandoratop
 pandorauk
 pandrer
+panel cleaning near
 panel installation near
 panel installer near
 panel installers near
+panel-cleaning-near
 panel-installation-near
 panel-installer-near
 panel-installers-near
@@ -35109,7 +35193,9 @@ phonesforsale
 phonesss
 phonestore
 phonstore
+photo engraving near
 photo it would also
+photo-engraving-near
 photo/bv
 photo/celine
 photo/chanel
@@ -36320,6 +36406,8 @@ preferred-essay
 pregabalin-4u
 pregabalin.to
 pregabalin4u
+pregnancy massage
+pregnancy-massage
 pregnancysymptom
 pregnant state
 pregnant-state
@@ -38279,6 +38367,8 @@ respective app
 respective-app
 restaurant construction firm
 restaurant design firm
+restavratsiya vann
+restavratsiya-vann
 restoremen
 restoril
 result choquant
@@ -43178,12 +43268,16 @@ tania-wynajem
 tania-wypozy
 tank cleaner near
 tank cleaning near
+tank installation near
 tank pumping near
 tank repair near
+tank replacement near
 tank-cleaner-near
 tank-cleaning-near
+tank-installation-near
 tank-pumping-near
 tank-repair-near
+tank-replacement-near
 tanks for share
 tanks for sharing
 tantric london
@@ -46140,6 +46234,7 @@ urgent custom
 urging comment
 uri casino
 uri-casino
+uri=http
 uricasino
 urine strip
 urine-strip
@@ -48372,6 +48467,8 @@ windowsphone.co
 winesickle
 wingsshop
 winiphone
+winn dixie near
+winn-dixie-near
 winner casino
 winner of made
 winner-casino
@@ -48612,6 +48709,8 @@ woo-game
 woo-house
 woo-sex
 woo-site
+wood engraving near
+wood-engraving-near
 wooden-splitting
 woodgundy.us
 woogame
@@ -50139,6 +50238,7 @@ zyvox
 вольво-вольво
 вот - http
 вот http
+вот это да!
 вот: http
 временная регистрация
 все подробно
@@ -50351,6 +50451,7 @@ zyvox
 мега сайт
 мегасайт
 медиа палитра
+менструаци
 месяц назад
 метал
 мето лечения
@@ -50471,6 +50572,7 @@ zyvox
 поисковый движок
 поисск відео
 покер
+полезная информация
 полезные совет
 помыть машин
 пообщаемся
@@ -50508,6 +50610,7 @@ zyvox
 причина пад
 проверим документ
 проверку уходит
+проверь сам
 продаж
 продвижение аккау
 продолжительном сроке
@@ -50720,6 +50823,7 @@ zyvox
 целевые клиентские
 цена
 ценное мнение
+ценные советы
 цены
 через поисск
 читы
