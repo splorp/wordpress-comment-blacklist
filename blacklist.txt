@@ -2799,6 +2799,7 @@ _zapat
 /----/
 /---/
 /?http
+/?url=
 /.wd/
 //|
 //123-
@@ -7941,6 +7942,7 @@ anchor1
 anchor2
 anchortext
 and additional raise
+and amazingness
 and bye.
 and good post
 and i in finding
@@ -10052,7 +10054,9 @@ bestweb
 besty promo
 besty-promo
 bestypromo
+bet 365
 bet-88
+bet-365
 bet-guru
 bet-khong
 bet-link
@@ -10060,6 +10064,7 @@ bet-list
 bet-script
 bet-tips
 bet88
+bet365
 betes0
 betes1
 betes2
@@ -12764,10 +12769,12 @@ captainrank
 captcha snip
 captcha-snip
 captchasnip
+car glass installation
 car rental list
 car requirement
 car-e-site
 car-esite
+car-glass-installation
 car-rental-list
 car-requirement
 car.o.l
@@ -15327,6 +15334,7 @@ considerably this web
 consideration speculate
 consideration-prior-to
 considerations speculate
+considerations to question
 considerations-prior-to
 considering-innovation
 consolidation loan
@@ -15609,6 +15617,7 @@ couldnt
 coumadin
 counter sex
 counter-sex
+counterbanner
 counterfeit steroid
 counterfeit-steroid
 counterfeitsteroid
@@ -16073,6 +16082,7 @@ cursinho de impuls
 cursinho de injecao
 cursinho de injeção
 cursinho de introdu
+cursinho de landing
 cursinho de lideran
 cursinho de magica
 cursinho de mágica
@@ -16108,6 +16118,7 @@ cursinho injecao
 cursinho injeção
 cursinho intensiv
 cursinho introdu
+cursinho landing
 cursinho lideran
 cursinho magica
 cursinho mágica
@@ -16146,6 +16157,7 @@ cursinho-de-impuls
 cursinho-de-injecao
 cursinho-de-intensiv
 cursinho-de-introdu
+cursinho-de-landing
 cursinho-de-lideran
 cursinho-de-magica
 cursinho-de-marcenar
@@ -16171,6 +16183,7 @@ cursinho-impuls
 cursinho-injecao
 cursinho-intensiv
 cursinho-introdu
+cursinho-landing
 cursinho-lideran
 cursinho-magica
 cursinho-marcenar
@@ -16208,6 +16221,7 @@ curso de injecao
 curso de injeção
 curso de intensiv
 curso de introdu
+curso de landing
 curso de lideran
 curso de magica
 curso de mágica
@@ -16244,6 +16258,7 @@ curso injecao
 curso injeção
 curso intensiv
 curso introdu
+curso landing
 curso lideran
 curso magica
 curso mágica
@@ -16286,6 +16301,7 @@ curso-de-impuls
 curso-de-injecao
 curso-de-intensiv
 curso-de-introdu
+curso-de-landing
 curso-de-lideran
 curso-de-magica
 curso-de-marcenar
@@ -16313,6 +16329,7 @@ curso-impuls
 curso-injecao
 curso-intensiv
 curso-introdu
+curso-landing
 curso-lideran
 curso-magica
 curso-marcenar
@@ -16351,6 +16368,7 @@ cursos de injecao
 cursos de injeção
 cursos de intensiv
 cursos de introdu
+cursos de landing
 cursos de lideran
 cursos de magica
 cursos de mágica
@@ -16387,6 +16405,7 @@ cursos injecao
 cursos injeção
 cursos intensiv
 cursos introdu
+cursos landing
 cursos lideran
 cursos magica
 cursos mágica
@@ -16428,6 +16447,7 @@ cursos-de-impuls
 cursos-de-injecao
 cursos-de-intensiv
 cursos-de-introdu
+cursos-de-landing
 cursos-de-lideran
 cursos-de-magica
 cursos-de-marcenar
@@ -16456,6 +16476,7 @@ cursos-impuls
 cursos-injecao
 cursos-intensiv
 cursos-introdu
+cursos-landing
 cursos-lideran
 cursos-magica
 cursos-marcenar
@@ -21466,6 +21487,7 @@ from-this-blog
 from-this-post
 from-this-web
 from,it
+from=http
 from=info
 fromnavid
 front_single
@@ -21879,6 +21901,9 @@ ganoolq
 gaogb
 gaoland
 gapscent
+garage door repair
+garage-door-repair
+garagedoorrepair
 garansi kepuasan
 garantizadas por escrito
 garantizar la calidad
@@ -22112,6 +22137,7 @@ get a preparations
 get bangladesh
 get bitcoin
 get blog
+get connected to girl
 get face
 get fastidious
 get free gem
@@ -23035,6 +23061,7 @@ grab-people-excite
 grab-people-interest
 grabs viewer
 grabs views
+graceful appreciation
 gracias por compartir
 graduand
 graduates next the
@@ -27909,6 +27936,7 @@ land hack
 land-based human
 land-hack
 landhack
+landing page download
 landing-page
 landingpage
 landscape company near
@@ -30007,10 +30035,12 @@ massage close
 massage down
 massage envy
 massage erotic
+massage for children
 massage massage
 massage on site
 massage person
 massage velvet
+massage worth
 massage-bodywork
 massage-close
 massage-down
@@ -33423,6 +33453,7 @@ one nike
 one piece est au
 one piece scan
 one shapewear
+one simple change!
 one subject matter
 one thing else
 one who are
@@ -34185,6 +34216,7 @@ packers-jers
 packersjers
 packs fanny
 packs-fanny
+padişahbet
 page ::
 page 1 of goog
 page are equip
@@ -34631,6 +34663,7 @@ pas-cher
 pascher
 pascherfr
 pascheroakley
+pashabet
 pasport zdorovya
 pasport-zdorovya
 pass generat
@@ -42500,6 +42533,7 @@ streamporn
 streamrugby
 street-saw
 streetsaw
+strenght
 strength harmony
 strength-harmony
 strick jack
@@ -46741,6 +46775,7 @@ very lower
 very nice internet
 very nice:)
 very oone
+very own aptitudes
 very packed location
 very smart person!
 very superb
@@ -49552,6 +49587,7 @@ your bitcoin
 your blog kept
 your blog might
 your blog on
+your blog page
 your blog prior
 your blog pro
 your blog real
@@ -50258,6 +50294,7 @@ zyvox
 гr
 гy
 гадание online
+гей клуб
 гей питер
 гидра сайт
 глубокое глот
@@ -50378,6 +50415,7 @@ zyvox
 казино rox
 казино рокс
 как работать
+каталог фабер
 качест
 качественный
 квартир
@@ -50639,6 +50677,7 @@ zyvox
 рассылки сайт
 рґр
 рднк
+реабилитация инвалидов
 реальные деньги
 реальные коммент
 реальный кардинг
