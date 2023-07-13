@@ -5384,6 +5384,7 @@ _zapat
 /xy2.eu
 /ya.
 /yabb
+/yaplink.co
 /ylink.pro
 /you-win-
 /you-win.
