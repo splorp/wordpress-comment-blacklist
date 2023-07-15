@@ -72,6 +72,7 @@ _lotto
 _loubou
 _lululemon
 _marijuana
+_massage
 _masterclass
 _maxazria
 _milf
@@ -109,6 +110,7 @@ _vecaro
 _viral
 _virus
 _voltaren
+_volupta
 _vuitton
 _www
 _xt_blog
@@ -2800,6 +2802,7 @@ _zapat
 /----/
 /---/
 /?http
+/?to=
 /?url=
 /.wd/
 //|
@@ -3859,6 +3862,7 @@ _zapat
 /go_url.php?
 /go_url.pl?
 /go_url/?
+/go-out/
 /go?
 /go.ashx?
 /go.asp?
@@ -13103,9 +13107,12 @@ cbd cannabis
 cbd cream
 cbd extract
 cbd gum
+cbd hand
 cbd isolate
 cbd lube
 cbd mean
+cbd roll
+cbd spray
 cbd weed
 cbd-advert
 cbd-beaut
@@ -13114,9 +13121,12 @@ cbd-cannabis
 cbd-cream
 cbd-extract
 cbd-gum
+cbd-hand
 cbd-isolate
 cbd-lube
 cbd-mean
+cbd-roll
+cbd-spray
 cbd-weed
 cbdadvert
 cbdbeaut
@@ -13125,9 +13135,12 @@ cbdcannabis
 cbdcream
 cbdextract
 cbdgum
+cbdhand
 cbdisolate
 cbdlube
 cbdmean
+cbdroll
+cbdspray
 çç
 cc shop
 cc-shop
@@ -20898,6 +20911,7 @@ for wonderful information
 for yolur
 for your article
 for your blog
+for your each
 for your page
 for your post
 for your web
@@ -24286,11 +24300,14 @@ herb vapour
 herb-vape
 herb-vapor
 herb-vapour
+herbal health
 herbal smok
 herbal tincture
+herbal-health
 herbal-medicin
 herbal-smok
 herbal-tincture
+herbalhealth
 herbalmedicin
 herbalsmok
 herbaltincture
@@ -26955,6 +26972,7 @@ jewelrybest
 jewelrycollect
 jewelryexpens
 jewelrys
+jgirl
 jhjhjh
 jhttp
 ji.m.lard
@@ -28641,6 +28659,7 @@ linklegend
 linklogger
 linkman
 linkmarket
+linkout
 linkpage
 linkpyramid
 linkredirect
@@ -28738,6 +28757,7 @@ livebox live
 livebox-live
 livefree
 livehack
+livelive.ru
 livenaked
 liveodds
 liveroulette
@@ -30087,13 +30107,14 @@ massage close
 massage down
 massage envy
 massage erotic
-massage for children
+massage for child
 massage for kids
 massage massage
 massage on site
 massage person
 massage velvet
 massage worth
+massage_
 massage-bodywork
 massage-close
 massage-down
@@ -34006,6 +34027,7 @@ out this ideas
 out throughout
 out-assim
 out-repair-near
+out=http
 outelt
 outfits seller
 outfits-seller
@@ -35875,6 +35897,7 @@ pool builder near
 pool builders near
 pool date
 pool dating
+pool expert
 pool installer near
 pool installers near
 pool management near
@@ -35884,6 +35907,7 @@ pool-builder-near
 pool-builders-near
 pool-date
 pool-dating
+pool-expert
 pool-installer-near
 pool-installers-near
 pool-management-near
@@ -35891,6 +35915,7 @@ pool-repair-near
 pool-restoration-near
 pool+cover+pump
 poolcoverpump
+poolexpert
 pools builder near
 pools builders near
 pools-builder-near
@@ -37660,6 +37685,7 @@ razrabotkasait
 rb-str.ru
 rbstr.ru
 rbstrru
+rdr=http
 ｒe
 re-upload this
 re-upload-this
@@ -42241,6 +42267,7 @@ sprawdzone narzedzia
 sprawdzone narzędzia
 sprawdzone-narzedzia
 sprawdzonenarzedzia
+spribe
 spring repair near
 spring-repair-near
 springs repair near
@@ -43464,6 +43491,7 @@ tasinma firmasi
 tasinma-firmasi
 taşınma firması
 taskss
+taste was pleasant
 tastegood.co
 tatoo cheap
 tatoo design
@@ -47414,6 +47442,8 @@ voltaren_
 voltaren.
 volume muscular
 volume-muscular
+voluptas_
+voluptatem_
 volvo-volvo
 von ysl
 von-ysl
@@ -50494,6 +50524,7 @@ zyvox
 интересн
 интернет
 интим досуг
+искусственного интеллекта
 исповедь
 іｅ
 іl
@@ -51349,6 +51380,7 @@ zyvox
 검증사이트
 게임
 경마배팅
+구글기프트카드
 놀이터 보너
 놀이터보너
 다음 사이트에서
@@ -51597,6 +51629,7 @@ zyvox
 官网
 專業
 專業光碟
+小琪兒娛樂
 小銭入れ
 屋家居
 履
@@ -51667,6 +51700,7 @@ zyvox
 線上電競
 线上销售
 考，
+聊球通
 脳症
 脿
 腕時計
