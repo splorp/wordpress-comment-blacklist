@@ -2899,6 +2899,7 @@ _zapat
 /2.jsp
 /02.php
 /2.php
+/2ip.ru
 /2ipe.tk
 /2u4.us
 /03.asp
