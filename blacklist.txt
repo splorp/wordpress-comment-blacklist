@@ -1540,6 +1540,7 @@ _zapat
 ?aff=
 ?affil=
 ?affiliate=
+?aiopcd=
 ?backto=
 ?birkin
 ?bvlgari
@@ -1560,6 +1561,7 @@ _zapat
 ?gucci
 ?hermes
 ?hollis
+?iu=http
 ?jumplink=
 ?link=
 ?lnk=
@@ -1580,6 +1582,7 @@ _zapat
 ?popup
 ?prada
 ?r_link=
+?r=http
 ?ray
 ?rdr=
 ?redir=
@@ -1601,6 +1604,7 @@ _zapat
 ?su=http
 ?t_
 ?t-
+?t=http
 ?timber
 ?to=http
 ?trackback
@@ -5432,6 +5436,7 @@ _zapat
 &aff=
 &affil=
 &affiliate=
+&aiopcd=
 &amp;amp
 &away=
 &b_u
@@ -5443,6 +5448,7 @@ _zapat
 &gt;&lt;
 &http:
 &https:
+&iu=http
 &link=
 &lnk=
 &logout=
@@ -5455,6 +5461,7 @@ _zapat
 &page=
 &param=http
 &pv_url=
+&r=http
 &redir=
 &redirect=
 &ref=
@@ -5462,6 +5469,7 @@ _zapat
 &referer=
 &send=
 &su=http
+&t=http
 &to=http
 &trackback=
 &u=http
@@ -6944,6 +6952,7 @@ across of this article
 across thiss
 across-thiss
 act as versatile
+actioncall
 actions you desire
 activation code
 active revenue stream
@@ -8090,8 +8099,12 @@ announce suggest
 announce-suggest
 announced suggest
 announced-suggest
+anonymize me
 anonymize you
+anonymize-me
 anonymize-you
+anonymizeme
+anonymizeyou
 anonymous download
 anonymous upload
 anonymous-download
@@ -10452,6 +10465,7 @@ black-lesb
 black-magic-removal
 black-magic-spell
 black-militari
+black-sprut
 black-tight
 black-tits
 black-ugg
@@ -10472,6 +10486,7 @@ blackjackpit
 blacklabelj
 blacklesb
 blackmagicand
+blacksprut
 blacktight
 blacktits
 blackugg
@@ -12422,6 +12437,7 @@ camisetas-personalizada
 camisetas-polo
 camisetashollis
 camisetaspolo
+campaignid
 camper ac repair
 camper airbnb near
 camper alignment repair
@@ -14999,11 +15015,13 @@ collezione-celine
 collezione-moncler
 collezioneceline
 collezionemoncler
+collision body shop
 collision maintenance center
 collision maintenance centre
 collision maintenance service
 collision repair near
 collision repair shop
+collision-body-shop
 collision-maintenance-center
 collision-maintenance-centre
 collision-maintenance-service
@@ -27179,6 +27197,8 @@ js-wing
 jsadidas
 jswing
 juaanmartinezz
+jual kaca
+jual-kaca
 juanjuan
 judi blackjack
 judi casino
@@ -28207,9 +28227,11 @@ leader-price
 leadership behavior
 leadership behaviour
 leadership consult
+leadership trainer
 leadership-behavior
 leadership-behaviour
 leadership-consult
+leadership-trainer
 leads database
 leads for you
 leads scraper
@@ -29987,6 +30009,8 @@ marketing prof
 marketing samu
 marketing search
 marketing service
+marketing service near
+marketing services near
 marketing software
 marketing special
 marketing speharvonit
@@ -30025,6 +30049,8 @@ marketing-prof
 marketing-samu
 marketing-search
 marketing-service
+marketing-service-near
+marketing-services-near
 marketing-software
 marketing-special
 marketing-speharvonit
@@ -33550,6 +33576,7 @@ on-site-massage
 on-the-web
 once once
 once-in-a-lifetime
+onclick
 one %
 one mayy
 one must glamor
@@ -38145,6 +38172,8 @@ relacoes-sexuais
 related contents
 related-contents
 relatfed
+relationship coach
+relationship-coach
 relativa media
 relativa mídia
 relativa-media
@@ -38275,8 +38304,11 @@ renown know
 rent luxury
 rent_in
 rent-luxury
+rental rank
 rental-e-site
 rental-esite
+rental-rank
+rentalrank
 rentals-e-site
 rentals-esite
 renting-a-small
@@ -45393,6 +45425,8 @@ trailer-wrap-near
 trailer-wraps-near
 trailersale
 train pet dog
+trainer vegas
+trainer-vegas
 training pet dog
 training-online
 training-pro
