@@ -1611,6 +1611,7 @@ _zapat
 ?timber
 ?to=http
 ?trackback
+?tu=http
 ?tumi
 ?twid
 ?u_
@@ -4879,7 +4880,10 @@ _zapat
 /redirects/
 /redirects=
 /redirme.co
+/ref?
 /ref=sr_
+/referer?
+/referers?
 /refreshers.
 /rejuvenate-
 /rejuvenate.
@@ -5474,6 +5478,7 @@ _zapat
 &t=http
 &to=http
 &trackback=
+&tu=http
 &u=http
 &unsub=
 &unsublink=
@@ -32884,6 +32889,7 @@ ninja-sword
 ninjasword
 niselv.co
 nissan clothing
+nissan-clothing
 nitraazepam
 nitrazepam
 niue pokemon
@@ -33331,6 +33337,7 @@ ocrv.club
 ocrvand
 ocrvcenter
 ocrvmotor
+ocrvparts
 oculosfeminino
 oczyszczalnia przydomow
 oczyszczalnia-przydomow
@@ -36014,6 +36021,7 @@ por los cliente
 por tu blog
 por tu site
 por um blog
+por um post
 por um site
 poradnik face
 poradnik-face
