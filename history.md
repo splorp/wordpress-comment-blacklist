@@ -4,6 +4,7 @@ A chronological list of changes, bug fixes, and other milestones
 
 ## History
 
++ 20230812 — Fixed bug relating to [a handful of false positives](https://github.com/splorp/wordpress-comment-blacklist/commit/883df6922a3b5e42ae45bf8d207b454a632208d3)
 + 20230415 — 51,000 entries
 + 20230301 — 50,000 entries
 + 20230206 — 49,000 entries
