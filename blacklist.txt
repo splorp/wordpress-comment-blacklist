@@ -1558,11 +1558,14 @@ _zapat
 ?firma
 ?forex
 ?free
+?fw=http
 ?go=
 ?goto=
 ?gucci
+?h=http
 ?hermes
 ?hollis
+?id=http
 ?iu=http
 ?jumplink=
 ?link=
@@ -4292,6 +4295,19 @@ _zapat
 /lineshake/
 /lingerie-
 /lingerie.
+/link_ex?
+/link_ex.ashx?
+/link_ex.asp?
+/link_ex.aspx?
+/link_ex.cfm?
+/link_ex.cgi?
+/link_ex.ctr?
+/link_ex.htm?
+/link_ex.html?
+/link_ex.jsp?
+/link_ex.php?
+/link_ex.pl?
+/link_ex/?
 /link-
 /link?
 /link.ashx?
@@ -5462,10 +5478,13 @@ _zapat
 &ckmrdr=
 &dest=
 &ftp:
+&fw=http
 &goto=
 &gt;&lt;
+&h=http
 &http:
 &https:
+&id=http
 &iu=http
 &link=
 &lnk=
@@ -5862,6 +5881,7 @@ $sixty
 1homm
 1inop
 1lear
+1mil e-mail
 1mil email
 1minu
 1muti
@@ -5944,6 +5964,7 @@ $sixty
 2k20-vc
 2k20vc
 2lear
+2mil e-mail
 2mil email
 2minu
 2movie
@@ -6001,6 +6022,7 @@ $sixty
 3inop
 3j3j3
 3lear
+3mil e-mail
 3mil email
 3minut
 3muti
@@ -6081,6 +6103,7 @@ $sixty
 4k polecacie
 4k-polecacie
 4less
+4mil e-mail
 4mil email
 4minut
 4plus
@@ -6131,6 +6154,7 @@ $sixty
 5generic
 5hand
 5health
+5mil e-mail
 5mil email
 5minut
 5purse
@@ -6358,6 +6382,7 @@ $sixty
 111.za
 111@
 123 domain
+123 e-mail
 123 email
 123 free
 123 kinja
@@ -6369,6 +6394,7 @@ $sixty
 123-rateio
 123.biz
 123.co
+123.e-mail
 123.email
 123.free
 123.in
@@ -6548,6 +6574,7 @@ a article author
 a backbone damage
 a blog from
 a e-mail
+a email
 a excellent
 a fabulous blog
 a fabulous site
@@ -8867,6 +8894,8 @@ auteur-nike
 auteurnike
 authentic cash
 authentic cheap
+authentic e-mail
+authentic email
 authentic hermes
 authentic jord
 authentic money
@@ -15893,7 +15922,9 @@ creating short article
 creation service
 creation will run
 creation-service
+credentialing by
 credentialing expert
+credentialing-by
 credentialing-expert
 credit direct
 credit loan
@@ -17579,6 +17610,7 @@ directory-submit
 directorysubmit
 directt
 dirt-bike
+discard-email
 discard.email
 disclaim.asp
 disco innovador para
@@ -18329,7 +18361,17 @@ e-cig trouble
 e-cig-trouble
 e-evance
 e-korting
-e-mail production
+e-mail academy
+e-mail advertis
+e-mail advertiz
+e-mail doa
+e-mail extract
+e-mail marketing
+e-mail product
+e-mail starter
+e-mail to unlimited
+e-mail unlimited
+e-mail vip
 e-marketer
 e-marketing
 e-objetivo-da
@@ -18617,6 +18659,7 @@ email advertiz
 email doa
 email extract
 email marketing
+email product
 email starter
 email to unlimited
 email unlimited
@@ -19861,6 +19904,7 @@ falsedoc
 falsepassport
 familiarity daily
 family motor vehicle
+family worths
 family-motor-vehicle
 famous blog
 famous news
@@ -22204,6 +22248,12 @@ generic-harvoni
 generic-principen
 genericcialis
 genericharvoni
+genuine e-mail are
+genuine e-mail as
+genuine e-mail is
+genuine e-mails are
+genuine e-mails as
+genuine e-mails is
 genuine email are
 genuine email as
 genuine email is
@@ -22608,11 +22658,17 @@ glamorousbag
 glance at yahoo
 glass online
 glass repair near
+glass shop near
+glass shops near
 glass-online
 glass-repair-near
+glass-shop-near
+glass-shops-near
 glasses-tokyo
 glassess
 glassestokyo
+glassshopnear
+glassshopsnear
 gleans wonderful
 gleevec
 glitch-fortnite
@@ -23507,10 +23563,13 @@ growmarijuana
 growmens
 growqing
 growth hormone
+growth marketing
 growth mindset
 growth-hormone
+growth-marketing
 growth-mindset
 growthhormone
+growthmarketing
 grsentas
 gru movie
 gru-movie
@@ -25179,6 +25238,7 @@ house exterior luxury
 house interior luxury
 house mover near
 house movers near
+house plan ranging
 house-exterior-luxury
 house-interior-luxury
 house-mover-near
@@ -28490,6 +28550,7 @@ lessdress
 lessen your movie
 lesson1
 lesspeplum
+let us champion
 letrozole
 lett you
 letter-template.asp
@@ -33320,6 +33381,7 @@ obtain-consol
 obtain-fastidious
 obtained nothing in oppos
 obtained to job
+obtaining anything done
 obtaining things finish
 obulvosiy
 obuv mesh
@@ -36955,6 +37017,7 @@ product-sale
 product/product
 producthermes
 production of e-mail
+production of email
 products cbd
 products thc
 products/product
@@ -38001,6 +38064,7 @@ recent seo
 recent-seo
 recentseo
 recephalexin
+reception of this e-mail
 reception of this email
 reciclable
 recientemente financia
@@ -38590,6 +38654,7 @@ requerida por el cliente
 requeridas por el cliente
 requerido por el cliente
 request e-mail
+request email
 requests swiftly
 requests-swiftly
 required to awesome
@@ -39126,6 +39191,7 @@ rv bedroom river
 rv beds near
 rv blind repair
 rv blinds repair
+rv body near
 rv body repair
 rv body shop
 rv builder near
@@ -39249,6 +39315,7 @@ rv-bedroom-river
 rv-beds-near
 rv-blind-repair
 rv-blinds-repair
+rv-body-near
 rv-body-repair
 rv-body-shop
 rv-builder-near
@@ -44214,6 +44281,7 @@ theflashboard
 theguest
 thehoverboard
 thehypothyroid
+their e-mail list
 their email list
 their enjoying future
 their sincere idea
@@ -46336,6 +46404,7 @@ unlimited autopost
 unlimited coin
 unlimited content
 unlimited crystal
+unlimited e-mail
 unlimited email
 unlimited gem
 unlimited multi
@@ -49783,6 +49852,8 @@ you porn
 you sees
 you sell, you
 you should safer
+you some e-mail
+you some email
 you ssay
 you stay competing
 you sway have
@@ -49898,6 +49969,7 @@ your design dude
 your dick
 your digital business
 your display screen
+your e-mail message
 your email message
 your expert service
 your expertise with
