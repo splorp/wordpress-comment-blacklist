@@ -1643,7 +1643,6 @@ _zapat
 .2com
 .2u4.us
 .7x.cz
-.acgi
 .acidblog.
 .acidblogs.
 .acompanhante-
@@ -2013,7 +2012,6 @@ _zapat
 .eskorts/
 .executive-
 .fake-
-.fcgi
 .femdom-
 .femdom.
 .femdom/
@@ -2167,6 +2165,7 @@ _zapat
 .jpg.htm
 .jpg.jsp
 .jpg.php
+.jpg.pl
 .kapselfibrose-
 .kapselfibrose.
 .kapselfibrose/
@@ -3700,6 +3699,7 @@ _zapat
 /dsquared.
 /duvetica-
 /duvetica.
+/e/www.
 /easing-
 /easing.
 /ebay/
@@ -8594,6 +8594,7 @@ artisanplombier
 artiucle
 artsilec
 artykul
+as amazingness
 as currently whatever
 as much people
 as parrt
@@ -8623,6 +8624,7 @@ aseguranzas-carro
 aseguranzas-de-auto
 aseguranzas-de-carro
 aseguranzas-para-auto
+ashx?http
 asia escort
 asia eskort
 asia fuck
@@ -8681,6 +8683,7 @@ asos coupon
 asos-coupon
 asoscoupon
 asp?folder
+asp?http
 asp?id
 asp?tag
 asphyx dvd
@@ -8698,6 +8701,7 @@ aspiring-page
 aspiring-site
 aspiring-web
 aspnet_client
+aspx?http
 áß
 ass lick
 ass naked
@@ -12328,6 +12332,7 @@ by credit rating
 by experienced people
 by-dr-dre
 by-experienced-people
+by-my-location
 bymean
 byo.co
 byt.es
@@ -13446,8 +13451,10 @@ cetirizineonline
 cfd trade
 cfd-trade
 cfdtrade
+cfm?http
 cgi-bin
 cgi-pww
+cgi?http
 cgibin
 cgsaleca
 ｃh
@@ -15940,8 +15947,10 @@ creation will run
 creation-service
 credentialing by
 credentialing expert
+credentialing in
 credentialing-by
 credentialing-expert
+credentialing-in
 credit direct
 credit loan
 credit repair
@@ -16136,6 +16145,7 @@ csgofree
 css.asp
 cszwyojl
 ｃt
+ctr?http
 ｃu
 cualquier buscador
 cuc ki đat
@@ -19952,6 +19962,7 @@ fans hack
 fans-hack
 fanshack
 fanshome
+fantarium
 fantastic article
 fantastic blog
 fantastic content
@@ -21012,6 +21023,7 @@ footwearmbt
 footwears
 for a article
 for a easy
+for all your needs
 for black mans
 for black mens
 for black womans
@@ -21156,9 +21168,11 @@ forhandlere
 forinteract
 forjp.co
 fork?http
+forklift dealer orange
 forklift rental near
 forklift rentals near
 forklift repair orange
+forklift-dealer-orange
 forklift-rental-near
 forklift-rentals-near
 forklift-repair-orange
@@ -25838,6 +25852,7 @@ incredible allows me
 incredible allows you
 incredible article
 incredible blog
+incredible huh?
 incredible is a
 incredible is the
 incredible layout
@@ -27335,6 +27350,7 @@ jpsasic
 js wing
 js-wing
 jsadidas
+jsp?http
 jswing
 juaanmartinezz
 jual kaca
@@ -32479,6 +32495,8 @@ nashivki-leibly
 nasil alinir
 nasil-alinir
 nasıl alınır
+naszej stronie
+naszej-stronie
 nateddrink
 nato apostando
 nato-apostando
@@ -33477,6 +33495,8 @@ oculosfeminino
 oczyszczalnia przydomow
 oczyszczalnia-przydomow
 odchudzanie
+oddluzania
+oddłużania
 odds checker
 odds of affect
 odds-checker
@@ -35711,6 +35731,7 @@ pjure-breast
 pkv qq
 pkv-qq
 pkvqq
+pl?http
 pl/wiki
 place for naughty
 place-for-naughty
@@ -38740,6 +38761,8 @@ residential-lender
 residentiallender
 resist comment
 resist-comment
+resmi web
+resmi-web
 resources/styles
 respective app
 respective-app
@@ -39345,6 +39368,7 @@ rv supplies near
 rv supply near
 rv tech near
 rv technician near
+rv tires near
 rv toilet
 rv tv repair
 rv upgrade
@@ -39470,6 +39494,7 @@ rv-supplies-near
 rv-supply-near
 rv-tech-near
 rv-technician-near
+rv-tires-near
 rv-toilet
 rv-tv-repair
 rv-upgrade-near
@@ -43695,6 +43720,7 @@ tantriclondon
 tape a tale
 tapeworm.us
 tapicerowane
+taraftarium
 target blog
 target keyword
 target traff
