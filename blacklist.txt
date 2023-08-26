@@ -9975,6 +9975,7 @@ best jers
 best lawyer
 best leadership book
 best local data
+best local near
 best mcm
 best nautical decor
 best nautical home
@@ -10050,6 +10051,7 @@ best-jers
 best-lawyer
 best-leadership-book
 best-local-data
+best-local-near
 best-marketing
 best-mcm
 best-oral-surgeon
@@ -10135,6 +10137,7 @@ bestjers
 bestlaptop
 bestlawyer
 bestlocaldata
+bestlocalnear
 bestmcm
 bestpant
 bestpayment
@@ -12218,6 +12221,7 @@ buying guns
 buying insta
 buying likes
 buying married
+buying persons
 buying rune
 buying traff
 buying-a-car
@@ -12844,6 +12848,8 @@ canlı maçları
 cann also
 cann't
 cann’t
+cannabinoide
+cannabinoidi
 cannabis buy
 cannabis carry
 cannabis cart
@@ -21276,6 +21282,7 @@ foto upload
 foto-upload
 fotografowanie
 fotos-de-tatuagen
+fotos.ru
 foud on web
 found a great..
 found a great…
@@ -22106,6 +22113,15 @@ gangbang
 gangprofil
 ganhar dinheiro
 ganhar-dinheiro
+ganja 420
+ganja hash
+ganja vape
+ganja-420
+ganja-hash
+ganja-vape
+ganja420
+ganjahash
+ganjavape
 ganoolq
 gaogb
 gaoland
@@ -24153,6 +24169,9 @@ has cuisine
 has tto
 has was able
 has-cuisine
+hash 420
+hash-420
+hash420
 hashish carry
 hashish proceed
 hashish-carry
@@ -44250,14 +44269,17 @@ thc advert
 thc blog
 thc forum
 thc review
+thc vape
 thc-advert
 thc-blog
 thc-forum
 thc-review
+thc-vape
 thcadvert
 thcblog
 thcforum
 thcreview
+thcvape
 the a lot fewer
 the ad decid
 the amazingness
@@ -48087,6 +48109,7 @@ we produce furniture
 we supply expert
 we supply prime
 we vigorous
+we would this
 we-are-you
 we-vigorous
 wealth affiliate
