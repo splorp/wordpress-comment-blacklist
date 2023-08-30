@@ -1553,6 +1553,7 @@ _zapat
 ?deeplink=
 ?director=
 ?ducati
+?durl=
 ?extern=
 ?fendi
 ?firma
@@ -1624,6 +1625,7 @@ _zapat
 ?u-
 ?u=http
 ?url=domain
+?webaddress=
 ?ww=www
 ?youtube
 . ?i
@@ -2840,6 +2842,7 @@ _zapat
 //123.
 //aaa-
 //aaa.
+//admin.
 //bitcoin
 //buy
 //casino
@@ -5482,6 +5485,7 @@ _zapat
 &burl=
 &ckmrdr=
 &dest=
+&durl=
 &ftp:
 &fw=http
 &goto=
@@ -5525,6 +5529,7 @@ _zapat
 &url=
 &urls=
 &urm_np=
+&webaddress=
 &x6
 &x7
 #&amp;
@@ -10521,6 +10526,7 @@ biztekno
 biztout
 biżuteria
 bizwealth
+bjsnearme
 black bodycon
 black gay
 black lesb
@@ -12855,10 +12861,12 @@ cannabis carry
 cannabis cart
 cannabis grow
 cannabis gum
+cannabis light
 cannabis oil
 cannabis proceed
 cannabis same
 cannabis seed
+cannabis shop
 cannabis weed
 cannabis_
 cannabis-buy
@@ -12866,10 +12874,12 @@ cannabis-carry
 cannabis-cart
 cannabis-grow
 cannabis-gum
+cannabis-light
 cannabis-oil
 cannabis-proceed
 cannabis-same
 cannabis-seed
+cannabis-shop
 cannabis-weed
 cannabisbuy
 cannabiscart
@@ -17875,6 +17885,7 @@ dog-care-tips
 dog-proprietor
 dog-treat-dog
 dog-treats-dog
+dog.ru
 dog's dog day
 dog’s dog day
 doge coin
@@ -26217,7 +26228,9 @@ inspection stations near
 inspection-station-near
 inspection-stations-near
 inspirasi dekorasi
+inspirasi desain
 inspirasi-dekorasi
+inspirasi-desain
 inspired hand
 inspired-hand
 inspiredhand
@@ -30130,6 +30143,7 @@ marijuana etf
 marijuana fact
 marijuana lawyer
 marijuana sample
+marijuana shop
 marijuana strain
 marijuana-attorn
 marijuana-bene
@@ -30137,6 +30151,7 @@ marijuana-etf
 marijuana-fact
 marijuana-lawyer
 marijuana-sample
+marijuana-shop
 marijuana-strain
 marijuanabene
 marijuanafact
@@ -30468,6 +30483,7 @@ materia/lingua
 material stylish
 material-stylish
 material, regards
+materials material
 matiion
 matka gambl
 matka online
@@ -33154,6 +33170,8 @@ nossos orgaos
 nossos órgãos
 nossos-comprador
 nossos-orgaos
+nostro marijuana
+nostro-marijuana
 not fake
 not suure
 not-dienst
@@ -33317,6 +33335,8 @@ number-service
 numerous numer
 numerous-numer
 numerousnumer
+nunta profesionista
+nunta-profesionista
 nuovo hogan
 nuovo-hogan
 nuovohogan
@@ -37210,6 +37230,7 @@ profit review
 profit-bot
 profit-engine
 profit-fast
+profit-machine
 profit-margin
 profit-masterclass
 profit-pro
@@ -37223,6 +37244,7 @@ profitengine
 profitez d'un site web
 profitez d’un site web
 profitfast
+profitmachine
 profitpro
 profitreview
 profits review
@@ -37345,6 +37367,8 @@ promotionstore
 promozioni
 proofing solar panel
 proofing-solar-panel
+propaganda-today
+propagandatoday
 propecia
 propeer
 proper blog
@@ -37847,7 +37871,9 @@ rankedvpn
 rankincrease
 ranking:
 rapid-pay
+rapid-profit
 rapidpay
+rapidprofit
 rarely directly
 rarely-directly
 rasalinga
@@ -50863,6 +50889,7 @@ zyvox
 жизненые проблем
 жк центральны
 за таблетку
+забавная информация
 заболевани
 загородный дом
 зайти на официальную
@@ -51002,6 +51029,7 @@ zyvox
 мікро займ
 мікрозайм
 млм
+мне понравилось!
 многое другое
 многолетним опытом
 мобильное прилож
