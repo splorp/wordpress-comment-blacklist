@@ -1610,6 +1610,8 @@ _zapat
 ?ref=
 ?referer=
 ?referers=
+?return=http
+?return=www
 ?scarpe
 ?seo
 ?sexy
@@ -1878,6 +1880,8 @@ _zapat
 .buying-a-house-
 .buying-a-house.
 .buying-a-house/
+.c?http
+.c?www
 .canadagoose-
 .canariblog.
 .canariblogs.
@@ -5523,6 +5527,8 @@ _zapat
 &ref=
 &refer=
 &referer=
+&return=http
+&return=www
 &send=
 &su=http
 &t=http
@@ -21840,6 +21846,7 @@ func.ctr
 func.htm
 func.jsp
 func.php
+functional word in
 fund market
 fund trend
 fund-market
@@ -22987,6 +22994,7 @@ good guy channel
 good guys channel
 good hemp
 good homepage
+good jon admin
 good jon bro
 good jon mate
 good page
@@ -23364,6 +23372,8 @@ granny porn
 granny-porn
 grannyporn
 granrateio
+graphics replacement near
+graphics-replacement-near
 grasp your feed
 grasp your rss
 grateest
@@ -24729,6 +24739,7 @@ hi. this page
 hi. this post
 hi. this web
 hi.this
+hidden-keyword
 hidra club
 hidra onion
 hidra rus
@@ -25049,6 +25060,7 @@ home furniture near
 home interior remodel
 home leak repair
 home mechanic near
+home mechanics near
 home online
 home repair near
 home repair store
@@ -25081,6 +25093,7 @@ home-interior-remodel
 home-leak-repair
 home-loan
 home-mechanic-near
+home-mechanics-near
 home-online
 home-remed
 home-repair-near
@@ -34203,6 +34216,7 @@ option-bot
 option-broker
 option-include-medi
 option-robot
+optionally out there
 optionbot
 optionbroker
 optionrobot
@@ -34327,6 +34341,7 @@ out seems to be
 out soime
 out the ideas
 out the journey
+out there software
 out this ideas
 out throughout
 out-assim
@@ -38374,6 +38389,8 @@ reforme-ta-sante
 reformetasante
 réformetasanté
 refrain from commenting
+refrigeration repair near
+refrigeration-repair-near
 regaard
 regarding blog
 regarding thiss
@@ -45985,6 +46002,7 @@ tumitumi
 tummy tuck
 tummy-tuck
 tummytuck
+tunis/www
 tunnel-prox
 tunnelprox
 tuong dau
@@ -48896,6 +48914,7 @@ wholesalejord
 wholesaleled
 wholesalemac
 wholesalenba
+wholesalenearme
 wholesalenorth
 wholesalepolo
 wholesaler sale
@@ -51356,6 +51375,7 @@ zyvox
 страпон
 стратегия продвиж
 страшный диагноз
+строительство домов
 супер
 схема лечения
 схемы
