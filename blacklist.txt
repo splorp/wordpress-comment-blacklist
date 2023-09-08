@@ -42,6 +42,7 @@ _clitor
 _crack
 _credit
 _crypto
+_deeplink
 _drmarten
 _dunhill
 _e/
@@ -1527,6 +1528,7 @@ _zapat
 ? relevant!
 ? thanks !
 ? thanks!
+?_du=http
 ?,!
 ?,?
 ?,i
@@ -1549,6 +1551,7 @@ _zapat
 ?birkin
 ?bvlgari
 ?celine
+?channel=http
 ?click=
 ?clicks=
 ?coach
@@ -1558,6 +1561,7 @@ _zapat
 ?durl=
 ?extern=
 ?fendi
+?filepath=http
 ?firma
 ?forex
 ?free
@@ -1592,6 +1596,7 @@ _zapat
 ?p=404
 ?pandora
 ?param=http
+?pnm=http
 ?popup
 ?prada
 ?q=http
@@ -1614,6 +1619,7 @@ _zapat
 ?return_data=http
 ?return=http
 ?return=www
+?ru=http
 ?scarpe
 ?seo
 ?sexy
@@ -5482,6 +5488,7 @@ _zapat
 \u003e\u003e
 \xa9
 \xc3
+&_du=http
 &~
 &a=http
 &aff=
@@ -5493,9 +5500,11 @@ _zapat
 &b_u
 &back=http
 &burl=
+&channel=http
 &ckmrdr=
 &dest=
 &durl=
+&filepath=http
 &ftp:
 &fw=http
 &goto=
@@ -5521,6 +5530,7 @@ _zapat
 &outlink=
 &page=
 &param=http
+&pnm=http
 &pv_url=
 &q=http
 &r=http
@@ -5533,6 +5543,7 @@ _zapat
 &return_data=http
 &return=http
 &return=www
+&ru=http
 &send=
 &su=http
 &t=http
@@ -7875,6 +7886,7 @@ amazing is a unique
 amazing is an
 amazing is the
 amazing issues here
+amazing life changing
 amazing paragraph
 amazing post
 amazing sell
@@ -11191,6 +11203,8 @@ bookies site
 bookies-site
 bookiesite
 bookiessite
+booking expert
+booking-expert
 bookkmark
 bookmaker book
 bookmaker, book
@@ -11976,6 +11990,8 @@ business formation
 business know
 business mindset
 business online world
+business seminar near
+business seminars near
 business seo
 business setup
 business showbiz
@@ -11997,6 +12013,8 @@ business-intel
 business-know
 business-loan
 business-mindset
+business-seminar-near
+business-seminars-near
 business-seo
 business-setup
 business-showbiz
@@ -12045,6 +12063,7 @@ buy ageless
 buy albenda
 buy albenza
 buy avana
+buy backlink
 buy bactrim
 buy black magic
 buy blade
@@ -12131,6 +12150,7 @@ buy-acrylic
 buy-albenda
 buy-albenza
 buy-avana
+buy-backlink
 buy-bactrim
 buy-black-magic
 buy-blade
@@ -14239,6 +14259,7 @@ cher moncler
 cher prada
 cher-moncler
 cher-prada
+cherck out
 chermoncler
 cherprada
 chettelongchamp
@@ -16819,6 +16840,7 @@ d.the
 ð½
 ð¾
 da man!
+daaily
 dabloggs
 daddy site
 daddy sitte
@@ -17130,6 +17152,7 @@ deep inhale
 deep_link
 deep-inhale
 deep-link
+deeplink_
 deepnude
 defammatory post
 defammatory-post
@@ -17355,6 +17378,7 @@ descuentos-para
 desenvolvimento pessoal
 desenvolvimento-pessoal
 design cheap
+design coach near
 design companies near
 design company near
 design firm near
@@ -17370,6 +17394,7 @@ design own
 design product design
 design traditional house
 design-cheap
+design-coach-near
 design-companies-near
 design-company-near
 design-cover-letter
@@ -18554,6 +18579,7 @@ economize you
 economize-you
 economizing you
 economizing-you
+ecredir
 ed tth
 ed-in-men
 ed.this
@@ -18592,6 +18618,7 @@ effexor
 efficiency customer
 efficiency device
 efficiency is a breeze
+efficiency soar
 efficiency to relationship
 efficiency tool
 efficiency-customer
@@ -20475,8 +20502,14 @@ femmescanadagoose
 femmesimitat
 femmestyle
 fence produce
+fence recycling near
 fence-produce
+fence-recycling-near
+fencing companies near
+fencing company near
 fencing produce
+fencing-companies-near
+fencing-company-near
 fencing-produce
 fendi belt
 fendi donna
@@ -21222,14 +21255,6 @@ forhandlere
 forinteract
 forjp.co
 fork?http
-forklift dealer orange
-forklift rental near
-forklift rentals near
-forklift repair orange
-forklift-dealer-orange
-forklift-rental-near
-forklift-rentals-near
-forklift-repair-orange
 forlanga penis
 förlänga penis
 forlanga-penis
@@ -21987,6 +22012,7 @@ gagamilan
 gagauk
 gagner
 gagprincess
+gain from the most
 gain important assist
 gain to your business
 gain v buck
@@ -22831,6 +22857,7 @@ gmoolah
 gneuienly
 gnlaser
 go here banner
+go here to view
 go viral,
 go viral!
 go viral?
@@ -23812,6 +23839,7 @@ guerregratuit
 guest article
 guest authoring
 guest goo
+guest post
 guest test
 guest-article
 guest-authoring
@@ -24148,6 +24176,7 @@ hangingwithfriend
 haohao
 happening i am
 happens you are deal
+happiness, productivity
 happy and ready
 happy birthday gift
 happy birthday image
@@ -26826,6 +26855,7 @@ it.cert
 it''s
 it's amazing article
 it's amazing page
+it's eally
 it's enormous piece
 it's good article
 it's good blog
@@ -28774,6 +28804,18 @@ lifestyle vid
 lifestyle-profic
 lifestyle-vid
 lifestylevid
+lift companies near
+lift company near
+lift dealer orange
+lift rental near
+lift rentals near
+lift repair orange
+lift-companies-near
+lift-company-near
+lift-dealer-orange
+lift-rental-near
+lift-rentals-near
+lift-repair-orange
 ligacao
 ligação
 light glasses near
@@ -42886,6 +42928,7 @@ still am, thank
 stimulacion sex
 stimulacion-sex
 stimulacionsex
+stimulated you just
 stimulation sex
 stimulation-sex
 stimulationsex
@@ -43828,12 +43871,14 @@ taniä wypozy
 tania-wynajem
 tania-wypozy
 tank cleaner near
+tank cleaners near
 tank cleaning near
 tank installation near
 tank pumping near
 tank repair near
 tank replacement near
 tank-cleaner-near
+tank-cleaners-near
 tank-cleaning-near
 tank-installation-near
 tank-pumping-near
@@ -44427,6 +44472,7 @@ the mobiles is
 the notify
 the online user
 the other blog
+the particular younger
 the pokie
 the pople
 the precise very
@@ -45356,6 +45402,7 @@ top quality of service
 top rateio
 top samara
 top sight
+top site
 top stop
 top ten practical
 top ten strateg
@@ -45824,6 +45871,8 @@ transit-van-conver
 translation christ
 translation-christ
 tranzizzle
+trap cleaning near
+trap-cleaning-near
 trashma1l
 trashmai1
 tratamente corpor
@@ -48273,6 +48322,7 @@ web people
 web pharm
 web porn
 web postegro
+web ppage
 web promo
 web property
 web scheme
@@ -49444,7 +49494,9 @@ workable symptom
 workdoer
 workflows.integration
 working, great job
+workout watch
 workout-sale
+workout-watch
 workoutsale
 workplace is optim
 workreview
@@ -50831,6 +50883,7 @@ zyvox
 больных королев
 бот термин
 брелки
+брусовых домов
 букмекер
 бутик отел
 быстро!
