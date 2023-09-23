@@ -1577,6 +1577,7 @@ _zapat
 ?inurl=
 ?iu=http
 ?jumplink=
+?l=http
 ?l1=http
 ?link=
 ?lnk=
@@ -1814,6 +1815,7 @@ _zapat
 .bloggsactivo.
 .blogidea.
 .blogideas.
+.bloginder.
 .bloginwi.
 .blogkoo.
 .bloglovin.
@@ -5516,6 +5518,7 @@ _zapat
 &id=http
 &inurl=
 &iu=http
+&l=http
 &l1=http
 &link=
 &lnk=
@@ -9984,6 +9987,7 @@ besstet
 best 10 handy
 best affordable
 best anal
+best app developer
 best article about
 best attorn
 best betting canada
@@ -10835,8 +10839,10 @@ blog.thank
 blog.wiki
 blog's article
 blog's post
+blog's steadfast
 blog’s article
 blog’s post
+blog’s steadfast
 blog}
 blog/blog
 blog/comment
@@ -10890,6 +10896,7 @@ blogging and site
 blogging glance
 blogging look
 blogging myself
+blogging neighbor
 blogging service
 blogging user
 blogging viewer
@@ -10934,6 +10941,7 @@ blogs online
 blogs post
 blogs service
 blogs son para
+blogs steadfast
 blogs to read
 blogs various
 blogs-article
@@ -13344,6 +13352,7 @@ ccv-shop
 ccvshop
 ｃe
 ce billet
+ce site web
 ce-billet
 cecha talentu
 cechą talentu
@@ -17458,6 +17467,7 @@ desserts-factory
 dessertsfactory
 desses predizem
 desses-predizem
+dest=http
 destenex
 destinex
 destiny power
@@ -19889,6 +19899,8 @@ face-terra
 face-vest
 face-women
 facebok
+facebook a partage
+facebook a partagé
 facebook ad
 facebook cash
 facebook fan
@@ -20131,6 +20143,9 @@ farmacia
 farming-secret
 farmingforfish
 farmingsecret
+fart fantasy
+fart-fantasy
+fartfantasy
 farther high
 farther-high
 fas.h.i.o.n
@@ -26443,6 +26458,7 @@ instead-of-watch
 instruct car
 instruct-car
 instructcar
+instructional structure
 instructor car
 instructor-car
 instructorcar
@@ -26769,6 +26785,7 @@ ira kit
 ira-kit
 irakit
 irc-chat
+irrefutable instruction
 irresistible blog
 irresistible page
 irresistible site
@@ -35142,6 +35159,7 @@ particular-wearer
 particularly great article
 particularly great content
 particularly great paragraph
+particularly unlocked
 partidos online
 partidos-online
 partner cookie
@@ -51234,6 +51252,7 @@ zyvox
 мужские пальто
 мультимедийного проектор
 мышечной масс
+на любую тему
 найти человека
 накрутка подписчик
 направления роста
@@ -51467,6 +51486,7 @@ zyvox
 селитра
 сети работ
 симпатичная
+симпатичное сообщение
 симптом
 синяк макияжем
 сироп мангустина
@@ -51876,6 +51896,7 @@ zyvox
 مقالات انگلیسی
 مقاله و بلاگ
 منوعات حبيبة
+مهاجرت به کانادا
 موقع سؤال
 موقع سنارة
 موقع سناره
