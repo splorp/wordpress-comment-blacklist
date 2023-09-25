@@ -1484,6 +1484,7 @@ _zapat
 ;; http
 ;&#x
 ;redirect
+;url=
 : (.
 :: blog
 :: web
@@ -7045,6 +7046,7 @@ across of this article
 across thiss
 across-thiss
 act as versatile
+action=click
 actioncall
 actions you desire
 activation code
@@ -8869,6 +8871,8 @@ attorney seo
 attorney-seo
 attraction market
 attraction-market
+attraction-to-men
+attraction-to-women
 attractive blog
 attractive post
 attractive sex
@@ -9486,6 +9490,7 @@ bangkok-cosplay
 bangkokcosplay
 banjack
 bank credit
+bank refer
 bank-credit
 bank-refer
 bank24
@@ -12021,6 +12026,8 @@ business-catalyst
 business-coach
 business-collect
 business-daily
+business-directories
+business-directory
 business-empire
 business-first
 business-formation
@@ -12037,6 +12044,7 @@ business-showbiz
 business-to-goog
 business-train
 business-website
+business-with-ease
 business, showbiz
 business’ status
 business’s status
@@ -20837,6 +20845,7 @@ find-sex
 find-the-answer
 find-top-scripts
 find-well-informed
+find-your-ideal
 findarticle
 finder-business
 findgoodlock
@@ -32022,6 +32031,7 @@ mortgagecalc
 most affordable
 most competitively
 most high-need
+most sexual pose
 most useful blog
 most useful post
 most useful site
@@ -47972,6 +47982,7 @@ visitors to web
 visitors/day
 vissit
 visxit
+vitaimin
 vital infos
 vitalikor
 vitambi
@@ -49261,6 +49272,7 @@ with you my business
 with your blog
 with your web
 with-adword
+with-big-ass
 with-body-weight
 with-declare
 with-my-blog
