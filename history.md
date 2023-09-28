@@ -4,6 +4,7 @@ A chronological list of changes, bug fixes, and other milestones
 
 ## History
 
++ 20230928 — Fixed bug that affected phrases containing the terms “[nufactur](https://github.com/splorp/wordpress-comment-blacklist/commit/ab010aea0873cfef78bcde1f38875fa19df2e1b9)” and “[meridia](https://github.com/splorp/wordpress-comment-blacklist/commit/ab010aea0873cfef78bcde1f38875fa19df2e1b9)”, such as “manufacture” and “meridian”
 + 20230818 — 52,000 entries
 + 20230812 — Fixed bug relating to [a handful of false positives](https://github.com/splorp/wordpress-comment-blacklist/commit/883df6922a3b5e42ae45bf8d207b454a632208d3)
 + 20230415 — 51,000 entries
@@ -21,10 +22,10 @@ A chronological list of changes, bug fixes, and other milestones
 + 20210705 — Removed [several terms containing number signs](https://github.com/splorp/wordpress-comment-blacklist/commit/bcc822b246ae549e4833fd20bd2685adccff6a80) to  better handle valid anchor references
 + 20210512 — 43,000 entries
 + 20210319 — Pluginkollektiv renames the Blacklist Updater plugin to [Block List Updater](https://wordpress.org/plugins/blacklist-updater/)
-+ 20210107 — Fixed bug that affected comments containing the term “[cialis](https://github.com/splorp/wordpress-comment-blacklist/commit/ab010aea0873cfef78bcde1f38875fa19df2e1b9)”, such as “specialist”
++ 20210107 — Fixed bug that affected phrases containing the term “[cialis](https://github.com/splorp/wordpress-comment-blacklist/commit/ab010aea0873cfef78bcde1f38875fa19df2e1b9)”, such as “specialist”
 + 20210106 — 42,000 entries
 + 20201203 — Removed [several terms containing “online”](https://github.com/splorp/wordpress-comment-blacklist/commit/79f49938ded79e8b90d37cd90d21c9e0962e76c1) to better handle valid email domains
-+ 20200905 — Fixed bug that affected comments containing the common character pair “[oy](https://github.com/splorp/wordpress-comment-blacklist/commit/a2357f30a8c04cf327f0cda6d823d5dad41add89)”
++ 20200905 — Fixed bug that affected phrases containing the common character pair “[oy](https://github.com/splorp/wordpress-comment-blacklist/commit/a2357f30a8c04cf327f0cda6d823d5dad41add89)”
 + 20200626 — 41,000 entries
 + 20200424 — Removed [generic terms containing equal signs](https://github.com/splorp/wordpress-comment-blacklist/commit/b83d8e432e550ccff4c41e1af816a3f5f6673d1d) to better handle valid search strings
 + 20200406 — 40,000 entries
