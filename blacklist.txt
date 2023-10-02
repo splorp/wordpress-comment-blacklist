@@ -12966,6 +12966,7 @@ cap website
 cập website
 capabilities also
 capabilities-also
+capable be read
 capable of effortless
 capable of provide
 capable to provide
@@ -17982,10 +17983,12 @@ dog’s dog day
 doge coin
 doge-coin
 dogecoin
+dogforsale
 doggy dan
 doggy-dan
 doggydan
 dogpic.club
+dogsforsale
 dogtreatdog
 dogtreatsdog
 doing anything mistake
@@ -33271,6 +33274,7 @@ no means understand
 no remov
 no rule done
 no small half
+no such nearby
 no way smoke
 no-cache
 no-collateral
@@ -36349,6 +36353,8 @@ polsce pdf
 polsce-pdf
 polskie kasyno
 polskie-kasyno
+pomosh-jurista
+pomoshjurista
 pomyslow prezent
 pomysłow prezent
 pomyslow-prezent
@@ -37727,7 +37733,9 @@ pup camper near
 pup-camper-near
 pupil loan
 pupil-loan
+puppiesforsale
 puppy hating dan
+puppyforsale
 purchase facebook
 purchase generic
 purchase guilt
@@ -50943,6 +50951,7 @@ zyvox
 аренда пенна
 аренда пенно
 аренда свето
+аренда юр адрес
 аренда яхты
 аренды авто
 базу данны
@@ -51604,6 +51613,7 @@ zyvox
 хай
 хорошая идея
 хорошая мысль
+хорошего понемногу
 хорошего хирурга
 хочется уз
 худеть
