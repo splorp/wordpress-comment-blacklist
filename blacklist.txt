@@ -2704,6 +2704,7 @@ _zapat
 .vulpyx-
 .vulpyx.
 .vulpyx/
+.wantedly.
 .web.telrock.
 .web1.
 .web2.
@@ -7261,6 +7262,7 @@ ads ad
 ads by goog
 ads crack
 ads live
+ads novelties
 ads_flag
 ads_list
 ads_live
@@ -13187,6 +13189,7 @@ casino hack
 casino ios
 casino list
 casino malay
+casino official
 casino online
 casino only
 casino partic
@@ -13214,6 +13217,7 @@ casino-ios
 casino-line
 casino-list
 casino-malay
+casino-official
 casino-online
 casino-only
 casino-partic
@@ -13239,6 +13243,7 @@ casinogame
 casinohack
 casinoline
 casinolist
+casinoofficial
 casinoonline
 casinoonly
 casinophish
@@ -35206,9 +35211,11 @@ partnership-to-success
 partnershiptosuccess
 partnerskaya program
 partnerskaya-program
+parts bmw
 parts store near
 parts stores near
 parts superstore near
+parts-bmw
 parts-store-near
 parts-stores-near
 parts-superstore-near
@@ -42624,6 +42631,7 @@ soulmate-sketch
 soulmatesketch
 sound like you know
 source blossom
+source of ads
 source of incomes
 source-blossom
 source-of-incomes
@@ -42668,6 +42676,9 @@ spammy seek
 spammy-seek
 spamphone
 spamrespon
+spark casino
+spark-casino
+sparkcasino
 sparkle ugg
 sparkle-ugg
 sparkleugg
@@ -51004,6 +51015,7 @@ zyvox
 бесплатная демо
 бесплатная диаг
 бесплатно
+бет вход
 бетор фирма
 беторфирма
 бинарных опцион
@@ -51505,6 +51517,7 @@ zyvox
 рє
 рњ
 рокс казино
+российскими разработчик
 руб вста
 руб гарп
 руб коль
