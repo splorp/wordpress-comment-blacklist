@@ -3637,6 +3637,7 @@ _zapat
 /customercare.
 /cutt.ly
 /cutt.us
+/dad.do
 /danh-muc/
 /dat/
 /data/
