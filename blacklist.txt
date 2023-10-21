@@ -5569,6 +5569,7 @@ _zapat
 &x6
 &x7
 #&amp;
+% dos site
 % guns
 % güns
 % off.!
@@ -17009,6 +17010,9 @@ data-nonetheless
 data-togel
 data-tools
 database of leads
+datadores automatic
+datadores automátic
+datadores-automatic
 datafastprox
 dataput.ru
 datarecoveryhospital
@@ -18743,6 +18747,11 @@ ekstensywne-pracochlonne
 eksterior victoria
 eksterior-victoria
 el-gordo.c
+elaborassem conteudo
+elaborassem conteúdo
+elaborassem um conteudo
+elaborassem um conteúdo
+elaborassem-conteudo
 elamale
 elavil
 elect do exercise
@@ -44379,6 +44388,7 @@ ten-useful-free
 ten-useful-strateg
 ten-useful-technique
 ten-useful-way
+tendo uma internet
 tengo una web
 tennisstream
 tenormin
@@ -52154,6 +52164,8 @@ zyvox
 보너스
 보험
 블랙잭
+비트 코인
+비트코인
 성인사이트
 성인용품
 성인웹
@@ -52170,6 +52182,8 @@ zyvox
 유흥업소
 이트 순위
 인터넷카지노
+자금 세탁
+자금세탁
 장기렌트
 저금리
 정보를 무료로
