@@ -1599,6 +1599,7 @@ _zapat
 ?p=404
 ?pandora
 ?param=http
+?path=http
 ?pnm=http
 ?popup
 ?prada
@@ -2507,6 +2508,7 @@ _zapat
 .ru/catalog
 .ru/content
 .ru/forum
+.ru/go/
 .ru/image
 .ru/index
 .ru/karta
@@ -3933,6 +3935,7 @@ _zapat
 /go.php?
 /go.pl?
 /go/?
+/go/url=
 /goframe?
 /goframe.ashx?
 /goframe.asp?
@@ -5530,6 +5533,7 @@ _zapat
 &outlink=
 &page=
 &param=http
+&path=http
 &pnm=http
 &pv_url=
 &q=http
@@ -6289,6 +6293,7 @@ $sixty
 20mgcheap
 20折
 20歳
+22http
 22ru.
 24 online
 24-7-sport
@@ -27511,6 +27516,7 @@ jimmychoo
 jjajjaj
 jjl
 job !!
+job description resume
 job mom
 job on the article
 job on the blog
@@ -43009,6 +43015,7 @@ spilivanie derev'yev
 spilivanie derev’yev
 spilivanie derevyev
 spilivanie-derevyev
+spinapp.bar
 spip.asp
 spip.cfm
 spip.ctr
@@ -46644,6 +46651,9 @@ u.@
 ùˆ
 u4nba
 ua-eqt-sup
+uabat nike
+uabat-nike
+uabatnike
 uae escort
 uae eskort
 uae shop
@@ -48735,6 +48745,7 @@ web based market
 web blog possess
 web blog;
 web blog:
+web content that is
 web contract:
 web ddress
 web de sexo
@@ -50199,12 +50210,14 @@ wwhen
 wwith
 www cennik
 www directory
+www instagram
 www link
 www medicine
 www sex
 www_
 www-cennik
 www-directory
+www-instagram
 www-link
 www-medicine
 www-sex
@@ -50280,6 +50293,7 @@ www.ya.lt
 www.ysl
 www.zapata
 www.zapato
+wwwinstagram
 wwwpctool
 wwwsentro
 wwwseo
