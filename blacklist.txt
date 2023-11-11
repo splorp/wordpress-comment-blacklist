@@ -1620,6 +1620,9 @@ _zapat
 ?ref=
 ?referer=
 ?referers=
+?referrer=
+?referresr=
+?reff=
 ?return_data=http
 ?return=http
 ?return=www
@@ -2034,6 +2037,8 @@ _zapat
 .eskorts-
 .eskorts.
 .eskorts/
+.exblog.
+.exblogs.
 .executive-
 .fake-
 .femdom-
@@ -2509,6 +2514,7 @@ _zapat
 .ru/content
 .ru/forum
 .ru/go/
+.ru/goto/
 .ru/image
 .ru/index
 .ru/karta
@@ -2898,6 +2904,7 @@ _zapat
 //test
 //webpage
 //wp-
+//xn--
 /~0
 /~1
 /~2
@@ -4945,6 +4952,8 @@ _zapat
 /ref=sr_
 /referer?
 /referers?
+/referrer?
+/referrers?
 /refreshers.
 /rejuvenate-
 /rejuvenate.
@@ -5060,6 +5069,7 @@ _zapat
 /sigareta.
 /sigarety-
 /sigarety.
+/sign-out?
 /signbook-
 /signbook.
 /signbook/
@@ -5544,6 +5554,7 @@ _zapat
 &ref=
 &refer=
 &referer=
+&reff=
 &return_data=http
 &return=http
 &return=www
@@ -5753,6 +5764,7 @@ _zapat
 +woolr
 ±o
 <a>
+=bomb?
 =links
 =logout
 >.}
@@ -6303,6 +6315,7 @@ $sixty
 24.online
 24.ru
 24.su
+24.top
 24h.blog
 24h/24
 24home
@@ -6985,6 +6998,8 @@ account-your-blog
 account-your-page
 account-your-site
 account-your-web
+accountability coach
+accountability-coach
 accounts premium
 accounts receiv
 accounts-premium
@@ -9684,6 +9699,8 @@ battlegrounds-pc
 bauchstraffung
 bauturi alcool
 bauturi-alcool
+bay rental near
+bay-rental-near
 bayan escort
 bayan eskort
 bayan izmir
@@ -12038,6 +12055,7 @@ business formation
 business know
 business mindset
 business online world
+business prompts
 business seminar near
 business seminars near
 business seo
@@ -12063,6 +12081,7 @@ business-intel
 business-know
 business-loan
 business-mindset
+business-prompts
 business-seminar-near
 business-seminars-near
 business-seo
@@ -12896,10 +12915,14 @@ can''t
 can’’t
 can”t
 can`t
+canada doctor medic
+canada dr medic
 canada drug
 canada hgh
 canada loan
 canada pharm
+canada-doctor-medic
+canada-dr-medic
 canada-drug
 canada-hgh
 canada-loan
@@ -14971,6 +14994,7 @@ coach out
 coach promo
 coach purse
 coach rouge
+coach service
 coach shoe
 coach sneaker
 coach store
@@ -15006,6 +15030,7 @@ coach-out
 coach-promo
 coach-purse
 coach-rouge
+coach-service
 coach-shoe
 coach-sneaker
 coach-store
@@ -15418,11 +15443,13 @@ commentspeak
 commentsyou
 commentyou
 commerce money
+commerce prompts
 commerce retail
 commerce sale
 commerce seller tool
 commerce whole
 commerce-money
+commerce-prompts
 commerce-retail
 commerce-sale
 commerce-whole
@@ -15785,6 +15812,8 @@ copycat1
 copyscape
 copyscrape
 copywizard
+copywriting prompts
+copywriting-prompts
 cordarone
 core fuck
 core sex
@@ -16096,11 +16125,17 @@ creation service
 creation will run
 creation-service
 credentialing by
+credentialing compan
 credentialing expert
 credentialing in
+credentialing solution
+credentialing special
 credentialing-by
+credentialing-compan
 credentialing-expert
 credentialing-in
+credentialing-solution
+credentialing-special
 credit direct
 credit loan
 credit repair
@@ -17564,6 +17599,7 @@ destiny power
 destiny-power
 destinypower
 desyrel
+detail on the portal
 detail though
 detail you have remark
 detail you remark
@@ -22530,7 +22566,9 @@ generatinggroup
 generatingmoney
 generatingprofit
 generation algorithm
+generation prompts
 generation-algorithm
+generation-prompts
 generator repair near
 generator-repair-near
 generatorpro
@@ -23530,8 +23568,14 @@ goyardonline
 gps-treker
 gpswificlock
 gpt blast
+gpt market
+gpt new
+gpt prompts
 gpt website
 gpt-blast
+gpt-market
+gpt-new
+gpt-prompts
 gpt-website
 gptblast
 gptwebsite
@@ -23916,6 +23960,8 @@ guardianhack
 guardians hack
 guardians-hack
 guardianshack
+guards make near
+guards-make-near
 gubdaily
 gucchi
 gucci bag
@@ -24540,9 +24586,11 @@ headshop
 healed in one vacation
 healing article
 healing blog
+healing coach
 healing post
 healing-article
 healing-blog
+healing-coach
 healing-post
 healingindu
 health advis
@@ -25280,6 +25328,7 @@ home exterior remodel
 home fiberglass repair
 home for hire
 home furniture near
+home garage car
 home interior remodel
 home leak repair
 home mechanic near
@@ -25312,6 +25361,7 @@ home-exterior-remodel
 home-fiberglass-repair
 home-for-hire
 home-furniture-near
+home-garage-car
 home-interior-remodel
 home-leak-repair
 home-loan
@@ -26271,6 +26321,8 @@ inflatable-castle-rent
 inflatable-house-rent
 inflatablecastlerent
 inflatablehouserent
+influencer marketing
+influencer-marketing
 influenza pic
 info ,
 info !
@@ -28475,6 +28527,8 @@ lacoste out
 lacoste_
 lacoste-out
 lacosteout
+lactulose sirup
+lactulose-sirup
 lad fetish
 lad-fetish
 ladda ner
@@ -29016,6 +29070,7 @@ life sex
 life teaching
 life-altering guide
 life-altering-guide
+life-coaching-for
 life-sex
 life-teaching
 life.acne
@@ -29033,6 +29088,7 @@ lifestyle vid
 lifestyle-profic
 lifestyle-vid
 lifestylevid
+lift bay near
 lift companies near
 lift company near
 lift dealer near
@@ -29044,6 +29100,7 @@ lift maintenance near
 lift rental near
 lift rentals near
 lift repair orange
+lift-bay-near
 lift-companies-near
 lift-company-near
 lift-dealer-near
@@ -30542,6 +30599,7 @@ marketexchang
 marketing agency
 marketing blog
 marketing book
+marketing coach
 marketing companies near
 marketing company near
 marketing consultant near
@@ -30562,6 +30620,7 @@ marketing monst
 marketing online
 marketing platform
 marketing prof
+marketing prompts
 marketing samu
 marketing search
 marketing service
@@ -30582,6 +30641,7 @@ marketing-and-advert
 marketing-approach
 marketing-blog
 marketing-book
+marketing-coach
 marketing-companies-near
 marketing-company-near
 marketing-consultant-near
@@ -30602,6 +30662,7 @@ marketing-monst
 marketing-online
 marketing-platform
 marketing-prof
+marketing-prompts
 marketing-samu
 marketing-search
 marketing-service
@@ -31088,9 +31149,11 @@ mediamarket
 mediapalitra
 medias sociaux
 medias-sociaux
+medical credentialing
 medical dentist near
 medical dentists near
 medical marijuana
+medical-credentialing
 medical-dentist-near
 medical-dentists-near
 medical-marijuana
@@ -33937,6 +34000,7 @@ oem culture
 oem indesign
 oem-software
 oemsoftware
+oepili
 oesale
 of a average
 of activity life
@@ -34842,6 +34906,7 @@ outsourcingcomp
 outstanding argument
 outstanding article
 outstanding blog
+outstanding friend!
 outstanding page
 outstanding post
 outstanding product benefit
@@ -36352,6 +36417,8 @@ podarochnoy korobk
 podarochnoy-korobk
 podatki jak
 podatki-jak
+podcast booking
+podcast-booking
 pohudenie
 point ,
 point !
@@ -50948,6 +51015,7 @@ youtube monetiz
 youtube money
 youtube mp3
 youtube mp4
+youtube prompts
 youtube sens
 youtube snap
 youtube takip
@@ -50960,6 +51028,7 @@ youtube-monetiz
 youtube-money
 youtube-mp3
 youtube-mp4
+youtube-prompts
 youtube-sens
 youtube-snap
 youtube-takip
