@@ -5476,8 +5476,9 @@ _в_москве
 /xurl.es/
 /xxs.yt/
 /xy2.eu/
-/yaplink.co/
-/ylink.pro/
+/yaplink
+/ylink
+/yotube
 /you-win-
 /you-win.
 /you-win/
@@ -8853,8 +8854,10 @@ asutralia
 aswenr
 at my blog
 at my page
+at my web
 at this blog
 at this page
+at this site
 at this web
 at tth
 at web,
@@ -14972,6 +14975,9 @@ clusivevaca
 clyel
 cms-temp
 cms-theme
+cnn slot
+cnn-slot
+cnnslot
 c№
 cnoesfs
 ｃo
@@ -17160,6 +17166,7 @@ dating kiss
 dating personal
 dating service
 dating site
+dating sphere
 dating white guy
 dating-advice
 dating-casual
@@ -17174,6 +17181,7 @@ dating-personal
 dating-service
 dating-sider
 dating-site
+dating-sphere
 dating.advice
 datingadvice
 datingcasual
@@ -17183,6 +17191,7 @@ datingkiss
 datingservice
 datingsider
 datingsite
+datingsphere
 dato de manera gratuit
 dau tot nhat
 đâu tốt nhất
