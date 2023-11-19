@@ -3,6 +3,7 @@ _, _.
 _. _,
 _. _.
 _abercrom
+_adclick
 _adidas
 _adsense
 _adserv
@@ -1559,6 +1560,7 @@ _в_москве
 ?click=
 ?clicks=
 ?coach
+?d=http
 ?deeplink=
 ?director=
 ?ducati
@@ -3098,22 +3100,13 @@ _в_москве
 /acompanhantes/
 /activity-
 /activity.
-/adclick?
-/adclick.
-/adclick/
+/adclick
 /add-on/
 /add-ons/
 /add.
-/addetail?
-/addetail.
-/addetail/
-/addetails?
-/addetails.
-/addetails/
+/addetail
 /addfeed/
-/addirect?
-/addirect.
-/addirect/
+/addirect
 /addon/
 /addons/
 /adf.ly/
@@ -3126,15 +3119,9 @@ _в_москве
 /adorable.
 /ads.
 /ads/
-/adsense-
-/adsense.
-/adsense/
-/adserv-
-/adserv.
-/adserv/
-/adsrv-
-/adsrv.
-/adsrv/
+/adsense
+/adserv
+/adsrv
 /adult.xyz/
 /advertising-of-
 /advertising-of.
@@ -5522,6 +5509,7 @@ _в_москве
 &burl=
 &channel=http
 &ckmrdr=
+&d=http
 &dest=
 &durl=
 &f=http
@@ -19659,6 +19647,7 @@ evackuator
 evelyne bag
 evelyne-bag
 evelynebag
+even fresh layout
 even more info!
 event entertain
 event-entertain
@@ -34773,6 +34762,7 @@ our editors article
 our editors blog
 our editors page
 our editors post
+our latest content
 our link
 our shapewear
 our time within you
@@ -46563,8 +46553,10 @@ trimoxazole tablet
 trimoxazole use
 trimoxazole-tablet
 trip planner near
+trip planners near
 trip planning near
 trip-planner-near
+trip-planners-near
 trip-planning-near
 triviatrivia
 trollapp
