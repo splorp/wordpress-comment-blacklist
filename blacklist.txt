@@ -8811,6 +8811,7 @@ associate-link
 associated-article
 associateded
 assortiment
+asspirate
 assporn
 asssmall
 assured storm
@@ -15971,18 +15972,22 @@ countertopt
 coupe faim
 coupe-faim
 couple gratuit
+couple massage
 couple sex
 couple watches
 couple-gratuit
+couple-massage
 couple-sex
 couple-watches
 couple's vibrator
 couple’s vibrator
 couplegratuit
 couples gratuit
+couples massage
 couples sex
 couples watches
 couples-gratuit
+couples-massage
 couples-sex
 couples-watches
 couplesex
@@ -16290,6 +16295,7 @@ crypto moneda
 crypto news
 crypto robot
 crypto script
+crypto sign
 crypto signal
 crypto stak
 crypto strat
@@ -16313,6 +16319,7 @@ crypto-moneda
 crypto-news
 crypto-robot
 crypto-script
+crypto-sign
 crypto-signal
 crypto-stak
 crypto-strat
@@ -16341,6 +16348,7 @@ cryptomoneda
 cryptonews
 cryptorobot
 cryptoscript
+cryptosign
 cryptostak
 cryptostrat
 cryptotab
@@ -26791,6 +26799,9 @@ insurancequote
 insurances
 intagra
 intdrnation
+integrative well
+integrative-well
+integrativewell
 intelligently about
 intelligently-about
 interact internet
@@ -30205,6 +30216,7 @@ lyrica.to
 lyrica4u
 lyricafor
 lyricaprice
+lʏ
 lⲟ
 lі
 lк
@@ -40806,6 +40818,8 @@ scraperfree
 screener seek
 script-buck
 scriptbuck
+scrutinizing the net
+scrutinizing the web
 sculpted resume
 sculpting bandage
 sculpting-bandage
@@ -40911,6 +40925,9 @@ security-guards-near
 security-ip-camera
 security-quantity
 security-solution
+sedap togel
+sedap-togel
+sedaptogel
 see this blog
 see this here
 see this site
@@ -48304,6 +48321,8 @@ video.htm
 video.jsp
 video.php
 video/vid
+video1.ru
+video2.ru
 videoadvert
 videobokep
 videobookmark
@@ -52094,6 +52113,7 @@ zyvox
 приветствую сайт
 привлекательный
 приема платежей
+прикольно
 прикольные поздрав
 приобрести
 причина пад
