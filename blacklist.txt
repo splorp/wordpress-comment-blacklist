@@ -10264,6 +10264,7 @@ besty promo
 besty-promo
 bestypromo
 bet 365
+bet sport
 bet-88
 bet-365
 bet-guru
@@ -10271,6 +10272,7 @@ bet-khong
 bet-link
 bet-list
 bet-script
+bet-sport
 bet-tips
 bet88
 bet365
@@ -10302,6 +10304,7 @@ bets10-giris
 bets10giris
 betscript
 betsgiris
+betsport
 better essay
 better handling driving
 better it is easy
@@ -10313,18 +10316,21 @@ betterservice
 betting article
 betting news
 betting on mlb
+betting on nba
+betting on nfl
+betting on nhl
 betting online
 betting platform
 betting script
 betting site
-betting website
+betting web
 betting-article
 betting-news
 betting-online
 betting-platform
 betting-script
 betting-site
-betting-website
+betting-web
 bettingscript
 bettor than
 between tth
@@ -12640,8 +12646,10 @@ camiseta nfl
 camiseta nhl
 camiseta personalizada
 camiseta_
+camiseta-mlb
 camiseta-nba
 camiseta-nfl
+camiseta-nhl
 camiseta-personalizada
 camisetas hollis
 camisetas mlb
@@ -51661,6 +51669,9 @@ zyvox
 бесплатная демо
 бесплатная диаг
 бесплатно
+бесплатные демо
+бесплатные диаг
+бесподобную фразу
 бет вход
 бетор фирма
 беторфирма
