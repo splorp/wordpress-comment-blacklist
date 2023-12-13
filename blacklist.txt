@@ -9342,6 +9342,7 @@ bactrim-generic
 bactrim-use
 bactrim4u
 bad credit
+bad house quick
 bad-credit
 badcredit
 baduki game
@@ -16554,6 +16555,7 @@ cursinho mestre
 cursinho paulo
 cursinho pdf
 cursinho pilot
+cursinho rateio
 cursinho relacion
 cursinho relación
 cursinho revolucion
@@ -16617,6 +16619,7 @@ cursinho-mecanica
 cursinho-paulo
 cursinho-pdf
 cursinho-pilot
+cursinho-rateio
 cursinho-relacion
 cursinho-revolucion
 cursinho-school
@@ -16660,6 +16663,7 @@ curso de medicin
 curso de mestre
 curso de pdf
 curso de pilot
+curso de rateio
 curso de relacion
 curso de relación
 curso de revolucion
@@ -16698,6 +16702,7 @@ curso mestre
 curso paulo
 curso pdf
 curso pilot
+curso rateio
 curso relacion
 curso relación
 curso revolucion
@@ -16738,6 +16743,7 @@ curso-de-marcenar
 curso-de-mecanica
 curso-de-pdf
 curso-de-pilot
+curso-de-rateio
 curso-de-relacion
 curso-de-revolucion
 curso-de-school
@@ -16768,6 +16774,7 @@ curso-mestre
 curso-paulo
 curso-pdf
 curso-pilot
+curso-rateio
 curso-relacion
 curso-revolucion
 curso-school
@@ -17935,6 +17942,9 @@ dinner soup
 dinner-soup
 diorkan
 dir an ->
+direcao concurso
+direção concurso
+direcao-concurso
 direct biz
 direct guideline;
 direct guideline:
@@ -18082,6 +18092,18 @@ dit me toc
 ditik sport
 ditik-sport
 diva-com
+divisao cursinho
+divisão cursinho
+divisao curso
+divisão curso
+divisao de cursinho
+divisão de cursinho
+divisao de curso
+divisão de curso
+divisao-cursinho
+divisao-curso
+divisao-de-cursinho
+divisao-de-curso
 divorce simplif
 divorce-simplif
 divorces simplif
@@ -19135,6 +19157,7 @@ en-ucuz
 en/formula
 en/oakley
 enable you to enable
+enalneore
 enceinte rapid
 enceinte-rapid
 enceinterapid
@@ -33384,6 +33407,7 @@ net-viewer
 netaffiliation
 netbiz
 nethttp
+netshoe
 nett fonts
 nett-fonts
 nette web
@@ -36098,6 +36122,7 @@ permainan-difavoritkan
 permainan-slot
 permission allow
 permission-allow
+permit me tell
 permita agradecer
 permonth.co
 person prov
@@ -37543,6 +37568,9 @@ precios_
 precisely lots
 precisely-lots
 preciselywhat
+precos baixo
+preços baixo
+precos-baixo
 prediksi togel
 prediksi top
 prediksi-togel
@@ -47968,11 +47996,13 @@ valka-derevev
 valtrex
 valuable blog
 valuable opt-in
+valuable post
 valuable site
 valuable useful
 valuable web
 valuable-blog
 valuable-opt-in
+valuable-post
 valuable-site
 valuable-useful
 valuable-web
@@ -50158,6 +50188,7 @@ with with this
 with you my business
 with your blog
 with your web
+with zero rate
 with-adword
 with-big-ass
 with-body-weight
