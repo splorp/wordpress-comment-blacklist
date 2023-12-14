@@ -5940,6 +5940,7 @@ $sixty
 1heal
 1homm
 1inop
+1k por dia
 1lear
 1mil e-mail
 1mil email
@@ -11010,6 +11011,7 @@ blogs already
 blogs are so sexy
 blogs article
 blogs if you
+blogs is very
 blogs like every
 blogs on the web
 blogs online
@@ -14988,10 +14990,19 @@ clothingonline
 clotrimazole
 clou replic
 clou-replic
+cloud cursinho
+cloud curso
+cloud de curso
 cloud integration train
 cloud mining
+cloud-cursinho
+cloud-curso
+cloud-de-curso
 cloud-integration-train
 cloud-mining
+cloudcursinho
+cloudcurso
+clouddecurso
 cloudmining
 clredheel
 clsale
@@ -15694,7 +15705,9 @@ conquertrail
 conquista baixar
 conquista-baixar
 conquistar blog
+conquistar equilib
 conquistar-blog
+conquistar-equilib
 consalt-
 consent with
 consent-with
@@ -16552,6 +16565,7 @@ cursinho marcenar
 cursinho mecanica
 cursinho mecânica
 cursinho mestre
+cursinho online
 cursinho paulo
 cursinho pdf
 cursinho pilot
@@ -16616,6 +16630,7 @@ cursinho-lideran
 cursinho-magica
 cursinho-marcenar
 cursinho-mecanica
+cursinho-online
 cursinho-paulo
 cursinho-pdf
 cursinho-pilot
@@ -16771,6 +16786,7 @@ curso-magica
 curso-marcenar
 curso-mecanica
 curso-mestre
+curso-online
 curso-paulo
 curso-pdf
 curso-pilot
@@ -16784,6 +16800,7 @@ curso-sublim
 curso-sustent
 curso-trade
 curso-trading
+cursoonline
 cursos banco
 cursos barbeiro
 cursos bases
@@ -16851,6 +16868,7 @@ cursos mecanica
 cursos mecânica
 cursos medicin
 cursos mestre
+cursos online
 cursos paulo
 cursos pdf
 cursos pilot
@@ -16919,6 +16937,7 @@ cursos-magica
 cursos-marcenar
 cursos-mecanica
 cursos-mestre
+cursos-online
 cursos-paulo
 cursos-pdf
 cursos-pilot
@@ -19818,6 +19837,8 @@ ex marido
 ex-marido
 exactly web
 exactly-web
+exame direito
+exame-direito
 examine the online
 examine-this-report
 examjple
@@ -19885,10 +19906,14 @@ excessive suitcase
 excessively skill
 excessively-skill
 exchange buying and selling
+exchange hyperlink
 exchange link
+exchange-hyperlink
 exchange-link
 exchangelink
+exchanging hyperlink
 exchanging link
+exchanging-hyperlink
 exchanging-link
 exchanginglink
 exclusivamente para tercero
@@ -21074,6 +21099,7 @@ financial cash
 financial content
 financial debt
 financial emerg
+financial potent
 financial robot
 financial scheme
 financial service
@@ -21084,6 +21110,7 @@ financial-cash
 financial-content
 financial-debt
 financial-emerg
+financial-potent
 financial-robot
 financial-scheme
 financial-service
@@ -22740,6 +22767,15 @@ generic-harvoni
 generic-principen
 genericcialis
 genericharvoni
+geneses cursinho
+geneses curso
+geneses de curso
+geneses-cursinho
+geneses-curso
+geneses-de-curso
+genesescursinho
+genesescurso
+genesesdecurso
 genuine e-mail are
 genuine e-mail as
 genuine e-mail is
@@ -34512,6 +34548,10 @@ on-the-web
 once once
 once-in-a-lifetime
 onclick
+onda digital
+onda do digital
+onda-digital
+onda-do-digital
 one %
 one mayy
 one must glamor
@@ -34820,7 +34860,18 @@ onlyfan
 onlyway
 onn th
 onn you
+onne cursinho
+onne curso
+onne de curso
 onne minut
+onne-cursinho
+onne-curso
+onne-de-curso
+onne-minut
+onnecursinho
+onnecurso
+onnedecurso
+onneminut
 onsale-
 onsale.asp
 onsale.cfm
@@ -35605,11 +35656,13 @@ par/index
 para compradore
 para impotencia
 para inkjet
+para redes social
 para seus cliente
 para tiara
 para-compradore
 para-impotencia
 para-inkjet
+para-redes-social
 para-seus-cliente
 para-tiara
 paradise-internation
@@ -37402,6 +37455,7 @@ posting movies frequent
 posting these type
 posting-comment
 posts are so sexy
+posts is very
 posts manually
 posts on this site
 posts post
@@ -39731,6 +39785,7 @@ return-url
 return=http
 returnlink
 returnurl
+revenue is knowledge
 revenue master
 revenue-master
 reverse cell
@@ -44989,8 +45044,17 @@ teamtshirt
 teamwork coach
 teamwork-coach
 teamworkcoach
+tech cursinho
+tech curso
+tech de curso
 tech partner
+tech-cursinho
+tech-curso
+tech-de-curso
 tech-partner
+techcursinho
+techcurso
+techdecurso
 technique kids
 technique of blog
 techniue
@@ -45352,6 +45416,7 @@ the best blog
 the blog,
 the blog;
 the blog:
+the blogs is
 the book in it
 the carfiac
 the chain change
@@ -45394,6 +45459,7 @@ the other blog
 the particular younger
 the pokie
 the pople
+the posts is
 the precise very
 the precise world
 the primary come
