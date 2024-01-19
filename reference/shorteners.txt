@@ -115,6 +115,7 @@
 /tinylink.in/
 /tinyls.net/
 /tinyurl.co/
+/tinyurl.com/
 /tinyurl.mobi/
 /tlkm.my/
 /tnyhs.com/
