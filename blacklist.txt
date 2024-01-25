@@ -6956,9 +6956,11 @@ ac repair secret
 ac-repair-near
 ac-repair-secret
 academy coach
+academy goog
 academy krs
 academy login
 academy-coach
+academy-goog
 academy-krs
 academy-login
 academycoach
@@ -12429,7 +12431,7 @@ buying and selling system
 buying face
 buying fifa
 buying firearm
-buying google
+buying goog
 buying guns
 buying insta
 buying likes
@@ -12441,7 +12443,7 @@ buying-a-car
 buying-face
 buying-fifa
 buying-firearm
-buying-google
+buying-goog
 buying-guns
 buying-insta
 buying-likes
@@ -15050,17 +15052,17 @@ clothingonline
 clotrimazole
 clou replic
 clou-replic
-cloud cursinho
+cloud cursi
 cloud curso
 cloud de curso
 cloud integration train
 cloud mining
-cloud-cursinho
+cloud-cursi
 cloud-curso
 cloud-de-curso
 cloud-integration-train
 cloud-mining
-cloudcursinho
+cloudcursin
 cloudcurso
 clouddecurso
 cloudmining
@@ -15511,6 +15513,10 @@ comcrack
 comdip
 comedyee
 comee on
+comenta mercado
+comenta-mercado
+comentadas mercado
+comentadas-mercado
 comentarios prova oab
 comentários prova oab
 comentarios-prova-oab
@@ -16598,10 +16604,8 @@ cursinho de mecânica
 cursinho de mestre
 cursinho de pdf
 cursinho de pilot
-cursinho de relacion
-cursinho de relación
-cursinho de revolucion
-cursinho de revolución
+cursinho de relaci
+cursinho de revolu
 cursinho de school
 cursinho de seo
 cursinho de sinuca
@@ -16637,10 +16641,8 @@ cursinho paulo
 cursinho pdf
 cursinho pilot
 cursinho rateio
-cursinho relacion
-cursinho relación
-cursinho revolucion
-cursinho revolución
+cursinho relaci
+cursinho revolu
 cursinho school
 cursinho seo
 cursinho sinuca
@@ -16673,8 +16675,8 @@ cursinho-de-marcenar
 cursinho-de-mecanica
 cursinho-de-pdf
 cursinho-de-pilot
-cursinho-de-relacion
-cursinho-de-revolucion
+cursinho-de-relaci
+cursinho-de-revolu
 cursinho-de-school
 cursinho-de-seo
 cursinho-de-sinuca
@@ -16702,8 +16704,8 @@ cursinho-paulo
 cursinho-pdf
 cursinho-pilot
 cursinho-rateio
-cursinho-relacion
-cursinho-revolucion
+cursinho-relaci
+cursinho-revolu
 cursinho-school
 cursinho-seo
 cursinho-sinuca
@@ -16746,10 +16748,8 @@ curso de mestre
 curso de pdf
 curso de pilot
 curso de rateio
-curso de relacion
-curso de relación
-curso de revolucion
-curso de revolución
+curso de relaci
+curso de revolu
 curso de school
 curso de seo
 curso de sinuca
@@ -16785,10 +16785,8 @@ curso paulo
 curso pdf
 curso pilot
 curso rateio
-curso relacion
-curso relación
-curso revolucion
-curso revolución
+curso relaci
+curso revolu
 curso school
 curso seo
 curso sinuca
@@ -16826,8 +16824,8 @@ curso-de-mecanica
 curso-de-pdf
 curso-de-pilot
 curso-de-rateio
-curso-de-relacion
-curso-de-revolucion
+curso-de-relaci
+curso-de-revolu
 curso-de-school
 curso-de-seo
 curso-de-sinuca
@@ -16858,8 +16856,8 @@ curso-paulo
 curso-pdf
 curso-pilot
 curso-rateio
-curso-relacion
-curso-revolucion
+curso-relaci
+curso-revolu
 curso-school
 curso-seo
 curso-sinuca
@@ -16901,10 +16899,8 @@ cursos de medicin
 cursos de mestre
 cursos de pdf
 cursos de pilot
-cursos de relacion
-cursos de relación
-cursos de revolucion
-cursos de revolución
+cursos de relaci
+cursos de revolu
 cursos de school
 cursos de seo
 cursos de sinuca
@@ -16940,10 +16936,8 @@ cursos online
 cursos paulo
 cursos pdf
 cursos pilot
-cursos relacion
-cursos relación
-cursos revolucion
-cursos revolución
+cursos relaci
+cursos revolu
 cursos school
 cursos seo
 cursos sinuca
@@ -16979,8 +16973,8 @@ cursos-de-mecanica
 cursos-de-mestre
 cursos-de-pdf
 cursos-de-pilot
-cursos-de-relacion
-cursos-de-revolucion
+cursos-de-relaci
+cursos-de-revolu
 cursos-de-school
 cursos-de-seo
 cursos-de-sinuca
@@ -17010,8 +17004,8 @@ cursos-online
 cursos-paulo
 cursos-pdf
 cursos-pilot
-cursos-relacion
-cursos-revolucion
+cursos-relaci
+cursos-revolu
 cursos-school
 cursos-seo
 cursos-sinuca
@@ -18216,17 +18210,17 @@ diva-com
 dividas gratis
 dívidas grátis
 dividas-gratis
-divisao cursinho
-divisão cursinho
+divisao cursi
+divisão cursi
 divisao curso
 divisão curso
-divisao de cursinho
-divisão de cursinho
+divisao de cursi
+divisão de cursi
 divisao de curso
 divisão de curso
-divisao-cursinho
+divisao-cursi
 divisao-curso
-divisao-de-cursinho
+divisao-de-cursi
 divisao-de-curso
 divorce simplif
 divorce-simplif
@@ -21237,17 +21231,20 @@ financial cash
 financial content
 financial debt
 financial emerg
+financial master
 financial potent
 financial robot
 financial scheme
 financial service
 financial solution
+financial_master
 financial-blog
 financial-bot
 financial-cash
 financial-content
 financial-debt
 financial-emerg
+financial-master
 financial-potent
 financial-robot
 financial-scheme
@@ -22668,6 +22665,7 @@ games,puzzl
 games,shoot
 games,sport
 games,strat
+games.ru
 games4king
 gamescasino
 gamesgame
@@ -22908,15 +22906,13 @@ generic-harvoni
 generic-principen
 genericcialis
 genericharvoni
-geneses cursinho
+geneses cursi
 geneses curso
 geneses de curso
 geneses-cursi
-geneses-cursinho
 geneses-curso
 geneses-de-curso
 genesescursi
-genesescursinho
 genesescurso
 genesesdecurso
 genuine e-mail are
@@ -29646,6 +29642,7 @@ link seller
 link seo
 link service
 link submit
+link to channel
 link to their online
 link to your online
 link track
@@ -31965,9 +31962,11 @@ mercado é ativo
 mercado fitness
 mercado icaro
 mercado ícaro
+mercado livre
 mercado-e-ativo
 mercado-fitness
 mercado-icaro
+mercado-livre
 mercadoicaro
 mercantilism
 mercati di
@@ -35074,15 +35073,15 @@ onlyfan
 onlyway
 onn th
 onn you
-onne cursinho
+onne cursi
 onne curso
 onne de curso
 onne minut
-onne-cursinho
+onne-cursi
 onne-curso
 onne-de-curso
 onne-minut
-onnecursinho
+onnecursi
 onnecurso
 onnedecurso
 onneminut
@@ -36109,6 +36108,7 @@ patient special near
 patient-special-near
 patrao-online
 patraoonline
+patriot.ru
 patriots hat
 patriots jers
 patriots-hat
@@ -36855,6 +36855,8 @@ plated watch
 plated-watch
 plavix
 play car game
+play cursi
+play curso
 play film trailer
 play films trailer
 play fortuna
@@ -36864,6 +36866,8 @@ play video review
 play videos review
 play website
 play-car-game
+play-cursi
+play-curso
 play-film-trailer
 play-films-trailer
 play-fortuna
@@ -36877,6 +36881,8 @@ play-video-review
 play-videos-review
 play-website
 playcargame
+playcursi
+playcurso
 playedd
 playerblock
 playfortuna
@@ -40131,6 +40137,8 @@ reviewthe
 reviewx
 reviewz
 reviot
+revisao comenta
+revisao-comenta
 revitalized web
 revitalized-web
 revival beauty
@@ -42976,7 +42984,7 @@ site load speed
 site loading speed
 site look weird
 site looks weird
-site no google
+site no goog
 site now ;)
 site offer
 site offic
@@ -44372,10 +44380,10 @@ strippers-new
 stroke to swim
 stroke-to-swim
 stromectol
-stron google
+stron goog
 stron internet
 stron www
-stron-google
+stron-goog
 stron-internet
 stron-www
 strona blu
@@ -45351,15 +45359,15 @@ teamtshirt
 teamwork coach
 teamwork-coach
 teamworkcoach
-tech cursinho
+tech cursi
 tech curso
 tech de curso
 tech partner
-tech-cursinho
+tech-cursi
 tech-curso
 tech-de-curso
 tech-partner
-techcursinho
+techcursi
 techcurso
 techdecurso
 technique kids
@@ -47951,6 +47959,8 @@ umschuldung
 umuporn
 unbelievable benefit
 unbelievable-benefit
+uncensored warfare
+uncensored-warfare
 uncertainty very
 uncover somebody
 uncover-somebody
@@ -48832,10 +48842,10 @@ vid-your-biz
 vid-your-business
 vida beneficios
 vida benefícios
-vida google
+vida goog
 vida-beneficios
 vida-benefícios
-vida-google
+vida-goog
 videncia charme
 videncia gratis
 videncia vidente
@@ -51687,6 +51697,12 @@ your digital business
 your display screen
 your e-mail message
 your email message
+your exciting article
+your exciting blog
+your exciting page
+your exciting post
+your exciting site
+your exciting web
 your expert service
 your expertise with
 your humoristic
@@ -52381,6 +52397,7 @@ zyvox
 вход систему
 выбрать лучшие
 выигрышного комбо
+выплату выиг
 вырубка деревьев
 выше сказанным
 г¶
@@ -52502,6 +52519,7 @@ zyvox
 иж пневмо
 извиняюсь, но
 изготовлен
+изидроп
 изучение франц
 икс играть
 инете
@@ -52596,6 +52614,7 @@ zyvox
 ломаютмашин
 лучшая студия
 лучший банк
+лучший способ
 любимые игры
 любит глубокое
 магаз
@@ -52680,6 +52699,7 @@ zyvox
 оs
 оt
 оv
+обзавестись уникал
 образец обслуживания
 обратные ссылки
 обрезка деревьев
@@ -52702,6 +52722,7 @@ zyvox
 официальную гидру
 официальный сайт
 официальных
+оформить выплат
 оформить груз
 оформить сайт
 охрана семьи
@@ -52962,6 +52983,8 @@ zyvox
 удивительные
 удобная витрина
 уже пол
+уникал скинами
+уникальными скинами
 управляющую компан
 ура наконецто
 услуг
