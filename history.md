@@ -4,6 +4,7 @@ A chronological list of changes, bug fixes, and other milestones
 
 ## History
 
++ 20240209 — 54,000 entries
 + 20231118 — 53,000 entries
 + 20230928 — Fixed bug that affected phrases containing the terms “[nufactur](https://github.com/splorp/wordpress-comment-blacklist/commit/7efe7651b8f622e4138ced587acd4d59b9b2f0b7)” and “[meridia](https://github.com/splorp/wordpress-comment-blacklist/commit/7efe7651b8f622e4138ced587acd4d59b9b2f0b7)”, such as “manufacture” and “meridian”
 + 20230818 — 52,000 entries
