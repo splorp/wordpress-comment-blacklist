@@ -4134,6 +4134,7 @@ _в_москве
 /iapple-
 /iapple.
 /iapple/
+/ibit.ly/
 /ihover-
 /ihover.
 /ihover/
