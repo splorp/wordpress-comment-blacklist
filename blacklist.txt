@@ -891,6 +891,9 @@ _в_москве
 -kabriolet-
 -kabriolet.
 -kabriolet/
+-kalebet-
+-kalebet.
+-kalebet/
 -kapselfibrose-
 -kapselfibrose.
 -kapselfibrose/
@@ -2214,6 +2217,8 @@ _в_москве
 .jpg.jsp
 .jpg.php
 .jpg.pl
+.kalebet-
+.kalebet.
 .kapselfibrose-
 .kapselfibrose.
 .kapselfibrose/
@@ -4271,6 +4276,9 @@ _в_москве
 /just.as/
 /kabriolet-
 /kabriolet.
+/kalebet-
+/kalebet.
+/kalebet/
 /kapselfibrose-
 /kapselfibrose.
 /kapselfibrose/
@@ -10215,6 +10223,7 @@ best p0st
 best page about
 best pant
 best paragraph about
+best patio door
 best payment
 best places botox
 best porn
@@ -10299,6 +10308,7 @@ best-nautical-home
 best-online
 best-oral-surgeon
 best-pant
+best-patio-door
 best-payment
 best-phone
 best-places-botox
@@ -10389,6 +10399,7 @@ bestlocaldata
 bestlocalnear
 bestmcm
 bestpant
+bestpatiodoor
 bestpayment
 bestphone
 bestpricebuy
@@ -16144,6 +16155,9 @@ cool-t-shirt
 cool-test-here
 coolarticle
 coolautomobil
+cooling phoenix
+cooling-phoenix
+coolingphoenix
 coontent
 coool blog
 coool page
@@ -20418,7 +20432,19 @@ exploded extensive
 exploded-extensive
 explore an affordable
 explore the affordable
+explore the blog
+explore the site
+explore the weblog
+explore the website
 explore this affordable
+explore this blog
+explore this site
+explore this weblog
+explore this website
+explore your blog
+explore your site
+explore your weblog
+explore your website
 explore-an-affordable
 explore-the-affordable
 explore-this-affordable
@@ -25397,6 +25423,9 @@ heartsite
 heater repair near
 heater-repair-near
 heatherhh
+heating phoenix
+heating-phoenix
+heatingphoenix
 hed crypto
 hed-crypto
 hedge fund
@@ -33353,6 +33382,10 @@ mortgages4u
 most affordable
 most competitively
 most high-need
+most reputable blog
+most reputable site
+most reputable weblog
+most reputable website
 most sexual pose
 most useful blog
 most useful post
@@ -39382,7 +39415,10 @@ purchasegeneric
 purchases pitch
 purchases-pitch
 purchases!cock
+pure casino
+pure-casino
 pure-jobs
+purecasino
 puro extase
 puro êxtase
 puro-extase
