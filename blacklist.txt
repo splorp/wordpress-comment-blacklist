@@ -34935,6 +34935,8 @@ novomercado
 novorateio
 novost.ru/news
 novost.ru/novost
+now &gt;&gt;
+now >>
 now interstitial
 now now
 now-interstitial
@@ -46190,6 +46192,7 @@ takipi-satin
 takipi-satn
 takje care
 takje-care
+taksi.ru
 talent manage
 talent recruit
 talent-manage
@@ -50049,7 +50052,10 @@ vf gratuit
 vf-gratuit
 vhs-to-digital
 vhttp
+vi sao chuan
+vì sao chuẩn
 vi-pgyrl
+vi-sao-chuan
 via your blog
 via your page
 via your post
@@ -50702,6 +50708,8 @@ vyrubka derev’yev
 vyrubka derevev
 vyrubka-derevev
 vyyv
+vyzvat taksi
+vyzvat-taksi
 vzloma zaparolennogo
 vzloma-zaparolennogo
 vzlomat
@@ -53728,6 +53736,7 @@ zyvox
 всем привет
 вся правда
 втб банк
+втс
 вход в систему
 вход на сайт
 вход систему
