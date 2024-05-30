@@ -1254,6 +1254,9 @@ _в_москве
 -roulette/
 -rozwod-
 -rs-gold
+-rs485-
+-rs485.
+-rs485/
 -ru.
 -rusex-
 -rusex.
@@ -2517,6 +2520,9 @@ _в_москве
 .roulette/
 .royal-
 .rozblog.
+.rs485-
+.rs485.
+.rs485/
 .rshacks.
 .ru,
 .ru@
@@ -5019,6 +5025,9 @@ _в_москве
 /roulette/
 /rozwod
 /rrsm.nl/
+/rs485-
+/rs485.
+/rs485/
 /ru/news/
 /rusex-
 /rusex.
@@ -52699,6 +52708,8 @@ xxcam
 xxfree
 xxurl
 xyngular
+xyz write
+xyz-write
 xyz/user
 xyztest
 xyz專
@@ -53794,6 +53805,7 @@ zyvox
 гօ
 давайте обсудим
 давно искал
+дайте ей оценку
 даклатасвир
 далее тут
 дарк нет
@@ -53877,6 +53889,7 @@ zyvox
 знающие люди
 ѕs
 и origin
+и мою страничку
 и-origin
 игорного
 игорное заведение
