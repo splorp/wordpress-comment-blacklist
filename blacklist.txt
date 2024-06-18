@@ -1770,6 +1770,8 @@ _в_москве
 .asics-
 .asics.
 .asics/
+.asp%20
+.aspx%20
 .asses-
 .asses.
 .asses/
@@ -1931,6 +1933,8 @@ _в_москве
 .cause-
 .causes-
 .cf/chk/
+.cfm%20
+.cgi%20
 .chanel-
 .cheat-
 .cheat.
@@ -1988,6 +1992,7 @@ _в_москве
 .cool-t-shirts/
 .coupon
 .credopa.in
+.ctr%20
 .d.e.r
 .dailyhitblog.
 .dailyhitblogs.
@@ -2156,6 +2161,8 @@ _в_москве
 .household-cleaning-
 .household-cleaning.
 .household-cleaning/
+.htm%20
+.html%20
 .i-rama.
 .iapple-
 .iapple.
@@ -2224,6 +2231,8 @@ _в_москве
 .jpg.jsp
 .jpg.php
 .jpg.pl
+.jpg%20
+.jsp%20
 .kalebet-
 .kalebet.
 .kapselfibrose-
@@ -2382,6 +2391,7 @@ _в_москве
 .phoneinfo/
 .php/user:
 .php/utilisateur:
+.php%20
 .picload-
 .picload.
 .picload/
@@ -2416,6 +2426,7 @@ _в_москве
 .pl/store
 .pl/top
 .pl/user
+.pl%20
 .plotexchange.us
 .pointblog.
 .porn
