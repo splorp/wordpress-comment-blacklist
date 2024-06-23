@@ -12853,6 +12853,7 @@ c.urr.ent
 c¶
 c|pro
 ｃa
+cá độ
 cả uy tín
 ca-uy-tin
 ca.r.ol
@@ -31296,6 +31297,8 @@ lpgn-product
 ltd. electric
 ltongealp
 ltonser
+lua dao
+lừa đảo
 lub cbd
 lub thc
 lublin.
@@ -34734,8 +34737,11 @@ nghiep-a-z
 nguoidanviet1
 nguoidanviet2
 nguoidanviet3
+nha cai
+nhà cái
 nha đat
 nhà đất
+nha-cai
 nha-đat
 nhađat
 nhap khau
@@ -49799,6 +49805,7 @@ v-i-s-a-r-t
 v.@
 v3ry best
 va ballgown
+va dam me
 va garanteaza
 va-ballgown
 va-garanteaza
@@ -53351,6 +53358,7 @@ your wii game
 your wii will
 your will thank
 your words make
+your writing resonate
 your wweb
 your zits
 your-account
