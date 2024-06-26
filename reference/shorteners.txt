@@ -101,6 +101,7 @@
 /smsh.me/
 /sn.im/
 /snipurl.co/
+/sqworl.com/
 /stan.to/
 /stfly.me/
 /su0.ru/
@@ -134,6 +135,7 @@
 /webhop.se/
 /wi.cr/
 /wntdco.mx/
+/www.sqworl.com/
 /x.co/
 /xor.tw/
 /xtl.jp/
