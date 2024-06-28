@@ -8702,6 +8702,7 @@ article buzz
 article complet
 article content
 article dude
+article est unne
 article fully about
 article gives pleasant
 article he/she
@@ -9074,10 +9075,12 @@ attack attack
 attantion
 attention grabber
 attention message
+attention nouvelle
 attention to this message
 attention wonderful
 attention-grabber
 attention-message
+attention-nouvelle
 attention-wonderful
 attorney seo
 attorney-seo
@@ -10981,6 +10984,8 @@ blizzard-marketing
 blizzardmarketing
 blkog post
 bllog post
+blocage spam
+blocage-spam
 block puzzel
 block-money
 block-puzzel
@@ -15887,10 +15892,14 @@ commencing film
 comment anyplace
 comment boost
 comment is here
+comment optimise
+comment optimize
 comment pirate
 comment speak
 comment you
 comment-boost
+comment-optimis
+comment-optimiz
 comment-pag
 comment-pirate
 comment-speak
@@ -16078,6 +16087,9 @@ computerpressrelease
 comreview
 comunity
 concentrate exist
+concerned in this issue
+concerned in this subject
+concerned in this topic
 concernijg
 concerning blog
 concerning page
@@ -35022,6 +35034,9 @@ nordstrommoncler
 norge canad
 norge-canad
 norgecanad
+norme anti spam
+norme anti-spam
+norme-anti-spam
 north_face
 north+face
 northface pascher
@@ -39630,6 +39645,7 @@ provider proficient
 provider-proficient
 provides high quality
 provides high-quality
+providing such thought
 provigil
 proviider
 proxénétisme
@@ -44159,7 +44175,10 @@ similarities some similar
 simonly
 simpel dinding
 simpel-dinding
+simple crm
 simple should you
+simple-crm
+simplecrm
 simplesmente online
 simplesmente-online
 simplexml you
@@ -50187,6 +50206,11 @@ verify my site
 verify online
 verify their site
 verify-out
+veritable treasure
+veritable tresor
+véritable trésor
+veritable-treasure
+veritable-tresor
 verkoop timber
 verkoop-timber
 verkooptimber
