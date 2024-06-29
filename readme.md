@@ -41,9 +41,9 @@ Still need convincing? The blocklist was featured over at [WP Daily](https://tor
 
 ## Technical Considerations
 
-WordPress stores the contents of the [Comment Blacklist](https://codex.wordpress.org/Combating_Comment_Spam#Comment_Blacklist) setting in the options table as `blacklist_keys`. Defined as a `longtext` [data type](https://dev.mysql.com/doc/refman/8.0/en/blob.html), this MySQL column can contain up to 4,294,967,295 bytes (approximately 4GB) of text. There is no chance of us running out of room to expand the blocklist any time soon.
+WordPress stores the contents of the [Disallowed Comment Keys](https://wordpress.org/documentation/article/comment-moderation/#comment-blocking) setting in the options table as `disallowed_keys`. Defined as a `longtext` [data type](https://dev.mysql.com/doc/refman/8.0/en/blob.html), this MySQL column can contain up to 4,294,967,295 bytes (approximately 4GB) of text. There is no chance of us running out of room to expand the blocklist any time soon.
 
-There has been some talk about storing the `blacklist_keys` option in [an entirely separate table](https://core.trac.wordpress.org/ticket/30932).
+Note that the `disallowed_keys` option was previous named `blacklist_keys` in WordPress 5.4 and earlier.
 
 ## Known Issues, Limitations & Other Gotchas
 
@@ -74,7 +74,7 @@ The blocklist is not applied against HTML tag attributes found in comments, only
 
 **User Agent Strings**
 
-According to the WordPress [Discussion Settings Screen](https://wordpress.org/support/article/settings-discussion-screen/) documentation, a comment will be marked spam if any of the [Comment Blacklist](https://codex.wordpress.org/Combating_Comment_Spam#Comment_Blacklist) keywords are found in the comment content, name, URL, email, or IP address fields. Surprisingly, WordPress also applies the blocklist against the [user agent](https://en.wikipedia.org/wiki/User_agent) string.
+According to the WordPress [Discussion Settings Screen](https://wordpress.org/support/article/settings-discussion-screen/) documentation, a comment will be marked spam if any of the [Disallowed Comment Keys](https://wordpress.org/documentation/article/comment-moderation/#comment-blocking) terms are found in the comment content, name, URL, email, or IP address fields. Surprisingly, WordPress also applies the blocklist against the [user agent](https://en.wikipedia.org/wiki/User_agent) string.
 
 For example, an earlier version of the blocklist contained the keywords `/4.` and `/5.` to flag URLs with sequentially numbered pages with various file extensions. Unfortunately, these two benign-looking keywords also flagged comments containing common user agent strings, such as `Mozilla/4.0` and `Chrome/5.0`. In other words, nearly every single comment was flagged as spam, regardless of its content or whether the commenter had been previously approved.
 
