@@ -12452,7 +12452,7 @@ business formation
 business know
 business mindset
 business online world
-business prompts
+business prompt
 business seeking
 business seminar near
 business seminars near
@@ -12481,7 +12481,7 @@ business-intel
 business-know
 business-loan
 business-mindset
-business-prompts
+business-prompt
 business-seeking
 business-seminar-near
 business-seminars-near
@@ -15772,6 +15772,8 @@ cokment
 colastrina
 colchon alta gama
 colchones alta gama
+collect crypto
+collect-crypto
 collectif abssice
 collectif celine
 collectif moncler
@@ -15781,6 +15783,8 @@ collectif-moncler
 collectifabssice
 collectifceline
 collectifmoncler
+collecting crypto
+collecting-crypto
 collection celine
 collection commercial
 collection effort
@@ -15994,13 +15998,13 @@ commentspeak
 commentsyou
 commentyou
 commerce money
-commerce prompts
+commerce prompt
 commerce retail
 commerce sale
 commerce seller tool
 commerce whole
 commerce-money
-commerce-prompts
+commerce-prompt
 commerce-retail
 commerce-sale
 commerce-whole
@@ -16395,8 +16399,8 @@ copycat1
 copyscape
 copyscrape
 copywizard
-copywriting prompts
-copywriting-prompts
+copywriting prompt
+copywriting-prompt
 cordarone
 core fuck
 core sex
@@ -17994,6 +17998,9 @@ degree twenty
 degree-expert
 degree-twenty
 dehttp
+dejate impresion
+déjate impresion
+dejate-impresion
 dejting-program
 dejting-sida
 dejting-tip
@@ -18833,6 +18840,7 @@ doesn`t
 doesnít
 doesnt
 doestic
+dofollowlink
 dog care tip
 dog proprietor
 dog treat dog
@@ -19867,6 +19875,10 @@ en/formula
 en/oakley
 enable you to enable
 enalneore
+encanto maravillo
+encanto-maravillo
+encantos maravillo
+encantos-maravillo
 enceinte rapid
 enceinte-rapid
 enceinterapid
@@ -23593,9 +23605,9 @@ generatinggroup
 generatingmoney
 generatingprofit
 generation algorithm
-generation prompts
+generation prompt
 generation-algorithm
-generation-prompts
+generation-prompt
 generator repair near
 generator-repair-near
 generatorpro
@@ -24639,12 +24651,12 @@ gpswificlock
 gpt blast
 gpt market
 gpt new
-gpt prompts
+gpt prompt
 gpt website
 gpt-blast
 gpt-market
 gpt-new
-gpt-prompts
+gpt-prompt
 gpt-website
 gpt4;
 gptblast
@@ -28314,6 +28326,7 @@ is seo
 is some inspirational
 is thhe
 is_it_really
+is-a-country-that
 is-goping
 is-now-available
 is-seo
@@ -28435,7 +28448,9 @@ italy-shop
 italy-store
 italyshop
 italystore
+item of lumber
 itemnotfound
+items of lumber
 itís
 itoakley
 its actually awesome
@@ -28895,8 +28910,10 @@ joggingstroll
 jogos
 john-varvatos
 johnhme
+join for free
 join super
 join-411
+join-for-free
 join-super
 join411
 joinsuper
@@ -31980,6 +31997,10 @@ marantboot
 marantrain
 marantshoe
 marantsneak
+maravillo encanto
+maravillo-encanto
+maravillos encanto
+maravillos-encanto
 marca capacitado
 marca del mercado
 marcas capacitado
@@ -32082,7 +32103,7 @@ marketing monst
 marketing online
 marketing platform
 marketing prof
-marketing prompts
+marketing prompt
 marketing samu
 marketing search
 marketing service
@@ -32121,7 +32142,7 @@ marketing-monst
 marketing-online
 marketing-platform
 marketing-prof
-marketing-prompts
+marketing-prompt
 marketing-samu
 marketing-search
 marketing-service
@@ -32180,7 +32201,9 @@ marmaris transfer
 marmaris-transfer
 marmaristransfer
 marriage regimen
+marriage relationship
 marriage simplif
+marriage-relationship
 marriage-simplif
 marriages simplif
 marriages-simplif
@@ -37480,6 +37503,7 @@ pepe token
 pepe-jeans
 pepe-token
 pepejeans
+pepepedro
 pepetoken
 pequena empresa
 pequena negocio
@@ -40773,7 +40797,10 @@ refer-open
 referencement
 référencement
 referral king
+referral_code
+referral-code
 referral-king
+referralcode
 referralid
 refire cert
 refire-cert
@@ -52935,6 +52962,7 @@ wwhen
 wwith
 www cennik
 www directory
+www identify
 www instagram
 www link
 www medicine
@@ -52942,6 +52970,7 @@ www sex
 www_
 www-cennik
 www-directory
+www-identify
 www-instagram
 www-link
 www-medicine
@@ -53019,6 +53048,7 @@ www.ya.lt
 www.ysl
 www.zapata
 www.zapato
+wwwidentify
 wwwinstagram
 wwwpctool
 wwwsentro
@@ -53717,12 +53747,14 @@ youtube conv
 youtube down
 youtube gizli
 youtube intro
+youtube iphone
 youtube m4a
 youtube monetiz
 youtube money
 youtube mp3
 youtube mp4
-youtube prompts
+youtube phone
+youtube prompt
 youtube sens
 youtube snap
 youtube takip
@@ -53733,12 +53765,14 @@ youtube-conv
 youtube-down
 youtube-gizli
 youtube-intro
+youtube-iphone
 youtube-m4a
 youtube-monetiz
 youtube-money
 youtube-mp3
 youtube-mp4
-youtube-prompts
+youtube-phone
+youtube-prompt
 youtube-sens
 youtube-snap
 youtube-takip
