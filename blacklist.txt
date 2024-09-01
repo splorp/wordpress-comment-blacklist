@@ -20618,9 +20618,9 @@ everyone-furthermore
 everypant
 everysock
 everything dental
-everything information
+everything inform
 everything-dental
-everything-information
+everything-inform
 everythingdental
 everythink
 everytight
@@ -22386,7 +22386,7 @@ for white mens
 for white womans
 for white womens
 for winning product
-for wonderful information
+for wonderful inform
 for yolur
 for you, visit
 for your article
@@ -23822,7 +23822,7 @@ get-know-how
 get-massive
 get-money-for
 get-more-blog
-get-more-information
+get-more-inform
 get-more-traffic
 get-more-weblog
 get-more-webpage
@@ -37315,6 +37315,9 @@ parkas france
 parkas-france
 parkasfrance
 parkiety
+parody porn
+parody-porn
+parodyporn
 paroxetine
 parrainage banque
 parrainage boursor
@@ -40337,12 +40340,14 @@ quality based
 quality based post
 quality blog
 quality content
+quality inform
 quality new
 quality online
 quality option
 quality page
 quality paragraph
-quality plumbing service
+quality perspect
+quality plumbing
 quality porn
 quality post
 quality quartz
@@ -40356,11 +40361,13 @@ quality-available
 quality-based
 quality-blog
 quality-content
+quality-inform
 quality-new
 quality-online
 quality-option
 quality-page
-quality-plumbing-service
+quality-perspect
+quality-plumbing
 quality-porn
 quality-post
 quality-quartz
@@ -46503,16 +46510,19 @@ superaffiliate
 superarticle
 superb blog
 superb data
-superb information
+superb inform
 superb page
 superb site
-superb subject matter
+superb subject
 superb thought
 superb web
 superb-blog
 superb-data
+superb-inform
 superb-page
 superb-site
+superb-subject
+superb-thought
 superb-web
 supercasino
 supercheap
@@ -48832,6 +48842,9 @@ towarowe anna lewandowska
 toxylact
 toy hauler near
 toy-hauler-near
+toyib slot
+toyib-slot
+toyibslot
 toys,sex
 toys,vibra
 trà đạo quán
@@ -50107,6 +50120,8 @@ update your weblog
 update your webpage
 update your website
 update-movie
+updated perspect
+updated-perspect
 updates readily
 updatestats
 upgrade key
@@ -55188,7 +55203,7 @@ zyvox
 удивительные
 удобная витрина
 уже пол
-узнайте  почему
+узнайте почему
 уникал скинами
 уникальными скинами
 управляющую компан
