@@ -7940,7 +7940,7 @@ all in one life
 all in this article
 all in this blog
 all in this page
-all in this paragraph
+all in this para
 all in this post
 all incluzive
 all of your article
@@ -8061,7 +8061,7 @@ amazing is an
 amazing is the
 amazing issues here
 amazing life changing
-amazing paragraph
+amazing para
 amazing post
 amazing read, enjoy
 amazing sell
@@ -8179,11 +8179,12 @@ an fascinating view
 an ideal article
 an ideal blog
 an ideal page
-an ideal paragraph
+an ideal para
 an ideal post
 an ideal site
 an ideal web
 an online user
+an outstanding work
 an valuable read
 an-lop-4
 an-on-line
@@ -9345,7 +9346,7 @@ awesome blog
 awesome designed
 awesome headline
 awesome page
-awesome paragraph
+awesome para
 awesome post
 awesome web log
 awesome web page
@@ -9359,7 +9360,7 @@ awesome-blog
 awesome-designed
 awesome-headline
 awesome-page
-awesome-paragraph
+awesome-para
 awesome-post
 awesome-web-log
 awesome-web-page
@@ -12099,7 +12100,7 @@ bridges-must
 brilliant blog
 brilliant content
 brilliant page
-brilliant paragraph
+brilliant para
 brilliant post
 brilliant site
 brilliant web
@@ -12558,7 +12559,7 @@ bustgalter
 busythumb
 but great blog
 but great page
-but great paragraph
+but great para
 but great post
 but great site
 but great topic
@@ -16207,7 +16208,7 @@ concerning blog
 concerning page
 concerning this article
 concerning this blog
-concerning this paragraph
+concerning this para
 concerning this post
 concerning this web
 concerning-blog
@@ -19642,10 +19643,10 @@ educafit-curso
 educafit-e-bom
 educational article
 educational blog here
-educational paragraph
+educational para
 educational post here
 educational-article
-educational-paragraph
+educational-para
 educationand
 eema1l
 eemai1
@@ -20067,7 +20068,7 @@ enormous article
 enormous blog
 enormous educational
 enormous page
-enormous paragraph
+enormous para
 enormous post
 enormous weblog
 enormous-article
@@ -20104,7 +20105,7 @@ enucuz
 envious article
 envious blog
 envious page
-envious paragraph
+envious para
 envious post
 envious site
 envious weblog
@@ -20662,7 +20663,7 @@ excellent movie clip
 excellent movies clip
 excellent operate
 excellent page
-excellent paragraph
+excellent para
 excellent pick-up
 excellent post
 excellent price quality
@@ -20671,7 +20672,7 @@ excellent proper
 excellent read!
 excellent short article
 excellent short blog
-excellent short paragraph
+excellent short para
 excellent short post
 excellent short web
 excellent site
@@ -20710,6 +20711,12 @@ excellentsite
 excellenttopic
 excellentweb
 exceptional blog
+exceptional short article
+exceptional short blog
+exceptional short page
+exceptional short para
+exceptional short post
+exceptional short web
 exceptional-blog
 excessive suitcase
 excessively skill
@@ -21244,7 +21251,7 @@ fantastic homepage
 fantastic layout
 fantastic metin
 fantastic page
-fantastic paragraph
+fantastic para
 fantastic post
 fantastic publish
 fantastic put up
@@ -21252,8 +21259,9 @@ fantastic read!
 fantastic short article
 fantastic short blog
 fantastic short page
-fantastic short paragraph
+fantastic short para
 fantastic short post
+fantastic short web
 fantastic site
 fantastic topic
 fantastic treatment
@@ -21270,7 +21278,7 @@ fantastic-entire
 fantastic-homepage
 fantastic-layout
 fantastic-page
-fantastic-paragraph
+fantastic-para
 fantastic-post
 fantastic-read
 fantastic-site
@@ -23037,14 +23045,14 @@ from subsequent
 from the weblog
 from this blog
 from this content
-from this paragraph
+from this para
 from this post
 from this site
 from this web
 from your article
 from your blog
 from your content
-from your paragraph
+from your para
 from your web
 from ypur
 from-maltreating
@@ -24180,7 +24188,7 @@ glorious article
 glorious blog
 glorious overview
 glorious page
-glorious paragraph
+glorious para
 glorious web
 glowing clean
 glowing-clean
@@ -24409,7 +24417,7 @@ good jon bro
 good jon mate
 good morning dear
 good page
-good paragraph
+good para
 good perform!
 good points there
 good post and good
@@ -24424,7 +24432,7 @@ good respond
 good short article
 good short blog
 good short page
-good short paragraph
+good short para
 good short post
 good short web
 good site you
@@ -24934,7 +24942,7 @@ great read!
 great sex party
 great short article
 great short blog
-great short paragraph
+great short para
 great short post
 great short web
 great site and
@@ -25990,7 +25998,7 @@ helpessay
 helpfjl
 helpful blog
 helpful content
-helpful paragraph
+helpful para
 helpful post
 helpful weblog
 helpful-blog
@@ -26956,6 +26964,7 @@ how-sleep
 how-start-business
 how-start-small
 how-to-negotiate
+how-to-step-by
 how? amazingness
 howdy just wanted
 howdy superb
@@ -27391,7 +27400,7 @@ impressive essay
 impressive homepage
 impressive page
 impressive pal!
-impressive paragraph
+impressive para
 impressive post
 impressive share
 impressive site
@@ -28604,7 +28613,7 @@ its genuine
 its good article
 its good blog
 its good page
-its good paragraph
+its good para
 its good post
 its good site
 its good weblog
@@ -29069,6 +29078,8 @@ join-for-free
 join-super
 join411
 joinsuper
+joint genesis
+joint-genesis
 joint-pain
 jointpain
 jojobet
@@ -30361,7 +30372,7 @@ learn about potential
 learn about this blog
 learn about this issue
 learn about this page
-learn about this paragraph
+learn about this para
 learn about this site
 learn about this subject
 learn about this topic
@@ -35141,7 +35152,7 @@ nice designed
 nice do the job
 nice info
 nice page
-nice paragraph
+nice para
 nice piece off
 nice post
 nice practice
@@ -35159,7 +35170,7 @@ nice-blog
 nice-designed
 nice-info
 nice-page
-nice-paragraph
+nice-para
 nice-post
 nice-practice
 nice-share
@@ -35183,7 +35194,7 @@ nicee web
 niceinfo
 nicely-known
 nicepage
-niceparagraph
+nicepara
 nicepost
 nicesite
 niceweb
@@ -36035,6 +36046,7 @@ on this post
 on this short article
 on this short blog
 on this short page
+on this short para
 on this short post
 on this short web
 on this weblog
@@ -36627,7 +36639,7 @@ ourlink
 out about this blog
 out about this issue
 out about this page
-out about this paragraph
+out about this para
 out about this site
 out about this subject
 out about this topic
@@ -37363,11 +37375,11 @@ particular-profic
 particular-wearer
 particularly good article
 particularly good content
-particularly good paragraph
+particularly good para
 particularly good post
 particularly great article
 particularly great content
-particularly great paragraph
+particularly great para
 particularly great post
 particularly unlocked
 partidos online
@@ -38365,7 +38377,7 @@ pleasant blog
 pleasant designed
 pleasant good
 pleasant knowledge
-pleasant paragraph
+pleasant para
 pleasant post
 pleasant secret
 pleasant site
@@ -38376,7 +38388,7 @@ pleasant-blog
 pleasant-designed
 pleasant-good
 pleasant-knowledge
-pleasant-paragraph
+pleasant-para
 pleasant-post
 pleasant-secret
 pleasant-site
@@ -39334,6 +39346,7 @@ pradavest
 pragnanter firmen
 prägnanter firmen
 pragnanter-firmen
+praktiske og relevant
 pratik bilgiler
 pratik-bilgiler
 pratikbilgiler
@@ -40355,7 +40368,7 @@ quality new
 quality online
 quality option
 quality page
-quality paragraph
+quality para
 quality perspect
 quality plumbing
 quality porn
@@ -40707,7 +40720,7 @@ read it with pleasure
 read of your article
 read of your blog
 read of your content
-read of your paragraph
+read of your para
 read of your post
 read of your site
 read of your web
@@ -40715,7 +40728,7 @@ read ones article
 read ones blog
 read ones own
 read ones page
-read ones paragraph
+read ones para
 read ones post
 read ones site
 read ones web
@@ -40758,14 +40771,14 @@ reading this blog
 reading this content
 reading this essay
 reading this page
-reading this paragraph
+reading this para
 reading this site
 reading your article
 reading your blog
 reading your content
 reading your essay
 reading your page
-reading your paragraph
+reading your para
 reading your site
 reading your web
 reading-poker
@@ -40813,7 +40826,7 @@ really fantastic info
 really fastidious
 really fruitful
 really good essay
-really good paragraph
+really good para
 really great article
 really great blog
 really great essay
@@ -41159,6 +41172,7 @@ relax-private
 relaxation therefore
 relaxation-therefore
 release-from-movie
+relevante og praktisk
 reliable blog
 reliable plumbing service
 reliable weblog
@@ -41199,7 +41213,7 @@ remarkable is the
 remarkable life chang
 remarkable offer
 remarkable page
-remarkable paragraph
+remarkable para
 remarkable post
 remarkable practice
 remarkable site
@@ -41214,7 +41228,7 @@ remarkable-info
 remarkable-job
 remarkable-offer
 remarkable-page
-remarkable-paragraph
+remarkable-para
 remarkable-post
 remarkable-practice
 remarkable-site
@@ -41225,7 +41239,7 @@ remarkableblog
 remarkableinfo
 remarkablejob
 remarkablepage
-remarkableparagraph
+remarkablepara
 remarkablepost
 remarkablepractice
 remarkablesite
@@ -41563,7 +41577,7 @@ reports.php
 repost my article
 repost my blog
 repost my page
-repost my paragraph
+repost my para
 repost my web
 reputable service compan
 reputable-service-compan
@@ -41777,6 +41791,8 @@ revivalbeauty
 revive beauty
 revive-beauty
 revivebeauty
+revolutionary solution
+revolutionary-solution
 revolutionjog
 revolutionstroll
 revq.ru
@@ -42849,7 +42865,7 @@ sawfwaf
 say about this article
 say about this blog
 say about this page
-say about this paragraph
+say about this para
 say about this site
 say about this web
 say great article
@@ -44041,7 +44057,7 @@ share ones article
 share ones blog
 share ones own
 share ones page
-share ones paragraph
+share ones para
 share ones post
 share ones site
 share ones web
@@ -44057,6 +44073,7 @@ share your site
 share your weblog
 share your webpage
 share your website
+share your wise
 share-and-sub
 share-site
 share-ssite
@@ -44095,7 +44112,7 @@ sharing-your-home
 sharing, great article
 sharing, great blog
 sharing, great page
-sharing, great paragraph
+sharing, great para
 sharing, great post
 sharing, great site
 sharing, great web
@@ -44964,6 +44981,7 @@ skor-timber
 skoronline
 skorrea
 skortimber
+skrivejobb!
 skup-aut
 skup,aut
 sky pharm
@@ -45906,6 +45924,7 @@ stellarsale
 stendra
 step repair near
 step-repair-near
+step-to-how-to
 steroid counter
 steroid fake
 steroid online
@@ -47540,7 +47559,7 @@ that-photo-booth
 that, great article
 that, great blog
 that, great page
-that, great paragraph
+that, great para
 that, great post
 that, great site
 that, great web
@@ -47930,7 +47949,7 @@ this information procured
 this insightful article
 this insightful blog
 this insightful page
-this insightful paragraph
+this insightful para
 this insightful post
 this insightful web
 this internet site
@@ -50098,7 +50117,7 @@ up coming article
 up coming blog
 up coming link
 up coming page
-up coming paragraph
+up coming para
 up coming post
 up coming site
 up coming web
@@ -52843,14 +52862,14 @@ won article
 won blog
 won iphone
 won page
-won paragraph
+won para
 won site
 won web
 won-article
 won-blog
 won-iphone
 won-page
-won-paragraph
+won-para
 won-site
 won-web
 won?t
@@ -52873,14 +52892,14 @@ wonderful goods
 wonderful homepage
 wonderful informative
 wonderful online
-wonderful paragraph
+wonderful para
 wonderful post
 wonderful publish
 wonderful put up
 wonderful read!
 wonderful short article
 wonderful short blog
-wonderful short paragraph
+wonderful short para
 wonderful short post
 wonderful site
 wonderful web
@@ -52891,7 +52910,7 @@ wonderful-educational
 wonderful-homepage
 wonderful-informative
 wonderful-online
-wonderful-paragraph
+wonderful-para
 wonderful-post
 wonderful-publish
 wonderful-read
@@ -53130,7 +53149,7 @@ wow-cuz
 wow-gold
 wow, this article
 wow, this blog
-wow, this paragraph
+wow, this para
 wow, this post
 wow, this site
 wow, this weblog
@@ -54182,7 +54201,7 @@ yuk-slot
 yukslot
 yumeeyum
 yup this article
-yup this paragraph
+yup this para
 yur web
 yutyca
 yuuguu
