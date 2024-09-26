@@ -446,6 +446,9 @@ _в_москве
 -blackjack-
 -blackjack.
 -blackjack/
+-blockchain-
+-blockchain.
+-blockchain/
 -blog.
 -blog/
 -blogs.
@@ -1811,6 +1814,9 @@ _в_москве
 .blackjack.
 .blackjack/
 .bligblogging.
+.blockchain-
+.blockchain.
+.blockchain/
 .blog-gold.
 .blog.telrock.
 .blog0
@@ -3355,6 +3361,9 @@ _в_москве
 /blackjack-
 /blackjack.
 /blackjack/
+/blockchain-
+/blockchain.
+/blockchain/
 /blog:0
 /blog:1
 /blog:2
@@ -12094,6 +12103,8 @@ brazil bikini
 brazil-bikini
 brazilbikini
 brazzer
+bre blockchain
+bre-blockchain
 breakfast coming
 breakfast-coming
 breakk in
@@ -17764,6 +17775,9 @@ damierazur
 damskie
 dance online
 dance-online
+đang ky tai khoan
+đăng ký tài khoản
+đang-ky-tai-khoan
 dangerous post
 dangerous-post
 dangerouspost
@@ -19928,15 +19942,17 @@ empowernetwork
 empreendedor
 empresa apuesta
 empresa de apuesta
-empresa de referencia
-empresa de reparacione
+empresa de referenc
+empresa de reparaci
 empresa de servicio
 empresa familiar nacida
 empresa grande
 empresa-apuesta
 empresa-de-apuesta
-empresa-de-reparacione
+empresa-de-referenc
+empresa-de-reparaci
 empresa-de-servicio
+empresa-familiar-nacida
 empresa-grande
 empresarial gratuito
 empresarial-gratuito
@@ -35019,9 +35035,11 @@ negozio-hollis
 negoziohollis
 negozionline
 nest while safe
+net official
 net oficial
 net viewer
 net-biz
+net-official
 net-oficial
 net-turtle
 net-viewer
@@ -35514,9 +35532,27 @@ note of your site
 note of your web
 notfake
 nothng
+notice this article
+notice this blog
+notice this page
+notice this post
+notice this site
+notice this web
 noticeably a bundle
 noticeably plenty
 noticeably-plenty
+noticed the article
+noticed the blog
+noticed the page
+noticed the post
+noticed the site
+noticed the web
+noticed this article
+noticed this blog
+noticed this page
+noticed this post
+noticed this site
+noticed this web
 noticias noticia
 noticias-noticia
 noticias, noticia
@@ -36028,18 +36064,23 @@ office-depot-near
 office-error
 officeautopilot
 officeerror
+official crypto
 official giub
 official moncler
 official porn
+official reparaci
 official web
+official-crypto
 official-giub
 official-moncler
 official-porn
+official-reparaci
 official-sale
 official-steeler
 official-style
 official-ugg
 official-web
+officialcrypto
 officiale moncler
 officiale-moncler
 officialemoncler
@@ -36047,6 +36088,7 @@ officialgiub
 officialmailsite
 officialmoncler
 officialporn
+officialreparaci
 officialsale
 officialsteeler
 officialstyle
@@ -36072,11 +36114,14 @@ offline-forum
 offline-gratis
 ofhuman
 oficery
-oficial reparacione
-oficial-reparacione
+oficial crypto
+oficial reparaci
+oficial-crypto
+oficial-reparaci
+oficialcrypto
 oficialniy sayt
 oficialniy-sayt
-oficialreparacione
+oficialreparaci
 ofnews
 ogleogle
 ogrodowyparasol
@@ -43762,11 +43807,11 @@ servicio postventa
 servicio servicio
 servicio tan robusto
 servicio tecnico calenta
+servicio técnico calenta
 servicio tecnico electro
+servicio técnico electro
 servicio tecnico madrid
 servicio técnico madrid
-servicio tecnico oficial
-servicio técnico oficial
 servicio-calenta
 servicio-de-reparacion
 servicio-electro
@@ -47388,13 +47433,18 @@ techpartner
 tecnicas para voce
 técnicas para você
 tecnico electrodomestico
+tecnico official
+técnico official
 tecnico oficial
+técnico oficial
 tecnico y asistencia tecnica
 técnico y asistencia tecnica
 tecnico y servicio tecnica
 técnico y servicio tecnica
 tecnico-electrodomestico
+tecnico-official
 tecnico-oficial
+tecnicoofficial
 tecnicooficial
 teen cam
 teen female
