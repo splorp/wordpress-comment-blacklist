@@ -5384,6 +5384,7 @@ _в_москве
 /trx/
 /twilight-
 /txt/
+/u.to/
 /ugg-
 /ugg/
 /uggs-
