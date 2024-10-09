@@ -5168,6 +5168,7 @@ _в_москве
 /soft-ware.
 /soft-ware/
 /soft/
+/solo.to/
 /soma-
 /soma.
 /soma/
