@@ -5525,6 +5525,7 @@ _в_москве
 /wp-list
 /wp-plugin
 /wp-site
+/wts.la/
 /www.co/
 /www.com/
 /www.in/
