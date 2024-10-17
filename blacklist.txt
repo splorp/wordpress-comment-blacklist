@@ -7184,7 +7184,18 @@ acompanhantes go
 acompanhantes-go
 acompanhantesgo
 acomplia
+acquire a service
+acquire a vip
+acquire me service
 acquire me vip
+acquire my service
+acquire my vip
+acquire the service
+acquire the vip
+acquire this service
+acquire this vip
+acquire vip
+acquire-vip
 acros thee
 across a blog
 across of this article
@@ -7195,6 +7206,7 @@ action=click
 actioncall
 actions you desire
 activation code
+activation-code
 active revenue stream
 actively underwhelm
 actively-underwhelm
@@ -12633,6 +12645,7 @@ bust galter
 bust-galter
 bustgalter
 busythumb
+but for these which
 but great blog
 but great page
 but great para
@@ -19887,6 +19900,7 @@ elite eskort
 elite jers
 elite men
 elite model
+elite money
 elite sample
 elite wom
 elite-escort
@@ -19894,6 +19908,7 @@ elite-eskort
 elite-jers
 elite-men
 elite-model
+elite-money
 elite-sample
 elite-wom
 eliteescort
@@ -31758,6 +31773,7 @@ love cloud vegas
 love connect
 love cougar
 love flower
+love makes an excellent
 love master
 love mastur
 love perfect
@@ -37665,13 +37681,20 @@ parti rni
 parti-rni
 particular article
 particular broker
+particular good
+particular great
 particular profic
 particular same
+particular snack
 particular submit
 particular wearer
 particular-article
 particular-broker
+particular-good
+particular-great
 particular-profic
+particular-same
+particular-snack
 particular-wearer
 particularly good article
 particularly good content
@@ -37705,10 +37728,12 @@ parts bmw
 parts store near
 parts stores near
 parts superstore near
+parts superstores near
 parts-bmw
 parts-store-near
 parts-stores-near
 parts-superstore-near
+parts-superstores-near
 party poker
 party shirt
 party short dress
@@ -39826,6 +39851,7 @@ prescriptionacne
 present blog
 present now!
 present one thing back
+present the internet
 present weblog
 present website
 presentation however
@@ -42321,6 +42347,7 @@ root-explorer
 rootandroid
 rooted android
 rooted-android
+rootedandroid
 rootexplorer
 ropa belstaff
 ropa exterior
@@ -42333,6 +42360,7 @@ ropaexterior
 ropainterior
 ros hack
 ros-hack
+rosary shall be recited
 rose porn
 rose-porn
 rose-shoe
@@ -46279,6 +46307,8 @@ stalker-rp
 stalkerrp
 stand pameran
 stand-pameran
+standalone decision
+standalone-decision
 standen :(
 standing web
 standing-web
@@ -56440,6 +56470,7 @@ zyvox
 チャンルー
 であそぼ
 ティエンポ
+ディズニー
 ティファニ
 ティンバ
 デュベティカ
@@ -56690,6 +56721,7 @@ zyvox
 谋t
 財布
 貿易
+資信託
 資産の保全
 購買
 资的回报
