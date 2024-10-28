@@ -7758,11 +7758,13 @@ afflictionoffer
 afford afford
 afford-afford
 affordable afford
+affordable glasses
 affordable hand
 affordable pay
 affordable seo
 affordable traffic
 affordable-afford
+affordable-glasses
 affordable-hand
 affordable-pay
 affordable-seo
@@ -8036,6 +8038,8 @@ allergies difficult
 allincluzive
 allinone
 alll th
+allmy.bio
+allmybio
 allmylink
 alloaed
 allocine series
@@ -12147,6 +12151,8 @@ brand-nhl
 brand-sale
 brand-top
 brand-wto
+branded glasses
+branded-glasses
 brandengage
 brandiwc
 brandjap
@@ -16317,6 +16323,7 @@ computerpressrelease
 comreview
 comunity
 concentrate exist
+concept for startup
 concerned in this issue
 concerned in this subject
 concerned in this topic
@@ -24493,6 +24500,7 @@ gointeractive
 gojp.co
 gold apk
 gold are stunning
+gold came from
 gold celebrit
 gold coast solar
 gold earring
@@ -27145,6 +27153,7 @@ hour-payday
 hourfund
 hourpayday
 hous insur
+house dwelling
 house exterior luxury
 house interior luxury
 house mover near
@@ -27152,6 +27161,7 @@ house movers near
 house obtainable
 house plan ranging
 house washing near
+house-dwelling
 house-exterior-luxury
 house-interior-luxury
 house-mover-near
@@ -27161,9 +27171,11 @@ house-washing-near
 house,cozy
 house.cozy
 houseforsale
+household dwelling
 household identify
 household recollect
 household trip
+household-dwelling
 household-identify
 household-recollect
 household-trip
@@ -44902,12 +44914,14 @@ shop near me
 shop near you
 shop now -
 shop online
+shop our collection
 shop our homecoming
 shop place near
 shop places near
 shop sell perfume
 shop sells perfume
 shop thai
+shop the collection
 shop web
 shop-afl
 shop-ban-phu
@@ -44926,12 +44940,14 @@ shop-near-you
 shop-nfl
 shop-now
 shop-online
+shop-our-collection
 shop-our-homecoming
 shop-pin
 shop-place-near
 shop-places-near
 shop-shoe
 shop-thai
+shop-the-collection
 shop-to-you
 shop-uk
 shop-us
@@ -51002,6 +51018,8 @@ usedguns
 usｅɗ
 useful advice within
 useful blog
+useful idiom
+useful-idiom
 usefulness of your content
 usefuyl
 user genial
@@ -56606,6 +56624,8 @@ zyvox
 オンラインカジノ
 お客
 お店を
+お玉 鉄
+お玉鉄
 お金を
 ガガ
 カジュアル
@@ -56704,6 +56724,7 @@ zyvox
 ベルトメンズ
 ポーター
 ボーンチ
+ポイントキャンペ
 ボカロ 作者
 ボクシングジム
 ホグロフス
@@ -56793,6 +56814,8 @@ zyvox
 块钱
 増税
 壯陽
+外国 株
+外国株
 外贸
 夢占い
 大除毛
@@ -56841,6 +56864,7 @@ zyvox
 日の天気
 日経500
 春藥
+時給
 晶燈
 替 予想
 替予想
@@ -56848,6 +56872,8 @@ zyvox
 服务
 札入れ
 株価
+株式 ファンド
+株式ファンド
 株式会社
 样死
 棒 英語
@@ -56861,6 +56887,7 @@ zyvox
 殺手的秘
 毛刈
 永久的耻辱
+派遣社員
 消費税
 深圳新闻
 湖南快
@@ -56900,6 +56927,7 @@ zyvox
 線上電競
 繰越金
 线上销售
+習慣
 考，
 聊球通
 脳症
@@ -56930,6 +56958,7 @@ zyvox
 購買
 资的回报
 赌场
+赤毛の
 軟體補給
 転職
 輸入
@@ -56965,9 +56994,11 @@ zyvox
 韓国音楽
 顔タイプ
 香水
+高 配当
 高画質
 高級 ラブドール
 高級ラブドール
+高配当
 魔除
 ?
 蘒
