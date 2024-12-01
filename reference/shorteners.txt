@@ -83,6 +83,7 @@
 /past.is/
 /pastein.ru/
 /pastelink.net/
+/pastenote.net/
 /posts.gle/
 /ppus.tk/
 /prephe.ro/
