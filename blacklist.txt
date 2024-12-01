@@ -5178,6 +5178,7 @@ _в_москве
 /sn.im/
 /snapback-
 /snapback.
+/snippet.host/
 /snipurl.co/
 /snowboot-
 /snowboot.

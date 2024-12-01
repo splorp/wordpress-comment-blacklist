@@ -107,6 +107,7 @@
 /smarturl.it/
 /smsh.me/
 /sn.im/
+/snippet.host/
 /snipurl.co/
 /solo.to/
 /sqworl.com/
