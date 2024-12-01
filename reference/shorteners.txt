@@ -82,6 +82,7 @@
 /p.ip.fi/
 /past.is/
 /pastein.ru/
+/pastelink.net/
 /posts.gle/
 /ppus.tk/
 /prephe.ro/

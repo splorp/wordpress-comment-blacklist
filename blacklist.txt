@@ -4792,6 +4792,7 @@ _в_москве
 /party-boat-
 /past.is/
 /pastein.ru/
+/pastelink.net/
 /phan-biet-
 /phan-biet.
 /phan-biet/
