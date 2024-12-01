@@ -4657,6 +4657,7 @@ _в_москве
 /north-face
 /northface-
 /northface.
+/notes.io/
 /novinki-
 /novinki.
 /npn-
