@@ -3224,6 +3224,7 @@ _в_москве
 /ano.gd/
 /anonymous-
 /anonymous.
+/anotepad.com/
 /answer-
 /answer.
 /apiclick?
