@@ -4764,6 +4764,7 @@ _в_москве
 /p.ctr?
 /p.htm?
 /p.html?
+/p.ip.fi/
 /p.jsp?
 /p.php?
 /p.pl?
