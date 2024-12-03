@@ -2155,6 +2155,7 @@ _в_москве
 .harvoni-
 .harvoni.
 .harvoni/
+.hastebin.
 .hatenablog.
 .hatenadiary.
 .hdfilm-
@@ -2374,6 +2375,10 @@ _в_москве
 .page3.
 .page4.
 .page5.
+.paste.
+.paste/?
+.paste2.
+.pastebin.
 .ph,
 .ph/,
 .ph/?
@@ -4110,18 +4115,7 @@ _в_москве
 /harvoni-
 /harvoni.
 /harvoni/
-/hastebin.c
-/hastebin.f
-/hastebin.g
-/hastebin.i
-/hastebin.j
-/hastebin.l
-/hastebin.m
-/hastebin.o
-/hastebin.p
-/hastebin.r
-/hastebin.t
-/hastebin.v
+/hastebin.
 /hats/
 /hdfilm-
 /hdfilm.
@@ -4803,43 +4797,10 @@ _в_москве
 /parafon/
 /party-boat-
 /past.is/
-/paste.c
-/paste.f
-/paste.g
-/paste.i
-/paste.j
-/paste.l
-/paste.m
-/paste.o
-/paste.p
-/paste.r
-/paste.t
-/paste.v
+/paste.
 /paste/?
-/paste2.c
-/paste2.f
-/paste2.g
-/paste2.i
-/paste2.j
-/paste2.l
-/paste2.m
-/paste2.o
-/paste2.p
-/paste2.r
-/paste2.t
-/paste2.v
-/pastebin.c
-/pastebin.f
-/pastebin.g
-/pastebin.i
-/pastebin.j
-/pastebin.l
-/pastebin.m
-/pastebin.o
-/pastebin.p
-/pastebin.r
-/pastebin.t
-/pastebin.v
+/paste2.
+/pastebin.
 /pastein.ru/
 /pastelink.net/
 /pastenote.net/
@@ -21851,6 +21812,7 @@ fastidious repl
 fastidious respo
 fastidious site
 fastidious thin
+fastidious thing
 fastidious thou
 fastidious under
 fastidious urg
@@ -21874,6 +21836,7 @@ fastidious-repl
 fastidious-respo
 fastidious-site
 fastidious-thin
+fastidious-thing
 fastidious-thou
 fastidious-under
 fastidious-urg
@@ -39603,6 +39566,7 @@ porn ann
 porn app
 porn beer
 porn big
+porn bus
 porn cash
 porn clip
 porn cocuk
@@ -39672,6 +39636,7 @@ porn-3d
 porn-19
 porn-365
 porn-ann
+porn-bus
 porn-cash
 porn-clip
 porn-hd
@@ -39696,6 +39661,7 @@ pornangel
 pornapp
 pornbeer
 pornbig
+pornbus
 porncash
 pornclip
 porncocuk
@@ -57160,6 +57126,8 @@ zyvox
 ウェブサイト
 ヴェルサーチ
 うつ病
+うまい 店
+うまい店
 エアジョーダン
 エスパドリーユ
 エモい
