@@ -2111,6 +2111,7 @@ _в_москве
 .forex-
 .forex.
 .forex/
+.fotosdefrases.
 .fr,
 .fr/,
 .freeoda.
@@ -2312,6 +2313,7 @@ _в_москве
 .magnoto.
 .marant-
 .marvsz.
+.maschinenbau-
 .massage-
 .mee.nu
 .meme-
@@ -2467,6 +2469,7 @@ _в_москве
 .ppsspp/
 .press-release.
 .pressrelease.
+.privatebin.
 .promo-
 .promo.
 .promo/
@@ -2943,6 +2946,7 @@ _в_москве
 /----/
 /---/
 /-/?
+/?cb=
 /?http
 /?site=
 /?to=
@@ -4448,6 +4452,7 @@ _в_москве
 /link.jsp?
 /link.php?
 /link.pl?
+/link.space/@
 /link/
 /link/?
 /linkdetail
@@ -8682,6 +8687,7 @@ appointment online near
 appointment-online-near
 apprecfiate
 appreciaqte
+appreciate the insight
 appreciate this blog
 appreciate this content
 appreciate this post
@@ -14338,6 +14344,7 @@ certainly flawlessly
 certainly pronoun
 certainly-comeback
 certainly-pronoun
+certaunly
 certtain
 cerveja artesanal
 cerveja de mais
@@ -18483,6 +18490,7 @@ denture-dentists-near
 dep nhat
 đẹp nhất
 dep-nhat
+depart it in place
 depart your blog
 depart your page
 depart your site
@@ -22511,6 +22519,7 @@ first-loan
 first-small-street
 firstclass-web
 firstclassweb
+firstly, you
 fish casino
 fish-casino
 fishcasino
@@ -23686,8 +23695,10 @@ futbolbarcelona
 futuristic-market
 futuristicmarket
 fx profit
+fx 予測
 fx-profit
 fxprofit
+fx予測
 fⲟ
 fа
 fе
@@ -25372,6 +25383,7 @@ great blog, keep
 great blog, stick
 great blog, you
 great blogroll
+great breakdown!
 great delivery, exact
 great delivery, great
 great delivery. exact
@@ -27957,6 +27969,8 @@ in faact
 in gogle
 in light up
 in logo ladi
+in myy
+in mʏ
 in paying which
 in storage worth
 in terrific element
@@ -28992,6 +29006,8 @@ iq science
 iq-option
 iq-science
 iq,science
+iqos iluma
+iqos-iluma
 ir=http
 ira kit
 ira-kit
@@ -29399,6 +29415,9 @@ jassen-out
 jassendames
 jassenneder
 jassenout
+jav safari
+jav-safari
+javsafari
 jay porn
 jay-porn
 jayngarl
@@ -30034,6 +30053,7 @@ keep up posting
 keep up writing
 keep writing!
 keep you harmless
+keeping with the prevail
 keepp up
 keepp work
 keluaran hong
@@ -30289,6 +30309,9 @@ knewgedlo
 knicely
 knigki
 knigko
+kno about
+kno that
+kno this
 kno what
 knockoff eyewear
 knockoff hand
@@ -30304,6 +30327,7 @@ knolckoff
 know about this issue
 know about this subject
 know about this topic
+know nicely
 know whatt
 know-web
 knowhowto
@@ -35307,6 +35331,7 @@ myvirus
 myweb
 mywweb
 myy blog
+myy case
 myy friend
 myy home
 myy page
@@ -35314,6 +35339,7 @@ myy site
 myy sitte
 myy web
 mʏ blog
+mʏ case
 mʏ friend
 mʏ home
 mʏ page
@@ -39338,6 +39364,7 @@ points you have written
 points-generat
 points-to-think
 pointsgenerat
+pointys
 poished
 poisk-nomera-tele
 pojap
@@ -41229,6 +41256,7 @@ qatarescort
 qatareskort
 qayrl
 qhttp
+qooh.me
 qq 77
 qq 88
 qq blog
@@ -45497,8 +45525,10 @@ shouldn”t
 shouldn`t
 shouldnít
 shouldnt
+show_user
 show-news
 show-topic
+show-user
 showbiz gaming
 showbiz-gaming
 showbiz, gaming
@@ -57223,6 +57253,8 @@ zyvox
 クポン
 クラシック
 クリスタルワンド
+クリニック 予約
+クリニック予約
 クロエ
 クロムハーツ
 クロムハツ
@@ -57284,6 +57316,7 @@ zyvox
 と理解
 ド違反
 ナイキ
+ナイトサファリ
 ニューバランス
 に可愛い
 ネックレス
@@ -57303,6 +57336,8 @@ zyvox
 バンクオブアメリカ
 バンズ
 パン化学
+ピアノ 現代
+ピアノ現代
 ビットコイン
 ビトン
 ブーツ
@@ -57384,6 +57419,7 @@ zyvox
 人形 エロ
 人形エロ
 人気
+今後の見
 仕事未経験
 仕入れ
 他の製品
@@ -57635,7 +57671,7 @@ zyvox
 貸切風呂
 貿易
 資信託
-資産の保全
+資産
 購買
 资的回报
 赌场
