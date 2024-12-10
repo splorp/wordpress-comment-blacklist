@@ -66,6 +66,7 @@
 /l.linklyhq.com/
 /l2u.su/
 /lil.ink/
+/lil.so/
 /lite.al/
 /loorg.de/
 /lstu.fr/

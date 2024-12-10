@@ -4414,6 +4414,7 @@ _в_москве
 /libs/
 /lijst/
 /lil.ink/
+/lil.so/
 /limewire
 /limited-edition-
 /lineshake-
