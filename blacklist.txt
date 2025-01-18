@@ -5019,6 +5019,7 @@ _в_москве
 /rank.php?
 /rank.pl?
 /rank/?
+/rant.li/
 /ray-ban-
 /ray-ban.
 /ray-ban/
