@@ -2820,6 +2820,7 @@ _в_москве
 .vulpyx.
 .vulpyx/
 .wantedly.
+.web.core.windows.
 .web.telrock.
 .web1.
 .web2.
@@ -7286,6 +7287,7 @@ acquire me service
 acquire me vip
 acquire my service
 acquire my vip
+acquire some earning
 acquire the service
 acquire the vip
 acquire this service
@@ -7852,12 +7854,14 @@ afflictionoffer
 afford afford
 afford-afford
 affordable afford
+affordable collectible
 affordable glass
 affordable hand
 affordable pay
 affordable seo
 affordable traffic
 affordable-afford
+affordable-collectible
 affordable-glass
 affordable-hand
 affordable-pay
@@ -7990,6 +7994,8 @@ aklotr
 akril-panel
 akrilpanel
 aksudmias
+aktualisierten bonus
+aktualisierten-bonus
 aktuel nachricht
 aktuel news
 aktuel press
@@ -9521,6 +9527,7 @@ autre artic
 autre-artic
 autres equip
 autres-equip
+autumn marriage ceremony
 avail-clock
 available bargain
 available best
@@ -11930,6 +11937,7 @@ bonus money
 bonus selamat
 bonus setiap
 bonus site
+bonus zu beginnen
 bonus-bet-win
 bonus-casino
 bonus-code
@@ -11937,6 +11945,7 @@ bonus-money
 bonus-selamat
 bonus-setia
 bonus-site
+bonus-zu-beginnen
 bonus.site
 bonuscasino
 bonuscode
@@ -13481,7 +13490,9 @@ camiseta mlb
 camiseta nba
 camiseta nfl
 camiseta nhl
-camiseta personalizada
+camiseta persona
+camiseta polo
+camiseta portugal
 camiseta_
 camiseta-espana
 camiseta-futbol
@@ -13489,26 +13500,33 @@ camiseta-mlb
 camiseta-nba
 camiseta-nfl
 camiseta-nhl
-camiseta-personalizada
+camiseta-persona
+camiseta-polo
+camiseta-portugal
 camisetafutbol
+camisetapolo
+camisetaportugal
 camisetas futbol
 camisetas hollis
 camisetas mlb
 camisetas nba
 camisetas nfl
 camisetas nhl
-camisetas personalizada
+camisetas persona
 camisetas polo
+camisetas portugal
 camisetas_
 camisetas-futbol
 camisetas-hollis
 camisetas-nba
 camisetas-nfl
-camisetas-personalizada
+camisetas-persona
 camisetas-polo
+camisetas-portugal
 camisetasfutbol
 camisetashollis
 camisetaspolo
+camisetasportugal
 campaignid
 camper ac repair
 camper airbnb near
@@ -15773,6 +15791,7 @@ cleaning,the
 cleaning.the
 clear clarif
 clear clear
+clear your mortgage
 clear-clarif
 clear-clear
 clearance mbt
@@ -15791,6 +15810,7 @@ clearanceout
 clearancesale
 clearclarif
 clearclear
+cleared your mortgage
 cleef replic
 cleef-replic
 clenbuterol
@@ -18509,6 +18529,7 @@ deal benefit
 deal flow
 deal livingsocial
 deal of problem
+deal seeker
 deal this blog
 deal this page
 deal this site
@@ -18520,6 +18541,7 @@ deal-4u
 deal-benefit
 deal-eu
 deal-flow
+deal-seeker
 deal-uk
 deal-us
 deal.bl
@@ -18540,6 +18562,7 @@ deals-us
 deals2u
 deals4u
 dealse-site
+dealseeker
 dealseu
 dealsuk
 dealsus
@@ -19571,6 +19594,8 @@ dollarserv
 dolphins jers
 dolphins-jers
 dolphinsjers
+doma pod kluch
+doma-pod-kluch
 domain site
 domain-123
 domain-site
@@ -20175,9 +20200,11 @@ eâcute
 eager of read
 eagerly wiggling
 eagerly-wiggling
-eaglefight.eaglefight
+eaglefight.eagle
 eairfix
+early stage bet
 early-signs-of
+early-stage-bet
 earn $
 earn 100 a day
 earn 200 a day
@@ -20203,8 +20230,12 @@ earn-extra-money
 earn-more-cash
 earn-more-money
 earncrypto
+earning generat
 earning of crypto
+earning-generat
+earnings generat
 earnings of crypto
+earnings-generat
 earthly lover
 earthly-lover
 easier consume
@@ -21439,7 +21470,9 @@ exceptional short para
 exceptional short post
 exceptional short web
 exceptional-blog
+excessive potential
 excessive suitcase
+excessive-potential
 excessively skill
 excessively-skill
 exchange buying and selling
@@ -21951,6 +21984,7 @@ fakesteroid
 fakesunglass
 fakeugg
 fakewatch
+fall marriage ceremony
 false passport
 false-doc
 false-passport
@@ -22640,6 +22674,7 @@ fight mark
 fight-click
 fight-drone
 fight-mark
+fight.eaglefight
 fightclick
 fighting click
 fighting drone
@@ -24079,14 +24114,17 @@ fútbol barata
 futbol barcelona
 futbol maclari
 futbol maçları
+futbol shop
 futbol store
 futbol-barata
 futbol-barcelona
 futbol-maclari
+futbol-shop
 futbol-store
 futbol/forum
 futbolbarata
 futbolbarcelona
+futbolshop
 futbolstore
 futuristic-market
 futuristicmarket
@@ -25291,6 +25329,7 @@ good guys channel
 good hemp
 good homepage
 good intelligen
+good items!
 good jon admin
 good jon bro
 good jon mate
@@ -28904,6 +28943,8 @@ injury-attorn
 injury-lawyer
 injuryattorn
 injurylawyer
+inland revenue
+inland-revenue
 inn accordance
 inna cena
 inna-cena
@@ -29290,6 +29331,7 @@ internetwriters
 interpessoal online
 interpessoal-online
 interrest
+interrupt out some
 intersting
 interview question near
 interview questions near
@@ -33706,6 +33748,7 @@ massage massage
 massage on site
 massage person
 massage place
+massage spa
 massage therapy at
 massage therapy in
 massage tool
@@ -33725,6 +33768,7 @@ massage-massage
 massage-on-site
 massage-person
 massage-place
+massage-spa
 massage-tool
 massage-velvet
 massagechair
@@ -33904,6 +33948,7 @@ mayin-eskort
 mayinescort
 mayineskort
 mayy think
+mbed.com/users
 mbt ayakkab
 mbt baridi
 mbt boot
@@ -34681,6 +34726,8 @@ millionlink
 millionyuan
 millones dolar
 millones-dolar
+mind damage
+mind-damage
 mindfulness you
 mindset activ
 mindset-activ
@@ -36187,6 +36234,7 @@ near getting there
 near me open
 near my location
 near near
+near white such
 near_me
 near-me-open
 near-my-location
@@ -38283,6 +38331,8 @@ outstandingsite
 outstandingtopic
 outstandingweb
 outstdanding
+outward stimuli
+outward-stimuli
 ovariancyst
 over camper near
 over the internet
@@ -38298,6 +38348,8 @@ overcoming-goog
 overnight pharmacy
 overnight-pharmacy
 overnightpharmacy
+oversize porcelain
+oversize-porcelain
 own blog
 own blogroll
 own few blog
@@ -41140,6 +41192,7 @@ pretty-review
 pretty-worth
 prettyworth
 previcox
+previous the point
 prezzi bors
 prezzi giub
 prezzi-bors
@@ -42151,7 +42204,9 @@ racing gaming
 racing hack
 racing-gaming
 racing-hack
+racing-nation
 racinghack
+racingnation
 racy poker
 racy-poker
 racypoker
@@ -46247,6 +46302,7 @@ short article together
 short bodycon
 short term loan
 short ugg
+short-article-together
 short-bodycon
 short-term-loan
 short-ugg
@@ -47389,7 +47445,9 @@ sp.o.r.t
 sp1 key
 sp1-key
 spa getaway
+spa near me
 spa-getaway
+spa-near-me
 spaccio gucci
 spaccio woolrich
 spaccio-gucci
@@ -47499,6 +47557,8 @@ spiel-automat
 spiel-casino
 spielautomat
 spielcasino
+spielgeld gibt
+spielgeld-gibt
 spielleiterin be
 spielleiterin ist
 spilivanie derev'yev
@@ -47630,6 +47690,7 @@ sprawdzone narzędzia
 sprawdzone-narzedzia
 sprawdzonenarzedzia
 spribe
+spring marriage ceremony
 spring repair near
 spring-repair-near
 springs repair near
@@ -47706,6 +47767,7 @@ ssylki ozaim
 ssylki-na-ozaim
 ssylki-na-sajt
 ssylki-ozaim
+ssyoutube
 sta'sean
 sta’sean
 stacks of fancy
@@ -48435,6 +48497,7 @@ suites bathroom
 suites-bathroom
 sumatriptan
 summer coach
+summer marriage ceremony
 summer mom
 summer-coach
 summer-mom
@@ -48864,10 +48927,13 @@ tài chính đầy
 tai game
 tai ionline
 tai online
+tai video
+tải video
 tai-chinh-day
 tai-game
 tai-ionline
 tai-online
+tai-video
 taiflor
 taigame
 taiionline
@@ -50701,6 +50767,7 @@ too big or too
 too business
 too do my
 too much real
+too near white
 too small or too
 too thun
 too-thun
@@ -51332,9 +51399,14 @@ tremendous-writings
 trempe sous
 trempe-sous
 tren terbaru
+tren youtube
+trên youtube
 tren-terbaru
+tren-youtube
 trend shop
+trend youtube
 trend-shop
+trend-youtube
 trends shop
 trends-shop
 trendshop
@@ -54942,6 +55014,7 @@ winning-online
 winningonline
 winonline
 winter jassen
+winter marriage ceremony
 winter-jassen
 winterjassen
 wirh you
@@ -57076,6 +57149,7 @@ zyvox
 игровом клубе
 игровые
 игровых
+идеалните дънки
 иж пневмо
 извиняюсь, но
 изготовлен
@@ -57106,6 +57180,7 @@ zyvox
 казино rox
 казино рокс
 как выбрать
+как да изберете
 как играть
 как работать
 каталог фабер
@@ -57657,6 +57732,7 @@ zyvox
 хорошая мысль
 хорошего понемногу
 хорошего хирурга
+хостинг нормал
 хочется уз
 худеть
 хуй
@@ -58029,11 +58105,13 @@ zyvox
 เช่าโต๊ะ
 ซอฟต์แวร์แช
 ด้เงินจริง
+ดอกไม้ deliver
 ดอกไม้ใกล้ฉัน
 เดรส ราคาถูก
 เดรสราคาถูก
 ต่างหู
 ถอนไม่อั้น
+ถือได้!
 นพนัน
 แนะนำ กัญชา
 บริการดีสุด
@@ -58056,6 +58134,7 @@ zyvox
 ระบบจัดการแ
 รับจัดดอ
 รับจำนอง
+ราคาถูก
 ร้านดอกไม้ใก
 รีวิวดี
 รีวิวสินค้า
@@ -58068,6 +58147,7 @@ zyvox
 เว็บแทง
 เว็บไหน
 ส่งฟรี
+สดใหม่!
 สถานที่ จัดงานแต่งงาน
 สมัคร top
 สล็อต
@@ -58425,6 +58505,8 @@ zyvox
 ラブライ
 ランキング
 ランジェリー
+リート ファンド
+リートファンド
 り動画
 ル nhk
 ルnhk
@@ -58532,6 +58614,8 @@ zyvox
 固定資
 團隊創業
 块钱
+基準 価
+基準価
 増税
 士資格
 壯陽
@@ -58626,7 +58710,9 @@ zyvox
 春藥
 時給
 晶燈
+替 ヘッジ 
 替 予想
+替ヘッジ 
 替予想
 有名な
 有限公司
@@ -58732,6 +58818,8 @@ zyvox
 色々と語
 花火
 芸能人
+英語 返事
+英語返事
 茅
 荷物
 落枕
@@ -58741,6 +58829,7 @@ zyvox
 行動電源
 装着
 製車両
+計事務所
 証券パスワ
 評価
 試，
