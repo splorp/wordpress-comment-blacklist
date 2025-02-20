@@ -68,6 +68,7 @@
 /lil.ink/
 /lil.so/
 /lite.al/
+/ln.run/
 /loorg.de/
 /lstu.fr/
 /lvl.vn/
@@ -103,6 +104,7 @@
 /schott.im/
 /sco.lt/
 /shorte.st/
+/shorten.is/
 /shorturl.at/
 /shorturl.co/
 /shrinke.me/

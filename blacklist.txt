@@ -4531,6 +4531,7 @@ _в_москве
 /list-
 /list.
 /lite.al/
+/ln.run/
 /lnkcnt?
 /lnkcnt.ashx?
 /lnkcnt.asp?
@@ -5219,6 +5220,7 @@ _в_москве
 /shortcodes-
 /shortcodes/
 /shorte.st/
+/shorten.is/
 /shorturl.at/
 /shorturl.co/
 /show-score-
