@@ -104,6 +104,7 @@ _prada
 _precios
 _redir
 _rolex
+_rostokva
 _selebriti
 _seo
 _sex
@@ -2275,6 +2276,7 @@ _москве
 .iphone-x/
 .it/?
 .it/t/
+.it/www
 .izrablog.
 .izrablogs.
 .jaiblog.
@@ -6608,6 +6610,7 @@ $sixty
 77 offic
 77-login
 77-offic
+77.ru
 77login
 77offic
 77ru.
@@ -15984,6 +15987,8 @@ clearancesale
 clearclarif
 clearclear
 cleared your mortgage
+clearly evocative
+clearly-evocative
 cleef replic
 cleef-replic
 clenbuterol
@@ -16929,7 +16934,11 @@ confort și estetic
 confort-si-estetic
 cong cu tim
 công cụ tìm
+cong game
+cổng game
 cong-cu-tim
+cong-game
+conggame
 congratses
 connect conversion van
 connect you track
@@ -25223,6 +25232,7 @@ ginkgo beneficio
 ginkgo-beneficio
 ginzza
 giongcaytrong
+giphy.com/channel/
 giris yap
 giriş yap
 giris-yap
@@ -25508,6 +25518,7 @@ gmod-stalker
 gmoolah
 gneuienly
 gnlaser
+go 88
 go here banner
 go here to view
 go to choice
@@ -25515,6 +25526,7 @@ go viral,
 go viral!
 go viral?
 go watchs
+go-88
 go-to choice
 go-to-choice
 go-watchs
@@ -25524,6 +25536,7 @@ go.ad.k
 go.adk
 go=//
 go0gle
+go88
 goa.d.k
 goa.dk
 goad.k
@@ -32678,6 +32691,7 @@ live article
 live gore
 live hack
 live naked
+live now fox
 live odds
 live pharm
 live roulette
@@ -32686,6 +32700,7 @@ live-article
 live-gore
 live-hack
 live-naked
+live-now-fox
 live-odds
 live-pharm
 live-roulette
@@ -32701,6 +32716,7 @@ livehack
 liveledgerlive
 livelive.ru
 livenaked
+livenowfox
 liveodds
 livepharm
 liveroulette
@@ -38719,6 +38735,7 @@ orologi-uomo
 orologiuomo
 os depoimento
 os-depoimento
+osago.ru
 osmar terra
 osobistosci
 osobistości
@@ -41558,6 +41575,9 @@ ppc-affiliate
 ppc-compan
 ppc-program
 ppiece of
+ppr 77
+ppr-77
+ppr77
 ppv camp
 ppv click
 ppv cpa
@@ -44451,6 +44471,7 @@ roshe run
 roshe-run
 rosherun
 rossglod
+rostokva_
 rosuvastatin
 rotating-hot-iron
 rotatinghotiron
@@ -50397,10 +50418,17 @@ thailandm88
 thailove
 than forex
 than-forex
+thanh nhac
+thanh nhạc
+thành nhac
+thành nhạc
 thanh tn
+thành tn
+thanh vien
+thành viên
 thanh-nhac
-thanh-nhạc
 thanh-tn
+thanh-vien
 thank for article
 thank for blog
 thank for post
@@ -51192,6 +51220,9 @@ tiaras passo
 tiaras-passo
 tidur victor
 tidur-victor
+tien thuong
+tiền thưởng
+tien-thuong
 tienda barata
 tienda barato
 tienda futbol
@@ -58059,7 +58090,7 @@ zyvox
 домены
 дорогие россияне
 доска объявлеий
-доставка
+доставк
 достижения мастер
 достижения успеха
 доход
@@ -59913,6 +59944,8 @@ zyvox
 茅
 荷物
 落枕
+薬歴 書
+薬歴書
 薬物 効果
 薬物効果
 藥專
