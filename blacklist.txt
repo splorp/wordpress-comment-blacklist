@@ -6190,9 +6190,11 @@ $sixty
 1valu
 1vari
 1vine
+1win_
 1xbet
 1you
 1zoop
+1вин
 2 appli
 2 casino
 2 into $
@@ -24173,8 +24175,8 @@ free-skins
 free-snapchat
 free-spin-link
 free-spin-offer
-free-spins-offer
 free-spins-link
+free-spins-offer
 free-stock-trad
 free-strat
 free-super
@@ -29446,12 +29448,13 @@ informative content here
 informative content there
 informative looks great
 informative post
-informative read.
+informative read
 informative site
 informative web
 informative-article
 informative-blog
 informative-post
+informative-read
 informative-site
 informative-web
 informativeblog
@@ -30834,7 +30837,10 @@ joma jewelry
 joma-jewelery
 joma-jewellery
 joma-jewelry
+jong kondang
+jong-kondang
 jonge en dynamische
+jongkondang
 jonitogel
 joomla make
 joomla-make
@@ -33989,6 +33995,8 @@ making-provider
 makingmoney
 makke sure
 maklare
+maklumat pemer
+maklumat-pemer
 malatya escort
 malatya eskort
 malatya-escort
@@ -40159,6 +40167,7 @@ percocet
 perder peso
 perder-peso
 perderpeso
+pereplanirovka
 perfect blog
 perfect diet
 perfect interest
@@ -40642,9 +40651,9 @@ pimped resume
 pimples free
 pimples-free
 pin dump
-pin up azerbaycan
+pin up azer
 pin-dump
-pin-up-azerbaycan
+pin-up-azer
 pin, dump
 pine-and-onyx
 ping your self
@@ -40656,8 +40665,8 @@ pins dump
 pins-dump
 pinterest freetalk
 pinterest-freetalk
-pinup azerbaycan
-pinup-azerbaycan
+pinup azer
+pinup-azer
 pioggia gucci
 pioggia-gucci
 pioggiagucci
@@ -49005,6 +49014,7 @@ stodios beat
 stodios-beat
 stodiosbeat
 stole my ipad
+stomatologiya
 ston coin
 ston-coin
 stoncoin
