@@ -1067,6 +1067,7 @@ _москве
 -montblanc.
 -montblanc/
 -mortgage-
+-moskva.ru
 -most-effective-
 -most-effective.
 -most-effective/
@@ -2661,11 +2662,13 @@ _москве
 .ru/liga
 .ru/load
 .ru/lol
+.ru/mater
 .ru/member
 .ru/news
 .ru/novost
 .ru/page
 .ru/pict
+.ru/price
 .ru/product
 .ru/profil
 .ru/prog
@@ -3019,6 +3022,7 @@ _москве
 /?cb=
 /?http
 /?site=
+/?srsltid=
 /?to=
 /?url=
 /.wd/
@@ -6566,6 +6570,7 @@ $sixty
 24home
 24hourwrist
 24online
+24top.ru
 24x7.to
 ３０％
 ３０＄
@@ -18055,6 +18060,7 @@ cursinho sinuca
 cursinho sublim
 cursinho sustent
 cursinho trad
+cursinho webinar
 cursinho-banco
 cursinho-barbeiro
 cursinho-bases
@@ -18116,6 +18122,7 @@ cursinho-sinuca
 cursinho-sublim
 cursinho-sustent
 cursinho-trad
+cursinho-webinar
 curso banco
 curso barbeiro
 curso bases
@@ -18195,6 +18202,7 @@ curso sinuca
 curso sublim
 curso sustent
 curso trad
+curso webinar
 curso-banco
 curso-barbeiro
 curso-bases
@@ -18264,6 +18272,7 @@ curso-sinuca
 curso-sublim
 curso-sustent
 curso-trad
+curso-webinar
 cursoonline
 cursos banco
 cursos barbeiro
@@ -18342,6 +18351,7 @@ cursos sinuca
 cursos sublim
 cursos sustent
 cursos trad
+cursos webinar
 cursos-banco
 cursos-barbeiro
 cursos-bases
@@ -18408,6 +18418,7 @@ cursos-sinuca
 cursos-sublim
 cursos-sustent
 cursos-trad
+cursos-webinar
 curvy shapewear
 curvy-shapewear
 cushion sofa
@@ -20620,6 +20631,8 @@ earnings of crypto
 earnings-generat
 earthly lover
 earthly-lover
+ease your pain
+ease-your-pain
 easier consume
 easier to available
 easiest afford
@@ -20819,6 +20832,8 @@ ekstensywne pracochłonne
 ekstensywne-pracochlonne
 eksterior victoria
 eksterior-victoria
+ekzotichni pochiv
+ekzotichni-pochiv
 el-gordo.c
 elaborassem conteudo
 elaborassem conteúdo
@@ -31206,6 +31221,7 @@ kartaleskort
 kartu poker
 kartu-poker
 karuteie
+kashpo
 kasino
 kasino 24
 kasino bonus
@@ -31527,10 +31543,12 @@ klub.ro
 klub.ru
 klub.su
 klub.za
+klubnaya
 klubnozh
 kluczowa witamin
 kluczową witamin
 kluczowa-witamin
+klybnaya
 kmassage
 kmassge
 kmspico
@@ -32578,6 +32596,8 @@ lifestyle vid
 lifestyle-profic
 lifestyle-vid
 lifestylevid
+lifetime warrant
+lifetime-warrant
 lift bay near
 lift companies near
 lift company near
@@ -35094,6 +35114,8 @@ mejores-prestamo
 mejorescredito
 mejoresprestamo
 mejorprestamo
+mekha kozha
+mekha-kozha
 melatonin
 melbet_
 melbet.
@@ -37155,6 +37177,9 @@ negocio online
 negócio online
 negocio-online
 negócio-online
+negocios recupe
+negocios-recupe
+negocios/recupe
 negozi alviero
 negozi burberry
 negozi milan
@@ -39432,7 +39457,9 @@ paid-autosurf
 paid-goog
 paid-online-survey
 paid-review
+pain effortless
 pain-behind
+pain-effortless
 pain-relief
 painbehind
 painless glad
@@ -42228,6 +42255,8 @@ principen-generic
 prior-to-buying
 prioridad mas important
 prioridad más important
+priority shipping
+priority-shipping
 privacy oon
 privat amateur
 privat ftp
@@ -42364,6 +42393,8 @@ produkty z cbd
 produkty z thc
 produtos natura
 produtos-natura
+prodvijenie sait
+prodvijenie-sait
 proect
 profesionales cualificado
 profesionales-cualificado
@@ -42481,6 +42512,7 @@ program kasir
 program ppc
 program-kasir
 program-ppc
+programmy
 programs on way
 progress loan
 progress-loan
@@ -43658,6 +43690,7 @@ recoverynow
 recreation boy
 recreation-boy
 recuperate delete
+recuperate-delete
 red christ
 red head nude
 red ugg
@@ -45353,6 +45386,7 @@ safari-van-build
 safari-van-repair
 safari-van-serv
 safari-van-support
+safe and stylish
 safeguard exper
 safeguard-exper
 safeguarded exper
@@ -46514,6 +46548,8 @@ servicos prestado
 serviços prestado
 servicos-prestado
 serving to them win
+servis moskva
+servis-moskva
 servpro is near
 servpro-is-near
 serwis
@@ -51870,6 +51906,7 @@ toan-dau-tu
 toasterovensnow
 today blog
 today news
+today only!
 today-2u
 today-4u
 today-blog
@@ -52318,6 +52355,7 @@ trading-crypto
 trading-method
 trading-view
 tradingview
+tradition inno
 traditional bath design
 traditional bathroom design
 trafego pago
@@ -52633,6 +52671,9 @@ trend shop
 trend youtube
 trend-shop
 trend-youtube
+trending meteor
+trending-meteor
+trendingmeteor
 trends shop
 trends-shop
 trendshop
@@ -52770,9 +52811,10 @@ truth however
 truth teaching article
 truth-however
 truthabout
+try fitrx
 try here best
 try iit
-try itt out
+try-fitrx
 try-these
 tryiong
 tschnique
@@ -53054,6 +53096,8 @@ udang galah
 udang-galah
 uefa-fifa
 uefafifa
+ufa amb
+ufa-amb
 ufabet
 ufc중계
 ufficiale moncler
@@ -57775,6 +57819,7 @@ yours is the great
 yours nowaday
 yours-nowaday
 yourself beautiful
+yourself than word
 yourself you are
 yourself-beautiful
 yourseo
@@ -58428,6 +58473,7 @@ zyvox
 еt
 еv
 еw
+екзотични почивки
 есплатный даровой
 есплатныйдаровой
 есть сайт
@@ -58519,6 +58565,7 @@ zyvox
 клинические рекомен
 клипса антихрап
 клубах
+клубная музыка
 кнопка тревожной
 коворкинг
 команды и поклонник
@@ -58605,6 +58652,7 @@ zyvox
 мега сайт
 мегасайт
 медиа палитра
+мелбет
 менструаци
 месяц назад
 метал
@@ -58756,6 +58804,7 @@ zyvox
 перманентный макияж
 персональный
 пишите мне
+пластик кашпо
 плата
 платки батик
 платок батик
@@ -58867,6 +58916,7 @@ zyvox
 разработать игру
 разработка сайт
 разработкасайт
+раскрутка сайт
 рассылки сайт
 рґр
 рднк
@@ -58942,6 +58992,7 @@ zyvox
 сайтов
 самая крупная
 самое свежее
+самые популярные
 самый превосход
 сварных конструк
 свой сайт
@@ -58981,7 +59032,7 @@ zyvox
 сњ
 собрать li-ion
 современные техно
-создание сайта
+создание сайт
 создать сайт
 сократите риск
 сократить расходы
@@ -59044,6 +59095,7 @@ zyvox
 уже пол
 узнайте почему
 уникал скинами
+уникальным свойс
 уникальными скинами
 управляющую компан
 ура наконецто
@@ -59447,6 +59499,8 @@ zyvox
 กัญชา กฏหมาย
 กัญชา ขนมใส่
 กัญชา แนะนำ
+การ สร้างรา
+การเสี่ยงโชค
 ขนมใส่ กัญชา
 ขนมใส่กัญชา
 ขอขอบพระคุณ
@@ -59518,6 +59572,7 @@ zyvox
 โหลดแอพ
 ออนไลน์
 ไฮไลท์ฟุตบ
+ะเพิ่มโอกาส
 កាស៊ីណ
 ᥙa
 ᥙb
