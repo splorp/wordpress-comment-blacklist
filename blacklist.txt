@@ -1123,6 +1123,7 @@ _москве
 -openlink-
 -openlink.
 -openlink/
+-opt.ru
 -order-at-
 -oulu
 -outlet.
@@ -54982,6 +54983,9 @@ vod request
 vod serv
 vod-request
 vod-serv
+vodka bet
+vodka-bet
+vodkabet
 vodstreaming
 vogue toms
 vogue-toms
@@ -58501,6 +58505,7 @@ zyvox
 жизненные проблем
 жизненые проблем
 жк центральны
+жмите
 за таблетку
 забавная информация
 заболевани
