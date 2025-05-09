@@ -19,6 +19,7 @@
 /bitly.co/
 /bitly.ws/
 /biturl.top/
+/bom.so/
 /cek.li/
 /chilp.it/
 /clck.ru/
