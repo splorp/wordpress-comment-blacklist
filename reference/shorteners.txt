@@ -126,6 +126,7 @@
 /swish.st/
 /t.co/
 /t.ly/
+/t.me/
 /taraa.xyz/
 /tgi.link/
 /tiggi.es/

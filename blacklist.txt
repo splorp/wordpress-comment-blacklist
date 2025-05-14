@@ -5373,6 +5373,7 @@ _москве
 /system/
 /t.co/
 /t.ly/
+/t.me/
 /tabid/
 /tafil-
 /tafil.
