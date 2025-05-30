@@ -10835,6 +10835,7 @@ best jers
 best las vegas
 best lawyer
 best leadership book
+best link
 best local data
 best local near
 best mcm
@@ -11027,6 +11028,7 @@ bestjers
 bestlaptop
 bestlasvegas
 bestlawyer
+bestlink
 bestlocaldata
 bestlocalnear
 bestmcm
@@ -15027,6 +15029,7 @@ chat roulette
 chat sex
 chat support office
 chat tarot
+chat token
 chat video
 chat xx
 chat ԁa cam
@@ -15039,6 +15042,7 @@ chat-porn
 chat-roulette
 chat-sex
 chat-tarot
+chat-token
 chat-video
 chat-x.me
 chat-xx
@@ -15082,6 +15086,7 @@ chatterbait
 chatterbat
 chattet-bat
 chattetbat
+chattoken
 chattrtube
 chattrube
 chattur-bat
@@ -24869,6 +24874,7 @@ gambling hub
 gambling online
 gambling site
 gambling tour
+gambling web
 gambling-2-u
 gambling-2u
 gambling-4-u
@@ -24881,6 +24887,7 @@ gambling-hub
 gambling-online
 gambling-site
 gambling-tour
+gambling-web
 gambling2u
 gambling4u
 gamblingcasino
@@ -29948,6 +29955,7 @@ insurance deal
 insurance dubai
 insurance home
 insurance house
+insurance media
 insurance news
 insurance ontario
 insurance quote
@@ -29962,6 +29970,7 @@ insurance-comp
 insurance-deal
 insurance-home
 insurance-house
+insurance-media
 insurance-news
 insurance-quote
 insurance-require
@@ -32646,7 +32655,7 @@ level 50
 level business
 level disser
 level market
-level of gambling
+level of gambl
 level-50
 level-business
 level-disser
@@ -32855,6 +32864,7 @@ link directory
 link download
 link exchang
 link florida
+link for gambl
 link index
 link issue
 link juice
@@ -32862,6 +32872,7 @@ link logger
 link market
 link of this app
 link postegro
+link provid
 link pyramid
 link redirect
 link right here
@@ -32890,6 +32901,7 @@ link-directory
 link-download
 link-exchang
 link-florida
+link-for-gambl
 link-go
 link-index
 link-issue
@@ -32898,6 +32910,7 @@ link-link
 link-logger
 link-market
 link-postegro
+link-provid
 link-pyramid
 link-redirect
 link-sale
@@ -32957,12 +32970,15 @@ linkman
 linkmarket
 linkout
 linkpage
+linkprovid
 linkpyramid
 linkredirect
 links exchang
+links for gambl
 links sale
 links seller
 links-exchang
+links-for-gambl
 links-sale
 links-seller
 links: prof
@@ -42236,7 +42252,7 @@ premium cig
 premium digit
 premium dignit
 premium free
-premium gambling
+premium gambl
 premium improve
 premium key
 premium out
@@ -42250,7 +42266,7 @@ premium-cig
 premium-digit
 premium-dignit
 premium-free
-premium-gambling
+premium-gambl
 premium-key
 premium-out
 premium-wiet
@@ -47172,6 +47188,8 @@ shapshare
 share - point
 share and sub
 share for social
+share in this blog
+share in this post
 share market info
 share of register
 share ones article
@@ -49497,7 +49515,9 @@ strikeoutfootbal
 strikeoutfotbal
 strikeoutfutbal
 strip life
+strip-chat
 strip-club
+stripchat
 stripclub
 striplife
 stripper new
