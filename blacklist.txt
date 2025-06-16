@@ -8594,6 +8594,7 @@ and shate
 and-denims
 and-shate
 and-special
+and|and|and
 andcloth
 andcoupon
 andd also
@@ -12170,6 +12171,7 @@ bonus casino
 bonus chip
 bonus code
 bonus for all user
+bonus kodu
 bonus money
 bonus selamat
 bonus setiap
@@ -12179,6 +12181,7 @@ bonus-bet-win
 bonus-casino
 bonus-chip
 bonus-code
+bonus-kodu
 bonus-money
 bonus-selamat
 bonus-setia
@@ -26483,10 +26486,12 @@ grateest
 gratifying operate
 gratifying-operate
 gratis coin
+gratis credit
 gratis drehung
 gratis online
 gratis sex
 gratis-coin
+gratis-credit
 gratis-drehung
 gratis-online
 gratis-sex
@@ -30031,6 +30036,7 @@ insurance media
 insurance news
 insurance ontario
 insurance quote
+insurance ratings
 insurance require
 insurance special
 insurance-auto
@@ -30046,10 +30052,14 @@ insurance-market
 insurance-media
 insurance-news
 insurance-quote
+insurance-ratings
 insurance-require
 insurance-special
 insurance%20claim
 insurance%20settle
+insurance10
+insurance20
+insurance30
 insuranceauto
 insurancecar
 insurancecheap
@@ -31856,6 +31866,11 @@ kode syair
 kode-kupon
 kode-syair
 kodekupon
+kodu pin up
+kodu pin-up
+kodu pinup
+kodu-pin-up
+kodu-pinup
 koin slot
 koin-slot
 koinslot
@@ -33156,6 +33171,7 @@ live video chat
 live-article
 live-gore
 live-hack
+live-jasmin
 live-naked
 live-now-fox
 live-odds
@@ -33170,6 +33186,7 @@ livebox-live
 livefree
 livegore
 livehack
+livejasmin
 liveledgerlive
 livelive.ru
 livenaked
@@ -41029,8 +41046,11 @@ pimples free
 pimples-free
 pin dump
 pin up azer
+pin up bonus
 pin-dump
+pin-up bonus
 pin-up-azer
+pin-up-bonus
 pin, dump
 pine-and-onyx
 ping your self
@@ -41043,10 +41063,12 @@ pins-dump
 pinterest freetalk
 pinterest-freetalk
 pinup azer
+pinup bonus
 pinup-100
 pinup-200
 pinup-300
 pinup-azer
+pinup-bonus
 pinup100
 pinup200
 pinup300
@@ -59172,6 +59194,7 @@ zyvox
 надежных партнер
 надежных свай
 найти человека
+найти это прог
 накрутка подписчик
 направления роста
 наркозависи
@@ -59456,6 +59479,7 @@ zyvox
 сайт даркнет
 сайт очень
 сайт рассылки
+сайт создав
 сайт союза
 сайт ссср
 сайте
