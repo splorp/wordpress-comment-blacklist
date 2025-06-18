@@ -9250,6 +9250,7 @@ artisanplombier
 artiucle
 artsilec
 artykul
+artykuł
 as amazingness
 as by guile
 as currently whatever
@@ -10959,6 +10960,7 @@ best-priced
 best-probiotic
 best-promo
 best-prostate
+best-psychic
 best-real
 best-rv-repair
 best-sandal
@@ -11053,6 +11055,7 @@ bestpricebuy
 bestpricesbuy
 bestprobiotic
 bestpromo
+bestpsychic
 bestreal
 bestsalesell
 bestseller for free
@@ -20217,10 +20220,9 @@ dora-scrum
 doradobet
 dorascrum
 dos-seios
-doskonaly artykul
-doskonały artykuł
 dostavka rakov
 dostavka-rakov
+dostavka.ru
 dostenex
 dostinex
 dosug intim
@@ -20744,6 +20746,10 @@ e.d. pill
 e.d.pill
 e.i'
 e.i’
+e2bet game
+e2bet today
+e2bet-game
+e2bet-today
 e2betgame
 each great source
 each time it reveal
@@ -31084,9 +31090,11 @@ john-varvatos
 johnhme
 join for free
 join super
+join the excit
 join-411
 join-for-free
 join-super
+join-the-excit
 join411
 joinsuper
 joint genesis
@@ -31671,6 +31679,7 @@ king-slot
 kingaibot
 kinghack
 kingpharm
+kingprotocol
 kingrank
 kinh doanh
 kinh-doanh
@@ -32167,6 +32176,7 @@ kwatery w centrum
 kwatery-w-centrum
 ky-tot
 kỳ-tốt
+kyros.lat
 kzits.in
 kе
 k�
@@ -38110,6 +38120,7 @@ ntc-33
 ntc33
 nu coin
 nu-coin
+nucleusearn
 nucoin
 nude erotic
 nude girl
@@ -38525,6 +38536,7 @@ oferta internet
 oferta similar
 oferta-internet
 oferta-similar
+off + free
 off blog
 offensive security
 offensive-security
@@ -43064,6 +43076,7 @@ proteinbene
 proteindiet
 proteinpulver
 proteintozu
+protocol.biz
 prova da oab
 prova-da-oab
 provase concur
@@ -47400,6 +47413,9 @@ shares site
 shares-site
 sharesite
 sharessite
+shariki shop
+shariki-shop
+sharikishop
 sharing for social
 sharing site
 sharing this greatest
@@ -47418,6 +47434,7 @@ sharing, great web
 sharing, great writing
 sharingsite
 sharply-wrong
+shary-dostavka
 shate thou
 shate-thou
 shazam full
@@ -48491,6 +48508,7 @@ smaller post
 smaller-article
 smaller-content
 smaller-post
+smallworldcup
 smarketo bonus
 smarketo program
 smarketo review
@@ -56556,6 +56574,9 @@ whois-tool
 whoiscall
 whoistool
 whole lot of gentle
+whole thing about that
+whole thing about the
+whole thing about this
 whole thing regarding
 wholesale acrylic
 wholesale bag
@@ -56830,6 +56851,7 @@ with adword
 with amazingness
 with blog comment
 with declare
+with e2bet
 with genuine argu
 with imminent post
 with keto diet
@@ -56858,6 +56880,7 @@ with-adword
 with-big-ass
 with-body-weight
 with-declare
+with-e2bet
 with-healthy-living
 with-my-blog
 with-my-page
@@ -57850,7 +57873,9 @@ yoou could
 yoou have
 yoou mind
 yoou should
+yoou wfote
 yoou will
+yoou wrote
 yoour blog
 yoour business
 yoour info
@@ -59339,6 +59364,7 @@ zyvox
 популярных туров
 популярных экскурс
 попытать успехи
+порадуйтете своих
 порно
 портал
 посетител
