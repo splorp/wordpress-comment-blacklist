@@ -3859,6 +3859,7 @@ _москве
 /diamondband/
 /diary-
 /diary.
+/did.li/
 /diesel-
 /diet.
 /dieta.
