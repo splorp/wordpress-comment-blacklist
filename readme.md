@@ -74,7 +74,7 @@ The blocklist is not applied against HTML tag attributes found in comments, only
 
 **User Agent Strings**
 
-According to the WordPress [Discussion Settings Screen](https://wordpress.org/support/article/settings-discussion-screen/) documentation, a comment will be marked spam if any of the [Disallowed Comment Keys](https://wordpress.org/documentation/article/comment-moderation/#comment-blocking) terms are found in the comment content, name, URL, email, or IP address fields. Surprisingly, WordPress also applies the blocklist against the [user agent](https://en.wikipedia.org/wiki/User_agent) string.
+According to the WordPress [Discussion Settings Screen](https://wordpress.org/support/article/settings-discussion-screen/) documentation, a comment will be marked spam if any of the terms in the [Disallowed Comment Keys](https://wordpress.org/documentation/article/comment-moderation/#comment-blocking) are found in the comment content, author name, URL, email, IP address, or browser [user agent](https://en.wikipedia.org/wiki/User_agent) string.
 
 For example, an earlier version of the blocklist contained the keywords `/4.` and `/5.` to flag URLs with sequentially numbered pages with various file extensions. Unfortunately, these two benign-looking keywords also flagged comments containing common user agent strings, such as `Mozilla/4.0` and `Chrome/5.0`. In other words, nearly every single comment was flagged as spam, regardless of its content or whether the commenter had been previously approved.
 
