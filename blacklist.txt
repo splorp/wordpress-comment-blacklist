@@ -36,6 +36,7 @@ _campaign
 _cannabis
 _cartier
 _casino
+_cazino
 _chaussure
 _cheap
 _cheat
@@ -68,6 +69,7 @@ _heuer
 _http
 _jclick
 _jord
+_kasino
 _lacoste
 _latisse
 _lesbian
@@ -171,6 +173,7 @@ _москве
 --cannabis
 --cartier
 --casino
+--cazino
 --cheap
 --cheat
 --choles
@@ -199,6 +202,7 @@ _москве
 --http
 --insta
 --jack
+--kasino
 --lacoste
 --latisse
 --lesbian
@@ -535,6 +539,9 @@ _москве
 -casino-
 -casino.
 -casino/
+-cazino-
+-cazino.
+-cazino/
 -cell-phone-
 -cell-phone.
 -cell-phone/
@@ -961,6 +968,9 @@ _москве
 -kartridzhej-
 -kartridzhej.
 -kartridzhej/
+-kasino-
+-kasino.
+-kasino/
 -kontakt-
 -kontakt.
 -kontakt/
@@ -3065,6 +3075,7 @@ _москве
 //bitcoin
 //buy
 //casino
+//cazino
 //cheap
 //cialis
 //click
@@ -3080,6 +3091,7 @@ _москве
 //hgh
 //images/
 //income
+//kasino
 //leverage
 //linkm
 //onsale
@@ -3639,6 +3651,9 @@ _москве
 /casino/
 /categories-
 /category-
+/cazino-
+/cazino.
+/cazino/
 /cek.li/
 /celine/
 /cell-phone-
@@ -4486,6 +4501,9 @@ _москве
 /kartridzhej-
 /kartridzhej.
 /kartridzhej/
+/kasino-
+/kasino.
+/kasino/
 /kitchenknife-
 /kitchenknife.
 /kitchenknives-
@@ -5900,6 +5918,7 @@ _москве
 +build
 +campaign
 +casino
++cazino
 +celine
 +cheap
 +christ
@@ -5949,6 +5968,7 @@ _москве
 +java
 +jers
 +jord
++kasino
 +key
 +kino
 +kit
@@ -6092,8 +6112,10 @@ $sixty
 €†
 0 best free
 0 casino
+0 cazino
 0 into $
 0 jailbreak
+0 kasino
 0 mejores escena
 00 pips
 00 preparing
@@ -6103,8 +6125,10 @@ $sixty
 00 virtual
 0-best-free
 0-casino
+0-cazino
 0-easy-way
 0-generic
+0-kasino
 0-mejores-escena
 00-pips
 00-preparing
@@ -6119,8 +6143,11 @@ $sixty
 0.5 mg
 0.5mg
 000.biz
+0.casino
+0.cazino
 000.co
 000.in
+0.kasino
 000.nu
 000.pl
 000.ro
@@ -6164,19 +6191,23 @@ $sixty
 1 addict
 1 appli
 1 casino
+1 cazino
 1 day only!
 1 de drone
 1 into $
 1 jailbreak
+1 kasino
 1 of the
 1 powerful
 01 spiele
 1_de_drone
 1-1.
 1-casino
+1-cazino
 1-de-drone
 1-easy-way
 1-generic
+1-kasino
 1-powerful
 01-spiele
 1-the-best
@@ -6190,7 +6221,10 @@ $sixty
 1.0mg
 1.5 mg
 1.5mg
+1.casino
+1.cazino
 1.in
+1.kasino
 1.zero
 1@1
 1@2
@@ -6251,16 +6285,20 @@ $sixty
 1вин
 2 appli
 2 casino
+2 cazino
 2 into $
 2 jailbreak
+2 kasino
 2 powerful
 2 to 1 win
 2-1 win
 2-buy
 2-casino
+2-cazino
 2-easy-way
 2-generic
 2-global
+2-kasino
 2-powerful
 2-the-best
 2,0 mg
@@ -6273,7 +6311,10 @@ $sixty
 2.0mg
 2.5 mg
 2.5mg
+2.casino
+2.cazino
 2.in
+2.kasino
 2.zero
 2@1
 2@2
@@ -6288,6 +6329,7 @@ $sixty
 2buy
 2c.in
 2casi
+2cazino
 2ciga
 2comm
 2comp
@@ -6306,6 +6348,7 @@ $sixty
 2k20 vc
 2k20-vc
 2k20vc
+2kasino
 2lear
 2mil e-mail
 2mil email
@@ -6331,17 +6374,24 @@ $sixty
 2you
 2zoop
 3 casino
+3 cazino
 3 into $
 3 jailbreak
+3 kasino
 3 powerful
 3-casino
+3-cazino
 3-easy-way
 3-generic
+3-kasino
 3-powerful
 3-the-best
 3…?
 3.@
+3.casino
+3.cazino
 3.in
+3.kasino
 3.zero
 3@1
 3@2
@@ -6351,6 +6401,7 @@ $sixty
 3arge
 3arti
 3casi
+3cazino
 3ciga
 3comm
 3comp
@@ -6367,6 +6418,7 @@ $sixty
 3heal
 3inop
 3j3j3
+3kasino
 3lear
 3mil e-mail
 3mil email
@@ -6393,12 +6445,14 @@ $sixty
 4 boost
 4 cash
 4 casino
+4 cazino
 4 cheap
 4 ever
 4 fire
 4 health
 4 into $
 4 jailbreak
+4 kasino
 4 powerful techniq
 4 purse
 4 quality
@@ -6409,6 +6463,7 @@ $sixty
 4-boost
 4-cash
 4-casino
+4-cazino
 4-cheap
 4-easy-way
 4-ever
@@ -6418,6 +6473,7 @@ $sixty
 4-hand
 4-health
 4-juice
+4-kasino
 4-less
 4-plus
 4-powerful
@@ -6431,10 +6487,14 @@ $sixty
 4-tips-on
 4-you
 4.@
+4.casino
+4.cazino
+4.kasino
 4all
 4boost
 4cash
 4casino
+4cazino
 4cheap
 4cigar
 4coin
@@ -6448,6 +6508,7 @@ $sixty
 4juice
 4k polecacie
 4k-polecacie
+4kasino
 4less
 4mil e-mail
 4mil email
@@ -6479,8 +6540,10 @@ $sixty
 4uharvoni
 4you
 5 casino
+5 cazino
 5 into $
 5 jailbreak
+5 kasino
 5 mejores escena
 5 powerful
 5 second trick
@@ -6488,19 +6551,26 @@ $sixty
 5 simple statement
 5 simple techniq
 5-casino
+5-cazino
 5-easy-way
 5-generic
+5-kasino
 5-mejores-escena
 5-second-trick
 5-simple-statement
 5-simple-techniq
 5-the-best
 5.@
+5.casino
+5.cazino
+5.kasino
 5casino
+5cazino
 5cigar
 5generic
 5hand
 5health
+5kasino
 5mil e-mail
 5mil email
 5minut
@@ -6509,62 +6579,98 @@ $sixty
 5the best
 5the-best
 6 casino
+6 cazino
 6 into $
 6 jailbreak
+6 kasino
 6-casino
+6-cazino
 6-easy-way
 6-generic
+6-kasino
 6-the-best
 6.@
+6.casino
+6.cazino
+6.kasino
 6casino
+6cazino
 6cigar
 6generic
 6hand
+6kasino
 6purse
 6the best
 6the-best
 7 casino
+7 cazino
 7 into $
 7 jailbreak
+7 kasino
 7-casino
+7-cazino
 7-easy-way
 7-generic
+7-kasino
 7-the-best
 7.@
+7.casino
+7.cazino
+7.kasino
 7casino
+7cazino
 7cigar
 7generic
 7hand
+7kasino
 7purse
 7the best
 7the-best
 8 casino
+8 cazino
 8 into $
 8 jailbreak
+8 kasino
 8-casino
+8-cazino
 8-easy-way
 8-generic
+8-kasino
 8-the-best
 8.@
+8.casino
+8.cazino
+8.kasino
 8casino
+8cazino
 8cigar
 8generic
 8hand
+8kasino
 8kbet
 8purse
 8the best
 8the-best
 9 casino
+9 cazino
 9 into $
 9 jailbreak
+9 kasino
 9-casino
+9-cazino
 9-easy-way
 9-generic
+9-kasino
 9-the-best
 9.@
+9.casino
+9.cazino
+9.kasino
 9casino
+9cazino
 9cigar
 9generic
+9kasino
 9the best
 9the-best
 9つ
@@ -6910,12 +7016,8 @@ $sixty
 789.site
 789.su
 789.za
-888 casino
 888 starz
-888-casino
 888-starz
-888.casino
-888casino
 888starz
 911.biz
 911.co
@@ -10889,6 +10991,7 @@ best cams site
 best car insurance
 best cartier
 best casino
+best cazino
 best cbd
 best cc
 best collection agency
@@ -10906,6 +11009,7 @@ best hookah
 best identified fund
 best ive discover
 best jers
+best kasino
 best las vegas
 best lawyer
 best leadership book
@@ -10978,6 +11082,7 @@ best-cams-site
 best-car-insurance
 best-cartier
 best-casino
+best-cazino
 best-cbd
 best-cc
 best-crypto
@@ -11000,6 +11105,7 @@ best-hookah
 best-identified fund
 best-identified-fund
 best-jers
+best-kasino
 best-las-vegas
 best-lawyer
 best-leadership-book
@@ -11067,6 +11173,7 @@ bestbut
 bestcartier
 bestcase
 bestcasino
+bestcazino
 bestcbd
 bestcontractor
 bestcrypto
@@ -11100,6 +11207,7 @@ bestforex
 bestgaming
 bestgasmileage
 bestjers
+bestkasino
 bestlaptop
 bestlasvegas
 bestlawyer
@@ -11141,6 +11249,7 @@ besty-promo
 bestypromo
 bet 365
 bet casino
+bet cazino
 bet kasino
 bet sport
 bet tip
@@ -11148,6 +11257,7 @@ bet win pro
 bet-88
 bet-365
 bet-casino
+bet-cazino
 bet-guru
 bet-kasino
 bet-khong
@@ -11161,6 +11271,7 @@ bet-winner
 bet88
 bet365
 betcasino
+betcazino
 betcio giri
 betcio-giri
 betes0
@@ -12242,9 +12353,11 @@ bons-resultado
 bontril
 bonus bet win
 bonus casino
+bonus cazino
 bonus chip
 bonus code
 bonus for all user
+bonus kasino
 bonus kodu
 bonus money
 bonus selamat
@@ -12253,8 +12366,10 @@ bonus site
 bonus zu beginnen
 bonus-bet-win
 bonus-casino
+bonus-cazino
 bonus-chip
 bonus-code
+bonus-kasino
 bonus-kodu
 bonus-money
 bonus-selamat
@@ -12263,8 +12378,10 @@ bonus-site
 bonus-zu-beginnen
 bonus.site
 bonuscasino
+bonuscazino
 bonuschip
 bonuscode
+bonuskasino
 bonusmoney
 bonussite
 bonusy
@@ -14611,6 +14728,7 @@ casino bet
 casino bonus
 casino buffet
 casino com
+casino depot
 casino en ligne
 casino enligne
 casino fish
@@ -14650,6 +14768,7 @@ casino-bet
 casino-bonus
 casino-buffet
 casino-com
+casino-depot
 casino-en-ligne
 casino-enligne
 casino-fish
@@ -14775,11 +14894,15 @@ cấu hình tối
 cau-hinh-toi
 cavin-klein
 cavinklein
-cazino
+cazino 24
+cazino depot
 cazino resort
 cazino sont
+cazino-24
+cazino-depot
 cazino-resort
 cazino-sont
+cazino24
 cɑ
 cbd advert
 cbd beaut
@@ -31724,8 +31847,10 @@ kashpo
 kasino
 kasino 24
 kasino bonus
+kasino depot
 kasino-24
 kasino-bonus
+kasino-depot
 kasino24
 kassino
 kasyday
@@ -40390,6 +40515,9 @@ parduodu-versla
 pareagraph
 parent university parent
 paretologic
+parfaitement a tout
+parfaitement à tout
+parfaitement-a-tout
 paris bors
 paris securis
 paris sécuris
