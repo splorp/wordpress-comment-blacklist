@@ -34710,6 +34710,9 @@ makeup-automachiaj
 makeup-incepatori
 makeup-machiaj
 makeup.bl
+making $
+making €
+making £
 making money
 making provider
 making some buck
