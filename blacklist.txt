@@ -3893,6 +3893,7 @@ _москве
 /diesel-
 /diet.
 /dieta.
+/diigo.com/
 /dior.
 /director?
 /director.ashx?
