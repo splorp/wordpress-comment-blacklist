@@ -63,6 +63,7 @@ _fick
 _forex
 _fuck
 _gabbana
+_gpcr
 _gucci
 _harvoni
 _hermes
@@ -107,6 +108,7 @@ _panties
 _panty
 _penis
 _pharm
+_plinko
 _poker
 _pokie
 _porn
@@ -1863,6 +1865,7 @@ _москве
 .asics/
 .asp%20
 .aspx%20
+.asrrss.
 .asses-
 .asses.
 .asses/
@@ -8445,6 +8448,7 @@ all4web
 allbestedmed
 allbestmed
 allcamiseta
+allcars.ee
 allcraigslist
 allergies difficult
 allincluzive
@@ -14978,6 +14982,7 @@ cbd beaut
 cbd best
 cbd cannabis
 cbd cream
+cbd edible
 cbd extract
 cbd gum
 cbd hand
@@ -14992,6 +14997,7 @@ cbd-beaut
 cbd-best
 cbd-cannabis
 cbd-cream
+cbd-edible
 cbd-extract
 cbd-gum
 cbd-hand
@@ -15367,6 +15373,8 @@ chat support office
 chat tarot
 chat token
 chat video
+chat with a live
+chat with live
 chat xx
 chat ԁa cam
 chat рer adult
@@ -15380,6 +15388,8 @@ chat-sex
 chat-tarot
 chat-token
 chat-video
+chat-with-a-live
+chat-with-live
 chat-x.me
 chat-xx
 chat-ԁa-cam
@@ -22437,6 +22447,8 @@ examine the online
 examine-this-report
 examjple
 example1.co
+examples tips
+examples-tips
 exboyfriend
 excedllent
 exceeded my desire
@@ -24089,6 +24101,8 @@ fixed-fotbal
 fixed-futbal
 fixed-match
 fixedcredit
+fixes tips
+fixes-tips
 fixing credit
 fixing-credit
 fixingcredit
@@ -26888,6 +26902,7 @@ goyard-bag
 goyard-online
 goyardbag
 goyardonline
+gpcr_
 gps-treker
 gpswificlock
 gpt blast
@@ -39842,6 +39857,7 @@ order data extract
 order forte
 order generic
 order parafon
+order tasty
 order the pizza
 order-an-essay
 order-data-extract
@@ -39849,6 +39865,7 @@ order-flower
 order-forte
 order-generic
 order-parafon
+order-tasty
 order-the-pizza
 ordered by his grasp
 orderflower
@@ -41925,6 +41942,10 @@ pliage-shop
 pliagebag
 pliagecuir
 pliageshop
+plinko slot
+plinko_
+plinko-slot
+plinkoslot
 plombier d'urgence
 plombier d’urgence
 plombier durgence
@@ -43783,6 +43804,12 @@ psychclinic
 psychedelic parent
 psychedelic-parent
 psychedelicparent
+psychic chat
+psychic today
+psychic-chat
+psychic-today
+psychicchat
+psychictoday
 psychological quality
 psyko shisha
 psyko-shisha
@@ -49113,6 +49140,7 @@ slot lapak
 slot machine
 slot on line
 slot online
+slot plinko
 slot pulsa
 slot qq
 slot tempat
@@ -49139,6 +49167,7 @@ slot-lapak
 slot-machine
 slot-on-line
 slot-online
+slot-plinko
 slot-pulsa
 slot-qq
 slot-tempat
@@ -49160,6 +49189,7 @@ slotlapak
 slotmachine
 slotonline
 slotpg
+slotplinko
 slotpulsa
 slotqq
 slots blackjack
@@ -50497,6 +50527,8 @@ study_room
 study-room
 studycon
 studying a publish
+studying gpcr
+studying-gpcr
 studylook
 stuff into account
 stuff you post
@@ -51515,6 +51547,8 @@ taşınma firması
 taskss
 taste was pleasant
 tastegood.co
+tasty cbd
+tasty-cbd
 tatoo cheap
 tatoo design
 tatoo remov
@@ -58654,6 +58688,10 @@ yangın çıkış
 yangın kapisi
 yangın merdiveni
 yanswer
+yantar e-team
+yantar eteam
+yantar-e-team
+yantar-eteam
 yard growing bag
 yard-growing-bag
 yarosl
@@ -60015,7 +60053,7 @@ zyvox
 куп диплом
 куп свидетел
 куп удост
-купил аттестат
+купил аттес
 купил диплом
 купить
 курс евро
@@ -60376,6 +60414,7 @@ zyvox
 рекламное
 рекламу
 рекомендации по
+рекомендую всім
 рекомендую также рекомендую
 рекомендуют врачи
 ремонт bosch
@@ -60570,6 +60609,7 @@ zyvox
 ухты
 участок_
 фабрика меха
+фанатам кібер
 фб на телефоні
 фибро показ
 филосовские мысли
