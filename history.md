@@ -4,6 +4,7 @@ A chronological list of changes, bug fixes, and other milestones
 
 ## History
 
++ 20250826 - Changed repository name to [wordpress-comment-blocklist](https://github.com/splorp/wordpress-comment-blocklist)
 + 20250824 - 62,000 entries
 + 20250620 - 61,000 entries
 + 20250317 - 60,000 entries
@@ -14,39 +15,39 @@ A chronological list of changes, bug fixes, and other milestones
 + 20240507 — 55,000 entries
 + 20240209 — 54,000 entries
 + 20231118 — 53,000 entries
-+ 20230928 — Fixed bug that affected phrases containing the terms “[nufactur](https://github.com/splorp/wordpress-comment-blacklist/commit/7efe7651b8f622e4138ced587acd4d59b9b2f0b7)” and “[meridia](https://github.com/splorp/wordpress-comment-blacklist/commit/7efe7651b8f622e4138ced587acd4d59b9b2f0b7)”, such as “manufacture” and “meridian”
++ 20230928 — Fixed bug that affected phrases containing the terms “[nufactur](https://github.com/splorp/wordpress-comment-blocklist/commit/7efe7651b8f622e4138ced587acd4d59b9b2f0b7)” and “[meridia](https://github.com/splorp/wordpress-comment-blocklist/commit/7efe7651b8f622e4138ced587acd4d59b9b2f0b7)”, such as “manufacture” and “meridian”
 + 20230818 — 52,000 entries
-+ 20230812 — Fixed bug relating to [a handful of false positives](https://github.com/splorp/wordpress-comment-blacklist/commit/883df6922a3b5e42ae45bf8d207b454a632208d3)
++ 20230812 — Fixed bug relating to [a handful of false positives](https://github.com/splorp/wordpress-comment-blocklist/commit/883df6922a3b5e42ae45bf8d207b454a632208d3)
 + 20230415 — 51,000 entries
 + 20230301 — 50,000 entries
 + 20230206 — 49,000 entries
 + 20230108 — 48,000 entries
-+ 20221021 — Fixed bug that affected comments containing a [period followed by a comma](https://github.com/splorp/wordpress-comment-blacklist/commit/26812596fc84f55a08cf58d26473522a1cac59f8)
++ 20221021 — Fixed bug that affected comments containing a [period followed by a comma](https://github.com/splorp/wordpress-comment-blocklist/commit/26812596fc84f55a08cf58d26473522a1cac59f8)
 + 20220812 — 47,000 entries
-+ 20220731 — Fixed bug that affected terms [ending with a space and a hyphen](https://github.com/splorp/wordpress-comment-blacklist/commit/fecd02ca29ebc8817ae4dac97a09153f1ccdce42)
++ 20220731 — Fixed bug that affected terms [ending with a space and a hyphen](https://github.com/splorp/wordpress-comment-blocklist/commit/fecd02ca29ebc8817ae4dac97a09153f1ccdce42)
 + 20220314 — 46,000 entries
-+ 20220217 — Fixed bug that affected valid links containing [site.co or site.in](https://github.com/splorp/wordpress-comment-blacklist/commit/ffabc58e443a7dc1a5a2f798d3b9edf252079083)
++ 20220217 — Fixed bug that affected valid links containing [site.co or site.in](https://github.com/splorp/wordpress-comment-blocklist/commit/ffabc58e443a7dc1a5a2f798d3b9edf252079083)
 + 20211124 — 45,000 entries
-+ 20210913 — Fixed bug that affected email addresses from German service provider [t-online](https://github.com/splorp/wordpress-comment-blacklist/commit/22ded9e489799be02276da25da0fa9325a9fb60f)
++ 20210913 — Fixed bug that affected email addresses from German service provider [t-online](https://github.com/splorp/wordpress-comment-blocklist/commit/22ded9e489799be02276da25da0fa9325a9fb60f)
 + 20210902 — 44,000 entries
-+ 20210705 — Removed [several terms containing number signs](https://github.com/splorp/wordpress-comment-blacklist/commit/bcc822b246ae549e4833fd20bd2685adccff6a80) to  better handle valid anchor references
++ 20210705 — Removed [several terms containing number signs](https://github.com/splorp/wordpress-comment-blocklist/commit/bcc822b246ae549e4833fd20bd2685adccff6a80) to  better handle valid anchor references
 + 20210512 — 43,000 entries
 + 20210319 — Pluginkollektiv renames the Blacklist Updater plugin to [Block List Updater](https://wordpress.org/plugins/blacklist-updater/)
-+ 20210107 — Fixed bug that affected phrases containing the term “[cialis](https://github.com/splorp/wordpress-comment-blacklist/commit/ab010aea0873cfef78bcde1f38875fa19df2e1b9)”, such as “specialist”
++ 20210107 — Fixed bug that affected phrases containing the term “[cialis](https://github.com/splorp/wordpress-comment-blocklist/commit/ab010aea0873cfef78bcde1f38875fa19df2e1b9)”, such as “specialist”
 + 20210106 — 42,000 entries
-+ 20201203 — Removed [several terms containing “online”](https://github.com/splorp/wordpress-comment-blacklist/commit/79f49938ded79e8b90d37cd90d21c9e0962e76c1) to better handle valid email domains
-+ 20200905 — Fixed bug that affected phrases containing the common character pair “[oy](https://github.com/splorp/wordpress-comment-blacklist/commit/a2357f30a8c04cf327f0cda6d823d5dad41add89)”
++ 20201203 — Removed [several terms containing “online”](https://github.com/splorp/wordpress-comment-blocklist/commit/79f49938ded79e8b90d37cd90d21c9e0962e76c1) to better handle valid email domains
++ 20200905 — Fixed bug that affected phrases containing the common character pair “[oy](https://github.com/splorp/wordpress-comment-blocklist/commit/a2357f30a8c04cf327f0cda6d823d5dad41add89)”
 + 20200626 — 41,000 entries
-+ 20200424 — Removed [generic terms containing equal signs](https://github.com/splorp/wordpress-comment-blacklist/commit/b83d8e432e550ccff4c41e1af816a3f5f6673d1d) to better handle valid search strings
++ 20200424 — Removed [generic terms containing equal signs](https://github.com/splorp/wordpress-comment-blocklist/commit/b83d8e432e550ccff4c41e1af816a3f5f6673d1d) to better handle valid search strings
 + 20200406 — 40,000 entries
 + 20200112 — 39,000 entries
 + 20191113 — 38,000 entries
-+ 20190926 — Refactored [generic terms containing underscores](https://github.com/splorp/wordpress-comment-blacklist/commit/10afaf88e3995e3336c8d2688c4dfc8901779a0a) to better handle valid wiki links
++ 20190926 — Refactored [generic terms containing underscores](https://github.com/splorp/wordpress-comment-blocklist/commit/10afaf88e3995e3336c8d2688c4dfc8901779a0a) to better handle valid wiki links
 + 20190915 — 37,000 entries
 + 20190820 — Ben Gillbanks’ [WP Toolbelt](https://github.com/BinaryMoon/wp-toolbelt) plugin released
 + 20190726 — 36,000 entries
-+ 20190721 — Fixed bug that affected comments containing the common term “[product](https://github.com/splorp/wordpress-comment-blacklist/commit/1e6264186298ff8f573c4401d7fe10aa70f5917f)”
-+ 20190720 — Fixed bug that affected comments containing the common term “[while](https://github.com/splorp/wordpress-comment-blacklist/commit/dc42a98623998d591c426dab2a05c0780088b3a5)”
++ 20190721 — Fixed bug that affected comments containing the common term “[product](https://github.com/splorp/wordpress-comment-blocklist/commit/1e6264186298ff8f573c4401d7fe10aa70f5917f)”
++ 20190720 — Fixed bug that affected comments containing the common term “[while](https://github.com/splorp/wordpress-comment-blocklist/commit/dc42a98623998d591c426dab2a05c0780088b3a5)”
 + 20190420 — 35,000 entries
 + 20190217 — Apasionados’ [Comment Blacklist Updater](https://wordpress.org/plugins/comment-blacklist-updater/) plugin released
 + 20190212 — 34,000 entries
@@ -55,13 +56,13 @@ A chronological list of changes, bug fixes, and other milestones
 + 20181102 — 31,000 entries
 + 20180729 — 30,000 entries
 + 20180630 — 29,000 entries
-+ 20180602 — Fixed bug that affected comments containing [exuberant punctuation](https://github.com/splorp/wordpress-comment-blacklist/commit/6d12aefc6d07ccf69b62fb893e203dc53b9a47a6)
++ 20180602 — Fixed bug that affected comments containing [exuberant punctuation](https://github.com/splorp/wordpress-comment-blocklist/commit/6d12aefc6d07ccf69b62fb893e203dc53b9a47a6)
 + 20180523 — 28,000 entries
 + 20180410 — 27,000 entries
 + 20180210 — 26,000 entries
 + 20171009 — 25,000 entries
 + 20170422 — 24,000 entries
-+ 20170111 — Fixed bug that affected comments containing the common term “[port](https://github.com/splorp/wordpress-comment-blacklist/commit/2e4b912784ba9ed83c5c64be754948ce0f427f0c)”
++ 20170111 — Fixed bug that affected comments containing the common term “[port](https://github.com/splorp/wordpress-comment-blocklist/commit/2e4b912784ba9ed83c5c64be754948ce0f427f0c)”
 + 20161013 — 23,000 entries
 + 20160518 — 22,000 entries
 + 20160224 — [WordPress Simple Firewall](https://web.archive.org/web/20140528233831/http://wordpress.org/plugins/wp-simple-firewall/) plugin rebranded as [Shield](https://www.icontrolwp.com/blog/shield-wordpress-simple-security-firewall-pro/)
@@ -73,7 +74,7 @@ A chronological list of changes, bug fixes, and other milestones
 + 20150313 — 17,000 entries
 + 20150108 — 16,000 entries
 + 20141214 — 15,000 entries
-+ 20141124 — Fixed bug that affected [IPv6 localhost addresses](https://github.com/splorp/wordpress-comment-blacklist/commit/5b988691b690595ba2518532b7a90a0b80c6a4f0)
++ 20141124 — Fixed bug that affected [IPv6 localhost addresses](https://github.com/splorp/wordpress-comment-blocklist/commit/5b988691b690595ba2518532b7a90a0b80c6a4f0)
 + 20141115 — 14,000 entries
 + 20141011 — 13,000 entries
 + 20140911 — Added to the [Combating Comment Spam](https://codex.wordpress.org/Combating_Comment_Spam) section of the WordPress [Codex](https://codex.wordpress.org/)
@@ -87,8 +88,8 @@ A chronological list of changes, bug fixes, and other milestones
 + 20140324 — 9,000 entries
 + 20140206 — 8,000 entries
 + 20131215 — 7,000 entries
-+ 20131122 — Fixed bug that affected most [user agent strings](https://github.com/splorp/wordpress-comment-blacklist/commit/fa4560517df88b628aeb19ce2c838c37ebfafb29)
-+ 20131105 — Migrated project to [GitHub](https://github.com/splorp/wordpress-comment-blacklist)
++ 20131122 — Fixed bug that affected most [user agent strings](https://github.com/splorp/wordpress-comment-blocklist/commit/fa4560517df88b628aeb19ce2c838c37ebfafb29)
++ 20131105 — Migrated project to [GitHub](https://github.com/splorp/wordpress-comment-blocklist)
 + 20131020 — 6,000 entries
 + 20130911 — 5,000 entries
 + 20130715 — 4,000 entries

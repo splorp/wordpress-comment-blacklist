@@ -4,13 +4,13 @@
 
 Since 2011, I have painstakingly identified, compiled, and optimized over 62,000 phrases, patterns, and keywords commonly used by spammers and comment bots in usernames, email addresses, link text, and URIs. As with all compilations, this blocklist is a work in progress and there will always be room for improvement and optimization.
 
-Suggestions and bug reports are certainly appreciated. Please use the [issue tracker](https://github.com/splorp/wordpress-comment-blacklist/issues) to let me know.
+Suggestions and bug reports are certainly appreciated. Please use the [issue tracker](https://github.com/splorp/wordpress-comment-blocklist/issues) to let me know.
 
 ## How Do I Use It?
 
 **Manual Installation**
 
-Copy the list of keywords found in the [blacklist.txt](https://raw.githubusercontent.com/splorp/wordpress-comment-blacklist/master/blacklist.txt) file, paste it into the [Disallowed Comment Keys](https://wordpress.org/support/article/comment-moderation/#comment-blocking) field of your WordPress [Discussion Settings](https://wordpress.org/support/article/settings-discussion-screen/) panel, and click the “Save Changes” button.
+Copy the list of keywords found in the [blacklist.txt](https://raw.githubusercontent.com/splorp/wordpress-comment-blocklist/master/blacklist.txt) file, paste it into the [Disallowed Comment Keys](https://wordpress.org/support/article/comment-moderation/#comment-blocking) field of your WordPress [Discussion Settings](https://wordpress.org/support/article/settings-discussion-screen/) panel, and click the “Save Changes” button.
 
 Note that the Disallowed Comment Keys field was previously named [Comment Blocklist](https://wordpress.org/support/article/settings-discussion-screen/#comment-blocklist) in WordPress 5.4 and [Comment Blacklist](https://codex.wordpress.org/Combating_Comment_Spam#Comment_Blacklist) in WordPress 5.3 and earlier.
 
@@ -18,7 +18,7 @@ Repeat this procedure each time you want to install an updated version of the bl
 
 **Automatic Updates Via Plugin**
 
-If you prefer a more hands-off approach, there are several plugins that will check whether the [master blocklist](https://raw.github.com/splorp/wordpress-comment-blacklist/master/blacklist.txt) has changed and then automatically install the most recent version. How handy is that?
+If you prefer a more hands-off approach, there are several plugins that will check whether the [master blocklist](https://raw.github.com/splorp/wordpress-comment-blocklist/master/blacklist.txt) has changed and then automatically install the most recent version. How handy is that?
 
 + [Block List Updater](https://wordpress.org/plugins/blacklist-updater/) by [Pluginkollektiv](https://pluginkollektiv.org/)
 + [Comment Blacklist Manager](https://wordpress.org/plugins/comment-blacklist-manager/) by [Andrew Norcross](https://github.com/norcross)
@@ -49,7 +49,7 @@ Note that the `disallowed_keys` option was previous named `blacklist_keys` in Wo
 
 **URL Shorteners**
 
-As mentioned above, the keywords in the blocklist are based on spam submitted to my own sites. Spammers often utilize the [obscuring capabilities of URL shorteners](http://certmag.com/spammers-storm-url-shortening-services/) to hide their nefarious links. Therefore, I have included a handful of [URL shortener domains](https://raw.githubusercontent.com/splorp/wordpress-comment-blacklist/master/reference/shorteners.txt) in the blocklist. For all practical purposes, there’s no need for a comment to include a shortened URL, as unmodified links can be easily formatted using HTML. If you find that your visitors are using shortened URLs on a regular basis, you may wish to remove some or all of [these domains](https://raw.githubusercontent.com/splorp/wordpress-comment-blacklist/master/reference/shorteners.txt) from the blocklist.
+As mentioned above, the keywords in the blocklist are based on spam submitted to my own sites. Spammers often utilize the [obscuring capabilities of URL shorteners](http://certmag.com/spammers-storm-url-shortening-services/) to hide their nefarious links. Therefore, I have included a handful of [URL shortener domains](https://raw.githubusercontent.com/splorp/wordpress-comment-blocklist/master/reference/shorteners.txt) in the blocklist. For all practical purposes, there’s no need for a comment to include a shortened URL, as unmodified links can be easily formatted using HTML. If you find that your visitors are using shortened URLs on a regular basis, you may wish to remove some or all of [these domains](https://raw.githubusercontent.com/splorp/wordpress-comment-blocklist/master/reference/shorteners.txt) from the blocklist.
 
 **WordPress Links**
 
@@ -96,7 +96,7 @@ I’d also like to acknowledge [John Hughes](https://themeisle.com/blog/stop-com
 
 ## History
 
-See the [history](https://github.com/splorp/wordpress-comment-blacklist/blob/master/history.md) for a chronological list of changes, bug fixes, and other milestones.
+See the [history](https://github.com/splorp/wordpress-comment-blocklist/blob/master/history.md) for a chronological list of changes, bug fixes, and other milestones.
 
 ## License
 
@@ -104,7 +104,7 @@ Copyright © 2011–2025 Grant Hutchinson
 
 This project is licensed under the short and sweet [MIT License](https://opensource.org/licenses/MIT). This license allows you to do anything pretty much anything you want with the contents of the repository, as long as you provide proper attribution and don’t hold anyone liable.
 
-Please refer to the [license](https://github.com/splorp/wordpress-comment-blacklist/blob/master/license.txt) included with the source for more information.
+Please refer to the [license](https://github.com/splorp/wordpress-comment-blocklist/blob/master/license.txt) included with the source for more information.
 
 ## Questions?
 
